@@ -1,0 +1,27 @@
+[
+  {
+    "id": "way/444163257",
+    "name": "Pista Winner",
+    "website": "https://www.pistawinner.it/",
+    "websites": [
+      {"url": "https://www.pistawinner.it/en/rental/", "role": "rental", "name": "Pista Winner"}
+    ],
+    "phone": "+39 0141 726188",
+    "email": "info@pista-winner.com",
+    "rental": "yes",
+    "own_karts": "yes",
+    "type": "outdoor",
+    "karts": [
+      {"chassis": "Parolin", "engine": "Honda 270cc 4T", "hp": null, "class": "adult"},
+      {"chassis": "Parolin biposto", "engine": "Honda 270cc 4T", "hp": null, "class": "twin"},
+      {"chassis": null, "engine": "Rotax 125cc 2T single-speed", "hp": null, "class": "race"},
+      {"chassis": null, "engine": "Honda 200cc 4T", "hp": null, "class": "kids"}
+    ],
+    "sources": [
+      "https://www.pistawinner.it/en/rental/",
+      "https://www.pistawinner.it/wp-content/uploads/2023/03/kart-noleggio-individuale-prezzario.png",
+      "https://www.openstreetmap.org/way/444163257"
+    ],
+    "note": "Checked 2026-10-09 using the rendered official rental page and its linked tariff image. Track rental for professionals and teams is advertised. The OSM venue is tagged sport=motor, explaining omission from the initial karting extract. No driving geometry inferred from the sports-centre boundary. The official footer's address link incorrectly points to Jakarta; it was not used for coordinates. Published eligibility is inconsistent: individual rental text says over 14; the tariff image describes children from 10 for some offers; FAQ says 8 years or 130 cm for Honda 200 4T, and 16 years for 4T rental races. Confirm the applicable kart/session age and height rules directly before booking. The image URL is dated 2023/03; it remains linked today but is not a guarantee of current tariffs."
+  }
+]

@@ -10,6 +10,7 @@ From `pipeline/`, run:
 $env:PYTHONIOENCODING = 'utf-8'
 python -I test_price_rules.py
 python -I test_venue_pages.py
+python -I test_supplemental_sites.py
 python -I build.py
 ```
 
@@ -129,6 +130,36 @@ existing tariffs or general research. FG01 covers Adventure Eefde and
 Playdome: ages/heights, mixed family sessions, group formats and source dates.
 Unknown driver limits and group minima are explicitly left unverified.
 
+Verified venues missed by the initial `sport=karting` OSM extract live in
+`pipeline/sites_supplemental.json`. Preparation merges them by country,
+skipping entries whose OSM IDs already occur in the regular extract so later
+refreshes do not duplicate venues. Do not use a sports-centre boundary as
+driving geometry. Pista Winner (`way/444163257`, OSM `sport=motor`) was added
+with official fleet/tariff research R12/P12 and family/group facts FG02.
+Its linked tariff image has a 2023 path; conflicting age requirements and
+tariff freshness are explicitly disclosed, not guessed.
+
+The next discovery batch, R13/P13/FG03, applies local search terms across all
+ten countries (Kartbahn/Leihkart, kartodromo/noleggio kart, gokartbane,
+gokartbana/hyrkart, kartbaan/kartverhuur and location karting). Outcomes and
+limitations are recorded in `pipeline/research/out/discovery/D01.json`;
+nested discovery reports are not general venue-enrichment records.
+Bulk Overpass queries failed, so this is **not an exhaustive OSM scan**.
+Official rendered pages, tabs and images are inspected before importing facts;
+search-generated prices, towns and OSM IDs are only leads.
+
+This batch adds Rottal, Jesolo and Lelystad, with coordinate-based duplicate
+checks. Lelystad uses the verified OSM address node at its shared motorsport
+site, explicitly not a dedicated karting tag or driving layout; a deleted
+search-suggested way was rejected. Research refreshes Greinbach, Gokart World,
+Kalmar, Nendeln, Lyss, Fagnes and Haute Saintonge. Lyss electric karts marked
+Coming soon are not listed as available; its two pre-existing stable entries
+remain, without adding a third. Unverified Jesolo rental-tier classification
+is excluded from standard comparisons; both advertised engines are 4T, not
+assumed 2T from the word RACE. Multi-heat blocks and event visit times do not
+become continuous session durations. Lelystad rental prices remain unknown;
+Fagnes' blank tariff embed preserves earlier prices without renewing `Pc`.
+
 English, Danish and German are available for core navigation, controls and
 comparison labels. The language preference is local to the browser and also
 included as `#lang=da` / `#lang=de` in shared links and history. Venue names,
@@ -155,6 +186,13 @@ The origin deployment is `/home/ubuntu/kart-atlas-deploy` on SSH alias
 `dst-ovh`. Upload the generated page/data, `public/`, `assets/`, `.dockerignore`
 and updated deployment files, then
 rebuild/recreate only this Compose project.
+
+Windows-created tar archives can mark generated directories read-only on
+Linux. Before replacing an existing release, ensure the task-owned `public/`
+and `assets/` directories are owner-writable; restore owner access after
+extraction too. Scope permission changes only to those deployment directories.
+Keep an image and source-archive rollback before replacing the live service;
+do not change other projects or the host TLS vhost.
 
 The live hostname is `kartatlas.michaelbinger.dk`. The bootstrap host config
 also prepares `kartatlas.eu`; do **not** overwrite the active Certbot-managed

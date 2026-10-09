@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-09",
+  "method": "National-language web discovery followed by rendered official-operator inspection and current OSM identity/address verification. Search summaries are leads, not evidence.",
+  "bulk_osm_scan": "Failed: broad country/name queries timed out or returned HTTP 406/429/500. A successful known-ID Overpass query had a stale 2026-06-01 snapshot. This is not an exhaustive successful OSM scan.",
+  "countries": [
+    {"cc": "DE", "terms": ["Kartbahn", "Kartodrom", "Leihkart", "Kartsportzentrum"], "outcome": "Added Rottal: leisure=track without sport tag; verified BIREL GX270 and hire tariffs.", "ids": ["way/340141838"]},
+    {"cc": "AT", "terms": ["Kartbahn", "Leihkart", "Sportleihkart", "Go-Kart Preise"], "outcome": "Refreshed Greinbach Sodi SR5, single/group offers and height rule; rejected nonexistent psracing.at domain.", "ids": ["way/98283484"]},
+    {"cc": "IT", "terms": ["kartodromo", "noleggio kart", "pista", "kart 4 tempi"], "outcome": "Added Jesolo: sport=motor; recovered tab-only tariffs. Pista Winner in separate R12/P12/FG02 batch.", "ids": ["way/130350436", "way/444163257"]},
+    {"cc": "CH", "terms": ["Kartbahn", "Leihkart", "Mietkart", "location karting"], "outcome": "Rendered Lyss page recovered tariffs; coming-soon electric fleet removed from available fleet. Two pre-existing same-operator IDs preserved.", "ids": ["way/163895648", "relation/7225161"]},
+    {"cc": "LI", "terms": ["Kartbahn", "Elektrokart", "Preise", "Kinder"], "outcome": "Verified Nendeln electric fleet, approximate sessions, child/discount/group limits.", "ids": ["way/1006250895"]},
+    {"cc": "DK", "terms": ["gokartbane", "udlejningskart", "gokart priser", "gokart udstyr"], "outcome": "Verified Svenstrup DINO fleet and Quick Drive/Grand Prix; rejected search result town Holstebro.", "ids": ["node/4467077725"]},
+    {"cc": "SE", "terms": ["gokartbana", "hyrkart", "gokart priser", "dubbelgokart"], "outcome": "Expanded Kalmar single/blocks/twin/group offers and family limits; visit duration not used as driving time.", "ids": ["way/45484844"]},
+    {"cc": "NL", "terms": ["kartbaan", "kartverhuur", "huurkart", "kartcentrum"], "outcome": "Added Lelystad using verified shared-site address node, not a karting tag; deleted suggested way rejected. Rental amounts remain unverified.", "ids": ["node/2932410866"], "rejected_ids": ["way/27999737"]},
+    {"cc": "BE", "terms": ["karting", "kartbaan", "location kart", "kartverhuur"], "outcome": "Verified Fagnes fleet, card/hood and group facts; blank tariff embed means old verified prices retained without a new price-verification date.", "ids": ["way/94522368"]},
+    {"cc": "FR", "terms": ["piste karting", "location kart", "tarifs karting", "kart thermique"], "outcome": "Verified Haute Saintonge SR5 and rendered tariffs; ambiguously dated catalogue PDF not treated as verified.", "ids": ["way/54413439"]}
+  ],
+  "limitations": ["No country claimed complete.", "No new venue imported solely from AI search coordinates or a guessed/deleted OSM ID.", "OSM address/boundary anchors are not driving geometry.", "Unverified standard/performance tiers excluded from ordinary rental comparisons."]
+}

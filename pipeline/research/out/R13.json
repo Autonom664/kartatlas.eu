@@ -1,0 +1,103 @@
+[
+  {
+    "id": "way/340141838",
+    "name": "Kartsportzentrum Rottal",
+    "website": "https://www.kartsport-zentrum.de/",
+    "phone": "+49 8533 3325", "email": "info@kartsport-zentrum.de",
+    "rental": "yes", "own_karts": "yes", "type": "outdoor",
+    "karts": [{"chassis": "BIREL", "engine": "Honda GX270 270cc 4T", "hp": "9 PS", "class": "adult"}],
+    "sources": ["https://www.kartsport-zentrum.de/leihkarts.html", "https://www.kartsport-zentrum.de/preise.html", "https://www.kartsport-zentrum.de/strecke.html"],
+    "note": "Checked 2026-10-09. Ordinary BIREL hire karts from 12 years. Official circuit length 851 m. Own-kart day/half-day admission is not a kart-rental tariff. The EUR 10 ceremony/medals item belongs to the group section, not a universal per-driver fee."
+  },
+  {
+    "id": "way/130350436",
+    "name": "Pista Azzurra Jesolo",
+    "website": "https://pista-azzurra.com/",
+    "rental": "yes", "own_karts": "yes", "type": "outdoor",
+    "karts": [
+      {"chassis": null, "engine": "200cc 4T", "hp": null, "class": "adult"},
+      {"chassis": null, "engine": "270cc 4T", "hp": null, "class": "adult"},
+      {"chassis": null, "engine": "270cc 4T", "hp": null, "class": "twin"},
+      {"chassis": null, "engine": "50cc 4T", "hp": null, "class": "kids"}
+    ],
+    "sources": ["https://pista-azzurra.com/noleggio", "https://pista-azzurra.com/pista", "https://pista-azzurra.com/prove-libere"],
+    "note": "Checked 2026-10-09 using rendered official pages. Rental tiers are called RACE 200cc and SUPERKART 270cc; both explicitly 4T, not 2T race engines. Their standard/performance classification is unverified, so neither enters standard-adult comparisons. Junior karts use a separate junior circuit. Ten-minute ordinary rental sessions need no reservation; group requests need at least 48 hours and operator confirmation. Jesolo venue, not the similarly named Borgo Ticino track."
+  },
+  {
+    "id": "node/2932410866",
+    "name": "Kartcentrum Lelystad",
+    "website": "https://www.kartcentrumlelystad.nl/",
+    "phone": "+31 320 284021", "email": "info@kartcentrumlelystad.nl",
+    "rental": "yes", "own_karts": "yes", "type": "outdoor",
+    "karts": [
+      {"chassis": null, "engine": null, "hp": null, "class": "adult"},
+      {"chassis": null, "engine": null, "hp": null, "class": "kids"},
+      {"chassis": null, "engine": null, "hp": null, "class": "twin"}
+    ],
+    "sources": ["https://www.kartcentrumlelystad.nl/nl/tickets", "https://www.kartcentrumlelystad.nl/nl/contact", "https://www.kartcentrumlelystad.nl/nl/eigen-kart"],
+    "note": "Checked 2026-10-09. Official rental page confirms ten-minute sessions, adult/child/twin categories and shared heats. Duo prices are per two people; other sessions per person. No numerical rental tariff recovered from the booking widget: do not infer a price from search results. Own-kart visits require advance website booking, a complete race suit and sharing the track with priority rental karts; Wankel, DD2, 100cc, gearbox and electric karts are prohibited. The OSM identity is the verified shared-site address node named Midland Circuit Lelystad, not a kart-labelled feature. Deleted way/27999737 was rejected."
+  },
+  {
+    "id": "way/98283484",
+    "website": "https://ps-racing.at/", "email": "cp@ps-racing.at", "phone": "+43 664 8259024",
+    "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": "Sodi SR5", "engine": "Honda 270cc 4T", "hp": null, "class": "adult"}],
+    "sources": ["https://ps-racing.at/go-kart/"],
+    "note": "Checked 2026-10-09. Official Sportleihkart is a Sodi SR5 with Honda 270cc 4T; minimum height 140 cm. Helmet and overalls free. Keep the ordinary EUR 15 / 10-minute session separate from Bronze/Silver/Gold group formats. Animated counters initially displayed zero; no zero-length layout was imported."
+  },
+  {
+    "id": "node/4467077725",
+    "website": "https://www.gokartworld.dk/", "email": "info@gokartworld.dk", "phone": "+45 98134800",
+    "rental": "yes", "type": "indoor",
+    "karts": [{"chassis": "DINO", "engine": "Petrol 200cc", "hp": "6.5", "class": "adult"}],
+    "sources": ["https://www.gokartworld.dk/gokart/gokarts.html", "https://www.gokartworld.dk/race-priser/quick-drive.html", "https://www.gokartworld.dk/race-priser/grand-prix.html"],
+    "note": "Checked 2026-10-09 in rendered official pages. DINO 200cc petrol fleet, 6.5 hp, around 65 km/h. Marathonvej 1, Svenstrup near Aalborg, not Holstebro. Quick Drive from age 12; helmet, disposable covering, instruction and timing included. Suit hire optional DKK 25. Up to eight karts at once; arrive 15 minutes early. Grand-Prix visit time is not driving time."
+  },
+  {
+    "id": "way/45484844",
+    "name": "Kalmar Gokart / Skogstorps Motorarena",
+    "website": "https://www.kalmargokart.se/", "email": "kalmargokart@gmail.com", "phone": "+46 76 8051212",
+    "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": null, "engine": null, "hp": null, "class": "adult"}, {"chassis": null, "engine": null, "hp": null, "class": "twin"}],
+    "sources": ["https://www.kalmargokart.se/priser/", "https://www.kalmargokart.se/varbana/"],
+    "note": "Checked 2026-10-09. Official circuit 1200 m; rental drivers from 135 cm. Two-seater passenger from five years and driver from 18. Helmets/neck protection available to borrow. Fleet manufacturer and engine not stated in inspected text. Two/three-heat prices are blocks of eight-minute heats, not continuous 16/24-minute sessions. Group packages' one-hour visit duration is not one hour of driving."
+  },
+  {
+    "id": "way/1006250895",
+    "website": "https://www.kartbahn.li/", "rental": "yes", "type": "indoor",
+    "karts": [{"chassis": null, "engine": "Electric twin motors, 2 x 2.8 kW nominal", "hp": null, "class": "electric"}],
+    "sources": ["https://www.kartbahn.li/preise", "https://www.kartbahn.li/kartbahn", "https://www.kartbahn.li/kinder"],
+    "note": "Checked 2026-10-09. Indoor electric track, official length 150 m, five karts on track and ten total. Two motors do not mean a two-seater. Four remote-controlled speed settings; children from 140 cm, approximately ten years. Tariffs distinguish adults, children through age 12, student/trainee ID discounts and groups of at least ten. Eight-minute session duration is approximate."
+  },
+  {
+    "id": "way/163895648",
+    "website": "https://kartbahnlyss.ch/", "email": "info@kartbahnlyss.ch", "phone": "+41 32 3922233",
+    "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": "Sodi SR5", "engine": "Petrol 200cc", "hp": "5.5 PS", "class": "adult"}],
+    "sources": ["https://kartbahnlyss.ch/rentalKart"],
+    "note": "Checked 2026-10-09 in the rendered official rental page. Sodi SR5 petrol 200cc, 5.5 PS, 28 karts. Sodi RSX2 electric is labelled Coming soon with count zero: not an available electric fleet. Adult tariff from 16; youth 10-15. Lyssstrasse 31, 3273 Kappelen. This and relation/7225161 are pre-existing same-operator entries; no third venue added or stable identity silently removed. Twin/adaptive availability and same-heat family rules were not verified."
+  },
+  {
+    "id": "relation/7225161",
+    "website": "https://kartbahnlyss.ch/", "email": "info@kartbahnlyss.ch", "phone": "+41 32 3922233",
+    "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": "Sodi SR5", "engine": "Petrol 200cc", "hp": "5.5 PS", "class": "adult"}],
+    "sources": ["https://kartbahnlyss.ch/rentalKart"],
+    "note": "Checked 2026-10-09. Rendered official page: 28 Sodi SR5 petrol 200cc / 5.5 PS karts. RSX2 electric is Coming soon, not current availability. Adult 16+, youth 10-15. Same operator and address as pre-existing way/163895648; both stable entries retained. Twin/adaptive and shared family-heat availability not verified."
+  },
+  {
+    "id": "way/94522368",
+    "website": "https://kartingdesfagnes.be/", "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": "Sodi RT8", "engine": "390cc", "hp": null, "class": "adult"}],
+    "sources": ["https://kartingdesfagnes.be/en/reservation-rental/"],
+    "note": "Checked 2026-10-09: 42 Sodi RT8 390cc karts, advertised 75 km/h, adjustable power for children. First on-site registration requires EUR 5 for card and hood; card valid 365 days. Rental price/schedule embed remained blank: older verified prices retained without claiming today's price verification. Group rates from ten; birthday 2-for-1 within 14 days either side, with ID, is a promotion rather than ordinary comparison pricing."
+  },
+  {
+    "id": "way/54413439",
+    "website": "https://www.circuitdehautesaintonge.com/", "email": "contact@circuitdhs.com", "phone": "+33 5 46 04 08 10",
+    "rental": "yes", "type": "outdoor",
+    "karts": [{"chassis": "Sodi SR5", "engine": "270cc 4T", "hp": null, "class": "adult"}],
+    "sources": ["https://www.circuitdehautesaintonge.com/piste-kart/location-karting/"],
+    "note": "Checked 2026-10-09 in the rendered official rental page. Watt Racing Kart operates Sodi SR5 270cc 4T rentals: from 12 years AND 140 cm. Published seasonal/weekend/holiday schedule; weekday challenges for more than six people. Page labels a group catalogue 2026 while PDF URL says 2025: only page-visible tariffs used, no PDF-edition assumption."
+  }
+]

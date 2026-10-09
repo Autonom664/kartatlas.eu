@@ -1,0 +1,136 @@
+[
+  {
+    "id": "way/340141838", "checked_at": "2026-10-09",
+    "price_source": "https://www.kartsport-zentrum.de/preise.html",
+    "source": "https://www.kartsport-zentrum.de/strecke.html",
+    "prices": [
+      {"label": "BIREL Honda GX270 - 9 Minuten", "class": "adult", "type": "session", "minutes": 9, "price": 14, "currency": "EUR", "min_age": 12, "comparison_eligible": true},
+      {"label": "BIREL Honda GX270 - 18 Minuten", "class": "adult", "type": "session", "minutes": 18, "price": 28, "currency": "EUR", "min_age": 12, "comparison_eligible": true},
+      {"label": "BIREL Honda GX270 - 27 Minuten", "class": "adult", "type": "session", "minutes": 27, "price": 42, "currency": "EUR", "min_age": 12, "comparison_eligible": true},
+      {"label": "Exclusive circuit with 10 hire karts", "class": "adult", "type": "package", "minutes": null, "price": 500, "currency": "EUR", "comparison_eligible": false, "note": "Per hour for the whole circuit/ten hire karts, not EUR 500 per person or 60 driving minutes per driver."}
+    ],
+    "fees": [], "tracks": [{"name": "Main circuit", "length_m": 851, "width_m": null, "use": "rental and own-kart"}],
+    "note": "Ordinary hire sessions checked. Own-kart admission and group ceremony/medals are not rental-session fees. Width varies 7.10-9.00 m. No continuous driving geometry inferred from the OSM polygon."
+  },
+  {
+    "id": "way/130350436", "checked_at": "2026-10-09",
+    "price_source": "https://pista-azzurra.com/noleggio", "source": "https://pista-azzurra.com/pista",
+    "prices": [
+      {"label": "RACE 200cc 4T", "class": "adult", "type": "session", "minutes": 10, "price": 25, "currency": "EUR", "comparison_eligible": false, "note": "Operator says over 16. Explicitly 4T, not 2T. Standard/performance tier classification unverified; conservatively excluded from standard comparisons."},
+      {"label": "SUPERKART 270cc 4T", "class": "adult", "type": "session", "minutes": 10, "price": 35, "currency": "EUR", "comparison_eligible": false, "note": "Operator says over 18. Higher-priced 4T rental tier; standard/performance distinction unverified, not automatically treated as a 2T race kart."},
+      {"label": "SIDEKART 270cc 4T", "class": "twin", "type": "session", "minutes": 10, "price": 30, "currency": "EUR", "note": "Driver over 18, passenger over 110 cm. Charging basis not explicitly confirmed."},
+      {"label": "JUNIOR 50cc 4T", "class": "kids", "type": "session", "minutes": 10, "price": 15, "currency": "EUR", "min_height_cm": 130, "note": "Separate junior circuit; minimum height 130 cm."},
+      {"label": "RACE three-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 65, "currency": "EUR", "note": "Three ten-minute rides, not one continuous 30-minute session."},
+      {"label": "SUPERKART three-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 95, "currency": "EUR", "note": "Three ten-minute rides, not one continuous 30-minute session."},
+      {"label": "MINI GP", "class": "adult", "type": "package", "minutes": 8, "price": 40, "currency": "EUR", "extras": true, "note": "Per person, minimum eight; under eight pay minimum EUR 320. Eight-minute qualifying plus 12-lap final. Minutes are only qualifying. Operator minimum age 18; request at least 48 hours ahead, subject to confirmation."},
+      {"label": "GRAN PREMIO", "class": "adult", "type": "package", "minutes": 10, "price": 60, "currency": "EUR", "extras": true, "note": "Per person, eight to sixteen; under eight pay minimum EUR 480. Ten-minute qualifying plus two ten-lap finals. Minutes are only qualifying. Operator minimum age 18."}
+    ],
+    "fees": [], "tracks": [{"name": "Main circuit", "length_m": 1045, "width_m": 8, "use": "main circuit; juniors use a separate circuit"}],
+    "note": "Helmet and disposable covering included. All tariffs read from rendered official rental tabs. Strict over-16/over-18 wording retained in offer notes, not converted to inclusive age minima. No qualifying/lap/visit time fabricated as total driving minutes."
+  },
+  {
+    "id": "node/2932410866", "checked_at": "2026-10-09",
+    "price_source": "https://www.kartcentrumlelystad.nl/nl/tickets", "prices": [],
+    "fees": [{"name": "Balaclava when using an operator helmet", "amount": 1.5, "currency": "EUR", "mandatory": true, "period": "item", "note": "Own helmet permitted; covering compulsory when using an operator helmet. Not a universally unavoidable charge."}],
+    "note": "Official page confirms ten-minute sessions but booking widget exposes no verified numerical rental price. Fees verified separately. No invented tariff and no booking/account created."
+  },
+  {
+    "id": "way/98283484", "checked_at": "2026-10-09",
+    "price_source": "https://ps-racing.at/go-kart/",
+    "prices": [
+      {"label": "Einzelfahrt Sodi SR5", "class": "adult", "type": "session", "minutes": 10, "price": 15, "currency": "EUR", "min_height_cm": 140, "comparison_eligible": true},
+      {"label": "Bronze", "class": "adult", "type": "package", "minutes": 30, "price": 45, "currency": "EUR", "note": "Ten-minute qualifying plus twenty-minute race. Group package, not plain session."},
+      {"label": "Silver", "class": "adult", "type": "package", "minutes": 40, "price": 60, "currency": "EUR", "note": "Ten-minute practice, ten-minute qualifying, twenty-minute race. Group package."},
+      {"label": "Gold", "class": "adult", "type": "package", "minutes": 50, "price": 75, "currency": "EUR", "note": "Ten-minute practice, ten-minute qualifying, thirty-minute race. Group package."}
+    ],
+    "fees": [], "note": "Helmets and overalls free. Group ceremony by arrangement. No unverified numerical layout counters imported."
+  },
+  {
+    "id": "node/4467077725", "checked_at": "2026-10-09",
+    "price_source": "https://www.gokartworld.dk/race-priser/quick-drive.html",
+    "prices": [
+      {"label": "Quick Drive 10 min", "class": "adult", "type": "session", "minutes": 10, "price": 150, "currency": "DKK", "min_age": 12, "comparison_eligible": true},
+      {"label": "Quick Drive 20 min", "class": "adult", "type": "session", "minutes": 20, "price": 285, "currency": "DKK", "min_age": 12, "comparison_eligible": true},
+      {"label": "Quick Drive 30 min", "class": "adult", "type": "session", "minutes": 30, "price": 400, "currency": "DKK", "min_age": 12, "comparison_eligible": true},
+      {"label": "Lille Grand-Prix", "class": "adult", "type": "package", "minutes": 20, "price": 320, "currency": "DKK", "note": "Ten-minute qualifying plus ten-minute final. Separate official Grand Prix page; visit duration varies with group size."},
+      {"label": "Grand-Prix", "class": "adult", "type": "package", "minutes": 30, "price": 425, "currency": "DKK", "note": "Ten-minute qualifying plus twenty-minute final; same official Grand Prix page. Eight karts per heat; larger groups use pools."}
+    ],
+    "fees": [{"name": "Optional driving suit hire", "amount": 25, "currency": "DKK", "mandatory": false, "period": "person"}],
+    "note": "Checked Quick Drive, Grand Prix and fleet pages. Helmets/coverings, instruction and timing included. Estimated 15-20 laps per ten minutes is not a fixed-lap offer. Optional suit fee is not mandatory."
+  },
+  {
+    "id": "way/45484844", "checked_at": "2026-10-09",
+    "price_source": "https://www.kalmargokart.se/priser/", "source": "https://www.kalmargokart.se/varbana/",
+    "prices": [
+      {"label": "Stor gokart - 8 minuter", "class": "adult", "type": "session", "minutes": 8, "price": 220, "currency": "SEK", "min_height_cm": 135, "comparison_eligible": true},
+      {"label": "Stor gokart - 2 x 8 minuter", "class": "adult", "type": "package", "minutes": null, "price": 370, "currency": "SEK", "note": "Two separate eight-minute heats, not one sixteen-minute session."},
+      {"label": "Stor gokart - 3 x 8 minuter", "class": "adult", "type": "package", "minutes": null, "price": 495, "currency": "SEK", "note": "Three separate eight-minute heats."},
+      {"label": "Dubbelgokart - 8 minuter", "class": "twin", "type": "session", "minutes": 8, "price": 270, "currency": "SEK", "min_age": 18, "note": "Driver minimum 18; passenger minimum five. Charging basis not explicitly verified."},
+      {"label": "Dubbelgokart - 2 x 8 minuter", "class": "twin", "type": "package", "minutes": null, "price": 400, "currency": "SEK", "note": "Two separate eight-minute heats."},
+      {"label": "Lilla Racet", "class": "adult", "type": "package", "minutes": 8, "price": 499, "currency": "SEK", "extras": true, "note": "Eight-minute qualifying, eight-lap final and ceremony. Minutes describe qualifying only; stated one-hour visit is not driving time."},
+      {"label": "Grand Prix", "class": "adult", "type": "package", "minutes": 14, "price": 599, "currency": "SEK", "extras": true, "note": "Six-minute practice, eight-minute qualifying, ten-lap final and ceremony. Minutes exclude lap-based final."},
+      {"label": "Formula 1", "class": "adult", "type": "package", "minutes": 32, "price": 649, "currency": "SEK", "extras": true, "note": "Sixteen-minute qualifying, sixteen-minute final and ceremony. One-hour visit is not sixty minutes driving."}
+    ],
+    "fees": [], "tracks": [{"name": "Main circuit", "length_m": 1200, "width_m": null, "use": "rental"}],
+    "note": "Single/blocks/twin/group offers separately identified. Helmet and neck protection available to borrow."
+  },
+  {
+    "id": "way/1006250895", "checked_at": "2026-10-09",
+    "price_source": "https://www.kartbahn.li/preise", "source": "https://www.kartbahn.li/kartbahn",
+    "prices": [
+      {"label": "Single ride adult", "class": "adult", "type": "session", "minutes": 8, "price": 18, "currency": "CHF", "comparison_eligible": true, "note": "Approximately eight minutes."},
+      {"label": "Student / trainee ride", "class": "adult", "type": "session", "minutes": 8, "price": 16, "currency": "CHF", "comparison_eligible": false, "note": "Valid student/trainee ID required; discounted tariff."},
+      {"label": "Children through age 12", "class": "kids", "type": "session", "minutes": 8, "price": 14, "currency": "CHF", "max_age": 12, "min_height_cm": 140},
+      {"label": "Adult ten-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 145, "currency": "CHF"},
+      {"label": "Student ten-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 130, "currency": "CHF"},
+      {"label": "Children ten-ride pass", "class": "kids", "type": "package", "minutes": null, "price": 115, "currency": "CHF"},
+      {"label": "Adult group ride", "class": "adult", "type": "session", "minutes": 8, "price": 17, "currency": "CHF", "comparison_eligible": false, "note": "Group of at least ten; not ordinary individual rate."},
+      {"label": "Student group ride", "class": "adult", "type": "session", "minutes": 8, "price": 15, "currency": "CHF", "comparison_eligible": false, "note": "Group of at least ten; student discount."},
+      {"label": "Children group ride", "class": "kids", "type": "session", "minutes": 8, "price": 13, "currency": "CHF", "max_age": 12, "min_height_cm": 140, "note": "Group of at least ten."},
+      {"label": "Exclusive circuit - half hour", "class": "adult", "type": "package", "minutes": null, "price": 250, "currency": "CHF", "note": "Whole circuit with five karts; maximum three groups of approximately eight minutes, not thirty minutes per person."},
+      {"label": "Exclusive circuit - hour", "class": "adult", "type": "package", "minutes": null, "price": 500, "currency": "CHF", "note": "Whole circuit with five karts; maximum six groups of approximately eight minutes."}
+    ],
+    "fees": [], "tracks": [{"name": "Indoor circuit", "length_m": 150, "width_m": null, "use": "electric rental"}],
+    "note": "Approximate eight-minute sessions. Birthday free ride requires ID, not a paid comparison offer."
+  },
+  {
+    "id": "way/163895648", "checked_at": "2026-10-09",
+    "price_source": "https://kartbahnlyss.ch/rentalKart",
+    "prices": [
+      {"label": "Adult Sodi SR5", "class": "adult", "type": "session", "minutes": 12, "price": 25, "currency": "CHF", "min_age": 16, "comparison_eligible": true},
+      {"label": "Youth Sodi SR5", "class": "kids", "type": "session", "minutes": 12, "price": 20, "currency": "CHF", "min_age": 10, "max_age": 15},
+      {"label": "Adult twelve-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 240, "currency": "CHF"},
+      {"label": "Youth ten-ride pass", "class": "kids", "type": "package", "minutes": null, "price": 160, "currency": "CHF"},
+      {"label": "Grand Prix", "class": "adult", "type": "package", "minutes": 36, "price": 65, "currency": "CHF", "note": "Per person, minimum ten or minimum total CHF 650. Twelve minutes each of practice, qualifying and race."}
+    ],
+    "fees": [], "note": "Rendered current official page recovered previously missing tariffs. Electric RSX2 is Coming soon, not currently available. Ordinary sessions cannot be reserved."
+  },
+  {
+    "id": "relation/7225161", "checked_at": "2026-10-09",
+    "price_source": "https://kartbahnlyss.ch/rentalKart",
+    "prices": [
+      {"label": "Adult Sodi SR5", "class": "adult", "type": "session", "minutes": 12, "price": 25, "currency": "CHF", "min_age": 16, "comparison_eligible": true},
+      {"label": "Youth Sodi SR5", "class": "kids", "type": "session", "minutes": 12, "price": 20, "currency": "CHF", "min_age": 10, "max_age": 15},
+      {"label": "Adult twelve-ride pass", "class": "adult", "type": "package", "minutes": null, "price": 240, "currency": "CHF"},
+      {"label": "Youth ten-ride pass", "class": "kids", "type": "package", "minutes": null, "price": 160, "currency": "CHF"},
+      {"label": "Grand Prix", "class": "adult", "type": "package", "minutes": 36, "price": 65, "currency": "CHF", "note": "Per person, minimum ten or minimum total CHF 650. Twelve minutes each of practice, qualifying and race."}
+    ],
+    "fees": [], "note": "Same verified operator as pre-existing way/163895648; stable entries retained, no new Swiss venue added."
+  },
+  {
+    "id": "way/94522368", "checked_at": "2026-10-09",
+    "price_source": "https://kartingdesfagnes.be/en/reservation-rental/", "prices": [],
+    "note": "Fleet and EUR 5 card/hood verified, but price embed remained blank. Retain prior offers and their original verification dates; today is only a price-check attempt."
+  },
+  {
+    "id": "way/54413439", "checked_at": "2026-10-09",
+    "price_source": "https://www.circuitdehautesaintonge.com/piste-kart/location-karting/",
+    "prices": [
+      {"label": "Karting thermique SR5", "class": "adult", "type": "session", "minutes": 10, "price": 20, "currency": "EUR", "min_age": 12, "min_height_cm": 140, "comparison_eligible": true},
+      {"label": "Three ten-minute sessions", "class": "adult", "type": "package", "minutes": null, "price": 55, "currency": "EUR", "note": "For the same person on the same day; not one continuous thirty-minute session."},
+      {"label": "Formule Sprint - from", "class": "adult", "type": "package", "minutes": null, "price": 69, "currency": "EUR", "note": "Published starting price, exact format/driving duration not verified. Weekday challenges for more than six people."},
+      {"label": "Formule Endurance - from", "class": "adult", "type": "package", "minutes": null, "price": 50, "currency": "EUR", "note": "Published starting price, exact format/driving duration not verified. A rental group package, not a verified performance/2T kart."}
+    ],
+    "fees": [], "note": "Tariffs verified from rendered page, not the ambiguously dated linked PDF. Seasonal rental hours are explicitly published; check calendar before travelling."
+  }
+]

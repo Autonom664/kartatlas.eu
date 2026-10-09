@@ -1,0 +1,25 @@
+[
+  {
+    "id": "way/444163257",
+    "checked_at": "2026-10-09",
+    "website": "https://www.pistawinner.it/",
+    "rental": "yes",
+    "own_karts": "yes",
+    "price_source": "https://www.pistawinner.it/wp-content/uploads/2023/03/kart-noleggio-individuale-prezzario.png",
+    "prices": [
+      {"label": "Kart normale 4 tempi 270cc - bambini", "class": "kids", "type": "session", "minutes": 7, "price": 15, "currency": "EUR", "extras": false, "member": false, "note": "Tariff image describes this row as per i bambini da 10 anni. Child offer excluded from adult comparisons. Other official text gives different eligibility; confirm directly."},
+      {"label": "Kart normale 4 tempi 270cc", "class": "adult", "type": "session", "minutes": 15, "price": 25, "currency": "EUR", "extras": false, "member": false, "note": "Plain normal 4T rental session. Individual rental page says over 14; the tariff row has no age/height wording. Confirm applicable eligibility and current tariff before booking."},
+      {"label": "Kart competizione 2 tempi 125cc - 7 minuti", "class": "race", "type": "session", "minutes": 7, "price": 30, "currency": "EUR", "extras": false, "member": false, "note": "Competition 2T kart, not standard rental. Tariff says solo per maggiori di 16 anni; strict wording retained rather than inferred as inclusive 16+."},
+      {"label": "Kart competizione 2 tempi 125cc - 15 minuti", "class": "race", "type": "session", "minutes": 15, "price": 50, "currency": "EUR", "extras": false, "member": false, "note": "Competition 2T kart, not standard rental. Tariff says solo per maggiori di 16 anni; confirm eligibility directly."},
+      {"label": "Kart bi posto 270cc 4 tempi - 5 minuti", "class": "twin", "type": "session", "minutes": 5, "price": 15, "currency": "EUR", "extras": false, "member": false, "note": "Two-seater. Driver/passenger limits and whether tariff is per kart or per person are not stated in the image. Excluded from standard adult comparisons."},
+      {"label": "Kart bi posto 270cc 4 tempi - 15 minuti", "class": "twin", "type": "session", "minutes": 15, "price": 35, "currency": "EUR", "extras": false, "member": false, "note": "Two-seater. Driver/passenger limits and charging basis not verified."},
+      {"label": "Kart normale 4 tempi 200cc - bambini", "class": "kids", "type": "session", "minutes": 15, "price": 25, "currency": "EUR", "extras": false, "member": false, "note": "Image says children from 10 years; official FAQ instead says 8 years or 130 cm for Honda 200 4T. Conflicting limits retained as a warning, not a confirmed age/height rule."},
+      {"label": "GP light", "class": "adult", "type": "package", "minutes": 15, "laps": null, "price": 40, "currency": "EUR", "extras": true, "member": false, "note": "Per participant; 5 qualifying laps plus 15-minute GP and podium ceremony for top three. Minimum 10 participants. Minutes describe only the GP component. Group package, not a standard session."},
+      {"label": "GP standard", "class": "adult", "type": "package", "minutes": null, "laps": null, "price": 60, "currency": "EUR", "extras": true, "member": false, "note": "Per participant; 5-minute practice, 3 qualifying laps, 20-minute GP and podium ceremony for top three. Minimum 7 participants. Group package, not a standard session."}
+    ],
+    "fees": [],
+    "tracks": [],
+    "membership": null,
+    "note": "Checked 2026-10-09. Individual tariffs read from the image linked under Our rates in the official individual kart rental tab; group tariffs read from the group tab. The image URL includes 2023/03 and no new validity date is stated. Confirm prices and eligibility directly. No separate fee amount or membership requirement verified; absence of fee data does not mean a fee-free visit."
+  }
+]

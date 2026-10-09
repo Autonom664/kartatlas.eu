@@ -328,3 +328,97 @@ test("deployment assets are local and CSP no longer trusts third-party CDNs", ()
     assert.ok(fs.existsSync(path.join(root, "assets", file)));
   }
 });
+
+test("Pista Winner survives rebuild with separated standard, race and child prices", () => {
+  const winners = tracks.filter(t => t.o === "way/444163257");
+  assert.equal(winners.length, 1);
+  const venue = winners[0];
+  assert.equal(venue.n, "Pista Winner");
+  assert.equal(venue.c, "Nizza Monferrato");
+  assert.equal(venue.r, "yes");
+  assert.equal(venue.k, "outdoor");
+  assert.equal(venue.g, null, "OSM sports-centre boundary is not a driving layout");
+  assert.equal(venue.ppm, 1.67);
+  assert.equal(venue.Pc, "2026-10-09");
+  assert.equal(venue.P.length, 9);
+  const standard = venue.P.filter(p => p[18]);
+  assert.equal(standard.length, 1);
+  assert.equal(standard[0][6], 25);
+  assert.equal(standard[0][2], 15);
+  assert.ok(venue.P.filter(p => p[1] === "race").every(p => !p[18]));
+  assert.ok(venue.P.filter(p => ["kids", "twin"].includes(p[1]) || p[11] === "package").every(p => !p[18]));
+  assert.match(venue.FG.family.join(" "), /limits conflict/);
+  assert.match(venue.note, /sport=motor/);
+});
+
+test("broad discovery adds only verified missing venues without fabricated layouts", () => {
+  const additions = [
+    ["way/340141838", "DE", "Kartsportzentrum Rottal"],
+    ["way/130350436", "IT", "Pista Azzurra Jesolo"],
+    ["node/2932410866", "NL", "Kartcentrum Lelystad"]
+  ];
+  for (const [id, cc, name] of additions) {
+    const found = tracks.filter(t => t.o === id);
+    assert.equal(found.length, 1);
+    assert.equal(found[0].cc, cc);
+    assert.equal(found[0].n, name);
+    assert.equal(found[0].g, null);
+    assert.equal(found[0].r, "yes");
+    assert.ok(found[0].FG.source && found[0].FG.checked_at);
+  }
+  assert.ok(!tracks.some(t => t.o === "way/27999737"), "deleted Dutch OSM identity rejected");
+  const rottal = tracks.find(t => t.o === additions[0][0]);
+  assert.equal(rottal.len, 851);
+  assert.equal(rottal.ppm, 1.56);
+  assert.equal(rottal.P.filter(p => p[18]).length, 3);
+  const jesolo = tracks.find(t => t.o === additions[1][0]);
+  assert.equal(jesolo.len, 1045);
+  assert.ok(jesolo.P.every(p => !p[18]), "unverified rental tiers not assumed standard or 2T");
+  assert.ok(jesolo.K.every(k => !k[1] || /4T/.test(k[1])));
+  assert.ok(jesolo.K.every(k => k[4] === null), "marketing tier labels are not chassis manufacturers");
+  const dutch = tracks.find(t => t.o === additions[2][0]);
+  assert.ok(!dutch.P?.length, "no guessed rental price");
+  assert.equal(dutch.F[0][1], 1.5);
+  assert.match(dutch.F[0][6], /Own helmet permitted/);
+  assert.match(dutch.note, /shared-site address node/);
+  assert.ok(dutch.K.every(k => k[4] === null), "duokart describes seating, not a verified brand");
+});
+
+test("rendered tariff refresh separates blocks, group durations and future fleets", () => {
+  for (const id of ["way/163895648", "relation/7225161"]) {
+    const t = tracks.find(t => t.o === id);
+    assert.equal(t.Pc, "2026-10-09");
+    assert.equal(t.P.filter(p => p[18]).length, 1);
+    assert.equal(t.P.find(p => p[18])[2], 12);
+    assert.equal(t.P.find(p => p[18])[4], 25);
+    assert.ok(t.K.every(k => k[3] !== "electric"));
+    assert.match(t.note, /Coming soon/);
+  }
+  const kalmar = tracks.find(t => t.o === "way/45484844");
+  assert.equal(kalmar.P.length, 8);
+  assert.equal(kalmar.P.filter(p => p[18]).length, 1);
+  assert.ok(kalmar.P.filter(p => / x 8 /.test(p[0])).every(p => p[2] === null && !p[18]));
+  assert.equal(kalmar.P.find(p => p[0] === "Formula 1")[2], 32);
+  const nendeln = tracks.find(t => t.o === "way/1006250895");
+  assert.equal(nendeln.k, "indoor");
+  assert.equal(nendeln.P.filter(p => p[18]).length, 1);
+  assert.equal(nendeln.K[0][3], "electric");
+  const danish = tracks.find(t => t.o === "node/4467077725");
+  assert.equal(danish.K[0][4], "Dino");
+  assert.equal(danish.P.length, 5, "existing Grand Prix offers reverified and preserved");
+  assert.equal(danish.F[0][5], false, "optional suit hire not mandatory");
+  const french = tracks.find(t => t.o === "way/54413439");
+  assert.equal(french.P.find(p => p[18])[8], 12);
+  assert.equal(french.P.find(p => p[18])[10], 140);
+  const belgian = tracks.find(t => t.o === "way/94522368");
+  assert.ok(belgian.P.length);
+  assert.equal(belgian.Pa, "2026-10-09");
+  assert.notEqual(belgian.Pc, "2026-10-09", "blank price embed does not reverify old prices");
+});
+
+test("discovery research records ten countries and explicitly failed bulk scanning", () => {
+  const batch = JSON.parse(fs.readFileSync(path.join(root, "pipeline", "research", "out", "discovery", "D01.json"), "utf8"));
+  assert.deepEqual(batch.countries.map(c => c.cc).sort(), ["AT", "BE", "CH", "DE", "DK", "FR", "IT", "LI", "NL", "SE"]);
+  assert.match(batch.bulk_osm_scan, /^Failed:/);
+  assert.ok(batch.countries.every(c => c.terms.length && c.ids.length && c.outcome));
+});

@@ -93,7 +93,8 @@ test("only same-origin assets load; pages and sitemap have real routes and heade
   expect(venue.status()).toBe(200);
   expect(venue.headers()["cache-control"]).toContain("no-cache");
   const sitemap = await request.get("/sitemap.xml");
-  expect((await sitemap.text()).match(/<loc>/g)).toHaveLength(1199);
+  const data = await request.get("/kart-atlas.json");
+  expect((await sitemap.text()).match(/<loc>/g)).toHaveLength((await data.json()).length + 2);
   expect((await request.get("/venues/not-a-venue/")).status()).toBe(404);
 });
 
@@ -108,4 +109,46 @@ test("shared URLs retain language but exclude private device coordinates", async
   const copied = await page.evaluate(() => navigator.clipboard.readText());
   expect(copied).not.toMatch(/52\.123456|12\.654321|map=|town=/);
   expect(new URLSearchParams(new URL(copied).hash.slice(1)).get("lang")).toBe("da");
+});
+
+test("Pista Winner is searchable and has a working venue page and separate tariffs", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#q").fill("Pista Winner");
+  await expect(page.locator(".item[data-id]")).toHaveCount(1);
+  await page.locator(".item[data-id]").click();
+  await expect(page.locator("#detail-title")).toHaveText("Pista Winner");
+  await expect(page.getByText(/Session behind the lowest/)).toBeVisible();
+  await page.getByRole("tab", { name: "Prices", exact: true }).click();
+  await expect(page.locator("#pane-prices").getByText("Kart normale 4 tempi 270cc", { exact: false }).first()).toBeVisible();
+  await expect(page.locator("#pane-prices").getByText("Kart competizione 2 tempi 125cc - 15 minuti", { exact: false })).toBeVisible();
+  await page.goto("/venues/way-444163257/");
+  await expect(page.locator("h1")).toHaveText("Pista Winner");
+  await expect(page.getByText(/^EUR 1\.67\/min; EUR 25\.00 for 15(?:\.0)? minutes; Kart normale 4 tempi 270cc$/)).toBeVisible();
+});
+
+test("broader discovery exposes verified venues, unknown prices and recovered Swiss tariffs", async ({ page }) => {
+  for (const [name, id] of [
+    ["Kartsportzentrum Rottal", "way/340141838"],
+    ["Pista Azzurra Jesolo", "way/130350436"],
+    ["Kartcentrum Lelystad", "node/2932410866"]
+  ]) {
+    await page.goto("/");
+    await page.locator("#q").fill(name);
+    await expect(page.locator(".item[data-id]")).toHaveCount(1);
+    await page.locator(".item[data-id]").click();
+    await expect(page.locator("#detail-title")).toHaveText(name);
+    await page.goto(`/venues/${id.replace("/", "-")}/`);
+    await expect(page.locator("h1")).toHaveText(name);
+  }
+  await expect(page.getByText("No verified published prices in the atlas. This does not mean rental is unavailable.")).toBeVisible();
+  await page.goto("/#venue=way%2F130350436");
+  await page.getByRole("tab", { name: "Prices", exact: true }).click();
+  await expect(page.locator("#pane-prices").getByText("RACE 200cc 4T", { exact: false }).first()).toBeVisible();
+  await expect(page.locator("#pane-prices").getByText(/classification unverified/).first()).toBeVisible();
+  await page.goto("/venues/way-163895648/");
+  const adult = page.getByRole("row").filter({ has: page.getByRole("cell", { name: "Adult Sodi SR5", exact: true }) });
+  await expect(adult).toContainText(/12(?:\.0)? min/);
+  await expect(adult).toContainText(/25(?:\.0)? CHF/);
+  await expect(adult).toContainText("Standard comparison");
+  await expect(page.getByText(/Coming soon/).first()).toBeVisible();
 });

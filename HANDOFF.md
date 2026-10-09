@@ -2,6 +2,43 @@
 
 ## Current status (9 October 2026)
 
+Country-discovery release is live: 1,201 venue entries/pages. Four supplements
+since the prior feature release: Pista Winner (R12/P12/FG02), then Rottal,
+Pista Azzurra Jesolo and Kartcentrum Lelystad (R13/P13/FG03).
+The supplemental mechanism in prep.py deduplicates all OSM aliases against
+country extracts. Lelystad's stable ID is its verified shared-site address
+node/2932410866, not a dedicated karting feature; deleted way/27999737 was
+rejected. No supplemental venue boundaries are published as driving geometry.
+
+R13/P13/FG03 also refresh Greinbach, Gokart World, Kalmar, Nendeln, Lyss,
+Fagnes and Haute Saintonge. Ten-country search terms, outcomes and failures
+are in nested research/out/discovery/D01.json. Bulk Overpass queries failed;
+this was a bounded official-source batch, not a comprehensive OSM scan.
+Rendered pages/tabs/images recovered hidden tariffs. Search-generated claims
+were verified independently. Lyss RSX2 electric is Coming soon, not available;
+its two pre-existing same-operator IDs remain. Jesolo's RACE/SUPERKART engines
+are explicitly 4T; unverified standard/performance tiers do not enter standard
+adult comparisons. Multi-heats/packages/visit times stay separate. Lelystad
+prices remain unknown; Fagnes retains previous tariffs and check dates after
+its embed failed, with only Pa updated for the latest attempt.
+
+Validation: 26 Node cases, ten Python tests and all eleven Playwright cases
+pass against local Docker and the public site. The exact locally tested image
+was transferred to OVH, not rebuilt differently there. Published HTML SHA-256:
+7f50adf08c9232912b0ca900af16baf46580847becd35a0473402a5ee453273e.
+Public JSON confirms all four supplements and 1,201 entries. Health checks,
+TLS (89 days remaining), CSP and Nginx configuration pass. Only Kart Atlas
+was recreated; other server container IDs are unchanged.
+Rollback: backups/before-country-discovery-20261009/source.tar.gz and image
+kart-atlas:before-country-discovery-20261009. The older
+backups/before-discovery-20261009 already existed and was not overwritten.
+Pista Winner rollback remains before-pista-winner-20261009.
+Windows tar directory modes can become read-only on Linux: chmod only the
+task-owned public/assets directories owner-writable before/after extraction.
+The .eu domain, mailbox-dependent features and host TLS vhost remain untouched.
+
+Earlier feature release:
+
 Independent expansion: 1,197 static venue pages, directory, sitemap and robots
 are built under ignored `public/`. Canonical URLs use the existing live `.dk`
 domain; `.eu`, correction inbox and email alert delivery remain deferred by

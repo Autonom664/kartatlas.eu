@@ -17,8 +17,15 @@ def hav(a, b, c, d):
     return 2*R*math.asin(math.sqrt(h))
 OVR = {k: v for k, v in json.load(open(base + '/overrides.json', encoding='utf-8')).items() if not k.startswith('_')}
 out = []
+supplemental = json.load(open(base + '/sites_supplemental.json', encoding='utf-8'))
 for cc in ccs:
-    for x in json.load(open(f'{base}/sites_{cc}.json', encoding='utf-8')):
+    sites = json.load(open(f'{base}/sites_{cc}.json', encoding='utf-8'))
+    known_ids = {oid for site in sites for oid in site['osm']}
+    for site in supplemental:
+        if site['cc'] == cc and not known_ids.intersection(site['osm']):
+            sites.append(site)
+            known_ids.update(site['osm'])
+    for x in sites:
         if not (34 < x['lat'] < 72 and -11 < x['lon'] < 32): continue  # drop overseas territories
         ov = next((OVR[i] for i in x['osm'] if i in OVR), {})
         if ov.get('remove'): continue
