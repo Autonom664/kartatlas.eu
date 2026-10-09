@@ -1,0 +1,6 @@
+[
+  {"id":"way/388280270","name":"South Milano Karting (Pista South Milano)","town":"Ottobiano","country":"Italy","websites":["https://www.pistasouthmilano.it/"],"known_fleet":[["Birel","4-stroke",null,"adult"]],"has_official_lengths":false},
+  {"id":"way/347258997","name":"Kartodromo Pista Paradiso","town":"Santa Maria del Molise","country":"Italy","websites":["https://www.gokartmolise.it/"],"known_fleet":null,"has_official_lengths":false},
+  {"id":"node/6859713080","name":"Karting Eefde","town":"Eefde","country":"Netherlands","websites":["https://kartingeefde.nl"],"known_fleet":null,"has_official_lengths":false},
+  {"id":"node/13897664495","name":"Kart Centre Roosendaal","town":"Roosendaal","country":"Netherlands","websites":["https://www.kcr.nl"],"known_fleet":null,"has_official_lengths":false}
+]

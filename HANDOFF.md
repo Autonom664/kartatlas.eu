@@ -12,6 +12,14 @@ mobile navigation and shareable URLs. Older scope restrictions below and in
 Both domains are to serve the site; `.eu` activation awaits the user's DNS-ready
 confirmation. Preserve unrelated server projects and the existing TLS vhost.
 
+P10/P11 are completed follow-up price batches for eight previously unchecked
+venues. Five have recovered published prices; Franciacorta, Fondi and Pista
+Paradiso remain unverified. Original P07/P08 results are unchanged. Newer
+nonempty price/layout entries are merged by the existing enrichment pipeline.
+Cattolica's apparent EUR 3 package typo is retained with a warning and excluded
+from comparison. Lascari's uncertain kart classes and South Milano's unverified
+standard/performance distinction are explicitly excluded, not guessed.
+
 Paste this into a new Claude Code session opened in this folder:
 
 ---

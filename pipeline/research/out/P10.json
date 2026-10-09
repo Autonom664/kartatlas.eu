@@ -1,0 +1,53 @@
+[
+  {
+    "id":"way/245463137",
+    "prices":[],
+    "fees":[],
+    "membership":null,
+    "price_source":null,
+    "tracks":[],
+    "note":"Not checked: original official website inaccessible and replacement venue identity unresolved. Checked 2026-10-09. http://kartodromofranciacorta.yolasite.com/ and HTTPS both returned HTTP 403. Investigated https://www.franciacortakartingtrack.com/ including /chi-siamo/, /tariffe/, /contact/ and its official RENTAL link to https://www.gtmracerental.it/; rendered GTM /prezzi/, /chisiamo/ and /contattaci/ inspected. However assigned OSM geometry is a small circuit at 45.51399, 10.00872, whereas the GTM official embedded map identifies the new Franciacorta Karting Track near 45.51808, 10.00460. https://www.vroomkart.it/news/37211/franciacorta-karting-track-solo-rimandato-il-debutto-della-nuova-pista-bresciana distinguishes the older small circuits from the new 1300 m circuit. GTM rental tariffs and annual mandatory card, new circuit length, and own-kart-only tariffs at Franciacorta /tariffe/ deliberately NOT attached to this OSM ID. Also inspected https://www.porsche-franciacorta.it/kart/ as a possible current operator of the older complex; official E-Kart prices and 470 m track exist, but a verified link to this particular OSM geometry was not established, so those are not imported either. Search-engine results conflate the old circuit, new Franciacorta racing circuit and Porsche Experience Center; no guessed replacement. Rental prices, fees, age/height limits, memberships and official layouts for the assigned geometry remain unverified. No forms, bookings or signups submitted."
+  },
+  {
+    "id":"way/423697503",
+    "prices":[
+      {"label":"KART 400 CC - Sessione Giri Liberi","class":"adult","type":"session","minutes":10,"laps":null,"price":20,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Main track; regular kart rental, not the motorcycle offers.","comparison_eligible":true},
+      {"label":"KART 400 CC - MiniGP","class":"adult","type":"package","minutes":5,"laps":12,"price":30,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"5 minutes qualifying plus 12-lap race; minutes describe qualifying only, not total driving time."},
+      {"label":"KART 400 CC - GP","class":"adult","type":"package","minutes":5,"laps":22,"price":48,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"5 minutes qualifying plus race 1 of 10 laps and race 2 of 12 laps; minutes describe qualifying only."},
+      {"label":"KART BIPOSTO - Sessione Giri Liberi","class":"twin","type":"session","minutes":10,"laps":null,"price":35,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Main track; price listed for the biposto offer, per-person versus per-kart basis not stated."},
+      {"label":"PISTA PICCOLA - MINIKART - 1 Sessione Giri Liberi","class":"kids","type":"session","minutes":10,"laps":null,"price":18,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Shared tariff heading also covers PIT BIKE BABY, PIT BIKE BOY and MINIMOTO; minikart explicitly included. Small track for children and beginners."},
+      {"label":"PISTA PICCOLA - Kart biposto - 1 Sessione Giri Liberi","class":"twin","type":"session","minutes":10,"laps":null,"price":30,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Small track; per-person versus per-kart basis not stated."},
+      {"label":"PISTA PICCOLA - 2 Sessioni Giri Liberi","class":"other","type":"package","minutes":null,"laps":null,"price":3,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Official 2026 page literally displays EUR 3 alongside '20 Minuti / 2 Sessioni Giri Liberi'. Apparent tariff typo; exact amount retained without correction. Vehicle applicability and individual session duration not stated; 20 minutes is the listed block duration. Do not treat as a reliable cheapest offer.","comparison_eligible":false}
+    ],
+    "fees":[],
+    "membership":null,
+    "price_source":"https://www.pistadicattolica.it/listino-2026/",
+    "tracks":[
+      {"name":"Pista principale","length_m":680,"width_m":null,"use":"both"},
+      {"name":"Pista principianti","length_m":300,"width_m":null,"use":"both"}
+    ],
+    "note":"Checked 2026-10-09. Original pistacattolica.it failed DNS over HTTP and HTTPS. Verified official replacement https://www.pistadicattolica.it/ through JEEPER CROSS srl, Via Gallinelli, 47841 Cattolica, and its linked Jeepers Kart official social profiles. Rendered homepage, Listino 2026 and https://www.pistadicattolica.it/regolamento-2023/ inspected because simple fetch exposed only cookie text. Layout lengths from homepage; both permit rental and private vehicles. No numeric kart ages/heights, mandatory kart fee or membership tariff published in inspected pages; motorcycle equipment rental EUR 10/EUR 5 and private motorcycle admission excluded. Two-session EUR 3 block appears erroneous and is explicitly excluded from comparison; no guessed EUR 30 correction. No booking/contact forms submitted."
+  },
+  {
+    "id":"way/59826097",
+    "prices":[],
+    "fees":[],
+    "membership":null,
+    "price_source":null,
+    "tracks":[],
+    "note":"Not checked: official source inaccessible. Checked 2026-10-09. http://www.pistakartingfondi.com, https://www.pistakartingfondi.com and https://pistakartingfondi.com all failed DNS (host not known). Web searches for exact domain, Pista Karting Fondi, replacement website/social profiles and the atlas telephone +39 334 3770027 found directories but no verifiable current official alternative. Directory https://www.reteimprese.it/karting-go-kart-accessori/fondi/azienda/684841 inspected only as an identity lead, not a price source. Unrelated Arcobaleno results not adopted. Rental tariffs, fees, ages/heights, memberships and official track lengths remain unverified; this is not a claim of no published prices. No third-party prices used and no forms, bookings or signups submitted."
+  },
+  {
+    "id":"way/316423358",
+    "prices":[
+      {"label":"Kart 160 cc","class":"other","type":"session","minutes":10,"laps":null,"price":15,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Published 10-minute rental tariff. Price section does not explicitly associate engine size with Mini R13 or an age class; not assumed to be standard adult or a verified children's price.","comparison_eligible":false},
+      {"label":"Kart 390 cc","class":"other","type":"session","minutes":10,"laps":null,"price":20,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Published 10-minute rental tariff. Fleet R25 is listed as age 12+, minimum height 145 cm, but price section does not explicitly map R25 to 390 cc; class and numeric limits not attached by inference.","comparison_eligible":false},
+      {"label":"Kart Biposto","class":"twin","type":"session","minutes":10,"laps":null,"price":30,"currency":"EUR","extras":false,"member":false,"min_age":12,"max_age":null,"min_height_cm":145,"day":null,"note":"Biposto fleet requirements: age 12+ and 145 cm minimum; driver/passenger distinction and per-person versus per-kart price basis not specified."}
+    ],
+    "fees":[],
+    "membership":null,
+    "price_source":"https://www.kartodromolascari.it/#services",
+    "tracks":[{"name":"Pista Kartodromo Lascari","length_m":600,"width_m":null,"use":"both"}],
+    "note":"Checked 2026-10-09. Original HTTP URL redirects to current official HTTPS site. Simple fetch returned React shell; full rendered homepage inspected (services, fleet, events, map and contacts). Identity: Kartodromo Lascari, Contrada/Via Farinella, 90010 Lascari (PA). Site states 600 m headline and 'oltre 600 metri' in descriptive text; no separate layouts or width published. Racing and rental both advertised. Fleet R25: 12+ years / 145 cm; Mini R13: 6-11 years / 110 cm, with trial for 6-7 years; untouched booking dropdown inconsistently says Mini R13 8-11, so eligibility needs confirmation. Engine-to-model mapping not expressly published, therefore 160 cc age/class association remains unverified. Parties, catering, corporate events and championships advertised without published package tariffs. No mandatory fee or membership tariff found; not a guarantee of fee-free rental. No forms, bookings or signups submitted."
+  }
+]
