@@ -1,0 +1,741 @@
+[
+ {
+  "id": "way/297339947",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://thatsup.co.uk/norrkoping/activity/gokartarenan/"
+  ],
+  "note": "Venue not identified; GokartArenan (Horns väg 5, Norrköping, gokartarenan.se) is the nearest known Norrköping kart venue but not confirmed to be this track."
+ },
+ {
+  "id": "node/1780138800",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979108357162029056/motala-gokart"
+  ],
+  "note": "Only travel-directory mentions of 'Motala Gokart' found; no operator website or details."
+ },
+ {
+  "id": "way/95777914",
+  "name": "Go-karthallen (MAGP Go-kart)",
+  "type": "indoor",
+  "website": "https://magpgokart.se",
+  "websites": [
+   {
+    "url": "https://magpgokart.se",
+    "role": "rental",
+    "name": "Go-karthallen / MA Grand Prix"
+   }
+  ],
+  "phone": "+46 13 150 180",
+  "email": "mattias@magp.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "DINO",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://magpgokart.se",
+   "https://visitlinkoping.se/en/see-do/go-karthallen/"
+  ],
+  "note": "Regelgatan 5, Hackefors; 600 m track, 250 m indoors and 350 m outdoors; old domain ma-grandprix.com no longer resolves."
+ },
+ {
+  "id": "way/95564957",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.hyrgokart.com/",
+  "websites": [
+   {
+    "url": "https://www.hyrgokart.com/",
+    "role": "rental",
+    "name": "Gokartuthyrningen Linköping"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Link%C3%B6ping_Motorstadion",
+    "role": "venue",
+    "name": "Linköpings Motorstadion (Linköpings Motorsällskap)"
+   }
+  ],
+  "phone": "+46 70 811 95 75",
+  "email": "info@hyrgokart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.hyrgokart.com/",
+   "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/",
+   "https://iame-motorsport.com/news_dett.php?id=285"
+  ],
+  "note": "Rental at Linköpings Motorstadion (Sviestad, ~1010 m); regular and child karts, models not stated; track also hosts national race-kart events (IAME Series Sweden by Linköpings Motorsällskap)."
+ },
+ {
+  "id": "way/410895971",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Link%C3%B6ping_Motorstadion"
+  ],
+  "note": "242 m feature inside Linköpings Motorstadion (Sviestad) complex; probably a secondary/small track next to the main kart track, purpose not confirmed."
+ },
+ {
+  "id": "way/1417588586",
+  "name": null,
+  "type": null,
+  "website": "https://www.mskkvarnvingarna.se/",
+  "websites": [
+   {
+    "url": "https://www.mskkvarnvingarna.se/",
+    "role": "club",
+    "name": "MSK Kvarnvingarna"
+   }
+  ],
+  "phone": null,
+  "email": "styrelsen@mskkvarnvingarna.se",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.mskkvarnvingarna.se/"
+  ],
+  "note": "Linked club MSK Kvarnvingarna runs rally, folkrace, crosskart and RC racing; no karting track mentioned, may be a crosskart/RC track."
+ },
+ {
+  "id": "way/157919567",
+  "name": "Kartbahn Spreitenbach",
+  "type": "indoor",
+  "website": "https://spreitenbach.kart.ch",
+  "websites": [
+   {
+    "url": "https://spreitenbach.kart.ch",
+    "role": "rental",
+    "name": "Kartbahn Spreitenbach AG"
+   }
+  ],
+  "phone": "+41 56 419 60 60",
+  "email": "spreitenbach@kart.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Tomkart Swiss E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://spreitenbach.kart.ch",
+   "https://www.kart.ch/"
+  ],
+  "note": "320 m indoor track plus 100 m outdoor section in good weather; 28 electric karts, Family and Race classes."
+ },
+ {
+  "id": "node/6916000237",
+  "name": null,
+  "type": null,
+  "website": "https://www.spirit-karting.ch/",
+  "websites": [
+   {
+    "url": "https://www.spirit-karting.ch/",
+    "role": "other",
+    "name": "Spirit Karting AG"
+   }
+  ],
+  "phone": "+41 76 435 83 55",
+  "email": "info@spirit-karting.ch",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.spirit-karting.ch/"
+  ],
+  "note": "Kart shop, workshop and race team, not a track; its house track is Kart-Bahn Wohlen."
+ },
+ {
+  "id": "way/163933505",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahnwohlen.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartbahnwohlen.ch/",
+    "role": "venue",
+    "name": "Kart-Bahn Wohlen AG"
+   }
+  ],
+  "phone": "+41 56 622 36 47",
+  "email": "info@kartbahnwohlen.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Kinder-Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Spezial-Kart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Turbo-Kart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahnwohlen.ch/",
+   "https://www.spirit-karting.ch/"
+  ],
+  "note": "Hosts Rotax Challenge championship events; rental kart categories named by venue, models not stated."
+ },
+ {
+  "id": "node/12626201310",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found on an E-Go-Kart venue in Schöftland."
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "type": "indoor",
+  "website": "https://www.kartbasel.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartbasel.ch/",
+    "role": "rental",
+    "name": "Kart Basel"
+   }
+  ],
+  "phone": "+41 76 371 76 76",
+  "email": "events@kartbasel.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.kartbasel.ch/"
+  ],
+  "note": "Indoor electric kart track at Gartenstrasse 149, 4052 Basel; address may not match the mapped point exactly."
+ },
+ {
+  "id": "node/248875804",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.race-inn.ch/",
+  "websites": [
+   {
+    "url": "https://www.race-inn.ch/",
+    "role": "rental",
+    "name": "Race-Inn Roggwil"
+   }
+  ],
+  "phone": "+41 62 918 80 00",
+  "email": "info@race-inn.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.race-inn.ch/",
+   "https://www.freizeit.ch/freizeit/22539/race-inn-kartbahn-roggwil",
+   "https://famigros.migros.ch/de/ausfluege-und-freizeit/ausflugsziele/race-inn-roggwil-kartbahn"
+  ],
+  "note": "Largest indoor petrol kart track in Switzerland (~640 m); Famigros says members may at certain times drive their own 4-stroke kart."
+ },
+ {
+  "id": "relation/7225161",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahnlyss.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartbahnlyss.ch/",
+    "role": "venue",
+    "name": "Kartbahn Kappelen AG (Kartbahn Lyss)"
+   }
+  ],
+  "phone": "+41 32 392 22 33",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://switzerlanding.com/de/kartbahnen/",
+   "https://famigros.migros.ch/de/ausfluege-und-freizeit/ausflugsziele/kartbahn-lyss"
+  ],
+  "note": "Lyssstrasse 31, 3273 Kappelen; 750 m outdoor track with electric and petrol rental karts."
+ },
+ {
+  "id": "way/163895648",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "369 m track about 600 m from Kartbahn Lyss (Kappelen); no separate venue found, possibly part of or an older layout of Kartbahn Lyss."
+ },
+ {
+  "id": "node/835745818",
+  "name": "Expodrom (now BattleKart Murtensee)",
+  "type": null,
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.j3l.ch/en/P210930/things-to-do/sport-leisure/fun-adventure/battlekart-murtensee-coming-soon",
+    "role": "other",
+    "name": "BattleKart Murtensee"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://torpille.ch/listing/battlekart-murtensee/",
+   "https://www.j3l.ch/en/P210930/things-to-do/sport-leisure/fun-adventure/battlekart-murtensee-coming-soon"
+  ],
+  "note": "Expodrom petrol kart track closed spring 2020; building converted to BattleKart Murtensee (indoor AR electric karting, opening around 2026) and padel."
+ },
+ {
+  "id": "way/1073569368",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Meyrin; 219 m feature could not be identified."
+ },
+ {
+  "id": "way/297350976",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Travel listings mention a 'Go-Kart track' at Laax but no operator or details were found."
+ },
+ {
+  "id": "way/996303265",
+  "name": "OutdoorKart Graubünden",
+  "type": "outdoor",
+  "website": "https://www.outdoorkart.ch/",
+  "websites": [
+   {
+    "url": "https://www.outdoorkart.ch/",
+    "role": "rental",
+    "name": "OutdoorKart Graubünden (Driving Graubünden)"
+   }
+  ],
+  "phone": "+41 79 800 83 30",
+  "email": "info@outdoorkart.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.outdoorkart.ch/",
+   "https://switzerlanding.com/go-karting-switzerland/"
+  ],
+  "note": "Seasonal outdoor electric kart track in Realta industrial zone, Cazis; 450 m standard and 800 m Super Track layouts."
+ },
+ {
+  "id": "way/312103492",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Lostallo; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/106942439",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Hauterive NE; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/346520170",
+  "name": "Kartbahn Morschach (Swiss Holiday Park)",
+  "type": "outdoor",
+  "website": "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+  "websites": [
+   {
+    "url": "https://www.swissholidaypark.ch/",
+    "role": "venue",
+    "name": "Swiss Holiday Park AG"
+   }
+  ],
+  "phone": "+41 41 825 54 50",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+   "https://freizeitmonster.de/aktivitaeten/orte/swiss-holiday-park-372795"
+  ],
+  "note": "18 electric karts on former parking deck of Swiss Holiday Park; seasonal, min. age 8; kartbahn-morschach.ch did not load."
+ },
+ {
+  "id": "way/1339003084",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Tufertschwil/Lütisburg; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/1097041085",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Frauenfeld in directory listings; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "node/3005599187",
+  "name": "Motorsportzentrum Fimmelsberg",
+  "type": "indoor",
+  "website": "https://kartbahn-fimmelsberg.ch/",
+  "websites": [
+   {
+    "url": "https://kartbahn-fimmelsberg.ch/",
+    "role": "venue",
+    "name": "fimotion ag (Kartbahn Fimmelsberg)"
+   }
+  ],
+  "phone": "+41 71 651 17 75",
+  "email": "info@kartbahn-fimmelsberg.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kartbahn-fimmelsberg.ch/"
+  ],
+  "note": "420 m indoor track in a 4,000 m² hall; rental kart models not stated."
+ },
+ {
+  "id": "node/3166986261",
+  "name": null,
+  "type": null,
+  "website": "https://www.kartbahn-sulgen.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-sulgen.ch/",
+    "role": "venue",
+    "name": "Kartbahn Sulgen AG"
+   }
+  ],
+  "phone": "+41 71 642 20 20",
+  "email": "info@kartbahn-sulgen.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-sulgen.ch/",
+   "https://www.kartbahn-sulgen.ch/rennkarts-pitbikes"
+  ],
+  "note": "Indoor and outdoor track; private race karts allowed by arrangement (max 93 dB, no air-cooled 100/125cc two-strokes)."
+ },
+ {
+  "id": "way/1126111119",
+  "name": "Pista GOKART Locarno-Magadino",
+  "type": "outdoor",
+  "website": "https://www.karts.ch/",
+  "websites": [
+   {
+    "url": "https://www.karts.ch/",
+    "role": "venue",
+    "name": "Pista GOKART Locarno-Magadino"
+   }
+  ],
+  "phone": "+41 91 745 44 55",
+  "email": "info@karts.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "97cc",
+    "hp": "2.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.karts.ch/",
+   "https://switzerlanding.com/go-karting-switzerland/"
+  ],
+  "note": "Seasonal (closed Dec-Jan); site has a 'private karts' section with box booking for own karts."
+ },
+ {
+  "id": "way/186105356",
+  "name": "Karting de Payerne (Payerneland)",
+  "type": "outdoor",
+  "website": "https://www.payerneland.ch/",
+  "websites": [
+   {
+    "url": "https://www.payerneland.ch/",
+    "role": "venue",
+    "name": "Payerneland"
+   }
+  ],
+  "phone": "+41 26 660 04 60",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.payerneland.ch/",
+   "https://www.payerneland.ch/karting",
+   "https://freizeitmonster.de/blog/kartbahnen-meyrin"
+  ],
+  "note": "Outdoor Grand-Prix circuit ~1050 m plus large indoor track at Route de Berne 14; kartingindoor.ch no longer resolves."
+ },
+ {
+  "id": "relation/4298937",
+  "name": "Karting de Vuiteboeuf (Good Kart Indoor Sàrl)",
+  "type": null,
+  "website": "https://www.kartingvuiteboeuf.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartingvuiteboeuf.ch/",
+    "role": "rental",
+    "name": "Karting de Vuiteboeuf"
+   }
+  ],
+  "phone": "+41 24 459 19 22",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartingvuiteboeuf.ch/",
+   "https://switzerlanding.com/go-karting-switzerland/"
+  ],
+  "note": "Has both indoor and outdoor track views per website; kart models not stated."
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "type": null,
+  "website": "https://winterthur.kart.ch",
+  "websites": [
+   {
+    "url": "https://winterthur.kart.ch",
+    "role": "rental",
+    "name": "Tempodrom Winterthur (kart.ch)"
+   }
+  ],
+  "phone": "+41 52 204 07 00",
+  "email": "winterthur@kart.ch",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Tomkart Swiss E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://winterthur.kart.ch",
+   "https://www.kart.ch/"
+  ],
+  "note": "400 m indoor track plus 100 m outdoor track in good weather; 24 electric karts, Family/Race classes and Kids Cup."
+ }
+]

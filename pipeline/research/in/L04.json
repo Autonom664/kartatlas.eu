@@ -1,0 +1,459 @@
+[
+ {
+  "id": "relation/20669653",
+  "name": "RKC Karting Paris",
+  "town": "Cormeilles-en-Vexin",
+  "country": "France",
+  "websites": [
+   "https://rkc-karting-paris.com/",
+   "https://trophee-gentleman.com/"
+  ],
+  "mapped_length_m": 1124
+ },
+ {
+  "id": "way/792891327",
+  "name": "Cosne Karting",
+  "town": "Cosne-Cours-sur-Loire",
+  "country": "France",
+  "websites": [
+   "http://www.cosne-karting.com/"
+  ],
+  "mapped_length_m": 881
+ },
+ {
+  "id": "way/69104806",
+  "name": "Karting de Crolles",
+  "town": "Crolles",
+  "country": "France",
+  "websites": [
+   "https://kartingdecrolles.com/"
+  ],
+  "mapped_length_m": 745
+ },
+ {
+  "id": "node/5914598951",
+  "name": "Starter Park",
+  "town": "Cuges-les-Pins",
+  "country": "France",
+  "websites": [
+   "https://www.starterpark.com/"
+  ],
+  "mapped_length_m": 527
+ },
+ {
+  "id": "way/242783734",
+  "name": "OnlyKart",
+  "town": "Dagneux",
+  "country": "France",
+  "websites": [
+   "https://www.onlykart.com/"
+  ],
+  "mapped_length_m": 717
+ },
+ {
+  "id": "way/1560503900",
+  "name": "KLL Loisirs",
+  "town": "Douvrin",
+  "country": "France",
+  "websites": [
+   "https://kll.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/796566900",
+  "name": "Ardennes Karting",
+  "town": "Douzy",
+  "country": "France",
+  "websites": [
+   "https://ardenneskarting.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/126711889",
+  "name": "Kart 71",
+  "town": "Dracy-le-Fort",
+  "country": "France",
+  "websites": [
+   "https://www.kart71.com/"
+  ],
+  "mapped_length_m": 266
+ },
+ {
+  "id": "way/1540863442",
+  "name": "BattleKart",
+  "town": "Dreux",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/paris-ouest-dreux"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/296836943",
+  "name": "Circuit de Caen",
+  "town": "Démouville",
+  "country": "France",
+  "websites": [
+   "https://circuit-caen.fr/"
+  ],
+  "mapped_length_m": 1541
+ },
+ {
+  "id": "node/5523518508",
+  "name": "Stras Kart",
+  "town": "Eckbolsheim",
+  "country": "France",
+  "websites": [
+   "http://www.straskart.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/124372087",
+  "name": "Lille Karting",
+  "town": "Ennetières-en-Weppes",
+  "country": "France",
+  "websites": [
+   "https://www.lillekarting.fr/"
+  ],
+  "mapped_length_m": 817
+ },
+ {
+  "id": "way/404696632",
+  "name": "Kart Landes 40",
+  "town": "Escource",
+  "country": "France",
+  "websites": [
+   "https://kartlandes.com/",
+   "https://www.facebook.com/kartlandes40/"
+  ],
+  "mapped_length_m": 1705
+ },
+ {
+  "id": "way/98867497",
+  "name": "Karting d'Espoey (Loisirs O' d'Espoey)",
+  "town": "Espoey",
+  "country": "France",
+  "websites": [
+   "https://www.karting-espoey.com/"
+  ],
+  "mapped_length_m": 816
+ },
+ {
+  "id": "way/290666067",
+  "name": "Circuit de Bresse - Karting",
+  "town": "Frontenaud",
+  "country": "France",
+  "websites": [
+   "http://www.circuitdebresse.com"
+  ],
+  "mapped_length_m": 1479
+ },
+ {
+  "id": "way/183430322",
+  "name": "Inter Racing Kart",
+  "town": "Fréjus",
+  "country": "France",
+  "websites": [
+   "https://www.interracingkart.com/"
+  ],
+  "mapped_length_m": 937
+ },
+ {
+  "id": "way/81731257",
+  "name": "K1 Speed Lyon",
+  "town": "Genas",
+  "country": "France",
+  "websites": [
+   "https://www.k1speed.com/fr/lyon.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/196334663",
+  "name": "Manacha Kart",
+  "town": "Gerbépal",
+  "country": "France",
+  "websites": [
+   "https://www.manachakart.com/"
+  ],
+  "mapped_length_m": 704
+ },
+ {
+  "id": "way/26365237",
+  "name": "Karting Elceka",
+  "town": "Grabels",
+  "country": "France",
+  "websites": [
+   "https://kartingelceka.fr"
+  ],
+  "mapped_length_m": 1067
+ },
+ {
+  "id": "way/290677286",
+  "name": "Grimaud Karting Loisirs",
+  "town": "Grimaud",
+  "country": "France",
+  "websites": [
+   "https://www.gkl-karting.fr"
+  ],
+  "mapped_length_m": 1079
+ },
+ {
+  "id": "way/290681900",
+  "name": "Sunkart Gruissan",
+  "town": "Gruissan",
+  "country": "France",
+  "websites": [
+   "https://www.sunkart.fr/"
+  ],
+  "mapped_length_m": 552
+ },
+ {
+  "id": "node/10743412563",
+  "name": "Karting Hirson (Pit-Bike Factory)",
+  "town": "Hirson",
+  "country": "France",
+  "websites": [
+   "https://www.kartinghirson.com/"
+  ],
+  "mapped_length_m": 549
+ },
+ {
+  "id": "way/1122917959",
+  "name": "Speedkart",
+  "town": "Hyères",
+  "country": "France",
+  "websites": [
+   "https://www.speedkart.fr/"
+  ],
+  "mapped_length_m": 1542
+ },
+ {
+  "id": "way/632898494",
+  "name": "Speedkart (children's circuit)",
+  "town": "Hyères",
+  "country": "France",
+  "websites": [
+   "https://www.speedkart.fr/"
+  ],
+  "mapped_length_m": 141
+ },
+ {
+  "id": "node/12422844942",
+  "name": "K1 Speed",
+  "town": "Hérouville-Saint-Clair",
+  "country": "France",
+  "websites": [
+   "https://www.k1speed.com/fr/caen.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1192618778",
+  "name": "Made In Kart",
+  "town": "Joigny",
+  "country": "France",
+  "websites": [
+   "https://www.madeinkart.com/"
+  ],
+  "mapped_length_m": 1306
+ },
+ {
+  "id": "node/11066847282",
+  "name": "Karting City Périgord",
+  "town": "Journiac",
+  "country": "France",
+  "websites": [
+   "https://kartingcityperigord.fr/",
+   "https://univerland.eu",
+   "https://www.facebook.com/Kartingcity"
+  ],
+  "mapped_length_m": 333
+ },
+ {
+  "id": "way/1529018102",
+  "name": "Karting Mecamax",
+  "town": "L'Île-d'Olonne",
+  "country": "France",
+  "websites": [
+   "https://www.mecamax.com/"
+  ],
+  "mapped_length_m": 859
+ },
+ {
+  "id": "way/229180444",
+  "name": "La Calmette Karting",
+  "town": "La Calmette",
+  "country": "France",
+  "websites": [
+   "https://lacalmettekarting.com/"
+  ],
+  "mapped_length_m": 508
+ },
+ {
+  "id": "way/54413439",
+  "name": "Circuit de Haute Saintonge",
+  "town": "La Genétouze",
+  "country": "France",
+  "websites": [
+   "https://www.circuitdehautesaintonge.com/"
+  ],
+  "mapped_length_m": 1563
+ },
+ {
+  "id": "way/661901313",
+  "name": "Vendée Kart",
+  "town": "La Jonchère",
+  "country": "France",
+  "websites": [
+   "https://www.vendeekart.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/590746258",
+  "name": "Piste de Kart Cross du Creaux de Barret",
+  "town": "La Laupie",
+  "country": "France",
+  "websites": [
+   "http://lalaupie.com/Sport/index.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12595478788",
+  "name": "BattleKart Rennes (FunLab)",
+  "town": "La Mézière",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/706242692",
+  "name": "Karting Arena 45 (Circuit de Valence)",
+  "town": "La Roche-de-Glun",
+  "country": "France",
+  "websites": [
+   "https://www.arena45.fr/",
+   "http://www.kartingvalence.com/"
+  ],
+  "mapped_length_m": 1733
+ },
+ {
+  "id": "way/675701556",
+  "name": "Karting Center Tours",
+  "town": "La Ville-aux-Dames",
+  "country": "France",
+  "websites": [
+   "https://karting-center-tours.fr/"
+  ],
+  "mapped_length_m": 424
+ },
+ {
+  "id": "node/6799381818",
+  "name": "Family Fun Park Lagord",
+  "town": "Lagord",
+  "country": "France",
+  "websites": [
+   "https://www.family-fun-park-lagord.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/34179469",
+  "name": "GP Circuit",
+  "town": "Lamballe",
+  "country": "France",
+  "websites": [
+   "https://www.gp-circuit.fr/"
+  ],
+  "mapped_length_m": 1056
+ },
+ {
+  "id": "way/812835940",
+  "name": "MP Karting",
+  "town": "Lanas",
+  "country": "France",
+  "websites": [
+   "https://www.karting-ardeche.com/"
+  ],
+  "mapped_length_m": 1014
+ },
+ {
+  "id": "way/1525230649",
+  "name": "Karting Philippe Lavilledieu",
+  "town": "Lavilledieu",
+  "country": "France",
+  "websites": [
+   "https://www.karting-lavilledieu.com/"
+  ],
+  "mapped_length_m": 1855
+ },
+ {
+  "id": "way/290722217",
+  "name": "LF Karting",
+  "town": "Layrac",
+  "country": "France",
+  "websites": [
+   "https://lfkarting.fr/",
+   "https://www.facebook.com/people/LF-Karting/100028608017669/"
+  ],
+  "mapped_length_m": 1207
+ },
+ {
+  "id": "way/270319605",
+  "name": "Fun-Kart",
+  "town": "Le Bar-sur-Loup",
+  "country": "France",
+  "websites": [
+   "https://www.fun-karting.com/",
+   "https://www.facebook.com/funkart06"
+  ],
+  "mapped_length_m": 1875
+ },
+ {
+  "id": "way/77406149",
+  "name": "Jovikart Karting Nantes 44",
+  "town": "Le Bignon",
+  "country": "France",
+  "websites": [
+   "https://www.jovikart.com/"
+  ],
+  "mapped_length_m": 947
+ },
+ {
+  "id": "way/242948675",
+  "name": "Karting Circuit Paul Ricard",
+  "town": "Le Castellet",
+  "country": "France",
+  "websites": [
+   "https://www.kartingcircuitpaulricard.com/"
+  ],
+  "mapped_length_m": 795
+ },
+ {
+  "id": "node/12792155555",
+  "name": "K1 Speed",
+  "town": "Le Mans",
+  "country": "France",
+  "websites": [
+   "https://www.k1speed.com/fr/le-mans.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/34544629",
+  "name": "Le Mans Karting - Circuit Alain Prost",
+  "town": "Le Mans",
+  "country": "France",
+  "websites": [
+   "https://www.lemans-karting.com/"
+  ],
+  "mapped_length_m": 1377
+ }
+]

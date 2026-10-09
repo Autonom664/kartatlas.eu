@@ -1,0 +1,179 @@
+{
+  "_note": "Manual corrections keyed by any OSM id in a site's cluster. Fields: name, web, kind (outdoor|indoor|kids), remove (true).",
+  "way/567296895": {
+    "name": "Tom K Karting Arena"
+  },
+  "way/532894308": {
+    "name": "Midtjysk Karting Bane",
+    "web": "http://midtjyskgokart.dk"
+  },
+  "way/863569354": {
+    "remove": true
+  },
+  "way/1186090478": {
+    "remove": true
+  },
+  "way/165464921": {
+    "remove": true
+  },
+  "way/1509046203": {
+    "remove": true
+  },
+  "way/94984580": {
+    "name": "Als Gokart Klub",
+    "web": "https://alsgokartklub.dk/"
+  },
+  "node/4467077725": {
+    "kind": "indoor"
+  },
+  "node/8162798833": {
+    "kind": "indoor"
+  },
+  "node/7548776479": {
+    "kind": "indoor"
+  },
+  "node/4467097590": {
+    "kind": "indoor"
+  },
+  "node/2798149538": {
+    "remove": true
+  },
+  "way/977813910": {
+    "kind": "kids"
+  },
+  "way/31795313": {
+    "noweb": true
+  },
+  "node/6916000237": {
+    "remove": true
+  },
+  "way/1417588586": {
+    "kind": "kids"
+  },
+  "way/1056404304": {
+    "kind": "kids"
+  },
+  "way/231127932": {
+    "kind": "kids"
+  },
+  "way/27113615": {
+    "kind": "kids"
+  },
+  "way/198975910": {
+    "kind": "kids"
+  },
+  "node/3040205257": {
+    "remove": true
+  },
+  "node/11099569920": {
+    "remove": true
+  },
+  "node/2432701031": {
+    "kind": "kids"
+  },
+  "way/1082888776": {
+    "kind": "kids"
+  },
+  "way/1302354538": {
+    "kind": "kids"
+  },
+  "way/1007481030": {
+    "remove": true
+  },
+  "way/177540688": {
+    "remove": true
+  },
+  "way/1396740448": {
+    "kind": "kids"
+  },
+  "node/921919343": {
+    "noweb": true
+  },
+  "way/844535569": {
+    "name": "Kart track at Croix-en-Ternois"
+  },
+  "way/973528117": {
+    "kind": "kids"
+  },
+  "way/881419946": {
+    "kind": "kids"
+  },
+  "node/3688138109": {
+    "kind": "kids"
+  },
+  "relation/9882790": {
+    "kind": "kids"
+  },
+  "node/10177312599": {
+    "kind": "kids"
+  },
+  "way/152009014": {
+    "remove": true
+  },
+  "way/1421966232": {
+    "kind": "kids"
+  },
+  "node/14125584797": {
+    "kind": "kids"
+  },
+  "relation/3937865": {
+    "kind": "kids"
+  },
+  "way/628018324": {
+    "kind": "kids"
+  },
+  "node/12921922098": {
+    "kind": "kids"
+  },
+  "relation/2011899": {
+    "kind": "kids"
+  },
+  "way/833973923": {
+    "kind": "kids"
+  },
+  "way/145748431": {
+    "kind": "kids"
+  },
+  "way/106757628": {
+    "kind": "kids"
+  },
+  "way/235586885": {
+    "kind": "kids"
+  },
+  "way/312103492": {
+    "kind": "kids"
+  },
+  "way/185575025": {
+    "noweb": true
+  },
+  "way/1185580195": {
+    "kind": "kids"
+  },
+  "way/1005516056": {
+    "kind": "kids"
+  },
+  "way/358507994": {
+    "kind": "kids"
+  },
+  "way/1176594744": {
+    "kind": "kids"
+  },
+  "node/2290628972": {
+    "noweb": true
+  },
+  "way/177039353": {
+    "membership": "300 DKK/year"
+  },
+  "node/5914598951": {
+    "kind": "kids"
+  },
+  "way/315475394": {
+    "dropurl": "karting-evasion.com"
+  },
+  "way/672536847": {
+    "noprice": true
+  },
+  "node/12886232964": {
+    "noweb": true
+  }
+}

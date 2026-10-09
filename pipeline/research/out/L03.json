@@ -1,0 +1,325 @@
+[
+ {
+  "id": "way/290715453",
+  "tracks": [
+   {
+    "name": "Main track",
+    "length_m": 600,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Piste enfant",
+    "length_m": 100,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.ludikart.com",
+  "note": "Children's track stated as nearly 100 m; separate electric baby track has no length."
+ },
+ {
+  "id": "way/236927018",
+  "tracks": [],
+  "source": null,
+  "note": "Homepage gives no length; /karting sub-page not checked because WebFetch was rate-limited."
+ },
+ {
+  "id": "way/183168423",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1280,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://pks-loisirs.fr/",
+  "note": null
+ },
+ {
+  "id": "way/712430022",
+  "tracks": [
+   {
+    "name": "Karting main track",
+    "length_m": 900,
+    "width_m": 8,
+    "use": null
+   },
+   {
+    "name": "Karting derived track",
+    "length_m": 600,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Karting derived track (short)",
+    "length_m": 300,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://circuit-pau-arnos.fr/piste-et-karts/",
+  "note": "Site also has a 3030 m car/moto circuit, which is not a kart track."
+ },
+ {
+  "id": "node/7476287647",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 380,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.puissancekartindoor.com/",
+  "note": null
+ },
+ {
+  "id": "node/8082781259",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 700,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gamesfactory.fr/metz/karting/",
+  "note": "Indoor circuit on 3 levels."
+ },
+ {
+  "id": "node/4130754189",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290668542",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290679920",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1530188806",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/229549858",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/161851704",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290722216",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/163841094",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1061101289",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1527270647",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290679925",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/233032193",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1222119712",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290720400",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1041889411",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/346861663",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/373794179",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/108356695",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290721039",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/168227075",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/290722219",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/274573480",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1080477505",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "node/14090466896",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/701534636",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/289884888",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/432100728",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "node/11563955592",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/109128724",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "node/12648080502",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/369460246",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/707199497",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "node/13817470583",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/30744291",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/324728989",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/1528560674",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "node/758394659",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/39321555",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ },
+ {
+  "id": "way/72225826",
+  "tracks": [],
+  "source": null,
+  "note": "Not researched: WebFetch was rate-limited."
+ }
+]

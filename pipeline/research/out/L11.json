@@ -1,0 +1,501 @@
+[
+ {
+  "id": "way/159352783",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1050,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "http://www.cogiskart.com/ITA/circuito.php",
+  "note": "Width stated as 8-10 m."
+ },
+ {
+  "id": "way/31531331",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/6401336548",
+  "tracks": [
+   {
+    "name": "Pista multilivello",
+    "length_m": 320,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://hollywoodkart.it/erba/",
+  "note": "Multi-level indoor track."
+ },
+ {
+  "id": "way/449757913",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.kart-ferrari.it/",
+  "note": null
+ },
+ {
+  "id": "way/208976251",
+  "tracks": [
+   {
+    "name": "Il Circuito",
+    "length_m": 800,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://extremakart.it/pista-go-kart/pista-go-kart-emilia-romagna/",
+  "note": null
+ },
+ {
+  "id": "way/59826097",
+  "tracks": [],
+  "source": null,
+  "note": "Website domain does not resolve."
+ },
+ {
+  "id": "way/297850148",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/204940284",
+  "tracks": [],
+  "source": null,
+  "note": "Rental-only track since 1987; no length stated."
+ },
+ {
+  "id": "way/1481640920",
+  "tracks": [
+   {
+    "name": "Sun Track",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Rain Track",
+    "length_m": 750,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Full Track",
+    "length_m": 1250,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.thewaykart.com/le-nostre-piste/imola",
+  "note": "Indoor/outdoor multi-level venue; full layout used for event races."
+ },
+ {
+  "id": "way/507793994",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuitovincenzaispica.it/dati-tecnici-circuito/",
+  "note": "Width 8.20 m, widening to 10.40 m on the 145 m start/finish straight."
+ },
+ {
+  "id": "way/316423358",
+  "tracks": [],
+  "source": null,
+  "note": "Site is a JavaScript app with no readable content."
+ },
+ {
+  "id": "way/75490936",
+  "tracks": [
+   {
+    "name": "South Garda Karting",
+    "length_m": 1200,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://racing.southgardakarting.it/",
+  "note": "Average width stated as 9/10 m; rental and racing use the same circuit."
+ },
+ {
+  "id": "node/6810005042",
+  "tracks": [
+   {
+    "name": "Pista multilivello",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://hollywoodkart.it/udine-citta-fiera/",
+  "note": "Length from the former Hollywood Kart Udine CittÃ  Fiera page; the K1 Speed page gives no length."
+ },
+ {
+  "id": "way/424121000",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 900,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartodromotouchandgo.it/",
+  "note": null
+ },
+ {
+  "id": "way/1426372819",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 600,
+    "width_m": 6,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kzrkart.it/la-pista/",
+  "note": "Stated as 'over 600 m' indoor, plus roughly 100+ m outdoor section."
+ },
+ {
+  "id": "node/13019575417",
+  "tracks": [
+   {
+    "name": "Il circuito",
+    "length_m": 550,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://pgkvenezia.com/",
+  "note": "Indoor two-level track with 18 corners."
+ },
+ {
+  "id": "node/13432940206",
+  "tracks": [
+   {
+    "name": "Pista multilivello",
+    "length_m": 380,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://hollywoodkart.it/milano-bicocca/",
+  "note": null
+ },
+ {
+  "id": "way/243650238",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.go-kartmisano.it/la-pista/",
+  "note": null
+ },
+ {
+  "id": "way/79425610",
+  "tracks": [
+   {
+    "name": "Mini-Autodromo Kinisia",
+    "length_m": 1000,
+    "width_m": 9,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kinisia.it/info-sul-circuito/",
+  "note": "Width stated as 8.30-9.30 m."
+ },
+ {
+  "id": "way/520512730",
+  "tracks": [
+   {
+    "name": "Circuito",
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.internationalkartindoormoniga.it/",
+  "note": "Indoor track."
+ },
+ {
+  "id": "way/80610278",
+  "tracks": [],
+  "source": null,
+  "note": "One indoor track with 8 named configurations; no lengths stated."
+ },
+ {
+  "id": "way/242491459",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 940,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://freedome.it/guida-sportiva/pista-di-rioveggio/",
+  "note": "Own site failed (TLS error); length from listed freedome.it page."
+ },
+ {
+  "id": "relation/13724135",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/277983619",
+  "tracks": [
+   {
+    "name": "Circuito La Conca",
+    "length_m": 1250,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartodromolaconca.com/",
+  "note": null
+ },
+ {
+  "id": "way/365007906",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 360,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.pistaminispeed.it/circuito/",
+  "note": null
+ },
+ {
+  "id": "way/752912659",
+  "tracks": [],
+  "source": null,
+  "note": "Separate kart and rental-kart layouts exist, but no lengths are stated in text."
+ },
+ {
+  "id": "node/11047956346",
+  "tracks": [
+   {
+    "name": "Bergamo Kart Indoor",
+    "length_m": 600,
+    "width_m": 5,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.bergamokartindoor.it/",
+  "note": "Constant width stated as 5.20 m."
+ },
+ {
+  "id": "way/388280270",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (expired TLS certificate)."
+ },
+ {
+  "id": "way/179588941",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 330,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.palakartparma.it/pista-go-kart-indoor.php",
+  "note": null
+ },
+ {
+  "id": "node/9837894989",
+  "tracks": [],
+  "source": null,
+  "note": "Two-level indoor track; no length stated."
+ },
+ {
+  "id": "way/1553175056",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://laquercia58.com/",
+  "note": "Three layout variants, each runnable in both directions; only the 400 m total is stated."
+ },
+ {
+  "id": "way/104579055",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 637,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "http://www.pistakartvittoria.it/",
+  "note": null
+ },
+ {
+  "id": "way/595881350",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/47052547",
+  "tracks": [],
+  "source": null,
+  "note": "Only a Facebook page; no length readable."
+ },
+ {
+  "id": "way/228942875",
+  "tracks": [
+   {
+    "name": "Pista Miramare",
+    "length_m": 720,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.go-kartrimini.it/rimini-riccione-pista-gokart-piu-lunga/",
+  "note": "Width stated as 6.5 m."
+ },
+ {
+  "id": "way/366033331",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 780,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "http://kartodromorsoleo.altervista.org",
+  "note": null
+ },
+ {
+  "id": "way/442190451",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 440,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.holykartroma.it/il-circuito.html",
+  "note": null
+ },
+ {
+  "id": "way/493236628",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "http://www.ttracing.it/pista.html",
+  "note": null
+ },
+ {
+  "id": "way/1314593043",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 460,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.e-gokart.it",
+  "note": "Three-level indoor track."
+ },
+ {
+  "id": "way/183238858",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.pistaronco.it/",
+  "note": "Stated as approximately 600 m."
+ },
+ {
+  "id": "node/9330585649",
+  "tracks": [
+   {
+    "name": "Indoor + outdoor circuit",
+    "length_m": 1100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.bikarting.com/circuito/",
+  "note": "Combined indoor+outdoor length; minimum width 6 m indoor, 8 m outdoor."
+ },
+ {
+  "id": "way/179934334",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (TLS certificate mismatch)."
+ },
+ {
+  "id": "way/347258997",
+  "tracks": [],
+  "source": null,
+  "note": "Website shows only an 18+ age gate; domain may no longer belong to the track."
+ },
+ {
+  "id": "relation/20633491",
+  "tracks": [
+   {
+    "name": "Kartodromo",
+    "length_m": 1670,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://circuitointernazionalenapoli.com/tracciato-2/",
+  "note": "Width 9/10 m; site also lists a 1900 m car circuit (Autodromo)."
+ },
+ {
+  "id": "way/284434726",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://lapista.net/la-pista/",
+  "note": "Stated as approximately 600 m."
+ }
+]

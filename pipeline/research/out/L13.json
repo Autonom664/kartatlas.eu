@@ -1,0 +1,399 @@
+[
+ {
+  "id": "way/486200449",
+  "tracks": [
+   {
+    "name": "Kart Ring Klippan (Bolestadsbanan)",
+    "length_m": 1002,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "https://www.svenskalag.se/ksklippan/sida/10081/om-banan",
+  "note": null
+ },
+ {
+  "id": "relation/10105432",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1549065921",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/486577840",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 840,
+    "width_m": 12,
+    "use": null
+   }
+  ],
+  "source": "https://vaxjohyrkart.se/info/",
+  "note": "Width stated as 8-12 m."
+ },
+ {
+  "id": "way/95777914",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "source": "http://magpgokart.se/banan-och-bilarna/",
+  "note": "Combined indoor/outdoor lap: 250 m indoors + 350 m outdoors; width 5-7 m."
+ },
+ {
+  "id": "way/95564957",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1010,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.hyrgokart.com/",
+  "note": null
+ },
+ {
+  "id": "way/410895971",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1010,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.hyrgokart.com/",
+  "note": null
+ },
+ {
+  "id": "way/1193992601",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/828964156",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1091896435",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1350495161",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/229163499",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/6183808285",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/321498514",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/576906518",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/2290628972",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/34627720",
+  "tracks": [
+   {
+    "name": "ÖS-WE Ring",
+    "length_m": 654,
+    "width_m": 7,
+    "use": null
+   },
+   {
+    "name": "Lilla banan",
+    "length_m": 125,
+    "width_m": 2,
+    "use": null
+   }
+  ],
+  "source": "https://www.gokartstadion.se/info",
+  "note": null
+ },
+ {
+  "id": "way/433175801",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/40076940",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/446435270",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1087,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "http://motorstadion.se/uddevalla/",
+  "note": "Length from the rental operator's site (Motorstadion Uddevalla) linked from the club page."
+ },
+ {
+  "id": "way/126230927",
+  "tracks": [
+   {
+    "name": "Utomhusbanan",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://raceforall.se/utomhus-gokart/",
+  "note": "Stated as approx. 900 m; indoor track at Fullerö has no stated length."
+ },
+ {
+  "id": "way/514034732",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/704291326",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/95139054",
+  "tracks": [
+   {
+    "name": "Hälla Ring",
+    "length_m": 822,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "https://vasteras-karting.se/halla-ring",
+  "note": "Width 8.0-8.3 m; source is the club's karting site linked from smkvasteras.se."
+ },
+ {
+  "id": "way/185575025",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 650,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.vastsverige.com/amal/produkter/amals-hyrcart/",
+  "note": "Stated as approx. 650 m; amalshyrcart.se no longer hosts the venue site."
+ },
+ {
+  "id": "node/10444657637",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 160,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://multichallenge.se/aktiviteter/gokart/",
+  "note": "Stated as approx. 160 m."
+ },
+ {
+  "id": "node/3005599187",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 420,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kartbahn-fimmelsberg.ch/",
+  "note": null
+ },
+ {
+  "id": "node/9350684614",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/996303265",
+  "tracks": [
+   {
+    "name": "Normale Strecke (Sprintstrecke)",
+    "length_m": 450,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Supertrack",
+    "length_m": 800,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.outdoorkart.ch/",
+  "note": null
+ },
+ {
+  "id": "relation/7225161",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1126111119",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/163895648",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/346520170",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/248875804",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 640,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.race-inn.ch/angebot-1/",
+  "note": "Width 7-8 m; indoor track."
+ },
+ {
+  "id": "way/157919567",
+  "tracks": [
+   {
+    "name": "Indoor",
+    "length_m": 320,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://spreitenbach.kart.ch/kartbahn",
+  "note": "Multilevel indoor track; plus a 100 m outdoor section (Aussenbahn) open in good weather."
+ },
+ {
+  "id": "node/3166986261",
+  "tracks": [
+   {
+    "name": "Indoorpiste",
+    "length_m": 210,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Outdoorpiste",
+    "length_m": 550,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartbahn-sulgen.ch/kartbahn",
+  "note": null
+ },
+ {
+  "id": "way/186105356",
+  "tracks": [
+   {
+    "name": "Indoor circuit",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Grand-Prix (outdoor)",
+    "length_m": 1050,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://payerneland.ch/karting/circuits-kartings/",
+  "note": null
+ },
+ {
+  "id": "relation/4298937",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingvuiteboeuf.ch/circuit/",
+  "note": "Single circuit combining indoor and outdoor zones."
+ },
+ {
+  "id": "way/163933505",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/4952008713",
+  "tracks": [
+   {
+    "name": "Indoor",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://winterthur.kart.ch",
+  "note": "Multilevel indoor track; plus a 100 m outdoor section (Aussenbahn) open in good weather."
+ }
+]

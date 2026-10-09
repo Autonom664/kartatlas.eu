@@ -1,0 +1,409 @@
+[
+ {
+  "id": "way/486200449",
+  "name": "Kart Ring Klippan (KS Klippan)",
+  "town": "Klippans kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.svenskalag.se/ksklippan"
+  ],
+  "mapped_length_m": 1200
+ },
+ {
+  "id": "relation/10105432",
+  "name": "Värmlands Gokartcenter",
+  "town": "Kristinehamns kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.varmlandsgokartcenter.se/"
+  ],
+  "mapped_length_m": 830
+ },
+ {
+  "id": "way/1549065921",
+  "name": "Blåkulla Gokart",
+  "town": "Laholm",
+  "country": "Sweden",
+  "websites": [
+   "http://www.blakullagokart.se/"
+  ],
+  "mapped_length_m": 764
+ },
+ {
+  "id": "way/486577840",
+  "name": "Hagaslätt Karting / Växjö Hyrkart",
+  "town": "Lessebo kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://vaxjohyrkart.se/",
+   "https://hagaslattkarting.com/"
+  ],
+  "mapped_length_m": 813
+ },
+ {
+  "id": "way/95777914",
+  "name": "Go-karthallen (MAGP Go-kart)",
+  "town": "Linköping",
+  "country": "Sweden",
+  "websites": [
+   "https://magpgokart.se"
+  ],
+  "mapped_length_m": 525
+ },
+ {
+  "id": "way/95564957",
+  "name": "Gokartuthyrningen i Linköping",
+  "town": "Linköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.hyrgokart.com/",
+   "https://en.wikipedia.org/wiki/Link%C3%B6ping_Motorstadion"
+  ],
+  "mapped_length_m": 982
+ },
+ {
+  "id": "way/410895971",
+  "name": "Gokartuthyrningen Linköping (Linköpings Motorstadion, Sviestad)",
+  "town": "Linköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "http://www.hyrgokart.com/",
+   "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/"
+  ],
+  "mapped_length_m": 242
+ },
+ {
+  "id": "way/1193992601",
+  "name": "Luleå Karting (Kartway)",
+  "town": "Luleå kommun",
+  "country": "Sweden",
+  "websites": [
+   "http://kartway.se/Lulea/"
+  ],
+  "mapped_length_m": 671
+ },
+ {
+  "id": "way/828964156",
+  "name": "Trollringens kartingbana",
+  "town": "Lycksele kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "mapped_length_m": 720
+ },
+ {
+  "id": "way/1091896435",
+  "name": "Glabo Gokart & Paintball",
+  "town": "Löttorp",
+  "country": "Sweden",
+  "websites": [
+   "https://www.glabogokart.se"
+  ],
+  "mapped_length_m": 360
+ },
+ {
+  "id": "way/1350495161",
+  "name": "Gokartcity Malmö",
+  "town": "Malmö",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gokartcity.club/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/229163499",
+  "name": "Lockarps Gokart",
+  "town": "Malmö kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.lockarpsgokart.se/",
+   "https://www.mak.nu/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/6183808285",
+  "name": "Icekart Sälen",
+  "town": "Malung-Sälens kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.icekart.se/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/321498514",
+  "name": "Gocart Piteå (Pite Havsbad)",
+  "town": "Piteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "mapped_length_m": 498
+ },
+ {
+  "id": "way/576906518",
+  "name": "GoCart Piteå",
+  "town": "Piteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "mapped_length_m": 243
+ },
+ {
+  "id": "node/2290628972",
+  "name": "GoKarthallen",
+  "town": "Ronneby kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://raceland.se/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/34627720",
+  "name": "Gokart Stadion ÖS-WE Ring",
+  "town": "Rosersberg",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gokartstadion.se/"
+  ],
+  "mapped_length_m": 657
+ },
+ {
+  "id": "way/433175801",
+  "name": "Skara Sommarland go-kart",
+  "town": "Skara kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.sommarland.se/"
+  ],
+  "mapped_length_m": 630
+ },
+ {
+  "id": "way/40076940",
+  "name": "Skellefteå Kart Arena (Kartway Skellefteå)",
+  "town": "Skellefteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://kartway.se/skelleftea"
+  ],
+  "mapped_length_m": 807
+ },
+ {
+  "id": "way/446435270",
+  "name": "Glimminge Motorstadion",
+  "town": "Uddevalla distrikt",
+  "country": "Sweden",
+  "websites": [
+   "https://www.svenskalag.se/uddevallakarting"
+  ],
+  "mapped_length_m": 1087
+ },
+ {
+  "id": "way/126230927",
+  "name": "Race4all (Rörken Motorstadion)",
+  "town": "Uppsala kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://raceforall.se/"
+  ],
+  "mapped_length_m": 1225
+ },
+ {
+  "id": "way/514034732",
+  "name": "Varbergs Gokart",
+  "town": "Varberg",
+  "country": "Sweden",
+  "websites": [
+   "https://www.varbergsgokart.se/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/704291326",
+  "name": "Action Center",
+  "town": "Västerviks kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://action-center.se"
+  ],
+  "mapped_length_m": 551
+ },
+ {
+  "id": "way/95139054",
+  "name": "SMK Västerås Karting",
+  "town": "Västerås kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.smkvasteras.se/"
+  ],
+  "mapped_length_m": 810
+ },
+ {
+  "id": "way/185575025",
+  "name": "Åmåls Hyrcart (Bredviksbanan)",
+  "town": "Åmåls kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://amalshyrcart.se/",
+   "https://www.vastsverige.com/amal/produkter/amals-hyrcart/"
+  ],
+  "mapped_length_m": 563
+ },
+ {
+  "id": "node/10444657637",
+  "name": "Multi Challenge",
+  "town": "Östersunds kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://multichallenge.se"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3005599187",
+  "name": "Motorsportzentrum Fimmelsberg",
+  "town": "Amlikon-Bissegg",
+  "country": "Switzerland",
+  "websites": [
+   "https://kartbahn-fimmelsberg.ch/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "town": "Basel",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbasel.ch/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/996303265",
+  "name": "OutdoorKart Graubünden",
+  "town": "Cazis",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.outdoorkart.ch/"
+  ],
+  "mapped_length_m": 318
+ },
+ {
+  "id": "relation/7225161",
+  "name": "Kartbahn Lyss",
+  "town": "Kappelen",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "mapped_length_m": 701
+ },
+ {
+  "id": "way/1126111119",
+  "name": "Pista GOKART Locarno-Magadino",
+  "town": "Locarno",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.karts.ch/"
+  ],
+  "mapped_length_m": 686
+ },
+ {
+  "id": "way/163895648",
+  "name": "Kartbahn Lyss (Kartbahn Kappelen AG)",
+  "town": "Lyss",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "mapped_length_m": 369
+ },
+ {
+  "id": "way/346520170",
+  "name": "Kartbahn Morschach (Swiss Holiday Park)",
+  "town": "Morschach",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+   "https://www.swissholidaypark.ch/"
+  ],
+  "mapped_length_m": 361
+ },
+ {
+  "id": "node/248875804",
+  "name": "Race-Inn",
+  "town": "Roggwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.race-inn.ch/"
+  ],
+  "mapped_length_m": 617
+ },
+ {
+  "id": "way/157919567",
+  "name": "Kartbahn Spreitenbach",
+  "town": "Spreitenbach",
+  "country": "Switzerland",
+  "websites": [
+   "https://spreitenbach.kart.ch"
+  ],
+  "mapped_length_m": 328
+ },
+ {
+  "id": "node/3166986261",
+  "name": "Kartbahn Sulgen",
+  "town": "Sulgen",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahn-sulgen.ch/"
+  ],
+  "mapped_length_m": 471
+ },
+ {
+  "id": "way/186105356",
+  "name": "Karting de Payerne (Payerneland)",
+  "town": "Vers-chez-Perrin",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.payerneland.ch/"
+  ],
+  "mapped_length_m": 910
+ },
+ {
+  "id": "relation/4298937",
+  "name": "Karting de Vuiteboeuf (Good Kart Indoor Sàrl)",
+  "town": "Vuiteboeuf",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartingvuiteboeuf.ch/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/163933505",
+  "name": "Kart-Bahn Wohlen",
+  "town": "Waltenschwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnwohlen.ch/"
+  ],
+  "mapped_length_m": 812
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "town": "Winterthur",
+  "country": "Switzerland",
+  "websites": [
+   "https://winterthur.kart.ch"
+  ],
+  "mapped_length_m": null
+ }
+]

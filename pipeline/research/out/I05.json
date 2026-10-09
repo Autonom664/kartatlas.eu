@@ -1,0 +1,804 @@
+[
+ {
+  "id": "way/348306772",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/517642335",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/435764300",
+  "name": "Karting Club - Pista del Conero",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/karting-club-pista-del-conero",
+   "https://www.yumping.com/en/multiadventure/paintball-marche--e19738194"
+  ],
+  "note": "Viale Scarfiotti Nord, Porto Recanati; combined with Paintball Marche; only directory listings found, no official site."
+ },
+ {
+  "id": "way/311095070",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1378182562",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/383809442",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1479613077",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/336114267",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Pista-Kart-Mirabello-Sannitico.d979107701802237952.Vacation-Attraction"
+  ],
+  "note": "Only a travel-site attraction stub found; no operator info."
+ },
+ {
+  "id": "way/347258997",
+  "name": null,
+  "type": null,
+  "website": "https://www.gokartmolise.it/",
+  "websites": [
+   {
+    "url": "https://www.gokartmolise.it/",
+    "role": "venue",
+    "name": "Go Kart Molise"
+   }
+  ],
+  "phone": "+39 337 923 074",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.gokartmolise.it/"
+  ],
+  "note": "Website only showed an age-gate/loading page; nothing could be verified."
+ },
+ {
+  "id": "way/74221399",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://tw.hotels.com/en/tgp/lodging/979108073193177088/kartodromo-sinarca"
+  ],
+  "note": "Only hotel-map listings found; no operator info."
+ },
+ {
+  "id": "way/174920606",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t382334s.html"
+  ],
+  "note": "Only a 2009 forum post mentions a reopened kart track at Valle San Bartolomeo; current status unknown."
+ },
+ {
+  "id": "node/12383157724",
+  "name": "K1 Speed Torino",
+  "type": "indoor",
+  "website": "https://www.k1speed.com/it/torino.html",
+  "websites": [
+   {
+    "url": "https://www.k1speed.com/it/torino.html",
+    "role": "rental",
+    "name": "K1 Speed Torino"
+   }
+  ],
+  "phone": "+39 011 5538800",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.k1speed.com/it/torino.html",
+   "https://www.k1speed.com/locations.html"
+  ],
+  "note": "Indoor electric-kart center at Str. Torino 31, Beinasco (former Hollywood Kart, rebranded 2024); input type 'outdoor' is wrong."
+ },
+ {
+  "id": "way/238454074",
+  "name": "Pista Azzurra",
+  "type": null,
+  "website": "http://www.pistazzurra.it/",
+  "websites": [
+   {
+    "url": "http://www.pistazzurra.it/",
+    "role": "venue",
+    "name": "Pista Azzurra Borgo Ticino"
+   }
+  ],
+  "phone": "+39 0321 90675",
+  "email": "pistazzurra@pistazzurra.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.pistazzurra.it/",
+   "https://www.yumping.com/en/karting/kartodromo-pista-azzurra--e17270"
+  ],
+  "note": "Site lists kart rental plus VIP rental of Sodi 2-stroke competition karts by appointment and a private-user kart section; Honda 200 fleet from Yumping directory."
+ },
+ {
+  "id": "way/1192608927",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ilpiccolo.net/2023/07/27/bosco-apre-la-nuova-pista-kart-della-famiglia-percivale",
+   "https://www.holidoit.com/p/pista-kart-bosco",
+   "https://www.ilpiccolo.net/2024/11/08/debutta-la-6-ore-con-il-ferrari-club-alessandria"
+  ],
+  "note": "Opened July 2023 by the Percivale family (370 m outdoor, indoor electric track planned); runs rental endurance/sprint races counting toward Sodi World Series."
+ },
+ {
+  "id": "way/683379720",
+  "name": null,
+  "type": null,
+  "website": "https://www.cerrinaracetrack.com/",
+  "websites": [
+   {
+    "url": "https://www.cerrinaracetrack.com/",
+    "role": "venue",
+    "name": "Cerrina Race Track"
+   }
+  ],
+  "phone": "+39 329 744 8642",
+  "email": "cerrinaracetrack@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.cerrinaracetrack.com/",
+   "https://www.yumping.com/it/kart/cerrina-race-track--e17579"
+  ],
+  "note": "Kart use requires an annual membership card; rental fleet details come from directory listings, not the official site."
+ },
+ {
+  "id": "way/64742251",
+  "name": "Pista Le Sirene",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://yumping.com/en/karting/le-sirene--e17258",
+   "https://www.holidoit.com/en/e/giro-in-pista-con-go-kart-a-biella"
+  ],
+  "note": "Historic 1963 track at Via Ivrea 41, Cavaglià; also minimoto/pit-bike; rental 18+ via Holidoit."
+ },
+ {
+  "id": "way/203140780",
+  "name": "Club des Miles",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://yumping.com/en/karting/club-des-miles--e17283",
+   "https://www.livetheworld.com/activities/italy/pista-club-des-miles"
+  ],
+  "note": "Strada Freylia Mezzi 47, Moncalieri; free practice with own or rented karts per directory listings."
+ },
+ {
+  "id": "node/9420145593",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/248092435",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1091799386",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "node/2685220619",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/516293117",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/416497419",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartodromobarimax.it/",
+  "websites": [
+   {
+    "url": "https://www.kartodromobarimax.it/",
+    "role": "venue",
+    "name": "Kartodromo Barimax"
+   }
+  ],
+  "phone": "+39 080 5214200",
+  "email": "kartodromobarimax@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi LRX",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartodromobarimax.it/"
+  ],
+  "note": "Site describes itself as an indoor track with Sodi electric karts; input marks it outdoor."
+ },
+ {
+  "id": "way/1217972654",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/352588294",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+39 349 448 9323",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://it.wikivoyage.org/wiki/Utente:MariaMitolo04/Sandbox"
+  ],
+  "note": "Only source is a user sandbox page on Wikivoyage (SP236, single and two-seater rental karts); verify."
+ },
+ {
+  "id": "way/140785067",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1090755482",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/32798128",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Lies ~1 km from Kartodromo Santa Cecilia (Foggia); no separate venue found, may be part of the same complex or a duplicate."
+ },
+ {
+  "id": "way/32563273",
+  "name": "Kartodromo Santa Cecilia",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/kartodromo-santa-cecilia--e17284"
+  ],
+  "note": "Via Troia, Foggia; ~1.3 km ACI type-A homologated track hosting national trophies; directory says vehicles can be rented."
+ },
+ {
+  "id": "way/1289612226",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1195121477",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/1469562147",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/460115149",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/517683858",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/kartodromo-2000-lucera"
+  ],
+  "note": "Via Quatraro, Lucera; ~700 m track per a generic travel listing; no official contact found."
+ },
+ {
+  "id": "node/2165818554",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/424121000",
+  "name": null,
+  "type": null,
+  "website": "https://www.kartodromotouchandgo.it/",
+  "websites": [
+   {
+    "url": "https://www.kartodromotouchandgo.it/",
+    "role": "venue",
+    "name": "Kartodromo Touch & Go"
+   }
+  ],
+  "phone": "+39 338 246 5968",
+  "email": "info@kartodromotouchandgo.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartodromotouchandgo.it/",
+   "https://wanderlog.com/place/details/7564678/kartodromo-touch--go",
+   "https://www.yumping.com/en/karting/kartodromo-touch-go--e19745350"
+  ],
+  "note": "Run by the Palmisano family; old palmisanokarting.it domain is dead; reviews mention 390cc 4-stroke karts."
+ },
+ {
+  "id": "way/277983619",
+  "name": "World Circuit La Conca",
+  "type": null,
+  "website": "https://www.kartodromolaconca.com/",
+  "websites": [
+   {
+    "url": "https://www.kartodromolaconca.com/",
+    "role": "venue",
+    "name": "Kartodromo La Conca"
+   }
+  ],
+  "phone": "+39 380 766 2946",
+  "email": "Kartodromo@laconca.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartodromolaconca.com/",
+   "https://en.wikipedia.org/wiki/World_Circuit_La_Conca",
+   "https://www.yumping.com/en/karting/katrodromo-la-conca--e19745789"
+  ],
+  "note": "International CIK/WSK/ACI championship circuit (1,250 m); rental Sundays 16-21 (single 14+, two-seater driver 18+)."
+ },
+ {
+  "id": "way/339972776",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "A rental listing confirms a kartodromo near Polignano a Mare, but no name or contact found."
+ },
+ {
+  "id": "way/438588918",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": null
+ },
+ {
+  "id": "way/852418390",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Start-Racing-Taranto.d979108194632962048.Vacation-Attraction"
+  ],
+  "note": "Only travel-site attraction stubs found; no operator info."
+ }
+]

@@ -1,0 +1,1333 @@
+[
+ {
+  "id": "way/725892580",
+  "name": "Kartbahn Blindenmarkt",
+  "town": "Blindenmarkt",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartbahn-blindenmarkt.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/8375040368",
+  "name": "Karthalle Ebensee (Kartworld Ebensee)",
+  "town": "Ebensee am Traunsee",
+  "country": "Austria",
+  "websites": [
+   "https://www.karthalle.at/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "200 ccm 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270 ccm",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/1344908573",
+  "name": "Kartbahn-Treff (Vorarlberg Ring)",
+  "town": "Feldkirch",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartbahn-treff.com/"
+  ],
+  "known_fleet": [
+   [
+    "Mach 1",
+    "Honda 200 ccm",
+    "6.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/159522629",
+  "name": "Freizeitpark Fresach",
+  "town": "Fresach",
+  "country": "Austria",
+  "websites": [
+   "https://www.gokart.at/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "2.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/98283484",
+  "name": "PS Racing Center",
+  "town": "Greinbach",
+  "country": "Austria",
+  "websites": [
+   "https://www.ps-racing.at/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Honda 270 ccm",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/11726784673",
+  "name": "Freizeitarena Tirol",
+  "town": "Haiming",
+  "country": "Austria",
+  "websites": [
+   "https://www.freizeitarena.tirol/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12805789828",
+  "name": "B1 GoKart Bahn Innsbruck",
+  "town": "Innsbruck",
+  "country": "Austria",
+  "websites": [
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "270 ccm",
+    "9",
+    "adult"
+   ],
+   [
+    "LR5",
+    "160 ccm",
+    "4.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/107608181",
+  "name": "Kart Center Kottingbrunn",
+  "town": "Kottingbrunn",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartcenter.at/"
+  ],
+  "known_fleet": [
+   [
+    "Hubi-Kart",
+    null,
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/472368623",
+  "name": "Daytona Raceways",
+  "town": "Langenzersdorf",
+  "country": "Austria",
+  "websites": [
+   "https://www.daytona.at/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO6",
+    "Honda GX200",
+    null,
+    "adult"
+   ],
+   [
+    "RiMO Mini",
+    "Honda GX160",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "relation/1760200",
+  "name": "MF Gokart Leogang",
+  "town": "Leogang",
+  "country": "Austria",
+  "websites": [
+   "https://www.mf-gokart.at/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "6.5",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/6968981892",
+  "name": "Chargers Racing",
+  "town": "Leonding",
+  "country": "Austria",
+  "websites": [
+   "https://www.chargersracing.at/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/868068820",
+  "name": "Rotax MAX Dome",
+  "town": "Linz",
+  "country": "Austria",
+  "websites": [
+   "https://www.rotaxmaxdome.com/linz/"
+  ],
+  "known_fleet": [
+   [
+    "Rotax SONIC E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/194361134",
+  "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring",
+  "town": "Melk",
+  "country": "Austria",
+  "websites": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270 ccm",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/157537270",
+  "name": "Speedarena Rechnitz",
+  "town": "Rechnitz",
+  "country": "Austria",
+  "websites": [
+   "https://www.speedarena.at/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart GT4",
+    "200 ccm",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart SR4",
+    "270 ccm",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/588787026",
+  "name": "Heroes Karts & More Regau",
+  "town": "Regau",
+  "country": "Austria",
+  "websites": [
+   "https://www.heroeskart.at/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    "8/13",
+    "electric"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/346100215",
+  "name": "Speedworld Pachfurth",
+  "town": "Rohrau",
+  "country": "Austria",
+  "websites": [
+   "https://www.speedworld-kart.at/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 270 ccm",
+    "10",
+    "adult"
+   ],
+   [
+    null,
+    "Rotax Max 125",
+    "28",
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/45494972",
+  "name": "Kartworld Salzburg",
+  "town": "Salzburg",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartworld.at"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "town": "St. Pölten",
+  "country": "Austria",
+  "websites": [
+   "https://www.rw-m.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/809272289",
+  "name": "RaceWorld Kartbahn Stetteldorf",
+  "town": "Stetteldorf am Wagram",
+  "country": "Austria",
+  "websites": [
+   "https://www.rw-m.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/55762296",
+  "name": "KART-N-FUN",
+  "town": "Steyr",
+  "country": "Austria",
+  "websites": [
+   "http://www.gokart-steyr.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "relation/3868005",
+  "name": "Grand Prix Monza",
+  "town": "Wien",
+  "country": "Austria",
+  "websites": [
+   "https://www.pasara.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/355474061",
+  "name": "Monza Kartbahn",
+  "town": "Wien",
+  "country": "Austria",
+  "websites": [
+   "https://monza-kart.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/137166744",
+  "name": "Kartsport Friesacher",
+  "town": "Wolfsberg",
+  "country": "Austria",
+  "websites": [
+   "https://www.indoorkart.at/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "relation/11814859",
+  "name": "Kartbahn Ziersdorf (B4 Kart Racing Center)",
+  "town": "Ziersdorf",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartbahn-ziersdorf.at/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "270 ccm",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/427997314",
+  "name": "The District (formerly Factory Kart)",
+  "town": "Beersel",
+  "country": "Belgium",
+  "websites": [
+   "https://thedistrict.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/264828644",
+  "name": "Fastlane Karting Bilzen",
+  "town": "Bilzen-Hoeselt",
+  "country": "Belgium",
+  "websites": [
+   "https://fastlanebilzen.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1205468329",
+  "name": "Karting Bouillon",
+  "town": "Bouillon",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartingbouillon.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 200cc",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1238425770",
+  "name": "BattleKart Brussels (Tour & Taxis)",
+  "town": "Bruxelles - Brussel",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/834819629",
+  "name": "Green Power Kart",
+  "town": "Charleroi",
+  "country": "Belgium",
+  "websites": [
+   "https://www.greenpowerkart.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/94522368",
+  "name": "Karting des Fagnes",
+  "town": "Couvin",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartingdesfagnes.be/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT8",
+    "390cc",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "town": "Eeklo",
+  "country": "Belgium",
+  "websites": [
+   "https://yeti-eeklo.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/103316772",
+  "name": "Experience Factory Eupen",
+  "town": "Eupen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.experience-factory.com/eupen/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/9364985457",
+  "name": "JM Karting Liège",
+  "town": "Fléron",
+  "country": "Belgium",
+  "websites": [
+   "https://jmkarting.com/liege/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/881881200",
+  "name": "Karting Genk (Home of Champions)",
+  "town": "Genk",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartinggenk.be/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "Formula Honda",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "80cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "125cc",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "50cc",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1345697611",
+  "name": "BattleKart Genk",
+  "town": "Genk",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/en/genk"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12825338681",
+  "name": "BattleKart Gent",
+  "town": "Gent",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/nl/gent"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/6046678299",
+  "name": "E-Kart Gent",
+  "town": "Gent",
+  "country": "Belgium",
+  "websites": [
+   "https://e-kart.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/105251328",
+  "name": "Brussels Kart",
+  "town": "Groot-Bijgaarden",
+  "country": "Belgium",
+  "websites": [
+   "https://www.brusselskart.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/108437660",
+  "name": "Eastbelgium Action, Fun & Karting Center",
+  "town": "Grüfflingen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.actioncenter.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/112038987",
+  "name": "The District (formerly Factory Kart)",
+  "town": "Huizingen",
+  "country": "Belgium",
+  "websites": [
+   "https://thedistrict.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/243837948",
+  "name": "Brussels South Karting",
+  "town": "Les Bons Villers",
+  "country": "Belgium",
+  "websites": [
+   "https://bskarting.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12752115882",
+  "name": "Indoorkarting Lommel",
+  "town": "Lommel",
+  "country": "Belgium",
+  "websites": [
+   "http://www.indoorkartinglommel.be"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 200cc",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/23031475",
+  "name": "Cargo-Karting",
+  "town": "Maasmechelen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.cargo-karting.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/35093946",
+  "name": "First Kart'Inn",
+  "town": "Machelen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.fki.be/"
+  ],
+  "known_fleet": [
+   [
+    "BIZ",
+    "Honda 270cc 4-stroke",
+    "9",
+    "adult"
+   ],
+   [
+    "BIZ",
+    "Honda 270cc 4-stroke",
+    "9",
+    "race"
+   ],
+   [
+    "BIZ",
+    null,
+    null,
+    "junior"
+   ],
+   [
+    "BIZ",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/13318880999",
+  "name": "BattleKart WEX",
+  "town": "Marche-en-Famenne",
+  "country": "Belgium",
+  "websites": [
+   "https://battlekart.com/fr/wex"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/46766217",
+  "name": "Burney's Mechelen",
+  "town": "Mechelen",
+  "country": "Belgium",
+  "websites": [
+   "https://burneys.be"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/131579725",
+  "name": "De Kegel X-treme",
+  "town": "Middelkerke",
+  "country": "Belgium",
+  "websites": [
+   "https://www.bowlingdekegel.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/895692304",
+  "name": "ImagiPark",
+  "town": "Mons",
+  "country": "Belgium",
+  "websites": [
+   "https://www.imagipark.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12676251167",
+  "name": "Battlekart Mouscron",
+  "town": "Mouscron",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/en/mouscron/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    "BattleKart Family",
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/99249659",
+  "name": "Goodwill Karting",
+  "town": "Olen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.goodwillkarting.be"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/144396456",
+  "name": "Racelandkart",
+  "town": "Oudsbergen",
+  "country": "Belgium",
+  "websites": [
+   "https://racelandkart.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/472960694",
+  "name": "Worldkarts Poperinge",
+  "town": "Poperinge",
+  "country": "Belgium",
+  "websites": [
+   "https://poperinge.worldkarts.com/home"
+  ],
+  "known_fleet": [
+   [
+    "Alpha Carbon K",
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    "Alpha Carbon K",
+    "270cc",
+    null,
+    "race"
+   ],
+   [
+    "Alpha Mini-K",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/43590428",
+  "name": "Inkart",
+  "town": "Puurs-Sint-Amands",
+  "country": "Belgium",
+  "websites": [
+   "https://www.inkart.be/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/3724910749",
+  "name": "Worldkarts Sint-Niklaas",
+  "town": "Sint-Niklaas",
+  "country": "Belgium",
+  "websites": [
+   "https://sint-niklaas.worldkarts.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR6",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi SR5",
+    "270cc",
+    null,
+    "race"
+   ],
+   [
+    "Sodi LR6",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/34403881",
+  "name": "Karting Spa-Francorchamps (RACB)",
+  "town": "Stavelot",
+  "country": "Belgium",
+  "websites": [
+   "https://www.francorchamps-karting.be/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/10312671620",
+  "name": "WIK Wavre Indoor Karting",
+  "town": "Wavre",
+  "country": "Belgium",
+  "websites": [
+   "https://www.wik-karting.be"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/4467077725",
+  "name": "Gokart World",
+  "town": "Aalborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartworld.dk"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/785838797",
+  "name": "Mou Gokart",
+  "town": "Aalborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://mougokart.dk",
+   "https://mougokart.dk/gokart-klub-boern/"
+  ],
+  "known_fleet": [
+   [
+    "DINO",
+    "Honda GX270",
+    null,
+    "adult"
+   ],
+   [
+    "DINO",
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/87330958",
+  "name": "Racehall Aarhus",
+  "town": "Aarhus Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO6",
+    "200 cc",
+    null,
+    "adult"
+   ],
+   [
+    "Dino Mini 2020",
+    "120 cc",
+    null,
+    "kids"
+   ],
+   [
+    "RiMO Twinstructor",
+    "2 x 200 cc",
+    null,
+    "twin"
+   ],
+   [
+    "Dino HandiKart 2020",
+    "200 cc",
+    null,
+    "other"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "town": "Ballerup Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.ballerupeventcenter.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/2216849378",
+  "name": "Grindsted Gokart Klub",
+  "town": "Billund Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.grindstedgokartklub.dk/",
+   "https://grigoe.dk"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "town": "Esbjerg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "town": "Fredericia Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racesyd.dk/",
+   "https://fredericiagokartklub.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/380865250",
+  "name": "Marielyst Gokart & Paintball Center",
+  "town": "Guldborgsund Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokart.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/449265399",
+  "name": "Vojens Motorsport Arena",
+  "town": "Haderslev Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.vma.dk/",
+   "https://vma.dk/egen-kart/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    null,
+    null
+   ],
+   [
+    "Bambini kart",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Tony Kart",
+    null,
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/177039353",
+  "name": "Holbæk Gokartklub",
+  "town": "Holbæk Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://holbaek-gokart.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/839020157",
+  "name": "Racehall København",
+  "town": "Høje-Taastrup Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO6",
+    "200 cc",
+    null,
+    "adult"
+   ],
+   [
+    "Dino Mini 2020",
+    "120 cc",
+    null,
+    "kids"
+   ],
+   [
+    "RiMO Twinstructor",
+    "2 x 200 cc",
+    null,
+    "twin"
+   ],
+   [
+    "Dino HandiKart 2020",
+    "200 cc",
+    null,
+    "other"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/532894308",
+  "name": "Midtjysk Karting Bane",
+  "town": "Ikast-Brande Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://midtjyskgokart.dk"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/664573164",
+  "name": "Rødby Karting Ring",
+  "town": "Lolland Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://www.rgkk.dk/rgkk",
+   "https://rodbygokart.dk"
+  ],
+  "known_fleet": [
+   [
+    "SODI",
+    null,
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/447780824",
+  "name": "Auning Kart Park",
+  "town": "Norddjurs Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://auningkartpark.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ }
+]

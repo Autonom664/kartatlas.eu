@@ -1,0 +1,672 @@
+[
+ {
+  "id": "way/1356055741",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track in Kiruna; venue unverified."
+ },
+ {
+  "id": "way/321498514",
+  "name": "Gocart Piteå (Pite Havsbad)",
+  "type": "outdoor",
+  "website": "https://gocartpitea.se/",
+  "websites": [
+   {
+    "url": "https://gocartpitea.se/",
+    "role": "rental",
+    "name": "Gocart Piteå"
+   },
+   {
+    "url": "https://pitehavsbad.se/en/activities/gokart/",
+    "role": "venue",
+    "name": "Pite Havsbad"
+   }
+  ],
+  "phone": "+46 70-609 69 84",
+  "email": "info@gocartpitea.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "note": "Seasonal rental track at Pite Havsbad resort (Hotellvägen 50); drop-in in summer, kart models not stated."
+ },
+ {
+  "id": "way/486200449",
+  "name": "Kart Ring Klippan (KS Klippan)",
+  "type": "outdoor",
+  "website": "https://www.svenskalag.se/ksklippan",
+  "websites": [
+   {
+    "url": "https://www.svenskalag.se/ksklippan",
+    "role": "club",
+    "name": "Kartingsällskapet Klippan"
+   }
+  ],
+  "phone": "+46 70-232 74 95",
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.svenskalag.se/ksklippan",
+   "https://iame-motorsport.com/news_dett.php?id=189"
+  ],
+  "note": "Club track of KS Klippan hosting national races and training days; club site links a 'Klippans Hyrkart' rental operation but no details found."
+ },
+ {
+  "id": "way/87888593",
+  "name": "Åsum Ring (Kristianstads Kartingklubb)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.fia.com/news/fia-karting-competition-gets-underway-sweden",
+   "https://www.driverdb.com/tracks/asum-ring"
+  ],
+  "note": "FIA-level race circuit (approx. 1,221 m) of Kristianstads Kartingklubb, hosts FIA European/World championship rounds; club website not found."
+ },
+ {
+  "id": "way/229163499",
+  "name": "Lockarps Gokart",
+  "type": "outdoor",
+  "website": "https://www.lockarpsgokart.se/",
+  "websites": [
+   {
+    "url": "https://www.lockarpsgokart.se/",
+    "role": "rental",
+    "name": "Lockarps Gokart"
+   },
+   {
+    "url": "https://www.mak.nu/",
+    "role": "club",
+    "name": "Malmö Automobilklubb"
+   }
+  ],
+  "phone": "+46 72-223 19 41",
+  "email": "info@lockarpsgokart.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.lockarpsgokart.se/kontakt",
+   "https://www.mak.nu/"
+  ],
+  "note": "Outdoor rental track run by Malmö Automobilklubb at Lockarpsvägen 2, Oxie (OSM 'indoor' tag looks wrong); min. height 150 cm."
+ },
+ {
+  "id": "way/347990362",
+  "name": "Gokart för Alla",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.reco.se/kategori/motorbana/1"
+  ],
+  "note": "Only a directory listing found (Malsta Bergby 2, Norrtälje); no details on track or rental."
+ },
+ {
+  "id": "way/5174043",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Bollstanäs, Upplands Väsby."
+ },
+ {
+  "id": "way/518204339",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.eniro.se/barnaktiviteter/f%C3%B6retag/176"
+  ],
+  "note": "Only nearby lead is Halkbana Strängnäs AB (skid-pan) at Åkers bilbana; no evidence of public karting."
+ },
+ {
+  "id": "relation/11966326",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Dansut, Gnesta."
+ },
+ {
+  "id": "way/40076940",
+  "name": "Skellefteå Kart Arena (Kartway Skellefteå)",
+  "type": "outdoor",
+  "website": "https://kartway.se/skelleftea",
+  "websites": [
+   {
+    "url": "https://kartway.se/skelleftea",
+    "role": "rental",
+    "name": "Kartway Skellefteå"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://kartway.se/skelleftea",
+   "https://www.sverigesradio.se/artikel/6929805"
+  ],
+  "note": "Track owned by Skellefteå Motorsällskap at Motorbacken 1, Ursviken; rental run by Kartway with summer drop-in (single and double karts)."
+ },
+ {
+  "id": "way/249688828",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found identifying this Umeå kart track."
+ },
+ {
+  "id": "node/1731753221",
+  "name": "Varggropens gocartbana",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://uk.hotels.com/tgp/lodging/979107723822125056/varggropens-gocartbana"
+  ],
+  "note": "Name confirmed only by travel listings; no operator or contact found."
+ },
+ {
+  "id": "way/341917056",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track near Sollefteå/Multrå."
+ },
+ {
+  "id": "way/152640372",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 251 m track at Hökåsen; not linked to SMK Västerås Karting (Pinnmovägen) by any source."
+ },
+ {
+  "id": "way/185575025",
+  "name": "Åmåls Hyrcart (Bredviksbanan)",
+  "type": "outdoor",
+  "website": "https://amalshyrcart.se/",
+  "websites": [
+   {
+    "url": "https://amalshyrcart.se/",
+    "role": "rental",
+    "name": "Åmåls Hyrcart"
+   },
+   {
+    "url": "https://www.vastsverige.com/amal/produkter/amals-hyrcart/",
+    "role": "other",
+    "name": "Västsverige tourism listing"
+   }
+  ],
+  "phone": "+46 70-264 09 15",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.vastsverige.com/amal/produkter/amals-hyrcart/"
+  ],
+  "note": "Seasonal asphalt rental track at Bredvik 310, 4 km south of Åmål; summer drop-in Fri/Sun, adult kart models not stated plus two child karts."
+ },
+ {
+  "id": "way/367162773",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Known website hyrgokart.nu no longer resolves; nearby Kinnekulle Ring car circuit lists no karting, venue unconfirmed."
+ },
+ {
+  "id": "way/281519408",
+  "name": "Lidköping Karting Bana",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.vroomkart.com/node/2283",
+   "https://efra.ws/wp-content/uploads/2024/09/Application-Lidkopingfor-European-Championship-2026_EFRA_PROPOSAL.pdf"
+  ],
+  "note": "Approx. 1,250 m race circuit built for the 2010 CIK-FIA Viking Trophy; current operator/club website not found."
+ },
+ {
+  "id": "way/322817680",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Boglundsängen, Örebro."
+ },
+ {
+  "id": "node/14062544858",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Aspholmen, Örebro."
+ },
+ {
+  "id": "way/195452678",
+  "name": "Örebro Motorstadion",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vikingarna_(speedway)"
+  ],
+  "note": "Motor stadium near Örebro Airport built (1975) for speedway, motocross and karting; current karting operator not found."
+ },
+ {
+  "id": "way/40439771",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://thatsup.co.uk/norrkoping/activity/gokartarenan/"
+  ],
+  "note": "'Raceland Gokart' name only appears as a map label; Norrköping's GokartArenan (Horns väg 5, indoor+outdoor, www.gokartarenan.se) may be related but not confirmed."
+ },
+ {
+  "id": "way/1250293709",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Himmelstalund, Norrköping."
+ },
+ {
+  "id": "way/297339947",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Eksund, Norrköping."
+ },
+ {
+  "id": "node/1780138800",
+  "name": "Motala Gokart",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979108357162029056/motala-gokart"
+  ],
+  "note": "Name confirmed only by travel listings; no operator or contact found."
+ },
+ {
+  "id": "way/410895971",
+  "name": "Gokartuthyrningen Linköping (Linköpings Motorstadion, Sviestad)",
+  "type": "outdoor",
+  "website": "http://www.hyrgokart.com/",
+  "websites": [
+   {
+    "url": "http://www.hyrgokart.com/",
+    "role": "rental",
+    "name": "Gokartuthyrningen Linköping"
+   },
+   {
+    "url": "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/",
+    "role": "other",
+    "name": "Visit Linköping listing"
+   }
+  ],
+  "phone": "+46 70-811 95 75",
+  "email": "info@hyrgokart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "http://www.hyrgokart.com/",
+   "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/"
+  ],
+  "note": "Rental on the 1,010 m SBF-approved track at Sviestad 1; regular and children's karts, models not stated."
+ },
+ {
+  "id": "node/12626201310",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/E-Go-Kart-Schoftland.d979108082433232896.Vacation-Attraction"
+  ],
+  "note": "'E-Go-Kart' in Schöftland appears only as a travel-site map label; no operator found, may be a small electric/kids attraction."
+ },
+ {
+  "id": "way/163895648",
+  "name": "Kartbahn Lyss (Kartbahn Kappelen AG)",
+  "type": "outdoor",
+  "website": "https://www.kartbahnlyss.ch/",
+  "websites": [
+   {
+    "url": "https://www.kartbahnlyss.ch/",
+    "role": "rental",
+    "name": "Kartbahn Lyss"
+   }
+  ],
+  "phone": "+41 32 392 22 33",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://famigros.migros.ch/de/ausfluege-und-freizeit/ausflugsziele/kartbahn-lyss",
+   "https://switzerlanding.com/go-karting-switzerland/"
+  ],
+  "note": "750 m outdoor rental track at Lyssstrasse 31, Kappelen with petrol and electric karts and two-seaters; min. 10 years / 130 cm."
+ },
+ {
+  "id": "way/1073569368",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No current kart venue found in Meyrin (only the historic Circuit de Meyrin); 219 m feature may not be a public kart track."
+ },
+ {
+  "id": "way/297350976",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/cn/Go-Kart-Track-Laax.d979108604625965056.Place-To-Visit"
+  ],
+  "note": "Tiny 117 m track known only from a travel-site map label; likely a small kids/resort attraction, operator not found."
+ },
+ {
+  "id": "way/312103492",
+  "name": "Mini Racing Ticino e Moesa (MRTM)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://efra.ws/wp-content/uploads/2023/11/Stage-report-1-5-Lostallo-EC-2024.pdf"
+  ],
+  "note": "Likely not a kart venue: the only Lostallo track found is a 1:5-scale RC car circuit (MRTM) that hosted the 2024 EFRA European Championship."
+ },
+ {
+  "id": "way/106942439",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Hauterive NE; nearest known kart circuit is TCS Lignières."
+ },
+ {
+  "id": "way/1339003084",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track at Tufertschwil, Lütisburg."
+ },
+ {
+  "id": "way/1097041085",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart track found in Frauenfeld; the Grosse Allmend hosts the Auto-Renntage car slalom, not a known kart venue."
+ },
+ {
+  "id": "way/213207415",
+  "name": "Svebølle Go-Kart",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Svebolle-Go-Kart-Svebolle.d553248621532517432.Vacation-Attraction"
+  ],
+  "note": "Known website svebollegokart.dk no longer resolves (DNS fails), so the venue may have closed; no current source found."
+ }
+]

@@ -1,0 +1,1439 @@
+[
+ {
+  "id": "way/158239320",
+  "name": "Karting Number One",
+  "type": "outdoor",
+  "website": "https://www.kartingnumberone.com/",
+  "websites": [
+   {
+    "url": "https://www.kartingnumberone.com/",
+    "role": "rental",
+    "name": "Karting Number One"
+   }
+  ],
+  "phone": "+33 4 67 21 05 97",
+  "email": "contact@kartingnumberone.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartingnumberone.com/"
+  ],
+  "note": "Site hours refer to the 2023 season; also off-road quad/moto tracks."
+ },
+ {
+  "id": "way/405292367",
+  "name": "Le Kart'Are (Circuit d'Aigues-Vives / Circuit International de Lavelanet)",
+  "type": "outdoor",
+  "website": "https://karting-ariege.fr",
+  "websites": [
+   {
+    "url": "https://karting-ariege.fr",
+    "role": "venue",
+    "name": "Base de Loisirs le Kart'Are"
+   }
+  ],
+  "phone": "+33 5 61 01 31 89",
+  "email": "lekartare@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://karting-ariege.fr",
+   "https://www.visit-occitanie.com/en/fiche/equipement/karting-le-kart-are-aigues-vives_TFOSITRA2_LOI_6236744"
+  ],
+  "note": "Licence holders ride same hours as rental; track homologated 2022 with ASK Pays d'Olmes Mirepoix as club."
+ },
+ {
+  "id": "way/290715453",
+  "name": "Ludikart",
+  "type": "outdoor",
+  "website": "https://www.ludikart.com",
+  "websites": [
+   {
+    "url": "https://www.ludikart.com",
+    "role": "rental",
+    "name": "Ludikart Argelès"
+   }
+  ],
+  "phone": "+33 4 68 81 88 01",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Egarakart",
+    "engine": "100cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.ludikart.com",
+   "https://www.tourisme-pyreneesorientales.com/ludikart-karting-argeles/argeles-sur-mer/loilar066fs0005v"
+  ],
+  "note": "Seasonal: Feb to early Nov."
+ },
+ {
+  "id": "way/290679920",
+  "name": "Espace Loisirs Karting",
+  "type": "outdoor",
+  "website": "https://www.karting-beaucaire.com/",
+  "websites": [
+   {
+    "url": "https://www.karting-beaucaire.com/",
+    "role": "rental",
+    "name": "Espace Loisirs Karting Beaucaire"
+   }
+  ],
+  "phone": "+33 4 66 74 12 77",
+  "email": "contactkarting@orange.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi Kid Racer",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.karting-beaucaire.com/",
+   "https://www.tourismegard.com/fr/fiche/equipement/espace-loisirs-karting-beaucaire_TFO6219680/"
+  ],
+  "note": "Fleet: 22 adult, 12 kids, 4 two-seaters, 5 babykarts."
+ },
+ {
+  "id": "way/229549858",
+  "name": "Karting Plus Belmont",
+  "type": "outdoor",
+  "website": "https://www.kartingplus.com",
+  "websites": [
+   {
+    "url": "https://www.kartingplus.com",
+    "role": "venue",
+    "name": "Karting Plus Belmont"
+   }
+  ],
+  "phone": "+33 5 65 99 96 67",
+  "email": "kartingplusbelmont@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": "4 CV",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": "13 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "IAME KA100 2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.kartingplus.com",
+   "https://iame-motorsport.com/news_dett.php?id=134"
+  ],
+  "note": "FFSA championship venue (1.5 km); offers licence/kart school and kart storage, own-kart access inferred from licence section."
+ },
+ {
+  "id": "way/290679925",
+  "name": "Sud Karting Location",
+  "type": "outdoor",
+  "website": "https://sudkarting.fr/fr/",
+  "websites": [
+   {
+    "url": "https://sudkarting.fr/fr/",
+    "role": "rental",
+    "name": "Sud Karting"
+   }
+  ],
+  "phone": "+33 4 66 20 45 57",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://sudkarting.fr/fr/"
+  ],
+  "note": "Booking by phone required; closed Tuesdays and in rain."
+ },
+ {
+  "id": "way/787297100",
+  "name": "Fun Kart Brissac (Parc Sports & Loisirs Gorges de l'Hérault)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 67 73 75 00",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/fun-kart-brissac-brissac_TFOSITRA2_LOI_6028151/",
+   "https://www.yumping.com/en/karting/kartix-parc--e19629197"
+  ],
+  "note": "Known website parc-loisir-cevennes.fr does not resolve; listings say 45+ rental karts on 1185 m and 690 m tracks, also listed as Kartix Parc."
+ },
+ {
+  "id": "way/168227075",
+  "name": "Win'Kart",
+  "type": "outdoor",
+  "website": "https://www.winkart-11.fr",
+  "websites": [
+   {
+    "url": "https://www.winkart-11.fr",
+    "role": "venue",
+    "name": "Win'Kart Carcassonne"
+   }
+  ],
+  "phone": "+33 4 68 25 67 07",
+  "email": "contact@winkart.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.winkart-11.fr",
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/win-kart-carcassonne_TFOLOILAR011FS0003P/"
+  ],
+  "note": "Licensed drivers have morning sessions Tue-Sun by phone reservation."
+ },
+ {
+  "id": "way/1122685309",
+  "name": "Kart'In Family",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 63 72 15 75",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.guide-tarn-aveyron.com/en/tourism/entertainment/in-nature/karting/castres-63/kart-in-family-5449.html",
+   "https://guide-tarn-aveyron.com/en/tourism/entertainment/in-nature/karting/aiguefonde-2/kart-in-family-7345.html"
+  ],
+  "note": "Sources conflict: one listing at Rue Henri Regnault Castres, newer ones place an indoor 400 m electric track at Aiguefonde/Caucalières; Castres site may have moved."
+ },
+ {
+  "id": "way/274573480",
+  "name": "Karting de Caussiniojouls (BSO Karting)",
+  "type": "outdoor",
+  "website": "https://karting-caussiniojouls.com/",
+  "websites": [
+   {
+    "url": "https://karting-caussiniojouls.com/",
+    "role": "venue",
+    "name": "Karting de Caussiniojouls"
+   }
+  ],
+  "phone": "+33 4 67 01 48 13",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "5 hp",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "9 hp",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "14 hp",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "21.5 hp",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "22 hp",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9 hp",
+    "class": "other"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://karting-caussiniojouls.com/"
+  ],
+  "note": "Has a licence-holder section; one 9 hp kart adapted for paraplegic drivers."
+ },
+ {
+  "id": "way/707199497",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.karthors.fr",
+  "websites": [
+   {
+    "url": "https://www.karthors.fr",
+    "role": "venue",
+    "name": "Karthors"
+   }
+  ],
+  "phone": "+33 5 65 24 53 55",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://www.karthors.fr"
+  ],
+  "note": "Open all year; types: baby, kids, adult, two-seater, sport kart."
+ },
+ {
+  "id": "way/26365237",
+  "name": "Karting Elceka",
+  "type": "outdoor",
+  "website": "https://kartingelceka.fr",
+  "websites": [
+   {
+    "url": "https://kartingelceka.fr",
+    "role": "rental",
+    "name": "Elceka Karting"
+   }
+  ],
+  "phone": "+33 4 65 84 07 20",
+  "email": "contact@kartingelceka.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "IAME KA100",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://kartingelceka.fr",
+   "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/karting-elceka-grabels_TFOLOILAR034FS000JS/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/290681900",
+  "name": "Sunkart Gruissan",
+  "type": "outdoor",
+  "website": "https://www.sunkart.fr/",
+  "websites": [
+   {
+    "url": "https://www.sunkart.fr/",
+    "role": "rental",
+    "name": "Sunkart Gruissan"
+   }
+  ],
+  "phone": "+33 4 68 49 95 20",
+  "email": "sunkart@orange.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "GT3",
+    "engine": "270cc",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": "5 CV",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.sunkart.fr/",
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/sunkart-gruissan-gruissan_TFOLOILAR011V50LL50/",
+   "https://www.yumping.com/en/karting/sunkart--e19629175"
+  ],
+  "note": "Not the same business as Sun Karting Sérignan."
+ },
+ {
+  "id": "way/229180444",
+  "name": "La Calmette Karting",
+  "type": "outdoor",
+  "website": "https://lacalmettekarting.com/",
+  "websites": [
+   {
+    "url": "https://lacalmettekarting.com/",
+    "role": "venue",
+    "name": "La Calmette Karting"
+   }
+  ],
+  "phone": "+33 4 66 63 12 89",
+  "email": "zigzag30100@hotmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Birel Art",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Birel Art",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Birel Art",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://lacalmettekarting.com/",
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/la-calmette-karting-la-calmette_TFOSITRA2_LOI_5695954/"
+  ],
+  "note": "Also pedal karts per tourism listing and a junior racing team."
+ },
+ {
+  "id": "way/135513514",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for this track."
+ },
+ {
+  "id": "way/290720402",
+  "name": "Albi Kart Experience",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 63 43 04 04",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/albi-kart-experience-le-sequestre_TFOSITRA2_LOI_5161145/"
+  ],
+  "note": "Inside the Circuit d'Albi complex; phone is the circuit's; 2025 listing showed limited season."
+ },
+ {
+  "id": "relation/3881729",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 66 37 36 05",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/languedoc-roussillon/sirius,competition-31838.html"
+  ],
+  "note": "Kart track inside Circuit de Lédenon complex; an old listing names Sirius Competition as karting operator, unverified."
+ },
+ {
+  "id": "way/290681899",
+  "name": "Europkart",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.tourisme-occitanie.com/fr/fiche/activite/europ-kart-marseillan_TFOASCLAR034FS0002D/",
+   "https://www.herault.gouv.fr/index.php/contenu/telechargement/31436/215321/file/2019-08-01-102 Recueil n°102 du 02 août 2019.pdf"
+  ],
+  "note": "No 'KDM' found; the Marseillan Plage circuit (~600 m) is homologated as Europkart (2019); match assumed by location."
+ },
+ {
+  "id": "way/290680699",
+  "name": "Nîmes Karting",
+  "type": "outdoor",
+  "website": "https://www.nimeskarting.fr/",
+  "websites": [
+   {
+    "url": "https://www.nimeskarting.fr/",
+    "role": "rental",
+    "name": "Nimeskarting"
+   }
+  ],
+  "phone": "+33 4 66 72 38 99",
+  "email": "contact@nimeskarting.fr",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Of-Course XLNEO",
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.nimeskarting.fr/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/973528117",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Pedal-kart track (131 m); no source found."
+ },
+ {
+  "id": "way/123559878",
+  "name": "Karting de Muret",
+  "type": "outdoor",
+  "website": "https://www.kartingmuret.fr",
+  "websites": [
+   {
+    "url": "https://www.kartingmuret.fr",
+    "role": "venue",
+    "name": "Karting de Muret"
+   }
+  ],
+  "phone": "+33 5 34 46 08 08",
+  "email": "contact@kartingmuret.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartingmuret.fr",
+   "https://www.kartingmuret.fr/club-karting/tarifs"
+  ],
+  "note": "Site has competition and club-karting sections; fleet not described."
+ },
+ {
+  "id": "way/1070725646",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found near Claret/Pompignan."
+ },
+ {
+  "id": "node/13110017642",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-aggregator listings found; nature of venue unconfirmed."
+ },
+ {
+  "id": "way/502111524",
+  "name": "Loc'karting",
+  "type": "outdoor",
+  "website": "https://www.lockarting.fr/",
+  "websites": [
+   {
+    "url": "https://www.lockarting.fr/",
+    "role": "rental",
+    "name": "Loc'karting"
+   }
+  ],
+  "phone": "+33 4 67 17 03 42",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.lockarting.fr/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/290715455",
+  "name": "Karting Roussillon (Grand Circuit du Roussillon)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 6 18 13 83 85",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": "22 hp",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": "30 hp",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/grand-circuit-du-roussillon--e19629177",
+   "https://www.tourisme-occitanie.com/fr/fiche/equipement/karting-roussillon-rivesaltes_TFOLOILAR066FS0005U/"
+  ],
+  "note": "Phone from tourism listing, unconfirmed; fleet from third-party listings."
+ },
+ {
+  "id": "way/881419946",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Pedal-kart track (131 m); no source found."
+ },
+ {
+  "id": "way/290715451",
+  "name": "Karting Saint Cyprien",
+  "type": "outdoor",
+  "website": "https://kartingstcyprien.fr/",
+  "websites": [
+   {
+    "url": "https://kartingstcyprien.fr/",
+    "role": "rental",
+    "name": "Karting Saint Cyprien"
+   }
+  ],
+  "phone": "+33 4 68 21 41 76",
+  "email": "contact@kartingstcyprien.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://kartingstcyprien.fr/"
+  ],
+  "note": null
+ },
+ {
+  "id": "node/3688138109",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Mapped as a quad circuit; no karting source found."
+ },
+ {
+  "id": "way/196775114",
+  "name": "Pôle Mécanique Karting",
+  "type": "outdoor",
+  "website": "https://pole-mecanique-karting.fr",
+  "websites": [
+   {
+    "url": "https://pole-mecanique-karting.fr",
+    "role": "rental",
+    "name": "Pôle Mécanique Karting"
+   },
+   {
+    "url": "https://www.pole-mecanique.fr/nos-circuits/circuit-karting/",
+    "role": "venue",
+    "name": "Pôle Mécanique Alès Cévennes"
+   }
+  ],
+  "phone": "+33 4 66 30 87 72",
+  "email": "contact@pole-mecanique-karting.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://pole-mecanique-karting.fr",
+   "https://www.pole-mecanique.fr/nos-circuits/circuit-karting/",
+   "https://www.tourismegard.com/fr/fiche/activite/pole-mecanique-karting-saint-martin-de-valgalgues_TFO5721135"
+  ],
+  "note": "1208 m FFSA cat.1 track; 50+ rental karts (duo, mini, loisir, sport); agenda lists roulage dates."
+ },
+ {
+  "id": "way/961590105",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.sunkarting.fr",
+  "websites": [
+   {
+    "url": "http://www.sunkarting.fr",
+    "role": "rental",
+    "name": "Sun Karting"
+   }
+  ],
+  "phone": "+33 4 67 39 57 11",
+  "email": "sunkarting@wanadoo.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.sunkarting.fr"
+  ],
+  "note": "About 20 Sodikart RT8; kids quad track also on site."
+ },
+ {
+  "id": "way/290715452",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingtorreilles.com",
+  "websites": [
+   {
+    "url": "https://www.kartingtorreilles.com",
+    "role": "rental",
+    "name": "Karting de Torreilles"
+   }
+  ],
+  "phone": "+33 4 68 28 44 75",
+  "email": "pistes-de-karting-de-torreilles@orange.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartingtorreilles.com",
+   "https://www.tourisme-pyreneesorientales.com/karting-de-torreilles/torreilles/loilar066fs00061"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/76329770",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.defikart.fr",
+  "websites": [
+   {
+    "url": "https://www.defikart.fr",
+    "role": "rental",
+    "name": "Défikart Toulouse"
+   }
+  ],
+  "phone": "+33 5 61 47 14 14",
+  "email": "contact@defikart.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Praga",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://www.defikart.fr",
+   "https://www.citizenkid.com/sortie/defikart-toulouse-a105409"
+  ],
+  "note": "400 m indoor track in a 4000 m2 hall."
+ },
+ {
+  "id": "way/290715520",
+  "name": "Karting Toulouse Montaudran",
+  "type": "indoor",
+  "website": "https://kartingtoulouse.com/",
+  "websites": [
+   {
+    "url": "https://kartingtoulouse.com/",
+    "role": "rental",
+    "name": "Karting Toulouse Montaudran"
+   }
+  ],
+  "phone": "+33 5 62 16 32 00",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://kartingtoulouse.com/"
+  ],
+  "note": "Indoor electric karting, 164 route de Revel."
+ },
+ {
+  "id": "way/1327891269",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No venue found; Sun Karting Sérignan is about 2 km away and may be related."
+ },
+ {
+  "id": "way/926799067",
+  "name": "MegaKart",
+  "type": "outdoor",
+  "website": "https://www.megakart.fr",
+  "websites": [
+   {
+    "url": "https://www.megakart.fr",
+    "role": "rental",
+    "name": "MegaKart Vias"
+   }
+  ],
+  "phone": "+33 9 50 28 95 91",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc 4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi RT10",
+    "engine": "390cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "250cc injection",
+    "hp": "30 hp",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.megakart.fr",
+   "https://www.koifaire.com/languedoc-roussillon/megakart,karting-53813.html"
+  ],
+  "note": "1000 m track; closed January-February."
+ },
+ {
+  "id": "way/1415888418",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.megakart.fr"
+  ],
+  "note": "133 m track near MegaKart Vias; possibly its baby-kart track, unconfirmed."
+ },
+ {
+  "id": "way/380970617",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found in Véraza (pop. ~32); possibly private."
+ },
+ {
+  "id": "way/171449371",
+  "name": "Circuit Roger Gaillard (ASK Ancenis)",
+  "type": "outdoor",
+  "website": "https://www.ask-ancenis.fr",
+  "websites": [
+   {
+    "url": "https://www.ask-ancenis.fr",
+    "role": "club",
+    "name": "ASK Ancenis"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.ask-ancenis.fr",
+   "https://ffsakarting.org/medias/fr/2018-06-10-championnat-de-france-ancenis-france/Dossier de présentation/FFSA_Karting_2018_Dossier_Presentation_Ancenis.pdf"
+  ],
+  "note": "Club circuit 1170 m with licence-holder training; older listings mention rental karts too."
+ },
+ {
+  "id": "way/1530188806",
+  "name": "Circuit Philippe Alliot (Vendée Espace Karting)",
+  "type": "outdoor",
+  "website": "https://karting-philippealliot.com/",
+  "websites": [
+   {
+    "url": "https://karting-philippealliot.com/",
+    "role": "rental",
+    "name": "Karting Philippe Alliot"
+   }
+  ],
+  "phone": "+33 2 51 41 05 05",
+  "email": "info@karting-philippealliot.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://karting-philippealliot.com/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/701534636",
+  "name": "Karting de Challans (Martini Racing Kart)",
+  "type": "outdoor",
+  "website": "https://www.karting-challans.fr/",
+  "websites": [
+   {
+    "url": "https://www.karting-challans.fr/",
+    "role": "rental",
+    "name": "Karting de Challans"
+   }
+  ],
+  "phone": "+33 2 51 93 33 44",
+  "email": "kartingdechallans@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270cc",
+    "hp": "9 hp",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": "9 hp",
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": "4.5 hp",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax 125 2-stroke",
+    "hp": "22 hp",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.karting-challans.fr/",
+   "https://en.paysdesaintjeandemonts.fr/activite/karting-de-challans"
+  ],
+  "note": "20 SR5 adult and 15 kids karts; Rotax karts for experienced drivers."
+ }
+]

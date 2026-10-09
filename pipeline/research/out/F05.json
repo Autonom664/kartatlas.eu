@@ -1,0 +1,1011 @@
+[
+ {
+  "id": "way/796566900",
+  "name": "Ardennes Karting",
+  "type": "indoor",
+  "website": "https://ardenneskarting.fr/",
+  "websites": [
+   {
+    "url": "https://ardenneskarting.fr/",
+    "role": "rental",
+    "name": "Ardennes Karting"
+   }
+  ],
+  "phone": "+33 3 24 27 23 25",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi (junior)",
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://ardenneskarting.fr/",
+   "https://acceslibre.beta.gouv.fr/app/08-douzy/a/sports-et-loisirs/erp/ardennes-karting/",
+   "https://www.ardennes.com/en/sports-activity/ardennes-karting/"
+  ],
+  "note": "OSM name 'Xtreme fun 08' not found online; the only karting at Douzy aerodrome is Ardennes Karting, a 435 m indoor electric track."
+ },
+ {
+  "id": "node/5523518508",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.straskart.fr/",
+  "websites": [
+   {
+    "url": "http://www.straskart.fr/",
+    "role": "rental",
+    "name": "Stras Kart"
+   }
+  ],
+  "phone": "+33 3 67 86 00 16",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "http://www.straskart.fr/"
+  ],
+  "note": "Site describes an indoor electric karting complex, although OSM tags it outdoor."
+ },
+ {
+  "id": "way/664252853",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/1079744042",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/196334663",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.manachakart.com/",
+  "websites": [
+   {
+    "url": "https://www.manachakart.com/",
+    "role": "rental",
+    "name": "Manacha Kart"
+   }
+  ],
+  "phone": "+33 3 29 57 03 18",
+  "email": "manachakart@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.manachakart.com/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/614006004",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/233622123",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/1021512553",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/1419618804",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/481745432",
+  "name": "Circuit de karting de Mirecourt-Juvaincourt",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 29 37 60 60",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://ffsakarting.org/medias/fr/2018-08-26-championnat-de-france-mirecourt-france/Dossier de présentation/FFSA_Karting_2018_Dossier_Presentation_Mirecourt.pdf"
+  ],
+  "note": "FFSA national-championship kart track (approx. 1267 m) run with club ASK Lorraine Kart; known website freekart88.fr no longer resolves."
+ },
+ {
+  "id": "way/311226208",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/192522849",
+  "name": "VP Kart (Indy Kart)",
+  "type": null,
+  "website": "http://www.vp-kart.com/",
+  "websites": [
+   {
+    "url": "http://www.vp-kart.com/",
+    "role": "rental",
+    "name": "VP Kart"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.alentoor.fr/le-menil/sport",
+   "https://www.aleou.fr/en/salle-seminaire/50580-indy-kart.html",
+   "https://www.etreproprio.com/immobilier-24732426-vente-a-vendre-fonds-de-commerce-karting-88160-le-menil-vosges-au-coeur-des-vosges-le-menil"
+  ],
+  "note": "250 m prefecture-approved track at 31 route du Surdelot; the business was listed for sale and its website has a broken certificate, so current status is unclear."
+ },
+ {
+  "id": "node/5033005312",
+  "name": null,
+  "type": "indoor",
+  "website": "https://ntkart.com/",
+  "websites": [
+   {
+    "url": "https://ntkart.com/",
+    "role": "rental",
+    "name": "NTKart"
+   }
+  ],
+  "phone": "+33 3 82 23 79 39",
+  "email": "info@ntkart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "CRG",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://ntkart.com/"
+  ],
+  "note": "Two-level indoor track (over 700 m); OSM tags it outdoor."
+ },
+ {
+  "id": "relation/3177246",
+  "name": "Karting de Lonny",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 24 54 99 82",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "100cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/karting-de-lonny"
+  ],
+  "note": "600 m outdoor track, open weekend afternoons March to Oct/Nov."
+ },
+ {
+  "id": "relation/4267416",
+  "name": "Karting Auto Meisenthal",
+  "type": "outdoor",
+  "website": "https://karting-meisenthal.com/",
+  "websites": [
+   {
+    "url": "https://karting-meisenthal.com/",
+    "role": "rental",
+    "name": "Karting Auto Meisenthal"
+   }
+  ],
+  "phone": "+33 3 87 96 97 40",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RX8",
+    "engine": "390cc 4-stroke",
+    "hp": "13 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "300cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://karting-meisenthal.com/",
+   "https://www.yumping.com/en/karting/wsv-karting-meisenthal--e19688190"
+  ],
+  "note": "Phone booking only."
+ },
+ {
+  "id": "node/2628770155",
+  "name": "Kart'in Oberlin",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/kartin-oberlin--e19629366",
+   "https://actionsociale.finances.gouv.fr/files/live/sites/actionsociale/files/Contributed/D%C3%A9l%C3%A9gation%20d%C3%A9partementales%20de%20l'action%20socale/54%20Meurthe-et-Moselle/54KartingOberlinNancy.pdf"
+  ],
+  "note": "62 rue Oberlin, Nancy; mixed indoor/outdoor 600 m+ FFSA track; operator also has an outdoor track in Tomblaine."
+ },
+ {
+  "id": "way/170360227",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://dbkarting.fr/",
+  "websites": [
+   {
+    "url": "https://dbkarting.fr/",
+    "role": "rental",
+    "name": "DB Karting"
+   }
+  ],
+  "phone": "+33 6 61 07 80 09",
+  "email": "dbkarting10@orange.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://dbkarting.fr/",
+   "https://www.aube-champagne.com/en/poi/db-karting/"
+  ],
+  "note": "680 m asphalt track."
+ },
+ {
+  "id": "way/290674168",
+  "name": "Piste de karting ASC Peugeot Citroën Mulhouse",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.haut-rhin.gouv.fr/index.php/contenu/telechargement/38818/237205/file/PREFECTURE-divers-11.pdf",
+   "https://www.haut-rhin.gouv.fr/index.php/contenu/telechargement/19537/126767/file/RAA n° 24 du 20 avril 2018.pdf"
+  ],
+  "note": "Club track (914 m) of the ASC Peugeot Citroën Mulhouse karting section; prefecture approval renewed 2022 for 4 years."
+ },
+ {
+  "id": "way/727555589",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/392496063",
+  "name": "Sundgau Kart Motorsport",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 89 07 77 88",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.sundgau-sud-alsace.fr/en/bouger/activites/karting/",
+   "https://www.yumping.com/en/karting/sundgau-karting-motorsport--e19629036",
+   "https://www.koifaire.com/alsace/sundgau,kart-7348.html"
+  ],
+  "note": "1400 m outdoor track; free practice open to competition karts."
+ },
+ {
+  "id": "node/12886232964",
+  "name": "Sélest'Kart-IN",
+  "type": "indoor",
+  "website": "https://www.selestkart-in.com",
+  "websites": [
+   {
+    "url": "https://www.selestkart-in.com",
+    "role": "rental",
+    "name": "Sélest'Kart-IN"
+   }
+  ],
+  "phone": "+33 3 88 82 77 21",
+  "email": "info@selestkart-in.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.selestkart-in.com"
+  ],
+  "note": "Covered 300-340 m track; OSM tags it outdoor."
+ },
+ {
+  "id": "node/13410549388",
+  "name": null,
+  "type": null,
+  "website": "https://k55.fr/accueil-karting/",
+  "websites": [
+   {
+    "url": "https://k55.fr/accueil-karting/",
+    "role": "rental",
+    "name": "Karting 55"
+   }
+  ],
+  "phone": "+33 6 07 11 87 15",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://k55.fr/accueil-karting/"
+  ],
+  "note": "400 m FFSA-approved track, season mid-March to mid-November, closed Wednesdays."
+ },
+ {
+  "id": "way/395457394",
+  "name": "Kart'Race",
+  "type": null,
+  "website": "https://www.kartrace.org/",
+  "websites": [
+   {
+    "url": "https://www.kartrace.org/",
+    "role": "rental",
+    "name": "Kart'Race"
+   }
+  ],
+  "phone": "+33 3 26 49 64 08",
+  "email": "reservation@kartrace.org",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartrace.org/"
+  ],
+  "note": "1154 m track in a leisure park; SWS member."
+ },
+ {
+  "id": "way/38427109",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/712568193",
+  "name": "ASK Abbeville Somme Karting",
+  "type": "outdoor",
+  "website": "https://abbeville-somme-karting.fr/",
+  "websites": [
+   {
+    "url": "https://abbeville-somme-karting.fr/",
+    "role": "club",
+    "name": "ASK Abbeville Somme Karting"
+   }
+  ],
+  "phone": "+33 6 32 85 26 11",
+  "email": null,
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://abbeville-somme-karting.fr/"
+  ],
+  "note": "Municipal 1163 m track open only to FFSA licence holders (day licence available for own approved kart)."
+ },
+ {
+  "id": "way/252172849",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/161851704",
+  "name": null,
+  "type": null,
+  "website": "https://www.opalekarting.fr/",
+  "websites": [
+   {
+    "url": "https://www.opalekarting.fr/",
+    "role": "rental",
+    "name": "Opale Karting"
+   }
+  ],
+  "phone": "+33 3 21 94 44 45",
+  "email": "contact@opalekarting.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart RT10",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://www.opalekarting.fr/"
+  ],
+  "note": "Also has a hand-control Handikart."
+ },
+ {
+  "id": "way/346861663",
+  "name": "Circuit de Karting Maraikart",
+  "type": "outdoor",
+  "website": "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr",
+  "websites": [
+   {
+    "url": "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr",
+    "role": "rental",
+    "name": "Circuit de Karting Maraikart"
+   }
+  ],
+  "phone": "+33 3 23 74 27 18",
+  "email": "teamgillard@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr",
+   "https://www.jds.fr/soissons/manifestations/ateliers/karting-loisir-1072873_A",
+   "https://yumping.com/en/karting/a-s-k-soissons--e19629203"
+  ],
+  "note": "950 m track also used by club ASK Soissons for licensed training; old domain circuit-de-bucy.com now redirects to an unrelated site."
+ },
+ {
+  "id": "node/13818394945",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://en.tourisme-saintomer.com/get-out-and-about/activities-and-leisure/drift-sensation-aire-sur-la-lys-en-6221958/"
+  ],
+  "note": "Drift Sensation (drift karts) is documented only at Aire-sur-la-Lys; no source confirms a site at Calonne-Ricouart."
+ },
+ {
+  "id": "way/535021797",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "node/5922610411",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/844535569",
+  "name": "Circuit de Croix-en-Ternois (kart track)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/nord-pas-de-calais/ecurie,griffiths-28867.html"
+  ],
+  "note": "OSM name 'Sortie' is a generic label; small loop at the Croix-en-Ternois circuit, where karting business Ecurie Griffiths is based."
+ },
+ {
+  "id": "way/1560503900",
+  "name": null,
+  "type": null,
+  "website": "https://kll.fr/",
+  "websites": [
+   {
+    "url": "https://kll.fr/",
+    "role": "rental",
+    "name": "KLL Loisirs"
+   }
+  ],
+  "phone": "+33 3 21 77 73 31",
+  "email": "contact@kll.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://kll.fr/"
+  ],
+  "note": "Has a licensee club and French Karting School; fleet includes a Handikart."
+ },
+ {
+  "id": "way/124372087",
+  "name": null,
+  "type": null,
+  "website": "https://www.lillekarting.fr/",
+  "websites": [
+   {
+    "url": "https://www.lillekarting.fr/",
+    "role": "rental",
+    "name": "Lille Karting"
+   }
+  ],
+  "phone": "+33 3 20 17 60 80",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.lillekarting.fr/"
+  ],
+  "note": "Has both a 600 m indoor and a 900 m lit outdoor track; 130 karts from 160cc to 390cc."
+ },
+ {
+  "id": "way/978577932",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/karting-club-gravelinois--e19629224",
+   "https://gowork.fr/karting-club-gravelinois-gravelines"
+  ],
+  "note": "750 m asphalt track; directory data dates from 2018, reviews up to 2024."
+ },
+ {
+  "id": "node/10743412563",
+  "name": "Karting Hirson (Pit-Bike Factory)",
+  "type": null,
+  "website": "https://www.kartinghirson.com/",
+  "websites": [
+   {
+    "url": "https://www.kartinghirson.com/",
+    "role": "rental",
+    "name": "Karting Hirson / Pit-Bike Factory"
+   }
+  ],
+  "phone": "+33 6 49 89 78 82",
+  "email": "pitbikefactory.hirson@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartinghirson.com/"
+  ],
+  "note": "Combined karting track and pit-bike/motocross site."
+ },
+ {
+  "id": "node/8499208345",
+  "name": "Speed Park (Karting Bowling Laser)",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 44 36 38 10",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.abcsalles.com/lieu/karting-bowling-laser",
+   "https://www.koifaire.com/picardie/karting,bowling,laser-22364.html"
+  ],
+  "note": "Karting/bowling/laser leisure centre at Place Jacques Tati, Jaux (multiplex car park); no current website found."
+ },
+ {
+  "id": "way/446783483",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/761190869",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ },
+ {
+  "id": "way/308748098",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for this location."
+ }
+]

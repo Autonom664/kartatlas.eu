@@ -1,0 +1,614 @@
+[
+ {
+  "id": "node/13979020833",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 670,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://kartodromopalazzo.it/lapista/",
+  "note": "Track reserved for members of ASD MotorArt."
+ },
+ {
+  "id": "way/208383998",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1030,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.frasnelli-kart.com/",
+  "note": "Approx. 1030 m, width 8-10 m."
+ },
+ {
+  "id": "way/290766494",
+  "tracks": [
+   {
+    "name": "Circuito Polivalente",
+    "length_m": 1294,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.viterbocircuit.com/circuito",
+  "note": "Same website as Viterbo Circuit; only the main circuit length is stated (width 9-10 m)."
+ },
+ {
+  "id": "way/312407341",
+  "tracks": [
+   {
+    "name": "Circuito Polivalente",
+    "length_m": 1294,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.viterbocircuit.com/circuito",
+  "note": "Width 9-10 m; homologated for national/international kart racing, also rental."
+ },
+ {
+  "id": "way/881600516",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 750,
+    "width_m": 12,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.polentaemotori.it/",
+  "note": "Width 8-12 m."
+ },
+ {
+  "id": "node/575350323",
+  "tracks": [
+   {
+    "name": "Euro Final",
+    "length_m": 1100,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Euro Final Short",
+    "length_m": 950,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Grand Prix",
+    "length_m": 1300,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Paul Ricard",
+    "length_m": 1200,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Estoril",
+    "length_m": 1200,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Omloop van Terlaemen",
+    "length_m": 1140,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Magny Cours",
+    "length_m": 1060,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Monaco",
+    "length_m": 1020,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "De Catalunya",
+    "length_m": 940,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Imola",
+    "length_m": 925,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "T.T. Assen",
+    "length_m": 900,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Spa Francorchamps",
+    "length_m": 875,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Peripherique",
+    "length_m": 840,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Nurburgring",
+    "length_m": 840,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Outside Track",
+    "length_m": 825,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Laguna Seca",
+    "length_m": 760,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Mini Zandvoort",
+    "length_m": 635,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "A1 Ring",
+    "length_m": 480,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Maxi Monza",
+    "length_m": 380,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.circuitparkberghem.nl/layouts-circuit-berghem/",
+  "note": "19 configurations of one circuit (380-1300 m); standard layout is Euro Final (1100 m)."
+ },
+ {
+  "id": "way/217521987",
+  "tracks": [],
+  "source": null,
+  "note": "Website does not mention a kart track."
+ },
+ {
+  "id": "node/1571226584",
+  "tracks": [],
+  "source": null,
+  "note": "Two indoor tracks over several floors, joinable into a 'Mega circuit'; no lengths stated."
+ },
+ {
+  "id": "node/2779183074",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingtexel.nl/",
+  "note": "Outdoor circuit of approx. 500 m."
+ },
+ {
+  "id": "way/58821981",
+  "tracks": [],
+  "source": null,
+  "note": "Website mentions only an F1 race simulator, no kart track."
+ },
+ {
+  "id": "node/958029969",
+  "tracks": [],
+  "source": null,
+  "note": "Website could not be checked (fetch rate-limited)."
+ },
+ {
+  "id": "way/276563025",
+  "tracks": [],
+  "source": null,
+  "note": "Website could not be checked (fetch rate-limited)."
+ },
+ {
+  "id": "node/6859713080",
+  "tracks": [],
+  "source": null,
+  "note": "Website could not be checked (fetch rate-limited)."
+ },
+ {
+  "id": "node/8695377425",
+  "tracks": [],
+  "source": null,
+  "note": "Website could not be checked (fetch rate-limited)."
+ },
+ {
+  "id": "node/2732671760",
+  "tracks": [
+   {
+    "name": "Outdoor kartcircuit De Landsard",
+    "length_m": 1060,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://outdoorkarting.nl/het-circuit/",
+  "note": "Width stated as 7.5 m."
+ },
+ {
+  "id": "node/2756063118",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 425,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://zero55.nl/enschede/activiteiten/e-karten/",
+  "note": "Indoor electric kart track."
+ },
+ {
+  "id": "node/1098017859",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://a15karting.nl/karten/informatie/",
+  "note": "Stated as 'more than 700 m'."
+ },
+ {
+  "id": "way/47490179",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.teamsport-ekarting.nl/locaties/groningen",
+  "note": "Indoor e-kart track of nearly 500 m."
+ },
+ {
+  "id": "node/2551684936",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.indoorkartingheerenveen.nl/het-circuit",
+  "note": "Indoor track of 'over 400 m' on two levels."
+ },
+ {
+  "id": "way/474012393",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (certificate error)."
+ },
+ {
+  "id": "node/1413233649",
+  "tracks": [
+   {
+    "name": "Indoor kartbaan",
+    "length_m": 425,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://coronel.nl/karten/",
+  "note": null
+ },
+ {
+  "id": "node/2782845692",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartingemmen.nl/karten-met-huurkart",
+  "note": "Stated as 'just over 1 km' long."
+ },
+ {
+  "id": "node/2690461468",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 311,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://planet-awesome.com/activiteiten/karten-nijmegen/",
+  "note": "Multi-level track: lower part 180 m plus upper part 131 m."
+ },
+ {
+  "id": "node/2663385135",
+  "tracks": [
+   {
+    "name": "Indoor Karten",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartplaza.nl/",
+  "note": null
+ },
+ {
+  "id": "way/278188018",
+  "tracks": [],
+  "source": "https://kartbaanoldenzaal.nl/karten/huurkarts/",
+  "note": "Only width (6 m) is stated, no length."
+ },
+ {
+  "id": "node/4620552009",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.vanderende.com/",
+  "note": null
+ },
+ {
+  "id": "node/13897664495",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (certificate error)."
+ },
+ {
+  "id": "way/746760110",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 650,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartbaanstrijen.nl/",
+  "note": null
+ },
+ {
+  "id": "node/7734829180",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.devoltage.nl",
+  "note": "Approx. 450 m."
+ },
+ {
+  "id": "node/3040205459",
+  "tracks": [],
+  "source": null,
+  "note": "Described as the longest indoor kart track, but no length stated."
+ },
+ {
+  "id": "way/1360118353",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.teamsport-ekarting.nl/locaties/utrecht",
+  "note": "Indoor e-kart track over two floors."
+ },
+ {
+  "id": "way/446075802",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 750,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartbaan.com",
+  "note": "9 corners; pit lane approx. 75 m."
+ },
+ {
+  "id": "way/274259545",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://powerarea.nl/activiteiten/karten/",
+  "note": "Indoor two-level track of approx. 1000 m."
+ },
+ {
+  "id": "node/13607854888",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/4614279439",
+  "tracks": [],
+  "source": null,
+  "note": "Website content could not be read."
+ },
+ {
+  "id": "node/2788019640",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 543,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartcentrumzwolle.nl/nl/kartbaanzwolle",
+  "note": null
+ },
+ {
+  "id": "way/1350493948",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": 13,
+    "use": "rental"
+   }
+  ],
+  "source": "https://racehall.com/en/banerne/",
+  "note": null
+ },
+ {
+  "id": "way/234113309",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/14088543327",
+  "tracks": [
+   {
+    "name": "Gokart",
+    "length_m": 770,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://grangeshyrkart.se/?page_id=14",
+  "note": null
+ },
+ {
+  "id": "relation/10426245",
+  "tracks": [
+   {
+    "name": "Utomhusbana",
+    "length_m": 1010,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Inomhusbana",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://gokart.se/",
+  "note": "Separate outdoor (1010 m) and indoor (300 m) tracks."
+ },
+ {
+  "id": "way/1005039103",
+  "tracks": [],
+  "source": null,
+  "note": "Downhill cars attraction; no length stated."
+ },
+ {
+  "id": "way/1307053280",
+  "tracks": [
+   {
+    "name": "Kartingringen",
+    "length_m": 1078,
+    "width_m": 8,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.vuollerimsmf.se/kartingringen",
+  "note": null
+ },
+ {
+  "id": "way/1418328888",
+  "tracks": [
+   {
+    "name": "Utomhusbana (full)",
+    "length_m": 825,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Hyrkartslingan",
+    "length_m": 650,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Inomhusbana",
+    "length_m": 250,
+    "width_m": 9,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.jarfallahyrkart.se/hyrkart-utomhus/",
+  "note": "Outdoor full track 825 m with 650 m rental loop; indoor track approx. 250 m, 7-9 m wide (on /hyrkart-inomhus/)."
+ },
+ {
+  "id": "way/45484844",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kalmargokart.se/varbana/",
+  "note": null
+ },
+ {
+  "id": "way/250247751",
+  "tracks": [
+   {
+    "name": "Stora Kartingbanan",
+    "length_m": 1257,
+    "width_m": 10,
+    "use": "race"
+   },
+   {
+    "name": "Hyrkartbanan",
+    "length_m": 620,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.gellerasen.se/kartingbanan/",
+  "note": "Large track 1257 m, 9-10 m wide; rental track 620 m stated on /gokart/."
+ }
+]

@@ -1,0 +1,458 @@
+[
+ {
+  "id": "way/174687955",
+  "name": "A.S. Karting Le Coteau",
+  "town": "Roanne",
+  "country": "France",
+  "websites": [
+   "http://www.karting-le-coteau.com"
+  ],
+  "mapped_length_m": 1258
+ },
+ {
+  "id": "way/1003748937",
+  "name": "Karting de Beauvais",
+  "town": "Rochy-Condé",
+  "country": "France",
+  "websites": [
+   "https://kartingdebeauvais.fr/"
+  ],
+  "mapped_length_m": 1051
+ },
+ {
+  "id": "node/12833306764",
+  "name": "Rouen Espace Loisirs",
+  "town": "Rouen",
+  "country": "France",
+  "websites": [
+   "https://www.rouenespaceloisirs.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1369658853",
+  "name": "DKS-Motors",
+  "town": "Rouvignies",
+  "country": "France",
+  "websites": [
+   "https://www.dks-motors.com/",
+   "https://www.facebook.com/profile.php?id=61554247027373"
+  ],
+  "mapped_length_m": 964
+ },
+ {
+  "id": "way/315475394",
+  "name": "Karting Évasion Rumilly",
+  "town": "Rumilly",
+  "country": "France",
+  "websites": [
+   "http://kartingderumilly.fr/index.html",
+   "https://www.karting-evasion.com"
+  ],
+  "mapped_length_m": 1925
+ },
+ {
+  "id": "node/1459789180",
+  "name": "Circuit de Deauville",
+  "town": "Saint-Arnoult",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-deauville/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9860088013",
+  "name": "Tours Kart Indoor",
+  "town": "Saint-Avertin",
+  "country": "France",
+  "websites": [
+   "https://www.tours-kart-indoor.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/169129661",
+  "name": "Karting 45",
+  "town": "Saint-Benoît-sur-Loire",
+  "country": "France",
+  "websites": [
+   "https://www.karting45.com/"
+  ],
+  "mapped_length_m": 1198
+ },
+ {
+  "id": "way/290715451",
+  "name": "Karting Saint Cyprien",
+  "town": "Saint-Cyprien",
+  "country": "France",
+  "websites": [
+   "https://kartingstcyprien.fr/"
+  ],
+  "mapped_length_m": 849
+ },
+ {
+  "id": "way/65283310",
+  "name": "Energy Karting Saint-Cyr",
+  "town": "Saint-Cyr",
+  "country": "France",
+  "websites": [
+   "https://www.energykarting-stcyr.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13377968137",
+  "name": "Passion Karting 17",
+  "town": "Saint-Jean-d'Angély",
+  "country": "France",
+  "websites": [
+   "https://www.passionkarting17.fr/"
+  ],
+  "mapped_length_m": 676
+ },
+ {
+  "id": "way/700028361",
+  "name": "Actua Karting (Circuits de Lyon)",
+  "town": "Saint-Laurent-de-Mure",
+  "country": "France",
+  "websites": [
+   "https://www.actua-organisation.fr/"
+  ],
+  "mapped_length_m": 1181
+ },
+ {
+  "id": "way/170360227",
+  "name": "Db Karting",
+  "town": "Saint-Lyé",
+  "country": "France",
+  "websites": [
+   "https://dbkarting.fr/"
+  ],
+  "mapped_length_m": 598
+ },
+ {
+  "id": "way/196775114",
+  "name": "Pôle Mécanique Karting",
+  "town": "Saint-Martin-de-Valgalgues",
+  "country": "France",
+  "websites": [
+   "https://pole-mecanique-karting.fr",
+   "https://www.pole-mecanique.fr/nos-circuits/circuit-karting/"
+  ],
+  "mapped_length_m": 1767
+ },
+ {
+  "id": "node/13157094160",
+  "name": "Planet Karting",
+  "town": "Saint-Martin-lez-Tatinghem",
+  "country": "France",
+  "websites": [
+   "https://www.planet-karting.com/",
+   "https://www.facebook.com/PlanetKarting"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/235387321",
+  "name": "Racing Kart Jade (RKJ)",
+  "town": "Saint-Michel-Chef-Chef",
+  "country": "France",
+  "websites": [
+   "https://rkj.fr/"
+  ],
+  "mapped_length_m": 972
+ },
+ {
+  "id": "way/1528584088",
+  "name": "Karting de Saint-Malo",
+  "town": "Saint-Méloir-des-Ondes",
+  "country": "France",
+  "websites": [
+   "https://www.karting-saint-malo.com/"
+  ],
+  "mapped_length_m": 891
+ },
+ {
+  "id": "way/196085614",
+  "name": "Karting Distrakart",
+  "town": "Saint-Paulien",
+  "country": "France",
+  "websites": [
+   "http://www.distrakart.fr"
+  ],
+  "mapped_length_m": 578
+ },
+ {
+  "id": "way/672536847",
+  "name": "Circuit de Barcelonnette",
+  "town": "Saint-Pons",
+  "country": "France",
+  "websites": [
+   "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/"
+  ],
+  "mapped_length_m": 375
+ },
+ {
+  "id": "node/5607946169",
+  "name": "City Kart Indoor",
+  "town": "Saint-Sébastien-sur-Loire",
+  "country": "France",
+  "websites": [
+   "https://www.city-kart.fr/karting-indoor-de-nantes/",
+   "https://www.city-kart.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/11111781069",
+  "name": "Fast & Green",
+  "town": "Saint-Étienne",
+  "country": "France",
+  "websites": [
+   "https://www.fast-and-green.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/11635025481",
+  "name": "KHUB Arras",
+  "town": "Sainte-Catherine",
+  "country": "France",
+  "websites": [
+   "https://khub-arras.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/179620169",
+  "name": "Sologne Karting - Circuit International de Salbris",
+  "town": "Salbris",
+  "country": "France",
+  "websites": [
+   "https://www.sologne-karting.com/"
+  ],
+  "mapped_length_m": 1729
+ },
+ {
+  "id": "node/1554844424",
+  "name": "Kart Racer",
+  "town": "Saran",
+  "country": "France",
+  "websites": [
+   "https://www.kartracer.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1326128880",
+  "name": "City Kart Outdoor",
+  "town": "Sautron",
+  "country": "France",
+  "websites": [
+   "https://www.city-kart.fr/"
+  ],
+  "mapped_length_m": 722
+ },
+ {
+  "id": "way/154944821",
+  "name": "MK Circuit",
+  "town": "Scientrier",
+  "country": "France",
+  "websites": [
+   "http://www.mk-circuit.com"
+  ],
+  "mapped_length_m": 1184
+ },
+ {
+  "id": "way/680299871",
+  "name": "Circuit de l'Enclos",
+  "town": "Septfontaines",
+  "country": "France",
+  "websites": [
+   "http://www.circuitdelenclos.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/201662702",
+  "name": "Circuit de l'Europe",
+  "town": "Sotteville-sous-le-Val",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-europe.fr"
+  ],
+  "mapped_length_m": 1144
+ },
+ {
+  "id": "way/123072286",
+  "name": "Sens Espaces Karting (Circuit de Soucy)",
+  "town": "Soucy",
+  "country": "France",
+  "websites": [
+   "https://www.sek.fr/"
+  ],
+  "mapped_length_m": 1905
+ },
+ {
+  "id": "way/410308914",
+  "name": "Racing Kart du Mans",
+  "town": "Soulitré",
+  "country": "France",
+  "websites": [
+   "https://www.racingkartdumans.com/"
+  ],
+  "mapped_length_m": 1703
+ },
+ {
+  "id": "node/12886232964",
+  "name": "Sélest'Kart-IN",
+  "town": "Sélestat",
+  "country": "France",
+  "websites": [
+   "https://www.selestkart-in.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/961590105",
+  "name": "Sun Karting",
+  "town": "Sérignan",
+  "country": "France",
+  "websites": [
+   "http://www.sunkarting.fr"
+  ],
+  "mapped_length_m": 663
+ },
+ {
+  "id": "way/136274608",
+  "name": "Passion Karting 16",
+  "town": "Taponnat-Fleurignac",
+  "country": "France",
+  "websites": [
+   "https://www.passionkarting16.fr"
+  ],
+  "mapped_length_m": 725
+ },
+ {
+  "id": "way/1078855429",
+  "name": "Karting de la Gravona",
+  "town": "Tavaco",
+  "country": "France",
+  "websites": [
+   "https://karting-gravona.corsica/"
+  ],
+  "mapped_length_m": 590
+ },
+ {
+  "id": "way/533293229",
+  "name": "Circuit de Vaison Piste",
+  "town": "Torcy",
+  "country": "France",
+  "websites": [
+   "https://vaisonpiste.com/"
+  ],
+  "mapped_length_m": 1837
+ },
+ {
+  "id": "way/290715452",
+  "name": "Karting de Torreilles",
+  "town": "Torreilles",
+  "country": "France",
+  "websites": [
+   "https://www.kartingtorreilles.com"
+  ],
+  "mapped_length_m": 1283
+ },
+ {
+  "id": "way/76329770",
+  "name": "Défikart",
+  "town": "Toulouse",
+  "country": "France",
+  "websites": [
+   "https://www.defikart.fr"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/290715520",
+  "name": "Karting Toulouse Montaudran",
+  "town": "Toulouse",
+  "country": "France",
+  "websites": [
+   "https://kartingtoulouse.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1198636134",
+  "name": "Karting du Grand Arc",
+  "town": "Tournon",
+  "country": "France",
+  "websites": [
+   "https://kartingdugrandarc.fr/"
+  ],
+  "mapped_length_m": 1149
+ },
+ {
+  "id": "node/1700260286",
+  "name": "SpeedPark Vannes",
+  "town": "Vannes",
+  "country": "France",
+  "websites": [
+   "https://www.karting-bowling.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/218430826",
+  "name": "ClotKart",
+  "town": "Vaudoy-en-Brie",
+  "country": "France",
+  "websites": [
+   "https://www.clotkart.com"
+  ],
+  "mapped_length_m": 1210
+ },
+ {
+  "id": "way/158604014",
+  "name": "Karting Montalivet",
+  "town": "Vendays-Montalivet",
+  "country": "France",
+  "websites": [
+   "http://www.karting-montalivet.com/"
+  ],
+  "mapped_length_m": 748
+ },
+ {
+  "id": "way/51983875",
+  "name": "Technikart",
+  "town": "Vendeuvre",
+  "country": "France",
+  "websites": [
+   "https://www.technikart.fr/",
+   "https://www.facebook.com/technikart.karting"
+  ],
+  "mapped_length_m": 1677
+ },
+ {
+  "id": "node/13410549388",
+  "name": "Karting 55",
+  "town": "Verdun",
+  "country": "France",
+  "websites": [
+   "https://k55.fr/accueil-karting/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/926799067",
+  "name": "MegaKart",
+  "town": "Vias",
+  "country": "France",
+  "websites": [
+   "https://www.megakart.fr"
+  ],
+  "mapped_length_m": 1034
+ }
+]

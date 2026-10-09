@@ -1,0 +1,453 @@
+[
+ {
+  "id": "node/6205111509",
+  "name": "Karthalle Mainz",
+  "town": "Mainz",
+  "country": "Germany",
+  "websites": [
+   "https://karthalle-mainz.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13374883723",
+  "name": "Kart Arena Marktzeuln (Actionarena)",
+  "town": "Marktzeuln",
+  "country": "Germany",
+  "websites": [
+   "https://www.actionarena.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/14002285223",
+  "name": "BattleKart Marne",
+  "town": "Marne",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/marne"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12806062014",
+  "name": "BattleKart Koblenz-Mayen",
+  "town": "Mayen",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/822046091",
+  "name": "Kartbahn Ampfing",
+  "town": "Mettenheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartshop-ampfing.de"
+  ],
+  "mapped_length_m": 1138
+ },
+ {
+  "id": "node/12497729617",
+  "name": "TeamSport E-Karting",
+  "town": "Mönchengladbach",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/moenchengladbach"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/814876030",
+  "name": "Arena E",
+  "town": "Mülsen",
+  "country": "Germany",
+  "websites": [
+   "https://arena-e.de"
+  ],
+  "mapped_length_m": 492
+ },
+ {
+  "id": "node/997947153",
+  "name": "Sport Kart Münster",
+  "town": "Münster",
+  "country": "Germany",
+  "websites": [
+   "https://www.sportkart-muenster.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2587252307",
+  "name": "Kart & Fun Kartbahn Neckartenzlingen",
+  "town": "Neckartenzlingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-und-fun.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/108799424",
+  "name": "Ecodrom Kartbahn Neu-Ulm",
+  "town": "Neu-Ulm",
+  "country": "Germany",
+  "websites": [
+   "https://ecodrom.de/"
+  ],
+  "mapped_length_m": 563
+ },
+ {
+  "id": "way/97901794",
+  "name": "Kartbahn Neubrandenburg",
+  "town": "Neubrandenburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-mv.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1410399039",
+  "name": "Battle Kart Düsseldorf-Neuss",
+  "town": "Neuss",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/458296932",
+  "name": "GO102 – Die Kartbahn",
+  "town": "Niedergörsdorf",
+  "country": "Germany",
+  "websites": [
+   "https://go102.de/"
+  ],
+  "mapped_length_m": 1757
+ },
+ {
+  "id": "way/298258534",
+  "name": "InAction Oberwerrn",
+  "town": "Niederwerrn",
+  "country": "Germany",
+  "websites": [
+   "https://www.inaction-oberwerrn.de/"
+  ],
+  "mapped_length_m": 265
+ },
+ {
+  "id": "way/204316334",
+  "name": "Kartbahn MSC Nussloch",
+  "town": "Nußloch",
+  "country": "Germany",
+  "websites": [
+   "https://leihkart.msc-nussloch.de/"
+  ],
+  "mapped_length_m": 771
+ },
+ {
+  "id": "node/3761972821",
+  "name": "ring°kartbahn",
+  "town": "Nürburg",
+  "country": "Germany",
+  "websites": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/89254346",
+  "name": "Kartbahn Motorsport Arena Oschersleben",
+  "town": "Oschersleben",
+  "country": "Germany",
+  "websites": [
+   "https://www.motorsportarena.com/"
+  ],
+  "mapped_length_m": 1192
+ },
+ {
+  "id": "way/480988747",
+  "name": "TeamSport E-Karting",
+  "town": "Osnabrück",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/osnabrueck"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1444721703",
+  "name": "MSC Osterhofen",
+  "town": "Osterhofen",
+  "country": "Germany",
+  "websites": [
+   "https://msc-osterhofen.jimdoweb.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/582975406",
+  "name": "E-Fun-Park-Pottenstein",
+  "town": "Pottenstein",
+  "country": "Germany",
+  "websites": [
+   "https://www.e-fun-park-pottenstein.de/"
+  ],
+  "mapped_length_m": 237
+ },
+ {
+  "id": "way/223180179",
+  "name": "Kart-O-Drom",
+  "town": "Rastede",
+  "country": "Germany",
+  "websites": [
+   "https://kart-o-drom.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/89322197",
+  "name": "Motor Sportclub Rathenow e.V. im ADAC",
+  "town": "Rathenow",
+  "country": "Germany",
+  "websites": [
+   "https://mcrathenow.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/128574048",
+  "name": "Kartbahn Rheinfelden",
+  "town": "Rheinfelden (Baden)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-rheinfelden.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/904546979",
+  "name": "Kart am Alfsee",
+  "town": "Rieste",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-am-alfsee.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/33894329",
+  "name": "Kartcenter Rostock",
+  "town": "Rostock",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartcenter-rostock.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/34410664",
+  "name": "Hanse Gokart Racing",
+  "town": "Rostock",
+  "country": "Germany",
+  "websites": [
+   "http://www.hansegokart.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4144064752",
+  "name": "indyKart Rottweil",
+  "town": "Rottweil",
+  "country": "Germany",
+  "websites": [
+   "http://www.indykart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/38305241",
+  "name": "FAHR-WERK outdoor kartbahn und motocross-strecke",
+  "town": "Schaafheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.fahrwerk.de/kartfahren-outdoor/",
+   "https://www.fahrwerk.de/"
+  ],
+  "mapped_length_m": 1017
+ },
+ {
+  "id": "way/74481523",
+  "name": "Sax Freizeit Center (Saxracing)",
+  "town": "Schkeuditz",
+  "country": "Germany",
+  "websites": [
+   "https://saxfreizeitcenter.de/"
+  ],
+  "mapped_length_m": 609
+ },
+ {
+  "id": "way/87439125",
+  "name": "Kartbahn Schleswig",
+  "town": "Schleswig",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-schleswig.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/138621802",
+  "name": "Outdoorkartbahn Niederkrüchten (Kartbahn Schwalmtal)",
+  "town": "Schwalmtal",
+  "country": "Germany",
+  "websites": [
+   "http://www.outdoorkartbahn.com"
+  ],
+  "mapped_length_m": 853
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "town": "Schwerin",
+  "country": "Germany",
+  "websites": [
+   "https://www.motodrom-schwerin.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/727712552",
+  "name": "Seealm-Ring",
+  "town": "Schönau am Königssee",
+  "country": "Germany",
+  "websites": [
+   "http://www.seealm-ring.de/"
+  ],
+  "mapped_length_m": 177
+ },
+ {
+  "id": "way/110163356",
+  "name": "Spreewaldring Kartcenter",
+  "town": "Schönwald",
+  "country": "Germany",
+  "websites": [
+   "https://kart-center.de/"
+  ],
+  "mapped_length_m": 877
+ },
+ {
+  "id": "way/257074018",
+  "name": "Sensadrom Indoor E-Kartbahn",
+  "town": "Sindelfingen",
+  "country": "Germany",
+  "websites": [
+   "https://sensadrom.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/121599004",
+  "name": "KARTBAHN Alemannenring",
+  "town": "Singen (Hohentwiel)",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-alemannenring.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "town": "Sinn",
+  "country": "Germany",
+  "websites": [
+   "http://kartland-sinn.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/61560044",
+  "name": "BattleKart St-Leon-Rot",
+  "town": "St. Leon-Rot",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/st-leon-rot"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "town": "Stralsund",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-mv.de/Stralsund/home.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "town": "Strasburg (Uckermark)",
+  "country": "Germany",
+  "websites": [
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "mapped_length_m": 276
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "town": "Straubing",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartclub-straubing.de"
+  ],
+  "mapped_length_m": 1177
+ },
+ {
+  "id": "node/5207433462",
+  "name": "Kart-o-Mania",
+  "town": "Stuttgart",
+  "country": "Germany",
+  "websites": [
+   "https://kart-stuttgart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "town": "Sulz am Neckar",
+  "country": "Germany",
+  "websites": [
+   "http://www.hallenkartbahn-sulz.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/377273485",
+  "name": "Kart-Bahn Templiner Ring",
+  "town": "Templin",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-templin.de"
+  ],
+  "mapped_length_m": 92
+ },
+ {
+  "id": "way/446905417",
+  "name": "Kart-Bahn Teningen",
+  "town": "Teningen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "mapped_length_m": 772
+ }
+]

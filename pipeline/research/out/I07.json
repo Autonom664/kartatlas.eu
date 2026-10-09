@@ -1,0 +1,838 @@
+[
+ {
+  "id": "way/841075101",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t436433s.html",
+   "https://maltatoday.com.mt/sports/motorsports/13889/adrian-cauchi-braves-the-weather-in-melilli"
+  ],
+  "note": "Race track at Villasmundo (Melilli) that has hosted regional karting championship rounds; no website, current status or rental info found."
+ },
+ {
+  "id": "relation/3745641",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; lies about 600 m from Karting Club Messina (way/199478193), so it may be the same venue or a duplicate."
+ },
+ {
+  "id": "way/199478193",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/karting-club-messina--e19745065"
+  ],
+  "note": "Amateur sports association on Via Ayrton Senna with a 600 m seaside track; driving requires club membership; kart rental not confirmed."
+ },
+ {
+  "id": "relation/3745642",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Pistunina; possibly related to Karting Club Messina nearby."
+ },
+ {
+  "id": "way/79425610",
+  "name": "Kartodromo e Miniautodromo Kinisia",
+  "type": "outdoor",
+  "website": "http://www.kinisia.it/",
+  "websites": [
+   {
+    "url": "http://www.kinisia.it/",
+    "role": "venue",
+    "name": "Kartodromo Kinisia Trapani"
+   }
+  ],
+  "phone": "+39 339 190 8016; +39 0923 864053",
+  "email": "kinisia1@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "http://www.kinisia.it/"
+  ],
+  "note": "Offers kart rental including night rental; located at SS115 km 13.5, Rilievo (Trapani)."
+ },
+ {
+  "id": "way/1279836528",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only map/hotel listings mention a 'Pista Go Cart' near Nizza di Sicilia; no operator details found."
+ },
+ {
+  "id": "way/371434965",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Paterno; 192 m track may be a small or private circuit."
+ },
+ {
+  "id": "way/233149657",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Patti; nearest known rental track is Riverkarting in Capo d'Orlando."
+ },
+ {
+  "id": "way/1189901998",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979109132061782016/kartodromo-gilles-villeneuve"
+  ],
+  "note": "Only listed as a landmark; no website, status or rental information found."
+ },
+ {
+  "id": "way/286460358",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Puntarazzi (Ragusa)."
+ },
+ {
+  "id": "way/462851004",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Rosolini."
+ },
+ {
+  "id": "way/1181814898",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Canalicchio (Siracusa); nearest known tracks are Avola and Pista del Sole (Melilli)."
+ },
+ {
+  "id": "way/628018324",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.mbr-sport.it",
+  "websites": [
+   {
+    "url": "https://www.mbr-sport.it",
+    "role": "venue",
+    "name": "Autodromo Vincenzo Florio (MBR Sport)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://motori.quotidiano.net/comefare/circuito-torretta-tutte-le-informazioni-utili-sullautodromo.htm"
+  ],
+  "note": "Car/motorbike circuit (about 2.4 km) in Torretta; known business.site URL is dead and no karting activity was confirmed."
+ },
+ {
+  "id": "way/1508114399",
+  "name": "Circuito Internazionale Sole Luna",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/kartodromo-sole-luna--e17758",
+   "https://www.quotidianodiragusa.it/2023/10/12/attualita/vittoria-selezione-internazionale-per-piloti-di-karting-al-circuito-sole-luna",
+   "https://www.maltatoday.com.mt/sports/motorsports/41567/gianluca_dingli_looks_forward_to_another_super_rok_success_at_pista_sole_e_luna"
+  ],
+  "note": "1.39 km track at C.da Ribaudo hosting regional/national/international races (incl. 24h endurance in 2023); listing says it is open to hire by individuals and groups but kart rental is not explicit."
+ },
+ {
+  "id": "way/452878310",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://in.hotels.com/tgp/lodging/979109410980900864/kartodromo-di-vittoria"
+  ],
+  "note": "Separate from Sole Luna (837 m vs 1.39 km); a 'Pista Kart Vittoria' directory listing exists but could not be opened."
+ },
+ {
+  "id": "way/62801217",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Lido di Camaiore; 246 m track may be a seasonal/amusement track."
+ },
+ {
+  "id": "way/185017673",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kartelba.it",
+  "websites": [
+   {
+    "url": "https://kartelba.it",
+    "role": "rental",
+    "name": "Kart Elba"
+   }
+  ],
+  "phone": "+39 0565 971000; +39 348 6035809",
+  "email": "info@kartelba.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://kartelba.it"
+  ],
+  "note": "Seasonal: closed for end of season, reopening spring 2027; single-seat and two-seat (biposto) rental karts."
+ },
+ {
+  "id": "way/133611214",
+  "name": "Circuito di Siena",
+  "type": "outdoor",
+  "website": "https://www.circuitodisiena.it/",
+  "websites": [
+   {
+    "url": "https://www.circuitodisiena.it/",
+    "role": "venue",
+    "name": "Circuito di Siena"
+   }
+  ],
+  "phone": "+39 0577 352075; +39 331 7258268",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "TB Kart R25",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "TB Kart",
+    "engine": "390cc",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.circuitodisiena.it/"
+  ],
+  "note": "Open daily except Tuesday; available for rental and private entry with own vehicles; 390cc TB Kart fleet used for Grand Prix events."
+ },
+ {
+  "id": "way/339406821",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/pista-del-mare--e17249"
+  ],
+  "note": "Pista del Mare Srl at Loc. Il Paduletto, 1080 m; karts available for company/friends races with staff; also open to cars midweek; no website found."
+ },
+ {
+  "id": "way/1396182326",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/karting/club-del-miniautodromo--e19682185"
+  ],
+  "note": "No venue confirmed at these coordinates; a 'Club del Miniautodromo' (Via Aurelia Sud 112, Massa) exists but the match is unverified."
+ },
+ {
+  "id": "way/227703486",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t310556s.html"
+  ],
+  "note": "Possibly the 'Pista Minimoto e Kart Montemurlo' (via Ombrone, Ponte Bocci) mentioned in a 2008 forum post; current status unverified."
+ },
+ {
+  "id": "way/375056306",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Iolo (Prato)."
+ },
+ {
+  "id": "way/154708903",
+  "name": "Kartodromo 2000",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": "kartingsiena@libero.it",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t502829s.html"
+  ],
+  "note": "Listed at Loc. Aeroporto di Ampugnano, Sovicille in a 2010 forum post; current status unverified."
+ },
+ {
+  "id": "relation/2625023",
+  "name": "Ala Karting Circuit",
+  "type": "outdoor",
+  "website": "https://www.alakarting.it/",
+  "websites": [
+   {
+    "url": "https://www.alakarting.it/",
+    "role": "venue",
+    "name": "Ala Karting Circuit"
+   }
+  ],
+  "phone": "+39 366 2263776",
+  "email": "info@alakarting.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.alakarting.it/",
+   "https://tkart.it/en/news/features/ala-karting-circuit-has-been-completely-renovated",
+   "https://www.ladige.it/territori/vallagarina/venduto-il-kartodromo-di-ala-va-in-mano-ai-giovani-piloti-altoatesini-hhb2g9dm"
+  ],
+  "note": "Sold to Ebner Technology and fully renovated (2025); ACI Sport grade B homologation; ERK GmbH runs track/rental, Trentina Karting runs races."
+ },
+ {
+  "id": "way/254029345",
+  "name": "Ice Racing Kart Andalo",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": "iceracingkart@yahoo.it",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.italia.it/it/italia/cosa-fare/go-kart-sul-ghiaccio-e-team-building",
+   "https://www.trentino.com/it/sport-e-tempo-libero/bambini-e-famiglia/ice-racing-kart-andalo/"
+  ],
+  "note": "Electric karts on synthetic ice (Neveplast) surface at Laghet, min age 7; seasonal; phone given inconsistently as 392 745159 / 392 7745159."
+ },
+ {
+  "id": "way/953744536",
+  "name": "Ice Kart Caldonazzo",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.italia.it/it/italia/cosa-fare/go-kart-sul-ghiaccio-e-team-building"
+  ],
+  "note": "450 m ice-style kart track at Lochere di Caldonazzo with transponder-timed 10-minute races; no contact details found."
+ },
+ {
+  "id": "way/208383998",
+  "name": "Frasnelli Karting Parc (Safety Park)",
+  "type": "outdoor",
+  "website": "https://www.frasnelli-kart.com/",
+  "websites": [
+   {
+    "url": "https://www.frasnelli-kart.com/",
+    "role": "rental",
+    "name": "Frasnelli Kart"
+   }
+  ],
+  "phone": "+39 0471 590446; +39 335 6069288",
+  "email": "info@frasnelli-kart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://www.frasnelli-kart.com/de/go-kart-verleih",
+   "https://www.suedtirolerland.it/it/video/corse-sui-go-kart-al-safety-park/"
+  ],
+  "note": "Kart track at Safety Park Vadena/Pfatten run by Frasnelli Kart; rental for adults, kids (7+), twin karts and handicap karts (class other)."
+ },
+ {
+  "id": "way/452956087",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+39 333 5090099",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "80cc",
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": "100cc",
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/kartodromo-le-querce--e17274",
+   "https://www.yumping.com/en/karting/le-querce-karting--e19745827"
+  ],
+  "note": "Known website no longer resolves; directory listings show rental (80/100/120cc) and own karts allowed; current status unverified."
+ },
+ {
+  "id": "way/1485145255",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Papigno (Terni); 200 m track may be small/private."
+ },
+ {
+  "id": "node/12921922098",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://royaldrivingexperience.com",
+  "websites": [
+   {
+    "url": "https://royaldrivingexperience.com",
+    "role": "venue",
+    "name": "Royal Driving Experience"
+   }
+  ],
+  "phone": "+39 0165 831611",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://royaldrivingexperience.com"
+  ],
+  "note": "Driving-experience venue (snow/ice driving courses, events) at Entreves; website does not mention karting."
+ },
+ {
+  "id": "way/300265611",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Montjovet/Champdepraz."
+ },
+ {
+  "id": "way/1553175056",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://laquercia58.com/",
+  "websites": [
+   {
+    "url": "https://laquercia58.com/",
+    "role": "rental",
+    "name": "Pista La Quercia 58"
+   }
+  ],
+  "phone": "+39 351 743 0017",
+  "email": "pistalaquercia58@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "TB Kart",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://laquercia58.com/"
+  ],
+  "note": "About 400 m track with three layouts; rental Feb-Oct 17:00-22:00, closed Wednesdays; also Ohvale minimoto rental."
+ },
+ {
+  "id": "way/798432703",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.adriaraceway.com/",
+  "websites": [
+   {
+    "url": "https://www.adriaraceway.com/",
+    "role": "venue",
+    "name": "Adria Karting Raceway"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://tkart.it/en/kartpedia/track/adria-international-raceway",
+   "https://acisport.it/en/CIK/news/2015/8003/the-italian-aci-karting-championship-at-the-new-circuit-of-adria"
+  ],
+  "note": "International race track (about 1.3 km) hosting ACI championships; rental karts not confirmed (a 2018 article mentions an indoor rental track at the complex)."
+ },
+ {
+  "id": "node/3430966001",
+  "name": "AFFI Kart Indoor",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/affi-kart-indoor--e19745043",
+   "https://www.livetheworld.com/activities/italy/affi-kart-indoor"
+  ],
+  "note": "Two-level indoor track at Via Archimede 2 (opened 2013) offering race simulations and kids sessions; input said outdoor; no website found."
+ },
+ {
+  "id": "way/674711953",
+  "name": "The Way Kart Vicenza",
+  "type": "indoor",
+  "website": "https://www.thewaykart.com/",
+  "websites": [
+   {
+    "url": "https://www.thewaykart.com/",
+    "role": "venue",
+    "name": "The Way Kart"
+   },
+   {
+    "url": "https://www.vki.it/",
+    "role": "other",
+    "name": "Vicenza Kart Indoor (redirects)"
+   }
+  ],
+  "phone": "+39 0444 371351",
+  "email": "info@thewaykart.com",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.thewaykart.com/"
+  ],
+  "note": "vki.it now redirects to The Way Kart, which lists a venue at Via Verona 74/w Altavilla Vicentina with the same phone; rental details not stated on the fetched page."
+ },
+ {
+  "id": "way/329967622",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/kartodromo-arzignano"
+  ],
+  "note": "Track appears as 'Kartodromo Arzignano' (kart, minimoto, pitbike, motard) with rental per a generic directory; 'Tris Car Club' itself not found."
+ },
+ {
+  "id": "way/537258626",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Ca' Lino (Chioggia)."
+ },
+ {
+  "id": "node/11516266753",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for 'pista gruarese'."
+ },
+ {
+  "id": "node/13019575417",
+  "name": null,
+  "type": "indoor",
+  "website": "https://pgkvenezia.com/",
+  "websites": [
+   {
+    "url": "https://pgkvenezia.com/",
+    "role": "rental",
+    "name": "PGK Karting Network Venezia"
+   }
+  ],
+  "phone": "+39 376 2036233",
+  "email": "info@pgkvenezia.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://pgkvenezia.com/"
+  ],
+  "note": "550 m two-level indoor electric kart track inside a shopping centre; input said outdoor."
+ },
+ {
+  "id": "node/9330585649",
+  "name": "BI Karting",
+  "type": "indoor",
+  "website": "https://www.bikarting.com/",
+  "websites": [
+   {
+    "url": "https://www.bikarting.com/",
+    "role": "rental",
+    "name": "BI Karting"
+   }
+  ],
+  "phone": "+39 049 945 0066; +39 393 243 6755",
+  "email": "info@bikarting.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.bikarting.com/"
+  ],
+  "note": "New indoor kart track with rental; separate outdoor track used for motorbikes."
+ }
+]

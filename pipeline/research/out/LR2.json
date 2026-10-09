@@ -1,0 +1,850 @@
+[
+ {
+  "id": "node/5914598951",
+  "tracks": [],
+  "source": null,
+  "note": "Website lists only paintball, lasergame and archery tag; no karting track described."
+ },
+ {
+  "id": "way/242783734",
+  "tracks": [],
+  "source": null,
+  "note": "Several tracks (indoor electric, outdoor bioethanol, kids indoor/outdoor, baby kart) but no lengths stated; an article teaser says the indoor track is 'more than 500 m'."
+ },
+ {
+  "id": "way/1560503900",
+  "tracks": [
+   {
+    "name": "Circuit de Douvrin",
+    "length_m": 1000,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://kll.fr/",
+  "note": null
+ },
+ {
+  "id": "way/796566900",
+  "tracks": [
+   {
+    "name": "Karting Indoor Douzy",
+    "length_m": 435,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://ardenneskarting.fr/karting-indoor-2/",
+  "note": null
+ },
+ {
+  "id": "way/126711889",
+  "tracks": [],
+  "source": null,
+  "note": "Site mentions new layouts but states no track length."
+ },
+ {
+  "id": "way/1540863442",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart arena of 1800 m2; no track length stated."
+ },
+ {
+  "id": "way/296836943",
+  "tracks": [],
+  "source": null,
+  "note": "Site names two tracks (Monaco and Monza) but states no lengths."
+ },
+ {
+  "id": "node/5523518508",
+  "tracks": [
+   {
+    "name": "Stras Kart indoor",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.straskart.fr/",
+  "note": "Indoor electric track on two levels."
+ },
+ {
+  "id": "way/124372087",
+  "tracks": [
+   {
+    "name": "Piste Indoor",
+    "length_m": 600,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Piste Outdoor",
+    "length_m": 900,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.lillekarting.fr/",
+  "note": null
+ },
+ {
+  "id": "way/404696632",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1400,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartlandes.com/",
+  "note": null
+ },
+ {
+  "id": "way/98867497",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 780,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://karting-espoey.com/karting/",
+  "note": null
+ },
+ {
+  "id": "way/290666067",
+  "tracks": [
+   {
+    "name": "Piste Karting",
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://circuitdebresse.com/location-karting-particulier/",
+  "note": "Outdoor karting track, FFSA category 1; venue also has a separate long car circuit."
+ },
+ {
+  "id": "way/183430322",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website redirects to google.com."
+ },
+ {
+  "id": "way/81731257",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the K1 Speed Lyon pages."
+ },
+ {
+  "id": "way/196334663",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.manachakart.com/",
+  "note": "FFSA-homologated circuit."
+ },
+ {
+  "id": "way/26365237",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the site."
+ },
+ {
+  "id": "way/290677286",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.gkl-karting.fr",
+  "note": "Homologated in both directions."
+ },
+ {
+  "id": "way/290681900",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.sunkart.fr/circuit",
+  "note": "Also a baby-kart mini circuit with no stated length."
+ },
+ {
+  "id": "node/10743412563",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the site."
+ },
+ {
+  "id": "way/1122917959",
+  "tracks": [
+   {
+    "name": "Piste de 700 m",
+    "length_m": 700,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Piste de 1100 m",
+    "length_m": 1100,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.speedkart.fr/",
+  "note": "Adult circuits; a separate 450 m junior circuit is also listed."
+ },
+ {
+  "id": "way/632898494",
+  "tracks": [
+   {
+    "name": "Circuit 450m",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.speedkart.fr/",
+  "note": "Junior circuit of Speedkart."
+ },
+ {
+  "id": "node/12422844942",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the K1 Speed Caen page."
+ },
+ {
+  "id": "way/1192618778",
+  "tracks": [
+   {
+    "name": "Piste loisirs",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste competition",
+    "length_m": 1050,
+    "width_m": 7,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.madeinkart.com/",
+  "note": "The 1050 m track is UFOLEP homologated; the site also calls it the longest leisure track."
+ },
+ {
+  "id": "node/11066847282",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the site."
+ },
+ {
+  "id": "way/1529018102",
+  "tracks": [
+   {
+    "name": "Grand circuit",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://mecamax.com/karting/",
+  "note": "FFSA homologated in both directions; also two baby-kart tracks with no stated length."
+ },
+ {
+  "id": "way/229180444",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the site."
+ },
+ {
+  "id": "way/54413439",
+  "tracks": [
+   {
+    "name": "Piste Kart",
+    "length_m": 1055,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuitdehautesaintonge.com/piste-kart/",
+  "note": "Venue also has a separate speed circuit for cars/bikes."
+ },
+ {
+  "id": "way/661901313",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 780,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.vendeekart.fr/",
+  "note": null
+ },
+ {
+  "id": "way/590746258",
+  "tracks": [],
+  "source": null,
+  "note": "Club sport page mentions the La Laupie circuit but gives no dimensions."
+ },
+ {
+  "id": "node/12595478788",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart arena of 1950 m2 (complex 3000 m2); no track length stated."
+ },
+ {
+  "id": "way/706242692",
+  "tracks": [
+   {
+    "name": "Circuit Arena 45",
+    "length_m": 1108,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.arena45.fr/",
+  "note": null
+ },
+ {
+  "id": "way/675701556",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website SSL certificate has expired."
+ },
+ {
+  "id": "node/6799381818",
+  "tracks": [],
+  "source": null,
+  "note": "Karting page states no track length."
+ },
+ {
+  "id": "way/34179469",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website refused connection."
+ },
+ {
+  "id": "way/812835940",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.karting-ardeche.com/",
+  "note": "Modular track, FFSA category 1."
+ },
+ {
+  "id": "way/1525230649",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1300,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting-lavilledieu.com/",
+  "note": null
+ },
+ {
+  "id": "way/290722217",
+  "tracks": [
+   {
+    "name": "Circuit de Layrac",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://lfkarting.fr/",
+  "note": null
+ },
+ {
+  "id": "way/270319605",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website renders no content (title only)."
+ },
+ {
+  "id": "way/77406149",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website refused connection."
+ },
+ {
+  "id": "way/242948675",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 964,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartingcircuitpaulricard.com/",
+  "note": null
+ },
+ {
+  "id": "node/12792155555",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the K1 Speed Le Mans pages."
+ },
+ {
+  "id": "way/34544629",
+  "tracks": [
+   {
+    "name": "Circuit Alain Prost A",
+    "length_m": 980,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Circuit Alain Prost B",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Circuit Indy-Kart",
+    "length_m": 805,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Circuit International de Karting",
+    "length_m": 1400,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.lemans-karting.com/karting/nos-circuits/circuit-alain-prost/",
+  "note": "Le Mans Karting operates three circuits; Alain Prost has layouts A and B."
+ },
+ {
+  "id": "node/3761972789",
+  "tracks": [
+   {
+    "name": "Gesamt-Rennstrecke",
+    "length_m": 900,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.knatterdrom.de/",
+  "note": "Combined indoor and outdoor track."
+ },
+ {
+  "id": "node/392851670",
+  "tracks": [
+   {
+    "name": "In- & Outdoorkartbahn",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartcenter-grimma.de",
+  "note": "Combined indoor and outdoor track."
+ },
+ {
+  "id": "way/93901937",
+  "tracks": [
+   {
+    "name": "Indoor-Kartbahn",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.fahrwerk.de/kartfahren-indoor/",
+  "note": "Indoor track over four levels."
+ },
+ {
+  "id": "way/29176372",
+  "tracks": [
+   {
+    "name": "Kartbahn",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.kartion.de",
+  "note": "Indoor track with 17 corners."
+ },
+ {
+  "id": "way/1120780117",
+  "tracks": [
+   {
+    "name": "Goerlitz-Ring",
+    "length_m": 900,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartbahn-goerlitz-ring.de/unsere-kartbahn",
+  "note": "Stated as approx. 900 m; later extended with two straights and a hairpin, no new length given."
+ },
+ {
+  "id": "way/129879602",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor track with summer outdoor extension; no length stated."
+ },
+ {
+  "id": "way/751984689",
+  "tracks": [],
+  "source": null,
+  "note": "No track length or arena size stated on the BattleKart page."
+ },
+ {
+  "id": "node/2673845362",
+  "tracks": [
+   {
+    "name": "Kart-o-Mania Hannover",
+    "length_m": 390,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartomania-hannover.de/kartbahn-hannover-kart-o-mania/",
+  "note": "Stated as about 390 m; electric karts. Sister site Laatzen is about 450 m."
+ },
+ {
+  "id": "way/92468697",
+  "tracks": [
+   {
+    "name": "Kart- & CrossBahn",
+    "length_m": 600,
+    "width_m": 7,
+    "use": null
+   },
+   {
+    "name": "Cross Strecke",
+    "length_m": 450,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://emslandring.de/",
+  "note": "Kart track width stated as 6 to 7 m; also a BattleKart arena on site."
+ },
+ {
+  "id": "way/51050374",
+  "tracks": [],
+  "source": null,
+  "note": "Club site states no track length."
+ },
+ {
+  "id": "way/765177897",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://ms-kartcenter-hattingen.de/karthalle/strecke",
+  "note": "Page gives both '500+ m' and 'around 450 m'; layout changes regularly."
+ },
+ {
+  "id": "way/550349415",
+  "tracks": [],
+  "source": null,
+  "note": "Combined indoor/outdoor track described as the longest in central Germany, but no length stated."
+ },
+ {
+  "id": "way/144460956",
+  "tracks": [
+   {
+    "name": "Indoor Rennstrecke",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.indoor-superkart.de/",
+  "note": null
+ },
+ {
+  "id": "way/93099535",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website SSL certificate does not match the domain."
+ },
+ {
+  "id": "node/7239416109",
+  "tracks": [
+   {
+    "name": "Kartstrecke",
+    "length_m": 670,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartcenterhildesheim.de/Kartbahn/",
+  "note": "Approx. 670 m, width 4 to 6 m, plus an approx. 210 m basement extension."
+ },
+ {
+  "id": "node/9889553396",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 201,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/",
+  "note": "Listed website is a RacinGO directory entry, not the venue's own site; states approx. 201 m."
+ },
+ {
+  "id": "way/119610125",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 365,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kartbahn-hungen.de/",
+  "note": "Ten corners."
+ },
+ {
+  "id": "way/165403103",
+  "tracks": [
+   {
+    "name": "Saarlandring",
+    "length_m": 716,
+    "width_m": 12,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.saarlandring.de/",
+  "note": "Width stated as 7-12 m; no rental karts."
+ },
+ {
+  "id": "way/30120851",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website SSL certificate does not match the domain."
+ },
+ {
+  "id": "way/254359849",
+  "tracks": [],
+  "source": null,
+  "note": "Outdoor track; only a track-plan image, no length stated."
+ },
+ {
+  "id": "way/59513188",
+  "tracks": [],
+  "source": null,
+  "note": "Layout changes monthly; no length stated."
+ },
+ {
+  "id": "way/102538435",
+  "tracks": [
+   {
+    "name": "Indoor-Kartbahn",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://gokartbahn.net/",
+  "note": "Stated as more than 400 m on two levels."
+ },
+ {
+  "id": "node/2687925947",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the site."
+ },
+ {
+  "id": "node/5026773084",
+  "tracks": [
+   {
+    "name": "Allgaeuer Hallenkartbahn",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.all-kart.de/kartaction",
+  "note": "Indoor track in a 6000 m2 hall."
+ },
+ {
+  "id": "node/12766527149",
+  "tracks": [
+   {
+    "name": "Indoor-Kartbahn CalaRace",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.cala-race.com/",
+  "note": "Stated as around 450 m on two levels."
+ },
+ {
+  "id": "way/352676165",
+  "tracks": [],
+  "source": null,
+  "note": "No track length or arena size stated on the BattleKart page."
+ },
+ {
+  "id": "way/319085809",
+  "tracks": [
+   {
+    "name": "Indoor-Kartbahn",
+    "length_m": 728,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Outdoor-Kartbahn",
+    "length_m": 710,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Kinder-Kartbahn",
+    "length_m": 100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.ms-kartcenter.de/",
+  "note": "Kids track length (100 m) comes from the birthday offer text."
+ },
+ {
+  "id": "node/9043533487",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor electric track; no length stated."
+ },
+ {
+  "id": "node/3761972790",
+  "tracks": [
+   {
+    "name": "Kartbahn Koeln",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.lemanskarting.de/",
+  "note": null
+ },
+ {
+  "id": "node/3761972788",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 380,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartcenter-cologne.de",
+  "note": null
+ },
+ {
+  "id": "way/1447721895",
+  "tracks": [
+   {
+    "name": "Kart-o-Mania Laatzen",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartomania-laatzen.de/kartbahn-laatzen/",
+  "note": "Stated as approx. 450 m; indoor track with combustion karts."
+ },
+ {
+  "id": "node/2791912346",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor and indoor+outdoor configurations mentioned, but no lengths stated."
+ },
+ {
+  "id": "way/39775529",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.erzgebirgsring.de/index.php/ueber-uns",
+  "note": "Includes three offroad sections of about 250 m each."
+ },
+ {
+  "id": "node/883027662",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: site content did not render (title only)."
+ },
+ {
+  "id": "way/1041609383",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website returns 404."
+ },
+ {
+  "id": "node/958029969",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor track; no length stated."
+ },
+ {
+  "id": "way/276563025",
+  "tracks": [],
+  "source": null,
+  "note": "No track length stated on the karting page."
+ },
+ {
+  "id": "node/6859713080",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website SSL certificate does not match the domain."
+ },
+ {
+  "id": "node/8695377425",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 650,
+    "width_m": 9,
+    "use": "rental"
+   }
+  ],
+  "source": "https://hezemans.nl",
+  "note": "Width 5 to 9 m, 12 bends, two levels, electric karts."
+ }
+]

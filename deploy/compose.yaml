@@ -1,0 +1,10 @@
+services:
+  kart-atlas:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    image: kart-atlas:latest
+    container_name: kart-atlas
+    ports:
+      - "127.0.0.1:18081:80"
+    restart: unless-stopped

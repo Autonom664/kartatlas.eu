@@ -1,0 +1,1030 @@
+[
+ {
+  "id": "way/856436751",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.rs-kartcenter.de",
+  "websites": [
+   {
+    "url": "https://www.rs-kartcenter.de",
+    "role": "rental",
+    "name": "Ralf Schumacher Kartcenter"
+   }
+  ],
+  "phone": "+49 5194 982050",
+  "email": "info@rs-kartcenter.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "13",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.rs-kartcenter.de",
+   "https://www.celle.travel/that-is-celle/poi/ralf-schumacher-kartcenter"
+  ],
+  "note": "Has both a 600 m indoor and a 1000 m outdoor track (combined 2000 m for events); 100+ karts, premium karts 13 hp."
+ },
+ {
+  "id": "way/1147384934",
+  "name": "Fliegerhorst Faßberg Karting",
+  "type": "outdoor",
+  "website": "https://mtc-fassberg.de/?page_id=812",
+  "websites": [
+   {
+    "url": "https://mtc-fassberg.de/?page_id=812",
+    "role": "club",
+    "name": "MTC Faßberg"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/fliegerhorst-fassberg-karting/"
+  ],
+  "note": "1050 m track at Fliegerhorst 18, Faßberg; directory lists it under the mtc-fassberg.de site, details unconfirmed."
+ },
+ {
+  "id": "way/87497403",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://sk-raceworld.de/",
+  "websites": [
+   {
+    "url": "https://sk-raceworld.de/",
+    "role": "rental",
+    "name": "SK Raceworld"
+   }
+  ],
+  "phone": "+49 4431 7397671",
+  "email": "info@sk-raceworld.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://sk-raceworld.de/"
+  ],
+  "note": "Wildeshausen site closed for the season, reopening Q1 2027; operator also runs a new track in Detern (Stickhausen)."
+ },
+ {
+  "id": "way/868429925",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.dwa-racing.de/",
+  "websites": [
+   {
+    "url": "https://www.dwa-racing.de/",
+    "role": "rental",
+    "name": "DWA Racing"
+   }
+  ],
+  "phone": "+49 4241 970 211",
+  "email": "info@dwa-racing.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.dwa-racing.de/"
+  ],
+  "note": "Outdoor track for the Bremen area, open weekends 11-18."
+ },
+ {
+  "id": "way/92468697",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://emslandring.de/",
+  "websites": [
+   {
+    "url": "https://emslandring.de/",
+    "role": "rental",
+    "name": "Emslandring Dankern"
+   }
+  ],
+  "phone": "+49 5932 69518",
+  "email": "info@emslandring.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://emslandring.de/"
+  ],
+  "note": "Seasonal (Easter to autumn holidays); 80+ vehicles incl. mini, twin, super/race karts, cross karts and hand-controlled karts."
+ },
+ {
+  "id": "node/6550773226",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.celler-kartbahn.com/",
+  "websites": [
+   {
+    "url": "https://www.celler-kartbahn.com/",
+    "role": "rental",
+    "name": "Burnout Celler Kartbahn"
+   }
+  ],
+  "phone": "+49 5141 908650",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "RiMO Evo5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://freizeitinsider.de/angebot/burnout-celler-kartbahn/"
+  ],
+  "note": "About 500 m indoor track with 14 RiMO Evo5 karts and 5 kids karts; a kids kart club trains in the venue's karts twice a month."
+ },
+ {
+  "id": "way/531411082",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Fürstenau."
+ },
+ {
+  "id": "way/904546979",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kart-am-alfsee.de/",
+  "websites": [
+   {
+    "url": "https://www.kart-am-alfsee.de/",
+    "role": "rental",
+    "name": "Kart am Alfsee"
+   }
+  ],
+  "phone": "+49 5464 900963",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kart-am-alfsee.de/"
+  ],
+  "note": "601 m outdoor track at the Alfsee recreation area, open year-round (reduced winter days)."
+ },
+ {
+  "id": "way/1056404304",
+  "name": "Kinderautoland Alfsee",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.niedersachsen-tourism.com/poi/alfsee-ferien-und-erlebnispark"
+  ],
+  "note": "Probably the children's car/kart area of the Alfsee Ferien- und Erlebnispark next to Kart am Alfsee; identification uncertain."
+ },
+ {
+  "id": "way/89820377",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartcompanyemsbueren.de/de/",
+  "websites": [
+   {
+    "url": "https://www.kartcompanyemsbueren.de/de/",
+    "role": "rental",
+    "name": "The Kart Company Emsbüren"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/kart-park-emsbueren/"
+  ],
+  "note": "Directories also list it as Kart Park / Kartworld Emsbüren (870 m); website had a certificate error."
+ },
+ {
+  "id": "node/2673845362",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartomania-hannover.de/",
+  "websites": [
+   {
+    "url": "https://www.kartomania-hannover.de/",
+    "role": "rental",
+    "name": "Kart-O-Mania"
+   }
+  ],
+  "phone": "+49 511 60040266",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.kartomania-hannover.de/"
+  ],
+  "note": "Hannover site uses electric karts; sister site in Laatzen uses petrol karts."
+ },
+ {
+  "id": "way/119129470",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartcity.de/",
+  "websites": [
+   {
+    "url": "https://www.kartcity.de/",
+    "role": "rental",
+    "name": "KartCity"
+   }
+  ],
+  "phone": "+49 5307 2013858",
+  "email": "buchungen@kartcity.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartcity.de/"
+  ],
+  "note": "Has a 450 m indoor and a 350 m outdoor track."
+ },
+ {
+  "id": "way/480988747",
+  "name": null,
+  "type": "indoor",
+  "website": "https://teamsport-ekarting.de/standorte/osnabrueck",
+  "websites": [
+   {
+    "url": "https://teamsport-ekarting.de/standorte/osnabrueck",
+    "role": "rental",
+    "name": "TeamSport E-Karting Osnabrück"
+   }
+  ],
+  "phone": "+49 3222 1093444",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/osnabrueck",
+   "https://pages.destination.one/en/melle/streaming/detail/POI/p_100029216/teamsport-e-karting"
+  ],
+  "note": "470 m two-level indoor electric track; kids from age 8."
+ },
+ {
+  "id": "way/1447721895",
+  "name": "Kart-O-Mania Laatzen",
+  "type": "indoor",
+  "website": "https://www.kartomania-hannover.de/",
+  "websites": [
+   {
+    "url": "https://www.kartomania-hannover.de/",
+    "role": "rental",
+    "name": "Kart-O-Mania"
+   }
+  ],
+  "phone": "+49 5102 93500",
+  "email": "info@kartomania-laatzen.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.visit-hannover.com/en/Event-Highlights,-Kultur-Freizeit/Freizeitangebote-in-Hannover/Kart-o-Mania2",
+   "https://www.kartomania-hannover.de/"
+  ],
+  "note": "Identified by location as Kart-O-Mania Laatzen (Magdeburger Str. 9), about 450 m indoor with combustion karts."
+ },
+ {
+  "id": "node/7239416109",
+  "name": "KartCenter Hildesheim",
+  "type": "indoor",
+  "website": "https://www.kartcenterhildesheim.de",
+  "websites": [
+   {
+    "url": "https://www.kartcenterhildesheim.de",
+    "role": "rental",
+    "name": "KartCenter Hildesheim (PS Eventwelten)"
+   }
+  ],
+  "phone": "+49 5121 2080980",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartcenterhildesheim.de"
+  ],
+  "note": "Venue website describes it as an indoor track (input said outdoor); min. height 145 cm."
+ },
+ {
+  "id": "way/216971093",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979108905569366016/harzer-kart-center"
+  ],
+  "note": "Only travel-site mentions found (Goslarer Straße, Vienenburg area); no website or current status found."
+ },
+ {
+  "id": "node/3761972789",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.knatterdrom.de/",
+  "websites": [
+   {
+    "url": "https://www.knatterdrom.de/",
+    "role": "rental",
+    "name": "Knatterdrom"
+   }
+  ],
+  "phone": "+49 2575 2062",
+  "email": "info@knatterdrom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twinstructor",
+    "engine": "2x Honda GX200",
+    "hp": "6.5",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.knatterdrom.de/",
+   "https://www.knatterdrom.de/karts"
+  ],
+  "note": "Indoor and outdoor track in Greven-Reckenfeld."
+ },
+ {
+  "id": "relation/10642924",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a Ravensburgring kart track at Borgholzhausen."
+ },
+ {
+  "id": "node/587974059",
+  "name": "Kartbahn Werther",
+  "type": "indoor",
+  "website": "https://www.kartbahn-werther.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-werther.de/",
+    "role": "rental",
+    "name": "Kartbahn Werther"
+   }
+  ],
+  "phone": "+49 5203 884288",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-werther.de/"
+  ],
+  "note": "5000 m2 indoor hall with 33 karts: electric boost karts, electric and combustion twin karts, kids karts."
+ },
+ {
+  "id": "node/997947153",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/muenster/"
+  ],
+  "note": "No venue information found for 'sport kart Münster' beyond map-landmark mentions."
+ },
+ {
+  "id": "way/51050374",
+  "name": "Emstalstadion (MSC Harsewinkel)",
+  "type": "outdoor",
+  "website": "https://www.msc-harsewinkel.de",
+  "websites": [
+   {
+    "url": "https://www.msc-harsewinkel.de",
+    "role": "club",
+    "name": "MSC Harsewinkel e.V. im ADAC"
+   }
+  ],
+  "phone": "+49 173 6093874",
+  "email": "msc.harsewinkel@gmail.com",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.msc-harsewinkel.de",
+   "https://en.teutoburgerwald.de/region/excursion/poi/emstalstadion-motorrad-sandbahnrennen-und-kart-fahren"
+  ],
+  "note": "Club track at the Emstalstadion; private kart training with tickets bought online and youth kart slalom; tourism page mentions a rental kart operation but current rental not confirmed."
+ },
+ {
+  "id": "way/894252551",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Reken station (176 m mapped)."
+ },
+ {
+  "id": "way/231127932",
+  "name": "Kartbahn Wunderland Kalkar",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.freizeitpark-welt.de/freizeitparks/kewu/attraktionen/kartbahn-r1622",
+   "https://en.wikipedia.org/wiki/Wunderland_Kalkar"
+  ],
+  "note": "About 200 m fun kart track inside Wunderland Kalkar amusement park, extra fee on top of park admission."
+ },
+ {
+  "id": "way/192702364",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Schermbeck."
+ },
+ {
+  "id": "way/143901665",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.kartbahn-weeze.de",
+  "websites": [
+   {
+    "url": "http://www.kartbahn-weeze.de",
+    "role": "rental",
+    "name": "GPN Grand Prix Niederrhein"
+   },
+   {
+    "url": "https://www.grand-prix-niederrhein.com/",
+    "role": "other",
+    "name": "GPN Grand Prix Niederrhein"
+   }
+  ],
+  "phone": "+49 2837 95105",
+  "email": "info@kartbahn-weeze.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 6",
+    "engine": "270 cc",
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": "RiMO EVO 5",
+    "engine": "200 cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha Kart",
+    "engine": "200 cc",
+    "hp": "6.5",
+    "class": "other"
+   },
+   {
+    "chassis": "RiMO Twinstructor",
+    "engine": "2x 200 cc",
+    "hp": "2x 6.5",
+    "class": "twin"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": "160 cc",
+    "hp": "5.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "http://www.kartbahn-weeze.de",
+   "https://freizeitinsider.de/angebot/grandprix-niederrhein/"
+  ],
+  "note": "460 m indoor track; fleet includes a hand-controlled handicap kart."
+ },
+ {
+  "id": "way/430206718",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/bottrop/"
+  ],
+  "note": "No kart track found in Bottrop-Grafenwald in directories."
+ },
+ {
+  "id": "way/510877435",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.kartbahn-bueren.de",
+  "websites": [
+   {
+    "url": "http://www.kartbahn-bueren.de",
+    "role": "rental",
+    "name": "Kartbahn Büren (Motor Sport Weis)"
+   }
+  ],
+  "phone": "+49 2951 92692",
+  "email": "info@kartbahn-bueren.de",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://en.teutoburgerwald.de/region/excursion/poi/kartbahn-bueren"
+  ],
+  "note": "Seasonal, open June to October; website could not be loaded (SSL error)."
+ },
+ {
+  "id": "way/804847045",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kartarena-dinslaken.de",
+  "websites": [
+   {
+    "url": "https://kartarena-dinslaken.de",
+    "role": "rental",
+    "name": "Kartarena Dinslaken"
+   }
+  ],
+  "phone": "+49 2064 8292380",
+  "email": "info@kartarena-dinslaken.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "200 cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Junior",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://kartarena-dinslaken.de"
+  ],
+  "note": "Has a 1300 m indoor and a 1200 m outdoor track; premium tickets require a licence."
+ },
+ {
+  "id": "way/27113615",
+  "name": "Irrland Kartbahn",
+  "type": "outdoor",
+  "website": "https://www.irrland.de/",
+  "websites": [
+   {
+    "url": "https://www.irrland.de/",
+    "role": "venue",
+    "name": "Irrland"
+   }
+  ],
+  "phone": "+49 2832 988980",
+  "email": "info@irrland.de",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.irrland.de/attraktionen/"
+  ],
+  "note": "Pedal/three-wheel go-kart course inside the Irrland family park (Kevelaer-Twisteden), not motorised karting."
+ },
+ {
+  "id": "way/198975910",
+  "name": "Familienpark Herne",
+  "type": "outdoor",
+  "website": "https://www.familienparkherne.de/",
+  "websites": [
+   {
+    "url": "https://www.familienparkherne.de/",
+    "role": "venue",
+    "name": "Familienpark Herne"
+   }
+  ],
+  "phone": "+49 2323 64513",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/freizeitanlage-start-und-ziel/",
+   "https://www.familienparkherne.de/"
+  ],
+  "note": "Fun kart track in a family park at Am Revierpark 40 (Gysenberg), matched by location; kart type not stated."
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "type": "indoor",
+  "website": "https://battlekart.com/unna",
+  "websites": [
+   {
+    "url": "https://battlekart.com/unna",
+    "role": "rental",
+    "name": "BattleKart Unna"
+   }
+  ],
+  "phone": "+49 2303 6762666",
+  "email": "info@unna.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://battlekart.com/unna",
+   "https://freizeitinsider.de/lotse/go-kartbahn/hagen/"
+  ],
+  "note": "Augmented-reality electric kart game hall at Massener Str. 116."
+ },
+ {
+  "id": "way/27615820",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.daytona-kartbahn.de",
+  "websites": [
+   {
+    "url": "https://www.daytona-kartbahn.de",
+    "role": "rental",
+    "name": "Daytona Kartbahn Essen"
+   }
+  ],
+  "phone": "+49 201 661553",
+  "email": "info@daytona-kartbahn.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.daytona-kartbahn.de"
+  ],
+  "note": "Two indoor tracks plus an outdoor section (dry weather only), combinable to 630-1610 m."
+ },
+ {
+  "id": "way/235291205",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/gelsenkirchen/"
+  ],
+  "note": "No kart track found in Gelsenkirchen-Leithe in directories."
+ },
+ {
+  "id": "node/13894638060",
+  "name": null,
+  "type": "indoor",
+  "website": "https://battlekart.com/bochum",
+  "websites": [
+   {
+    "url": "https://battlekart.com/bochum",
+    "role": "rental",
+    "name": "BattleKart Bochum"
+   }
+  ],
+  "phone": "+49 2327 4177777",
+  "email": "info@bochum.battlekart.com",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://battlekart.com/bochum"
+  ],
+  "note": "Website still says temporarily closed, reopening 15.08.2026 with a new hall floor (Isenbrockstraße 15, Wattenscheid)."
+ },
+ {
+  "id": "node/388393542",
+  "name": null,
+  "type": "indoor",
+  "website": "http://raceland-karting.de",
+  "websites": [
+   {
+    "url": "http://raceland-karting.de",
+    "role": "rental",
+    "name": "Raceland Karting"
+   }
+  ],
+  "phone": "+49 2932 83335",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/raceland/"
+  ],
+  "note": "Directory lists a 500 m indoor track (input said outdoor); website certificate expired so current status unconfirmed."
+ },
+ {
+  "id": "way/456207370",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Witten-Rüdinghausen."
+ },
+ {
+  "id": "way/765177897",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.ms-kartcenter-hattingen.de/",
+  "websites": [
+   {
+    "url": "https://www.ms-kartcenter-hattingen.de/",
+    "role": "rental",
+    "name": "MS Kartcenter Hattingen"
+   }
+  ],
+  "phone": "+49 2324 55508",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270 cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.ms-kartcenter-hattingen.de/"
+  ],
+  "note": "Indoor track with arrive-and-drive training sessions and races incl. a Junior Cup."
+ },
+ {
+  "id": "way/1272597539",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/iserlohn/"
+  ],
+  "note": "No kart track found in Hemer-Deilinghofen in directories."
+ },
+ {
+  "id": "node/1581708612",
+  "name": "Cool Runners Kart",
+  "type": "indoor",
+  "website": "http://www.coolrunning.de",
+  "websites": [
+   {
+    "url": "http://www.coolrunning.de",
+    "role": "rental",
+    "name": "Cool Runners Kart"
+   }
+  ],
+  "phone": "+49 2332 914700",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/cool-runners-kart/"
+  ],
+  "note": "Directory lists a 400 m indoor track at Mühlenstr. 5 (input said outdoor); website did not load, so current status unconfirmed."
+ },
+ {
+  "id": "way/1185580195",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/willich/"
+  ],
+  "note": "No kart track found in Willich in directories."
+ }
+]

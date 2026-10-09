@@ -1,0 +1,938 @@
+[
+ {
+  "id": "way/157537270",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.speedarena.at/",
+  "websites": [
+   {
+    "url": "https://www.speedarena.at/",
+    "role": "venue",
+    "name": "Speedarena Rechnitz"
+   }
+  ],
+  "phone": "+43 3363 79556",
+  "email": "office@speedarena.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodikart GT4",
+    "engine": "200 ccm",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart SR4",
+    "engine": "270 ccm",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.speedarena.at/go-karts-und-preise/sportleihkart-go-karts-leihkart",
+   "https://www.speedarena.at/go-karts-und-preise/eigenes-motorrad-eigenes-kart",
+   "https://www.speedarena.at/kontakt/"
+  ],
+  "note": "Own race karts allowed on weekday track-rental tickets (day ticket, season card, garages available); site lists track as 1007 m."
+ },
+ {
+  "id": "way/137166744",
+  "name": "Kartsport Friesacher",
+  "type": "indoor",
+  "website": "https://www.indoorkart.at/",
+  "websites": [
+   {
+    "url": "https://www.indoorkart.at/",
+    "role": "rental",
+    "name": "IndoorKart (Kartsport Friesacher Wolfsberg / IndoorKart Spielberg)"
+   }
+  ],
+  "phone": "+43 660 4740341",
+  "email": "info@kartsportfriesacher.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.indoorkart.at/",
+   "https://www.indoorkart.at/kontakt/"
+  ],
+  "note": "Old domain kartsportfriesacher.at redirects to indoorkart.at; address Auenfischerstrasse 95, 9431 St. Stefan; also offers LaserTag."
+ },
+ {
+  "id": "way/159522629",
+  "name": "Freizeitpark Fresach",
+  "type": "outdoor",
+  "website": "https://www.gokart.at/",
+  "websites": [
+   {
+    "url": "https://www.gokart.at/",
+    "role": "venue",
+    "name": "Freizeitpark Fresach"
+   }
+  ],
+  "phone": "+43 4245 2425",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "2.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.mamilade.at/kaernten/villach-land/ausflugstipps/freizeitparks/gokart-fahren-im-freizeitpark-fresach",
+   "https://www.gokart.at/Titelseite/first.htm"
+  ],
+  "note": "Seasonal (May-Oct) leisure park with 600 m kart circuit, tandem karts, motocross/paintball; fleet data from a 2023 directory listing."
+ },
+ {
+  "id": "way/180603207",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-portal POI listings found; no operator or details identified."
+ },
+ {
+  "id": "way/686206452",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Dellach (im Gailtal) in searches."
+ },
+ {
+  "id": "way/145748431",
+  "name": "MJP Arena Fuglau",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.1000ps.de/motorrad-bildergalerie-reifen-bauer-trackday-2026-teilnehmerfotos-stuntshow-25470"
+  ],
+  "note": "Motorsport circuit used for car/motorcycle trackdays (2026); no kart-specific info found."
+ },
+ {
+  "id": "way/874868038",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Eggenburg in searches."
+ },
+ {
+  "id": "relation/11814859",
+  "name": "Kartbahn Ziersdorf (B4 Kart Racing Center)",
+  "type": "outdoor",
+  "website": "https://www.kartbahn-ziersdorf.at/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-ziersdorf.at/",
+    "role": "rental",
+    "name": "Kartbahn Ziersdorf"
+   }
+  ],
+  "phone": "+43 664 4328005",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "270 ccm",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-ziersdorf.at/",
+   "https://www.ausflugsziele.jetzt/?p=121795"
+  ],
+  "note": "Located in Grossmeiseldorf; 14 RiMO rental karts; hosts KSE/OeJSV Kartcup."
+ },
+ {
+  "id": "way/809272289",
+  "name": "RaceWorld Kartbahn Stetteldorf",
+  "type": "outdoor",
+  "website": "https://www.rw-m.at/",
+  "websites": [
+   {
+    "url": "https://www.rw-m.at/",
+    "role": "rental",
+    "name": "RaceWorld Motorsportpark"
+   }
+  ],
+  "phone": "+43 664 3662424",
+  "email": "birgit@rw-m.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.rw-m.at/",
+   "https://www.herold.at/blog/?p=89962",
+   "https://freizeitmonster.de/aktivitaeten/orte/kartbahn-stetteldorf-373857"
+  ],
+  "note": "Operated by RaceWorld Motorsportpark (rw-m.at, also St. Poelten); about 980 m track; RaceWorld lists 15 karts, 20 e-karts and 7 kids karts across its sites."
+ },
+ {
+  "id": "way/472368623",
+  "name": "Daytona Raceways",
+  "type": "indoor",
+  "website": "https://www.daytona.at/",
+  "websites": [
+   {
+    "url": "https://www.daytona.at/",
+    "role": "rental",
+    "name": "Daytona Raceways"
+   }
+  ],
+  "phone": "+43 2244 30560",
+  "email": "office@daytona.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "Honda GX200",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": "Honda GX160",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.daytona.at/",
+   "https://www.ausflugsziele.jetzt/?p=121738"
+  ],
+  "note": "Indoor kart hall (input said outdoor); Herold lists 11 PS karts."
+ },
+ {
+  "id": "way/194361134",
+  "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring",
+  "type": "outdoor",
+  "website": "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+  "websites": [
+   {
+    "url": "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+    "role": "venue",
+    "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring"
+   }
+  ],
+  "phone": "+43 2752 528 55 32200",
+  "email": "fahrtechnik.wachauring@oeamtc.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270 ccm",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+   "https://www.oeamtc.at/fahrtechnik/trendsport/"
+  ],
+  "note": "750 m outdoor kart track at OeAMTC driving centre (summer kart experience) next to the Wachauring circuit."
+ },
+ {
+  "id": "way/463095468",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Loosdorf; web search budget ran out before further checks."
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "type": null,
+  "website": "https://www.rw-m.at/",
+  "websites": [
+   {
+    "url": "https://www.rw-m.at/",
+    "role": "rental",
+    "name": "RaceWorld Motorsportpark"
+   }
+  ],
+  "phone": "+43 664 3662424",
+  "email": "birgit@rw-m.at",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.rw-m.at/"
+  ],
+  "note": "Website under revision with St. Poelten hours 'to follow'; RaceWorld lists 15 karts, 20 e-karts and 7 kids karts across its sites (also Stetteldorf)."
+ },
+ {
+  "id": "way/725892580",
+  "name": "Kartbahn Blindenmarkt",
+  "type": "outdoor",
+  "website": "https://www.kartbahn-blindenmarkt.at/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-blindenmarkt.at/",
+    "role": "rental",
+    "name": "Kartbahn Blindenmarkt"
+   }
+  ],
+  "phone": "+43 676 3622781",
+  "email": "herbert.strauss@gmx.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartbahn-blindenmarkt.at/"
+  ],
+  "note": "Single rides on outdoor track; kids 6-13 need a kids kart licence."
+ },
+ {
+  "id": "way/346100215",
+  "name": "Speedworld Pachfurth",
+  "type": "outdoor",
+  "website": "https://www.speedworld-kart.at/",
+  "websites": [
+   {
+    "url": "https://www.speedworld-kart.at/",
+    "role": "venue",
+    "name": "Speedworld (Kart Racing GmbH)"
+   }
+  ],
+  "phone": "+43 2162 68380",
+  "email": "office@speedworld-kart.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 270 ccm",
+    "hp": "10",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax Max 125",
+    "hp": "28",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.speedworld-kart.at/",
+   "https://freizeitmonster.de/aktivitaeten/orte/speedworld-370487"
+  ],
+  "note": "Separate 580 m rental track and 1180 m race track; Rotax race-kart rental needs pre-qualification; 'Eigenes Rennkart' section on site; closed late Oct to early Mar."
+ },
+ {
+  "id": "way/107608181",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartcenter.at/",
+  "websites": [
+   {
+    "url": "https://www.kartcenter.at/",
+    "role": "rental",
+    "name": "Kart Center Kottingbrunn"
+   }
+  ],
+  "phone": "+43 2252 790501",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Hubi-Kart",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://www.kartcenter.at/",
+   "https://www.herold.at/blog/?p=89962"
+  ],
+  "note": "4000 m2 indoor hall with 456 m track; Thursdays reserved for track rentals; kids/youth sessions Sunday mornings."
+ },
+ {
+  "id": "way/1433379781",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/225023200",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/1103944247",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/868068820",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.rotaxmaxdome.com/linz/",
+  "websites": [
+   {
+    "url": "https://www.rotaxmaxdome.com/linz/",
+    "role": "rental",
+    "name": "Rotax MAX Dome Linz"
+   }
+  ],
+  "phone": "+43 732 776837",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Rotax SONIC E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.rotaxmaxdome.com/linz/"
+  ],
+  "note": "Indoor kart hall with electric rental karts."
+ },
+ {
+  "id": "node/6968981892",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website chargersracing.at refused connection; no other information found (search budget exhausted)."
+ },
+ {
+  "id": "way/102912644",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/372514612",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/55762296",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.gokart-steyr.at/",
+  "websites": [],
+  "phone": "+43 7252 82444",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website gokart-steyr.at has an invalid SSL certificate and could not be read; values from input only."
+ },
+ {
+  "id": "way/588787026",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.heroeskart.at/",
+  "websites": [
+   {
+    "url": "https://www.heroeskart.at/",
+    "role": "rental",
+    "name": "Heroes Karts & More"
+   }
+  ],
+  "phone": "+43 664 5315008",
+  "email": "reservierung@heroeskart.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": "8/13",
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.heroeskart.at/",
+   "https://freizeitmonster.de/aktivitaeten/orte/heroes-kart-369449"
+  ],
+  "note": "E-kart venue with 300 m indoor and 130 m outdoor track; karts have 8 PS beginner and 13 PS pro modes."
+ },
+ {
+  "id": "node/8375040368",
+  "name": "Karthalle Ebensee (Kartworld Ebensee)",
+  "type": "indoor",
+  "website": "https://www.karthalle.at/",
+  "websites": [
+   {
+    "url": "https://www.karthalle.at/",
+    "role": "rental",
+    "name": "Karthalle Ebensee"
+   }
+  ],
+  "phone": "+43 650 7098784",
+  "email": "office@karthalle.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "200 ccm 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270 ccm",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.karthalle.at/",
+   "https://freizeitmonster.de/aktivitaeten/orte/kartworld-ebensee-370330"
+  ],
+  "note": "Kart hall at Webereistrasse 8 (input said outdoor); name taken from venue website."
+ },
+ {
+  "id": "way/45494972",
+  "name": "Kartworld Salzburg",
+  "type": "indoor",
+  "website": "https://www.kartworld.at",
+  "websites": [
+   {
+    "url": "https://www.kartworld.at",
+    "role": "rental",
+    "name": "Kartworld Salzburg"
+   }
+  ],
+  "phone": "+43 662 648035",
+  "email": "office@kartworld-salzburg.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartworld.at"
+  ],
+  "note": "Kids/youth kart school at the venue is run by the Erster Salzburger Kart Rennclub (no club website found)."
+ },
+ {
+  "id": "way/801526556",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "relation/1760200",
+  "name": "MF Gokart Leogang",
+  "type": "outdoor",
+  "website": "https://www.mf-gokart.at/",
+  "websites": [
+   {
+    "url": "https://www.mf-gokart.at/",
+    "role": "rental",
+    "name": "MF Gokart Leogang"
+   }
+  ],
+  "phone": "+43 660 2731301",
+  "email": "info@mf-gokart.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.mf-gokart.at/",
+   "https://freizeitmonster.de/aktivitaeten/orte/freiluft-gokart-bahn-leogang-368827"
+  ],
+  "note": "Seasonal, weather-dependent outdoor track at Rain 109."
+ },
+ {
+  "id": "way/325759220",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/1015862393",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/427961612",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/716911856",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "way/98283484",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.ps-racing.at/",
+  "websites": [
+   {
+    "url": "https://www.ps-racing.at/",
+    "role": "venue",
+    "name": "PS Racing Center"
+   }
+  ],
+  "phone": "+43 664 8259024",
+  "email": "cp@ps-racing.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda 270 ccm",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.ps-racing.at/",
+   "https://www.ps-racing.at/go-kart/"
+  ],
+  "note": "Multi-use circuit (rallycross, slalom) that hosts Styrian race-kart championship rounds."
+ },
+ {
+  "id": "way/1147658133",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before checks."
+ },
+ {
+  "id": "node/12805789828",
+  "name": "B1 GoKart Bahn Innsbruck",
+  "type": null,
+  "website": "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+  "websites": [
+   {
+    "url": "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+    "role": "rental",
+    "name": "B1 Home of Entertainment"
+   }
+  ],
+  "phone": "+43 512 319200",
+  "email": "info@b1.at",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270 ccm",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "LR5",
+    "engine": "160 ccm",
+    "hp": "4.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+   "https://freizeitmonster.de/aktivitaeten/orte/kartbahn-innsbruck-372329"
+  ],
+  "note": "Valiergasse 15; has both indoor and outdoor sections."
+ },
+ {
+  "id": "node/11726784673",
+  "name": null,
+  "type": null,
+  "website": "https://www.freizeitarena.tirol/",
+  "websites": [
+   {
+    "url": "https://www.freizeitarena.tirol/",
+    "role": "venue",
+    "name": "Freizeitarena Tirol"
+   }
+  ],
+  "phone": "+43 664 3009573",
+  "email": "info@freizeitarena.tirol",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.freizeitarena.tirol/"
+  ],
+  "note": "Leisure arena at Oetztal-Bahnhof offering GoKart Racing for adults and kids."
+ },
+ {
+  "id": "node/3703616077",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Domain kartbahn-schneider.at no longer resolves; no other information found."
+ },
+ {
+  "id": "node/1344908573",
+  "name": "Kartbahn-Treff (Vorarlberg Ring)",
+  "type": "indoor",
+  "website": "https://www.kartbahn-treff.com/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-treff.com/",
+    "role": "rental",
+    "name": "Kartbahn-Treff GmbH"
+   }
+  ],
+  "phone": "+43 5522 22822",
+  "email": "office@kartbahn-treff.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Mach 1",
+    "engine": "Honda 200 ccm",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-treff.com/"
+  ],
+  "note": "Indoor 360 m Vorarlberg Ring in Feldkirch-Gisingen (input said outdoor)."
+ },
+ {
+  "id": "relation/3868005",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.pasara.at/",
+  "websites": [],
+  "phone": "+43 676 5008264",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Vienna Prater location; pasara.at returned 403; not the same as Monza Kartbahn Wien at Hochwassergasse 12, 1230 Wien (monza-kart.com)."
+ }
+]

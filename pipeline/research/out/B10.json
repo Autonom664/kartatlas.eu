@@ -1,0 +1,851 @@
+[
+ {
+  "id": "way/486577840",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://vaxjohyrkart.se/",
+  "websites": [
+   {
+    "url": "https://vaxjohyrkart.se/",
+    "role": "rental",
+    "name": "Växjö Hyrkart"
+   },
+   {
+    "url": "https://hagaslattkarting.com/",
+    "role": "venue",
+    "name": "Hagaslätt Karting"
+   }
+  ],
+  "phone": "0470-486 02",
+  "email": "bokning@vaxjohyrkart.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://vaxjohyrkart.se/",
+   "https://hagaslattkarting.com/"
+  ],
+  "note": "Track outside Hovmantorp; rental booked via Växjö Hyrkart (Apr-Oct, Thu-Sun), club side at hagaslattkarting.com."
+ },
+ {
+  "id": "way/1356055741",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for a kart track in Kiruna; web search returned nothing relevant."
+ },
+ {
+  "id": "way/1307053280",
+  "name": "Andreassen Motorsport Kart Park",
+  "type": "outdoor",
+  "website": "https://www.vuollerimsmf.se/kartingringen",
+  "websites": [
+   {
+    "url": "https://www.vuollerimsmf.se/kartingringen",
+    "role": "club",
+    "name": "Vuollerims Motorförening"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.vuollerimsmf.se/kartingringen"
+  ],
+  "note": "Vuollerims Motorförening track; 14 rental karts, 4 kids karts and 2 double karts; members train own karts Wed and weekends."
+ },
+ {
+  "id": "way/1193992601",
+  "name": "Luleå Karting (Kartway)",
+  "type": "outdoor",
+  "website": "http://kartway.se/Lulea/",
+  "websites": [
+   {
+    "url": "http://kartway.se/Lulea/",
+    "role": "rental",
+    "name": "Kartway Luleå"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "http://kartway.se/Lulea/",
+   "https://visitlulea.se/en/see-do/see-do-articles/adventures-for-all-ages/"
+  ],
+  "note": "Lulviksvägen 40, Kallaxheden; 690 m rental track, summer drop-in season, matched by location (near Bergnäset) not by name."
+ },
+ {
+  "id": "way/321498514",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "note": "Could not confirm which venue this is; GoCart Piteå at Pite Havsbad is nearby (see way/576906518)."
+ },
+ {
+  "id": "way/576906518",
+  "name": "GoCart Piteå",
+  "type": "outdoor",
+  "website": "https://pitehavsbad.se/en/activities/gokart/",
+  "websites": [
+   {
+    "url": "https://pitehavsbad.se/en/activities/gokart/",
+    "role": "rental",
+    "name": "GoCart Piteå / Pite Havsbad"
+   }
+  ],
+  "phone": "070-980 03 60",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "note": "Rental go-kart track at Pite Havsbad resort (drop-in and group races); identification by proximity, not confirmed."
+ },
+ {
+  "id": "way/486200449",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://iame-motorsport.com/news_dett.php?id=189"
+  ],
+  "note": "Race kart track (KS Klippan) hosted IAME Series Sweden round in 2024; no club website found."
+ },
+ {
+  "id": "way/87888593",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartsportnews.com/2022/01/25/fia-karting-best-of-kristianstad-kart-club/",
+   "https://fia.com/node/37338"
+  ],
+  "note": "FIA-level race track run by Kristianstad Karting Klubb; no rental info found."
+ },
+ {
+  "id": "way/1350495161",
+  "name": "Gokartcity Malmö",
+  "type": "indoor",
+  "website": "https://www.gokartcity.club/",
+  "websites": [
+   {
+    "url": "https://www.gokartcity.club/",
+    "role": "rental",
+    "name": "Gokartcity Malmö AB"
+   }
+  ],
+  "phone": "040-960 120",
+  "email": "info@gokartcity.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.gokartcity.club/"
+  ],
+  "note": "Indoor electric karts (per directory) at Lantmannagatan 59D; drop-in, double karts and kids sessions."
+ },
+ {
+  "id": "way/229163499",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://iame-motorsport.com/news_dett.php?id=273"
+  ],
+  "note": "Lockarps Gokart, Larsbovägen 6, Oxie; hosted IAME Series Sweden round 2025, indoor/outdoor unclear (OSM tags it as a building); operator not found."
+ },
+ {
+  "id": "way/347990362",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Directory lists 'Gokart för Alla' at Malsta Bergby 2, Norrtälje, but no details could be confirmed."
+ },
+ {
+  "id": "way/34627720",
+  "name": "Gokart Stadion ÖS-WE Ring",
+  "type": "outdoor",
+  "website": "https://www.gokartstadion.se/",
+  "websites": [
+   {
+    "url": "https://www.gokartstadion.se/",
+    "role": "rental",
+    "name": "Gokart Stadion ÖS-WE Ring"
+   }
+  ],
+  "phone": "08-590 380 55",
+  "email": "info@gokartstadion.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.gokartstadion.se/",
+   "https://www.gokartstadion.se/familj-barn",
+   "https://thatsup.co.uk/stockholm/activity/gokartstadion-os-we-ring/"
+  ],
+  "note": "Seasonal rental track (closes for winter 1 Nov) with Kid-Racer, Junior and Senior karts; models not stated."
+ },
+ {
+  "id": "way/5174043",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for a kart track near Bollstanäs, Upplands Väsby."
+ },
+ {
+  "id": "way/1418328888",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.jarfallahyrkart.se/",
+  "websites": [
+   {
+    "url": "https://www.jarfallahyrkart.se/",
+    "role": "rental",
+    "name": "Järfälla Hyrkart"
+   },
+   {
+    "url": "https://www.sodakart.se/",
+    "role": "rental",
+    "name": "Rotax Life racekart concept"
+   }
+  ],
+  "phone": "08-580 134 40",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "125cc (Rotax Life racekart)",
+    "hp": "28",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.jarfallahyrkart.se/",
+   "https://www.jarfallahyrkart.se/hyrkart-utomhus/racekart/",
+   "https://www.jarfallahyrkart.se/hyrkart-utomhus/drop-in-oppettider/"
+  ],
+  "note": "Indoor and outdoor rental at Gokartvägen 1 (Stäket); outdoor track closed some days for club training; regular rental kart models not stated."
+ },
+ {
+  "id": "way/1005039103",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736",
+  "websites": [
+   {
+    "url": "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736",
+    "role": "venue",
+    "name": "Flottsbro"
+   }
+  ],
+  "phone": "+46 8 535 327 00",
+  "email": "info@flottsbro.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736"
+  ],
+  "note": "Not a motor kart track: gravity downhill steel cars on a ski slope at Flottsbro."
+ },
+ {
+  "id": "way/1350493948",
+  "name": "Racehall Stockholm",
+  "type": "indoor",
+  "website": "https://racehall.com/en/booking-stockholm",
+  "websites": [
+   {
+    "url": "https://racehall.com/en/booking-stockholm",
+    "role": "rental",
+    "name": "Racehall Stockholm AB"
+   }
+  ],
+  "phone": "+46 8 551 210 00",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://racehall.com/en/booking-stockholm",
+   "https://racehall.com/en/tracks"
+  ],
+  "note": "Sweden's largest indoor track (1,000 m), Skälbyvägen 5 Grödinge; twinkarts for kids; kart models not stated."
+ },
+ {
+  "id": "way/518204339",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only a directory hit for 'Åkers bilbana' (Halkbana Strängnäs AB) nearby; karting not confirmed."
+ },
+ {
+  "id": "relation/11966326",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for a kart track near Dansut, Gnesta."
+ },
+ {
+  "id": "way/126230927",
+  "name": "Race4all (Rörken Motorstadion)",
+  "type": "outdoor",
+  "website": "https://raceforall.se/",
+  "websites": [
+   {
+    "url": "https://raceforall.se/",
+    "role": "rental",
+    "name": "Race4all"
+   }
+  ],
+  "phone": "070-941 80 32",
+  "email": "info@raceforall.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://raceforall.se/",
+   "https://destinationuppsala.se/en/see-do-eat/go-karting/"
+  ],
+  "note": "Race4all rents regular and junior karts at Rörken Motorstadion; models not stated."
+ },
+ {
+  "id": "way/234113309",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.enkopingsmk.se/karting",
+  "websites": [
+   {
+    "url": "https://www.enkopingsmk.se/",
+    "role": "club",
+    "name": "Enköpings Motorklubb"
+   }
+  ],
+  "phone": null,
+  "email": "karting@enkopingsmk.se",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.enkopingsmk.se/",
+   "https://www.enkopingsmk.se/karting"
+  ],
+  "note": "Enköpings Motorklubb karting section with training calendar from age 6; identified by location, no rental mentioned."
+ },
+ {
+  "id": "relation/10105432",
+  "name": "Värmlands Gokartcenter",
+  "type": "outdoor",
+  "website": "https://www.varmlandsgokartcenter.se/",
+  "websites": [
+   {
+    "url": "https://www.varmlandsgokartcenter.se/",
+    "role": "rental",
+    "name": "Värmlands Gokartcenter"
+   }
+  ],
+  "phone": "0705-905064",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.varmlandsgokartcenter.se/"
+  ],
+  "note": "Rental drop-in Saturdays and group races; season ends 10 October."
+ },
+ {
+  "id": "way/40076940",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found; web search budget exhausted before this track could be researched."
+ },
+ {
+  "id": "way/828964156",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://lyckselemk.se/?p=hyrkart",
+  "websites": [
+   {
+    "url": "https://lyckselemk.se/?p=hyrkart",
+    "role": "club",
+    "name": "Lycksele Motorklubb"
+   }
+  ],
+  "phone": "0950-510 45",
+  "email": "kansli@lyckselemk.nu",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "note": "Lycksele Motorklubb runs summer rental drop-in (late June to mid August) at Trollringen."
+ },
+ {
+  "id": "way/249688828",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Generic OSM name 'Race Track'; no source found (web search budget exhausted)."
+ },
+ {
+  "id": "node/1731753221",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/341917056",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/152640372",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 251 m area tagged karting at Hökåsen; no source found."
+ },
+ {
+  "id": "way/95139054",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.smkvasteras.se/",
+  "websites": [
+   {
+    "url": "https://www.smkvasteras.se/",
+    "role": "club",
+    "name": "SMK Västerås Karting"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.smkvasteras.se/"
+  ],
+  "note": "SMK Västerås club track at Hälla (between E18 and Hälla golf); visitors can rent a kart to try, members train own karts."
+ },
+ {
+  "id": "way/185575025",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/367162773",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Listed website hyrgokart.nu no longer resolves; status unverified."
+ },
+ {
+  "id": "way/281519408",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/433175801",
+  "name": "Skara Sommarland go-kart",
+  "type": null,
+  "website": "https://www.sommarland.se/",
+  "websites": [
+   {
+    "url": "https://www.sommarland.se/",
+    "role": "venue",
+    "name": "Skara Sommarland"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.sommarland.se/"
+  ],
+  "note": "Likely the go-kart tracks inside Skara Sommarland amusement park (Axvall), seasonal; identification by location, input type 'indoor' unverified."
+ },
+ {
+  "id": "way/446435270",
+  "name": "Glimminge Motorstadion",
+  "type": "outdoor",
+  "website": "https://www.svenskalag.se/uddevallakarting",
+  "websites": [
+   {
+    "url": "https://www.svenskalag.se/uddevallakarting",
+    "role": "club",
+    "name": "Uddevalla Kartingklubb"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Cadetti",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Micro",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "J60",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.svenskalag.se/uddevallakarting"
+  ],
+  "note": "Uddevalla Kartingklubb track; club rents Cadetti/Micro/J60 karts to youngsters on selected Sundays, own-kart training Tue/Thu/Sun."
+ },
+ {
+  "id": "relation/10426245",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://gokart.se/",
+  "websites": [
+   {
+    "url": "https://gokart.se/",
+    "role": "rental",
+    "name": "Göteborgs Gokartcenter AB"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Junior",
+    "engine": "Honda",
+    "hp": "4",
+    "class": "junior"
+   },
+   {
+    "chassis": "Caroli combi kart (hand controls)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://gokart.se/"
+  ],
+  "note": "Indoor and outdoor rental tracks in Torslanda; club Team 13 linked from the site."
+ },
+ {
+  "id": "way/250247751",
+  "name": "Gelleråsen Arena kart tracks",
+  "type": "outdoor",
+  "website": "https://www.gellerasen.se/gokart/",
+  "websites": [
+   {
+    "url": "https://www.gellerasen.se/gokart/",
+    "role": "rental",
+    "name": "Gelleråsen Arena Hyrkart"
+   },
+   {
+    "url": "https://www.gellerasen.se/kartingbanan/",
+    "role": "venue",
+    "name": "Gelleråsen Arena Stora Kartingbanan"
+   }
+  ],
+  "phone": "0586-15010",
+  "email": "info@gellerasen.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Carolikart",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Mini-kart",
+    "engine": "Honda GX160",
+    "hp": "4.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Duokart",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.gellerasen.se/gokart/",
+   "https://www.gellerasen.se/kartingbanan/",
+   "https://www.gellerasen.se/"
+  ],
+  "note": "Separate rental track plus new 1,257 m race kart track (opened 2023) with own-kart training days run with Karlskoga MF; unclear which of the two this OSM way is."
+ },
+ {
+  "id": "way/322817680",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 292 m track at Boglundsängen; no source found."
+ },
+ {
+  "id": "node/14062544858",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/195452678",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ },
+ {
+  "id": "way/40439771",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found; raceland.se is an unrelated tyre shop in Alvesta."
+ },
+ {
+  "id": "way/1250293709",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found (web search budget exhausted)."
+ }
+]

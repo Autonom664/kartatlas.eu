@@ -1,0 +1,4585 @@
+[
+ {
+  "id": "way/296836943",
+  "prices": [
+   {
+    "label": "Karting enfant",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "Monaco track",
+    "member": false
+   },
+   {
+    "label": "Karting 270 cc",
+    "class": "junior",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Monaco track",
+    "member": false
+   },
+   {
+    "label": "Karting 390 cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Monza track",
+    "member": false
+   }
+  ],
+  "price_source": "https://circuit-caen.fr/",
+  "tracks": [
+   {
+    "name": "Monaco",
+    "length_m": null,
+    "width_m": null,
+    "use": "kids/junior rental"
+   },
+   {
+    "name": "Monza",
+    "length_m": null,
+    "width_m": null,
+    "use": "adult rental"
+   }
+  ],
+  "note": "Track lengths not stated on site.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/5523518508",
+  "prices": [
+   {
+    "label": "Adult session (non-member)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8+ min driving",
+    "member": false
+   },
+   {
+    "label": "Adult session (member)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "member price; card 2 EUR",
+    "member": true
+   },
+   {
+    "label": "Adult 10 sessions (member)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 140,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price for 10 sessions, member",
+    "member": true
+   },
+   {
+    "label": "Child/student session (member)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "member price",
+    "member": true
+   },
+   {
+    "label": "Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 20,
+    "price": 47,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8 min quali + 20-lap race, podium, drink; min 6 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.straskart.fr/karting-strasbourg-prix/",
+  "tracks": [
+   {
+    "name": "Indoor track (two levels)",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Indoor two-level track with tunnel and bridge.",
+  "membership": "2 EUR membership card (annual)",
+  "fees": [
+   {
+    "name": "membership card",
+    "amount": 2,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": false,
+    "note": "gives member prices"
+   },
+   {
+    "name": "balaclava",
+    "amount": 2,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   }
+  ]
+ },
+ {
+  "id": "way/124372087",
+  "prices": [
+   {
+    "label": "Student / under-20 session (Indoor or Outdoor)",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "off-peak",
+    "note": "Tue-Fri outside school holidays, proof required; from Instagram post",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.lillekarting.fr/formules/",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste outdoor",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Standard session prices not published on site (only a student promo); 10-min timed sessions, from age 7 / 1.30 m.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/404696632",
+  "prices": [
+   {
+    "label": "Kart Loisir",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "19 EUR/session from 2 sessions",
+    "member": false
+   },
+   {
+    "label": "Kart Semi-Competition",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "390cc; 25 EUR/session from 2",
+    "member": false
+   },
+   {
+    "label": "Karting enfant",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "19 EUR/session from 2",
+    "member": false
+   },
+   {
+    "label": "Endurance 1h30 rental kart",
+    "class": "race",
+    "type": "package",
+    "minutes": 90,
+    "laps": null,
+    "price": 240,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "dated event; price per entry",
+    "member": false
+   },
+   {
+    "label": "GP 16 Tours rental kart",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 16,
+    "price": 65,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "dated event, 65-75 EUR range",
+    "member": false
+   }
+  ],
+  "price_source": "https://kartlandes.com/produit/session-de-karting/",
+  "tracks": [
+   {
+    "name": "Circuit Kart Landes 40",
+    "length_m": 1400,
+    "width_m": null,
+    "use": "rental and racing"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/98867497",
+  "prices": [],
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Circuit d'Espoey",
+    "length_m": 780,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Prices only in an image/downloadable list, not readable; Sodi RT10 270cc adult 14+, LR6 kids 8+/1.30m, 2Drive twin.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290666067",
+  "prices": [
+   {
+    "label": "Racing Kart 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "22 EUR with Pass Circuit",
+    "member": false
+   },
+   {
+    "label": "Kid Kart 160cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "mornings only; 16 EUR with Pass Circuit",
+    "member": false
+   },
+   {
+    "label": "Challenge Monza",
+    "class": "race",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 60,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "group challenge, 45 min format",
+    "member": false
+   }
+  ],
+  "price_source": "https://circuitdebresse.com/location-karting-particulier/",
+  "tracks": [
+   {
+    "name": "Karting Circuit de Bresse",
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/183430322",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: website redirects to google.com.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/81731257",
+  "prices": [
+   {
+    "label": "1 race",
+    "class": "electric",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 147,
+    "day": null,
+    "note": "adult electric kart; 3 EUR annual membership required",
+    "member": false
+   },
+   {
+    "label": "Junior 1 race (special)",
+    "class": "junior",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 122,
+    "day": "weekday",
+    "note": "Mon-Thu junior special; standard 24 EUR",
+    "member": false
+   },
+   {
+    "label": "3 races",
+    "class": "electric",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 147,
+    "day": null,
+    "note": "price for 3 races",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.k1speed.com/fr/lyon/karting-indoor-tarifs.html",
+  "tracks": [],
+  "note": "Race duration and track length not stated.",
+  "membership": "3 EUR/year (required to race)",
+  "fees": [
+   {
+    "name": "annual membership",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": true,
+    "note": "required to race"
+   }
+  ]
+ },
+ {
+  "id": "way/196334663",
+  "prices": [
+   {
+    "label": "Adult 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 sessions 34 EUR weekday / 40 EUR weekend",
+    "member": false
+   },
+   {
+    "label": "Kids 160cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "2 sessions 30 EUR weekday / 34 EUR weekend",
+    "member": false
+   },
+   {
+    "label": "Twin 270cc (biplace)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "driver needs licence; passenger min 1.20 m",
+    "member": false
+   },
+   {
+    "label": "Adult group 30 min",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min practice + 20 min race",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.manachakart.com/",
+  "tracks": [
+   {
+    "name": "Circuit Manacha Kart",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/26365237",
+  "prices": [
+   {
+    "label": "Karting 4 temps Adulte",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Karting 4 temps Enfant",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 11,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Karting 2 temps competition KA100",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 45,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "after approval on 4-stroke kart",
+    "member": false
+   },
+   {
+    "label": "Challenge Initiation",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 12,
+    "price": 58,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min timed + 12-lap final; min 10 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://kartingelceka.fr/prix/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290677286",
+  "prices": [
+   {
+    "label": "Sodi SR5 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 sessions 100 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi LR5 160cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 sessions 80 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi 2Drive biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "passenger from 4 with adult",
+    "member": false
+   },
+   {
+    "label": "Sodi GT5 Handikart",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "hand-control kart",
+    "member": false
+   },
+   {
+    "label": "Formule anniversaire",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 5 min heats; min 5 children",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.gkl-karting.fr/location-kart",
+  "tracks": [
+   {
+    "name": "Piste GKL",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental, both directions"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290681900",
+  "prices": [
+   {
+    "label": "Kart session libre",
+    "class": "adult",
+    "type": "session",
+    "minutes": 9,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 54 EUR",
+    "member": false
+   },
+   {
+    "label": "Kids kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 9,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 9,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "adult driver; passenger from 5",
+    "member": false
+   },
+   {
+    "label": "Baby kart electrique",
+    "class": "electric",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Le sprint",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 15,
+    "price": 80,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "practice, quali, 15-lap heat and final, podium cups; min 10 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.sunkart.fr/tarifs",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/10743412563",
+  "prices": [
+   {
+    "label": "Kart 270cc 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "15 min 26 EUR, 20 min 32 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart 120cc 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 min quali + 2 x 10 min races, prize-giving; 5-13 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartinghirson.com/blank-2",
+  "tracks": [],
+  "note": "Reservation only; track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1122917959",
+  "prices": [
+   {
+    "label": "1 ticket",
+    "class": "other",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "ticket system, duration not stated; 10 tickets 90 EUR",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.speedkart.fr/location-adulte/tarifs-karting-adultes/",
+  "tracks": [
+   {
+    "name": "Piste 700 m",
+    "length_m": 700,
+    "width_m": null,
+    "use": "adult rental"
+   },
+   {
+    "name": "Piste 1100 m",
+    "length_m": 1100,
+    "width_m": null,
+    "use": "adult rental"
+   },
+   {
+    "name": "Circuit junior",
+    "length_m": 450,
+    "width_m": null,
+    "use": "kids"
+   }
+  ],
+  "note": "Adult karting sold by tickets (minutes per ticket not stated); Loisir 160cc and Sport 320cc karts.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/632898494",
+  "prices": [],
+  "price_source": "https://www.speedkart.fr/tarifs-parc-de-loisir-enfant/",
+  "tracks": [
+   {
+    "name": "Circuit junior",
+    "length_m": 450,
+    "width_m": null,
+    "use": "kids"
+   }
+  ],
+  "note": "Children's park prices only in an image tariff, not readable.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/12422844942",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "No prices published on the Caen pages; arrive and drive from 1.22 m.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1192618778",
+  "prices": [
+   {
+    "label": "Sodi RT10 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "3 sessions 50 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi Fun Kid 120cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 sessions 38 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart 390cc / bi-place (as listed)",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "page ambiguous between GT4 390cc and biplace",
+    "member": false
+   },
+   {
+    "label": "Sodi 2T 125cc",
+    "class": "race",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 38,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Rotax, under conditions",
+    "member": false
+   },
+   {
+    "label": "Sprint 1 kart 270cc",
+    "class": "race",
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "race format 25 min",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.madeinkart.com/circuit/",
+  "tracks": [
+   {
+    "name": "Piste competition",
+    "length_m": 1050,
+    "width_m": 7,
+    "use": "competition"
+   },
+   {
+    "name": "Piste loisirs",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/11066847282",
+  "prices": [
+   {
+    "label": "Kart Adulte",
+    "class": "adult",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 18.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Family",
+    "class": "kids",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 15.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "reduced-speed kart; 3 sessions 42 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Bi Place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 24.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": 100,
+    "day": null,
+    "note": "passenger 4+ (family) or 14+ (adult session)",
+    "member": false
+   }
+  ],
+  "price_source": "https://kartingcityperigord.fr/reservation/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1529018102",
+  "prices": [
+   {
+    "label": "Kart Adult",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "17 EUR online",
+    "member": false
+   },
+   {
+    "label": "Kart Kid Family",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": null,
+    "day": null,
+    "note": "14 EUR online",
+    "member": false
+   },
+   {
+    "label": "Kart Biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "passenger 4+ with adult",
+    "member": false
+   },
+   {
+    "label": "BabyKart",
+    "class": "electric",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Kart Racing 2T",
+    "class": "race",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "conditions apply (E-card, lap time)",
+    "member": true
+   }
+  ],
+  "price_source": "https://mecamax.com/karting/",
+  "tracks": [
+   {
+    "name": "Circuit Mecamax",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental, both directions"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/229180444",
+  "prices": [
+   {
+    "label": "Karting 270 cm3",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "3 series 54 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting 120 cm3",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 10,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "5 series 65 EUR",
+    "member": false
+   },
+   {
+    "label": "BabyKart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 10,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Formule Series 2 x 7 min",
+    "class": "race",
+    "type": "package",
+    "minutes": 14,
+    "laps": null,
+    "price": 26,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "min 8 people",
+    "member": false
+   },
+   {
+    "label": "Challenge Grand Prix 10+10+10",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 54,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "practice, timed, race; min 8 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://lacalmettekarting.com/tarifs/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/54413439",
+  "prices": [
+   {
+    "label": "Karting thermique SR5",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "3 sessions 55 EUR; weekends/holidays",
+    "member": false
+   },
+   {
+    "label": "Formule Endurance",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from-price, group challenge",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.circuitdehautesaintonge.com/piste-kart/location-karting/",
+  "tracks": [
+   {
+    "name": "Piste kart",
+    "length_m": 1055,
+    "width_m": 8,
+    "use": "rental and competition"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/661901313",
+  "prices": [
+   {
+    "label": "Run adult (Sodi RT10 270cc)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "3 x 10 min 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Run junior (Sodi LR6 160cc)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 x 10 min 42 EUR",
+    "member": false
+   },
+   {
+    "label": "Mini-kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "electric mini-F1",
+    "member": false
+   },
+   {
+    "label": "Duo bi-place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "passenger 4+, driver 18+",
+    "member": false
+   },
+   {
+    "label": "Handikart PMR (Sodi GT2)",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   }
+  ],
+  "price_source": "https://vendeekart.fr/tarifs/",
+  "tracks": [
+   {
+    "name": "Circuit Vendee Kart",
+    "length_m": 780,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Group prices on request.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/590746258",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Municipal page only mentions kart cross races; no rental or prices.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/12595478788",
+  "prices": [
+   {
+    "label": "BattleKart adult 1st session",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "15 min incl. boarding (~12.5 min play); 2nd 18 EUR",
+    "member": false
+   },
+   {
+    "label": "BattleKart under 18/student 1st session",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "proof required; next sessions 16 EUR",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.battlekart.com/fr/rennes/",
+  "tracks": [],
+  "note": "Augmented-reality kart arena, 1950 m2 track area.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/706242692",
+  "prices": [
+   {
+    "label": "270cc MINI GP",
+    "class": "race",
+    "type": "package",
+    "minutes": 22,
+    "laps": null,
+    "price": 39,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 12 min race",
+    "member": false
+   },
+   {
+    "label": "270cc MAXI GP",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 59,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 20 min race; most chosen",
+    "member": false
+   },
+   {
+    "label": "390cc MINI GP",
+    "class": "race",
+    "type": "package",
+    "minutes": 22,
+    "laps": null,
+    "price": 66,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 12 min race",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.arena45.fr/challenge-entres-amis/",
+  "tracks": [
+   {
+    "name": "Circuit Arena 45",
+    "length_m": 1108,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Single-session prices only in online booking widget (not readable).",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/675701556",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: site SSL certificate expired.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/6799381818",
+  "prices": [
+   {
+    "label": "Kart adulte (electric)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "member price; non-member 24 EUR; 3 sessions 52 EUR",
+    "member": true
+   },
+   {
+    "label": "Kart ados (electric)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "electric; member price; non-member 21 EUR",
+    "member": true
+   },
+   {
+    "label": "Kart adulte (electric), non-member",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "non-member price",
+    "member": false
+   },
+   {
+    "label": "Kart ados (electric), non-member",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "electric; non-member price",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.family-fun-park-lagord.com/karting",
+  "tracks": [],
+  "note": "Indoor electric karting; track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/34179469",
+  "prices": [
+   {
+    "label": "RS Kart 9cv 270cm3",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8 or 10 min depending on season; member 19 EUR",
+    "member": false
+   },
+   {
+    "label": "Fun Kart 4.5cv 200cm3",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "family kart; 8 or 10 min; member 17 EUR",
+    "member": false
+   },
+   {
+    "label": "2Drive biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart (driver + passenger); member 26 EUR",
+    "member": false
+   },
+   {
+    "label": "Sport Rotax 16 CV",
+    "class": "race",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 37,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "requires 49 s lap on RS Kart; member 35 EUR",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.gp-circuit.fr/prestations/karts-gp-circuit-loisir",
+  "tracks": [],
+  "note": "Sessions 8 or 10 min depending on season/slot; track length not stated.",
+  "membership": "10 EUR individual card, 12 months",
+  "fees": [
+   {
+    "name": "member card",
+    "amount": 10,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": false,
+    "note": "individual, 12 months; gives member prices"
+   },
+   {
+    "name": "fabric hood",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "required when using club helmets"
+   }
+  ]
+ },
+ {
+  "id": "way/812835940",
+  "prices": [
+   {
+    "label": "Super Sport (Sodikart RT10 270cc)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 10 min 55 EUR",
+    "member": false
+   },
+   {
+    "label": "Sport (Sodikart RX7 200cc)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 10 min 42 EUR",
+    "member": false
+   },
+   {
+    "label": "Fun Kid 120cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 13,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 x 10 min 36 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Biplace (with instructor)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "instructor drives",
+    "member": false
+   },
+   {
+    "label": "Mini moto / electric F1",
+    "class": "electric",
+    "type": "session",
+    "minutes": 3,
+    "laps": null,
+    "price": 3,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per token",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.karting-ardeche.com/karting/",
+  "tracks": [
+   {
+    "name": "Piste modulable",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1525230649",
+  "prices": [
+   {
+    "label": "Kart 270cc (Sodikart RT8)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "hood +1 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart 390cc (Sodikart RT10)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 26,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "KidKart (Sodikart LR5 160cc)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Bi-seat kart (Sodikart 2Drive)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": 100,
+    "day": null,
+    "note": "driver 18+/1.50 m",
+    "member": false
+   },
+   {
+    "label": "Kart Compet' (Rotax 125cc)",
+    "class": "race",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 35,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "requires qualifying lap time",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.karting-lavilledieu.com/kart",
+  "tracks": [
+   {
+    "name": "Circuit de Lavilledieu",
+    "length_m": 1300,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": [
+   {
+    "name": "hood",
+    "amount": 1,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": true,
+    "note": "free if you bring your own helmet"
+   }
+  ]
+ },
+ {
+  "id": "way/290722217",
+  "prices": [
+   {
+    "label": "Session Adultes 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Session Adulte + 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 65 EUR",
+    "member": false
+   },
+   {
+    "label": "Session Kids 120cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Session Bi place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "adult + child only",
+    "member": false
+   },
+   {
+    "label": "Baby electric kart",
+    "class": "electric",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 2,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per token",
+    "member": false
+   },
+   {
+    "label": "Formule Grand Prix 30 min",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 45,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "practice, timed laps, races; min 10 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://lfkarting.fr/location-de-kart-lot-et-garonne/",
+  "tracks": [
+   {
+    "name": "Circuit LF Karting",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/270319605",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: site content is script-rendered, no readable text.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/77406149",
+  "prices": [
+   {
+    "label": "Kart loisir SR5 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Sodi Sport 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 56 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart enfant (Sodikart LR5)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 11,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Kart 2Drive duo",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 29,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per duo",
+    "member": false
+   },
+   {
+    "label": "Kid Racer electric",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": 6,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 5 min",
+    "member": false
+   },
+   {
+    "label": "Challenge Karting",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 49,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from-price; min 10 drivers",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.jovikart.com/tarif-karting-nantes/",
+  "tracks": [
+   {
+    "name": "Circuit Jovikart",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/242948675",
+  "prices": [
+   {
+    "label": "SR5 Loisir session",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Grand Prix 40 min (groups 10-23)",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 80,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "practice + 2 x 15 min races, podium, diploma; min 10 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartingcircuitpaulricard.com/",
+  "tracks": [
+   {
+    "name": "Karting Circuit Paul Ricard (layout 1)",
+    "length_m": 964,
+    "width_m": null,
+    "use": "rental and competition, CIK homologated"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/12792155555",
+  "prices": [
+   {
+    "label": "Adult 1 race",
+    "class": "electric",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 147,
+    "day": null,
+    "note": "3 EUR annual licence required; 3 races 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Junior 1 race",
+    "class": "junior",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "electric; 3 races 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Speedpass",
+    "class": "electric",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 races + T-shirt + annual licence",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.k1speed.com/fr/le-mans/karting-indoor-tarifs.html",
+  "tracks": [],
+  "note": "Race duration and track length not stated.",
+  "membership": "3 EUR/year (required to race)",
+  "fees": [
+   {
+    "name": "annual licence",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": true,
+    "note": "required to race"
+   }
+  ]
+ },
+ {
+  "id": "way/34544629",
+  "prices": [
+   {
+    "label": "270cc adult",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "3 sessions 49 EUR; ACO member 16 EUR",
+    "member": false
+   },
+   {
+    "label": "390cc adult",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "3 sessions 70 EUR",
+    "member": false
+   },
+   {
+    "label": "Rotax",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 45,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "160cc youth",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 12,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "youth rate 7-18 also 17 EUR on 270cc",
+    "member": false
+   },
+   {
+    "label": "Biplace (instructor-driven)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "book in advance",
+    "member": false
+   },
+   {
+    "label": "PMR kart",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "adapted kart",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.lemans-karting.com/karting/sessions/",
+  "tracks": [
+   {
+    "name": "Circuit Alain Prost",
+    "length_m": 980,
+    "width_m": null,
+    "use": "rental (layouts A and B)"
+   },
+   {
+    "name": "Circuit Indy-Kart",
+    "length_m": 805,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Circuit International de Karting",
+    "length_m": 1400,
+    "width_m": null,
+    "use": "390cc/Rotax and competition"
+   }
+  ],
+  "note": "Adult session duration not explicitly stated (10 min for youth).",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/192522849",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: SSL certificate mismatch on vp-kart.com.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1525227888",
+  "prices": [
+   {
+    "label": "Adult kart 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "member card holders (card 2 EUR); 30 min 70 EUR",
+    "member": true
+   },
+   {
+    "label": "Child kart 200cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "member card holders; 30 min 40 EUR",
+    "member": true
+   },
+   {
+    "label": "Two-seater baptism",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2Drive",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.cantalkarting.fr/index.php/particulier/particulier",
+  "tracks": [
+   {
+    "name": "Circuit le Lissartel",
+    "length_m": 1105,
+    "width_m": 8,
+    "use": "rental and competition"
+   }
+  ],
+  "note": null,
+  "membership": "2 EUR membership card (lifetime)",
+  "fees": [
+   {
+    "name": "membership card",
+    "amount": 2,
+    "currency": "EUR",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "lifetime; session prices are for card holders"
+   }
+  ]
+ },
+ {
+  "id": "way/688370905",
+  "prices": [
+   {
+    "label": "Session location",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2024 tariff; 10 sessions 180 EUR",
+    "member": false
+   },
+   {
+    "label": "Formule Fullkart",
+    "class": "adult",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "off-peak",
+    "note": "4 x 10 min, Fridays outside holidays",
+    "member": false
+   },
+   {
+    "label": "Challenge Classic",
+    "class": "race",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 45,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 10 min race; min 8 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartinglerove.com/pages/tarifs-horaires-18.html",
+  "tracks": [
+   {
+    "name": "Piste exterieure",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Tariff page labelled 2024.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/904774472",
+  "prices": [
+   {
+    "label": "Adult kart 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "3 x 10 min 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Junior kart 160cc",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 128,
+    "day": null,
+    "note": "3 x 10 min 40 EUR",
+    "member": false
+   },
+   {
+    "label": "Bi-place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 28,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart (14 EUR each when shared)",
+    "member": false
+   },
+   {
+    "label": "Formule challenge",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 14,
+    "price": 60,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min practice, 10 min timed, 14-lap race; min 10-15 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://kartingdesaintes.com/tarifs-formule-course/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/11359723300",
+  "prices": [
+   {
+    "label": "Adult session",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "student 17 EUR; 3 sessions 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Children session",
+    "class": "kids",
+    "type": "session",
+    "minutes": 6,
+    "laps": null,
+    "price": 10,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "10 sessions 90 EUR",
+    "member": false
+   },
+   {
+    "label": "Grand Prix Classic 30'",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 52,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "practice, quali, final; min 10 drivers",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.inwallkart.com/tarifs/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": "free (Carte Acces Piste)",
+  "fees": [
+   {
+    "name": "Carte Acces Piste",
+    "amount": 0,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "free sign-up"
+   }
+  ]
+ },
+ {
+  "id": "way/1529016844",
+  "prices": [
+   {
+    "label": "Karting 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 series 95 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 26,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 series 120 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting 200cc",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Karting Kid",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Bapteme Karting Biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "instructor-driven",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.akskart.fr/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/788311613",
+  "prices": [
+   {
+    "label": "270CC",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "4 x 10 min 72 EUR",
+    "member": false
+   },
+   {
+    "label": "160CC",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "height about 1.40 m",
+    "member": false
+   },
+   {
+    "label": "Bi-places",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "driver 18+",
+    "member": false
+   }
+  ],
+  "price_source": "https://smkart50.fr/location-karting/",
+  "tracks": [],
+  "note": "Site says 'more than 1000 m of track' (no exact length).",
+  "membership": "5 EUR/month",
+  "fees": [
+   {
+    "name": "club membership",
+    "amount": 5,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "per month; preferential session prices"
+   }
+  ]
+ },
+ {
+  "id": "way/28057971",
+  "prices": [
+   {
+    "label": "Karting RT10 V2",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "5 sessions 81 EUR; hood 2 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting Junior LR5",
+    "class": "junior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 12,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Kid Racer",
+    "class": "electric",
+    "type": "session",
+    "minutes": 3,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per token",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.ledoux-karting.fr/karting/tarifs-particuliers/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": [
+   {
+    "name": "reusable washable hood",
+    "amount": 2,
+    "currency": "EUR",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "required with helmets"
+   }
+  ]
+ },
+ {
+  "id": "node/5033005312",
+  "prices": [
+   {
+    "label": "Adult session 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "membership card 2 EUR; 3 sessions 53 EUR",
+    "member": false
+   },
+   {
+    "label": "Kids session 160cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 sessions 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 20 min race; 12-18 people",
+    "member": false
+   }
+  ],
+  "price_source": "https://ntkart.com/tarifs",
+  "tracks": [],
+  "note": "Track length not stated (about 45 s lap).",
+  "membership": "2 EUR membership card",
+  "fees": [
+   {
+    "name": "membership card",
+    "amount": 2,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   }
+  ]
+ },
+ {
+  "id": "way/70109989",
+  "prices": [
+   {
+    "label": "Adult session (electric)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 48.50 EUR; balaclava 1.50 EUR",
+    "member": false
+   },
+   {
+    "label": "Child session 11-13 (electric)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 11,
+    "max_age": 13,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "electric kart",
+    "member": false
+   },
+   {
+    "label": "Sprint formula",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 53,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions, quali, grid start, podium, medals, drink; min 8",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.rmt-karting.fr/",
+  "tracks": [
+   {
+    "name": "Electric kart track",
+    "length_m": 510,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Electric karts.",
+  "membership": null,
+  "fees": [
+   {
+    "name": "full-face balaclava",
+    "amount": 1.5,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": true,
+    "note": "required with venue helmets"
+   }
+  ]
+ },
+ {
+  "id": "way/155604424",
+  "prices": [
+   {
+    "label": "Fun Kart 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "3 x 10 min 55 EUR",
+    "member": false
+   },
+   {
+    "label": "Kid Kart 120cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 12,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "3 x 10 min 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Bi-Place 270cc",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "instructor-driven",
+    "member": false
+   },
+   {
+    "label": "Pocket Racer",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 6,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": 6,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   }
+  ],
+  "price_source": "https://www.jcskarting.com/karting/",
+  "tracks": [
+   {
+    "name": "Piste Categorie 1",
+    "length_m": 800,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290721038",
+  "prices": [
+   {
+    "label": "Kart Cup (Sodi RT10)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "1200 m track; 3 x 10 min 57 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Fun (Sodi LR5)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "400 m family track; 3 x 10 min 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart Racer",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "mini-circuit",
+    "member": false
+   }
+  ],
+  "price_source": "https://karting-de-magescq.fr/tarifs-karting-landes-magescq/",
+  "tracks": [
+   {
+    "name": "Circuit adultes et competition",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "adult rental and competition"
+   },
+   {
+    "name": "Circuit enfants et debutants",
+    "length_m": 400,
+    "width_m": null,
+    "use": "kids and beginners"
+   }
+  ],
+  "note": null,
+  "membership": "2 EUR member card",
+  "fees": [
+   {
+    "name": "member card",
+    "amount": 2,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   }
+  ]
+ },
+ {
+  "id": "way/482336192",
+  "prices": [
+   {
+    "label": "Kart location 4 temps",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "student 16 EUR; 5 tickets 89 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart location 2 temps",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 43,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "page also shows 41 EUR",
+    "member": false
+   },
+   {
+    "label": "SODI LR5 kids",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 12,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 11,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Kid Racer electric",
+    "class": "electric",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 4,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Sprint de Magny",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 65,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "dated rental-kart race event",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartingmagnycours.com/tarifs-particuliers/",
+  "tracks": [
+   {
+    "name": "Piste karting Magny-Cours",
+    "length_m": 1110,
+    "width_m": null,
+    "use": "rental and competition; width 8-10 m"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/12584616596",
+  "prices": [
+   {
+    "label": "Sodi RT8 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 55 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi Fun Kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "3 sessions 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi Biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Sodi Kart Competition Rotax 125",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 160,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price for 3 sessions; approval required",
+    "member": false
+   },
+   {
+    "label": "Grand Prix Melbourne",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 43,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10-20 drivers",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartingmanosque.fr/fr/karting",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/127256481",
+  "prices": [
+   {
+    "label": "Sessions Karting",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from-price; duration not stated",
+    "member": false
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": 35,
+    "laps": null,
+    "price": 75,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "from-price; 10 min practice, 10 min quali, 15 min race; min 8",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.gtr-performance.fr/produit/sessions-karting",
+  "tracks": [
+   {
+    "name": "Circuit de Marcillat",
+    "length_m": 1100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Only from-prices published.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/13458676482",
+  "prices": [
+   {
+    "label": "Sport (Sodi SR4 270cc)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": "3 sessions 45 EUR; balaclava 2 EUR",
+    "member": false
+   },
+   {
+    "label": "Junior (Sodi FunKid 120cc)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 sessions 40 EUR",
+    "member": false
+   },
+   {
+    "label": "Format course",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 20,
+    "price": 65,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": "practice, quali, 20-lap race, podium, medals; min 8",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.karting-paintball14.fr/tarifs.php",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": [
+   {
+    "name": "balaclava",
+    "amount": 2,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   }
+  ]
+ },
+ {
+  "id": "way/290678826",
+  "prices": [],
+  "price_source": "https://askmartigues.fr/nos-tarifs/",
+  "tracks": [
+   {
+    "name": "Piste de l'Oratoire",
+    "length_m": 600,
+    "width_m": null,
+    "use": "club/competition"
+   }
+  ],
+  "note": "Club track: no kart rental ('aucune location'); only track-access fees for licence holders (day 40 EUR non-member).",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "relation/4267416",
+  "prices": [
+   {
+    "label": "Kart 1/4 heure (up to 10 people)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 29,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Sodi SR5 390cc; 1/2 h 49 EUR, 1 h 98 EUR",
+    "member": false
+   },
+   {
+    "label": "Student/junior 1/4 heure",
+    "class": "junior",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "student/junior rate; 1/2 h 43 EUR",
+    "member": false
+   },
+   {
+    "label": "Group 60 minutes (private track)",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 94,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "groups 16-200; minimum package 1410 EUR",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.karting-meisenthal.com/images/Images-Diverses/WSV-KARTING-TARIFS-2025.pdf",
+  "tracks": [
+   {
+    "name": "Circuit outdoor Meisenthal",
+    "length_m": 750,
+    "width_m": 7.2,
+    "use": "rental"
+   }
+  ],
+  "note": "2025 tariff PDF; reservation by phone only.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/128857901",
+  "prices": [
+   {
+    "label": "Formule Sport 390cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Formule Junior",
+    "class": "junior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Formule Bi-Place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 33,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "driver 18+",
+    "member": false
+   },
+   {
+    "label": "Formule Pro Rotax",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 52,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "after validation on 390cc",
+    "member": false
+   },
+   {
+    "label": "Speedway",
+    "class": "race",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 48,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8 min quali + 8 min race, prize giving; min 10",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.capkarting.com/locations",
+  "tracks": [
+   {
+    "name": "Circuit de Mer",
+    "length_m": 1500,
+    "width_m": null,
+    "use": "rental and competition"
+   }
+  ],
+  "note": null,
+  "membership": "free",
+  "fees": [
+   {
+    "name": "membership",
+    "amount": 0,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "free registration"
+   }
+  ]
+ },
+ {
+  "id": "node/13105619745",
+  "prices": [
+   {
+    "label": "Adult kart (electric)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 52 EUR",
+    "member": false
+   },
+   {
+    "label": "Kart ados (electric)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "electric; 3 sessions 43 EUR",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.family-fun-park-meschers.com/karting",
+  "tracks": [],
+  "note": "Electric karts; track length not stated.",
+  "membership": null,
+  "fees": [
+   {
+    "name": "balaclava",
+    "amount": 2,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "free first time; 2 EUR if not returned"
+   }
+  ]
+ },
+ {
+  "id": "way/156358387",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: domain newkartpoitiers.com does not resolve.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290680699",
+  "prices": [
+   {
+    "label": "Karting Adultes SR270+",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 46 EUR; hood 2 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting Ados SPORT180",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "3 sessions 41 EUR",
+    "member": false
+   },
+   {
+    "label": "Karting Enfants RACING120",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "3 sessions 35 EUR",
+    "member": false
+   },
+   {
+    "label": "Bi-place 270",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart, 2 people; driver 21+",
+    "member": false
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 16,
+    "price": 36,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min quali + 16-lap race, medals; min 6",
+    "member": false
+   },
+   {
+    "label": "Grand Prix",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 18,
+    "price": 44,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8 min practice, 8 min quali, 18-lap race, medals; min 6",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.nimeskarting.fr/horaires-tarifs/",
+  "tracks": [
+   {
+    "name": "Piste Nimes Karting",
+    "length_m": 525,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": [
+   {
+    "name": "reusable balaclava",
+    "amount": 2,
+    "currency": "EUR",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "mandatory for karting"
+   }
+  ]
+ },
+ {
+  "id": "way/92793042",
+  "prices": [
+   {
+    "label": "TB Kart R25 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "helmet loan 3 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi LR5 junior track",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Sodi 2Drive bi-seat",
+    "class": "twin",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 6,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": null,
+    "note": "driver 18+",
+    "member": false
+   },
+   {
+    "label": "Electric cars/motos mini track",
+    "class": "electric",
+    "type": "session",
+    "minutes": 3,
+    "laps": null,
+    "price": 3,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": 6,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per token",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.kartland.fr/tarifs.php",
+  "tracks": [
+   {
+    "name": "Piste licencies",
+    "length_m": 1500,
+    "width_m": null,
+    "use": "licensed drivers only"
+   }
+  ],
+  "note": "Rental track lengths not stated.",
+  "membership": null,
+  "fees": [
+   {
+    "name": "helmet loan",
+    "amount": 3,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "balaclava mandatory with it"
+   }
+  ]
+ },
+ {
+  "id": "way/189887727",
+  "prices": [
+   {
+    "label": "Sodi RT10 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 48 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi LR5 160cc",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 sessions 40 EUR",
+    "member": false
+   },
+   {
+    "label": "Sodi Bi-place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 26,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "with an adult",
+    "member": false
+   },
+   {
+    "label": "Sodi Sport Rotax 125",
+    "class": "race",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "lap-time and approval conditions",
+    "member": false
+   },
+   {
+    "label": "Monaco Race",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Grand Prix formula, min 8 drivers",
+    "member": false
+   }
+  ],
+  "price_source": "https://bocaspeed.fr/tarifs/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/221575189",
+  "prices": [
+   {
+    "label": "Piste Adultes 270cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "4 sessions 72 EUR",
+    "member": false
+   },
+   {
+    "label": "Piste Junior 200cc",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "4 sessions 60 EUR",
+    "member": false
+   },
+   {
+    "label": "Piste Enfant 120cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "4 sessions 51 EUR",
+    "member": false
+   },
+   {
+    "label": "Biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 29,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "GP 35 min",
+    "class": "race",
+    "type": "package",
+    "minutes": 35,
+    "laps": null,
+    "price": 69,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min practice, 10 min quali, 15 min final",
+    "member": false
+   }
+  ],
+  "price_source": "https://kartingdemonteux.fr/tarifs/",
+  "tracks": [],
+  "note": "Track length not stated.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/594674045",
+  "prices": [],
+  "price_source": null,
+  "tracks": [],
+  "note": "Site is a car circuit (2325 m); no karting or kart rental mentioned.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1531505783",
+  "prices": [],
+  "price_source": "https://www.kartingdunordmayenne.fr/nos-tarifs-individuels",
+  "tracks": [
+   {
+    "name": "Circuit du Nord Mayenne",
+    "length_m": 884,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "note": "Price page shows no readable prices (likely image); free member card.",
+  "membership": "free",
+  "fees": [
+   {
+    "name": "member card",
+    "amount": 0,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "free, from age 12"
+   }
+  ]
+ },
+ {
+  "id": "way/898168875",
+  "prices": [
+   {
+    "label": "Super K 10 ch",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 27.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "GX 270cc 8 ch",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 23.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Premium 200cc 6.5 ch",
+    "class": "junior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 17.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Kid 120cc 4.5 ch",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 14.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Bi-place",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 26.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "adult + passenger 5+",
+    "member": false
+   },
+   {
+    "label": "Bambino electrique",
+    "class": "electric",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 6.9,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "La CUP",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 10,
+    "price": 69,
+    "currency": "EUR",
+    "extras": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from-price; 5 min quali + 2 x 10-lap races, trophy",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.mistralkart.com",
+  "tracks": [
+   {
+    "name": "Piste outdoor",
+    "length_m": 820,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/12089359841",
+  "prices": [
+   {
+    "label": "BattleKart session (weekday)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "weekday",
+    "note": "15 min incl. boarding",
+    "member": false
+   },
+   {
+    "label": "BattleKart session (weekend)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "weekend",
+    "note": "15 min incl. boarding",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.battlekart.com/fr/lyon-mornant/",
+  "tracks": [],
+  "note": "Augmented-reality kart arena.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/123559878",
+  "prices": [],
+  "price_source": "https://www.kartingmuret.fr/club-karting/tarifs",
+  "tracks": [
+   {
+    "name": "Circuit de kart",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste",
+    "length_m": 1340,
+    "width_m": null,
+    "use": "rental/competition"
+   }
+  ],
+  "note": "Prices only in an image (10-min sessions); tracks combinable to over 2140 m.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/290670811",
+  "prices": [
+   {
+    "label": "Adult session",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 45 EUR",
+    "member": false
+   },
+   {
+    "label": "Child session",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions 38 EUR",
+    "member": false
+   },
+   {
+    "label": "Bi places",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "with an adult",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.karting2noiron.fr/tarifs",
+  "tracks": [
+   {
+    "name": "Piste FFSA",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": "Site says track closed for 2026, reopening 2027.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/1000270136",
+  "prices": [
+   {
+    "label": "BattleKart first session (adult)",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "15 min incl. boarding; 2nd 18 EUR",
+    "member": false
+   },
+   {
+    "label": "BattleKart children's session",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null,
+    "member": false
+   },
+   {
+    "label": "Wednesday offer",
+    "class": "electric",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "off-peak",
+    "note": "Wednesdays outside school holidays",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.battlekart.com/fr/tours/",
+  "tracks": [],
+  "note": "Augmented-reality kart arena.",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "way/472062469",
+  "prices": [],
+  "price_source": "https://karting-lille-jpr.fr/tarifs-karting",
+  "tracks": [],
+  "note": "Price page too large/script-heavy; no prices found in readable part (15-min sessions, 270cc 14+/1.50 m).",
+  "membership": null,
+  "fees": []
+ },
+ {
+  "id": "node/13247717402",
+  "prices": [
+   {
+    "label": "Karting Adulte 200cc",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "from-price",
+    "member": false
+   },
+   {
+    "label": "Karting enfant",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from-price",
+    "member": false
+   }
+  ],
+  "price_source": "https://www.teamactive.fr/activites/karting-adulte-circuit-de-ouistreham/",
+  "tracks": [
+   {
+    "name": "Circuit de Ouistreham",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "note": null,
+  "membership": null,
+  "fees": []
+ }
+]

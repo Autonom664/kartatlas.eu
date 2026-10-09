@@ -1,0 +1,490 @@
+[
+ {
+  "id": "way/601839513",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 655,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.askarting-villars42.fr/plan-d-accès-la-piste/",
+  "note": "Width stated as 7-8 m."
+ },
+ {
+  "id": "way/152130584",
+  "tracks": [
+   {
+    "name": "Circuit extérieur",
+    "length_m": 1200,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Circuit intérieur",
+    "length_m": 400,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.dunoiskart.com/circuit-exterieur-dunois-kart-complexe-karting-region-centre-28-chartres",
+  "note": "A separate Kid Racer circuit (ages 3-6) has no stated length."
+ },
+ {
+  "id": "way/652859924",
+  "tracks": [],
+  "source": "https://www.formulekart.com/circuit",
+  "note": "Circuit page shows an unlabelled figure 1100 in its stats block; not confirmed as length."
+ },
+ {
+  "id": "node/12020240069",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/10871381994",
+  "tracks": [],
+  "source": null,
+  "note": "Homepage gives no length; karting subpage could not be checked (rate-limited)."
+ },
+ {
+  "id": "node/11163525017",
+  "tracks": [
+   {
+    "name": "Piste adultes / enfants",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.park-events.com/karting-lyon/",
+  "note": "Two-level indoor track; homepage also says 750 m; a separate baby track has no stated length."
+ },
+ {
+  "id": "way/395457394",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1154,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartrace.org/",
+  "note": null
+ },
+ {
+  "id": "way/81060002",
+  "tracks": [
+   {
+    "name": "Piste couverte",
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://green-kart.com/",
+  "note": "Indoor track on two levels."
+ },
+ {
+  "id": "node/12388424111",
+  "tracks": [
+   {
+    "name": "Outdoor",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://baseuskarting.com/",
+  "note": "A separate two-level indoor track has no stated length."
+ },
+ {
+  "id": "node/13651711458",
+  "tracks": [
+   {
+    "name": "Obergeschoss",
+    "length_m": 280,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Untergeschoss",
+    "length_m": 150,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.mobi-kart.de/",
+  "note": "Site also states a total length of 480 m, which does not match the sum of the two tracks."
+ },
+ {
+  "id": "node/388393542",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (expired certificate)."
+ },
+ {
+  "id": "way/211012168",
+  "tracks": [
+   {
+    "name": "In- und Outdoorbahn",
+    "length_m": 650,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartodrom-asbach.de/anlage-karts-und-mehr/",
+  "note": "Single combined indoor/outdoor track."
+ },
+ {
+  "id": "way/313108048",
+  "tracks": [],
+  "source": null,
+  "note": "Website says the venue is temporarily closed."
+ },
+ {
+  "id": "node/13456963144",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/7567389572",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/1649028239",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1443336719",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/868429925",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 900,
+    "width_m": 12,
+    "use": null
+   }
+  ],
+  "source": "https://www.dwa-racing.de/",
+  "note": "Width stated as up to 12 m."
+ },
+ {
+  "id": "way/286457460",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/1844036287",
+  "tracks": [],
+  "source": "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast",
+  "note": "Four tracks on several levels with a total length of up to 1.6 km; no individual lengths stated."
+ },
+ {
+  "id": "node/1111632078",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 752,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.berlin-kart.de/karts-rennstrecke",
+  "note": "Width 6.3-7 m; homepage elsewhere says about 500 m."
+ },
+ {
+  "id": "way/856436751",
+  "tracks": [
+   {
+    "name": "Indoor-Strecke",
+    "length_m": 600,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Outdoor-Strecke",
+    "length_m": 1000,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "XXL-Strecke (Indoor + Outdoor)",
+    "length_m": 2000,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.rs-kartcenter.de",
+  "note": "XXL layout combines indoor and outdoor tracks for special events."
+ },
+ {
+  "id": "node/13894638060",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/213124246",
+  "tracks": [
+   {
+    "name": "Breitwangbahn",
+    "length_m": 1020,
+    "width_m": 12,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.msc-ipf.de/die-breitwangbahn/",
+  "note": "Width 7-12 m; no rental karts."
+ },
+ {
+  "id": "way/27057471",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 360,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartbahn-bous.de/de/indoor-kart-stahlwerk-bous/",
+  "note": null
+ },
+ {
+  "id": "way/119129470",
+  "tracks": [
+   {
+    "name": "Indoor-Strecke",
+    "length_m": 450,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Outdoor-Strecke",
+    "length_m": 350,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartcity.de/",
+  "note": null
+ },
+ {
+  "id": "way/1212578881",
+  "tracks": [],
+  "source": null,
+  "note": "Two-level indoor track; no length stated."
+ },
+ {
+  "id": "node/12513908020",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 385,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartodrom-elles.de/anlage-karts-und-mehr/",
+  "note": null
+ },
+ {
+  "id": "way/124785648",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 888,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kv-oppenrod.de/",
+  "note": "History section describes the 1985 layout as 1029 m; current track section says 888 m."
+ },
+ {
+  "id": "way/510877435",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "way/138713437",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.nordseering.de/kartbahn.php",
+  "note": "Homepage also mentions a facility of max. 750 m."
+ },
+ {
+  "id": "node/6550773226",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned no readable content."
+ },
+ {
+  "id": "way/98118626",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": 5,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.powerhall.de/",
+  "note": null
+ },
+ {
+  "id": "way/43869473",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/241613190",
+  "tracks": [],
+  "source": null,
+  "note": "Page has a 'Streckenlänge' heading but no figure in text."
+ },
+ {
+  "id": "way/303166461",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/349532750",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1060,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartbahnliedolsheim.de/",
+  "note": null
+ },
+ {
+  "id": "way/804847045",
+  "tracks": [
+   {
+    "name": "Indoor-Strecke",
+    "length_m": 1300,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Outdoor-Strecke",
+    "length_m": 1200,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://kartarena-dinslaken.de",
+  "note": "Site states a combined 2500 m of track."
+ },
+ {
+  "id": "way/58739117",
+  "tracks": [
+   {
+    "name": "Kartbahn Löschen",
+    "length_m": 1000,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.gokart-cottbus.de/kartbahn/",
+  "note": null
+ },
+ {
+  "id": "node/4340422756",
+  "tracks": [
+   {
+    "name": "Kartbahn Wolfsgurgel",
+    "length_m": 650,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.amc-ehingen.com/rennstrecke",
+  "note": null
+ },
+ {
+  "id": "way/181920581",
+  "tracks": [
+   {
+    "name": "Indoor & Outdoor Kartbahn",
+    "length_m": 620,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kart2000-wasserburg.de",
+  "note": null
+ },
+ {
+  "id": "way/78364408",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 810,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartbahn-lueneburg.de/kartbahn/strecke/",
+  "note": null
+ },
+ {
+  "id": "way/89820377",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (certificate error)."
+ },
+ {
+  "id": "node/8183988855",
+  "tracks": [
+   {
+    "name": "Indoor mit Außenstrecke",
+    "length_m": 800,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kart-center-erfurt.de/#bahn",
+  "note": "Stated as approx. 800 m including the outdoor section."
+ },
+ {
+  "id": "way/27615820",
+  "tracks": [
+   {
+    "name": "Longest combined configuration",
+    "length_m": 1610,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.daytona-kartbahn.de",
+  "note": "Five configurations combining two indoor tracks and an outdoor track, 630–1610 m per lap."
+ }
+]

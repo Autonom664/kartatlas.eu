@@ -1,0 +1,1208 @@
+[
+ {
+  "id": "node/7567389572",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartbahn-mgh.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-mgh.de/",
+    "role": "venue",
+    "name": "Burgpark Ring Kart GmbH"
+   }
+  ],
+  "phone": "+49 7931 562646",
+  "email": "info@kartbahn-mgh.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-mgh.de/",
+   "https://freizeitinsider.de/angebot/burgpark-ring/"
+  ],
+  "note": "400 m indoor track per directory listing; OSM tags it outdoor."
+ },
+ {
+  "id": "way/163148631",
+  "name": "Planet Kart",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/planet-kart/"
+  ],
+  "note": "Planet Kart, Floßwörthstraße 48, Mannheim-Neckarau, closed permanently July 2020; match to OSM outline assumed from location."
+ },
+ {
+  "id": "way/204316334",
+  "name": "Kartbahn MSC Nussloch",
+  "type": "outdoor",
+  "website": "https://leihkart.msc-nussloch.de/",
+  "websites": [
+   {
+    "url": "https://leihkart.msc-nussloch.de/",
+    "role": "rental",
+    "name": "MSC Nussloch Leihkart"
+   }
+  ],
+  "phone": "+49 176 40550575",
+  "email": "leihkartfahren@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://leihkart.msc-nussloch.de/",
+   "https://freizeitinsider.de/angebot/outdoor-kartbahn-nussloch/"
+  ],
+  "note": "Club track of MSC Nussloch e.V. im ADAC; rental ticket sessions Friday evenings plus monthly and team races in rental karts."
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "type": "outdoor",
+  "website": "http://www.msc-walldorf-astoria.de",
+  "websites": [
+   {
+    "url": "http://www.msc-walldorf-astoria.de",
+    "role": "club",
+    "name": "MSC Walldorf-Astoria e.V."
+   }
+  ],
+  "phone": "+49 6227 30324",
+  "email": "mail2msc@web.de",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "http://www.msc-walldorf-astoria.de",
+   "https://freizeitinsider.de/angebot/waldparkring-walldorf/"
+  ],
+  "note": "Club track of MSC Walldorf-Astoria with club training for karts, supermoto and pitbikes; no rental mentioned."
+ },
+ {
+  "id": "way/61560044",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/de/st-leon-rot",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/de/st-leon-rot",
+    "role": "rental",
+    "name": "BattleKart St-Leon-Rot"
+   }
+  ],
+  "phone": "+49 6227 6988777",
+  "email": "info@st-leon-rot.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/de/st-leon-rot",
+   "https://www.heidelberg24.de/region/eroeffnung-battlekart-baden-wuerttemberg-super-mario-kart-freizeitzentrum-opelstrasse-st-leon-rot-93244424.html"
+  ],
+  "note": "Augmented-reality electric kart game hall, min. height 1.45 m."
+ },
+ {
+  "id": "node/1649028239",
+  "name": "KART'N Curves Bad Rappenau",
+  "type": null,
+  "website": "https://kartbahn.com/",
+  "websites": [
+   {
+    "url": "https://kartbahn.com/",
+    "role": "rental",
+    "name": "Kartbahn Bad Rappenau (INNOVENT Betriebs- und Event GmbH)"
+   }
+  ],
+  "phone": "+49 7264 2069888",
+  "email": "info@kartbahn.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kartbahn.com/"
+  ],
+  "note": "Name taken from venue website (Raiffeisenstraße 16)."
+ },
+ {
+  "id": "way/349532750",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahnliedolsheim.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahnliedolsheim.de/",
+    "role": "rental",
+    "name": "Kartbahn Liedolsheim (AK-Racing e.K.)"
+   }
+  ],
+  "phone": "+49 7247 9496741",
+  "email": "info@kartbahn-liedolsheim.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Tony Kart Viper",
+    "engine": "Honda GX270",
+    "hp": "9.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahnliedolsheim.de/",
+   "https://www.kartbahnliedolsheim.de/kontakt"
+  ],
+  "note": "18 rental karts; also offers race-kart sessions and a kids kart licence."
+ },
+ {
+  "id": "way/331597919",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Rüppurr/Ettlingen."
+ },
+ {
+  "id": "node/2687925947",
+  "name": "Kart & Eventcenter Stupferich",
+  "type": "indoor",
+  "website": "https://www.kart-eventcenter.de/",
+  "websites": [
+   {
+    "url": "https://www.kart-eventcenter.de/",
+    "role": "rental",
+    "name": "Kart und Eventcenter Stupferich GmbH"
+   }
+  ],
+  "phone": "+49 721 15174449",
+  "email": "info@kart-eventcenter.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.kart-eventcenter.de/",
+   "https://www.deutscherpresseindex.de/?p=629248"
+  ],
+  "note": "460 m indoor e-kart hall opened July 2021; kids from 8 years / 1.35 m."
+ },
+ {
+  "id": "way/313108048",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.indy-cart.de/",
+  "websites": [
+   {
+    "url": "https://www.indy-cart.de/",
+    "role": "rental",
+    "name": "Indy Cart GmbH"
+   }
+  ],
+  "phone": "+49 7191 953044",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.indy-cart.de/",
+   "https://freizeitinsider.de/angebot/indy-cart/"
+  ],
+  "note": "Website states the track is temporarily closed."
+ },
+ {
+  "id": "way/337772616",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found on the MSC practice ground in Waiblingen."
+ },
+ {
+  "id": "way/213124246",
+  "name": "Breitwangbahn (MSC Ipf Bopfingen)",
+  "type": "outdoor",
+  "website": "https://www.msc-ipf.de/",
+  "websites": [
+   {
+    "url": "https://www.msc-ipf.de/",
+    "role": "club",
+    "name": "MSC Ipf Bopfingen"
+   }
+  ],
+  "phone": "+49 7362 7888",
+  "email": "vorstand@msc-ipf.de",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.msc-ipf.de/",
+   "https://en.wikipedia.org/wiki/Bopfingen_Speedway"
+  ],
+  "note": "Club track on former speedway site; own karts and supermotos in separate groups; site states no kart rental."
+ },
+ {
+  "id": "node/884681082",
+  "name": "Drift- & Spielepark",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/drift-und-spielepark/"
+  ],
+  "note": "Indoor electric drift-kart and play park, permanently closed since 20 July 2025."
+ },
+ {
+  "id": "node/5207433462",
+  "name": null,
+  "type": "indoor",
+  "website": "https://kart-stuttgart.de/",
+  "websites": [
+   {
+    "url": "https://kart-stuttgart.de/",
+    "role": "rental",
+    "name": "Kart-o-Mania Stuttgart (Kart Arena GmbH)"
+   }
+  ],
+  "phone": "+49 711 484840",
+  "email": "info@kart-stuttgart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc",
+    "hp": "7",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 270cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 160cc",
+    "hp": "5.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://kart-stuttgart.de/karts/",
+   "http://www.kart-arena-stuttgart.de/"
+  ],
+  "note": "Runs regular rental-kart races (9 PS races, Kartmasters)."
+ },
+ {
+  "id": "way/33529699",
+  "name": null,
+  "type": "indoor",
+  "website": "https://f1-motodrom.de/",
+  "websites": [
+   {
+    "url": "https://f1-motodrom.de/",
+    "role": "rental",
+    "name": "F1 Motodrom"
+   }
+  ],
+  "phone": "+49 7153 923877",
+  "email": "mail@f1-motodrom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kindaling.de/kartbahnen/f1-motodrom/wernau",
+   "https://freizeitinsider.de/angebot/f1-motodrom/"
+  ],
+  "note": "Junior karts, Power-Karts and two-seaters per directory price list; own site blocked fetch."
+ },
+ {
+  "id": "way/257074018",
+  "name": null,
+  "type": "indoor",
+  "website": "https://sensadrom.com",
+  "websites": [
+   {
+    "url": "https://sensadrom.com",
+    "role": "rental",
+    "name": "Sensadrom Indoor E-Kartbahn"
+   }
+  ],
+  "phone": "+49 7031 20485380",
+  "email": "welcome@sensadrom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://sensadrom.com"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/29176372",
+  "name": "Kartion - Karting & More",
+  "type": "indoor",
+  "website": "http://www.kartion.de",
+  "websites": [
+   {
+    "url": "http://www.kartion.de",
+    "role": "rental",
+    "name": "Kartion - Karting & More"
+   }
+  ],
+  "phone": "+49 7034 270363",
+  "email": "info@kartion.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.kartion.de"
+  ],
+  "note": "Name taken from venue website (OSM spelling 'Cartion')."
+ },
+ {
+  "id": "node/2587252307",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kart-und-fun.de/",
+  "websites": [
+   {
+    "url": "https://www.kart-und-fun.de/",
+    "role": "rental",
+    "name": "Kart & Fun Neckartenzlingen"
+   }
+  ],
+  "phone": "+49 7127 22777",
+  "email": "info@kart-und-fun.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "13",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "Honda",
+    "hp": "6",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.kart-und-fun-neckartenzlingen.de/kartbahn/karts",
+   "http://www.kart-und-fun-neckartenzlingen.de/"
+  ],
+  "note": "Indoor track per own website (OSM says outdoor); 13 PS race fleet needs in-house licence."
+ },
+ {
+  "id": "way/39772680",
+  "name": "Kartbahn RMSV Urloffen",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 7805 2844",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://aerialphotosearch.com/info/aerial-photos/racetrack-racecourse-gocart-bahn-rmsv-urloffen-appenweier-state-baden-wuerttemberg-313299.html",
+   "https://www.11880.com/suche/kartbahn/woerth"
+  ],
+  "note": "Club track of RMSV Urloffen e.V.; one directory lists it as closed, unverified."
+ },
+ {
+  "id": "node/12766527149",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.cala-race.com/",
+  "websites": [
+   {
+    "url": "https://www.cala-race.com/",
+    "role": "rental",
+    "name": "CalaRace"
+   }
+  ],
+  "phone": "+49 7851 6430480",
+  "email": "info@cala-race.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.cala-race.com/"
+  ],
+  "note": "Approx. 450 m two-level indoor e-kart track."
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "type": "indoor",
+  "website": "http://www.hallenkartbahn-sulz.de/",
+  "websites": [
+   {
+    "url": "http://www.hallenkartbahn-sulz.de/",
+    "role": "rental",
+    "name": "Hallenkartbahn Sulz"
+   }
+  ],
+  "phone": "+49 7454 40381",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi GT5R",
+    "engine": "200cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.hallenkartbahn-sulz.de/ueber_uns_karts.html",
+   "http://www.hallenkartbahn-sulz.de/privatkarts.html"
+  ],
+  "note": "Indoor hall (OSM says outdoor); private 4-stroke karts allowed with hour/day tickets."
+ },
+ {
+  "id": "node/4340422756",
+  "name": "AMC Ehingen Kartbahn Wolfsgurgel",
+  "type": "outdoor",
+  "website": "https://www.amc-ehingen.com/",
+  "websites": [
+   {
+    "url": "https://www.amc-ehingen.com/",
+    "role": "club",
+    "name": "AMC Ehingen"
+   },
+   {
+    "url": "https://www.amc-ehingen.com/leihkart",
+    "role": "rental",
+    "name": "AMC Ehingen Leihkart"
+   }
+  ],
+  "phone": "+49 7393 91433",
+  "email": "amcehingen@outlook.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "4-stroke petrol",
+    "hp": "7",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "20",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.amc-ehingen.com/leihkart",
+   "https://www.amc-ehingen.com/",
+   "https://freizeitinsider.de/angebot/amc-ehingen-kartbahn-wolfsgurgel/"
+  ],
+  "note": "Club track (approx. 650 m); rental karts on dry days, group bookings with pre-registration; race-kart school with 20 PS karts; old domain amc-ehingen.de is dead."
+ },
+ {
+  "id": "node/4144064752",
+  "name": "indyKart Rottweil",
+  "type": "indoor",
+  "website": "http://www.indykart.de/",
+  "websites": [
+   {
+    "url": "http://www.indykart.de/",
+    "role": "rental",
+    "name": "indyKart GmbH"
+   }
+  ],
+  "phone": "+49 741 7002",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Hubi HK7",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Hubi X19",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.indykart.de/"
+  ],
+  "note": "Two-hall indoor track (OSM says outdoor); Automobil Club Tuttlingen has the track Tuesday evenings; handicap hand-control kart available."
+ },
+ {
+  "id": "way/446905417",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahn-teningen.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-teningen.de/",
+    "role": "venue",
+    "name": "Kartbetrieb Teningen"
+   }
+  ],
+  "phone": "+49 7641 53340",
+  "email": "info@kartbahn-teningen.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "note": "780 m track; rental karts from age 12, own CIK-compliant race karts allowed daily until 19:00; no race-kart rental; sister of Kartbahn Rheinfelden."
+ },
+ {
+  "id": "way/93099535",
+  "name": null,
+  "type": "indoor",
+  "website": "http://kartbahn-herbertingen.de/",
+  "websites": [
+   {
+    "url": "http://kartbahn-herbertingen.de/",
+    "role": "rental",
+    "name": "Kartbahn GRIP Herbertingen"
+   }
+  ],
+  "phone": "+49 160 6998359",
+  "email": "info@kartbahn-herbertingen.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://kartbahn-herbertingen.de/",
+   "http://kartbahn-herbertingen.de/index.php/preise/"
+  ],
+  "note": "Open Wednesday to Sunday; single and two-seater karts, kids from 8 years."
+ },
+ {
+  "id": "node/60207296",
+  "name": "Indoor Karting Umkirch",
+  "type": "indoor",
+  "website": "https://www.sportpark-umkirch.de",
+  "websites": [
+   {
+    "url": "https://www.sportpark-umkirch.de",
+    "role": "venue",
+    "name": "Sportpark Umkirch"
+   }
+  ],
+  "phone": "+49 7665 6068",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/impulsiv-umkrich/"
+  ],
+  "note": "Directory lists a 360 m indoor kart track (OSM says outdoor); own website could not be read."
+ },
+ {
+  "id": "way/121599004",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.kartbahn-alemannenring.com",
+  "websites": [
+   {
+    "url": "http://www.kartbahn-alemannenring.com",
+    "role": "rental",
+    "name": "Kartbahn Alemannenring"
+   }
+  ],
+  "phone": "+49 7731 9454735",
+  "email": "info@kartbahn-alemannenring.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "http://www.kartbahn-alemannenring.com/kartbahn/",
+   "http://www.kartbahn-alemannenring.com"
+  ],
+  "note": "Approx. 280 m indoor track; under-13s need a junior kart licence; Sunday JuniorTIME."
+ },
+ {
+  "id": "way/235586885",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/meckenbeuren/"
+  ],
+  "note": "No kart venue found at Liebenau/Meckenbeuren; nearest listed track (Kart FN, Friedrichshafen) is closed."
+ },
+ {
+  "id": "way/954618039",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/waldshut-tiengen/"
+  ],
+  "note": "No venue found at Krenkingen; the only nearby listing is the indoor Kartbahn Waldshut (Auweg 27, ~10 km away), likely a different site."
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "type": "indoor",
+  "website": "https://kartraceland.de/",
+  "websites": [
+   {
+    "url": "https://kartraceland.de/",
+    "role": "rental",
+    "name": "Kartraceland Weil am Rhein"
+   }
+  ],
+  "phone": "+49 7621 1636170",
+  "email": "info@kartraceland.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Hubi",
+    "engine": "200cc",
+    "hp": "8.5",
+    "class": "race"
+   },
+   {
+    "chassis": "Hubi",
+    "engine": "200cc",
+    "hp": "8.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://kartraceland.de/",
+   "https://kartraceland.de/kartbahn/"
+  ],
+  "note": "700 m indoor track (OSM says outdoor); hosts Schwarzwald Cup and youth kart training."
+ },
+ {
+  "id": "way/128574048",
+  "name": "Kartbahn Rheinfelden",
+  "type": "indoor",
+  "website": "https://www.kartbahn-rheinfelden.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-rheinfelden.de/",
+    "role": "rental",
+    "name": "Kartbahn Rheinfelden"
+   }
+  ],
+  "phone": "+49 7623 8661",
+  "email": "info@kartbahn-rheinfelden.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 5",
+    "engine": "Honda 4-stroke",
+    "hp": "7",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-rheinfelden.de/bahn/",
+   "https://www.kartbahn-rheinfelden.de/"
+  ],
+  "note": "25 RiMO EVO 5, 8 Sodi and 5 RiMO kids karts, two two-seaters; sister of Kartbahn Teningen."
+ },
+ {
+  "id": "way/358492956",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/wildflecken/"
+  ],
+  "note": "No kart venue found at Wildflecken; directory lists none within 20 km."
+ },
+ {
+  "id": "node/1844963783",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.konrads-kart.de",
+  "websites": [
+   {
+    "url": "http://www.konrads-kart.de",
+    "role": "rental",
+    "name": "Konrads Kart"
+   }
+  ],
+  "phone": "+49 9281 7790440",
+  "email": "info@konrads-kart.de",
+  "status": "closed",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/konrads-kart/",
+   "http://www.konrads-kart.de"
+  ],
+  "note": "Indoor track (OSM says outdoor); directory (updated 29.09.2026) says permanently closed since 2024 although the old website is still online."
+ },
+ {
+  "id": "node/13374883723",
+  "name": "Kart Arena Marktzeuln (Actionarena)",
+  "type": "indoor",
+  "website": "https://www.actionarena.de",
+  "websites": [
+   {
+    "url": "https://www.actionarena.de",
+    "role": "rental",
+    "name": "Actionarena Marktzeuln"
+   }
+  ],
+  "phone": "+49 9574 654403",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.actionarena.de/kart-arena.asp",
+   "https://www.actionarena.de"
+  ],
+  "note": "460 m indoor e-kart track (OSM says outdoor); kids karts 135-145 cm, standard karts from 146 cm; also kids kart licence courses."
+ },
+ {
+  "id": "way/298258534",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.inaction-oberwerrn.de/",
+  "websites": [
+   {
+    "url": "https://www.inaction-oberwerrn.de/",
+    "role": "rental",
+    "name": "inAction Kart Center Oberwerrn"
+   }
+  ],
+  "phone": "+49 9726 9068911",
+  "email": "verwaltung@kart-center-oberwerrn.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.inaction-oberwerrn.de/seite/341815/karts.html",
+   "https://www.inaction-oberwerrn.de/"
+  ],
+  "note": "10 RiMO karts (6.5 or 9 PS, 9 PS after qualification), 3 Caroli junior karts, one DUO kart."
+ },
+ {
+  "id": "node/2432701031",
+  "name": "Dévalkartbahn Oberwarmensteinach",
+  "type": "outdoor",
+  "website": "http://www.skilifte-devalkartbahn.de",
+  "websites": [
+   {
+    "url": "http://www.skilifte-devalkartbahn.de",
+    "role": "venue",
+    "name": "Skilifte & Dévalkartbahn Familie Nickl"
+   }
+  ],
+  "phone": "+49 9277 310",
+  "email": "skilifte-devalkartbahn@gmx.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "http://www.skilifte-devalkartbahn.de"
+  ],
+  "note": "Gravity downhill kart run on a ski slope (no engine), summer season daily 10-18, closed in rain; not a motor kart track."
+ },
+ {
+  "id": "way/91915769",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/gerolzhofen/"
+  ],
+  "note": "No kart venue found at Knetzgau."
+ },
+ {
+  "id": "way/206011236",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/marktredwitz/"
+  ],
+  "note": "No kart venue found at Dörflas/Marktredwitz; 134 m outline may be a small private or kids track."
+ },
+ {
+  "id": "way/89990949",
+  "name": "Steigerwald-Motodrom Gerolzhofen",
+  "type": "outdoor",
+  "website": "https://kartbahn-gerolzhofen.de/",
+  "websites": [
+   {
+    "url": "https://kartbahn-gerolzhofen.de/",
+    "role": "venue",
+    "name": "Kartbahn Gerolzhofen / Steigerwald-Motodrom"
+   },
+   {
+    "url": "http://www.msvgeo.de/",
+    "role": "club",
+    "name": "MSVg 1898 Gerolzhofen e.V. im ADAC"
+   }
+  ],
+  "phone": "+49 9382 6788",
+  "email": "info@kartbahn-gerolzhofen.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.msvgeo.de/sparten/leihkart/",
+   "http://www.msvgeo.de/sparten/rennkart/",
+   "https://kartbahn-gerolzhofen.de/"
+  ],
+  "note": "Club track of MSVg Gerolzhofen; up to 14 rental karts from age 14, own race karts Saturdays (day ticket), rental-kart championship and team races, Puffo-Kart kids group."
+ },
+ {
+  "id": "way/89670854",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.ekart-center.de",
+  "websites": [
+   {
+    "url": "https://www.ekart-center.de",
+    "role": "rental",
+    "name": "E-Kart-Center Mainfranken Motodrom"
+   }
+  ],
+  "phone": "+49 931 46766622",
+  "email": "info@mainfranken-motodrom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "EKC",
+    "engine": "electric",
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "electric",
+    "hp": "10",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.ekart-center.de/location-karts/ekarts",
+   "https://www.ekart-center.de"
+  ],
+  "note": "330 m two-level indoor e-kart track; kids racer currently unavailable."
+ }
+]

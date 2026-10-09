@@ -1,0 +1,1397 @@
+[
+ {
+  "id": "node/2791912346",
+  "name": "Kart Center Landau",
+  "town": "Landau in der Pfalz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcenter-landau.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/39775529",
+  "name": "Erzgebirgsring Lichtenberg",
+  "town": "Lichtenberg/Erzgebirge",
+  "country": "Germany",
+  "websites": [
+   "http://www.erzgebirgsring.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/883027662",
+  "name": "LimPark",
+  "town": "Limburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.limpark.de/",
+   "https://www.limpark.de/kart/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1041609383",
+  "name": "Kartbahn Lohsa",
+  "town": "Lohsa - Łaz",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahnlohsa.wixsite.com/start"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/6205111509",
+  "name": "Karthalle Mainz",
+  "town": "Mainz",
+  "country": "Germany",
+  "websites": [
+   "https://karthalle-mainz.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/13374883723",
+  "name": "Kart Arena Marktzeuln (Actionarena)",
+  "town": "Marktzeuln",
+  "country": "Germany",
+  "websites": [
+   "https://www.actionarena.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/14002285223",
+  "name": "BattleKart Marne",
+  "town": "Marne",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/marne"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12806062014",
+  "name": "BattleKart Koblenz-Mayen",
+  "town": "Mayen",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart electric kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/822046091",
+  "name": "Kartbahn Ampfing",
+  "town": "Mettenheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartshop-ampfing.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Rotax",
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/12497729617",
+  "name": "TeamSport E-Karting",
+  "town": "Mönchengladbach",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/moenchengladbach"
+  ],
+  "known_fleet": [
+   [
+    "Gen7 E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/814876030",
+  "name": "Arena E",
+  "town": "Mülsen",
+  "country": "Germany",
+  "websites": [
+   "https://arena-e.de"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/997947153",
+  "name": "Sport Kart Münster",
+  "town": "Münster",
+  "country": "Germany",
+  "websites": [
+   "https://www.sportkart-muenster.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/2587252307",
+  "name": "Kart & Fun Kartbahn Neckartenzlingen",
+  "town": "Neckartenzlingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-und-fun.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "Honda",
+    "9",
+    "adult"
+   ],
+   [
+    "Sodi",
+    null,
+    "13",
+    "race"
+   ],
+   [
+    "Sodi",
+    "Honda",
+    "6",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "13",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/108799424",
+  "name": "Ecodrom Kartbahn Neu-Ulm",
+  "town": "Neu-Ulm",
+  "country": "Germany",
+  "websites": [
+   "https://ecodrom.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/97901794",
+  "name": "Kartbahn Neubrandenburg",
+  "town": "Neubrandenburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-mv.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Alpha 2 LPG",
+    "LPG",
+    "11",
+    "adult"
+   ],
+   [
+    "RiMO Mini LPG",
+    "LPG",
+    "6.5",
+    "kids"
+   ],
+   [
+    "RiMO Twin",
+    "LPG",
+    "2 x 6.5",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/1410399039",
+  "name": "Battle Kart Düsseldorf-Neuss",
+  "town": "Neuss",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart electric kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/458296932",
+  "name": "GO102 – Die Kartbahn",
+  "town": "Niedergörsdorf",
+  "country": "Germany",
+  "websites": [
+   "https://go102.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart Rasselbande",
+    null,
+    "6.5",
+    "junior"
+   ],
+   [
+    "Sodikart Energy",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart Pro",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart MAX",
+    null,
+    "30",
+    "race"
+   ],
+   [
+    "Sodikart Doppel",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/298258534",
+  "name": "InAction Oberwerrn",
+  "town": "Niederwerrn",
+  "country": "Germany",
+  "websites": [
+   "https://www.inaction-oberwerrn.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "RiMO",
+    null,
+    "6.5",
+    "adult"
+   ],
+   [
+    "Caroli",
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/204316334",
+  "name": "Kartbahn MSC Nussloch",
+  "town": "Nußloch",
+  "country": "Germany",
+  "websites": [
+   "https://leihkart.msc-nussloch.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/3761972821",
+  "name": "ring°kartbahn",
+  "town": "Nürburg",
+  "country": "Germany",
+  "websites": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/89254346",
+  "name": "Kartbahn Motorsport Arena Oschersleben",
+  "town": "Oschersleben",
+  "country": "Germany",
+  "websites": [
+   "https://www.motorsportarena.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/480988747",
+  "name": "TeamSport E-Karting",
+  "town": "Osnabrück",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/osnabrueck"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/1444721703",
+  "name": "MSC Osterhofen",
+  "town": "Osterhofen",
+  "country": "Germany",
+  "websites": [
+   "https://msc-osterhofen.jimdoweb.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/582975406",
+  "name": "E-Fun-Park-Pottenstein",
+  "town": "Pottenstein",
+  "country": "Germany",
+  "websites": [
+   "https://www.e-fun-park-pottenstein.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/223180179",
+  "name": "Kart-O-Drom",
+  "town": "Rastede",
+  "country": "Germany",
+  "websites": [
+   "https://kart-o-drom.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/128574048",
+  "name": "Kartbahn Rheinfelden",
+  "town": "Rheinfelden (Baden)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-rheinfelden.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO 5",
+    "Honda 4-stroke",
+    "7",
+    "adult"
+   ],
+   [
+    "Sodi",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "RiMO",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/904546979",
+  "name": "Kart am Alfsee",
+  "town": "Rieste",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-am-alfsee.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/33894329",
+  "name": "Kartcenter Rostock",
+  "town": "Rostock",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartcenter-rostock.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO 2",
+    null,
+    "6.5",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "RiMO Alpha 2",
+    null,
+    "11",
+    "race"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/34410664",
+  "name": "Hanse Gokart Racing",
+  "town": "Rostock",
+  "country": "Germany",
+  "websites": [
+   "http://www.hansegokart.de"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO6",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "RiMO EVO4",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/4144064752",
+  "name": "indyKart Rottweil",
+  "town": "Rottweil",
+  "country": "Germany",
+  "websites": [
+   "http://www.indykart.de/"
+  ],
+  "known_fleet": [
+   [
+    "Hubi HK7",
+    "270cc",
+    "9",
+    "adult"
+   ],
+   [
+    "Hubi X19",
+    "270cc",
+    "9",
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/38305241",
+  "name": "FAHR-WERK outdoor kartbahn und motocross-strecke",
+  "town": "Schaafheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.fahrwerk.de/kartfahren-outdoor/",
+   "https://www.fahrwerk.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "Honda 270cc 4-stroke",
+    "9",
+    "adult"
+   ],
+   [
+    "Sodi 2-Drive",
+    "Honda 390cc 4-stroke",
+    "13.5",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/74481523",
+  "name": "Sax Freizeit Center (Saxracing)",
+  "town": "Schkeuditz",
+  "country": "Germany",
+  "websites": [
+   "https://saxfreizeitcenter.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "combustion",
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/87439125",
+  "name": "Kartbahn Schleswig",
+  "town": "Schleswig",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-schleswig.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/138621802",
+  "name": "Outdoorkartbahn Niederkrüchten (Kartbahn Schwalmtal)",
+  "town": "Schwalmtal",
+  "country": "Germany",
+  "websites": [
+   "http://www.outdoorkartbahn.com"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "town": "Schwerin",
+  "country": "Germany",
+  "websites": [
+   "https://www.motodrom-schwerin.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/727712552",
+  "name": "Seealm-Ring",
+  "town": "Schönau am Königssee",
+  "country": "Germany",
+  "websites": [
+   "http://www.seealm-ring.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/110163356",
+  "name": "Spreewaldring Kartcenter",
+  "town": "Schönwald",
+  "country": "Germany",
+  "websites": [
+   "https://kart-center.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/257074018",
+  "name": "Sensadrom Indoor E-Kartbahn",
+  "town": "Sindelfingen",
+  "country": "Germany",
+  "websites": [
+   "https://sensadrom.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/121599004",
+  "name": "KARTBAHN Alemannenring",
+  "town": "Singen (Hohentwiel)",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-alemannenring.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Honda GX270",
+    "9",
+    "adult"
+   ],
+   [
+    "RiMO",
+    "Honda GX160",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "town": "Sinn",
+  "country": "Germany",
+  "websites": [
+   "http://kartland-sinn.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/61560044",
+  "name": "BattleKart St-Leon-Rot",
+  "town": "St. Leon-Rot",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/st-leon-rot"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "town": "Stralsund",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-mv.de/Stralsund/home.html"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "LPG",
+    "8",
+    "adult"
+   ],
+   [
+    null,
+    "LPG",
+    "5.5",
+    "kids"
+   ],
+   [
+    null,
+    "electric (2 x 2.8 kW)",
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "town": "Strasburg (Uckermark)",
+  "country": "Germany",
+  "websites": [
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "town": "Straubing",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartclub-straubing.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/5207433462",
+  "name": "Kart-o-Mania",
+  "town": "Stuttgart",
+  "country": "Germany",
+  "websites": [
+   "https://kart-stuttgart.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 200cc",
+    "7",
+    "race"
+   ],
+   [
+    null,
+    "Honda 270cc",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    "Honda 160cc",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "town": "Sulz am Neckar",
+  "country": "Germany",
+  "websites": [
+   "http://www.hallenkartbahn-sulz.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT5R",
+    "200cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    "5.5",
+    "junior"
+   ],
+   [
+    null,
+    "390cc",
+    "13",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/377273485",
+  "name": "Kart-Bahn Templiner Ring",
+  "town": "Templin",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-templin.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/446905417",
+  "name": "Kart-Bahn Teningen",
+  "town": "Teningen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/60207296",
+  "name": "Indoor Karting Umkirch",
+  "town": "Umkirch",
+  "country": "Germany",
+  "websites": [
+   "https://www.sportpark-umkirch.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "town": "Unna",
+  "country": "Germany",
+  "websites": [
+   "https://battlekart.com/unna"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/174962870",
+  "name": "Kartbahn Brookmerland",
+  "town": "Upgant-Schott",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-ostfriesland.de/",
+   "https://kartbahn-ostfriesland.de/de/Kartsportverein/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    "9.5",
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    "6.5",
+    "junior"
+   ],
+   [
+    "Sodikart",
+    null,
+    "3.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/328666276",
+  "name": "Karting-Paradies Vilsbiburg",
+  "town": "Vilsbiburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.karting-paradies.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9 PS",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "6.5 PS",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "6.5 PS",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "13 PS",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/27658112",
+  "name": "ProKart Raceland",
+  "town": "Wackersdorf",
+  "country": "Germany",
+  "websites": [
+   "https://www.prokart-raceland.com/home/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Rotax",
+    "23",
+    "race"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "town": "Walldorf",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-walldorf-astoria.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/72708524",
+  "name": "Kartbahn Schönerlinde",
+  "town": "Wandlitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-schoenerlinde.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Alpha",
+    "390 ccm",
+    "13",
+    "adult"
+   ],
+   [
+    "RiMO Alpha",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "Arisco",
+    "Honda (2x)",
+    "9",
+    "twin"
+   ],
+   [
+    "Combi kart",
+    "390 ccm",
+    "13",
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/143901665",
+  "name": "GPN Grand-Prix-Niederrhein",
+  "town": "Weeze",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-weeze.de",
+   "https://www.grand-prix-niederrhein.com/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO 6",
+    "270 cc",
+    "9",
+    "race"
+   ],
+   [
+    "RiMO EVO 5",
+    "200 cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    "RiMO Alpha Kart",
+    "200 cc",
+    "6.5",
+    "other"
+   ],
+   [
+    "RiMO Twinstructor",
+    "2x 200 cc",
+    "2x 6.5",
+    "twin"
+   ],
+   [
+    "RiMO Mini",
+    "160 cc",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "town": "Weil am Rhein",
+  "country": "Germany",
+  "websites": [
+   "https://kartraceland.de/"
+  ],
+  "known_fleet": [
+   [
+    "Hubi",
+    "200cc",
+    "8.5",
+    "race"
+   ],
+   [
+    "Hubi",
+    "200cc",
+    "8.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/33529699",
+  "name": "F1 motodrom",
+  "town": "Wernau (Neckar)",
+  "country": "Germany",
+  "websites": [
+   "https://f1-motodrom.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/587974059",
+  "name": "Kartbahn Werther",
+  "town": "Werther (Westf.)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-werther.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/87497403",
+  "name": "SK Raceworld",
+  "town": "Wildeshausen",
+  "country": "Germany",
+  "websites": [
+   "https://sk-raceworld.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/336869541",
+  "name": "Kart- & Bowlingcenter Willingen",
+  "town": "Willingen (Upland)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-willingen.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "Honda (gas)",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "town": "Winterberg",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartfun-astenberg.de"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12547718882",
+  "name": "Kartbahn Wittenburg im Alpincenter",
+  "town": "Wittenburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/837980941",
+  "name": "FöhrRing Kartbahn",
+  "town": "Wyk auf Föhr",
+  "country": "Germany",
+  "websites": [
+   "https://www.foehrring.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric (2 x 2.8 kW)",
+    null,
+    "electric"
+   ],
+   [
+    "RiMO",
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/392128609",
+  "name": "Vogelsbergring",
+  "town": "Wächtersbach",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/89670854",
+  "name": "Mainfranken Motodrom",
+  "town": "Würzburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.ekart-center.de"
+  ],
+  "known_fleet": [
+   [
+    "EKC",
+    "electric",
+    "8",
+    "adult"
+   ],
+   [
+    "Sodi",
+    "electric",
+    "10",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/655238957",
+  "name": "Karthaus Zweibrücken",
+  "town": "Zweibrücken",
+  "country": "Germany",
+  "websites": [
+   "https://karthaus.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/798432703",
+  "name": "Adria Karting Raceway",
+  "town": "Adria",
+  "country": "Italy",
+  "websites": [
+   "https://www.adriaraceway.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "relation/2625023",
+  "name": "Ala Karting Circuit",
+  "town": "Ala",
+  "country": "Italy",
+  "websites": [
+   "https://www.alakarting.it/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/674711953",
+  "name": "The Way Kart Vicenza",
+  "town": "Altavilla Vicentina",
+  "country": "Italy",
+  "websites": [
+   "https://www.thewaykart.com/",
+   "https://www.vki.it/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ }
+]

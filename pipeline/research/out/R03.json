@@ -1,0 +1,735 @@
+[
+ {
+  "id": "way/456207370",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/456207370"
+  ],
+  "note": "Unidentified short track tagged access=private in OSM, next to a former tank-test track/landfill site in Witten-Rüdinghausen; likely a private track, no public venue found."
+ },
+ {
+  "id": "way/1272597539",
+  "name": "RiMO Germany test track",
+  "type": "outdoor",
+  "website": "https://en.rimo-germany.com/",
+  "websites": [
+   {
+    "url": "https://en.rimo-germany.com/",
+    "role": "other",
+    "name": "RiMO Germany (kart manufacturer)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://iaapa.org/partners/marketplace/rimo-germany-gmbh-cokg",
+   "https://www.openstreetmap.org/way/1272597539"
+  ],
+  "note": "Track sits at the RiMO Germany kart factory (Amerikastr. 4, Hemer), apparently the manufacturer's own test/home track ('Rimodrom'); public access not confirmed."
+ },
+ {
+  "id": "way/1185580195",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1185580195"
+  ],
+  "note": "Located inside the grounds of Freizeitbad De Bütt (municipal swimming pool) in Willich; probably a small children's kart/play track, no kart venue found."
+ },
+ {
+  "id": "way/1005516056",
+  "name": "Mini Karts (Kamphausener Höhe)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1005516056"
+  ],
+  "note": "OSM describes it only as a small concrete 'Mini Karts' pitch at Kirschhecke, Odenkirchen; likely a children's play facility, not a kart venue."
+ },
+ {
+  "id": "way/358507994",
+  "name": "Bubenheimer Spieleland",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+49 2421 486400",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.tourismus.kreis-dueren.de/en/a-bubenheimer-spieleland-2",
+   "https://familienausflug.info/ausflugsziel/indoor-abenteuer-im-bubenheimer-spieleland"
+  ],
+  "note": "Pedal go-kart track at the Bubenheimer Spieleland family play park (Burg Bubenheim); not a motor kart venue."
+ },
+ {
+  "id": "node/778241955",
+  "name": "Westerwaldring",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-waldbroel"
+  ],
+  "note": "Directories list Westerwaldring at K 44, 57612 Eichelhardt as a kart track, but no operator site, contacts or rental details were found."
+ },
+ {
+  "id": "way/82208301",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/82208301"
+  ],
+  "note": "Kart facility tagged near Reckershausen (Kirchberg, Hunsrück); no matching venue found online."
+ },
+ {
+  "id": "way/96950749",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/96950749"
+  ],
+  "note": "Kart pitch near the B10 at Gräfenhausen (Annweiler am Trifels); no matching venue found online."
+ },
+ {
+  "id": "way/1176594744",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://zoo-dresden.de/en/plan-your-visit/getting-here"
+  ],
+  "note": "Small kart track at Zoo Dresden (Tiergartenstr. 1); the zoo site mentions 'riding go-karts at the Kangaroo Stop', likely a children's ride, not a kart venue."
+ },
+ {
+  "id": "way/223183532",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/223183532"
+  ],
+  "note": "Unnamed asphalt kart track at Hainstrasse, Plauen-Bärenstein; no matching venue found online."
+ },
+ {
+  "id": "way/101400108",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Kartbahn-Fehmarn.d979109294588973056.Vacation-Attraction"
+  ],
+  "note": "OSM building named 'Kartbahn' at Burgstaaken harbour, Burg auf Fehmarn; only travel-portal mentions found, no operator, contacts or status."
+ },
+ {
+  "id": "way/1489525899",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1489525899"
+  ],
+  "note": "Small track at Seestrasse 1, Wangels, which is the Weissenhäuser Strand holiday resort address; no kart offer confirmed online."
+ },
+ {
+  "id": "way/344985853",
+  "name": "Go-Kart-Center-Ringleben",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/cn/Go-Kart-Center-Ringleben-Bad-FrankenhausenKyffhauser.d979109194976342016.Place-To-Visit",
+   "https://freizeitinsider.de/lotse/go-kartbahn/bitterfeld-wolfen/"
+  ],
+  "note": "Listed as an indoor kart track at Borxlebener Str. 1, Ringleben (Bad Frankenhausen); no official website or current details found."
+ },
+ {
+  "id": "way/389007612",
+  "name": "ABR Kart-Center Schlotheim",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 36021 84 54 0",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-schmalkalden"
+  ],
+  "note": "Also listed as ABR Kart-Center Schlotheim (Hessisch-Lichtenauer-Str. 1); the known website domain no longer resolves, so current status is unclear."
+ },
+ {
+  "id": "way/368351876",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/368351876"
+  ],
+  "note": "Unnamed one-way asphalt kart track near the Ratscher reservoir (Schleusingen); no matching venue found online."
+ },
+ {
+  "id": "way/128521415",
+  "name": "Kartbahn Schwarzbach",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 3687 860419",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-schmalkalden",
+   "https://www.openstreetmap.org/way/128521415"
+  ],
+  "note": "Outdoor rental track (alt. name Outdoor-Kartbahn-Auengrund, Am Merbelsroder Weg 11); its website kartbahn-schwarzbach.de currently shows only a blank server page."
+ },
+ {
+  "id": "way/1006250895",
+  "name": "Kartbahn Nendeln",
+  "type": "indoor",
+  "website": "https://www.kartbahn.li",
+  "websites": [
+   {
+    "url": "https://www.kartbahn.li",
+    "role": "rental",
+    "name": "Kartbahn Nendeln"
+   }
+  ],
+  "phone": "+423 370 17 34",
+  "email": "info@kartbahn.li",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "twin electric motors",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn.li",
+   "https://tourismus.li/en/lie/place/Nendeln%20Go-Kart%20Track/"
+  ],
+  "note": "Indoor electric kart track of about 150 m (Sägastrasse 38, Nendeln), up to six karts at once, children from 140 cm."
+ },
+ {
+  "id": "way/1317001788",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1317001788"
+  ],
+  "note": "Small kart way in the Malbun ski resort; no kart venue found online, probably a seasonal children's attraction."
+ },
+ {
+  "id": "way/222877605",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/222877605"
+  ],
+  "note": "Tagged abandoned in OSM (De Haar, near TT Circuit Assen); no current kart venue found."
+ },
+ {
+  "id": "node/7452547101",
+  "name": "ZERO55 Apeldoorn (INDOOR55)",
+  "type": "indoor",
+  "website": "https://www.zero55.nl/apeldoorn/",
+  "websites": [
+   {
+    "url": "https://www.zero55.nl/apeldoorn/",
+    "role": "rental",
+    "name": "ZERO55 Apeldoorn"
+   }
+  ],
+  "phone": "+31 55 200 25 10",
+  "email": "info@indoor55.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.zero55.nl/apeldoorn/plan-je-bezoek/",
+   "https://www.fijnuit.nl/3160/zero55-apeldoorn"
+  ],
+  "note": "Entertainment centre (Dubbelbeek 52) with a 340 m e-kart track, about 240 m indoor plus 100 m outdoor section closed in winter."
+ },
+ {
+  "id": "node/2848644350",
+  "name": "Kartbaan Duiven",
+  "type": "indoor",
+  "website": "https://www.kartbaanduiven.nl",
+  "websites": [
+   {
+    "url": "https://www.kartbaanduiven.nl",
+    "role": "rental",
+    "name": "Kartbaan Duiven"
+   }
+  ],
+  "phone": "+31 26 311 59 97",
+  "email": "info@kartbaanduiven.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartbaanduiven.nl",
+   "https://www.kidsproof.nl/arnhem/uitje/kartbaan-duiven-kinderkarten-indoor-activiteiten/"
+  ],
+  "note": "Two-level indoor petrol-kart track; junior karts from 1.35 m."
+ },
+ {
+  "id": "way/1561716712",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1561716712"
+  ],
+  "note": "Unnamed small track at Westerkanaaldijk, Malden (Heumen); no kart venue found online."
+ },
+ {
+  "id": "way/290232085",
+  "name": "Euro Indoorkarting & Bowling",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "200cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://go-kids.nl/limburg/erop-uit/euro-indoorkarting-en-bowling",
+   "https://www.dagjeweg.nl/tip/7778/Euro-Indoorkarting-Swalmen"
+  ],
+  "note": "550 m indoor track with fly-over at Bosstraat 99, Swalmen; kids karts from 7 years/1.30 m and duo karts."
+ },
+ {
+  "id": "way/296815510",
+  "name": "Kartbaan Uden",
+  "type": "indoor",
+  "website": "https://www.kartbaanuden.nl",
+  "websites": [
+   {
+    "url": "https://www.kartbaanuden.nl",
+    "role": "rental",
+    "name": "Kartbaan Uden"
+   }
+  ],
+  "phone": "+31 413 33 77 11",
+  "email": "info@kartbaanuden.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartbaanuden.nl",
+   "https://www.openingstijden.nl/Kartbaan-Uden-BV/Uden/Vluchtoord-46/"
+  ],
+  "note": "Kart centre at Vluchtoord 46, Uden, with kids karts from 1.25 m; listings mention indoor and outdoor activities."
+ },
+ {
+  "id": "way/1495035422",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1495035422"
+  ],
+  "note": "Covered 172 m kart way at Zuidelijke Dwarsweg (Cortelande, Waddinxveen); no venue found online."
+ },
+ {
+  "id": "way/1430868491",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1430868491"
+  ],
+  "note": "Small sand-surface kart way in the Westergouwe new-build area of Gouda; probably not a public kart venue."
+ },
+ {
+  "id": "node/2290628972",
+  "name": "GoKarthallen (Go-Kart Hall Kallinge)",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+46 457 21170",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/cn/Go-Kart-Hall-Hotels.0-l979108668589088768-0.Travel-Guide-Filter-Hotels",
+   "https://www.openstreetmap.org/node/2290628972"
+  ],
+  "note": "Go-kart hall at Västervägen, Kallinge; the known website raceland.se is an unrelated kart-tyre retailer in Alvesta, and no venue details were found."
+ },
+ {
+  "id": "way/128816484",
+  "name": "Karlskrona Hyrkart",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/128816484"
+  ],
+  "note": "OSM gives operator Karlskrona Hyrkart for this 588 m track at Torskors; no web presence found."
+ },
+ {
+  "id": "node/1414333573",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/node/1414333573"
+  ],
+  "note": "Kart point at Utövägen 1C on Saltö, a mainly residential area; no kart venue found online."
+ },
+ {
+  "id": "way/343140372",
+  "name": "Kneippbyn gokart",
+  "type": "outdoor",
+  "website": "https://www.kneippbyn.se",
+  "websites": [
+   {
+    "url": "https://www.kneippbyn.se",
+    "role": "venue",
+    "name": "Kneippbyn Resort"
+   }
+  ],
+  "phone": "+46 498 25 10 00",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://coasterpedia.net/wiki/Kneippbyn"
+  ],
+  "note": "Go-kart ride inside the Kneippbyn amusement/water park south of Visby, seasonal May-August."
+ },
+ {
+  "id": "way/132148316",
+  "name": "Hudiksvalls Hyrcart",
+  "type": "outdoor",
+  "website": "http://www.hyrcart.se",
+  "websites": [
+   {
+    "url": "http://www.hyrcart.se",
+    "role": "rental",
+    "name": "Hudiksvalls Hyrcart"
+   }
+  ],
+  "phone": "+46 650 240 70",
+  "email": "jan@hudikhyrcart.se",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.gladahudik.se/en/hudiksvall-hyrcart",
+   "https://www.reco.se/hudiksvalls-hyrcart-hudiksvall"
+  ],
+  "note": "525 m by 7 m rental track (Västerrå 52) with 10 adult, 4 kids (from 6 years) and 2 double karts."
+ },
+ {
+  "id": "way/1422449309",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/1422449309",
+   "https://falkenberg.se/en/se-gora/aktiviteter/gokart/"
+  ],
+  "note": "Tagged disused in OSM; no kart venue at Olofsbo found online (Falkenberg's kart track is at Falkenbergs Motorbana instead)."
+ },
+ {
+  "id": "way/158250368",
+  "name": "Bergringen",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Bergringen-Svenstavik.d979109246356574208.Vacation-Attraction"
+  ],
+  "note": "Named track near Svenstavik, only found in travel portals; operator and kart offer unknown."
+ },
+ {
+  "id": "way/99293878",
+  "name": "Axamo Ring",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://iame-motorsport.com/news_dett.php?id=442",
+   "https://iame-motorsport.com/news_dett.php?id=138"
+  ],
+  "note": "Club/race kart circuit at Axamo 42, Jönköping, used for IAME Series Sweden rounds (2024, 2025); operator not confirmed."
+ },
+ {
+  "id": "way/279571694",
+  "name": "Vroom Gokart Jönköping",
+  "type": "outdoor",
+  "website": "https://www.vroom.se",
+  "websites": [
+   {
+    "url": "https://www.vroom.se",
+    "role": "rental",
+    "name": "Vroom Gokart"
+   }
+  ],
+  "phone": "+46 70 877 96 80",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://jkpg.com/en/experiences/vroom-gokart",
+   "https://www.vroom.se"
+  ],
+  "note": "Vroom's Torsvik site (Bordsvägen 7) has a ~720 m outdoor track for spring/summer plus a 310 m indoor track; drivers from 9 years/130 cm."
+ },
+ {
+  "id": "way/173523512",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openstreetmap.org/way/173523512"
+  ],
+  "note": "Unnamed track at Ebbeskogsgatan, Byxelkrok (Öland); no venue found, nearest known is Glabo Gokart & Paintball in Löttorp."
+ }
+]

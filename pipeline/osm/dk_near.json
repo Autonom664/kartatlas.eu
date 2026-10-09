@@ -1,0 +1,3822 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-09T05:39:27Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "sep",
+  "id": 1
+},
+{
+  "type": "node",
+  "id": 2930863457,
+  "lat": 56.7222045,
+  "lon": 9.7634898,
+  "tags": {
+    "name": "True",
+    "place": "hamlet",
+    "population": "23",
+    "wikidata": "Q138829119"
+  }
+},
+{
+  "type": "node",
+  "id": 3150961983,
+  "lat": 56.7676132,
+  "lon": 9.7338740,
+  "tags": {
+    "name": "Skårup",
+    "place": "hamlet",
+    "population": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 3150971354,
+  "lat": 56.7693250,
+  "lon": 9.7815511,
+  "tags": {
+    "name": "Fruelund",
+    "place": "hamlet",
+    "population": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 5631169106,
+  "lat": 56.7360390,
+  "lon": 9.7709640,
+  "tags": {
+    "fvst:navnelbnr": "741255",
+    "name": "Kioskudvalget MNJ",
+    "ref:DK:cvr": "28525877",
+    "ref:DK:cvr:pnummer": "1011278678",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 9360375364,
+  "lat": 56.7253591,
+  "lon": 9.8202420,
+  "tags": {
+    "name": "Vebbestrup",
+    "place": "village",
+    "population": "374",
+    "wikidata": "Q2547817",
+    "wikipedia": "da:Vebbestrup"
+  }
+},
+{
+  "type": "node",
+  "id": 11281357355,
+  "lat": 56.7308412,
+  "lon": 9.8221479,
+  "tags": {
+    "name": "Hvarre Huse",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 12378593734,
+  "lat": 56.7555406,
+  "lon": 9.7528971,
+  "tags": {
+    "name": "Ravnkilde",
+    "place": "village",
+    "population": "360",
+    "wikidata": "Q848527",
+    "wikipedia": "da:Ravnkilde (by)"
+  }
+},
+{
+  "type": "way",
+  "id": 99418161,
+  "center": {
+    "lat": 56.7432028,
+    "lon": 9.7640887
+  },
+  "tags": {
+    "name": "Simested Å",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 567296902,
+  "center": {
+    "lat": 56.7372431,
+    "lon": 9.7680649
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Nysumbanen",
+    "sport": "motor",
+    "website": "https://www.mnj.dk/"
+  }
+},
+{
+  "type": "relation",
+  "id": 2099375,
+  "center": {
+    "lat": 56.8112780,
+    "lon": 9.8732764
+  },
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Rebild Kommune",
+    "name:ca": "Municipi de Rebild",
+    "name:da": "Rebild Kommune",
+    "name:en": "Rebild Municipality",
+    "name:et": "Rebildi vald",
+    "name:fi": "Rebildin kunta",
+    "name:frr": "Rebild Komuun",
+    "name:id": "Munisipalitas Rebild",
+    "name:nds": "Kommun Rebild",
+    "name:nn": "Rebild kommune",
+    "name:no": "Rebild kommune",
+    "name:pl": "Gmina Rebild",
+    "name:sco": "Rebild Municipality",
+    "name:sv": "Rebilds kommun",
+    "population": "29149",
+    "ref": "840",
+    "type": "boundary",
+    "wikidata": "Q499896",
+    "wikipedia": "da:Rebild Kommune"
+  }
+},
+{
+  "type": "relation",
+  "id": 2099390,
+  "center": {
+    "lat": 56.7056349,
+    "lon": 9.9392412
+  },
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Mariagerfjord Kommune",
+    "name:ca": "Municipi de Mariagerfjord",
+    "name:da": "Mariagerfjord Kommune",
+    "name:en": "Mariagerfjord Municipality",
+    "name:et": "Mariagerfjordi vald",
+    "name:fi": "Mariagerfjordin kunta",
+    "name:frr": "Mariagerfjord Komuun",
+    "name:kk": "Мариагер-фьорд",
+    "name:nds": "Kommun Mariagerfjord",
+    "name:nn": "Mariagerfjord kommune",
+    "name:no": "Mariagerfjord kommune",
+    "name:pl": "Gmina Mariagerfjord",
+    "name:sco": "Mariagerfjord Municipality",
+    "name:sv": "Mariagerfjords kommun",
+    "population": "42131",
+    "ref": "846",
+    "type": "boundary",
+    "wikidata": "Q512528",
+    "wikipedia": "da:Mariagerfjord Kommune"
+  }
+},
+{
+  "type": "relation",
+  "id": 20822601,
+  "center": {
+    "lat": 56.6593446,
+    "lon": 9.5697934
+  },
+  "tags": {
+    "name": "Simested Å",
+    "type": "waterway",
+    "wikidata": "Q23739940"
+  }
+},
+{
+  "type": "sep",
+  "id": 2
+},
+{
+  "type": "node",
+  "id": 2564709776,
+  "lat": 56.1398280,
+  "lon": 9.1301048,
+  "tags": {
+    "name": "Eskelund",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2565261240,
+  "lat": 56.1470392,
+  "lon": 9.1472886,
+  "tags": {
+    "name": "Hagelskær",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4436717300,
+  "lat": 56.1607141,
+  "lon": 9.0838800,
+  "tags": {
+    "name": "Frølund",
+    "place": "hamlet",
+    "wikidata": "Q130732414"
+  }
+},
+{
+  "type": "node",
+  "id": 9393918473,
+  "lat": 56.1563186,
+  "lon": 9.1514020,
+  "tags": {
+    "name": "Tulstrup",
+    "place": "village",
+    "population": "634",
+    "wikidata": "Q2441356",
+    "wikipedia": "da:Tulstrup (Ikast-Brande Kommune)"
+  }
+},
+{
+  "type": "node",
+  "id": 11301462520,
+  "lat": 56.1633225,
+  "lon": 9.1557522,
+  "tags": {
+    "name": "Siggård",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11708756615,
+  "lat": 56.1806067,
+  "lon": 9.1322080,
+  "tags": {
+    "name": "Faurholt",
+    "place": "hamlet",
+    "wikidata": "Q16323521"
+  }
+},
+{
+  "type": "way",
+  "id": 532894311,
+  "center": {
+    "lat": 56.1731794,
+    "lon": 9.1202779
+  },
+  "tags": {
+    "leisure": "stadium",
+    "name": "Midtjysk Karting Bane",
+    "sport": "motor",
+    "website": "http://midtjyskgokart.dk"
+  }
+},
+{
+  "type": "sep",
+  "id": 3
+},
+{
+  "type": "node",
+  "id": 1749874042,
+  "lat": 56.0547437,
+  "lon": 8.3999753,
+  "tags": {
+    "name": "Højmark",
+    "place": "village",
+    "population": "285",
+    "wikidata": "Q2389450",
+    "wikipedia": "da:Højmark (Ringkøbing-Skjern Kommune)"
+  }
+},
+{
+  "type": "node",
+  "id": 3209007902,
+  "lat": 56.0546513,
+  "lon": 8.3724430,
+  "tags": {
+    "name": "Holmgårde",
+    "place": "hamlet",
+    "population": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 3209007938,
+  "lat": 56.0591937,
+  "lon": 8.3498856,
+  "tags": {
+    "name": "Vesterkær",
+    "place": "hamlet",
+    "population": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 3209007952,
+  "lat": 56.0647391,
+  "lon": 8.3419524,
+  "tags": {
+    "name": "Klaptoft",
+    "place": "hamlet",
+    "population": "13"
+  }
+},
+{
+  "type": "node",
+  "id": 3209011967,
+  "lat": 56.0574437,
+  "lon": 8.3833247,
+  "tags": {
+    "name": "Nygård",
+    "place": "hamlet",
+    "population": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 3209012541,
+  "lat": 56.0692186,
+  "lon": 8.3809537,
+  "tags": {
+    "name": "Gråkær Bakke",
+    "place": "hamlet",
+    "population": "9"
+  }
+},
+{
+  "type": "way",
+  "id": 315216959,
+  "center": {
+    "lat": 56.0861109,
+    "lon": 8.3633901
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 426016616,
+  "center": {
+    "lat": 56.0840630,
+    "lon": 8.3719372
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 426016617,
+  "center": {
+    "lat": 56.0846248,
+    "lon": 8.3701016
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 892459873,
+  "center": {
+    "lat": 56.0814862,
+    "lon": 8.3808348
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459874,
+  "center": {
+    "lat": 56.0815080,
+    "lon": 8.3783361
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459875,
+  "center": {
+    "lat": 56.0817723,
+    "lon": 8.3767936
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459876,
+  "center": {
+    "lat": 56.0820439,
+    "lon": 8.3752503
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459877,
+  "center": {
+    "lat": 56.0821020,
+    "lon": 8.3750510
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459879,
+  "center": {
+    "lat": 56.0827207,
+    "lon": 8.3746819
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 892459880,
+  "center": {
+    "lat": 56.0822196,
+    "lon": 8.3749188
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "ditch"
+  }
+},
+{
+  "type": "way",
+  "id": 1072983693,
+  "center": {
+    "lat": 56.0837088,
+    "lon": 8.3743261
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Hatkærhus"
+  }
+},
+{
+  "type": "way",
+  "id": 1072983696,
+  "center": {
+    "lat": 56.0817896,
+    "lon": 8.3742903
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Virkelyst"
+  }
+},
+{
+  "type": "way",
+  "id": 1122060445,
+  "center": {
+    "lat": 56.0844787,
+    "lon": 8.3697384
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Halkærhus"
+  }
+},
+{
+  "type": "way",
+  "id": 1297735039,
+  "center": {
+    "lat": 56.0831635,
+    "lon": 8.3743690
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1297735040,
+  "center": {
+    "lat": 56.0831858,
+    "lon": 8.3742779
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1462616930,
+  "center": {
+    "lat": 56.0833164,
+    "lon": 8.3740317
+  },
+  "tags": {
+    "name": "Nørhede Bæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 1462616931,
+  "center": {
+    "lat": 56.0834733,
+    "lon": 8.3737372
+  },
+  "tags": {
+    "layer": "-1",
+    "name": "Nørhede Bæk",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "relation",
+  "id": 11159448,
+  "center": {
+    "lat": 56.2446422,
+    "lon": 9.5193088
+  },
+  "tags": {
+    "distance": "203",
+    "from": "Grenaa",
+    "name": "Primærrute 15: Grenaa => Ringkøbing",
+    "network": "DK:national",
+    "operator": "Vejdirektoratet",
+    "operator:en": "The Danish Road Directorate",
+    "operator:type": "public",
+    "operator:wikidata": "Q1630101",
+    "operator:wikipedia": "da:Vejdirektoratet",
+    "ref": "15",
+    "route": "road",
+    "to": "Ringkøbing",
+    "type": "route",
+    "via": "Aarhus",
+    "wikidata": "Q2782862",
+    "wikipedia": "da:Primærrute 15"
+  }
+},
+{
+  "type": "sep",
+  "id": 4
+},
+{
+  "type": "node",
+  "id": 26559122,
+  "lat": 56.0122429,
+  "lon": 11.9648192,
+  "tags": {
+    "census": "2013",
+    "name": "Liseleje",
+    "name:etymology:wikidata": "Q129571647",
+    "place": "village",
+    "population": "2603",
+    "source": "Statistikbanken Tabel BEF44",
+    "wikidata": "Q1827929",
+    "wikipedia": "da:Liseleje"
+  }
+},
+{
+  "type": "node",
+  "id": 314790561,
+  "lat": 56.0070606,
+  "lon": 11.9894526,
+  "tags": {
+    "name": "Asserbo",
+    "place": "village",
+    "wikidata": "Q12302363",
+    "wikipedia": "da:Asserbo"
+  }
+},
+{
+  "type": "node",
+  "id": 426885978,
+  "lat": 56.0129258,
+  "lon": 11.9683554,
+  "tags": {
+    "fvst:navnelbnr": "111139",
+    "name": "LiselejeBageren",
+    "name:etymology:wikidata": "Q1827929",
+    "opening_hours": "Jan-Jun: Mo-Su 06:00-17:00; week 31-32: Mo-Su 06:00-18:00",
+    "ref:DK:cvr": "32284132",
+    "shop": "bakery"
+  }
+},
+{
+  "type": "node",
+  "id": 568542950,
+  "lat": 55.9885394,
+  "lon": 12.0093120,
+  "tags": {
+    "name": "Vinderød Enghave",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1367382141,
+  "lat": 55.9940831,
+  "lon": 11.9427748,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Tollerup",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1834676615,
+  "lat": 56.0129493,
+  "lon": 11.9685853,
+  "tags": {
+    "alt_name": "Lisestuens Cafe og Burgerbar",
+    "amenity": "cafe",
+    "cuisine": "burger",
+    "fvst:navnelbnr": "1295648",
+    "name": "Lisestuen",
+    "name:etymology:wikidata": "Q1827929",
+    "opening_hours": "11:00-24:00",
+    "ref:DK:cvr": "41116102",
+    "ref:DK:cvr:pnummer": "1025495515"
+  }
+},
+{
+  "type": "node",
+  "id": 1837122555,
+  "lat": 56.0125752,
+  "lon": 11.9637210,
+  "tags": {
+    "amenity": "ice_cream",
+    "check_date": "2026-07-30",
+    "covered": "no",
+    "fvst:navnelbnr": "742043",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Det Gule Ishus",
+    "outdoor_seating": "yes",
+    "ref:DK:cvr": "39433044",
+    "ref:DK:cvr:pnummer": "1023462008"
+  }
+},
+{
+  "type": "node",
+  "id": 3765288157,
+  "lat": 56.0128302,
+  "lon": 11.9645106,
+  "tags": {
+    "check_date": "2026-07-08",
+    "fvst:navnelbnr": "1356717",
+    "name": "Liseleje Badehotel",
+    "name:etymology:wikidata": "Q1827929",
+    "old_name": "Liselængen",
+    "phone": "+45 21268540",
+    "ref:DK:cvr": "43661183",
+    "ref:DK:cvr:pnummer": "1028774636",
+    "tourism": "guest_house",
+    "website": "https://liselejebadehotel.dk/",
+    "wikidata": "Q112012799"
+  }
+},
+{
+  "type": "node",
+  "id": 3921317508,
+  "lat": 56.0127180,
+  "lon": 11.9657959,
+  "tags": {
+    "amenity": "fast_food",
+    "check_date": "2025-07-11",
+    "cuisine": "italian",
+    "fvst:name": "Pomodoro Rosso/R Misimi",
+    "fvst:navnelbnr": "1480303",
+    "name": "L'ancora",
+    "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "yes",
+    "ref:DK:cvr": "44765985",
+    "ref:DK:cvr:pnummer": "1030271498",
+    "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4437819938,
+  "lat": 56.0126633,
+  "lon": 11.9693880,
+  "tags": {
+    "amenity": "bus_station",
+    "name": "P. Frederiksens Vej Bus 327",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6670691145,
+  "lat": 56.0138930,
+  "lon": 11.9686560,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "fvst:navnelbnr": "1345783",
+    "name": "Haveje Liseleje",
+    "outdoor_seating": "yes",
+    "ref:DK:cvr": "35678492",
+    "ref:DK:cvr:pnummer": "1028956009"
+  }
+},
+{
+  "type": "node",
+  "id": 7687781440,
+  "lat": 56.0128440,
+  "lon": 11.9673220,
+  "tags": {
+    "amenity": "cafe",
+    "check_date": "2026-07-15",
+    "check_date:opening_hours": "2026-07-15",
+    "cuisine": "coffee_shop;sandwich",
+    "fvst:navnelbnr": "935986",
+    "name": "Michaels",
+    "opening_hours": "10:00-17:00",
+    "outdoor_seating": "yes",
+    "phone": "+45 48482121",
+    "ref:DK:cvr": "31489970",
+    "ref:DK:cvr:pnummer": "1025560236",
+    "website": "https://www.michaels-liseleje.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 8963429901,
+  "lat": 55.9831506,
+  "lon": 11.9416881,
+  "tags": {
+    "alt_name": "Torup, halsnæs kommune, North Sealand",
+    "description": "550 inhabitants, railway station, shops, school",
+    "name": "Torup",
+    "old_name": "Toverup",
+    "place": "village",
+    "population": "323",
+    "wikidata": "Q304470",
+    "wikipedia": "da:Torup (Halsnæs Kommune)"
+  }
+},
+{
+  "type": "node",
+  "id": 9182980475,
+  "lat": 55.9961610,
+  "lon": 11.9675338,
+  "tags": {
+    "name": "Melby",
+    "place": "village",
+    "population": "782",
+    "wikidata": "Q1919093",
+    "wikipedia": "da:Melby (Halsnæs Kommune)"
+  }
+},
+{
+  "type": "node",
+  "id": 10076437521,
+  "lat": 55.9824513,
+  "lon": 11.9777365,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Evetofte",
+    "place": "village",
+    "population": "368",
+    "population:date": "2011-01-01",
+    "wikidata": "Q1382327",
+    "wikipedia": "da:Evetofte"
+  }
+},
+{
+  "type": "node",
+  "id": 10076437522,
+  "lat": 55.9926952,
+  "lon": 11.9895206,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Præstelodden",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10076437523,
+  "lat": 56.0037362,
+  "lon": 11.9501198,
+  "tags": {
+    "name": "Hyllingebjerg",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 10076437524,
+  "lat": 55.9982741,
+  "lon": 11.9294409,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Hald",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 10792404286,
+  "lat": 56.0131303,
+  "lon": 11.9685662,
+  "tags": {
+    "amenity": "ice_cream",
+    "fvst:navnelbnr": "1279433",
+    "name": "Isbaren Liseleje",
+    "name:etymology:wikidata": "Q1827929",
+    "ref:DK:cvr": "43754661",
+    "ref:DK:cvr:pnummer": "1028896189",
+    "seasonal": "summer",
+    "website": "https://isbarenliseleje.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11010755431,
+  "lat": 56.0128505,
+  "lon": 11.9655007,
+  "tags": {
+    "check_date": "2024-07-06",
+    "name": "Copenhagen Flowers by Inge",
+    "shop": "florist"
+  }
+},
+{
+  "type": "node",
+  "id": 11010755432,
+  "lat": 56.0126972,
+  "lon": 11.9654699,
+  "tags": {
+    "check_date": "2025-07-11",
+    "check_date:opening_hours": "2025-07-11",
+    "name": "EltoftNielsen",
+    "office": "estate_agent",
+    "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-16:00; Su 10:00-15:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11010765989,
+  "lat": 56.0127314,
+  "lon": 11.9659920,
+  "tags": {
+    "amenity": "bar",
+    "check_date": "2025-05-14",
+    "facebook": "https://www.facebook.com/people/MesterBar/100063785100693/",
+    "name": "MesterBar",
+    "opening_hours": "Th 16:00-20:00,Fr 16:00-02:00,Sa-Su 14:00-20:00",
+    "phone": "+45 26167904",
+    "season": "summer",
+    "seasonal": "yes",
+    "website": "https://liseleje.dk/mesterbar/"
+  }
+},
+{
+  "type": "node",
+  "id": 11010766247,
+  "lat": 56.0129768,
+  "lon": 11.9665347,
+  "tags": {
+    "name": "Delbart",
+    "shop": "clothes"
+  }
+},
+{
+  "type": "node",
+  "id": 11010812869,
+  "lat": 56.0126572,
+  "lon": 11.9650595,
+  "tags": {
+    "check_date": "2025-07-11",
+    "check_date:opening_hours": "2025-07-11",
+    "name": "LokalBolig",
+    "office": "estate_agent",
+    "opening_hours": "Tu-Th 09:00-16:00; Fr 09:00-15:00; Mo 10:00-16:00; Sa,Su off",
+    "phone": "+45 47 76 12 34"
+  }
+},
+{
+  "type": "node",
+  "id": 11010812870,
+  "lat": 56.0127809,
+  "lon": 11.9648271,
+  "tags": {
+    "check_date": "2025-07-11",
+    "check_date:opening_hours": "2025-07-11",
+    "name": "Liseleje Ejendomskontor",
+    "name:etymology:wikidata": "Q1827929",
+    "office": "estate_agent",
+    "opening_hours": "Mo-Fr 10:00-16:00; Su 10:00-13:00",
+    "operator": "EDC"
+  }
+},
+{
+  "type": "node",
+  "id": 11014312543,
+  "lat": 56.0128415,
+  "lon": 11.9653317,
+  "tags": {
+    "check_date": "2025-07-11",
+    "check_date:opening_hours": "2025-07-11",
+    "craft": "jeweller",
+    "name": "Sølvsmedjen i Liseleje",
+    "opening_hours": "Sa 10:30-14:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11936177279,
+  "lat": 56.0155356,
+  "lon": 12.0294983,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Tollerup Overdrev",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11936177283,
+  "lat": 55.9865492,
+  "lon": 11.9892276,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Ramsbjerg",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11936177284,
+  "lat": 55.9894945,
+  "lon": 11.9887239,
+  "tags": {
+    "description": "Sommerhusområde",
+    "name": "Melby Enghave",
+    "place": "hamlet",
+    "wikidata": "Q140533729"
+  }
+},
+{
+  "type": "node",
+  "id": 12037728708,
+  "lat": 56.0129746,
+  "lon": 11.9679450,
+  "tags": {
+    "check_date": "2024-07-06",
+    "name": "Palet",
+    "shop": "vintage"
+  }
+},
+{
+  "type": "node",
+  "id": 12037728709,
+  "lat": 56.0130052,
+  "lon": 11.9677112,
+  "tags": {
+    "name": "Koch Køkken",
+    "shop": "kitchen"
+  }
+},
+{
+  "type": "node",
+  "id": 12037750353,
+  "lat": 56.0128375,
+  "lon": 11.9643660,
+  "tags": {
+    "amenity": "restaurant",
+    "catering:website": "https://mamastapas.dk/",
+    "check_date": "2026-07-30",
+    "cuisine": "tapas",
+    "email": "mail@mamastapas.dk",
+    "fvst:navnelbnr": "1356717",
+    "name": "Mamas & Tapas",
+    "website": "https://liselejebadehotel.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 12339854280,
+  "lat": 56.0146895,
+  "lon": 11.9683013,
+  "tags": {
+    "information": "map",
+    "name": "Velkommen til Tisvilde Hegn",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 12358551054,
+  "lat": 56.0144543,
+  "lon": 11.9659607,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Liseleje strand i \"Gamle dage\"",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 12358567736,
+  "lat": 56.0155155,
+  "lon": 11.9718210,
+  "tags": {
+    "board_type": "nature",
+    "information": "board",
+    "name": "Velkommen til Melby Overdrev",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13893900684,
+  "lat": 56.0127382,
+  "lon": 11.9640312,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "spanish",
+    "fvst:navnelbnr": "1584297",
+    "name": "Spisehuset Liseleje",
+    "name:etymology:wikidata": "Q1827929",
+    "opening_date": "2026-06-15",
+    "opening_hours": "12:00-22:00",
+    "ref:DK:cvr": "39433044",
+    "ref:DK:cvr:pnummer": "1032403499"
+  }
+},
+{
+  "type": "node",
+  "id": 13902310101,
+  "lat": 56.0157188,
+  "lon": 11.9678582,
+  "tags": {
+    "access": "yes",
+    "leisure": "bathing_place",
+    "name": "Liseleje",
+    "ref:EU:bwid": "DKBW377"
+  }
+},
+{
+  "type": "way",
+  "id": 25999712,
+  "center": {
+    "lat": 56.0148564,
+    "lon": 11.9794739
+  },
+  "tags": {
+    "landuse": "forest",
+    "name": "Liseleje Plantage",
+    "name:etymology:wikidata": "Q1827929"
+  }
+},
+{
+  "type": "way",
+  "id": 115011517,
+  "center": {
+    "lat": 56.0140509,
+    "lon": 11.9613849
+  },
+  "tags": {
+    "name": "Liseleje Strand",
+    "natural": "beach",
+    "surface": "sand"
+  }
+},
+{
+  "type": "way",
+  "id": 172579576,
+  "center": {
+    "lat": 56.0145931,
+    "lon": 11.9657104
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Ishuset",
+    "wikidata": "Q12318613",
+    "wikipedia": "da:Ishuset i Liseleje"
+  }
+},
+{
+  "type": "way",
+  "id": 307285244,
+  "center": {
+    "lat": 56.0125056,
+    "lon": 11.9648718
+  },
+  "tags": {
+    "branch": "Liseleje",
+    "brand": "Min Købmand",
+    "brand:wikidata": "Q104310815",
+    "building": "retail",
+    "building:colour": "white",
+    "check_date:opening_hours": "2026-07-08",
+    "fvst:navnelbnr": "98156",
+    "mapillary": "3887103048025603",
+    "name": "Min Købmand",
+    "opening_hours": "Mo-Su,PH 08:00-19:00",
+    "ref:DK:cvr": "31878543",
+    "ref:DK:cvr:pnummer": "1014930163",
+    "roof:material": "roof_tiles",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "way",
+  "id": 522263466,
+  "center": {
+    "lat": 56.0159691,
+    "lon": 11.9641974
+  },
+  "tags": {
+    "area": "yes",
+    "man_made": "breakwater",
+    "name": "BB10, Liselejemolen"
+  }
+},
+{
+  "type": "way",
+  "id": 654649283,
+  "center": {
+    "lat": 56.0669766,
+    "lon": 11.7820887
+  },
+  "tags": {
+    "name": "Hesselø Bugt",
+    "name:etymology:wikidata": "Q1615765",
+    "natural": "bay",
+    "seamark:name": "Hesselø Bugt",
+    "seamark:sea_area:category": "bay",
+    "seamark:type": "sea_area",
+    "wikidata": "Q23753352",
+    "wikipedia": "da:Hesselø Bugt"
+  }
+},
+{
+  "type": "way",
+  "id": 680022831,
+  "center": {
+    "lat": 56.0101184,
+    "lon": 11.9647397
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Klitgård",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 680022843,
+  "center": {
+    "lat": 56.0133013,
+    "lon": 11.9617853
+  },
+  "tags": {
+    "building": "yes",
+    "building:material": "brick",
+    "name": "Liselyst",
+    "roof:colour": "red"
+  }
+},
+{
+  "type": "way",
+  "id": 680023331,
+  "center": {
+    "lat": 56.0135176,
+    "lon": 11.9606764
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "white",
+    "name": "Strandøre",
+    "roof:colour": "red"
+  }
+},
+{
+  "type": "way",
+  "id": 680024642,
+  "center": {
+    "lat": 56.0137921,
+    "lon": 11.9616517
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Udsigten",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 680024648,
+  "center": {
+    "lat": 56.0131720,
+    "lon": 11.9610777
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "red",
+    "building:material": "brick",
+    "name": "Solhav",
+    "roof:colour": "red"
+  }
+},
+{
+  "type": "way",
+  "id": 680024975,
+  "center": {
+    "lat": 56.0131423,
+    "lon": 11.9628724
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "yellow",
+    "building:material": "brick",
+    "name": "Luna",
+    "roof:colour": "red",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 680024994,
+  "center": {
+    "lat": 56.0127951,
+    "lon": 11.9665682
+  },
+  "tags": {
+    "building": "yes",
+    "building:material": "brick",
+    "name": "Spisehuset",
+    "roof:material": "roof_tiles",
+    "roof:shape": "half-hipped"
+  }
+},
+{
+  "type": "way",
+  "id": 680026171,
+  "center": {
+    "lat": 56.0117612,
+    "lon": 11.9610534
+  },
+  "tags": {
+    "building": "yes",
+    "building:colour": "black",
+    "name": "Togun"
+  }
+},
+{
+  "type": "way",
+  "id": 970052728,
+  "center": {
+    "lat": 56.0121754,
+    "lon": 11.9643895
+  },
+  "tags": {
+    "landuse": "grass",
+    "name": "Hyggehaven"
+  }
+},
+{
+  "type": "way",
+  "id": 975454100,
+  "center": {
+    "lat": 56.0136962,
+    "lon": 11.9698418
+  },
+  "tags": {
+    "access": "yes",
+    "barrier": "fence",
+    "leisure": "playground",
+    "name": "Havtyren"
+  }
+},
+{
+  "type": "relation",
+  "id": 50257,
+  "center": {
+    "lat": 56.0451571,
+    "lon": 12.2309331
+  },
+  "tags": {
+    "colour": "#0978BE",
+    "distance": "69",
+    "from": "Hundested",
+    "name": "Nordkystruten",
+    "network": "rcn",
+    "ref": "47",
+    "route": "bicycle",
+    "to": "Helsingør",
+    "type": "route",
+    "website": "https://www.visitnordsjaelland.dk/nordsjaelland/det-sker/nordkyststien-cykelrute-47-langs-den-nordsjaellandske-kyst-gdk680396"
+  }
+},
+{
+  "type": "relation",
+  "id": 1320608,
+  "center": {
+    "lat": 55.5951782,
+    "lon": 13.4196985
+  },
+  "tags": {
+    "ISO3166-2": "DK-84",
+    "admin_level": "4",
+    "boundary": "administrative",
+    "flag": "File:Flag_of_the_Capital_Region_of_Denmark.svg",
+    "name": "Region Hovedstaden",
+    "name:bg": "Столична област",
+    "name:ce": "Коьрта гӀалин регион",
+    "name:cs": "Hovedstaden",
+    "name:da": "Region Hovedstaden",
+    "name:de": "Hauptstadtregion",
+    "name:en": "Capital Region of Denmark",
+    "name:eo": "Regiono Hovedstaden",
+    "name:es": "Región Capital",
+    "name:et": "Pealinna piirkond",
+    "name:fi": "Pääkaupunkialue",
+    "name:frr": "Regiuun Hovedstaden",
+    "name:gv": "Ard Preeu-valjagh ny Danvarg",
+    "name:hu": "Fővárosi régió",
+    "name:hy": "Մայրաքաղաքային տարածաշրջան",
+    "name:ka": "დედაქალაქის რეგიონი",
+    "name:kk": "Астаналық облыс",
+    "name:ko": "덴마크 수도 지역",
+    "name:la": "Regio Capitis",
+    "name:lt": "Sostinės regionas",
+    "name:mk": "Престолнински регион",
+    "name:ms": "Wilayah Hovedstaden",
+    "name:nds": "Hööftstadt-Region",
+    "name:nl": "Hoofdstad",
+    "name:os": "Сæйраг сахары облæст",
+    "name:pl": "Region Stołeczny",
+    "name:pt": "Região da Capital",
+    "name:ro": "Regiunea Hovedstaden",
+    "name:ru": "Столичная область",
+    "name:se": "Oaivegávpoga regiuvdna",
+    "name:sk": "Hovedstaden",
+    "name:sv": "Region Huvudstaden",
+    "name:uk": "Столичний регіон",
+    "name:vi": "Vùng thủ đô Đan Mạch",
+    "ref": "1084",
+    "ref:nuts": "DK01",
+    "ref:nuts:2": "DK01",
+    "type": "boundary",
+    "wikidata": "Q26073",
+    "wikipedia": "da:Region Hovedstaden"
+  }
+},
+{
+  "type": "relation",
+  "id": 2183213,
+  "center": {
+    "lat": 56.0408561,
+    "lon": 11.9049688
+  },
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Halsnæs Kommune",
+    "name:ca": "Municipi de Halsnæs",
+    "name:da": "Halsnæs Kommune",
+    "name:en": "Halsnæs Municipality",
+    "name:fi": "Halsnæsin kunta",
+    "name:frr": "Halsnæs Komuun",
+    "name:id": "Munisipalitas Halsnæs",
+    "name:nds": "Kommun Halsnæs",
+    "name:nn": "Halsnæs kommune",
+    "name:no": "Halsnæs kommune",
+    "name:pl": "Gmina Halsnæs",
+    "name:sv": "Halsnæs kommun",
+    "population": "31049",
+    "ref": "260",
+    "type": "boundary",
+    "wikidata": "Q505130",
+    "wikipedia": "da:Halsnæs Kommune"
+  }
+},
+{
+  "type": "relation",
+  "id": 3004631,
+  "center": {
+    "lat": 55.7961199,
+    "lon": 12.2323560
+  },
+  "tags": {
+    "name": "Sommerfugleruten i Danmark - Rød vinge",
+    "name:sv": "Fjärilsleden i Danmark - Röd vinge",
+    "network": "rcn",
+    "route": "bicycle",
+    "source": "Sommerfugleruten",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 3651845,
+  "center": {
+    "lat": 56.0472477,
+    "lon": 12.0725922
+  },
+  "tags": {
+    "name": "Nordkyststien Hundested - Gilleleje",
+    "network": "rwn",
+    "ref": "NKS",
+    "route": "hiking",
+    "type": "route",
+    "url": "https://oplevhalsnaes.dk/naturen/nordkyststien"
+  }
+},
+{
+  "type": "relation",
+  "id": 3651876,
+  "center": {
+    "lat": 55.9788500,
+    "lon": 11.9334515
+  },
+  "tags": {
+    "name": "Hundested - Lynæs",
+    "network": "lcn",
+    "route": "bicycle",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 5175856,
+  "center": {
+    "lat": 55.5456802,
+    "lon": 11.7541164
+  },
+  "tags": {
+    "name": "Sjælland",
+    "name:ca": "Selàndia",
+    "name:da": "Sjælland",
+    "name:de": "Seeland",
+    "name:en": "Zealand",
+    "name:fr": "Seeland",
+    "name:is": "Sjáland",
+    "name:ja": "シェラン島",
+    "name:nl": "Seeland",
+    "name:pl": "Zelandia",
+    "name:ru": "Зеландия",
+    "name:sv": "Själland",
+    "name:tok": "ma Selan",
+    "place": "island",
+    "type": "multipolygon",
+    "wikidata": "Q25535",
+    "wikipedia": "da:Sjælland"
+  }
+},
+{
+  "type": "relation",
+  "id": 10003540,
+  "center": {
+    "lat": 55.3441421,
+    "lon": 11.7752049
+  },
+  "tags": {
+    "boundary": "public_transport",
+    "name": "Takst Sjælland",
+    "network": "Takst Sjælland",
+    "type": "boundary"
+  }
+},
+{
+  "type": "relation",
+  "id": 15312449,
+  "center": {
+    "lat": 55.9965176,
+    "lon": 12.2396289
+  },
+  "tags": {
+    "boundary": "national_park",
+    "name": "Nationalpark Kongernes Nordsjælland",
+    "type": "multipolygon",
+    "wikidata": "Q10594802",
+    "wikipedia": "da:Nationalpark Kongernes Nordsjælland"
+  }
+},
+{
+  "type": "sep",
+  "id": 5
+},
+{
+  "type": "node",
+  "id": 26559293,
+  "lat": 55.5833746,
+  "lon": 12.2999286,
+  "tags": {
+    "name": "Greve Strand",
+    "name:da": "Greve Strand",
+    "name:de": "Greve",
+    "name:ka": "გრავე-სტრანი",
+    "name:ru": "Греве Странн",
+    "name:uk": "Ґреве Странн",
+    "place": "town",
+    "population": "42824",
+    "population:date": "2018-01-01",
+    "source:population": "http://www.statistikbanken.dk/BY1",
+    "wikidata": "Q2380509",
+    "wikipedia": "da:Greve Strand"
+  }
+},
+{
+  "type": "node",
+  "id": 393867019,
+  "lat": 55.6094468,
+  "lon": 12.3582555,
+  "tags": {
+    "census": "2013",
+    "name": "Ishøj",
+    "name:ca": "Municipi d'Ishøj",
+    "name:da": "Ishøj",
+    "name:de": "Ishöj",
+    "name:fo": "Ishøj kommuna",
+    "name:hu": "Ishøj község",
+    "name:id": "Pemukiman Ishøj",
+    "name:pl": "Gmina Ishøj",
+    "name:sv": "Ishøj kommun",
+    "name:zh": "伊斯霍伊自治市",
+    "place": "suburb",
+    "population": "19247",
+    "wikidata": "Q3196979",
+    "wikipedia": "da:Ishøj"
+  }
+},
+{
+  "type": "node",
+  "id": 393867097,
+  "lat": 55.5959126,
+  "lon": 12.3175125,
+  "tags": {
+    "name": "Hundige",
+    "place": "suburb",
+    "wikidata": "Q2386634",
+    "wikipedia": "da:Hundige"
+  }
+},
+{
+  "type": "node",
+  "id": 2940292452,
+  "lat": 55.6258418,
+  "lon": 12.3196515,
+  "tags": {
+    "name": "Smågårde",
+    "place": "hamlet",
+    "population": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 7908296067,
+  "lat": 55.6172294,
+  "lon": 12.3213132,
+  "tags": {
+    "bus": "yes",
+    "name": "Broenge",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 9021262792,
+  "lat": 55.6147881,
+  "lon": 12.3195280,
+  "tags": {
+    "fvst:navnelbnr": "125504",
+    "name": "Coffee Break",
+    "office": "company",
+    "ref:DK:cvr": "17558536",
+    "ref:DK:cvr:pnummer": "1001312543",
+    "website": "https://www.coffeebreak.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 9288032478,
+  "lat": 55.6148222,
+  "lon": 12.3196837,
+  "tags": {
+    "check_date": "2021-11-21",
+    "frequency": "50",
+    "location": "outdoor",
+    "man_made": "street_cabinet",
+    "name": "5817 Ishøj Baldershøj A",
+    "operator": "Nexel",
+    "operator:wikidata": "Q131350338",
+    "owner": "Radius Elnet",
+    "power": "substation",
+    "ref": "5817",
+    "substation": "minor_distribution",
+    "utility": "power",
+    "voltage": "10000;400"
+  }
+},
+{
+  "type": "node",
+  "id": 9324876021,
+  "lat": 55.6255367,
+  "lon": 12.3031694,
+  "tags": {
+    "name": "Ishøj Landsby",
+    "place": "village",
+    "population": "1031",
+    "wikidata": "Q1673908",
+    "wikipedia": "da:Ishøj Landsby"
+  }
+},
+{
+  "type": "node",
+  "id": 9938068022,
+  "lat": 55.6355424,
+  "lon": 12.3636210,
+  "tags": {
+    "census": "2013",
+    "name": "Vallensbæk Landsby",
+    "place": "village",
+    "population": "459",
+    "wikidata": "Q2125326"
+  }
+},
+{
+  "type": "node",
+  "id": 9938068027,
+  "lat": 55.6091175,
+  "lon": 12.2715890,
+  "tags": {
+    "name": "Kildebrønde",
+    "place": "village",
+    "population": "383",
+    "wikidata": "Q2036699",
+    "wikipedia": "da:Kildebrønde (Greve Kommune)"
+  }
+},
+{
+  "type": "node",
+  "id": 10908694875,
+  "lat": 55.6165382,
+  "lon": 12.3167220,
+  "tags": {
+    "fvst:navnelbnr": "1477741",
+    "name": "J-Ware Scandinavia",
+    "ref:DK:cvr": "40092293",
+    "ref:DK:cvr:pnummer": "1024213338",
+    "shop": "cannabis",
+    "website": "https://jware.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 10908694876,
+  "lat": 55.6156644,
+  "lon": 12.3156514,
+  "tags": {
+    "fvst:navnelbnr": "1109871",
+    "name": "Vinisimo",
+    "office": "logistics",
+    "product": "wine",
+    "ref:DK:cvr": "39899825",
+    "ref:DK:cvr:pnummer": "1023996606",
+    "website": "https://www.vinisimo.dk/"
+  }
+},
+{
+  "type": "node",
+  "id": 11078208324,
+  "lat": 55.6254701,
+  "lon": 12.3467445,
+  "tags": {
+    "name": "Tranegilde",
+    "place": "hamlet",
+    "population": "126",
+    "wikidata": "Q91453415",
+    "wikipedia": "da:Tranegilde"
+  }
+},
+{
+  "type": "node",
+  "id": 12752726547,
+  "lat": 55.6173681,
+  "lon": 12.3205475,
+  "tags": {
+    "bus": "yes",
+    "name": "Broenge",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "way",
+  "id": 26783669,
+  "center": {
+    "lat": 55.6104806,
+    "lon": 12.3221801
+  },
+  "tags": {
+    "name": "Ørnekæret",
+    "natural": "water"
+  }
+},
+{
+  "type": "way",
+  "id": 30492117,
+  "center": {
+    "lat": 55.6110233,
+    "lon": 12.3121234
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Lille Vejleå",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 54615960,
+  "center": {
+    "lat": 55.6157314,
+    "lon": 12.3235787
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696273,
+  "center": {
+    "lat": 55.6193855,
+    "lon": 12.3222692
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696274,
+  "center": {
+    "lat": 55.6167509,
+    "lon": 12.3216196
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696275,
+  "center": {
+    "lat": 55.6163466,
+    "lon": 12.3221175
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "yes",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696276,
+  "center": {
+    "lat": 55.6171985,
+    "lon": 12.3214650
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "culvert",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696359,
+  "center": {
+    "lat": 55.6148791,
+    "lon": 12.3259933
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "yes",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696361,
+  "center": {
+    "lat": 55.6149750,
+    "lon": 12.3256331
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696362,
+  "center": {
+    "lat": 55.6144903,
+    "lon": 12.3274719
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "yes",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696363,
+  "center": {
+    "lat": 55.6150678,
+    "lon": 12.3252847
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "yes",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696364,
+  "center": {
+    "lat": 55.6147063,
+    "lon": 12.3266450
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696390,
+  "center": {
+    "lat": 55.6141195,
+    "lon": 12.3291295
+  },
+  "tags": {
+    "boat": "no",
+    "layer": "-1",
+    "name": "Baldersbæk",
+    "tunnel": "yes",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696469,
+  "center": {
+    "lat": 55.6131057,
+    "lon": 12.3310097
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 112696547,
+  "center": {
+    "lat": 55.6091720,
+    "lon": 12.3235661
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Lille Vejleå",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "way",
+  "id": 544736135,
+  "center": {
+    "lat": 55.6108241,
+    "lon": 12.3146505
+  },
+  "tags": {
+    "landuse": "farmyard",
+    "name": "Pile Mølle"
+  }
+},
+{
+  "type": "way",
+  "id": 544736143,
+  "center": {
+    "lat": 55.6122428,
+    "lon": 12.3195308
+  },
+  "tags": {
+    "landuse": "farmyard",
+    "name": "Baldershøj"
+  }
+},
+{
+  "type": "way",
+  "id": 1177824556,
+  "center": {
+    "lat": 55.6143256,
+    "lon": 12.3282138
+  },
+  "tags": {
+    "boat": "no",
+    "name": "Baldersbæk",
+    "waterway": "stream"
+  }
+},
+{
+  "type": "relation",
+  "id": 80043,
+  "center": {
+    "lat": 54.9484609,
+    "lon": 11.6462973
+  },
+  "tags": {
+    "description": "E 47 Helsingborg - Lübeck",
+    "description:fr": "E 47 Helsingborg - Lübeck",
+    "e-road:class": "A-intermediate",
+    "name": "European route E47",
+    "name:en": "European route E47",
+    "name:fr": "Route européenne E 47",
+    "name:nl": "Europese route E47",
+    "name:sk": "Európska cesta E47",
+    "network": "e-road",
+    "ref": "E 47",
+    "route": "road",
+    "type": "route",
+    "wikidata": "Q692012",
+    "wikipedia": "en:European route E47"
+  }
+},
+{
+  "type": "relation",
+  "id": 1320370,
+  "center": {
+    "lat": 55.2848316,
+    "lon": 11.7110093
+  },
+  "tags": {
+    "ISO3166-2": "DK-85",
+    "admin_level": "4",
+    "boundary": "administrative",
+    "name": "Region Sjælland",
+    "name:ca": "Regió de Sjælland",
+    "name:da": "Region Sjælland",
+    "name:de": "Region Seeland",
+    "name:en": "Region Zealand",
+    "name:eo": "Regiono Sjælland",
+    "name:es": "Región de Selandia",
+    "name:et": "Sjællandi piirkond",
+    "name:eu": "Seelandia eskualdea",
+    "name:fa": "استان شیلند",
+    "name:fi": "Sjællandin alue",
+    "name:frr": "Regiuun Sjælland",
+    "name:fy": "Seelân",
+    "name:hu": "Sjælland régió",
+    "name:hy": "Զելանդիա տարածաշրջան",
+    "name:ja": "シェラン地域",
+    "name:ka": "ზელანდიის რეგიონი",
+    "name:la": "Regio Silandiae",
+    "name:lt": "Zelandijos regionas",
+    "name:ms": "Wilayah Sjælland",
+    "name:nds": "Region Seeland",
+    "name:nl": "Seeland",
+    "name:pt": "Zelândia",
+    "name:ro": "Regiunea Sjælland",
+    "name:sco": "Region Zealand",
+    "name:se": "Sjællándda regiuvdna",
+    "name:sk": "Sjælland",
+    "name:sv": "Region Själland",
+    "ref": "1085",
+    "ref:nuts": "DK02",
+    "ref:nuts:2": "DK02",
+    "type": "boundary",
+    "wikidata": "Q26589",
+    "wikipedia": "da:Region Sjælland"
+  }
+},
+{
+  "type": "relation",
+  "id": 1320608,
+  "center": {
+    "lat": 55.5951782,
+    "lon": 13.4196985
+  },
+  "tags": {
+    "ISO3166-2": "DK-84",
+    "admin_level": "4",
+    "boundary": "administrative",
+    "flag": "File:Flag_of_the_Capital_Region_of_Denmark.svg",
+    "name": "Region Hovedstaden",
+    "name:bg": "Столична област",
+    "name:ce": "Коьрта гӀалин регион",
+    "name:cs": "Hovedstaden",
+    "name:da": "Region Hovedstaden",
+    "name:de": "Hauptstadtregion",
+    "name:en": "Capital Region of Denmark",
+    "name:eo": "Regiono Hovedstaden",
+    "name:es": "Región Capital",
+    "name:et": "Pealinna piirkond",
+    "name:fi": "Pääkaupunkialue",
+    "name:frr": "Regiuun Hovedstaden",
+    "name:gv": "Ard Preeu-valjagh ny Danvarg",
+    "name:hu": "Fővárosi régió",
+    "name:hy": "Մայրաքաղաքային տարածաշրջան",
+    "name:ka": "დედაქალაქის რეგიონი",
+    "name:kk": "Астаналық облыс",
+    "name:ko": "덴마크 수도 지역",
+    "name:la": "Regio Capitis",
+    "name:lt": "Sostinės regionas",
+    "name:mk": "Престолнински регион",
+    "name:ms": "Wilayah Hovedstaden",
+    "name:nds": "Hööftstadt-Region",
+    "name:nl": "Hoofdstad",
+    "name:os": "Сæйраг сахары облæст",
+    "name:pl": "Region Stołeczny",
+    "name:pt": "Região da Capital",
+    "name:ro": "Regiunea Hovedstaden",
+    "name:ru": "Столичная область",
+    "name:se": "Oaivegávpoga regiuvdna",
+    "name:sk": "Hovedstaden",
+    "name:sv": "Region Huvudstaden",
+    "name:uk": "Столичний регіон",
+    "name:vi": "Vùng thủ đô Đan Mạch",
+    "ref": "1084",
+    "ref:nuts": "DK01",
+    "ref:nuts:2": "DK01",
+    "type": "boundary",
+    "wikidata": "Q26073",
+    "wikipedia": "da:Region Hovedstaden"
+  }
+},
+{
+  "type": "relation",
+  "id": 2180074,
+  "center": {
+    "lat": 55.5876902,
+    "lon": 12.2506211
+  },
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Greve Kommune",
+    "name:ca": "Municipi de Greve",
+    "name:da": "Greve Kommune",
+    "name:en": "Greve Municipality",
+    "name:fi": "Greven kunta",
+    "name:fo": "Greve kommuna",
+    "name:frr": "Greve Komuun",
+    "name:id": "Munisipalitas Greve",
+    "name:nds": "Kommun Greve",
+    "name:nn": "Greve kommune",
+    "name:no": "Greve kommune",
+    "name:pl": "Gmina Greve",
+    "name:sv": "Greve kommun",
+    "population": "49518",
+    "ref": "253",
+    "type": "boundary",
+    "wikidata": "Q504977",
+    "wikipedia": "da:Greve Kommune"
+  }
+},
+{
+  "type": "relation",
+  "id": 2187055,
+  "center": {
+    "lat": 55.6158009,
+    "lon": 12.3051869
+  },
+  "tags": {
+    "admin_level": "7",
+    "boundary": "administrative",
+    "name": "Ishøj Kommune",
+    "name:ca": "Municipi d'Ishøj",
+    "name:da": "Ishøj Kommune",
+    "name:en": "Ishøj Municipality",
+    "name:fi": "Ishøjin kunta",
+    "name:fo": "Ishøj kommuna",
+    "name:frr": "Ishøj Komuun",
+    "name:gv": "Baljaght Ishøj",
+    "name:hu": "Ishøj község",
+    "name:id": "Munisipalitas Ishøj",
+    "name:nds": "Kommun Ishøj",
+    "name:nn": "Ishøj kommune",
+    "name:no": "Ishøj kommune",
+    "name:pl": "Gmina Ishøj",
+    "name:sv": "Ishøjs kommun",
+    "ref": "183",
+    "type": "boundary",
+    "wikidata": "Q502040",
+    "wikipedia": "da:Ishøj Kommune"
+  }
+},
+{
+  "type": "relation",
+  "id": 2527989,
+  "center": {
+    "lat": 55.4659137,
+    "lon": 10.6246824
+  },
+  "tags": {
+    "name": "E 20 Denmark",
+    "name:nl": "E20 Denemarken",
+    "network": "e-road",
+    "ref": "E 20",
+    "route": "road",
+    "section": "Denmark",
+    "type": "route",
+    "wikidata": "Q987346"
+  }
+},
+{
+  "type": "relation",
+  "id": 2566709,
+  "center": {
+    "lat": 55.0979926,
+    "lon": 12.2711852
+  },
+  "tags": {
+    "name": "European route E 55 (Denmark)",
+    "name:cs": "Evropská silnice E55 (Dánsko)",
+    "name:en": "European route E 55 (Denmark)",
+    "name:nl": "Europese route E55 (Denemarken)",
+    "name:sk": "Európska cesta E 55 (Dánsko)",
+    "network": "e-road",
+    "ref": "E 55",
+    "route": "road",
+    "section": "Denmark",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 5656531,
+  "center": {
+    "lat": 55.3303142,
+    "lon": 11.9430111
+  },
+  "tags": {
+    "description": "Road, ﻿København -> ﻿Rødbyhavn",
+    "name": "Fugleflugtslinjen",
+    "name:de": "Vogelfluglinie",
+    "route": "road",
+    "type": "route",
+    "wikidata": "Q559660",
+    "wikipedia": "da:Fugleflugtslinjen"
+  }
+},
+{
+  "type": "relation",
+  "id": 5656532,
+  "center": {
+    "lat": 55.2064508,
+    "lon": 11.9341101
+  },
+  "tags": {
+    "description": "(Road, ﻿﻿Rødbyhavn -> København)",
+    "name": "Fugleflugtslinjen",
+    "name:da": "Fugleflugtslinjen",
+    "name:de": "Vogelfluglinie",
+    "route": "road",
+    "type": "route",
+    "wikidata": "Q559660",
+    "wikipedia": "da:Fugleflugtslinjen"
+  }
+},
+{
+  "type": "relation",
+  "id": 5754039,
+  "center": {
+    "lat": 53.7970292,
+    "lon": 8.4483103
+  },
+  "tags": {
+    "from": "Kopenhagen Ingerslevsgade",
+    "name": "Flixbus N844: Kopenhagen Ingerslevsgade => Rotterdam Centraal",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N844",
+    "route": "bus",
+    "to": "Rotterdam Centraal",
+    "type": "route",
+    "website": "https://www.flixbus.de/busverbindung/fernbus-kopenhagen-kobenhavn-rotterdam"
+  }
+},
+{
+  "type": "relation",
+  "id": 5754040,
+  "center": {
+    "lat": 53.7962121,
+    "lon": 8.4450206
+  },
+  "tags": {
+    "from": "Rotterdam Centraal",
+    "name": "Flixbus N844: Rotterdam Centraal => Kopenhagen Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N844",
+    "route": "bus",
+    "to": "Kopenhagen Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744510,
+  "center": {
+    "lat": 55.1217999,
+    "lon": 12.2096045
+  },
+  "tags": {
+    "from": "Gedser, færgehavn",
+    "name": "Flixbus N1376(part DK): Gedser, færgehavn => København, Ingerslevsgade",
+    "name:da": "Flixbus N1376(part DK): Gedser, færgehavn => København, Ingerslevsgade",
+    "name:de": "Flixbus N1376(part DK): Gedser, Fährhafen => Kopenhagen, Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N1376",
+    "route": "bus",
+    "to": "København, Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744513,
+  "center": {
+    "lat": 55.1226700,
+    "lon": 12.2113913
+  },
+  "tags": {
+    "from": "København, Ingerslevsgade",
+    "name": "Flixbus N1376(part DK): København, Ingerslevsgade => Gedser, færgehavn",
+    "name:da": "Flixbus N1376(part DK): København, Ingerslevsgade => Gedser, færgehavn",
+    "name:de": "Flixbus N1376(part DK): Kopenhagen, Ingerslevsgade => Gedser, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N1376",
+    "route": "bus",
+    "to": "Gedser, færgehavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744514,
+  "center": {
+    "lat": 55.1217999,
+    "lon": 12.2096045
+  },
+  "tags": {
+    "from": "Gedser, færgehavn",
+    "name": "Flixbus N232(part DK): Gedser, færgehavn => København, Ingerslevsgade",
+    "name:da": "Flixbus N232(part DK): Gedser, færgehavn => København, Ingerslevsgade",
+    "name:de": "Flixbus N232(part DK): Gedser, Fährhafen => Kopenhagen, Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N232",
+    "route": "bus",
+    "to": "København, Ingerslevsgade",
+    "type": "route",
+    "website": "https://www.muenchen-zob.de/de/carriers/1/connections/N232"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744517,
+  "center": {
+    "lat": 55.1226700,
+    "lon": 12.2113913
+  },
+  "tags": {
+    "from": "København, Ingerslevsgade",
+    "name": "Flixbus N232(part DK): København, Ingerslevsgade => Gedser, færgehavn",
+    "name:da": "Flixbus N232(part DK): København, Ingerslevsgade => Gedser, færgehavn",
+    "name:de": "Flixbus N232(part DK): Kopenhagen, Ingerslevsgade => Gedser, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N232",
+    "route": "bus",
+    "to": "Gedser, færgehavn",
+    "type": "route",
+    "website": "https://www.muenchen-zob.de/de/carriers/1/connections/N232"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744523,
+  "center": {
+    "lat": 56.9615933,
+    "lon": 14.9536182
+  },
+  "tags": {
+    "from": "Stockholm, Cityterminalen",
+    "name": "Flixbus N32 (Skandinaviska delen): Stockholm, Cityterminalen => Gedser Færgehavn",
+    "name:da": "Flixbus N32 (part Scandinavia): Stockholm, Cityterminalen => Gedser Færgehavn",
+    "name:de": "Flixbus N32 (part Scandinavia): Stockholm, Cityterminalen => Gedser, Fährhafen",
+    "name:sv": "Flixbus N32 (Skandinaviska delen): Stockholm, Cityterminalen => Gedser, färjehamnen",
+    "network": "Flixbus",
+    "network:website": "https://global.flixbus.com/",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N32",
+    "route": "bus",
+    "to": "Gedser, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744524,
+  "center": {
+    "lat": 56.9603778,
+    "lon": 14.9551406
+  },
+  "tags": {
+    "from": "Gedser, Fährhafen",
+    "name": "Flixbus N32 (part Scandinavia): Gedser, Færgehavn => Stockholm, Cityterminalen",
+    "name:da": "Flixbus N32 (part Scandinavia): Gedser, Færgehavn => Stockholm, Cityterminalen",
+    "name:de": "Flixbus N32 (part Scandinavia): Gedser, Fährhafen => Stockholm, Cityterminalen",
+    "name:sv": "Flixbus N32 (Skandinaviska delen): Gedser, färjehamn => Stockholm, Cityterminalen",
+    "network": "Flixbus",
+    "network:website": "https://global.flixbus.com/",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N32",
+    "route": "bus",
+    "to": "Stockholm, Cityterminalen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744527,
+  "center": {
+    "lat": 55.1226700,
+    "lon": 12.4254513
+  },
+  "tags": {
+    "from": "Malmö, Centralstation",
+    "name": "Flixbus 032 (part Scandinavia): Malmö, Centralstation => Gedser Færgehavn",
+    "name:da": "Flixbus 032 (part Scandinavia): Malmö, Centralstation => Gedser Færgehavn",
+    "name:de": "Flixbus 032 (part Scandinavia): Malmö, Centralstation => Gedser, Fährhafen",
+    "name:sv": "Flixbus 032 (Skandinaviska delen): Malmö, Centralstation => Gedser, färjehamn",
+    "network": "Flixbus",
+    "network:website": "https://global.flixbus.com/",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Umbrella Coach & Buses, KDE Reisen",
+    "public_transport:version": "2",
+    "ref": "032",
+    "route": "bus",
+    "to": "Gedser, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744529,
+  "center": {
+    "lat": 55.1226700,
+    "lon": 12.4376980
+  },
+  "tags": {
+    "from": "Gedser, Fährhafen",
+    "name": "Flixbus 032 (part Scandinavia): Gedser, Fährhafen => Malmö, Centralstation",
+    "name:da": "Flixbus 032 (part Scandinavia): Gedser, færgehavn => Malmö, Centralstation",
+    "name:de": "Flixbus 032 (part Scandinavia): Gedser, Fährhafen => Malmö, Centralstation",
+    "name:sv": "Flixbus 032 (Skandinaviska delen): Gedser, färjehamn => Malmö, centralstation",
+    "network": "Flixbus",
+    "network:website": "https://global.flixbus.com/",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Umbrella Coach & Buses, KDE Reisen",
+    "public_transport:version": "2",
+    "ref": "032",
+    "route": "bus",
+    "to": "Malmö, Centralstation",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744901,
+  "center": {
+    "lat": 55.3432524,
+    "lon": 11.9837847
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Helsingør, Fährhafen",
+    "name": "Flixbus 173(part DK): Helsingør, Fährhafen => Rødby Færgehavn",
+    "name:da": "Flixbus 173(part DK): Helsingør, færgehavn => Rødby, færgehavn",
+    "name:de": "Flixbus 173(part DK): Helsingør, Fährhafen => Rødby, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "173",
+    "route": "bus",
+    "to": "Rødby, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744904,
+  "center": {
+    "lat": 55.3432524,
+    "lon": 11.9837847
+  },
+  "tags": {
+    "from": "Rødby, Fährhafen",
+    "name": "Flixbus 173(part DK): Rødby, Fährhafen => Helsingør, Færgehavn",
+    "name:da": "Flixbus 173(part DK): Rødby, færgehavn => Helsingør, Færgehavn",
+    "name:de": "Flixbus 173(part DK): Rødby, Fährhafen => Helsingør, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "173",
+    "route": "bus",
+    "to": "Helsingør, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744913,
+  "center": {
+    "lat": 55.1625797,
+    "lon": 11.9617487
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Kopenhagen Ingerslevsgade",
+    "name": "Flixbus N05(part DK): Kopenhagen Ingerslevsgade => Rødby, Fährhafen",
+    "name:da": "Flixbus N05(part DK): Københavns Ingerslevsgade => Rødby, færgehavn",
+    "name:de": "Flixbus N05(part DK): Kopenhagen Ingerslevsgade => Rødby, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Umbrella Coach & Buses",
+    "public_transport:version": "2",
+    "ref": "N05",
+    "route": "bus",
+    "to": "Rødby, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10744914,
+  "center": {
+    "lat": 55.1617096,
+    "lon": 11.9584590
+  },
+  "tags": {
+    "from": "Rødby, Fährhafen",
+    "name": "Flixbus N05(part DK): Rødby, Fährhafen => København Ingerslevsgade",
+    "name:da": "Flixbus N05(part DK): Rødby, færgehavn => Københavns Ingerslevsgade",
+    "name:de": "Flixbus N05(part DK): Rødby, Fährhafen => Kopenhagen Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Umbrella Coach & Buses",
+    "public_transport:version": "2",
+    "ref": "N05",
+    "route": "bus",
+    "to": "Kopenhagen Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10773363,
+  "center": {
+    "lat": 55.1617096,
+    "lon": 11.9584590
+  },
+  "tags": {
+    "from": "Rødby, Fährhafen",
+    "name": "Flixbus 073(part DK): Rødby, Fährhafen => København Ingerslevsgade",
+    "name:da": "Flixbus 073(part DK): Rødby, færgehavn => København Ingerslevsgade",
+    "name:de": "Flixbus 073(part DK): Rødby, Fährhafen => Kopenhagen Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "073",
+    "route": "bus",
+    "to": "Kopenhagen Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10773364,
+  "center": {
+    "lat": 55.1625797,
+    "lon": 11.9617487
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Kopenhagen Ingerslevsgade",
+    "name": "Flixbus 073(part DK): Københavns Ingerslevsgade => Rødby, færgehavn",
+    "name:da": "Flixbus 073(part DK): Københavns Ingerslevsgade => Rødby, færgehavn",
+    "name:de": "Flixbus 073(part DK): Kopenhagen Ingerslevsgade => Rødby, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "073",
+    "route": "bus",
+    "to": "Rødby, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10773769,
+  "center": {
+    "lat": 54.0425546,
+    "lon": 11.2559783
+  },
+  "tags": {
+    "coach": "yes",
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Lund, busstation",
+    "name": "Flixbus N73: Lund, busstation => Hannover ZOB",
+    "name:da": "Flixbus N73: Lund, busstation => Hannover central busstation",
+    "name:de": "Flixbus N73: Lund, Busbahnhof => Hannover ZOB",
+    "name:sv": "Flixbus N73: Lund, busstation => Hannover centralbussstation",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N73",
+    "route": "bus",
+    "to": "Hannover ZOB",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 10773770,
+  "center": {
+    "lat": 54.0430942,
+    "lon": 11.2621082
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Hannover ZOB",
+    "name": "Flixbus N73: Hannover ZOB => Lund, busstation",
+    "name:da": "Flixbus N73: Hannover central busstation => Lund, busstation",
+    "name:de": "Flixbus N73: Hannover ZOB => Lund, Busbahnhof",
+    "name:sv": "Flixbus N73: Hannover centralbussstation => Lund, busstation",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N73",
+    "route": "bus",
+    "to": "Lund, busstation",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11274690,
+  "center": {
+    "lat": 55.1617096,
+    "lon": 11.9584590
+  },
+  "tags": {
+    "from": "Rødby, Fährhafen",
+    "name": "Flixbus N110(part DK): Rødby, Fährhafen => København Ingerslevsgade",
+    "name:da": "Flixbus N110(part DK): Rødby, færgehavn => København Ingerslevsgade",
+    "name:de": "Flixbus N110(part DK): Rødby, Fährhafen => Kopenhagen Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N110",
+    "route": "bus",
+    "to": "Kopenhagen Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11274691,
+  "center": {
+    "lat": 55.1625797,
+    "lon": 11.9617487
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Kopenhagen Ingerslevsgade",
+    "name": "Flixbus N110(part DK): Kopenhagen Ingerslevsgade => Rødby, Fährhafen",
+    "name:da": "Flixbus N110(part DK): Københavns Ingerslevsgade => Rødby, færgehavn",
+    "name:de": "Flixbus N110(part DK): Kopenhagen Ingerslevsgade => Rødby, Fährhafen",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "N110",
+    "route": "bus",
+    "to": "Rødby, Fährhafen",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11373703,
+  "center": {
+    "lat": 55.2901082,
+    "lon": 10.9589200
+  },
+  "tags": {
+    "from": "Sønderborg Busstation",
+    "name": "Flixbus 627: Sønderborg Busstation => København Ingerslevsgade",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "627",
+    "route": "bus",
+    "to": "København Ingerslevsgade",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11373704,
+  "center": {
+    "lat": 55.2909783,
+    "lon": 10.9620491
+  },
+  "tags": {
+    "from": "København Ingerslevsgade",
+    "name": "Flixbus 627: København Ingerslevsgade => Sønderborg, Busstation",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "627",
+    "route": "bus",
+    "to": "Sønderborg, Busstation",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11373905,
+  "center": {
+    "lat": 55.4850299,
+    "lon": 10.5587374
+  },
+  "tags": {
+    "from": "Københavns Lufthavn",
+    "name": "Flixbus 625: Københavns Lufthavn => Esbjerg Rutebilstation",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "625",
+    "route": "bus",
+    "to": "Esbjerg Rutebilstation",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11373906,
+  "center": {
+    "lat": 55.4849828,
+    "lon": 10.5556530
+  },
+  "tags": {
+    "from": "Esbjerg Rutebilstation",
+    "name": "Flixbus 625: Esbjerg Rutebilstation => Københavns Lufthavn",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "625",
+    "route": "bus",
+    "to": "Københavns Lufthavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11374759,
+  "center": {
+    "lat": 55.5802520,
+    "lon": 11.0938595
+  },
+  "tags": {
+    "from": "Horsens Trafikterminal",
+    "name": "Flixbus 633: Horsens Trafikterminal => Københavns Lufthavn",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "633",
+    "route": "bus",
+    "to": "Københavns Lufthavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11374760,
+  "center": {
+    "lat": 55.5805012,
+    "lon": 11.0968309
+  },
+  "tags": {
+    "from": "Københavns Lufthavn",
+    "name": "Flixbus 633: Københavns Lufthavn => Horsens Trafikterminal",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "633",
+    "route": "bus",
+    "to": "Horsens Trafikterminal",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11374882,
+  "center": {
+    "lat": 55.3043862,
+    "lon": 11.5433115
+  },
+  "tags": {
+    "description": "Start, end, and stop locations have not been verified. This route may be out of service long-term and may not match the actual route (2026)",
+    "from": "Rudkøbing Færge Terminal",
+    "name": "Flixbus 628: Rudkøbing Færge Terminal => Københavns Lufthavn",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "628",
+    "route": "bus",
+    "to": "Københavns Lufthavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11374883,
+  "center": {
+    "lat": 55.3044758,
+    "lon": 11.5462371
+  },
+  "tags": {
+    "description": "Start, end, and stop locations have not been verified. This route may be out of service long-term and may not match the actual route (2026)",
+    "from": "Københavns Lufthavn",
+    "name": "Flixbus 628: Københavns Lufthavn => Rudkøbing Færge Terminal",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "628",
+    "route": "bus",
+    "to": "Rudkøbing Færge Terminal",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11375124,
+  "center": {
+    "lat": 55.7258709,
+    "lon": 11.1060709
+  },
+  "tags": {
+    "from": "Københavns Lufthavn",
+    "name": "Flixbus 620: Københavns Lufthavn => Aarhus C",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "620",
+    "route": "bus",
+    "to": "Aarhus C",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11375125,
+  "center": {
+    "lat": 55.7258237,
+    "lon": 11.1029934
+  },
+  "tags": {
+    "from": "Aarhus C",
+    "name": "Flixbus 620: Aarhus C => Københavns Lufthavn",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "620",
+    "route": "bus",
+    "to": "Københavns Lufthavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11375177,
+  "center": {
+    "lat": 56.1699026,
+    "lon": 11.1060709
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Københavns Lufthavn",
+    "name": "Flixbus 621: Københavns Lufthavn => Aalborg Busterminal",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "621",
+    "route": "bus",
+    "to": "Aalborg Busterminal",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 11375178,
+  "center": {
+    "lat": 56.1699047,
+    "lon": 11.1029934
+  },
+  "tags": {
+    "description": "The start, end, and stop locations have not been verified. This route may be out of service for an extended period and may not match the actual route (2026)",
+    "from": "Aalborg Busterminal",
+    "name": "Flixbus 621: Aalborg Busterminal => Københavns Lufthavn",
+    "network": "Flixbus",
+    "network:wikidata": "Q15712258",
+    "network:wikipedia": "en:FlixBus",
+    "operator": "Flixbus",
+    "public_transport:version": "2",
+    "ref": "621",
+    "route": "bus",
+    "to": "Københavns Lufthavn",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 18528047,
+  "center": {
+    "lat": 55.6189817,
+    "lon": 12.2838808
+  },
+  "tags": {
+    "name": "Lille Vejleå",
+    "type": "waterway"
+  }
+},
+{
+  "type": "relation",
+  "id": 18987141,
+  "center": {
+    "lat": 55.6907347,
+    "lon": 12.3856621
+  },
+  "tags": {
+    "from": "Lyngby St.",
+    "name": "Bus 400S: Lyngby St. => Ishøj St.",
+    "network": "Movia",
+    "network:bus": "Movia",
+    "network:wikidata": "Q3359392",
+    "operator": "Movia",
+    "public_transport:version": "2",
+    "ref": "400S",
+    "route": "bus",
+    "to": "Ishøj St.",
+    "type": "route"
+  }
+},
+{
+  "type": "relation",
+  "id": 18987142,
+  "center": {
+    "lat": 55.6906896,
+    "lon": 12.3855196
+  },
+  "tags": {
+    "from": "Ishøj St.",
+    "name": "Bus 400S: Ishøj St. => Lyngby St.",
+    "network": "Movia",
+    "network:bus": "Movia",
+    "network:wikidata": "Q3359392",
+    "operator": "Movia",
+    "public_transport:version": "2",
+    "ref": "400S",
+    "route": "bus",
+    "to": "Lyngby St.",
+    "type": "route"
+  }
+},
+{
+  "type": "sep",
+  "id": 6
+},
+{
+  "type": "node",
+  "id": 279803771,
+  "lat": 55.0304253,
+  "lon": 9.7927437,
+  "tags": {
+    "name": "Lunden",
+    "place": "hamlet",
+    "wikidata": "Q12325126",
+    "wikipedia": "da:Lunden (Havnbjerg Sogn)"
+  }
+},
+{
+  "type": "node",
+  "id": 279804658,
+  "lat": 55.0335131,
+  "lon": 9.8303561,
+  "tags": {
+    "name": "Himmark",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 282244429,
+  "lat": 55.0251466,
+  "lon": 9.7907267,
+  "tags": {
+    "name": "Brandsbøl",
+    "name:da": "Brandsbøl",
+    "name:de": "Brandsbüll",
+    "name:etymology": "Brands udflytterbebyggelse",
+    "place": "hamlet",
+    "population": "110",
+    "wikidata": "Q12304276",
+    "wikipedia": "da:Brandsbøl"
+  }
+},
+{
+  "type": "node",
+  "id": 318730618,
+  "lat": 55.0715288,
+  "lon": 9.7940302,
+  "tags": {
+    "name": "Lavensby Strand",
+    "name:da": "Lavensby Strand",
+    "name:de": "Lauensbyer Strand",
+    "place": "hamlet",
+    "population": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 1531293532,
+  "lat": 55.0278184,
+  "lon": 9.8314298,
+  "tags": {
+    "name": "Svenstrup",
+    "name:da": "Svenstrup",
+    "name:de": "Schwenstrup",
+    "place": "village",
+    "wikidata": "Q1993447",
+    "wikipedia": "da:Svenstrup (Als)"
+  }
+},
+{
+  "type": "node",
+  "id": 1531293580,
+  "lat": 55.0293926,
+  "lon": 9.8378446,
+  "tags": {
+    "name": "Torup",
+    "name:da": "Torup",
+    "name:de": "Tarup",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2698433476,
+  "lat": 55.0236465,
+  "lon": 9.8470652,
+  "tags": {
+    "name": "Klingbjerg",
+    "name:da": "Klingbjerg",
+    "name:de": "Klingenberg",
+    "place": "hamlet",
+    "population": "38",
+    "source:name": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3156947280,
+  "lat": 55.0342903,
+  "lon": 9.8660579,
+  "tags": {
+    "name": "Tårupstrand",
+    "name:da": "Tårupstrand",
+    "name:de": "Taruper Strand",
+    "place": "hamlet",
+    "population": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 3156948406,
+  "lat": 55.0387718,
+  "lon": 9.8102370,
+  "tags": {
+    "name": "Elsmark",
+    "place": "hamlet",
+    "population": "15",
+    "wikidata": "Q12309886"
+  }
+},
+{
+  "type": "node",
+  "id": 3156950001,
+  "lat": 55.0345193,
+  "lon": 9.8135296,
+  "tags": {
+    "name": "Gildbro",
+    "place": "hamlet",
+    "population": "9",
+    "wikidata": "Q12313885"
+  }
+},
+{
+  "type": "node",
+  "id": 3156954369,
+  "lat": 55.0469159,
+  "lon": 9.8432967,
+  "tags": {
+    "name": "Karlsminde",
+    "place": "hamlet",
+    "population": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 3156957680,
+  "lat": 55.0596711,
+  "lon": 9.8156029,
+  "tags": {
+    "name": "Havnbjergskov",
+    "name:da": "Havnbjergskov",
+    "name:de": "Hagenbergholz",
+    "place": "hamlet",
+    "population": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 12456318374,
+  "lat": 55.0434488,
+  "lon": 9.8122700,
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "8",
+    "name": "Clever",
+    "name:en": "Clever AC",
+    "operator": "Clever",
+    "operator:wikidata": "Q114628418",
+    "socket:type2": "8",
+    "socket:type2:output": "22 kW"
+  }
+},
+{
+  "type": "node",
+  "id": 12960098582,
+  "lat": 55.0460361,
+  "lon": 9.8216699,
+  "tags": {
+    "branch": "Center Parcs Nordborg",
+    "brand": "Spar",
+    "brand:wikidata": "Q610492",
+    "fvst:name": "Supermarket",
+    "fvst:navnelbnr": "1472157",
+    "name": "Spar",
+    "ref:DK:cvr": "38139185",
+    "ref:DK:cvr:pnummer": "1031018419",
+    "shop": "supermarket"
+  }
+},
+{
+  "type": "node",
+  "id": 12960098583,
+  "lat": 55.0460245,
+  "lon": 9.8215331,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "fvst:navnelbnr": "1472156",
+    "name": "Rockets",
+    "ref:DK:cvr": "38139185",
+    "ref:DK:cvr:pnummer": "1031018419"
+  }
+},
+{
+  "type": "node",
+  "id": 12960098584,
+  "lat": 55.0461229,
+  "lon": 9.8216524,
+  "tags": {
+    "amenity": "cafe",
+    "fvst:navnelbnr": "1472155",
+    "name": "Market Café",
+    "ref:DK:cvr": "38139185",
+    "ref:DK:cvr:pnummer": "1031018419"
+  }
+},
+{
+  "type": "node",
+  "id": 12960098585,
+  "lat": 55.0460883,
+  "lon": 9.8219005,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "buffet",
+    "fvst:navnelbnr": "1472153",
+    "name": "Market Restaurant",
+    "ref:DK:cvr": "38139185",
+    "ref:DK:cvr:pnummer": "1031018419",
+    "website": "https://www.centerparcs.dk/dk-da/danmark/fp_NO_naturresort-park-nordborg-resort/restauranter"
+  }
+},
+{
+  "type": "node",
+  "id": 13447053257,
+  "lat": 55.0452398,
+  "lon": 9.8210869,
+  "tags": {
+    "leisure": "water_park",
+    "name": "Aqua Mundo"
+  }
+},
+{
+  "type": "way",
+  "id": 36987089,
+  "center": {
+    "lat": 55.0429721,
+    "lon": 9.8306594
+  },
+  "tags": {
+    "alt_name": "Æ Nyku",
+    "name": "Elsmark Skov",
+    "name:de": "Elsmarkholz",
+    "natural": "wood",
+    "source:alt_name": "wooden signs;local_knowledge",
+    "source:name": "SDFE Skærmkortet"
+  }
+},
+{
+  "type": "way",
+  "id": 128723723,
+  "center": {
+    "lat": 55.0474016,
+    "lon": 9.8275115
+  },
+  "tags": {
+    "name": "Elskov",
+    "natural": "wood",
+    "source": "signpost"
+  }
+},
+{
+  "type": "way",
+  "id": 1442189546,
+  "center": {
+    "lat": 55.0467658,
+    "lon": 9.8253429
+  },
+  "tags": {
+    "alt_name": "Nordborg Resort",
+    "contact:instagram": "https://www.instagram.com/centerparcsnordborgresort/",
+    "contact:linkedin": "https://www.linkedin.com/company/center-parcs-nordborg-resort",
+    "description": "Holiday resort consisting of 440 apartments, 7200 m2 aqua dome & 300 m walkable pier into Lillebælt.",
+    "facebook": "https://www.facebook.com/centerparcsdnk",
+    "leisure": "resort",
+    "name": "Center Parcs Nordborg Resort",
+    "opening_date": "2025-08-01",
+    "operator": "Center Parcs Europe B.V.",
+    "resort": "resort",
+    "website": "https://www.centerparcs.dk/dk-da/danmark/fp_NO_naturresort-park-domaine-nordborg-resort"
+  }
+},
+{
+  "type": "way",
+  "id": 1513926336,
+  "center": {
+    "lat": 55.0474932,
+    "lon": 9.8235436
+  },
+  "tags": {
+    "animal": "cow;goat;sheep;chicken;pig;horse;turkey",
+    "attraction": "animal",
+    "description": "Besøgsgård / formidlingsgård med heste, smågrise, høns, geder, får, kalkuner og ammekøer/slagtekalve. Gæster kan klappe og fodre dyrene.",
+    "leisure": "petting_zoo",
+    "name": "Besøgsgården",
+    "name:da": "Besøgsgården",
+    "name:en": "Kids Farm",
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "way",
+  "id": 1537486307,
+  "center": {
+    "lat": 55.0460153,
+    "lon": 9.8226871
+  },
+  "tags": {
+    "amenity": "charging_station",
+    "capacity": "22",
+    "name": "Personale",
+    "operator": "Norlys",
+    "operator:wikidata": "Q113466110",
+    "socket:type2": "22",
+    "socket:type2:output": "22 kW",
+    "website": "https://map.monta.com/lat=55.04647&lng=9.823315&zoom=15&cpSiteId=448468&"
+  }
+},
+{
+  "type": "relation",
+  "id": 6197909,
+  "center": {
+    "lat": 55.0434272,
+    "lon": 9.8322347
+  },
+  "tags": {
+    "description": "Runs counterclockwise (mod uret)",
+    "distance": "8",
+    "facebook": "https://www.facebook.com/groups/948661005208255/",
+    "mtb:difficulty": "easy",
+    "name": "Bittenlunden",
+    "note": "Efter officielle kort svt. rutens QR-kode er blevet opdateret, er der overensstemmelse.",
+    "roundtrip": "yes",
+    "route": "mtb",
+    "source:description": "survey (signs)",
+    "symbol": "Blue arrows",
+    "type": "route",
+    "url": "http://arcg.is/1NyREvm"
+  }
+},
+{
+  "type": "relation",
+  "id": 7447498,
+  "center": {
+    "lat": 55.0477014,
+    "lon": 9.7601351
+  },
+  "tags": {
+    "from": "Dyvig",
+    "name": "709 - Universe - Nordborg - Dyvvig",
+    "network": "Sydtrafik",
+    "network:wikidata": "Q12338112",
+    "network:wikipedia": "da:Sydtrafik",
+    "public_transport:version": "2",
+    "ref": "709",
+    "route": "bus",
+    "to": "Universe",
+    "type": "route",
+    "via": "Nordborg"
+  }
+},
+{
+  "type": "sep",
+  "id": 7
+},
+{
+  "type": "node",
+  "id": 124503347,
+  "lat": 54.9709123,
+  "lon": 9.9844446,
+  "tags": {
+    "name": "Pomose",
+    "name:etymology": "moseareal i nærheden",
+    "place": "hamlet",
+    "population": "10",
+    "wikidata": "Q134533527"
+  }
+},
+{
+  "type": "node",
+  "id": 124503486,
+  "lat": 54.9878426,
+  "lon": 9.9813057,
+  "tags": {
+    "name": "Fynshav",
+    "name:da": "Fynshav",
+    "name:de": "Fühnenshaff",
+    "place": "village",
+    "population": "832",
+    "wikidata": "Q1914675",
+    "wikipedia": "da:Fynshav"
+  }
+},
+{
+  "type": "node",
+  "id": 279804467,
+  "lat": 54.9824719,
+  "lon": 9.9182231,
+  "tags": {
+    "name": "Hundslev",
+    "name:da": "Hundslev",
+    "name:de": "Hundsleben",
+    "name:etymology:wikidata": "Q134593913",
+    "place": "hamlet",
+    "wikidata": "Q1856748",
+    "wikipedia": "da:Hundslev"
+  }
+},
+{
+  "type": "node",
+  "id": 1448956463,
+  "lat": 54.9663691,
+  "lon": 9.9744589,
+  "tags": {
+    "name": "Høgebjerg",
+    "natural": "hill",
+    "wikidata": "Q23747142"
+  }
+},
+{
+  "type": "node",
+  "id": 2698393045,
+  "lat": 54.9432946,
+  "lon": 10.0082047,
+  "tags": {
+    "name": "Ertebjerg",
+    "name:da": "Ertebjerg",
+    "name:de": "Erteberg",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3156815165,
+  "lat": 54.9380046,
+  "lon": 10.0011045,
+  "tags": {
+    "name": "Dyrehave",
+    "place": "hamlet",
+    "population": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 3156816195,
+  "lat": 54.9385447,
+  "lon": 9.9574354,
+  "tags": {
+    "name": "Neder Jestrup",
+    "name:da": "Neder Jestrup",
+    "name:de": "Nieder Jestrup",
+    "place": "hamlet",
+    "population": "12"
+  }
+},
+{
+  "type": "node",
+  "id": 3156816368,
+  "lat": 54.9367011,
+  "lon": 9.9674428,
+  "tags": {
+    "name": "Over Jestrup",
+    "name:da": "Over Jestrup",
+    "name:de": "Ober Jestrup",
+    "place": "hamlet",
+    "population": "9"
+  }
+},
+{
+  "type": "node",
+  "id": 3156816942,
+  "lat": 54.9466531,
+  "lon": 9.9312196,
+  "tags": {
+    "name": "Majled",
+    "name:da": "Majled",
+    "name:de": "Mailed",
+    "place": "hamlet",
+    "population": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 3156819566,
+  "lat": 54.9441621,
+  "lon": 9.9548149,
+  "tags": {
+    "name": "Pæleværk",
+    "name:da": "Pæleværk",
+    "name:de": "Pahlwerk",
+    "place": "hamlet",
+    "population": "10"
+  }
+},
+{
+  "type": "node",
+  "id": 3156830365,
+  "lat": 54.9496424,
+  "lon": 10.0241554,
+  "tags": {
+    "name": "Ertebjerghav",
+    "name:da": "Ertebjerghav",
+    "name:de": "Erteberghaff",
+    "place": "hamlet",
+    "population": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 3156831679,
+  "lat": 54.9485957,
+  "lon": 10.0031295,
+  "tags": {
+    "name": "Ertebjergryde",
+    "place": "hamlet",
+    "population": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 3156834127,
+  "lat": 54.9513128,
+  "lon": 9.9819124,
+  "tags": {
+    "name": "Pinnesholm",
+    "place": "hamlet",
+    "population": "29"
+  }
+},
+{
+  "type": "node",
+  "id": 3156836587,
+  "lat": 54.9679369,
+  "lon": 10.0051556,
+  "tags": {
+    "name": "Asserballeskov Strand",
+    "name:da": "Asserballeskov Strand",
+    "name:de": "Atzerballigholz-Strand",
+    "place": "hamlet",
+    "population": "33"
+  }
+},
+{
+  "type": "node",
+  "id": 3156845660,
+  "lat": 54.9578229,
+  "lon": 9.9327112,
+  "tags": {
+    "name": "Gammelgårde",
+    "name:da": "Gammelgårde",
+    "name:de": "Gammelgaard",
+    "name:etymology": "en af de ældste bygningsmæssigt faste gårde",
+    "place": "hamlet",
+    "population": "12",
+    "wikidata": "Q134532997"
+  }
+},
+{
+  "type": "node",
+  "id": 3156849286,
+  "lat": 54.9594265,
+  "lon": 9.9255171,
+  "tags": {
+    "name": "Gundestrup Mark",
+    "name:da": "Gundestrup Mark",
+    "name:de": "Gundstrupfeld",
+    "place": "hamlet",
+    "population": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 3156850734,
+  "lat": 54.9608579,
+  "lon": 9.9179292,
+  "tags": {
+    "name": "Skakkenborg",
+    "name:da": "Skakkenborg",
+    "name:de": "Schackenburg",
+    "place": "hamlet",
+    "population": "24"
+  }
+},
+{
+  "type": "node",
+  "id": 3156888990,
+  "lat": 54.9621568,
+  "lon": 9.9213919,
+  "tags": {
+    "name": "Blegebæk",
+    "name:da": "Blegebæk",
+    "name:de": "Blegebek",
+    "place": "hamlet",
+    "population": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 3156889923,
+  "lat": 54.9662250,
+  "lon": 9.9252328,
+  "tags": {
+    "name": "Asserballe Station",
+    "name:da": "Asserballe Station",
+    "name:de": "Atzerballig-Bahnhof",
+    "place": "hamlet",
+    "population": "67"
+  }
+},
+{
+  "type": "node",
+  "id": 3156890637,
+  "lat": 54.9639281,
+  "lon": 9.9317578,
+  "tags": {
+    "name": "Snur-om",
+    "name:da": "Snur-om",
+    "name:de": "Snurrum",
+    "place": "hamlet",
+    "population": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 3156898667,
+  "lat": 54.9740223,
+  "lon": 9.9418383,
+  "tags": {
+    "name": "Almsted",
+    "name:da": "Almsted",
+    "name:de": "Almstedt",
+    "place": "hamlet",
+    "population": "80",
+    "wikidata": "Q12301147",
+    "wikipedia": "da:Almsted"
+  }
+},
+{
+  "type": "node",
+  "id": 3156898846,
+  "lat": 54.9831317,
+  "lon": 9.9622875,
+  "tags": {
+    "name": "Padholm",
+    "name:etymology:wikidata": "Q10908",
+    "place": "hamlet",
+    "population": "12",
+    "wikidata": "Q134578100"
+  }
+},
+{
+  "type": "node",
+  "id": 3156903941,
+  "lat": 54.9872963,
+  "lon": 9.9536508,
+  "tags": {
+    "name": "Anholt",
+    "name:da": "Anholt",
+    "name:de": "Arnholt",
+    "name:etymology:wikidata": "Q2092297",
+    "place": "hamlet",
+    "population": "2",
+    "wikidata": "Q134578052"
+  }
+},
+{
+  "type": "node",
+  "id": 3156911296,
+  "lat": 54.9904096,
+  "lon": 9.9649732,
+  "tags": {
+    "name": "Katry",
+    "name:da": "Katry",
+    "name:de": "Kattry",
+    "place": "hamlet",
+    "population": "23"
+  }
+},
+{
+  "type": "node",
+  "id": 3156911350,
+  "lat": 54.9999056,
+  "lon": 9.9558572,
+  "tags": {
+    "name": "Helved",
+    "name:da": "Helved",
+    "name:de": "Hellwitt",
+    "name:etymology": "den hellige skov",
+    "name:etymology:wikidata": "Q12316189",
+    "place": "hamlet",
+    "population": "164",
+    "wikidata": "Q12316189"
+  }
+},
+{
+  "type": "node",
+  "id": 7559845854,
+  "lat": 54.9793707,
+  "lon": 9.9367377,
+  "tags": {
+    "name": "Notmark",
+    "name:de": "Nottmark",
+    "place": "hamlet",
+    "wikidata": "Q12329325"
+  }
+},
+{
+  "type": "node",
+  "id": 7560704204,
+  "lat": 54.9943162,
+  "lon": 9.9560309,
+  "tags": {
+    "name": "Frederiksgård",
+    "name:de": "Friedrichshof",
+    "name:etymology:wikidata": "Q134578070",
+    "place": "hamlet",
+    "wikidata": "Q134578066"
+  }
+},
+{
+  "type": "node",
+  "id": 8565866059,
+  "lat": 54.9657293,
+  "lon": 9.9547129,
+  "tags": {
+    "name": "Asserballe",
+    "name:de": "Atzerballig",
+    "name:etymology:wikidata": "Q21144097",
+    "place": "village",
+    "population": "303",
+    "wikidata": "Q741209",
+    "wikipedia": "da:Asserballe"
+  }
+},
+{
+  "type": "node",
+  "id": 12891769928,
+  "lat": 54.9498153,
+  "lon": 10.0104412,
+  "tags": {
+    "name": "Sønder Kettingskov",
+    "name:de": "Süder Kettingholz",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 94984574,
+  "center": {
+    "lat": 54.9663588,
+    "lon": 9.9703585
+  },
+  "tags": {
+    "alt_name": "Als Gokart Center",
+    "leisure": "sports_centre",
+    "name": "Sønderborg Racing Center",
+    "operator": "Als Gokart Klub",
+    "phone": "+45 74470048",
+    "sport": "motor",
+    "website": "https://alsgokartklub.dk/"
+  }
+},
+{
+  "type": "way",
+  "id": 131677255,
+  "center": {
+    "lat": 54.9650587,
+    "lon": 9.9764253
+  },
+  "tags": {
+    "landuse": "forest",
+    "name": "Asserballe Lyng"
+  }
+}
+
+  ]
+}

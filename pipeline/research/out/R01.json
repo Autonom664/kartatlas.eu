@@ -1,0 +1,751 @@
+[
+ {
+  "id": "way/180603207",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.travelocity.com/Go-Kart-Bahn-Sankt-Paul-im-Levanttal.d979107818193965056.Vacation-Attraction"
+  ],
+  "note": "Only travel-portal listings for a 'Go-Kart Bahn' near Landhotel Freitag; no operator or website found."
+ },
+ {
+  "id": "way/686206452",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Dellach im Gailtal."
+ },
+ {
+  "id": "way/145748431",
+  "name": "MJP Racing Arena",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.meinbezirk.at/rohrbach/c-sport/podium-ist-ziel-auch-wenn-es-bei-dieser-konkurrenz-schwierig-wird_a8827795",
+   "https://www.1000ps.de/veranstaltungen-id-3014470-reifen-bauer-trackday-2026-heisse-action-in-fuglau"
+  ],
+  "note": "Asphalt rallycross/supermoto circuit hosting 2026 trackdays; no evidence of karting or kart rental found."
+ },
+ {
+  "id": "way/874868038",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Eggenburg."
+ },
+ {
+  "id": "way/463095468",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Loosdorf."
+ },
+ {
+  "id": "way/1433379781",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online trace of a 'Triestingtal Ring' kart track found."
+ },
+ {
+  "id": "way/225023200",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Ternitz/Dunkelstein."
+ },
+ {
+  "id": "way/1103944247",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Natternbach."
+ },
+ {
+  "id": "node/6968981892",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.chargersracing.at/",
+  "websites": [
+   {
+    "url": "https://www.chargersracing.at/",
+    "role": "rental",
+    "name": "Chargers Racing"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.regionalsuche.at/erlebnisse/leonding/chargers-racing-die-e-kartbahn-fuer-die-ganze-familie/",
+   "https://www.mamilade.at/mami-check/mami-check-chargers-racing-kartfahren",
+   "https://www.tips.at/quiz/november2021"
+  ],
+  "note": "Electric-kart track on three levels (approx. 600 m) in the UNO shopping centre, Im Baeckerfeld 1; website unreachable during research so current status unconfirmed."
+ },
+ {
+  "id": "way/102912644",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Linz-Wegscheid; nearest known Linz venue is Rotax MAX Dome (different location)."
+ },
+ {
+  "id": "way/372514612",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Hoersching."
+ },
+ {
+  "id": "way/801526556",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for St. Gilgen/Abersee."
+ },
+ {
+  "id": "way/325759220",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No separate kart venue found in Hinterglemm; the valley's known track is Kartbahn Saalbach in Vorderglemm."
+ },
+ {
+  "id": "way/1015862393",
+  "name": "Kartbahn Saalbach",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+43 676 51 75 630",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.mamilade.at/sal/zell-am-see/ausflugstipps/spiel-freizeitparks/kartbahn-saalbach"
+  ],
+  "note": "Seasonal 370 m outdoor track at Vorderglemm 85, open May-Sep (info as of 2022), riders from age 7 / 140 cm."
+ },
+ {
+  "id": "way/427961612",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Gokart-Flachau.d979108109698080768.Vacation-Attraction"
+  ],
+  "note": "Only a travel-portal 'Gokart' attraction entry for Flachau; no operator found."
+ },
+ {
+  "id": "way/716911856",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Kapfenberg/Krottendorf."
+ },
+ {
+  "id": "way/1147658133",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Stubenberg am See."
+ },
+ {
+  "id": "node/3703616077",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+43 676 7086042",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "propane (LPG)",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.mamilade.at/vbg/feldkirch/ausflugstipps/sport/kartbahn-schneider-meiningen"
+  ],
+  "note": "Listed as a 570 m three-storey indoor track with propane karts; its known domain no longer resolves, so it may be closed."
+ },
+ {
+  "id": "way/144396456",
+  "name": "Racelandkart",
+  "type": "indoor",
+  "website": "https://racelandkart.be/",
+  "websites": [
+   {
+    "url": "https://racelandkart.be/",
+    "role": "rental",
+    "name": "Racelandkart"
+   }
+  ],
+  "phone": "+32 11 794 599",
+  "email": "info@racelandkart.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://racelandkart.be/",
+   "https://www.openingsuren.vlaanderen/karting"
+  ],
+  "note": "6000 m2 indoor entertainment centre at Kerkhofstraat 18C, Oudsbergen, with karting, kids karting, pitbikes and lasergame."
+ },
+ {
+  "id": "way/172406245",
+  "name": "Action Kart",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "011 22 22 88",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openingsuren.vlaanderen/karting/3500-hasselt"
+  ],
+  "note": "Directory lists Walenstraat 32A, Hasselt; actionkart.be now redirects to a domain-sale page, so the venue may be closed."
+ },
+ {
+  "id": "way/427997314",
+  "name": "The District (formerly Factory Kart)",
+  "type": "indoor",
+  "website": "https://thedistrict.be/",
+  "websites": [
+   {
+    "url": "https://thedistrict.be/",
+    "role": "venue",
+    "name": "The District"
+   }
+  ],
+  "phone": "+32 2 361 55 11",
+  "email": "info@thedistrict.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://thedistrict.be/",
+   "https://belgiqueinsolite.com/en/guide/factory-kart/"
+  ],
+  "note": "Indoor karting at A. Vaucampslaan 26, Huizingen (since 1994 as Indoor Karting Halle-Beersel/The Pole, Factory Kart from 2018); factorykart.be now redirects to The District; OSM outdoor tag likely wrong."
+ },
+ {
+  "id": "node/9811846018",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Karting-Grivegnee-Liege.d979108690609197056.Vacation-Attraction"
+  ],
+  "note": "Only travel-portal listings for 'Karting Grivegnee'; no operator found and may be outdated."
+ },
+ {
+  "id": "node/9364985457",
+  "name": "JM Karting Liège",
+  "type": "indoor",
+  "website": "https://jmkarting.com/liege/",
+  "websites": [
+   {
+    "url": "https://jmkarting.com/liege/",
+    "role": "rental",
+    "name": "JM Karting Liège"
+   }
+  ],
+  "phone": "+32 4 344 44 00",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://jmkarting.com/liege/",
+   "https://belgiqueinsolite.com/en/guide/jm-karting-liege/",
+   "https://www.quefaire.be/Jm-Karting-1021978.shtml"
+  ],
+  "note": "Rue Churchill 26, Fleron; recently rebuilt as a multi-level neon indoor track; site offers 9 CV and 13 CV kart sessions."
+ },
+ {
+  "id": "way/243837948",
+  "name": null,
+  "type": null,
+  "website": "https://bskarting.be/",
+  "websites": [
+   {
+    "url": "https://bskarting.be/",
+    "role": "rental",
+    "name": "Brussels South Karting"
+   }
+  ],
+  "phone": "+32 71 82 73 21",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://bskarting.be/",
+   "https://www.quefaire.be/Brussels-South-Karting-1032284.shtml"
+  ],
+  "note": "500 m track at Zoning Industriel 4, Frasnes-lez-Gosselies with 20 adult, 10 kids and 1 two-seater kart; sources do not say indoor or outdoor."
+ },
+ {
+  "id": "way/895692304",
+  "name": "ImagiPark",
+  "type": "outdoor",
+  "website": "https://www.imagipark.be/",
+  "websites": [
+   {
+    "url": "https://www.imagipark.be/",
+    "role": "venue",
+    "name": "ImagiPark"
+   }
+  ],
+  "phone": "+32 65 40 81 60",
+  "email": "imagipark@yahoo.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.visitmons.be/en/sports-et-loisirs/imagipark-166496"
+  ],
+  "note": "Leisure centre at Rue du Grand Large 1, Mons, with outdoor electric karting for teens/adults and a kids kart track."
+ },
+ {
+  "id": "way/34403881",
+  "name": "Karting Spa-Francorchamps (RACB)",
+  "type": "outdoor",
+  "website": "https://www.francorchamps-karting.be/",
+  "websites": [
+   {
+    "url": "https://www.francorchamps-karting.be/",
+    "role": "venue",
+    "name": "Karting Spa-Francorchamps"
+   }
+  ],
+  "phone": "+32 87 27 58 54",
+  "email": "info@francorchamps-karting.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.francorchamps-karting.be/",
+   "https://en.ardennes-etape.be/holiday-ardennes-Karting-216/Karting-de-Francorchamps-48.html"
+  ],
+  "note": "1092 m track at Route de l'Eau Rouge 51 beside the Spa circuit; open to rental karts, private karts and private motorbikes; solo drivers from 12 years/1.5 m."
+ },
+ {
+  "id": "way/106757628",
+  "name": "Karting at Plopsaland Ardennes (Coo)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://www.freizeitpark-welt.de/freizeitparks/plopsacoo/attraktionen/karting-r587",
+   "https://coasterpedia.net/wiki/Plopsa_Coo"
+  ],
+  "note": "Likely the petrol kart ride inside the Plopsa Coo amusement park (renamed Plopsaland Ardennes in 2025), included in park admission; location match inferred from coordinates."
+ },
+ {
+  "id": "way/99245645",
+  "name": "Karting de la Famenne",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "0496 36 98 81",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openingsuren.vlaanderen/karting"
+  ],
+  "note": "Directory lists Rue Baschamps 25, 6900 Aye; no website or kart details found."
+ },
+ {
+  "id": "way/163148631",
+  "name": "Planet Kart Mannheim",
+  "type": "indoor",
+  "website": "http://www.planetkart.de/",
+  "websites": [
+   {
+    "url": "http://www.planetkart.de/",
+    "role": "rental",
+    "name": "Planet Kart Mannheim"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/germany/planet-kart",
+   "https://freizeitinsider.de/lotse/go-kartbahn/weinheim/"
+  ],
+  "note": "Floesswoerthstrasse 48-50, 68199 Mannheim-Neckarau; indoor track with bridge/underpasses plus an outdoor extension used in good weather; match to OSM way inferred from location."
+ },
+ {
+  "id": "way/331597919",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online at Ruppurr/Ettlingen."
+ },
+ {
+  "id": "way/337772616",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "no",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Appears to be a motorsport club practice area (MSC Uebungsplatz); no public information found, probably not a public kart venue."
+ },
+ {
+  "id": "way/39772680",
+  "name": "Kartbahn Urloffen (RMSV Urloffen)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 7805 2844",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://aerialphotosearch.com/info/aerial-photos/racetrack-racecourse-gocart-bahn-rmsv-urloffen-appenweier-state-baden-wuerttemberg-313299.html",
+   "https://www.ortsdienst.de/baden-wuerttemberg/rastatt/lichtenau/kartbahn/"
+  ],
+  "note": "Club track of RMSV Urloffen e.V. at Mattenstrasse, Appenweier-Urloffen; directories give conflicting phone numbers and one marks it closed."
+ },
+ {
+  "id": "way/235586885",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.freizeitpark-welt.de/freizeitparks/spieleland/attraktionen/moon-racer-r651"
+  ],
+  "note": "Location is at Ravensburger Spieleland theme park (Meckenbeuren-Liebenau); likely its two-seat 'Moon Racer' kart ride, not a public kart venue."
+ },
+ {
+  "id": "way/954618039",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online at Krenkingen; the Kartbahn Waldshut (Auweg 27) is in a different part of town."
+ },
+ {
+  "id": "way/358492956",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Wildflecken."
+ },
+ {
+  "id": "way/91915769",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found online for Knetzgau."
+ }
+]

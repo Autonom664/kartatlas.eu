@@ -1,0 +1,456 @@
+[
+ {
+  "id": "node/60207296",
+  "name": "Indoor Karting Umkirch",
+  "town": "Umkirch",
+  "country": "Germany",
+  "websites": [
+   "https://www.sportpark-umkirch.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "town": "Unna",
+  "country": "Germany",
+  "websites": [
+   "https://battlekart.com/unna"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/174962870",
+  "name": "Kartbahn Brookmerland",
+  "town": "Upgant-Schott",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-ostfriesland.de/",
+   "https://kartbahn-ostfriesland.de/de/Kartsportverein/"
+  ],
+  "mapped_length_m": 754
+ },
+ {
+  "id": "way/328666276",
+  "name": "Karting-Paradies Vilsbiburg",
+  "town": "Vilsbiburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.karting-paradies.de"
+  ],
+  "mapped_length_m": 798
+ },
+ {
+  "id": "way/27658112",
+  "name": "ProKart Raceland",
+  "town": "Wackersdorf",
+  "country": "Germany",
+  "websites": [
+   "https://www.prokart-raceland.com/home/"
+  ],
+  "mapped_length_m": 1324
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "town": "Walldorf",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-walldorf-astoria.de"
+  ],
+  "mapped_length_m": 724
+ },
+ {
+  "id": "way/72708524",
+  "name": "Kartbahn Schönerlinde",
+  "town": "Wandlitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-schoenerlinde.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/143901665",
+  "name": "GPN Grand-Prix-Niederrhein",
+  "town": "Weeze",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-weeze.de",
+   "https://www.grand-prix-niederrhein.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "town": "Weil am Rhein",
+  "country": "Germany",
+  "websites": [
+   "https://kartraceland.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/164688996",
+  "name": "Kartbahn MSC-Oberflockenbach",
+  "town": "Weinheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.msc-oberflockenbach.de/"
+  ],
+  "mapped_length_m": 372
+ },
+ {
+  "id": "way/33529699",
+  "name": "F1 motodrom",
+  "town": "Wernau (Neckar)",
+  "country": "Germany",
+  "websites": [
+   "https://f1-motodrom.de/"
+  ],
+  "mapped_length_m": 173
+ },
+ {
+  "id": "node/587974059",
+  "name": "Kartbahn Werther",
+  "town": "Werther (Westf.)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-werther.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/87497403",
+  "name": "SK Raceworld",
+  "town": "Wildeshausen",
+  "country": "Germany",
+  "websites": [
+   "https://sk-raceworld.de/"
+  ],
+  "mapped_length_m": 523
+ },
+ {
+  "id": "way/336869541",
+  "name": "Kart- & Bowlingcenter Willingen",
+  "town": "Willingen (Upland)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-willingen.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "town": "Winterberg",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartfun-astenberg.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12547718882",
+  "name": "Kartbahn Wittenburg im Alpincenter",
+  "town": "Wittenburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "mapped_length_m": 1143
+ },
+ {
+  "id": "way/837980941",
+  "name": "FöhrRing Kartbahn",
+  "town": "Wyk auf Föhr",
+  "country": "Germany",
+  "websites": [
+   "https://www.foehrring.de/"
+  ],
+  "mapped_length_m": 479
+ },
+ {
+  "id": "way/392128609",
+  "name": "Vogelsbergring",
+  "town": "Wächtersbach",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "mapped_length_m": 1034
+ },
+ {
+  "id": "way/89670854",
+  "name": "Mainfranken Motodrom",
+  "town": "Würzburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.ekart-center.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/655238957",
+  "name": "Karthaus Zweibrücken",
+  "town": "Zweibrücken",
+  "country": "Germany",
+  "websites": [
+   "https://karthaus.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/798432703",
+  "name": "Adria Karting Raceway",
+  "town": "Adria",
+  "country": "Italy",
+  "websites": [
+   "https://www.adriaraceway.com/"
+  ],
+  "mapped_length_m": 1314
+ },
+ {
+  "id": "relation/2625023",
+  "name": "Ala Karting Circuit",
+  "town": "Ala",
+  "country": "Italy",
+  "websites": [
+   "https://www.alakarting.it/"
+  ],
+  "mapped_length_m": 1107
+ },
+ {
+  "id": "way/674711953",
+  "name": "The Way Kart Vicenza",
+  "town": "Altavilla Vicentina",
+  "country": "Italy",
+  "websites": [
+   "https://www.thewaykart.com/",
+   "https://www.vki.it/"
+  ],
+  "mapped_length_m": 934
+ },
+ {
+  "id": "way/1546897978",
+  "name": "Kartodromo Pista dei Campioni",
+  "town": "Alzachèna/Arzachena",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistadeicampioni.com/",
+   "https://www.facebook.com/www.pistadeicampioni.it"
+  ],
+  "mapped_length_m": 691
+ },
+ {
+  "id": "way/186119706",
+  "name": "Pista Go Kart Artena",
+  "town": "Artena",
+  "country": "Italy",
+  "websites": [
+   "http://www.gokartena.it"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12296957472",
+  "name": "House of Karts",
+  "town": "Bagnolo San Vito",
+  "country": "Italy",
+  "websites": [
+   "https://www.houseofkarts.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/416497419",
+  "name": "Kartodromo Barimax",
+  "town": "Bari",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromobarimax.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12383157724",
+  "name": "K1 Speed Torino",
+  "town": "Beinasco",
+  "country": "Italy",
+  "websites": [
+   "https://www.k1speed.com/it/torino.html"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1270623433",
+  "name": "MiniMoto San Mauro Mare",
+  "town": "Bellaria-Igea Marina",
+  "country": "Italy",
+  "websites": [
+   "https://www.minimotoitalia.com/"
+  ],
+  "mapped_length_m": 427
+ },
+ {
+  "id": "way/238454074",
+  "name": "Pista Azzurra",
+  "town": "Borgo Ticino",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistazzurra.it/"
+  ],
+  "mapped_length_m": 1230
+ },
+ {
+  "id": "way/683379720",
+  "name": "Cerrina Race Track",
+  "town": "Bruino",
+  "country": "Italy",
+  "websites": [
+   "https://www.cerrinaracetrack.com/"
+  ],
+  "mapped_length_m": 1431
+ },
+ {
+  "id": "way/60136442",
+  "name": "Dromokart",
+  "town": "Buccinasco",
+  "country": "Italy",
+  "websites": [
+   "https://www.dromokart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1078429098",
+  "name": "Vallelunga Karting",
+  "town": "Campagnano di Roma",
+  "country": "Italy",
+  "websites": [
+   "https://www.vallelunga.it"
+  ],
+  "mapped_length_m": 389
+ },
+ {
+  "id": "way/185017673",
+  "name": "Kart Elba",
+  "town": "Campo nell'Elba",
+  "country": "Italy",
+  "websites": [
+   "https://kartelba.it"
+  ],
+  "mapped_length_m": 412
+ },
+ {
+  "id": "relation/12721481",
+  "name": "Pista dell'Adriatico",
+  "town": "Cappelle sul Tavo",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistadelladriatico.it/"
+  ],
+  "mapped_length_m": 802
+ },
+ {
+  "id": "node/4170263824",
+  "name": "Kart1",
+  "town": "Cassano Magnago",
+  "country": "Italy",
+  "websites": [
+   "http://kart1.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1316505007",
+  "name": "Kartodromo Rastellino",
+  "town": "Castelfranco Emilia",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromorastellino.it/"
+  ],
+  "mapped_length_m": 602
+ },
+ {
+  "id": "way/133611214",
+  "name": "Circuito di Siena",
+  "town": "Castelnuovo Berardenga",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitodisiena.it/"
+  ],
+  "mapped_length_m": 1506
+ },
+ {
+  "id": "way/245463137",
+  "name": "Franciacorta Karting Track",
+  "town": "Castrezzato",
+  "country": "Italy",
+  "websites": [
+   "http://kartodromofranciacorta.yolasite.com/"
+  ],
+  "mapped_length_m": 435
+ },
+ {
+  "id": "way/423697503",
+  "name": "Jeepers Kart",
+  "town": "Cattolica",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistacattolica.it"
+  ],
+  "mapped_length_m": 871
+ },
+ {
+  "id": "node/12127526846",
+  "name": "E-Motion Karting Pescara",
+  "town": "Cepagatti",
+  "country": "Italy",
+  "websites": [
+   "https://emotionkartingpescara.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/75928127",
+  "name": "Happy Valley Kart",
+  "town": "Cervia",
+  "country": "Italy",
+  "websites": [
+   "https://www.happyvalleykart.com/"
+  ],
+  "mapped_length_m": 1096
+ },
+ {
+  "id": "relation/18655290",
+  "name": "Circuito internazionale \"Le Colline\"",
+  "town": "Chignolo Po",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitointernazionalelecolline.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/645437188",
+  "name": "Lario Motorsport",
+  "town": "Colico",
+  "country": "Italy",
+  "websites": [
+   "https://lariomotorsport.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/354900178",
+  "name": "Circuito di Pomposa",
+  "town": "Comacchio",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitodipomposa.com/"
+  ],
+  "mapped_length_m": 1545
+ }
+]

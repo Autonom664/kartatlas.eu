@@ -1,0 +1,994 @@
+[
+ {
+  "id": "node/8695377425",
+  "name": null,
+  "type": "indoor",
+  "website": "https://hezemans.nl",
+  "websites": [
+   {
+    "url": "https://hezemans.nl",
+    "role": "rental",
+    "name": "Hezemans Karting"
+   }
+  ],
+  "phone": "+31 40 248 0445",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://hezemans.nl"
+  ],
+  "note": "Website describes a 650 m two-level KNAF-certified indoor track with electric karts, mini karts from 1.20 m; OSM tag outdoor seems wrong."
+ },
+ {
+  "id": "node/2732671760",
+  "name": "De Landsard Outdoor Kartcircuit",
+  "type": "outdoor",
+  "website": "https://www.outdoorkarting.nl",
+  "websites": [
+   {
+    "url": "https://www.outdoorkarting.nl",
+    "role": "venue",
+    "name": "Outdoor Karting Eindhoven / Circuit de Landsard"
+   }
+  ],
+  "phone": "+31 40 205 2750",
+  "email": "info@outdoorkarting.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.outdoorkarting.nl"
+  ],
+  "note": "Rental 4-stroke karts plus training-day passes for own karts; reservations +31 6 12273206."
+ },
+ {
+  "id": "node/2779183074",
+  "name": "Karting Texel",
+  "type": "outdoor",
+  "website": "https://www.kartingtexel.nl/",
+  "websites": [
+   {
+    "url": "https://www.kartingtexel.nl/",
+    "role": "rental",
+    "name": "Karting Texel"
+   }
+  ],
+  "phone": "+31 222 313921",
+  "email": "info@kartingtexel.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartingtexel.nl/nl/contact",
+   "https://www.kartingtexel.nl/"
+  ],
+  "note": "Approx. 500 m outdoor circuit; karts from age 12, duo karts for children from 6."
+ },
+ {
+  "id": "node/4614279439",
+  "name": "Silverstone Partycenter",
+  "type": "indoor",
+  "website": "https://www.silverstone.nl",
+  "websites": [
+   {
+    "url": "https://www.silverstone.nl",
+    "role": "rental",
+    "name": "Silverstone Indoorkarting & Lasergames"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.dagjeweg.nl/tip/4699/Silverstone-Partycenter",
+   "https://www.silverstone.nl"
+  ],
+  "note": "Indoor karting, lasergame and bowling centre."
+ },
+ {
+  "id": "way/217521987",
+  "name": "Linnaeushof",
+  "type": "outdoor",
+  "website": "https://www.linnaeushof.nl/",
+  "websites": [
+   {
+    "url": "https://www.linnaeushof.nl/",
+    "role": "venue",
+    "name": "Linnaeushof"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.hotelsassenheim.nl/en/tourist-info/linnaeushof"
+  ],
+  "note": "Probable match: 137 m track at Linnaeushof playground park, which lists karts among its children's attractions; not a real kart track."
+ },
+ {
+  "id": "node/1413233649",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.coronel.nl/",
+  "websites": [
+   {
+    "url": "https://www.coronel.nl/",
+    "role": "rental",
+    "name": "Coronel Entertainment Kartracing Huizen"
+   }
+  ],
+  "phone": "+31 35 526 5053",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://visitgooivecht.nl/en/locations/1109538970/coronel-entertainment-kartracing-huizen",
+   "https://www.dagjeweg.nl/tip/6262/Indoor-Kartbaan-Coronel-Kartracing"
+  ],
+  "note": "Indoor electric kart track (two tracks) designed by Tim and Tom Coronel; OSM tag outdoor seems wrong."
+ },
+ {
+  "id": "node/2788019640",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartcentrumzwolle.nl",
+  "websites": [
+   {
+    "url": "https://www.kartcentrumzwolle.nl",
+    "role": "rental",
+    "name": "Kartcentrum Zwolle"
+   }
+  ],
+  "phone": "+31 529 401203",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartcentrumzwolle.nl"
+  ],
+  "note": "Outdoor rental track, Heinoseweg 10 Zwolle; hosts rental-kart race series."
+ },
+ {
+  "id": "node/2663385135",
+  "name": "Kartplaza Actionworld",
+  "type": "indoor",
+  "website": "https://www.kartplaza.nl/",
+  "websites": [
+   {
+    "url": "https://www.kartplaza.nl/",
+    "role": "rental",
+    "name": "Kartplaza Actionworld"
+   }
+  ],
+  "phone": "+31 548 621 003",
+  "email": "info@kartplaza.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.kartplaza.nl/"
+  ],
+  "note": "850 m indoor circuit with 270cc karts and junior karts (8-14 years)."
+ },
+ {
+  "id": "way/278188018",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kartbaanoldenzaal.nl/",
+  "websites": [
+   {
+    "url": "https://kartbaanoldenzaal.nl/",
+    "role": "venue",
+    "name": "Kartbaan Oldenzaal"
+   }
+  ],
+  "phone": "+31 541 514241",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://kartbaanoldenzaal.nl/",
+   "https://kartbaanoldenzaal.nl/privekarts"
+  ],
+  "note": "Private karts (4-stroke only: Honda GX, RK1, B&S WFM, Tillotson T4) on Tuesday evenings and selected Sundays."
+ },
+ {
+  "id": "node/2756063118",
+  "name": null,
+  "type": null,
+  "website": "https://zero55.nl/enschede/",
+  "websites": [
+   {
+    "url": "https://zero55.nl/enschede/",
+    "role": "rental",
+    "name": "ZERO55 Enschede"
+   }
+  ],
+  "phone": null,
+  "email": "enschede-zero55@funzone.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://zero55.nl/enschede/"
+  ],
+  "note": "Leisure centre offering 'E-Karten' heats; indoor/outdoor not stated."
+ },
+ {
+  "id": "node/3040205459",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartfabrique.nl/",
+  "websites": [
+   {
+    "url": "https://www.kartfabrique.nl/",
+    "role": "rental",
+    "name": "Kartfabrique"
+   }
+  ],
+  "phone": "+31 30 240 40 40",
+  "email": "info@kartfabrique.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.kartfabrique.nl/",
+   "https://www.kidsproof.nl/utrecht/?p=42979"
+  ],
+  "note": "Indoor kart track in a former feed factory, Westkanaaldijk 7, with lasergame and Prison Island."
+ },
+ {
+  "id": "node/3040205257",
+  "name": null,
+  "type": null,
+  "website": "https://www.kartfabrique.nl/",
+  "websites": [
+   {
+    "url": "https://www.kartfabrique.nl/",
+    "role": "rental",
+    "name": "Kartfabrique"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for 'Triopsys'; point is ~400 m from Kartfabrique and may be a duplicate of it."
+ },
+ {
+  "id": "way/1360118353",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.teamsport-ekarting.nl/locaties/utrecht",
+  "websites": [
+   {
+    "url": "https://www.teamsport-ekarting.nl/locaties/utrecht",
+    "role": "rental",
+    "name": "TeamSport E-karting Utrecht The Wall"
+   }
+  ],
+  "phone": "+31 85 888 58 65",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht",
+   "https://www.duic.nl/algemeen/kartbaan-neemt-intrek-in-gedeelte-the-wall-in-utrecht-dat-al-sinds-2009-leegstond/"
+  ],
+  "note": "Electric indoor karting; children's kart for ages 8-12, adult karts from 12."
+ },
+ {
+  "id": "way/446075802",
+  "name": "Kartcircuit Driebergen",
+  "type": "outdoor",
+  "website": "https://www.kartbaan.com",
+  "websites": [
+   {
+    "url": "https://www.kartbaan.com",
+    "role": "rental",
+    "name": "Kartcircuit Driebergen"
+   }
+  ],
+  "phone": "+31 343 515278",
+  "email": "info@kartbaan.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartbaan.com",
+   "https://www.dagjeweg.nl/tip/7880/Kartcircuit-Driebergen"
+  ],
+  "note": "750 m outdoor circuit, heats at 50 or 70 km/h, min. height 1.45 m."
+ },
+ {
+  "id": "way/58821981",
+  "name": null,
+  "type": "indoor",
+  "website": "https://deuithof.nl/",
+  "websites": [
+   {
+    "url": "https://deuithof.nl/",
+    "role": "venue",
+    "name": "Sporttainment Center De Uithof"
+   }
+  ],
+  "phone": "+31 70 359 9443",
+  "email": "info@deuithof.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://deuithof.nl/en/karting/electric-karting/tickets-rates/",
+   "https://deuithof.nl/en/races",
+   "https://deuithof.nl/en/about-us/contact/"
+  ],
+  "note": "Indoor electric karting in a multi-sport centre (ice, snow, lasergame); adult, kids and family heats."
+ },
+ {
+  "id": "node/4620552009",
+  "name": "Van der Ende Racing & Fun",
+  "type": "indoor",
+  "website": "https://www.vanderende.com/",
+  "websites": [
+   {
+    "url": "https://www.vanderende.com/",
+    "role": "rental",
+    "name": "Van der Ende Racing & Fun"
+   }
+  ],
+  "phone": "+31 174 445000",
+  "email": "info@vanderende.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.vanderende.com/"
+  ],
+  "note": "Claims largest indoor kart track in Europe (1.2 km, bridges, 25+ corners); kids from 1.40 m. OSM tag outdoor seems wrong."
+ },
+ {
+  "id": "node/1571226584",
+  "name": "Race Planet Delft",
+  "type": "indoor",
+  "website": "https://raceplanet.nl/",
+  "websites": [
+   {
+    "url": "https://raceplanet.nl/",
+    "role": "rental",
+    "name": "Race Planet"
+   }
+  ],
+  "phone": "+31 15 212 7222",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://raceplanet.nl/",
+   "https://raceplanet.nl/karten/",
+   "https://raceplanet.nl/contact/"
+  ],
+  "note": "Multi-floor indoor track; Mini Max karts from age 4, kids heats from 8, youth kart courses. OSM tag outdoor seems wrong."
+ },
+ {
+  "id": "way/1495035422",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "way/1430868491",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "node/1098017859",
+  "name": null,
+  "type": null,
+  "website": "https://www.a15karting.nl/",
+  "websites": [
+   {
+    "url": "https://www.a15karting.nl/",
+    "role": "rental",
+    "name": "A15 Karting"
+   }
+  ],
+  "phone": "+31 183 567050",
+  "email": "info@a15karting.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.a15karting.nl/",
+   "https://www.a15karting.nl/karten"
+  ],
+  "note": "Adult karts from 155 cm, junior karts from 140 cm; indoor/outdoor not stated."
+ },
+ {
+  "id": "node/958029969",
+  "name": "Go Kart In Dordrecht",
+  "type": "indoor",
+  "website": "https://www.kart.nl/",
+  "websites": [
+   {
+    "url": "https://www.kart.nl/",
+    "role": "rental",
+    "name": "Go Kart In Dordrecht"
+   },
+   {
+    "url": "https://bowlmore.nl/dordrecht/",
+    "role": "other",
+    "name": "Bowlmore Dordrecht"
+   }
+  ],
+  "phone": "+31 78 616 6164",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kart.nl/",
+   "https://bowlmore.nl/dordrecht/"
+  ],
+  "note": "Indoor petrol-kart track at Baanhoekweg 1C, next to Bowlmore (separate business)."
+ },
+ {
+  "id": "way/746760110",
+  "name": "Kartbaan Strijen",
+  "type": "outdoor",
+  "website": "https://www.kartbaanstrijen.nl/",
+  "websites": [
+   {
+    "url": "https://www.kartbaanstrijen.nl/",
+    "role": "club",
+    "name": "SHW (Kartbaan Strijen)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartbaanstrijen.nl/"
+  ],
+  "note": "Volunteer-run club track; no kart rental, own karts with membership or day pass, free riding Sat/Sun."
+ },
+ {
+  "id": "node/2290628972",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+46 457 21170",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://raceland.se/"
+  ],
+  "note": "Listed website raceland.se is a kart-tyre supplier in Alvesta, not this venue; venue not verified (search budget exhausted)."
+ },
+ {
+  "id": "way/128816484",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "node/1414333573",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "node/6183808285",
+  "name": "Icekart Sälen",
+  "type": "outdoor",
+  "website": "https://www.icekart.se/",
+  "websites": [
+   {
+    "url": "https://www.icekart.se/",
+    "role": "rental",
+    "name": "Icekart Sälen AB"
+   }
+  ],
+  "phone": "+46 70 645 48 85",
+  "email": "info@icekart.nu",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.icekart.se/"
+  ],
+  "note": "Ice-kart track at Sätertjärn between Tandådalen and Hundfjället; winter only, often booked for competitions."
+ },
+ {
+  "id": "node/14088543327",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://grangeshyrkart.se",
+  "websites": [
+   {
+    "url": "https://grangeshyrkart.se",
+    "role": "rental",
+    "name": "Gränges Hyr-kart"
+   }
+  ],
+  "phone": "+46 70 344 82 25",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://grangeshyrkart.se"
+  ],
+  "note": "Rental karts at Grängesberg motor stadium incl. dual-control karts and 4 hand-controlled adapted karts (2024); also ice karting. Phone from input data."
+ },
+ {
+  "id": "way/343140372",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "way/132148316",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; no website found."
+ },
+ {
+  "id": "way/514034732",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.varbergsgokart.se/",
+  "websites": [
+   {
+    "url": "https://www.varbergsgokart.se/",
+    "role": "rental",
+    "name": "Varbergs Gokart"
+   }
+  ],
+  "phone": "+46 340 61 18 18",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.varbergsgokart.se/",
+   "https://www.varbergsgokart.se/banan"
+  ],
+  "note": "Rental track offering race, Le Mans and drop-in sessions; phone from input data."
+ },
+ {
+  "id": "way/1422449309",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "way/1549065921",
+  "name": null,
+  "type": null,
+  "website": "http://www.blakullagokart.se/",
+  "websites": [
+   {
+    "url": "http://www.blakullagokart.se/",
+    "role": "rental",
+    "name": "Blåkulla Gokart"
+   }
+  ],
+  "phone": "+46 73 588 81 93",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website unreachable (expired certificate / connection refused); data from input only."
+ },
+ {
+  "id": "node/10444657637",
+  "name": "Multi Challenge",
+  "type": null,
+  "website": "https://multichallenge.se",
+  "websites": [
+   {
+    "url": "https://multichallenge.se",
+    "role": "rental",
+    "name": "Multi Challenge"
+   }
+  ],
+  "phone": "+46 63 14 05 40",
+  "email": "info@multichallenge.se",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://multichallenge.se"
+  ],
+  "note": "Gokart at Multi Challenge activity centre (with Boda Borg, laser hall), Tjalmargatan 1, Östersund."
+ },
+ {
+  "id": "way/158250368",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; bergringen.se does not resolve."
+ },
+ {
+  "id": "way/99293878",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; name Axamo Ring unverified."
+ },
+ {
+  "id": "way/279571694",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified."
+ },
+ {
+  "id": "way/704291326",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://action-center.se",
+  "websites": [
+   {
+    "url": "https://action-center.se",
+    "role": "rental",
+    "name": "Action Center Västervik"
+   }
+  ],
+  "phone": "+46 490 331 21",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://action-center.se"
+  ],
+  "note": "Hilly summer gokart track at Karstorp, Västervik; drop-in April-October plus booked events."
+ },
+ {
+  "id": "way/173523512",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: web search budget exhausted; venue not identified (about 13 km north of Glabo Gokart, Löttorp)."
+ },
+ {
+  "id": "way/1091896435",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.glabogokart.se",
+  "websites": [
+   {
+    "url": "https://www.glabogokart.se",
+    "role": "rental",
+    "name": "Glabo Gokart & Paintball"
+   }
+  ],
+  "phone": "+46 70 251 27 11",
+  "email": "glabogokart@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.glabogokart.se"
+  ],
+  "note": "Seasonal rental track (bookings April-November) with standard, junior and double karts and timing."
+ },
+ {
+  "id": "way/45484844",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kalmargokart.se/",
+  "websites": [
+   {
+    "url": "https://www.kalmargokart.se/",
+    "role": "rental",
+    "name": "Kalmar Gokart"
+   },
+   {
+    "url": "https://www.kalmarmotorklubb.se/kalmarmotorklubb-bilsport-gokart",
+    "role": "club",
+    "name": "Kalmar Motorklubb (karting section)"
+   }
+  ],
+  "phone": "+46 76 805 12 12",
+  "email": "kalmargokart@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kalmargokart.se/",
+   "https://www.kalmarmotorklubb.se/kalmarmotorklubb-bilsport-gokart"
+  ],
+  "note": "Kalmar Gokart (1200 m, drop-in/races) plus Kalmar Motorklubb karting training Tue/Thu/Sat at Skogstorps Motorarena; link between the two inferred from input URLs."
+ }
+]

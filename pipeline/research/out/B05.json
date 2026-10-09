@@ -1,0 +1,1107 @@
+[
+ {
+  "id": "way/94128522",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://www.ortsdienst.de/brandenburg/elbe-elster/lebusa/kartbahn/"
+  ],
+  "note": "No web source found for a kart hall in Lebusa; existence unconfirmed."
+ },
+ {
+  "id": "way/58739117",
+  "name": "Kartbahn Freizeitpark Löschen",
+  "type": "outdoor",
+  "website": "https://www.gokart-cottbus.de/",
+  "phone": "+49 35602 21908",
+  "email": "info@gokart-cottbus.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart Fun Kid",
+    "engine": null,
+    "hp": "4",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodikart Fun-Kart",
+    "engine": null,
+    "hp": "6",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "18",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi-Race",
+    "engine": null,
+    "hp": "22",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi 2 Drive",
+    "engine": null,
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.gokart-cottbus.de/",
+    "role": "rental",
+    "name": "Kartbahn Freizeitpark Löschen"
+   },
+   {
+    "url": "http://www.freizeitparkloeschen.de",
+    "role": "venue",
+    "name": "Freizeitpark Löschen"
+   }
+  ],
+  "sources": [
+   "https://www.brandenburg-tourism.com/poi/lausitzer-seenland/motor-sport/kart-track-leisure-park-loeschen/",
+   "https://www.gokart-cottbus.de/"
+  ],
+  "note": "1000 m outdoor track in a leisure park, season March-November; also a drift track."
+ },
+ {
+  "id": "way/1212578881",
+  "name": "BB-Kartcenter Bremen",
+  "type": "indoor",
+  "website": "https://www.bb-kart.de/",
+  "phone": "+49 421 385044",
+  "email": "info@bb-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.bb-kart.de/",
+    "role": "rental",
+    "name": "BB-Kartcenter Bremen"
+   }
+  ],
+  "sources": [
+   "https://www.bb-kart.de/"
+  ],
+  "note": "Two-storey indoor track of over 5,000 m2 in Bremen Überseestadt; fleet models not stated."
+ },
+ {
+  "id": "way/336869541",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartbahn-willingen.de/",
+  "phone": "+49 5632 9661994",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "Honda (gas)",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.kartbahn-willingen.de/",
+    "role": "rental",
+    "name": "Kart- & Bowlingcenter Willingen"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-willingen.de/",
+   "https://www.ortsdienst.de/hessen/waldeck-frankenberg/kartbahn/"
+  ],
+  "note": "Gas-powered RiMO karts, drivers from 9 years and 140 cm; combined with bowling."
+ },
+ {
+  "id": "node/5737125787",
+  "name": null,
+  "type": null,
+  "website": "http://kartbahn-kassel.de",
+  "phone": "+49 561 45012222",
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "websites": [
+   {
+    "url": "http://kartbahn-kassel.de",
+    "role": "rental",
+    "name": "Kart-Driving by Richi"
+   }
+  ],
+  "sources": [
+   "http://kartbahn-kassel.de"
+  ],
+  "note": "Website states the track has closed permanently."
+ },
+ {
+  "id": "node/13456963144",
+  "name": "BattleKart Bad-Hersfeld",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/de/bad-hersfeld",
+  "phone": "+49 6621 9112233",
+  "email": "info@bad-hersfeld.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/de/bad-hersfeld",
+    "role": "rental",
+    "name": "BattleKart Bad-Hersfeld"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/de/bad-hersfeld",
+   "https://freizeitinsider.de/angebot/battlekart-bad-hersfeld/"
+  ],
+  "note": "Augmented-reality electric kart game arena, min. height 1.45 m."
+ },
+ {
+  "id": "way/285319826",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [],
+  "note": "No web source found for this speedway/kart track in Homberg (Ohm)."
+ },
+ {
+  "id": "way/589950988",
+  "name": null,
+  "type": "indoor",
+  "website": "http://kartland-sinn.de/",
+  "phone": "+49 2772 957695",
+  "email": "info@kart-aktiv-club.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "http://kartland-sinn.de/",
+    "role": "club",
+    "name": "Kart-Aktiv-Club (KAC)"
+   }
+  ],
+  "sources": [
+   "http://kartland-sinn.de/",
+   "http://kartland-sinn.de/training.html",
+   "https://www.ortsdienst.de/hessen/lahn-dill-kreis/wetzlar/kartbahn/"
+  ],
+  "note": "Domain only shows the Kart-Aktiv-Club page (last updated 2013); current operation of Kartland Sinn unconfirmed."
+ },
+ {
+  "id": "way/124785648",
+  "name": "Motorsportarena Stefan Bellof (Kartbahn Oppenrod)",
+  "type": "outdoor",
+  "website": "https://kv-oppenrod.de/",
+  "phone": "+49 160 8469968",
+  "email": "event@kv-oppenrod.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi GT5R",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://kv-oppenrod.de/",
+    "role": "club",
+    "name": "Kart-Verein Oppenrod e.V."
+   }
+  ],
+  "sources": [
+   "https://kv-oppenrod.de/",
+   "https://freizeitinsider.de/angebot/kartbahn-oppenrod/"
+  ],
+  "note": "Club-run DMSB-licensed track (1040 m); rental karts for everyone on weekends, race-kart days with own karts on weekdays."
+ },
+ {
+  "id": "way/255820186",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://www.ortsdienst.de/hessen/lahn-dill-kreis/wetzlar/kartbahn/"
+  ],
+  "note": "No kart venue found at Wetzlar-Garbenheim in directories."
+ },
+ {
+  "id": "node/5324743781",
+  "name": "NOlimit Kartbahn Fulda",
+  "type": null,
+  "website": "https://www.nolimitkartbahn.de/",
+  "phone": "+49 661 402053",
+  "email": "info@nolimit-kartbahn.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "DINO Junior",
+    "engine": "Honda 4-stroke",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "TTM Brandy 1",
+    "engine": "Honda 4-stroke (gas)",
+    "hp": "7",
+    "class": "adult"
+   },
+   {
+    "chassis": "TTM Brandy 1",
+    "engine": "Honda 4-stroke",
+    "hp": "10",
+    "class": "race"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.nolimitkartbahn.de/",
+    "role": "rental",
+    "name": "NOlimit Kartbahn (Indoor-Kart & Freizeit GmbH)"
+   }
+  ],
+  "sources": [
+   "https://www.nolimitkartbahn.de/",
+   "https://www.nolimitkartbahn.de/rundgang/",
+   "https://www.nolimitkartbahn.de/preise/"
+  ],
+  "note": "Combined indoor and outdoor track (400 m total); race karts only with licence."
+ },
+ {
+  "id": "way/119610125",
+  "name": "Kartbahn Hungen",
+  "type": null,
+  "website": "https://kartbahn-hungen.de/",
+  "phone": "+49 6402 512255",
+  "email": "info@kartbahn-hungen.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Hubi Kart X19",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Hubi Kart HK7",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "kids"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://kartbahn-hungen.de/",
+    "role": "rental",
+    "name": "Kartbahn Hungen"
+   }
+  ],
+  "sources": [
+   "https://kartbahn-hungen.de/"
+  ],
+  "note": "365 m track; electric karts also offered on some weekdays (model not stated)."
+ },
+ {
+  "id": "node/883027662",
+  "name": null,
+  "type": null,
+  "website": "https://www.limpark.de/",
+  "phone": "+49 6431 25006",
+  "email": "mail@limpark.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.limpark.de/kart/",
+    "role": "rental",
+    "name": "LIMPARK"
+   }
+  ],
+  "sources": [
+   "https://www.limpark.de/kart/",
+   "https://www.limpark.de/kinder-kart/"
+  ],
+  "note": "Indoor/outdoor hybrid track over two halls (~1000 m) with petrol single, double and kids karts; models not stated."
+ },
+ {
+  "id": "way/392128609",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.msc-wittgenborn.de/",
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "http://www.msc-wittgenborn.de/",
+    "role": "club",
+    "name": "MSC Wittgenborn e.V."
+   }
+  ],
+  "sources": [
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "note": "Club track of MSC Wittgenborn; club website is offline (maintenance mode)."
+ },
+ {
+  "id": "way/620133302",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.eco-kart.de",
+  "phone": "+49 69 424241",
+  "email": "anfragen@eco-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.eco-kart.de",
+    "role": "rental",
+    "name": "Eco Kart Frankfurt"
+   }
+  ],
+  "sources": [
+   "https://www.eco-kart.de/unserekarts/",
+   "https://www.eco-kart.de"
+  ],
+  "note": "Indoor electric kart track."
+ },
+ {
+  "id": "way/202733188",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [],
+  "note": "No web source found identifying this track near Flörsheim/Rüsselsheim."
+ },
+ {
+  "id": "way/38305241",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.fahrwerk.de/kartfahren-outdoor/",
+  "phone": "+49 6071 951122",
+  "email": "fahrwerk@fahrwerk.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi 2-Drive",
+    "engine": "Honda 390cc 4-stroke",
+    "hp": "13.5",
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.fahrwerk.de/",
+    "role": "rental",
+    "name": "FAHR-WERK"
+   }
+  ],
+  "sources": [
+   "https://www.fahrwerk.de/kartfahren-outdoor/",
+   "https://www.fahrwerk.de/rennkart-eigenkart/"
+  ],
+  "note": "Outdoor track at Schaafheim; own-kart tickets (half/full day) for race kart owners."
+ },
+ {
+  "id": "way/93901937",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.fahrwerk.de/",
+  "phone": "+49 6071 951122",
+  "email": "fahrwerk@fahrwerk.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.fahrwerk.de/kartfahren-indoor/",
+    "role": "rental",
+    "name": "FAHR-WERK Groß-Zimmern"
+   }
+  ],
+  "sources": [
+   "https://www.fahrwerk.de/kartfahren-indoor/",
+   "https://www.fahrwerk.de/rennkart-eigenkart/"
+  ],
+  "note": "Indoor track; own-kart driving is offered only at the Schaafheim outdoor site."
+ },
+ {
+  "id": "way/286457460",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.ruegenkartbahn.de/",
+  "phone": "+49 3838 209485",
+  "email": "info@ruegenkartbahn.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.ruegenkartbahn.de/",
+    "role": "rental",
+    "name": "Go-Kart- und Quad-Bahn Bergen (RKB)"
+   }
+  ],
+  "sources": [
+   "https://www.ruegenkartbahn.de/",
+   "https://freizeitinsider.de/lotse/go-kartbahn/usedom/"
+  ],
+  "note": "Small go-kart and quad track, cash only; website under reconstruction, fleet not stated."
+ },
+ {
+  "id": "way/1007481030",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [],
+  "note": "Name 'Kartoffelsack-Rutsche' suggests a potato-sack slide (likely at Karls Erlebnis-Dorf Zirkow), probably not a kart track; unverified."
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "type": "indoor",
+  "website": "http://www.kartbahn-mv.de/Stralsund/home.html",
+  "phone": "+49 3831 494329",
+  "email": "info@kartbahn-mv.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "LPG",
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "LPG",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "http://www.kartbahn-mv.de/Stralsund/home.html",
+    "role": "rental",
+    "name": "Kartbahn-MV Standort Stralsund"
+   }
+  ],
+  "sources": [
+   "http://www.kartbahn-mv.de/Stralsund/karts.html",
+   "https://www.racingo.de/kartbahnen/de/kartbahn-stralsund/"
+  ],
+  "note": "Indoor hall in Stralsund-Grünhufe run by Kartbahn-MV (also Dargelin and Neubrandenburg); 16 adult, 5 kids, 1 electric double kart."
+ },
+ {
+  "id": "way/33894329",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.kartcenter-rostock.de/",
+  "phone": "+49 381 1217777",
+  "email": "eiko.weiss@kartcenter-rostock.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 2",
+    "engine": null,
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha 2",
+    "engine": null,
+    "hp": "11",
+    "class": "race"
+   }
+  ],
+  "websites": [
+   {
+    "url": "http://www.kartcenter-rostock.de/",
+    "role": "rental",
+    "name": "Kartcenter Rostock"
+   }
+  ],
+  "sources": [
+   "http://www.kartcenter-rostock.de/de/karts",
+   "https://www.racingo.de/kartbahnen/de/kartcenter-rostock/"
+  ],
+  "note": "450 m indoor track; 11 hp race kart requires a sub-42 s lap in the 9 hp ticket kart; Saturdays track rental only."
+ },
+ {
+  "id": "way/34410664",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.hansegokart.de",
+  "phone": "+49 381 684479",
+  "email": "info@hansegokart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO EVO4",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "websites": [
+   {
+    "url": "http://www.hansegokart.de",
+    "role": "rental",
+    "name": "Hanse GoKart Racing Rostock"
+   }
+  ],
+  "sources": [
+   "http://www.hansegokart.de",
+   "https://www.racingo.de/kartbahnen/de/hanse-gokart-racing/"
+  ],
+  "note": "450 m indoor track, open Thursday-Sunday."
+ },
+ {
+  "id": "way/303166461",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.kartbahn-mv.de/Dargelin/home.html",
+  "phone": "+49 38356 51663",
+  "email": "info@kartbahn-mv.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha 2 LPG",
+    "engine": "LPG",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": null,
+    "hp": "2 x 6.5",
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "http://www.kartbahn-mv.de/Dargelin/home.html",
+    "role": "rental",
+    "name": "Kartbahn-MV Standort Dargelin"
+   }
+  ],
+  "sources": [
+   "http://www.kartbahn-mv.de/Dargelin/karts.html",
+   "http://www.kartbahn-mv.de/Dargelin/eigenes-sportgeraet.html",
+   "https://www.racingo.de/kartbahnen/de/kartbahn-dargelin/"
+  ],
+  "note": "Private 2- and 4-stroke karts allowed (max 95 dB, not Sundays/holidays) for a day fee."
+ },
+ {
+  "id": "node/9889553396",
+  "name": "Kartbahn Gramkow",
+  "type": "indoor",
+  "website": "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/",
+  "phone": "+49 38428 60016",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "websites": [],
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/"
+  ],
+  "note": "Small (~201 m) indoor track per RacinGO directory; no own website found."
+ },
+ {
+  "id": "node/8841305710",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/usedom/"
+  ],
+  "note": "No web source found for an indoor kart venue in Usedom town; not in regional directory."
+ },
+ {
+  "id": "way/761797608",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [],
+  "note": "No web source found identifying a kart track at Linstow."
+ },
+ {
+  "id": "node/3112276333",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.motodrom-schwerin.de/",
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.motodrom-schwerin.de/",
+    "role": "venue",
+    "name": "Motodrom Schwerin"
+   }
+  ],
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/motodrom-schwerin/",
+   "https://freizeitinsider.de/lotse/go-kartbahn/wittenburg/"
+  ],
+  "note": "Listed as permanently closed indoor kart track (Baustr. 3, Schwerin-Görries)."
+ },
+ {
+  "id": "way/1039053796",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/motodrom-schwerin/"
+  ],
+  "note": "Lies about 800 m from the permanently closed Motodrom Schwerin; no separate venue found."
+ },
+ {
+  "id": "way/835366727",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [],
+  "note": "No web source found identifying a kart track at Grabowhöfe."
+ },
+ {
+  "id": "way/97901794",
+  "name": "Kartbahn Neubrandenburg",
+  "type": "outdoor",
+  "website": "https://www.kartbahn-mv.de/",
+  "phone": "+49 3831 494329",
+  "email": "info@kartbahn-mv.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha 2 LPG",
+    "engine": "LPG",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini LPG",
+    "engine": "LPG",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": "LPG",
+    "hp": "2 x 6.5",
+    "class": "twin"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.kartbahn-mv.de/",
+    "role": "rental",
+    "name": "Kartbahn-MV"
+   }
+  ],
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-neubrandenburg"
+  ],
+  "note": "Formerly Speedykart; 1200 m track; private 2- and 4-stroke karts allowed (95 dB limit)."
+ },
+ {
+  "id": "node/12547718882",
+  "name": "Kartbahn Wittenburg im Alpincenter",
+  "type": "outdoor",
+  "website": "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart",
+  "phone": "+49 38852 2340",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart",
+    "role": "rental",
+    "name": "alpincenter Hamburg-Wittenburg"
+   }
+  ],
+  "sources": [
+   "https://freizeitinsider.de/angebot/kartbahn-im-alpincenter/",
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "note": "1100 m outdoor track at the alpincenter indoor ski hall; fleet not stated."
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "type": "outdoor",
+  "website": "https://www.mc-touring-strasburg.com/",
+  "phone": "+49 172 3128113",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://www.mc-touring-strasburg.com/",
+    "role": "club",
+    "name": "MC Touring Strasburg e.V."
+   }
+  ],
+  "sources": [
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "note": "Club track (motocross, go-kart, off-road); old kartbahn page returns 404, no rental info."
+ },
+ {
+  "id": "way/585117248",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/schortens/"
+  ],
+  "note": "Club track of Motorsportclub Jever-Heidmühle; no website or kart details found."
+ },
+ {
+  "id": "way/174962870",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahn-ostfriesland.de/",
+  "phone": "+49 4934 498700",
+  "email": "kartbahn.brookmerland@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": "9.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "6.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": "3.5",
+    "class": "kids"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.kartbahn-ostfriesland.de/",
+    "role": "rental",
+    "name": "Kartbahn Brookmerland"
+   },
+   {
+    "url": "https://kartbahn-ostfriesland.de/de/Kartsportverein/",
+    "role": "club",
+    "name": "Kartsportverein Ostfriesland e.V."
+   }
+  ],
+  "sources": [
+   "https://kartbahn-ostfriesland.de/de/Unsere-Karts/",
+   "https://kartbahn-ostfriesland.de/de/Kartsportverein/",
+   "https://www.kartbahn-ostfriesland.de/"
+  ],
+  "note": "Club Kartsportverein Ostfriesland races both own karts (Brookmerland Cup) and the track's rental karts (club rental-kart races)."
+ },
+ {
+  "id": "way/1396740448",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/loxstedt/"
+  ],
+  "note": "No kart venue found in Loxstedt; 'Treggerbahn' (Low German for tractor track) may not be a kart track."
+ },
+ {
+  "id": "way/223180179",
+  "name": null,
+  "type": null,
+  "website": "https://kart-o-drom.de/",
+  "phone": "+49 4402 598282",
+  "email": "rastede@kart-o-drom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [
+   {
+    "url": "https://kart-o-drom.de/",
+    "role": "rental",
+    "name": "Kart-O-Drom Rastede"
+   }
+  ],
+  "sources": [
+   "https://kart-o-drom.de/"
+  ],
+  "note": "Combined 450 m indoor course and 850 m full outdoor track; kids karts from 6 years; fleet models not stated."
+ },
+ {
+  "id": "way/1474842457",
+  "name": null,
+  "type": null,
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/detern/"
+  ],
+  "note": "No web source found for Kartbahn Stickhausen; not in regional directory."
+ },
+ {
+  "id": "way/78364408",
+  "name": "Kartbahn Lüneburg",
+  "type": "outdoor",
+  "website": "https://www.kartbahn-lueneburg.de/",
+  "phone": "+49 4134 9066087",
+  "email": "info@kartbahn-lueneburg.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "websites": [
+   {
+    "url": "https://www.kartbahn-lueneburg.de/",
+    "role": "rental",
+    "name": "Kartbahn Lüneburg Embsen GmbH"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-lueneburg.de/kartbahn/karts/",
+   "https://www.kartbahn-lueneburg.de/kartbahn/strecke/",
+   "https://www.kartbahn-lueneburg.de/"
+  ],
+  "note": "810 m track at the ADAC driving safety centre Embsen."
+ },
+ {
+  "id": "node/921919343",
+  "name": "Ramsloh Indoor Karting",
+  "type": "indoor",
+  "website": null,
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "websites": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/ramsloh-indoor-karting/"
+  ],
+  "note": "Permanently closed since 2021; old domain ramsloh-karting.de now redirects to an unrelated site."
+ }
+]

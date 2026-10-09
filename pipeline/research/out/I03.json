@@ -1,0 +1,864 @@
+[
+ {
+  "id": "way/158536012",
+  "name": "Pista kart Montecenere",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t438881s.html"
+  ],
+  "note": "Only a 2009 forum thread describes a small track between Pavullo and Lama Mocogno with weekend private-kart sessions and afternoon rental; no current source found."
+ },
+ {
+  "id": "way/243650238",
+  "name": "Go-Kart Pista Riviera Verde",
+  "type": null,
+  "website": "http://www.go-kartmisano.it",
+  "websites": [
+   {
+    "url": "http://www.go-kartmisano.it",
+    "role": "rental",
+    "name": "Go-Kart Pista Riviera Verde"
+   }
+  ],
+  "phone": "+39 0541 614056; +39 347 9214197",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "geared (kart a marce)",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "http://www.go-kartmisano.it",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.hoteldiamond.it/en/go-kart-and-ikart.php"
+  ],
+  "note": "Seasonal tourist rental track (Via del Ciglio 7, Portoverde); closed in winter, 2026 season opened 4 April."
+ },
+ {
+  "id": "relation/2011899",
+  "name": null,
+  "type": null,
+  "website": "https://www.autodromodimodena.it",
+  "websites": [
+   {
+    "url": "https://www.autodromodimodena.it",
+    "role": "venue",
+    "name": "Autodromo di Modena"
+   }
+  ],
+  "phone": "+39 059 388711",
+  "email": "info@autodromodimodena.it",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motorvalley.it/en/?p=4464"
+  ],
+  "note": "Car racing circuit at Marzaglia offering supercar experiences; no kart rental or karting found."
+ },
+ {
+  "id": "node/12395369765",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart track in Montese found online; may be confused with the Montecenere track near Lama Mocogno."
+ },
+ {
+  "id": "way/242491459",
+  "name": "Pista Rioveggio (Coop. Karting Rioveggio)",
+  "type": null,
+  "website": "http://www.pistarioveggio.it",
+  "websites": [
+   {
+    "url": "http://www.pistarioveggio.it",
+    "role": "venue",
+    "name": "Pista Rioveggio"
+   },
+   {
+    "url": "https://freedome.it/guida-sportiva/pista-di-rioveggio/",
+    "role": "other",
+    "name": "Freedome kart experience"
+   }
+  ],
+  "phone": "+39 336 558001",
+  "email": "info@pistarioveggio.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Briggs & Stratton LO206",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.pistarioveggio.it",
+   "https://freedome.it/attivita/mezza-giornata-kart-pista-rioveggio-bologna/",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "note": "Homologated club track (Via Biolo 58/A) since 1987 hosting regional races; separate contacts for rental (347 2542388) and private karts (347 9778061); closed Thursdays."
+ },
+ {
+  "id": "way/179588941",
+  "name": "Pala Kart Parma",
+  "type": "indoor",
+  "website": "http://www.palakartparma.it",
+  "websites": [
+   {
+    "url": "http://www.palakartparma.it",
+    "role": "rental",
+    "name": "Pala Kart Parma"
+   }
+  ],
+  "phone": "+39 0521 272068; +39 328 2392211",
+  "email": "info@palakartparma.it",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "http://www.palakartparma.it",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "note": "Indoor rental track at Via Mantova 86/A; regional tourism list says temporarily closed due to relocation, own website shows no closure."
+ },
+ {
+  "id": "way/385008203",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at these coordinates east of Piacenza; the only listed Piacenza-province track is Turbokart in Rottofreno (different location)."
+ },
+ {
+  "id": "way/177354161",
+  "name": "Lago Max",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/lago-max--e19682220"
+  ],
+  "note": "Directory lists kart rental and minimoto at Via Staggi 221, Ravenna; no official site found."
+ },
+ {
+  "id": "way/47052547",
+  "name": "Pista Go Kart Riccione",
+  "type": null,
+  "website": "https://www.facebook.com/riccionekartemoto",
+  "websites": [
+   {
+    "url": "https://www.facebook.com/riccionekartemoto",
+    "role": "rental",
+    "name": "Pista Go Kart Riccione"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.motogp.com/en/news/2018/08/25/al-gp-di-misano-torna-la-spurtleda58/147867"
+  ],
+  "note": "Matched by town only (Via Flaminia 75, Riccione); not verified that these coordinates are that address."
+ },
+ {
+  "id": "way/721600346",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Second small track in Riccione; no venue identified - could be the Via Flaminia 75 track instead of way/47052547."
+ },
+ {
+  "id": "way/1384130031",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Viserbella (Rimini north)."
+ },
+ {
+  "id": "way/228942875",
+  "name": "Pista Go-Kart Miramare (Rimini)",
+  "type": null,
+  "website": null,
+  "websites": [
+   {
+    "url": "http://www.go-kartrimini.it",
+    "role": "rental",
+    "name": "Pista GoKart Rimini"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "http://www.go-kartrimini.it"
+  ],
+  "note": "Probably the old Miramare track (Viale Principe di Piemonte 184); the operator's site now says it runs at Le Befane shopping centre, Via Caduti di Nassiriya (CRG chassis, Honda engines), so this site may be closed."
+ },
+ {
+  "id": "relation/19751379",
+  "name": "La Tosa",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "http://www.acquaparcoacqualand.it"
+  ],
+  "note": "Regional list names a kart track 'La Tosa' at Via del Senio 10, Riolo Terme (Acqualand water park address), but the park site does not mention karts."
+ },
+ {
+  "id": "way/1313745985",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 295 m track; no venue found in Solarolo."
+ },
+ {
+  "id": "way/1317631741",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart track found in Lignano Pineta; nearest known is Lignano Circuit in Precenicco."
+ },
+ {
+  "id": "node/6810005042",
+  "name": "K1 Speed Udine (formerly Hollywood Kart)",
+  "type": "indoor",
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.k1speed.com",
+    "role": "rental",
+    "name": "K1 Speed"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://tkart.it/en/news/features/indoor-go-kart-track-opens-at-citta-fiera-3-floors-3500-mq",
+   "https://www.prnewswire.com/it/comunicati-stampa/lespansione-globale-di-k1-speed-corre-in-italia-grazie-alla-partnership-stretta-con-hollywood-kart-302189393.html"
+  ],
+  "note": "Three-floor indoor electric track in Citta Fiera mall (opened 2019); Hollywood Kart sites announced in July 2024 to rebrand as K1 Speed, current status not confirmed."
+ },
+ {
+  "id": "way/595881350",
+  "name": null,
+  "type": null,
+  "website": "https://www.lignanocircuit.com",
+  "websites": [
+   {
+    "url": "https://www.lignanocircuit.com",
+    "role": "venue",
+    "name": "Lignano Circuit"
+   }
+  ],
+  "phone": "+39 0431 558000",
+  "email": "info@lignanocircuit.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "SR4",
+    "engine": "390cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.lignanocircuit.com",
+   "https://lignanosabbiadoro.it/en/strutture/lignano-circuit/",
+   "https://www.turismofvg.it/it/mare/lignano-circuit"
+  ],
+  "note": "Open February-December; 30 single-seat SR4 and 4 two-seat 2Drive rental karts."
+ },
+ {
+  "id": "way/179934334",
+  "name": null,
+  "type": null,
+  "website": "http://www.pistakartalberone.it",
+  "websites": [
+   {
+    "url": "http://www.pistakartalberone.it",
+    "role": "venue",
+    "name": "Pista Kart Alberone (Alberone Sporting Club)"
+   }
+  ],
+  "phone": "+39 0432 717016",
+  "email": "pistakartalberone@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "http://www.pistakartalberone.it",
+   "http://www.pistakartalberone.it/?page_id=143"
+  ],
+  "note": "1085 m ACI track; 2026 calendar of 'prove libere kart' and a 'Listino Rental 2026' post (price list is an image, fleet not stated); open Fri-Sun."
+ },
+ {
+  "id": "way/286651335",
+  "name": "Circuito Valle del Liri",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://yumping.com/en/karting/circuito-valle-del-liri--e17243",
+   "https://tkart.it/en/news/events/arce-awards-the-titles-of-the-italian-cup-aci-karting-2019"
+  ],
+  "note": "Assumed to be the 1200 m Circuito Valle del Liri on Via Casilina, Arce (ACI national races, rental karts, night lighting); name link to 'Fini' not verified."
+ },
+ {
+  "id": "way/430792284",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Cecchina/Ariccia."
+ },
+ {
+  "id": "way/186119706",
+  "name": null,
+  "type": null,
+  "website": "http://www.gokartena.it",
+  "websites": [
+   {
+    "url": "http://www.gokartena.it",
+    "role": "venue",
+    "name": "Pista Go Kart Artena"
+   }
+  ],
+  "phone": "+39 348 7084603",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.gokartena.it"
+  ],
+  "note": "Outdoor track at Via Colubro 33; single karts from age 10, two-seaters for passengers from 5; private karts in open practice."
+ },
+ {
+  "id": "way/911378949",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979107735356448768/kartodromo-di-atina"
+  ],
+  "note": "Only a hotel-listing reference confirms the name; no operator details found."
+ },
+ {
+  "id": "way/388576549",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Tirreno-Karting-Hotels.0-l979108406445088768-0.Travel-Guide-Filter-Hotels"
+  ],
+  "note": "Only hotel listings reference the name; no operator details found."
+ },
+ {
+  "id": "way/1078429098",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.vallelunga.it",
+    "role": "venue",
+    "name": "ACI Vallelunga"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 389 m kart track at the ACI Vallelunga circuit; no karting information found online."
+ },
+ {
+  "id": "way/388207666",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Tiny 175 m track; no venue found in Castrocielo."
+ },
+ {
+  "id": "node/3328247202",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Cerveteri."
+ },
+ {
+  "id": "way/40906369",
+  "name": "La Scaglia Kart (Aurelia Karting)",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/aurelia-karting-civitavecchia",
+   "https://www.yumping.com/it/kart/la-scaglia-kart--e19698747"
+  ],
+  "note": "Via Aurelia Nord, loc. La Scaglia; also used by supermotard/scooters; listing (2024) says open year-round."
+ },
+ {
+  "id": "way/713146485",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Nothing found for 'Circuito la Scintilla' or any kart track in Contigliano."
+ },
+ {
+  "id": "way/59826097",
+  "name": null,
+  "type": null,
+  "website": "http://www.pistakartingfondi.com",
+  "websites": [],
+  "phone": "+39 334 3770027",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Known website domain no longer resolves; no other source found."
+ },
+ {
+  "id": "way/198091255",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue identified at Bivio di Guidonia; Pista d'Oro is nearby at Bagni di Tivoli but not confirmed as this site."
+ },
+ {
+  "id": "node/9837894989",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartodromopomezia.it",
+  "websites": [
+   {
+    "url": "https://www.kartodromopomezia.it",
+    "role": "rental",
+    "name": "Kartodromo Pomezia"
+   }
+  ],
+  "phone": "+39 06 79785959; +39 371 4971665",
+  "email": "kartodromopomezia@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi LRX",
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.kartodromopomezia.it"
+  ],
+  "note": "Site describes an indoor two-level electric track in Parco 51 (Via Pontina km 27.8), contrary to OSM outdoor tag."
+ },
+ {
+  "id": "way/1118676543",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Pontecorvo."
+ },
+ {
+  "id": "way/252062916",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Saxa Rubra."
+ },
+ {
+  "id": "way/442190451",
+  "name": "HolyKart Roma",
+  "type": "indoor",
+  "website": "http://www.holykartroma.it",
+  "websites": [
+   {
+    "url": "http://www.holykartroma.it",
+    "role": "rental",
+    "name": "HolyKart Roma"
+   }
+  ],
+  "phone": "+39 339 2782994",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.holykartroma.it"
+  ],
+  "note": "Covered track at Via Morbegno 59 (KGT Racing Team S.r.l.)."
+ },
+ {
+  "id": "way/1173707235",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small 244 m track ~500 m from E-gokart Roma; no separate venue identified."
+ },
+ {
+  "id": "way/493236628",
+  "name": null,
+  "type": null,
+  "website": "http://www.ttracing.it",
+  "websites": [
+   {
+    "url": "http://www.ttracing.it",
+    "role": "venue",
+    "name": "Torricola Team Racing"
+   }
+  ],
+  "phone": "+39 339 7411003; +39 329 8111659",
+  "email": "torricolateamracing@libero.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "http://www.ttracing.it"
+  ],
+  "note": "Rental kart hours 11-13 and 14:30-19:45, also minimoto/pit bike; closed Mondays."
+ },
+ {
+  "id": "way/1314593043",
+  "name": "E-gokart Roma",
+  "type": "indoor",
+  "website": "https://www.e-gokart.it",
+  "websites": [
+   {
+    "url": "https://www.e-gokart.it",
+    "role": "rental",
+    "name": "E-gokart Roma"
+   }
+  ],
+  "phone": "+39 351 5575181",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.e-gokart.it",
+   "https://dgasi.uniroma3.it/convenzioni/dataentry/uploads/68557b9f63bdf_WEBVolnE-gokartOffewrtaRoma3 (1).pdf"
+  ],
+  "note": "Indoor ~460 m three-level electric track at The Village mall, Via Rebecchini 5; 7 EUR annual membership required."
+ },
+ {
+  "id": "way/829618280",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "987 m track near Veroli; only a hotel-listing reference found, no operator."
+ },
+ {
+  "id": "way/1506906475",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t92833s.html"
+  ],
+  "note": "A 2007 forum post mentions an 'Elettrokart Sensi' track at Grotte Santo Stefano closed by the municipality; current status unknown."
+ },
+ {
+  "id": "way/290766494",
+  "name": "Leopard Circuit Viterbo",
+  "type": null,
+  "website": "https://www.viterbocircuit.com",
+  "websites": [
+   {
+    "url": "https://www.viterbocircuit.com",
+    "role": "venue",
+    "name": "Leopard Circuit Viterbo"
+   }
+  ],
+  "phone": "+39 0761 191500",
+  "email": "info@viterbocircuit.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.viterbocircuit.com",
+   "https://tkart.it/en/news/features/the-circuits-of-the-2025-italian-aci-karting-championship-rd2-viterbo"
+  ],
+  "note": "Assumed match (Strada Cassia Nord km 90.3); 1300 m multipurpose ACI track with rental and prove libere sections."
+ }
+]

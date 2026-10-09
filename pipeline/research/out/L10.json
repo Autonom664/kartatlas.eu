@@ -1,0 +1,299 @@
+[
+ {
+  "id": "node/60207296",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/88029071",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/174962870",
+  "tracks": [
+   {
+    "name": "Große Strecke",
+    "length_m": 750,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://kartbahn-ostfriesland.de/de/Unsere-Bahn/",
+  "note": "Site has a large and a smaller track; states the concrete circuit is 'gut 750 m' in total, smaller track length not given."
+ },
+ {
+  "id": "way/328666276",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 2000,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.karting-paradies.de",
+  "note": "2000 m indoor/outdoor track on two levels with tunnels and a bridge."
+ },
+ {
+  "id": "way/27658112",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 435,
+    "width_m": 6,
+    "use": "rental"
+   },
+   {
+    "name": "Outdoor track",
+    "length_m": 1190,
+    "width_m": 12,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.prokart-raceland.com/-outdoor",
+  "note": "Indoor width 5-6 m (https://www.prokart-raceland.com/-indoor); outdoor width 9-12 m; homepage rounds outdoor to 1.2 km."
+ },
+ {
+  "id": "way/537479732",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/72708524",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/143901665",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/13110958672",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/164688996",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/33529699",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/587974059",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/87497403",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/336869541",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/127169866",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/12547718882",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/837980941",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/392128609",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/89670854",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/655238957",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/798432703",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "relation/2625023",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/674711953",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1546897978",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/186119706",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/12296957472",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/416497419",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/12383157724",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1270623433",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/238454074",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/683379720",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/60136442",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1078429098",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/185017673",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "relation/12721481",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/4170263824",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1316505007",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/133611214",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/245463137",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/423697503",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/12127526846",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/75928127",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "relation/18655290",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/645437188",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/354900178",
+  "tracks": [],
+  "source": null,
+  "note": null
+ }
+]

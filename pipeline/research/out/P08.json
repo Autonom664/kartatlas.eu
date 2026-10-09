@@ -1,0 +1,2153 @@
+[
+ {
+  "id": "way/312407341",
+  "prices": [
+   {
+    "label": "Kart Parolin (Honda GX270)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kart Sodi (Honda GX390)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "B-posto Parolin two-seater",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price per kart likely; child passenger with parent"
+   },
+   {
+    "label": "B-posto Sodi two-seater",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price per kart likely; child passenger with parent"
+   }
+  ],
+  "fees": [
+   {
+    "name": "loyalty card",
+    "amount": 5,
+    "currency": "EUR",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "first visit only"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.viterbocircuit.com/noleggio-go-kart-viterbo",
+  "tracks": [],
+  "note": "Site branded Leopard Circuit Viterbo; disposable helmet liner included."
+ },
+ {
+  "id": "way/881600516",
+  "prices": [
+   {
+    "label": "Righetti Ridolfi 270cc adult",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "15 min 25 EUR, 20 min 30 EUR"
+   },
+   {
+    "label": "Simulazione gara 8 min quali + 14 min race",
+    "class": "adult",
+    "type": "package",
+    "minutes": 22,
+    "laps": null,
+    "price": 33,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "with 8 min practice: 45 EUR"
+   },
+   {
+    "label": "Kids CKR 35cc / Righetti Ridolfi 160cc",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 5,
+    "max_age": 12,
+    "min_height_cm": null,
+    "day": null,
+    "note": "35cc ages 5-8, 160cc ages 8-12 (130-150 cm); 15 min 25, 20 min 30"
+   },
+   {
+    "label": "CKR Briggs 4T expert",
+    "class": "race",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "suit and rib protector included; 15 min 65 EUR"
+   }
+  ],
+  "fees": [
+   {
+    "name": "insurance card",
+    "amount": 5,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": true,
+    "note": "adult rental"
+   },
+   {
+    "name": "ASI C1 membership/insurance",
+    "amount": 20,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": true,
+    "note": "kids and expert karts"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.polentaemotori.it/#tabs-4",
+  "tracks": [],
+  "note": "Helmet included; booking via WhatsApp."
+ },
+ {
+  "id": "way/1006250895",
+  "prices": [
+   {
+    "label": "Single ride adult",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 18,
+    "currency": "CHF",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "approx. 8 min; students/apprentices 16 CHF"
+   },
+   {
+    "label": "Single ride children under 12",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 14,
+    "currency": "CHF",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 11,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "approx. 8 min"
+   },
+   {
+    "label": "10-ride card adult",
+    "class": "adult",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 145,
+    "currency": "CHF",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 rides of approx. 8 min, transferable"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.kartbahn.li/preise",
+  "tracks": [],
+  "note": "Electric karts; no track length stated; exclusive hire 500 CHF/hour."
+ },
+ {
+  "id": "node/7452547101",
+  "prices": [
+   {
+    "label": "E-Karten 1 heat",
+    "class": "electric",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "plus warm-up lap; same price for youth heats (up to 12)"
+   },
+   {
+    "label": "E-Karten 3 heats",
+    "class": "electric",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 52.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "2 heats 36 EUR"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://zero55.nl/apeldoorn/activiteiten/e-karten/",
+  "tracks": [
+   {
+    "name": "E-kart circuit",
+    "length_m": 340,
+    "width_m": null,
+    "use": "rental (240 m indoors)"
+   }
+  ],
+  "note": "Card payment only."
+ },
+ {
+  "id": "node/575350323",
+  "prices": [
+   {
+    "label": "Kombikart Eco (Honda GX200) heat",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 19.95,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "helmet, gloves and overalls included"
+   },
+   {
+    "label": "Weekday deal 3 heats",
+    "class": "adult",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 49.95,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": "weekday",
+    "note": "3 x 12 min, Wednesday-Friday"
+   },
+   {
+    "label": "2-hour rental kart race",
+    "class": "adult",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 250,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price per team presumably, not stated per person"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.circuitparkberghem.nl/huurkarts-2/",
+  "tracks": [],
+  "note": null
+ },
+ {
+  "id": "way/217521987",
+  "prices": [
+   {
+    "label": "Karten (1-person or 2-person kart)",
+    "class": "other",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 7.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "duration not stated; on top of park entry (15-18 EUR); 2-seater: adult drives with child"
+   }
+  ],
+  "fees": [
+   {
+    "name": "park entry",
+    "amount": 15,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "15-18 EUR depending on ticket type"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.linnaeushof.nl/praktische-info/prijzen-tickets/",
+  "tracks": [],
+  "note": "Amusement-park kart track; no track length stated."
+ },
+ {
+  "id": "node/1571226584",
+  "prices": [
+   {
+    "label": "Kartheat",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": "same price Amsterdam and Delft"
+   },
+   {
+    "label": "Lange Baan heat (weekend evenings)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": "weekend",
+    "note": "super-long layout Sat/Sun evening; second heat 21.50"
+   },
+   {
+    "label": "Kinderheat (rookie karts)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": 14,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "140 cm in Delft (135 cm Amsterdam)"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://raceplanet.nl/karten/kartheat/",
+  "tracks": [],
+  "note": "Delft has two layouts but no lengths stated."
+ },
+ {
+  "id": "node/2779183074",
+  "prices": [
+   {
+    "label": "Heat single kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Heat Duo-Kart",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 26.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 6,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "child from 6 rides with a supervisor; per-person vs per-kart unclear"
+   },
+   {
+    "label": "Grote Groepen Special",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 300,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "off-peak",
+    "note": "group price for 10 karts, from 10 people"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://kartingtexel.nl/tarieven/",
+  "tracks": [],
+  "note": "Protective equipment free."
+ },
+ {
+  "id": "way/58821981",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "note": "De Uithof website no longer mentions karting (only an F1 race simulator); karting may have closed."
+ },
+ {
+  "id": "node/958029969",
+  "prices": [
+   {
+    "label": "Kart session",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 19.95,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "same price adults and children; helmet and race jacket included"
+   },
+   {
+    "label": "Memberkart 5 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 84,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "personal 5-ride card"
+   },
+   {
+    "label": "Two karting sessions with menu",
+    "class": "adult",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 49,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "min. 4 people"
+   }
+  ],
+  "fees": [
+   {
+    "name": "balaclava",
+    "amount": 1,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kart.nl/karten/",
+  "tracks": [],
+  "note": "bowlmore.nl/dordrecht is a separate bowling venue without karting; no track length stated."
+ },
+ {
+  "id": "node/2848644350",
+  "prices": [
+   {
+    "label": "Senior kart heat",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": "from 3rd heat 12.50 per heat"
+   },
+   {
+    "label": "Junior kart heat",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "for 1.35-1.60 m"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://kartbaanduiven.nl/karten-2/",
+  "tracks": [],
+  "note": "Indoor track; no length stated in text. Hand-control kart same price as senior."
+ },
+ {
+  "id": "way/276563025",
+  "prices": [
+   {
+    "label": "Adult heat",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 heats 42.50, 3 heats 59.50"
+   },
+   {
+    "label": "Kart Mini Grand Prix (Formule 1)",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 57.5,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "reception, briefing, 10 min training, 10 min qualifying, race"
+   }
+  ],
+  "fees": [
+   {
+    "name": "balaclava",
+    "amount": 3.5,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "or bring your own"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://allinecht.nl/nl/karten",
+  "tracks": [],
+  "note": "Kids karts (1.40-1.65 m) and duo karts offered but no price listed; no track length stated."
+ },
+ {
+  "id": "node/6859713080",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "note": "Not checked: SSL certificate mismatch (served by a hosting reseller certificate), site could not be fetched."
+ },
+ {
+  "id": "node/8695377425",
+  "prices": [
+   {
+    "label": "E-kart heat adult",
+    "class": "electric",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 19.99,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 heats 37.99, 3 heats 49.99"
+   },
+   {
+    "label": "Kids heat (mini kart 1.20-1.45 m / junior from 1.45 m)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 19.99,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 16,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "same heat price as adults"
+   },
+   {
+    "label": "Kart & soda kids party",
+    "class": "kids",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 24.95,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 120,
+    "day": null,
+    "note": "two 8-min heats plus soda, per child"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://hezemans.nl/karten-eindhoven/",
+  "tracks": [
+   {
+    "name": "Indoor track (two levels, 12 corners)",
+    "length_m": 650,
+    "width_m": null,
+    "use": "rental; width stated as 5-9 m"
+   }
+  ],
+  "note": null
+ },
+ {
+  "id": "node/2732671760",
+  "prices": [
+   {
+    "label": "Huurkart 200cc 4-stroke heat",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19.95,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "2 heats 39, 3 heats 57, 4 heats 74"
+   }
+  ],
+  "fees": [
+   {
+    "name": "licence card",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": false,
+    "note": "only if not registered online beforehand"
+   },
+   {
+    "name": "balaclava",
+    "amount": 1.5,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "2.50 at the counter if not pre-ordered"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://outdoorkarting.nl/huurkart/",
+  "tracks": [],
+  "note": "2-hour Grand Prix for teams listed without price."
+ },
+ {
+  "id": "node/2756063118",
+  "prices": [
+   {
+    "label": "E-Karten 1 heat (Tarieven)",
+    "class": "electric",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 18.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "heat length not stated; ticket listing shows 19.95 for 1 session (conflicting); youth heats up to 12 same price"
+   },
+   {
+    "label": "E-Karten 3 heats",
+    "class": "electric",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 44.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "2 heats 34.50"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://zero55.nl/enschede/activiteiten/e-karten/",
+  "tracks": [],
+  "note": "Page shows two conflicting price sets (18.50 vs 19.95 per heat); 425 m track."
+ }
+,
+ {
+   "id": "node/1098017859",
+   "prices": [
+     {
+       "label": "Adult kart heat",
+       "class": "adult",
+       "type": "session",
+       "minutes": 12,
+       "laps": null,
+       "price": 21.5,
+       "currency": "EUR",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 155,
+       "day": null,
+       "note": "Minimum height 155 cm"
+     },
+     {
+       "label": "Junior kart heat",
+       "class": "junior",
+       "type": "session",
+       "minutes": 12,
+       "laps": null,
+       "price": 21.5,
+       "currency": "EUR",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 140,
+       "day": null,
+       "note": "Minimum height 140 cm"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://a15karting.nl/karten/",
+   "tracks": [],
+   "note": "Official kart options page; booking cards link through to the exact offerings."
+ }
+,
+ {
+   "id": "way/47490179",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.teamsport-ekarting.nl/locaties/groningen",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in the official location information reviewed."
+ }
+,
+ {
+   "id": "node/2551684936",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.indoorkartingheerenveen.nl",
+   "tracks": [],
+   "note": "No publicly displayed rental tariff located in the official site material reviewed."
+ }
+,
+ {
+   "id": "way/474012393",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://kartclubulrum.nl/",
+   "tracks": [],
+   "note": "No public rental price list located on the official Kartclub Ulrum site; rental is offered on weekends and holidays."
+ }
+,
+ {
+   "id": "node/1413233649",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://coronel.nl/karten/",
+   "tracks": [],
+   "note": "No standard rental price located on the official karting page reviewed."
+ }
+,
+ {
+   "id": "way/296815510",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartbaanuden.nl",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in the official site material reviewed."
+ }
+,
+ {
+   "id": "node/2782845692",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartingemmen.nl",
+   "tracks": [],
+   "note": "No public rental prices located in official site content reviewed."
+ }
+,
+ {
+   "id": "node/2690461468",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://planet-awesome.com",
+   "tracks": [],
+   "note": "No publicly displayed karting tariff located in the official site material reviewed."
+ }
+,
+ {
+   "id": "node/2663385135",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartplaza.nl/",
+   "tracks": [],
+   "note": "No public rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/278188018",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://kartbaanoldenzaal.nl/",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/4620552009",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.vanderende.com/",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/13897664495",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": null,
+   "tracks": [],
+   "note": "Not checked: official website DNS/connection failed during retrieval; no price details verified."
+ }
+,
+ {
+   "id": "node/7734829180",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.devoltage.nl",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/3040205459",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartfabrique.nl/",
+   "tracks": [],
+   "note": "No publicly displayed rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/1360118353",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.teamsport-ekarting.nl/locaties/utrecht",
+   "tracks": [],
+   "note": "No public standard rental tariff found in official location information reviewed."
+ }
+,
+ {
+   "id": "way/446075802",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartbaan.com",
+   "tracks": [],
+   "note": "No publicly displayed rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/274259545",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.powerarea.nl",
+   "tracks": [],
+   "note": "No publicly displayed standard rental price located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/13607854888",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://kartbaanwinterswijk.nl",
+   "tracks": [],
+   "note": "No public standard rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/4614279439",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.silverstone.nl",
+   "tracks": [],
+   "note": "No publicly displayed rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "node/2788019640",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kartcentrumzwolle.nl",
+   "tracks": [],
+   "note": "No publicly displayed standard rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/1350493948",
+   "prices": [
+     {
+       "label": "Drop-in karting",
+       "class": "adult",
+       "type": "session",
+       "minutes": 10,
+       "laps": null,
+       "price": 240,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": 16,
+       "max_age": null,
+       "min_height_cm": 150,
+       "day": null,
+       "note": ""
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://racehall.com/en/vare/drop-in-sthlm/",
+   "tracks": [],
+   "note": "Official booking page lists 10-minute drop-in for 240 SEK. Other longer tickets are multi-session/block options."
+ }
+,
+ {
+   "id": "way/234113309",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.enkopingsmk.se/karting",
+   "tracks": [],
+   "note": "No public rental price list located on Enköpings MK official site material reviewed."
+ }
+,
+ {
+   "id": "way/343140372",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kneippbyn.se",
+   "tracks": [],
+   "note": "No publicly displayed gokart tariff located in official Kneippbyn site material reviewed."
+ }
+,
+ {
+   "id": "node/14088543327",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://grangeshyrkart.se",
+   "tracks": [],
+   "note": "No public rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "relation/10426245",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://gokart.se/",
+   "tracks": [],
+   "note": "No publicly displayed standard rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/1005039103",
+   "prices": [
+     {
+       "label": "Downhill Cars, 6 rides",
+       "class": "other",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 280,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": 12,
+       "max_age": null,
+       "min_height_cm": 150,
+       "day": null,
+       "note": "6 rides for one person, online price; 300 SEK drop-in. Duration per ride is not stated."
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.flottsbro.se/gora/downhill-cars/",
+   "tracks": [],
+   "note": "Downhill cars rather than standard track rental karting."
+ }
+,
+ {
+   "id": "way/132148316",
+   "prices": [
+     {
+       "label": "Drop-in adult kart",
+       "class": "adult",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 160,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": null
+     },
+     {
+       "label": "Junior kart",
+       "class": "junior",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 100,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": null
+     },
+     {
+       "label": "Double kart",
+       "class": "twin",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 200,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price appears to be per kart."
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://hudikhyrcart.se/aktiviteter-och-priser/",
+   "tracks": [],
+   "note": "Prices found on the official prices page; race packages and exclusive hire also offered."
+ }
+,
+ {
+   "id": "way/1307053280",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.vuollerimsmf.se/kartingringen",
+   "tracks": [],
+   "note": "No public rental prices located in official karting-ring information reviewed."
+ }
+,
+ {
+   "id": "way/1418328888",
+   "prices": [
+     {
+       "label": "Outdoor rental kart session",
+       "class": "adult",
+       "type": "session",
+       "minutes": 7,
+       "laps": null,
+       "price": 200,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": null
+     },
+     {
+       "label": "Outdoor rental kart, 2 sessions",
+       "class": "adult",
+       "type": "package",
+       "minutes": 14,
+       "laps": null,
+       "price": 375,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "2 × 7-minute driving sessions"
+     },
+     {
+       "label": "Outdoor rental kart, 3 sessions",
+       "class": "adult",
+       "type": "package",
+       "minutes": 21,
+       "laps": null,
+       "price": 500,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "3 × 7-minute driving sessions"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.jarfallahyrkart.se/hyrkart-utomhus/",
+   "tracks": [],
+   "note": "Adult plain drop-in prices; height and age restrictions apply as shown on the venue site."
+ }
+,
+ {
+   "id": "way/279571694",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.vroom.se",
+   "tracks": [],
+   "note": "No public standard rental prices located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/45484844",
+   "prices": [
+     {
+       "label": "Stor gokart, drop-in",
+       "class": "adult",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 220,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 135,
+       "day": null,
+       "note": "Minimum height 135 cm"
+     },
+     {
+       "label": "Double kart",
+       "class": "twin",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 270,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": 18,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Passenger from 5 years; driver from 18 years"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.kalmargokart.se/priser/",
+   "tracks": [],
+   "note": "Official prices page; multi-session and group race offers also listed."
+ }
+,
+ {
+   "id": "way/250247751",
+   "prices": [
+     {
+       "label": "Adult drop-in kart",
+       "class": "adult",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 199,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": 12,
+       "max_age": null,
+       "min_height_cm": 150,
+       "day": null,
+       "note": "Minimum age 12 and height 150 cm"
+     },
+     {
+       "label": "Minikart",
+       "class": "kids",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 165,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 130,
+       "day": null,
+       "note": "Minimum height 130 cm"
+     },
+     {
+       "label": "Duokart",
+       "class": "twin",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 199,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": 4,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "For two people; price per kart"
+     }
+   ],
+   "fees": [
+     {
+       "name": "balaclava",
+       "amount": 25,
+       "currency": "SEK",
+       "period": "per visit",
+       "mandatory": true,
+       "note": "Balaclava required under loan helmet; can bring own."
+     }
+   ],
+   "membership": null,
+   "price_source": "https://gellerasen.se/gokart/",
+   "tracks": [],
+   "note": "Official venue information. Race packages also offered."
+ }
+,
+ {
+   "id": "way/486200449",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.svenskalag.se/ksklippan",
+   "tracks": [],
+   "note": "No publicly displayed rental tariff located in official club material reviewed."
+ }
+,
+ {
+   "id": "relation/10105432",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.varmlandsgokartcenter.se/",
+   "tracks": [],
+   "note": "No public rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/1549065921",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "http://www.blakullagokart.se/",
+   "tracks": [],
+   "note": "No public rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/486577840",
+   "prices": [
+     {
+       "label": "Hagaslätt Mini race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 370,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 9 participants"
+     },
+     {
+       "label": "Hagaslätt Mellan race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 500,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 14 participants"
+     },
+     {
+       "label": "Hagaslätt Stor race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 600,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 14 participants"
+     },
+     {
+       "label": "Hagaslätt Maxi race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 700,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 14 participants"
+     },
+     {
+       "label": "Bästa tid",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 480,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 7 participants; timed-race package"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://vaxjohyrkart.se/boka-race/",
+   "tracks": [],
+   "note": "Only group race packages found; no plain single-session tariff. Official page retrieval returned 403; listed values surfaced in search results for the official booking page."
+ }
+,
+ {
+   "id": "way/95777914",
+   "prices": [
+     {
+       "label": "Formel 1-Race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 495,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 5 participants"
+     },
+     {
+       "label": "STCC-Race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 645,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 5 participants"
+     },
+     {
+       "label": "Grand Prix",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 795,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per person; minimum 5 participants"
+     },
+     {
+       "label": "Go-kart Långlopp",
+       "class": "adult",
+       "type": "package",
+       "minutes": 60,
+       "laps": null,
+       "price": 1995,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per team and hour; 3–8 drivers per team; 12 driving stints per hour"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://magpgokart.se/aktiviteter-och-priser/",
+   "tracks": [],
+   "note": "Race formats and team endurance only; no standard standalone session tariff located."
+ }
+,
+ {
+   "id": "way/95564957",
+   "prices": [
+     {
+       "label": "Familjerace/nybörjare",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 475,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 6 participants"
+     },
+     {
+       "label": "Kortare race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 645,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 7 participants"
+     },
+     {
+       "label": "Större race/grupp",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 695,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 7 participants"
+     },
+     {
+       "label": "Långlopp",
+       "class": "adult",
+       "type": "package",
+       "minutes": 60,
+       "laps": null,
+       "price": 1895,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per kart per hour; 3–6 drivers per team"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.hyrgokart.com/paketpriser/",
+   "tracks": [],
+   "note": "Only group/race package prices located; no plain single-session tariff."
+ }
+,
+ {
+   "id": "way/410895971",
+   "prices": [
+     {
+       "label": "Familjerace/nybörjare",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 475,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 6 participants"
+     },
+     {
+       "label": "Kortare race",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 645,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 7 participants"
+     },
+     {
+       "label": "Större race/grupp",
+       "class": "adult",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 695,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per person; minimum 7 participants"
+     },
+     {
+       "label": "Långlopp",
+       "class": "adult",
+       "type": "package",
+       "minutes": 60,
+       "laps": null,
+       "price": 1895,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price per kart per hour; 3–6 drivers per team"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.hyrgokart.com/paketpriser/",
+   "tracks": [],
+   "note": "Same official rental operator and venue as adjacent Sviestad listing; only group/race package prices located."
+ }
+,
+ {
+   "id": "way/1193992601",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "http://kartway.se/Lulea/",
+   "tracks": [],
+   "note": "No public rental price list located in official Kartway Luleå information reviewed."
+ }
+,
+ {
+   "id": "way/828964156",
+   "prices": [
+     {
+       "label": "Drop-in rental kart",
+       "class": "adult",
+       "type": "session",
+       "minutes": 7,
+       "laps": null,
+       "price": 140,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Price stated by Visit Lycksele for Trollringen; applies to standard and tandem kart according to the listing."
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://visitlycksele.se/gokart/",
+   "tracks": [],
+   "note": "Price from Visit Lycksele listing; official club page did not return a readable price table."
+ }
+,
+ {
+   "id": "way/1091896435",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.glabogokart.se",
+   "tracks": [],
+   "note": "No public price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/1350495161",
+   "prices": [
+     {
+       "label": "Drop-in electric kart session",
+       "class": "electric",
+       "type": "session",
+       "minutes": null,
+       "laps": null,
+       "price": 205,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Duration not stated in source."
+     },
+     {
+       "label": "3 sessions",
+       "class": "electric",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 550,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Duration of one session not stated."
+     },
+     {
+       "label": "5 sessions",
+       "class": "electric",
+       "type": "package",
+       "minutes": null,
+       "laps": null,
+       "price": 890,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Duration of one session not stated."
+     },
+     {
+       "label": "Double kart session",
+       "class": "twin",
+       "type": "session",
+       "minutes": null,
+       "laps": null,
+       "price": 220,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Per session; duration not stated."
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://en.gokartcity.club/",
+   "tracks": [],
+   "note": "Price data from official site search result; the session duration was not stated."
+ }
+,
+ {
+   "id": "way/229163499",
+   "prices": [
+     {
+       "label": "First drop-in session",
+       "class": "adult",
+       "type": "session",
+       "minutes": 10,
+       "laps": null,
+       "price": 190,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 150,
+       "day": null,
+       "note": "Per driver; approx. 10 minutes"
+     },
+     {
+       "label": "Additional session",
+       "class": "adult",
+       "type": "session",
+       "minutes": 10,
+       "laps": null,
+       "price": 170,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": 150,
+       "day": null,
+       "note": "Per driver; approx. 10 minutes"
+     },
+     {
+       "label": "5-session card",
+       "class": "adult",
+       "type": "package",
+       "minutes": 10,
+       "laps": null,
+       "price": 800,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Personal card; 5 rides"
+     },
+     {
+       "label": "10-session card",
+       "class": "adult",
+       "type": "package",
+       "minutes": 10,
+       "laps": null,
+       "price": 1500,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Personal card; 10 rides"
+     },
+     {
+       "label": "20-session card",
+       "class": "adult",
+       "type": "package",
+       "minutes": 10,
+       "laps": null,
+       "price": 2800,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Personal card; 20 rides"
+     },
+     {
+       "label": "50-session card",
+       "class": "adult",
+       "type": "package",
+       "minutes": 10,
+       "laps": null,
+       "price": 6500,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Personal card; 50 rides"
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://lockarpsgokart.se/priser/",
+   "tracks": [],
+   "note": "Official price page: own kart requires 150 cm; double kart passenger at least 120 cm. Helmet liner is obligatory; no separate liner fee stated."
+ }
+,
+ {
+   "id": "node/6183808285",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.icekart.se/",
+   "tracks": [],
+   "note": "No current published rental prices located on official site material reviewed."
+ }
+,
+ {
+   "id": "way/321498514",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://gocartpitea.se/",
+   "tracks": [],
+   "note": "No publicly displayed rental price list located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/576906518",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://pitehavsbad.se/en/activities/gokart/",
+   "tracks": [],
+   "note": "No public rental prices located in the linked official activity information reviewed."
+ }
+,
+ {
+   "id": "way/34627720",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.gokartstadion.se/",
+   "tracks": [],
+   "note": "No public standard rental tariff located in official site material reviewed."
+ }
+,
+ {
+   "id": "way/433175801",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.sommarland.se/",
+   "tracks": [],
+   "note": "No public kart price located in official Sommarland site material reviewed."
+ }
+,
+ {
+   "id": "way/40076940",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://kartway.se/skelleftea",
+   "tracks": [],
+   "note": "No public rental price list located in official Kartway Skellefteå information reviewed."
+ }
+,
+ {
+   "id": "way/446435270",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.svenskalag.se/uddevallakarting",
+   "tracks": [],
+   "note": "No public rental prices located in official club information reviewed; material appears focused on club karting."
+ }
+,
+ {
+   "id": "way/126230927",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://raceforall.se/",
+   "tracks": [],
+   "note": "No public rental tariff located in official Race4all site material reviewed."
+ }
+,
+ {
+   "id": "way/514034732",
+   "prices": [
+     {
+       "label": "Drop-in karting",
+       "class": "adult",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 200,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": null
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.varbergsgokart.se/priser-bokning/",
+   "tracks": [],
+   "note": "Official pricing page lists 200 SEK for an 8-minute drop-in session."
+ }
+,
+ {
+   "id": "way/704291326",
+   "prices": [
+     {
+       "label": "High Speed drop-in race",
+       "class": "adult",
+       "type": "session",
+       "minutes": 8,
+       "laps": null,
+       "price": 180,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Driving time 8 minutes; on-track time about 9–10 minutes."
+     },
+     {
+       "label": "High Speed, 2 races",
+       "class": "adult",
+       "type": "package",
+       "minutes": 16,
+       "laps": null,
+       "price": 324,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "Two races; 8 minutes driving each."
+     },
+     {
+       "label": "Prestige Kart Step 1",
+       "class": "race",
+       "type": "session",
+       "minutes": null,
+       "laps": null,
+       "price": 250,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "15 hk; eligibility after qualifying with a fast lap."
+     },
+     {
+       "label": "Prestige Kart Step 2",
+       "class": "race",
+       "type": "session",
+       "minutes": null,
+       "laps": null,
+       "price": 295,
+       "currency": "SEK",
+       "extras": false,
+       "member": false,
+       "min_age": null,
+       "max_age": null,
+       "min_height_cm": null,
+       "day": null,
+       "note": "22 hk; eligibility after qualifying with a faster lap."
+     }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://action-center.se/gokart/drop%20in.html",
+   "tracks": [],
+   "note": "Standard drop-in is 180 SEK; the official page lists Prestige upgrade prices separately."
+ }
+]

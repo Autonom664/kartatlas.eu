@@ -1,0 +1,464 @@
+[
+ {
+  "id": "way/46766217",
+  "name": "Burney's Mechelen",
+  "town": "Mechelen",
+  "country": "Belgium",
+  "websites": [
+   "https://burneys.be"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/131579725",
+  "name": "De Kegel X-treme",
+  "town": "Middelkerke",
+  "country": "Belgium",
+  "websites": [
+   "https://www.bowlingdekegel.be/"
+  ],
+  "mapped_length_m": 410
+ },
+ {
+  "id": "way/895692304",
+  "name": "ImagiPark",
+  "town": "Mons",
+  "country": "Belgium",
+  "websites": [
+   "https://www.imagipark.be/"
+  ],
+  "mapped_length_m": 531
+ },
+ {
+  "id": "node/12676251167",
+  "name": "Battlekart Mouscron",
+  "town": "Mouscron",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/en/mouscron/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/99249659",
+  "name": "Goodwill Karting",
+  "town": "Olen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.goodwillkarting.be"
+  ],
+  "mapped_length_m": 535
+ },
+ {
+  "id": "way/144396456",
+  "name": "Racelandkart",
+  "town": "Oudsbergen",
+  "country": "Belgium",
+  "websites": [
+   "https://racelandkart.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/472960694",
+  "name": "Worldkarts Poperinge",
+  "town": "Poperinge",
+  "country": "Belgium",
+  "websites": [
+   "https://poperinge.worldkarts.com/home"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/43590428",
+  "name": "Inkart",
+  "town": "Puurs-Sint-Amands",
+  "country": "Belgium",
+  "websites": [
+   "https://www.inkart.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3724910749",
+  "name": "Worldkarts Sint-Niklaas",
+  "town": "Sint-Niklaas",
+  "country": "Belgium",
+  "websites": [
+   "https://sint-niklaas.worldkarts.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/34403881",
+  "name": "Karting Spa-Francorchamps (RACB)",
+  "town": "Stavelot",
+  "country": "Belgium",
+  "websites": [
+   "https://www.francorchamps-karting.be/"
+  ],
+  "mapped_length_m": 1234
+ },
+ {
+  "id": "node/10312671620",
+  "name": "WIK Wavre Indoor Karting",
+  "town": "Wavre",
+  "country": "Belgium",
+  "websites": [
+   "https://www.wik-karting.be"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4467077725",
+  "name": "Gokart World",
+  "town": "Aalborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartworld.dk"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/785838797",
+  "name": "Mou Gokart",
+  "town": "Aalborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://mougokart.dk",
+   "https://mougokart.dk/gokart-klub-boern/"
+  ],
+  "mapped_length_m": 599
+ },
+ {
+  "id": "way/87330958",
+  "name": "Racehall Aarhus",
+  "town": "Aarhus Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "town": "Ballerup Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.ballerupeventcenter.dk/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2216849378",
+  "name": "Grindsted Gokart Klub",
+  "town": "Billund Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.grindstedgokartklub.dk/",
+   "https://grigoe.dk"
+  ],
+  "mapped_length_m": 1172
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "town": "Esbjerg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "town": "Fredericia Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racesyd.dk/",
+   "https://fredericiagokartklub.dk/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/380865250",
+  "name": "Marielyst Gokart & Paintball Center",
+  "town": "Guldborgsund Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokart.dk/"
+  ],
+  "mapped_length_m": 595
+ },
+ {
+  "id": "way/449265399",
+  "name": "Vojens Motorsport Arena",
+  "town": "Haderslev Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.vma.dk/",
+   "https://vma.dk/egen-kart/"
+  ],
+  "mapped_length_m": 1868
+ },
+ {
+  "id": "way/177039353",
+  "name": "Holbæk Gokartklub",
+  "town": "Holbæk Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://holbaek-gokart.dk/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/839020157",
+  "name": "Racehall København",
+  "town": "Høje-Taastrup Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/532894308",
+  "name": "Midtjysk Karting Bane",
+  "town": "Ikast-Brande Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://midtjyskgokart.dk"
+  ],
+  "mapped_length_m": 952
+ },
+ {
+  "id": "way/139090965",
+  "name": "Københavns Gokart Bane",
+  "town": "Københavns Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://kbh-gokart.dk/",
+   "https://www.kk.dk/index%2ephp/nyheder/orientering-koebenhavns-gokart-bane-lukker-til-sommeren-2028"
+  ],
+  "mapped_length_m": 844
+ },
+ {
+  "id": "way/664573164",
+  "name": "Rødby Karting Ring",
+  "town": "Lolland Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://www.rgkk.dk/rgkk",
+   "https://rodbygokart.dk"
+  ],
+  "mapped_length_m": 1242
+ },
+ {
+  "id": "way/447780824",
+  "name": "Auning Kart Park",
+  "town": "Norddjurs Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://auningkartpark.dk/"
+  ],
+  "mapped_length_m": 532
+ },
+ {
+  "id": "way/892633637",
+  "name": "Søndersø Karting Klub",
+  "town": "Nordfyns Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartfyn.dk/"
+  ],
+  "mapped_length_m": 832
+ },
+ {
+  "id": "node/4467097590",
+  "name": "Odense Gokart Hal",
+  "town": "Odense Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://odensegokart.dk"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/712050506",
+  "name": "Gokartcenter Fyn",
+  "town": "Odense Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartcenterfyn.dk/"
+  ],
+  "mapped_length_m": 1090
+ },
+ {
+  "id": "way/938791191",
+  "name": "Roskilde Racing Center",
+  "town": "Roskilde Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.roskilderacingcenter.dk"
+  ],
+  "mapped_length_m": 1247
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "town": "Silkeborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://silkeborg-gokart.dk/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4477658831",
+  "name": "Skive Gokart og Paintball Center",
+  "town": "Skive Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.skivegokart.dk"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1236943145",
+  "name": "Korsør Kart Klub",
+  "town": "Slagelse Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.kgkk.dk/"
+  ],
+  "mapped_length_m": 788
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "town": "Syddjurs Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.dmka.dk/karting/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/94984580",
+  "name": "Als Gokart Klub",
+  "town": "Sønderborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://alsgokartklub.dk/",
+   "https://alsgokart.dk"
+  ],
+  "mapped_length_m": 766
+ },
+ {
+  "id": "way/486318757",
+  "name": "Thy Karting Center",
+  "town": "Thisted Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://thymotorsport.dk/"
+  ],
+  "mapped_length_m": 1394
+ },
+ {
+  "id": "way/93851066",
+  "name": "Skærbæk Gocart Center",
+  "town": "Tønder Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.kart.dk/"
+  ],
+  "mapped_length_m": 292
+ },
+ {
+  "id": "way/356759825",
+  "name": "Vandel Gokart",
+  "town": "Vejle Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.vandelgokart.dk/",
+   "https://vandelgokart.dk/klub/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/466134641",
+  "name": "Viborg Motor Klub",
+  "town": "Viborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://viborgmotorklub.dk/"
+  ],
+  "mapped_length_m": 497
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "town": "Vordingborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane"
+  ],
+  "mapped_length_m": 961
+ },
+ {
+  "id": "way/712568193",
+  "name": "ASK Abbeville Somme Karting",
+  "town": "Abbeville",
+  "country": "France",
+  "websites": [
+   "https://abbeville-somme-karting.fr/"
+  ],
+  "mapped_length_m": 1159
+ },
+ {
+  "id": "way/158239320",
+  "name": "Karting Number One",
+  "town": "Agde",
+  "country": "France",
+  "websites": [
+   "https://www.kartingnumberone.com/"
+  ],
+  "mapped_length_m": 892
+ },
+ {
+  "id": "way/405292367",
+  "name": "Le Kart'Are (Circuit d'Aigues-Vives / Circuit International de Lavelanet)",
+  "town": "Aigues-Vives",
+  "country": "France",
+  "websites": [
+   "https://karting-ariege.fr"
+  ],
+  "mapped_length_m": 1673
+ },
+ {
+  "id": "way/171449371",
+  "name": "Circuit Roger Gaillard (ASK Ancenis)",
+  "town": "Ancenis-Saint-Géréon",
+  "country": "France",
+  "websites": [
+   "https://www.ask-ancenis.fr"
+  ],
+  "mapped_length_m": 1139
+ },
+ {
+  "id": "way/269958238",
+  "name": "Circuit International Anthoine Hubert (ASK Angerville / RKO)",
+  "town": "Angerville",
+  "country": "France",
+  "websites": [
+   "https://askangerville.fr/",
+   "https://www.rko.fr/",
+   "https://efk-anthoine-hubert.fr/"
+  ],
+  "mapped_length_m": null
+ }
+]

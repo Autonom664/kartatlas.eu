@@ -1,0 +1,535 @@
+[
+ {
+  "id": "way/174687955",
+  "tracks": [],
+  "source": null,
+  "note": "Site returned HTTP 503."
+ },
+ {
+  "id": "way/1003748937",
+  "tracks": [],
+  "source": null,
+  "note": "Site returned HTTP 503."
+ },
+ {
+  "id": "node/12833306764",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor electric karting; no track length stated on site."
+ },
+ {
+  "id": "way/1369658853",
+  "tracks": [
+   {
+    "name": "Configuration Loisir",
+    "length_m": 650,
+    "width_m": 8,
+    "use": "rental"
+   },
+   {
+    "name": "Configuration Compétition",
+    "length_m": 800,
+    "width_m": 8,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.dks-motors.com/complexe/competitioncircuit",
+  "note": "Loisir layout (650x8 m) stated on https://www.dks-motors.com/complexe/circuit."
+ },
+ {
+  "id": "way/315475394",
+  "tracks": [],
+  "source": null,
+  "note": "Rumilly site failed to load (certificate error); karting-evasion.fr only describes a 400 m track at Bully, not Rumilly."
+ },
+ {
+  "id": "node/1459789180",
+  "tracks": [
+   {
+    "name": "Piste adulte",
+    "length_m": 760,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste enfant",
+    "length_m": 480,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-deauville/",
+  "note": null
+ },
+ {
+  "id": "node/9860088013",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/169129661",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting45.com/",
+  "note": null
+ },
+ {
+  "id": "way/290715451",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartingstcyprien.fr/",
+  "note": null
+ },
+ {
+  "id": "way/65283310",
+  "tracks": [],
+  "source": null,
+  "note": "Site lists an indoor track, a mini-kart track and a 'grand circuit' but gives no lengths."
+ },
+ {
+  "id": "node/13377968137",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/700028361",
+  "tracks": [
+   {
+    "name": "Piste Location",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste Corporate",
+    "length_m": 875,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste Compétition",
+    "length_m": 1250,
+    "width_m": null,
+    "use": "race"
+   },
+   {
+    "name": "Piste Longue",
+    "length_m": 1700,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.actua-organisation.fr/",
+  "note": "Piste Longue is mainly used for GT driving courses."
+ },
+ {
+  "id": "way/170360227",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 680,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "source": "https://dbkarting.fr/",
+  "note": "Width stated as 7.20 m."
+ },
+ {
+  "id": "way/196775114",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1208,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.pole-mecanique.fr/nos-circuits/circuit-karting/",
+  "note": "Includes a 156 m straight; FIA grade C homologated."
+ },
+ {
+  "id": "node/13157094160",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.planet-karting.com/",
+  "note": null
+ },
+ {
+  "id": "way/235387321",
+  "tracks": [
+   {
+    "name": "Circuit Adulte",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Circuit Junior",
+    "length_m": 320,
+    "width_m": 5,
+    "use": null
+   }
+  ],
+  "source": "https://www.rkj.fr/le-circuit/",
+  "note": "Adult circuit stated as about 700 m; a third 'Baby' circuit has no stated length."
+ },
+ {
+  "id": "way/1528584088",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 900,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting-saint-malo.com/",
+  "note": "FFSA category 1 homologated."
+ },
+ {
+  "id": "way/196085614",
+  "tracks": [],
+  "source": null,
+  "note": "Site failed to load (certificate error)."
+ },
+ {
+  "id": "way/672536847",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/5607946169",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.city-kart.fr/karting-indoor-de-nantes/",
+  "note": null
+ },
+ {
+  "id": "node/11111781069",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/11635025481",
+  "tracks": [],
+  "source": null,
+  "note": "Site content did not load (JS-rendered); no length found."
+ },
+ {
+  "id": "way/179620169",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.sologne-karting.com/",
+  "note": null
+ },
+ {
+  "id": "node/1554844424",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartracer.fr/la-piste/",
+  "note": "Stated as 'over 500 m' on a multi-level indoor track."
+ },
+ {
+  "id": "way/1326128880",
+  "tracks": [
+   {
+    "name": "Piste outdoor",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.city-kart.fr/karting-outdoor-de-nantes/",
+  "note": null
+ },
+ {
+  "id": "way/154944821",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1014,
+    "width_m": 9,
+    "use": "both"
+   }
+  ],
+  "source": "http://www.mk-circuit.com",
+  "note": "Width stated as 8–9 m."
+ },
+ {
+  "id": "way/680299871",
+  "tracks": [
+   {
+    "name": "Piste 600 m",
+    "length_m": 600,
+    "width_m": 6,
+    "use": "rental"
+   },
+   {
+    "name": "Piste 1200 m",
+    "length_m": 1200,
+    "width_m": 8,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.circuitdelenclos.com/fr/5-infos-pistes-besancon-lausanne-geneve.php",
+  "note": "1200 m track width stated as 7.5 m."
+ },
+ {
+  "id": "way/201662702",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuit-europe.fr/karting",
+  "note": "Homologated in both directions."
+ },
+ {
+  "id": "way/123072286",
+  "tracks": [
+   {
+    "name": "Circuit de 830m",
+    "length_m": 830,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Circuit de 1100m",
+    "length_m": 1100,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://sek.fr/location-kart/",
+  "note": null
+ },
+ {
+  "id": "way/410308914",
+  "tracks": [
+   {
+    "name": "Piste Loisir",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste Compétition",
+    "length_m": 1150,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.racingkartdumans.com/circuit-karting-le-mans/",
+  "note": "Piste Loisir has two unnamed layouts (fast and technical)."
+ },
+ {
+  "id": "node/12886232964",
+  "tracks": [
+   {
+    "name": "Piste couverte",
+    "length_m": 340,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.selestkart-in.com",
+  "note": "Site also states '300 m de piste' elsewhere."
+ },
+ {
+  "id": "way/961590105",
+  "tracks": [
+   {
+    "name": "Piste adulte",
+    "length_m": 600,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.sunkarting.fr/circuit.html",
+  "note": "Width stated as 6.5 m; separate minikart track for children has no stated length."
+ },
+ {
+  "id": "way/136274608",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/1078855429",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://karting-gravona.corsica/",
+  "note": "FFSA category 2 homologated."
+ },
+ {
+  "id": "way/533293229",
+  "tracks": [],
+  "source": null,
+  "note": "Site returned HTTP 403."
+ },
+ {
+  "id": "way/290715452",
+  "tracks": [
+   {
+    "name": "Grande piste",
+    "length_m": 587,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Petite piste",
+    "length_m": 200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingtorreilles.com/karts-tarifs",
+  "note": "Grande piste is modular with four layouts of 481–587 m."
+ },
+ {
+  "id": "way/76329770",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 400,
+    "width_m": 6,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.defikart.fr",
+  "note": null
+ },
+ {
+  "id": "way/290715520",
+  "tracks": [
+   {
+    "name": "Piste indoor",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kartingtoulouse.com/karting_toulouse/",
+  "note": "Indoor electric track."
+ },
+ {
+  "id": "way/1198636134",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartingdugrandarc.fr/la-piste/",
+  "note": "Modular layout; length stated as 1.1 km."
+ },
+ {
+  "id": "node/1700260286",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/218430826",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/158604014",
+  "tracks": [],
+  "source": null,
+  "note": "Website domain does not resolve."
+ },
+ {
+  "id": "way/51983875",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://technikart.fr/circuit-technikart-karting-ouest/",
+  "note": "FFSA category 1 homologated."
+ },
+ {
+  "id": "node/13410549388",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://k55.fr/accueil-karting/",
+  "note": null
+ },
+ {
+  "id": "way/926799067",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": 9,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.megakart.fr",
+  "note": "Width stated as 8.5 m."
+ }
+]

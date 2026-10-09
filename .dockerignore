@@ -1,0 +1,6 @@
+**
+!kart-atlas.html
+!kart-atlas.json
+!deploy/
+!deploy/Dockerfile
+!deploy/nginx.conf

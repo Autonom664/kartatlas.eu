@@ -1,0 +1,455 @@
+[
+ {
+  "id": "way/1147384934",
+  "name": "Fliegerhorst Faßberg Karting",
+  "town": "Faßberg",
+  "country": "Germany",
+  "websites": [
+   "https://mtc-fassberg.de/?page_id=812"
+  ],
+  "mapped_length_m": 1054
+ },
+ {
+  "id": "way/236541889",
+  "name": "GoKartArena und Familienpark Neufinsing",
+  "town": "Finsing",
+  "country": "Germany",
+  "websites": [
+   "https://www.gokartarena.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/620133302",
+  "name": "Eco-Kart",
+  "town": "Frankfurt am Main",
+  "country": "Germany",
+  "websites": [
+   "https://www.eco-kart.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/1175484382",
+  "name": "GO-Kart Racinghall Fraureuth",
+  "town": "Fraureuth",
+  "country": "Germany",
+  "websites": [
+   "http://www.karthalle.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1220208796",
+  "name": "Saxoniaring Kartclub Freiberg e.V.",
+  "town": "Freiberg",
+  "country": "Germany",
+  "websites": [
+   "https://www.saxoniaring-freiberg.de"
+  ],
+  "mapped_length_m": 653
+ },
+ {
+  "id": "node/5324743781",
+  "name": "NOlimit Kartbahn Fulda",
+  "town": "Fulda",
+  "country": "Germany",
+  "websites": [
+   "https://www.nolimitkartbahn.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2501649295",
+  "name": "Planet KART-O-MANIA",
+  "town": "Geiersthal",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-o-mania.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/89990949",
+  "name": "Steigerwald-Motodrom Gerolzhofen",
+  "town": "Gerolzhofen",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn-gerolzhofen.de/",
+   "http://www.msvgeo.de/"
+  ],
+  "mapped_length_m": 701
+ },
+ {
+  "id": "node/1581708612",
+  "name": "Cool Runners Kart",
+  "town": "Gevelsberg",
+  "country": "Germany",
+  "websites": [
+   "http://www.coolrunning.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1163615563",
+  "name": "Kart Motorsport Arena (Stucks-Kart-Center)",
+  "town": "Gollhofen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartmotorsport.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3761972789",
+  "name": "Knatterdrom",
+  "town": "Greven",
+  "country": "Germany",
+  "websites": [
+   "https://www.knatterdrom.de/"
+  ],
+  "mapped_length_m": 227
+ },
+ {
+  "id": "node/392851670",
+  "name": "Kartcenter Grimma",
+  "town": "Grimma",
+  "country": "Germany",
+  "websites": [
+   "https://kartcenter-grimma.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/93901937",
+  "name": "Fahr-Werk Kartbahn",
+  "town": "Groß-Zimmern",
+  "country": "Germany",
+  "websites": [
+   "https://www.fahrwerk.de/",
+   "https://www.fahrwerk.de/kartfahren-indoor/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/29176372",
+  "name": "Kartion - Karting & More",
+  "town": "Gärtringen",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartion.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1120780117",
+  "name": "Kartbahn Görlitz-Ring",
+  "town": "Görlitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-goerlitz-ring.de"
+  ],
+  "mapped_length_m": 829
+ },
+ {
+  "id": "way/129879602",
+  "name": "Bavaria Kart",
+  "town": "Günzburg",
+  "country": "Germany",
+  "websites": [
+   "https://bavaria-kart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/751984689",
+  "name": "BattleKart Halle-Leipzig",
+  "town": "Halle (Saale)",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/halle-leipzig"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2673845362",
+  "name": "Kart-O-Mania Hannover",
+  "town": "Hannover",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartomania-hannover.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/92468697",
+  "name": "Emslandring Dankern",
+  "town": "Haren (Ems)",
+  "country": "Germany",
+  "websites": [
+   "https://emslandring.de/"
+  ],
+  "mapped_length_m": 642
+ },
+ {
+  "id": "way/51050374",
+  "name": "Emstalstadion (MSC Harsewinkel)",
+  "town": "Harsewinkel",
+  "country": "Germany",
+  "websites": [
+   "https://www.msc-harsewinkel.de"
+  ],
+  "mapped_length_m": 582
+ },
+ {
+  "id": "way/765177897",
+  "name": "MS Kartcenter Hattingen",
+  "town": "Hattingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.ms-kartcenter-hattingen.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/550349415",
+  "name": "Kart Center Heiligenstadt",
+  "town": "Heilbad Heiligenstadt",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-center-heiligenstadt.de/"
+  ],
+  "mapped_length_m": 268
+ },
+ {
+  "id": "way/144460956",
+  "name": "Indoor Superkart Hemsbach",
+  "town": "Hemsbach",
+  "country": "Germany",
+  "websites": [
+   "https://www.indoor-superkart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/93099535",
+  "name": "Kartbahn GRIP",
+  "town": "Herbertingen",
+  "country": "Germany",
+  "websites": [
+   "http://kartbahn-herbertingen.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/7239416109",
+  "name": "KartCenter Hildesheim",
+  "town": "Hildesheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcenterhildesheim.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9889553396",
+  "name": "Kartbahn Gramkow",
+  "town": "Hohenkirchen",
+  "country": "Germany",
+  "websites": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/119610125",
+  "name": "Kartbahn Hungen",
+  "town": "Hungen",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn-hungen.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/165403103",
+  "name": "Saarlandring Uchtelfangen",
+  "town": "Illingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.saarlandring.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/30120851",
+  "name": "KartArena Ingolstadt",
+  "town": "Ingolstadt",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartarena-ingolstadt.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/254359849",
+  "name": "Kartbahn Jena",
+  "town": "Jena",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahnjena.de"
+  ],
+  "mapped_length_m": 135
+ },
+ {
+  "id": "way/59513188",
+  "name": "RS Speedworld",
+  "town": "Kaarst",
+  "country": "Germany",
+  "websites": [
+   "https://www.gokart-online.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/102538435",
+  "name": "Go! Indoor eKart",
+  "town": "Kaiserslautern",
+  "country": "Germany",
+  "websites": [
+   "https://gokartbahn.net/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2687925947",
+  "name": "Kart & Eventcenter Stupferich",
+  "town": "Karlsruhe",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-eventcenter.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/5026773084",
+  "name": "All-Kart",
+  "town": "Kaufbeuren",
+  "country": "Germany",
+  "websites": [
+   "http://www.all-kart.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12766527149",
+  "name": "Kartbahn CalaRace",
+  "town": "Kehl",
+  "country": "Germany",
+  "websites": [
+   "https://www.cala-race.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/352676165",
+  "name": "BattleKart Trier",
+  "town": "Kenn",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/trier"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/319085809",
+  "name": "Michael Schumacher Kart-Center",
+  "town": "Kerpen",
+  "country": "Germany",
+  "websites": [
+   "https://www.ms-kartcenter.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9043533487",
+  "name": "EVOKART Kiel",
+  "town": "Kiel",
+  "country": "Germany",
+  "websites": [
+   "https://evokart-kiel.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3761972790",
+  "name": "Le Mans Karting",
+  "town": "Köln",
+  "country": "Germany",
+  "websites": [
+   "https://www.lemanskarting.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3761972788",
+  "name": "Kartcenter Cologne",
+  "town": "Köln",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcenter-cologne.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1447721895",
+  "name": "Kart-O-Mania Laatzen",
+  "town": "Laatzen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartomania-hannover.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2791912346",
+  "name": "Kart Center Landau",
+  "town": "Landau in der Pfalz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcenter-landau.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/39775529",
+  "name": "Erzgebirgsring Lichtenberg",
+  "town": "Lichtenberg/Erzgebirge",
+  "country": "Germany",
+  "websites": [
+   "http://www.erzgebirgsring.de"
+  ],
+  "mapped_length_m": 953
+ },
+ {
+  "id": "node/883027662",
+  "name": "LimPark",
+  "town": "Limburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.limpark.de/",
+   "https://www.limpark.de/kart/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1041609383",
+  "name": "Kartbahn Lohsa",
+  "town": "Lohsa - Łaz",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahnlohsa.wixsite.com/start"
+  ],
+  "mapped_length_m": 839
+ }
+]

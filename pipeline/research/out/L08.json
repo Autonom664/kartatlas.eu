@@ -1,0 +1,333 @@
+[
+ {
+  "id": "way/1147384934",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1050,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://mtc-fassberg.de/?page_id=812",
+  "note": "Extended by about 200 m in 2016 (previously 872 m)."
+ },
+ {
+  "id": "way/236541889",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "way/620133302",
+  "tracks": [
+   {
+    "name": "Multi-Level-Racingtrack",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.eco-kart.de",
+  "note": "Indoor track on 3 levels with 20 corners."
+ },
+ {
+  "id": "node/1175484382",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 360,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.karthalle.de/",
+  "note": "Indoor track in a round building."
+ },
+ {
+  "id": "way/1220208796",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 720,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.saxoniaring-freiberg.de",
+  "note": null
+ },
+ {
+  "id": "node/5324743781",
+  "tracks": [
+   {
+    "name": "Indoor + outdoor full course",
+    "length_m": 400,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.nolimitkartbahn.de/rundgang/",
+  "note": "Site says the full indoor+outdoor course is over 400 m, width 4-6 m."
+ },
+ {
+  "id": "node/2501649295",
+  "tracks": [],
+  "source": null,
+  "note": "Site gives no track length."
+ },
+ {
+  "id": "way/89990949",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 701,
+    "width_m": 8,
+    "use": null
+   }
+  ],
+  "source": "https://kartbahn-gerolzhofen.de/",
+  "note": "Width stated as up to 8 m."
+ },
+ {
+  "id": "node/1581708612",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "way/1163615563",
+  "tracks": [
+   {
+    "name": "Gesamtstrecke",
+    "length_m": 1500,
+    "width_m": 7,
+    "use": "rental"
+   },
+   {
+    "name": "Outdoor Strecke",
+    "length_m": 960,
+    "width_m": 7,
+    "use": "rental"
+   },
+   {
+    "name": "Indoor Strecke",
+    "length_m": 540,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartmotorsport.de",
+  "note": "Indoor (540 m) and outdoor (960 m) tracks combine into a 1500 m full course; stated width 6.5 m."
+ },
+ {
+  "id": "node/3761972789",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/392851670",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/93901937",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/29176372",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/1120780117",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/129879602",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/751984689",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/2673845362",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/92468697",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/51050374",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/765177897",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/550349415",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/144460956",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/93099535",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/7239416109",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/9889553396",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/119610125",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/165403103",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/30120851",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/254359849",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/59513188",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/102538435",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/2687925947",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/5026773084",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/12766527149",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/352676165",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/319085809",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/9043533487",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/3761972790",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/3761972788",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/1447721895",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/2791912346",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/39775529",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "node/883027662",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ },
+ {
+  "id": "way/1041609383",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: WebFetch safety check was rate-limited."
+ }
+]

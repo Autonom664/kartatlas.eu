@@ -1,0 +1,488 @@
+[
+ {
+  "id": "node/6205111509",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 280,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://karthalle-mainz.de/",
+  "note": null
+ },
+ {
+  "id": "node/13374883723",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 460,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.actionarena.de/kart-arena.asp",
+  "note": "Site states track length as '460 m+'."
+ },
+ {
+  "id": "node/14002285223",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart projection-arena venue; no track length stated."
+ },
+ {
+  "id": "node/12806062014",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart projection-arena venue; no track length stated."
+ },
+ {
+  "id": "node/822046091",
+  "tracks": [
+   {
+    "name": "Schweppermannring",
+    "length_m": 1063,
+    "width_m": 12,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartshop-ampfing.de/pages/die-rennstrecke",
+  "note": "Width stated as 10-12 m."
+ },
+ {
+  "id": "node/12497729617",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://teamsport-ekarting.de/standorte/moenchengladbach",
+  "note": "Two-level indoor e-kart track with 17 corners."
+ },
+ {
+  "id": "way/814876030",
+  "tracks": [
+   {
+    "name": "Indoor circuit",
+    "length_m": 440,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Omega",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Omega-Plus",
+    "length_m": 950,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Motorsportstrecke",
+    "length_m": 1315,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://arena-e.de/outdoor-racing-2/",
+  "note": "Indoor 440 m track is at a separate indoor site (arena-e.de/racing-indoor/); outdoor facility has variable layouts 450-1315 m."
+ },
+ {
+  "id": "node/997947153",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/2587252307",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 315,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kart-und-fun.de/kartbahn/strecke",
+  "note": null
+ },
+ {
+  "id": "way/108799424",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/97901794",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartbahn-mv.de/neubrandenburg/die-kartbahn.html",
+  "note": "Stated as approx. 1100 m, minimum width 6 m."
+ },
+ {
+  "id": "way/1410399039",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart projection arena; site states a 2,000 m2 track surface, no length."
+ },
+ {
+  "id": "way/458296932",
+  "tracks": [
+   {
+    "name": "Spirit of Interlagos",
+    "length_m": 850,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Spirit of Mugello",
+    "length_m": 900,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Spirit of Estoril",
+    "length_m": 1280,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Spirit of Retro",
+    "length_m": 1140,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://go102.de/strecken/",
+  "note": "Four layouts on one site; asphalt partly 8 m wide."
+ },
+ {
+  "id": "way/298258534",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 460,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.inaction-oberwerrn.de/seite/368073/strecke.html",
+  "note": null
+ },
+ {
+  "id": "way/204316334",
+  "tracks": [
+   {
+    "name": "Outdoor Kartbahn Nussloch",
+    "length_m": 600,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://leihkart.msc-nussloch.de/unsere-strecke/",
+  "note": "Stated as approx. 600 m, width 5-8 m."
+ },
+ {
+  "id": "node/3761972821",
+  "tracks": [],
+  "source": null,
+  "note": "No length stated; lap takes roughly 25 seconds."
+ },
+ {
+  "id": "way/89254346",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1018,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.motorsportarena.com/Kartbahn/Informationen-/Informationen/Informationen.html",
+  "note": "Width stated as 6-8 m."
+ },
+ {
+  "id": "way/480988747",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 470,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://teamsport-ekarting.de/standorte/osnabrueck",
+  "note": "Stated as over 470 m on two levels."
+ },
+ {
+  "id": "way/1444721703",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned 403."
+ },
+ {
+  "id": "way/582975406",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/223180179",
+  "tracks": [
+   {
+    "name": "Volle Strecke",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Innenkurs",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kart-o-drom.de/",
+  "note": "Innenkurs is the covered all-year section; full outdoor track opens only in dry weather."
+ },
+ {
+  "id": "way/89322197",
+  "tracks": [],
+  "source": null,
+  "note": "Site shows a track-length counter without a usable value."
+ },
+ {
+  "id": "way/128574048",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned no readable content."
+ },
+ {
+  "id": "way/904546979",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 601,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kart-am-alfsee.de/",
+  "note": null
+ },
+ {
+  "id": "way/33894329",
+  "tracks": [
+   {
+    "name": "Indoor circuit",
+    "length_m": 450,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartcenter-rostock.de/de/karts",
+  "note": "Two configurations shown (Omega and Trecker); only one length given."
+ },
+ {
+  "id": "way/34410664",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (certificate error)."
+ },
+ {
+  "id": "node/4144064752",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.indykart.de/",
+  "note": "Approx. 550 m indoor circuit through two halls with tunnels and ramps."
+ },
+ {
+  "id": "way/38305241",
+  "tracks": [
+   {
+    "name": "Odenwaldring",
+    "length_m": 1022,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.fahrwerk.de/kartfahren-outdoor/",
+  "note": null
+ },
+ {
+  "id": "way/74481523",
+  "tracks": [],
+  "source": null,
+  "note": "Site mentions two tracks with four layouts (Strecke 1 and 2, Superbahn 1 and 2) but gives no lengths."
+ },
+ {
+  "id": "way/87439125",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 620,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartbahn-schleswig.de/die-kartbahn/",
+  "note": "Approx. 620 m with a banked corner."
+ },
+ {
+  "id": "way/138621802",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned no readable content."
+ },
+ {
+  "id": "way/1039053796",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned 403."
+ },
+ {
+  "id": "way/727712552",
+  "tracks": [],
+  "source": null,
+  "note": "Website domain does not resolve."
+ },
+ {
+  "id": "way/110163356",
+  "tracks": [
+   {
+    "name": "Spreewaldring",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kart-center.de/die-kartbahn/",
+  "note": null
+ },
+ {
+  "id": "way/257074018",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 320,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://sensadrom.com",
+  "note": "Indoor e-kart track on three levels."
+ },
+ {
+  "id": "way/121599004",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 280,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "http://www.kartbahn-alemannenring.com/kartbahn/",
+  "note": "Stated as approx. 280 m."
+ },
+ {
+  "id": "way/589950988",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "way/61560044",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart projection-arena venue; no track length stated."
+ },
+ {
+  "id": "node/7961993497",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 200,
+    "width_m": 5,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartbahn-mv.de/stralsund/die-kartbahn.html",
+  "note": "Indoor track approx. 200 m, minimum width 5 m."
+ },
+ {
+  "id": "way/219979201",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/187105722",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "node/5207433462",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/4477661634",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (SSL error)."
+ },
+ {
+  "id": "way/377273485",
+  "tracks": [
+   {
+    "name": "Templiner Ring (long)",
+    "length_m": 1105,
+    "width_m": 8,
+    "use": "both"
+   },
+   {
+    "name": "Templiner Ring (variant with straight after start)",
+    "length_m": 1056,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kart-templin.de/index.php/die-bahn",
+  "note": "Can be driven in both directions and in long/short configurations; minimum width 8 m."
+ },
+ {
+  "id": "way/446905417",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 780,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartbahn-teningen.de/",
+  "note": "Width stated as 5-7 m."
+ }
+]

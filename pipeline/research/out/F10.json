@@ -1,0 +1,817 @@
+[
+ {
+  "id": "way/270319605",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.fun-karting.com/",
+  "websites": [
+   {
+    "url": "https://www.fun-karting.com/",
+    "role": "rental",
+    "name": "Fun Kart"
+   },
+   {
+    "url": "https://www.facebook.com/funkart06",
+    "role": "other",
+    "name": "Fun Kart Facebook"
+   }
+  ],
+  "phone": "+33 9 55 00 04 38",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/fun-kart-le-bar-sur-loup-fr-5117312/",
+   "https://www.seeprovence.com/activities/karting/fun-kart-676144"
+  ],
+  "note": "Three FFSA-homologated circuits (expert 16+, general 11+, kids 7+); kart cc figures come from a third-party listing."
+ },
+ {
+  "id": "way/242948675",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingcircuitpaulricard.com/",
+  "websites": [
+   {
+    "url": "https://www.kartingcircuitpaulricard.com/",
+    "role": "venue",
+    "name": "Karting Circuit Paul Ricard"
+   }
+  ],
+  "phone": "+33 4 94 98 28 88",
+  "email": "karting@circuitpaulricard.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartingcircuitpaulricard.com/"
+  ],
+  "note": "Walk-in 10-min rental sessions (min 1.55 m); 'Entrainement' days for own karts; French karting school on site."
+ },
+ {
+  "id": "way/290677287",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 94 60 98 70",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/paca/prestige,karting-37622.html",
+   "https://www.yumping.com/en/karting/prestige-karting--e19682536"
+  ],
+  "note": "Only directory listings found (kart rental on the Le Luc en Provence circuit); no official website, status unverified."
+ },
+ {
+  "id": "way/688370905",
+  "name": "Karting le Rove",
+  "type": "outdoor",
+  "website": "https://www.kartinglerove.com/",
+  "websites": [
+   {
+    "url": "https://www.kartinglerove.com/",
+    "role": "rental",
+    "name": "Karting le Rove"
+   },
+   {
+    "url": "https://www.facebook.com/KartingLeRove",
+    "role": "other",
+    "name": "Facebook"
+   }
+  ],
+  "phone": "+33 6 71 10 42 74",
+  "email": "reservation@kartinglerove.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartinglerove.com/"
+  ],
+  "note": "Adult and kids rental karting; fleet models not stated."
+ },
+ {
+  "id": "node/12584616596",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingmanosque.fr/",
+  "websites": [
+   {
+    "url": "https://www.kartingmanosque.fr/",
+    "role": "rental",
+    "name": "Karting Manosque"
+   }
+  ],
+  "phone": "+33 4 92 75 93 02",
+  "email": "contact@kartingmanosque.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Fun Kart",
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax 125 2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.kartingmanosque.fr/",
+   "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/"
+  ],
+  "note": "Sunday-morning 'roulage libre' by reservation (35 EUR), but unclear if own karts are allowed."
+ },
+ {
+  "id": "way/290678826",
+  "name": "ASK Martigues - Piste de l'Oratoire",
+  "type": "outdoor",
+  "website": "https://askmartigues.fr/",
+  "websites": [
+   {
+    "url": "https://askmartigues.fr/",
+    "role": "club",
+    "name": "ASK Martigues"
+   }
+  ],
+  "phone": "+33 6 15 35 14 40",
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://askmartigues.fr/"
+  ],
+  "note": "FFSA club track (600 m) open weekends; no public rental mentioned."
+ },
+ {
+  "id": "way/221575189",
+  "name": "Karting Loisirs Monteux",
+  "type": null,
+  "website": "https://kartingdemonteux.fr/",
+  "websites": [
+   {
+    "url": "https://kartingdemonteux.fr/",
+    "role": "rental",
+    "name": "Karting Loisirs Monteux"
+   }
+  ],
+  "phone": "+33 4 90 61 06 20",
+  "email": "commercial@kartingdemonteux.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kartingdemonteux.fr/",
+   "https://www.provenceguide.com/equipements/mont-ventoux/karting-de-monteux/provence-5273014-1.html"
+  ],
+  "note": "Leisure karting from age 4 plus minigolf/paintball; runs 12H endurance and Junior Cup events."
+ },
+ {
+  "id": "way/823896174",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Magnan, Nice; possibly mis-tagged or defunct."
+ },
+ {
+  "id": "way/711930443",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 6 78 96 31 80",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.travelski.com/guide/sports-hiver/activites-ski/karting-glace",
+   "https://www.parcsetloisirs.fr/parc/karting-orcieres"
+  ],
+  "note": "Seasonal ice-karting (winter only, roughly Dec-Feb) at Orcieres Merlette leisure base; not a regular kart track."
+ },
+ {
+  "id": "way/747859413",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://karting3lacs.fr/",
+  "websites": [
+   {
+    "url": "https://karting3lacs.fr/",
+    "role": "rental",
+    "name": "Karting des 3 Lacs"
+   }
+  ],
+  "phone": "+33 6 74 29 37 42",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "Honda 200cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi SR4",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://karting3lacs.fr/location/",
+   "https://provence-alpes-cotedazur.com/sejourner/informations-pratiques/tous-les-services-pratiques/karting-des-3-lacs-piegut-fr-2874412/"
+  ],
+  "note": "Seasonal (May to mid-October)."
+ },
+ {
+  "id": "way/1304966025",
+  "name": "Kart Cross Club des Auzières",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.annuaire-mairie.fr/association-roaix.html"
+  ],
+  "note": "Only an association listing found (Kart Cross Club des Auzieres), so this may be a kart-cross track rather than a go-kart circuit."
+ },
+ {
+  "id": "way/604640366",
+  "name": "Karting de l'Etang",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 42 46 36 13",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/karting-de-letang"
+  ],
+  "note": "Rental from age 12 in 10-min sessions, open Tue-Sun; no official website found."
+ },
+ {
+  "id": "way/1224501957",
+  "name": "Rallye Kart",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://en.experiencecotedazur.com/roquebrune-sur-argens/karting-session-roquebrune-sur-argens+rallye-kart"
+  ],
+  "note": "Rallye Kart on the DN7 has a 550 m dirt track while OSM says 1570 m, so the match is uncertain."
+ },
+ {
+  "id": "way/1429200345",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found near Regusse/Quinson."
+ },
+ {
+  "id": "way/672536847",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/",
+    "role": "other",
+    "name": "PassionKart listing"
+   }
+  ],
+  "phone": "+33 6 15 18 74 74",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/"
+  ],
+  "note": "The known PassionKart URL actually serves Karting Manosque content; nothing verified for Barcelonnette, phone is from input only."
+ },
+ {
+  "id": "way/317281129",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only generic travel-aggregator 'Karting' entries found for Sanary-sur-Mer; venue unidentified."
+ },
+ {
+  "id": "way/1514658348",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting circuit at Plan de Dieu/Travaillan found online."
+ },
+ {
+  "id": "way/371250592",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 42 29 38 49",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/karting-vallee-de-larc",
+   "https://www.koifaire.com/paca/karting,valla,e,de,l,arc-24448.html"
+  ],
+  "note": "Directory listings only; a second phone 04 42 29 38 55 also appears."
+ },
+ {
+  "id": "node/10871381994",
+  "name": "Kart'Up Vitrolles",
+  "type": "indoor",
+  "website": "https://www.kartup-vitrolles.com/",
+  "websites": [
+   {
+    "url": "https://www.kartup-vitrolles.com/",
+    "role": "rental",
+    "name": "Kart'Up Vitrolles"
+   }
+  ],
+  "phone": "+33 4 42 79 08 80",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartup-vitrolles.com/"
+  ],
+  "note": "Indoor venue (OSM says outdoor); site banner said closed until 7 July for renovation with new Sodi karts."
+ },
+ {
+  "id": "way/269958238",
+  "name": "Circuit International Anthoine Hubert (ASK Angerville / RKO)",
+  "type": "outdoor",
+  "website": "https://askangerville.fr/",
+  "websites": [
+   {
+    "url": "https://askangerville.fr/",
+    "role": "club",
+    "name": "ASK Angerville"
+   },
+   {
+    "url": "https://www.rko.fr/",
+    "role": "rental",
+    "name": "RKO Racing Kart Organisation"
+   },
+   {
+    "url": "https://efk-anthoine-hubert.fr/",
+    "role": "other",
+    "name": "EFK Anthoine Hubert"
+   }
+  ],
+  "phone": null,
+  "email": "askangerville@wanadoo.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://askangerville.fr/",
+   "https://www.rko.fr/"
+  ],
+  "note": "International FFSA circuit (ex Gabriel Thirouin); RKO runs rental and a leisure track, annual track rights arranged via RKO."
+ },
+ {
+  "id": "way/236927018",
+  "name": null,
+  "type": "indoor",
+  "website": "https://aerokart.com/",
+  "websites": [
+   {
+    "url": "https://aerokart.com/",
+    "role": "rental",
+    "name": "Aerokart"
+   }
+  ],
+  "phone": "+33 1 30 25 71 90",
+  "email": "planning@aerokart.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://aerokart.com/",
+   "https://aerokart.com/tarifs-et-horaires"
+  ],
+  "note": "Indoor karting combined with indoor skydiving; adults 14+ and kids 7-14."
+ },
+ {
+  "id": "way/1041889411",
+  "name": "SpeedPark Brétigny-sur-Orge",
+  "type": "indoor",
+  "website": "https://speedpark.fr/bretigny-sur-orge/",
+  "websites": [
+   {
+    "url": "https://speedpark.fr/bretigny-sur-orge/",
+    "role": "rental",
+    "name": "SpeedPark Bretigny"
+   }
+  ],
+  "phone": "+33 1 69 88 34 78",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol (thermique)",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://speedpark.fr/bretigny-sur-orge/"
+  ],
+  "note": "Indoor leisure complex with combustion karts (OSM says outdoor); old kartingbowling.com domain no longer resolves."
+ },
+ {
+  "id": "node/11563955592",
+  "name": "BattleKart Paris-Sud-Massy",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/fr/paris-sud-massy/",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/fr/paris-sud-massy/",
+    "role": "rental",
+    "name": "BattleKart Paris-Sud-Massy"
+   }
+  ],
+  "phone": "+33 1 88 81 21 33",
+  "email": "info@paris-sud-massy.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/fr/paris-sud-massy/"
+  ],
+  "note": "Augmented-reality electric kart game rather than a conventional track."
+ },
+ {
+  "id": "node/758394659",
+  "name": null,
+  "type": "indoor",
+  "website": "https://speedpark.fr/conflans/",
+  "websites": [
+   {
+    "url": "https://speedpark.fr/conflans/",
+    "role": "rental",
+    "name": "SpeedPark Conflans"
+   }
+  ],
+  "phone": "+33 1 34 90 23 10",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://speedpark.fr/conflans/"
+  ],
+  "note": "Indoor petrol karting (OSM says outdoor); 200cc only from a visitor review."
+ },
+ {
+  "id": "relation/20669653",
+  "name": "RKC Karting Paris",
+  "type": "outdoor",
+  "website": "https://rkc-karting-paris.com/",
+  "websites": [
+   {
+    "url": "https://rkc-karting-paris.com/",
+    "role": "rental",
+    "name": "RKC Karting Paris"
+   },
+   {
+    "url": "https://trophee-gentleman.com/",
+    "role": "other",
+    "name": "Trophee Gentleman"
+   }
+  ],
+  "phone": "+33 1 30 73 28 00",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://rkc-karting-paris.com/"
+  ],
+  "note": "Racing Kart de Cormeilles at Pontoise aerodrome (address Boissy-l'Aillerie), five tracks, open 7/7; rkc.fr redirects."
+ },
+ {
+  "id": "way/613999944",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Mareuil-les-Meaux."
+ },
+ {
+  "id": "way/92793042",
+  "name": "Kartland Paris",
+  "type": "outdoor",
+  "website": "https://www.kartland.fr/",
+  "websites": [
+   {
+    "url": "https://www.kartland.fr/",
+    "role": "rental",
+    "name": "Kartland Paris"
+   }
+  ],
+  "phone": "+33 1 64 41 96 61",
+  "email": "info@kartland.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartland.fr/",
+   "https://www.sortiraparis.com/en/what-to-do-in-paris/gaming/articles/342917-kartland-paris-in-moissy-cramayel-offers-an-outdoor-go-karting-experience-in-seine-et-marne"
+  ],
+  "note": "Outdoor (OSM says indoor); 1600 m combined rental track plus 1500 m licence-holder track and junior/mini tracks."
+ },
+ {
+  "id": "way/89246139",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 1 64 07 61 66",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/karting-buffo",
+   "https://tourisme-seine-et-marne.fr/en/activities/entertainment-leisure/726441-karting-buffo"
+  ],
+  "note": "Directories describe outdoor and indoor circuits at Les Etards with adult, kids and two-seat karts; no official site found."
+ },
+ {
+  "id": "way/296667026",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://verymap.net/sport/activite/7102-karting/77458-souppes-sur-loing/"
+  ],
+  "note": "A government facility census lists one karting facility in Souppes-sur-Loing but no name was found."
+ },
+ {
+  "id": "way/180319184",
+  "name": "Beltoise Racing Kart (BRK) - Circuit JP Beltoise",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.sortiraparis.com/loisirs/sport/articles/325402-automobile-decouvrez-le-circuit-de-vitesse-beltoise-a-trappes-78-avec-piste-de-karting",
+   "https://www.pariszigzag.fr/top-redac/karting-paris/"
+  ],
+  "note": "BRK runs rental karting (about 985 m and 400 m tracks) beside the Beltoise car circuit; no official site found."
+ },
+ {
+  "id": "way/218430826",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.clotkart.com",
+  "websites": [
+   {
+    "url": "https://www.clotkart.com",
+    "role": "rental",
+    "name": "ClotKart"
+   }
+  ],
+  "phone": "+33 1 64 07 55 65",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax 2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.clotkart.com"
+  ],
+  "note": "Open Thu-Sun by reservation; runs SWS races in SR4 and RTX classes."
+ },
+ {
+  "id": "way/404738749",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Malnoue/Emerainville."
+ }
+]

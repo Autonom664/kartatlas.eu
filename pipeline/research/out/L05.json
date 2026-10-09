@@ -1,0 +1,530 @@
+[
+ {
+  "id": "way/192522849",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (TLS certificate error)."
+ },
+ {
+  "id": "way/1525227888",
+  "tracks": [
+   {
+    "name": "Circuit le Lissartel",
+    "length_m": 1105,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.cantalkarting.fr/index.php/circuit",
+  "note": null
+ },
+ {
+  "id": "way/688370905",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartinglerove.com/",
+  "note": null
+ },
+ {
+  "id": "way/904774472",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/11359723300",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.inwallkart.com/",
+  "note": null
+ },
+ {
+  "id": "way/1529016844",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/788311613",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load."
+ },
+ {
+  "id": "way/28057971",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/5033005312",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://ntkart.com/complexe",
+  "note": "Two-level indoor track described as over 700 m."
+ },
+ {
+  "id": "way/70109989",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 510,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.rmt-karting.fr/",
+  "note": "Electric indoor track described as over 500 m."
+ },
+ {
+  "id": "way/155604424",
+  "tracks": [
+   {
+    "name": "Piste de Karting Extérieur",
+    "length_m": 800,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.jcskarting.com/karting/",
+  "note": null
+ },
+ {
+  "id": "way/290721038",
+  "tracks": [
+   {
+    "name": "Circuit Fun",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Circuit de compétition",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.karting-de-magescq.fr/",
+  "note": "Also a mini circuit for children with no stated length."
+ },
+ {
+  "id": "way/482336192",
+  "tracks": [
+   {
+    "name": "Piste Karting de Nevers Magny-Cours",
+    "length_m": 1110,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuitmagnycours.com/piste-karting/",
+  "note": "Width stated as 8–10 m."
+ },
+ {
+  "id": "node/12584616596",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/127256481",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.gtr-performance.fr/activites/karting-marcillat-en-combraille",
+  "note": null
+ },
+ {
+  "id": "node/13458676482",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/290678826",
+  "tracks": [
+   {
+    "name": "Piste de l'Oratoire",
+    "length_m": 600,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://askmartigues.fr/",
+  "note": null
+ },
+ {
+  "id": "relation/4267416",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/128857901",
+  "tracks": [
+   {
+    "name": "La piste de Mer",
+    "length_m": 1500,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.capkarting.com/circuit",
+  "note": "Homologated as 1500 x 8.5 m, described as modular (layout adjustable)."
+ },
+ {
+  "id": "node/13105619745",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/156358387",
+  "tracks": [],
+  "source": null,
+  "note": "Website failed to load (domain not found)."
+ },
+ {
+  "id": "way/290680699",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 525,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.nimeskarting.fr/",
+  "note": null
+ },
+ {
+  "id": "way/92793042",
+  "tracks": [
+   {
+    "name": "Piste location 810 m",
+    "length_m": 810,
+    "width_m": 8,
+    "use": "both"
+   },
+   {
+    "name": "Piste location 830 m",
+    "length_m": 830,
+    "width_m": 8,
+    "use": "rental"
+   },
+   {
+    "name": "Piste 1600 m (combined)",
+    "length_m": 1600,
+    "width_m": null,
+    "use": "race"
+   },
+   {
+    "name": "Piste compétition",
+    "length_m": 1500,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.kartland.fr/infrastructures.php",
+  "note": "The 1600 m layout joins the 810 m and 830 m rental tracks; junior and mini tracks have no stated length."
+ },
+ {
+  "id": "way/189887727",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/221575189",
+  "tracks": [
+   {
+    "name": "Adultes",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Familiale",
+    "length_m": 650,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kartingdemonteux.fr/activite-karting/",
+  "note": null
+ },
+ {
+  "id": "way/594674045",
+  "tracks": [],
+  "source": null,
+  "note": "Site describes the 2325 m car circuit (originally 1300 m) but no karting track."
+ },
+ {
+  "id": "way/1531505783",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 884,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartingdunordmayenne.fr/",
+  "note": null
+ },
+ {
+  "id": "way/898168875",
+  "tracks": [
+   {
+    "name": "Outdoor track",
+    "length_m": 820,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.mistralkart.com",
+  "note": "Site also lists kids/electric circuits without stated lengths."
+ },
+ {
+  "id": "node/12089359841",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart arena; only a 1450 m² play area is stated."
+ },
+ {
+  "id": "way/123559878",
+  "tracks": [
+   {
+    "name": "Short circuit",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Long piste",
+    "length_m": 1340,
+    "width_m": null,
+    "use": "race"
+   },
+   {
+    "name": "Joined track",
+    "length_m": 2140,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.kartingmuret.fr/club-karting",
+  "note": "Joined layout described as over 2140 m."
+ },
+ {
+  "id": "way/290670811",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 300,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting2noiron.fr/",
+  "note": null
+ },
+ {
+  "id": "way/1000270136",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart arena; only a 2000 m² track surface is stated."
+ },
+ {
+  "id": "way/472062469",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1500,
+    "width_m": 9,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting-lille-jpr.fr/complexe",
+  "note": "Modular circuit of about 1.5 km with over ten homologated layouts (incl. FIA competition and leisure layouts), width 8–9 m."
+ },
+ {
+  "id": "node/13247717402",
+  "tracks": [
+   {
+    "name": "Circuit de Ouistreham",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-ouistreham/",
+  "note": null
+ },
+ {
+  "id": "way/482574017",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 406,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://astrakartozan.fr/le-circuit/",
+  "note": null
+ },
+ {
+  "id": "way/95700263",
+  "tracks": [
+   {
+    "name": "Circuit International Jean Brun",
+    "length_m": 1470,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://karting-varennes.fr/",
+  "note": null
+ },
+ {
+  "id": "way/192506414",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/747859413",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 740,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://karting3lacs.fr/la-piste/",
+  "note": null
+ },
+ {
+  "id": "way/45104851",
+  "tracks": [
+   {
+    "name": "Circuit International",
+    "length_m": 1350,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Circuit Impressionnant",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.solokart.com/notre-pole",
+  "note": "Also a Baby Kart circuit with no stated length."
+ },
+ {
+  "id": "way/1528576088",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kart56.com/performance/",
+  "note": null
+ },
+ {
+  "id": "way/1528558823",
+  "tracks": [
+   {
+    "name": "Circuit Villeneuve Stadium",
+    "length_m": 800,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartouest29.fr/",
+  "note": null
+ },
+ {
+  "id": "way/681911933",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartcenter56.fr/",
+  "note": null
+ },
+ {
+  "id": "way/192260020",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuit-dijon-prenois.com/karting/",
+  "note": null
+ },
+ {
+  "id": "way/502111524",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.lockarting.fr/",
+  "note": null
+ },
+ {
+  "id": "way/635825967",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1065,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.circuit-sarron.com/karts-piste/",
+  "note": "8 layouts from 500 m to over 1000 m; homepage states 1057 x 8 m."
+ }
+]

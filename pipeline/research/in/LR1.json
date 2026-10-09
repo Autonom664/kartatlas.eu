@@ -1,0 +1,829 @@
+[
+ {
+  "id": "node/8375040368",
+  "name": "Karthalle Ebensee (Kartworld Ebensee)",
+  "town": "Ebensee am Traunsee",
+  "country": "Austria",
+  "websites": [
+   "https://www.karthalle.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/98283484",
+  "name": "PS Racing Center",
+  "town": "Greinbach",
+  "country": "Austria",
+  "websites": [
+   "https://www.ps-racing.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/472368623",
+  "name": "Daytona Raceways",
+  "town": "Langenzersdorf",
+  "country": "Austria",
+  "websites": [
+   "https://www.daytona.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "relation/1760200",
+  "name": "MF Gokart Leogang",
+  "town": "Leogang",
+  "country": "Austria",
+  "websites": [
+   "https://www.mf-gokart.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/6968981892",
+  "name": "Chargers Racing",
+  "town": "Leonding",
+  "country": "Austria",
+  "websites": [
+   "https://www.chargersracing.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/868068820",
+  "name": "Rotax MAX Dome",
+  "town": "Linz",
+  "country": "Austria",
+  "websites": [
+   "https://www.rotaxmaxdome.com/linz/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/194361134",
+  "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring",
+  "town": "Melk",
+  "country": "Austria",
+  "websites": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452"
+  ],
+  "mapped_length_m": 747
+ },
+ {
+  "id": "way/157537270",
+  "name": "Speedarena Rechnitz",
+  "town": "Rechnitz",
+  "country": "Austria",
+  "websites": [
+   "https://www.speedarena.at/"
+  ],
+  "mapped_length_m": 1433
+ },
+ {
+  "id": "way/588787026",
+  "name": "Heroes Karts & More Regau",
+  "town": "Regau",
+  "country": "Austria",
+  "websites": [
+   "https://www.heroeskart.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/346100215",
+  "name": "Speedworld Pachfurth",
+  "town": "Rohrau",
+  "country": "Austria",
+  "websites": [
+   "https://www.speedworld-kart.at/"
+  ],
+  "mapped_length_m": 548
+ },
+ {
+  "id": "way/45494972",
+  "name": "Kartworld Salzburg",
+  "town": "Salzburg",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartworld.at"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "town": "St. Pölten",
+  "country": "Austria",
+  "websites": [
+   "https://www.rw-m.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/809272289",
+  "name": "RaceWorld Kartbahn Stetteldorf",
+  "town": "Stetteldorf am Wagram",
+  "country": "Austria",
+  "websites": [
+   "https://www.rw-m.at/"
+  ],
+  "mapped_length_m": 796
+ },
+ {
+  "id": "way/55762296",
+  "name": "KART-N-FUN",
+  "town": "Steyr",
+  "country": "Austria",
+  "websites": [
+   "http://www.gokart-steyr.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "relation/3868005",
+  "name": "Grand Prix Monza",
+  "town": "Wien",
+  "country": "Austria",
+  "websites": [
+   "https://www.pasara.at/"
+  ],
+  "mapped_length_m": 260
+ },
+ {
+  "id": "way/355474061",
+  "name": "Monza Kartbahn",
+  "town": "Wien",
+  "country": "Austria",
+  "websites": [
+   "https://monza-kart.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/137166744",
+  "name": "Kartsport Friesacher",
+  "town": "Wolfsberg",
+  "country": "Austria",
+  "websites": [
+   "https://www.indoorkart.at/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "relation/11814859",
+  "name": "Kartbahn Ziersdorf (B4 Kart Racing Center)",
+  "town": "Ziersdorf",
+  "country": "Austria",
+  "websites": [
+   "https://www.kartbahn-ziersdorf.at/"
+  ],
+  "mapped_length_m": 431
+ },
+ {
+  "id": "way/427997314",
+  "name": "The District (formerly Factory Kart)",
+  "town": "Beersel",
+  "country": "Belgium",
+  "websites": [
+   "https://thedistrict.be/"
+  ],
+  "mapped_length_m": 279
+ },
+ {
+  "id": "way/264828644",
+  "name": "Fastlane Karting Bilzen",
+  "town": "Bilzen-Hoeselt",
+  "country": "Belgium",
+  "websites": [
+   "https://fastlanebilzen.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1205468329",
+  "name": "Karting Bouillon",
+  "town": "Bouillon",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartingbouillon.com/"
+  ],
+  "mapped_length_m": 308
+ },
+ {
+  "id": "way/1238425770",
+  "name": "BattleKart Brussels (Tour & Taxis)",
+  "town": "Bruxelles - Brussel",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/834819629",
+  "name": "Green Power Kart",
+  "town": "Charleroi",
+  "country": "Belgium",
+  "websites": [
+   "https://www.greenpowerkart.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/94522368",
+  "name": "Karting des Fagnes",
+  "town": "Couvin",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartingdesfagnes.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "town": "Eeklo",
+  "country": "Belgium",
+  "websites": [
+   "https://yeti-eeklo.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/103316772",
+  "name": "Experience Factory Eupen",
+  "town": "Eupen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.experience-factory.com/eupen/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/9364985457",
+  "name": "JM Karting Liège",
+  "town": "Fléron",
+  "country": "Belgium",
+  "websites": [
+   "https://jmkarting.com/liege/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/881881200",
+  "name": "Karting Genk (Home of Champions)",
+  "town": "Genk",
+  "country": "Belgium",
+  "websites": [
+   "https://www.kartinggenk.be/"
+  ],
+  "mapped_length_m": 1820
+ },
+ {
+  "id": "way/1345697611",
+  "name": "BattleKart Genk",
+  "town": "Genk",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/en/genk"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12825338681",
+  "name": "BattleKart Gent",
+  "town": "Gent",
+  "country": "Belgium",
+  "websites": [
+   "https://www.battlekart.com/nl/gent"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/6046678299",
+  "name": "E-Kart Gent",
+  "town": "Gent",
+  "country": "Belgium",
+  "websites": [
+   "https://e-kart.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/105251328",
+  "name": "Brussels Kart",
+  "town": "Groot-Bijgaarden",
+  "country": "Belgium",
+  "websites": [
+   "https://www.brusselskart.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/108437660",
+  "name": "Eastbelgium Action, Fun & Karting Center",
+  "town": "Grüfflingen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.actioncenter.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/112038987",
+  "name": "The District (formerly Factory Kart)",
+  "town": "Huizingen",
+  "country": "Belgium",
+  "websites": [
+   "https://thedistrict.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/243837948",
+  "name": "Brussels South Karting",
+  "town": "Les Bons Villers",
+  "country": "Belgium",
+  "websites": [
+   "https://bskarting.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12752115882",
+  "name": "Indoorkarting Lommel",
+  "town": "Lommel",
+  "country": "Belgium",
+  "websites": [
+   "http://www.indoorkartinglommel.be"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/23031475",
+  "name": "Cargo-Karting",
+  "town": "Maasmechelen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.cargo-karting.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/35093946",
+  "name": "First Kart'Inn",
+  "town": "Machelen",
+  "country": "Belgium",
+  "websites": [
+   "https://www.fki.be/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13318880999",
+  "name": "BattleKart WEX",
+  "town": "Marche-en-Famenne",
+  "country": "Belgium",
+  "websites": [
+   "https://battlekart.com/fr/wex"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/236927018",
+  "name": "Aerokart",
+  "town": "Argenteuil",
+  "country": "France",
+  "websites": [
+   "https://aerokart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4130754189",
+  "name": "Ouest Karting",
+  "town": "Aunay-les-Bois",
+  "country": "France",
+  "websites": [
+   "https://ouest-karting-normandie.com/"
+  ],
+  "mapped_length_m": 1238
+ },
+ {
+  "id": "way/290668542",
+  "name": "Circuit Karting Besancon (CKB)",
+  "town": "Autoreille",
+  "country": "France",
+  "websites": [
+   "https://ckbesancon.com/"
+  ],
+  "mapped_length_m": 1329
+ },
+ {
+  "id": "way/290679920",
+  "name": "Espace Loisirs Karting",
+  "town": "Beaucaire",
+  "country": "France",
+  "websites": [
+   "https://www.karting-beaucaire.com/"
+  ],
+  "mapped_length_m": 1611
+ },
+ {
+  "id": "way/1530188806",
+  "name": "Circuit Philippe Alliot (Vendée Espace Karting)",
+  "town": "Bellevigny",
+  "country": "France",
+  "websites": [
+   "https://karting-philippealliot.com/"
+  ],
+  "mapped_length_m": 897
+ },
+ {
+  "id": "way/229549858",
+  "name": "Karting Plus Belmont",
+  "town": "Belmont-sur-Rance",
+  "country": "France",
+  "websites": [
+   "https://www.kartingplus.com"
+  ],
+  "mapped_length_m": 1459
+ },
+ {
+  "id": "way/161851704",
+  "name": "Opale Karting",
+  "town": "Berck",
+  "country": "France",
+  "websites": [
+   "https://www.opalekarting.fr/"
+  ],
+  "mapped_length_m": 598
+ },
+ {
+  "id": "way/290722216",
+  "name": "Topgun Evasion - Circuit Karting du Bassin d'Arcachon",
+  "town": "Biganos",
+  "country": "France",
+  "websites": [
+   "https://www.topgun-evasion.com/"
+  ],
+  "mapped_length_m": 1453
+ },
+ {
+  "id": "way/163841094",
+  "name": "Karting Biguglia (AS Karting Corsika)",
+  "town": "Biguglia",
+  "country": "France",
+  "websites": [
+   "https://www.circuitkarting.fr/karting-biguglia.php"
+  ],
+  "mapped_length_m": 1012
+ },
+ {
+  "id": "way/1061101289",
+  "name": "Circuit Karting ADR (Anneau du Rhin)",
+  "town": "Biltzheim",
+  "country": "France",
+  "websites": [
+   "https://www.anneau-du-rhin.com/produit/karting/",
+   "https://www.anneau-du-rhin.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1527270647",
+  "name": "Kart Escale",
+  "town": "Bort-l'Étang",
+  "country": "France",
+  "websites": [
+   "https://www.kartescale.com/",
+   "https://boutique.kartescale.com/"
+  ],
+  "mapped_length_m": 844
+ },
+ {
+  "id": "way/290679925",
+  "name": "Sud Karting Location",
+  "town": "Bouillargues",
+  "country": "France",
+  "websites": [
+   "https://sudkarting.fr/fr/"
+  ],
+  "mapped_length_m": 681
+ },
+ {
+  "id": "way/233032193",
+  "name": "Karting de Loudun",
+  "town": "Bournand",
+  "country": "France",
+  "websites": [
+   "https://www.loudun-karting.com/",
+   "https://www.facebook.com/kartingdeloudun"
+  ],
+  "mapped_length_m": 1143
+ },
+ {
+  "id": "way/1222119712",
+  "name": "SpeedPark Brest",
+  "town": "Brest",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/brest/"
+  ],
+  "mapped_length_m": 229
+ },
+ {
+  "id": "way/290720400",
+  "name": "Karting Côte Basque",
+  "town": "Briscous",
+  "country": "France",
+  "websites": [
+   "https://www.karting-cotebasque.com"
+  ],
+  "mapped_length_m": 1130
+ },
+ {
+  "id": "way/1041889411",
+  "name": "SpeedPark Brétigny-sur-Orge",
+  "town": "Brétigny-sur-Orge",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/bretigny-sur-orge/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/346861663",
+  "name": "Circuit de Karting Maraikart",
+  "town": "Bucy-le-Long",
+  "country": "France",
+  "websites": [
+   "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr"
+  ],
+  "mapped_length_m": 910
+ },
+ {
+  "id": "way/373794179",
+  "name": "Karting Evasion",
+  "town": "Bully",
+  "country": "France",
+  "websites": [
+   "https://www.karting-evasion.fr/"
+  ],
+  "mapped_length_m": 451
+ },
+ {
+  "id": "way/108356695",
+  "name": "Circuit de Cabourg",
+  "town": "Cabourg",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-cabourg/"
+  ],
+  "mapped_length_m": 800
+ },
+ {
+  "id": "way/290721039",
+  "name": "Karting du Gaillou",
+  "town": "Capbreton",
+  "country": "France",
+  "websites": [
+   "http://www.kartingdugaillou.com"
+  ],
+  "mapped_length_m": 681
+ },
+ {
+  "id": "way/168227075",
+  "name": "Win'Kart",
+  "town": "Carcassonne",
+  "country": "France",
+  "websites": [
+   "https://www.winkart-11.fr"
+  ],
+  "mapped_length_m": 945
+ },
+ {
+  "id": "way/290722219",
+  "name": "K47 Karting Caudecoste",
+  "town": "Caudecoste",
+  "country": "France",
+  "websites": [
+   "https://k47.fr/"
+  ],
+  "mapped_length_m": 940
+ },
+ {
+  "id": "way/274573480",
+  "name": "Karting de Caussiniojouls (BSO Karting)",
+  "town": "Caussiniojouls",
+  "country": "France",
+  "websites": [
+   "https://karting-caussiniojouls.com/"
+  ],
+  "mapped_length_m": 1358
+ },
+ {
+  "id": "way/1080477505",
+  "name": "Wakalase",
+  "town": "Cernay",
+  "country": "France",
+  "websites": [
+   "https://www.wakalase.com/",
+   "https://www.pgkart.com/fr/projets/complexe-de-loisirs-wakalase/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/14090466896",
+  "name": "SpeedPark Rennes",
+  "town": "Cesson-Sévigné",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/rennes/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/701534636",
+  "name": "Karting de Challans (Martini Racing Kart)",
+  "town": "Challans",
+  "country": "France",
+  "websites": [
+   "https://www.karting-challans.fr/"
+  ],
+  "mapped_length_m": 876
+ },
+ {
+  "id": "way/289884888",
+  "name": "LKS - Laville Karting Services",
+  "town": "Champforgeuil",
+  "country": "France",
+  "websites": [
+   "https://www.lkskarting.com"
+  ],
+  "mapped_length_m": 659
+ },
+ {
+  "id": "way/432100728",
+  "name": "Karting du Laquais",
+  "town": "Champier",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdulaquais.com/",
+   "https://www.circuitdulaquais.com/"
+  ],
+  "mapped_length_m": 809
+ },
+ {
+  "id": "node/11563955592",
+  "name": "BattleKart Paris-Sud-Massy",
+  "town": "Champlan",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/paris-sud-massy/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/109128724",
+  "name": "I.TEKKARTING",
+  "town": "Champniers",
+  "country": "France",
+  "websites": [
+   "https://www.itekkarting.com/"
+  ],
+  "mapped_length_m": 918
+ },
+ {
+  "id": "node/12648080502",
+  "name": "Karting de Chartres",
+  "town": "Chartres",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdechartres.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/369460246",
+  "name": "Karting du Bugey",
+  "town": "Château-Gaillard",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdubugey.com/",
+   "https://tendancekart.com/"
+  ],
+  "mapped_length_m": 418
+ },
+ {
+  "id": "way/707199497",
+  "name": "Karthors",
+  "town": "Cieurac",
+  "country": "France",
+  "websites": [
+   "https://www.karthors.fr"
+  ],
+  "mapped_length_m": 864
+ },
+ {
+  "id": "node/13817470583",
+  "name": "Speed2Max",
+  "town": "Clermont-Ferrand",
+  "country": "France",
+  "websites": [
+   "https://speed2max.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/30744291",
+  "name": "Circuit de Karting de l'Indre",
+  "town": "Clion",
+  "country": "France",
+  "websites": [
+   "https://circuit-de-lindre.com/"
+  ],
+  "mapped_length_m": 1390
+ },
+ {
+  "id": "way/324728989",
+  "name": "Karting de Kerlabo",
+  "town": "Cohiniac",
+  "country": "France",
+  "websites": [
+   "https://kerlabo-kart.com/"
+  ],
+  "mapped_length_m": 795
+ },
+ {
+  "id": "way/1528560674",
+  "name": "Bretagne Karting",
+  "town": "Combrit",
+  "country": "France",
+  "websites": [
+   "https://www.bretagne-karting.bzh/"
+  ],
+  "mapped_length_m": 573
+ },
+ {
+  "id": "node/758394659",
+  "name": "SpeedPark Conflans-Sainte-Honorine",
+  "town": "Conflans-Sainte-Honorine",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/conflans/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/39321555",
+  "name": "Kart Origins",
+  "town": "Corbas",
+  "country": "France",
+  "websites": [
+   "https://kartorigins.fr/"
+  ],
+  "mapped_length_m": 591
+ },
+ {
+  "id": "way/72225826",
+  "name": "West Mecapark",
+  "town": "Corcoué-sur-Logne",
+  "country": "France",
+  "websites": [
+   "https://www.west-mecapark.com/"
+  ],
+  "mapped_length_m": 705
+ },
+ {
+  "id": "relation/20669653",
+  "name": "RKC Karting Paris",
+  "town": "Cormeilles-en-Vexin",
+  "country": "France",
+  "websites": [
+   "https://rkc-karting-paris.com/",
+   "https://trophee-gentleman.com/"
+  ],
+  "mapped_length_m": 1124
+ },
+ {
+  "id": "way/792891327",
+  "name": "Cosne Karting",
+  "town": "Cosne-Cours-sur-Loire",
+  "country": "France",
+  "websites": [
+   "http://www.cosne-karting.com/"
+  ],
+  "mapped_length_m": 881
+ },
+ {
+  "id": "way/69104806",
+  "name": "Karting de Crolles",
+  "town": "Crolles",
+  "country": "France",
+  "websites": [
+   "https://kartingdecrolles.com/"
+  ],
+  "mapped_length_m": 745
+ }
+]

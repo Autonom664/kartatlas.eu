@@ -1,0 +1,471 @@
+[
+ {
+  "id": "way/46766217",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor electric track with a bridge; no length stated."
+ },
+ {
+  "id": "way/131579725",
+  "tracks": [],
+  "source": null,
+  "note": "Outdoor circuit; no length stated."
+ },
+ {
+  "id": "way/895692304",
+  "tracks": [],
+  "source": null,
+  "note": "Outdoor electric karting area of 6500 m2 stated; no track length."
+ },
+ {
+  "id": "node/12676251167",
+  "tracks": [],
+  "source": null,
+  "note": "Two BattleKart tracks of about 1800-2000 m2 each; no length stated."
+ },
+ {
+  "id": "way/99249659",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.goodwillkarting.be/circuit",
+  "note": "Site mentions indoor and outdoor sections with a total length of 600 m."
+ },
+ {
+  "id": "way/144396456",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 750,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://racelandkart.be/NL/activiteiten/karting",
+  "note": "Layout changes every year."
+ },
+ {
+  "id": "way/472960694",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/43590428",
+  "tracks": [
+   {
+    "name": "In- and outdoor circuit",
+    "length_m": 1000,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://inkart.be/1km-in-en-outdoor-inkart-circuit/",
+  "note": "1 km combined indoor (two levels) and outdoor layout runs in summer/dry weather; indoor-only length not stated."
+ },
+ {
+  "id": "node/3724910749",
+  "tracks": [],
+  "source": null,
+  "note": "Site gives no track details."
+ },
+ {
+  "id": "way/34403881",
+  "tracks": [
+   {
+    "name": "Spa-Francorchamps",
+    "length_m": 1092,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.francorchamps-karting.be/",
+  "note": null
+ },
+ {
+  "id": "node/10312671620",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 535,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.wik-karting.be",
+  "note": "Two-level indoor track with 21 corners."
+ },
+ {
+  "id": "node/4467077725",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 400,
+    "width_m": 12,
+    "use": "both"
+   }
+  ],
+  "source": "https://gokartworld.dk",
+  "note": "About 400 m long, 6-12 m wide (widest given)."
+ },
+ {
+  "id": "way/785838797",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 640,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://mougokart.dk",
+  "note": null
+ },
+ {
+  "id": "way/87330958",
+  "tracks": [
+   {
+    "name": "Racehall Aarhus",
+    "length_m": 1000,
+    "width_m": 13,
+    "use": "both"
+   }
+  ],
+  "source": "https://racehall.com/banerne/",
+  "note": "14 corners."
+ },
+ {
+  "id": "node/8124949048",
+  "tracks": [],
+  "source": null,
+  "note": "Large indoor track; no length stated."
+ },
+ {
+  "id": "node/2216849378",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/7548776479",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/8162798833",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/380865250",
+  "tracks": [
+   {
+    "name": "Voksenbanen",
+    "length_m": 370,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Stor Bane",
+    "length_m": 560,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.gokart.dk/banen",
+  "note": "Stor Bane joins the adult and children's tracks; both lengths approximate."
+ },
+ {
+  "id": "way/449265399",
+  "tracks": [
+   {
+    "name": "Bane 1",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Bane 2",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Fuld bane",
+    "length_m": 1400,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.vma.dk/",
+  "note": "Full track combines Bane 1 and 2; lengths approximate."
+ },
+ {
+  "id": "way/177039353",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/839020157",
+  "tracks": [
+   {
+    "name": "Racehall København",
+    "length_m": 1250,
+    "width_m": 13,
+    "use": "both"
+   }
+  ],
+  "source": "https://racehall.com/banerne/",
+  "note": "Width 8-13 m (widest given), 22 corners."
+ },
+ {
+  "id": "way/532894308",
+  "tracks": [],
+  "source": null,
+  "note": "Website returned 403."
+ },
+ {
+  "id": "way/139090965",
+  "tracks": [],
+  "source": null,
+  "note": "Club/licence track without rental; closes summer 2028; no length stated."
+ },
+ {
+  "id": "way/664573164",
+  "tracks": [
+   {
+    "name": "Rødby Karting Ring",
+    "length_m": 1246,
+    "width_m": 12,
+    "use": "both"
+   }
+  ],
+  "source": "https://rodbygokart.dk/banen/",
+  "note": "Width 8-12 m (widest given)."
+ },
+ {
+  "id": "way/447780824",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 620,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://auningkartpark.dk/om-banen/",
+  "note": "Track with tunnel and suspension bridge."
+ },
+ {
+  "id": "way/892633637",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 733,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://gokartfyn.dk/banen/",
+  "note": "Width 6-8 m (widest given)."
+ },
+ {
+  "id": "node/4467097590",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 270,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://odensegokart.dk/banen/",
+  "note": "Width 6-8 m (widest given); layout from January 2023."
+ },
+ {
+  "id": "way/712050506",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/938791191",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1250,
+    "width_m": 12,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.roskilderacingcenter.dk/banen",
+  "note": "Width 8-12 m (widest given)."
+ },
+ {
+  "id": "node/8158080464",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor track on two levels; no length stated."
+ },
+ {
+  "id": "node/4477658831",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 250,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://skivegokart.dk/gokart/",
+  "note": null
+ },
+ {
+  "id": "way/1236943145",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/547428233",
+  "tracks": [],
+  "source": null,
+  "note": "Club kart track at Tirstrup; no length stated."
+ },
+ {
+  "id": "way/94984580",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 760,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://alsgokartklub.dk/",
+  "note": null
+ },
+ {
+  "id": "way/486318757",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1248,
+    "width_m": 10,
+    "use": "race"
+   }
+  ],
+  "source": "https://thymotorsport.dk/banen/",
+  "note": "Width 8-10 m; homepage gives 1230 m; no rental karts."
+ },
+ {
+  "id": "way/93851066",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/356759825",
+  "tracks": [
+   {
+    "name": "Vandel Gokartbane",
+    "length_m": 900,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://vandelgokart.dk/gokart/",
+  "note": "14 corners; an endurance series mentions multiple layouts without lengths."
+ },
+ {
+  "id": "way/466134641",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/318606996",
+  "tracks": [],
+  "source": null,
+  "note": "Website stuck in a redirect loop."
+ },
+ {
+  "id": "way/712568193",
+  "tracks": [
+   {
+    "name": "Piste communale d'Abbeville",
+    "length_m": 1163,
+    "width_m": 8,
+    "use": "race"
+   }
+  ],
+  "source": "https://abbeville-somme-karting.fr/",
+  "note": "Licensed FFSA drivers only."
+ },
+ {
+  "id": "way/158239320",
+  "tracks": [
+   {
+    "name": "Karting Adulte",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Karting Junior",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingnumberone.com/",
+  "note": "Also two off-road cross tracks for quads/motocross without lengths."
+ },
+ {
+  "id": "way/405292367",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1402,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://karting-ariege.fr",
+  "note": null
+ },
+ {
+  "id": "way/171449371",
+  "tracks": [
+   {
+    "name": "Circuit Roger Gaillard",
+    "length_m": 1170,
+    "width_m": 7,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.ask-ancenis.fr/circuit/",
+  "note": null
+ },
+ {
+  "id": "way/269958238",
+  "tracks": [
+   {
+    "name": "Piste de compétition",
+    "length_m": 1200,
+    "width_m": 8,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.askangerville.fr/le-circuit/trace-de-la-piste.html",
+  "note": "A separate rental 'Piste Loisir' exists but its length is not stated."
+ }
+]

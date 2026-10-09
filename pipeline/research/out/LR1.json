@@ -1,0 +1,905 @@
+[
+ {
+  "id": "node/8375040368",
+  "tracks": [],
+  "source": null,
+  "note": "Site calls it one of Austria's longest kart tracks but states no length; track plan is image only."
+ },
+ {
+  "id": "way/98283484",
+  "tracks": [
+   {
+    "name": "Leihkart",
+    "length_m": 1450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://ps-racing.at/die-strecke/",
+  "note": "Same circuit also lists Supermoto 1900 m and Rally/Rallycross 1120 m configurations (partly off-road, not kart)."
+ },
+ {
+  "id": "way/472368623",
+  "tracks": [],
+  "source": null,
+  "note": "Track pages show only video/panorama, no length stated."
+ },
+ {
+  "id": "relation/1760200",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 450,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.mf-gokart.at/",
+  "note": "Site says approx. 450 m outdoor track."
+ },
+ {
+  "id": "node/6968981892",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: connection refused."
+ },
+ {
+  "id": "way/868068820",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.rotaxmaxdome.com/linz/racing/track-tunnel",
+  "note": "Two-level indoor e-kart track, up to 8 m wide, with 50 m tunnel."
+ },
+ {
+  "id": "way/194361134",
+  "tracks": [
+   {
+    "name": "Outdoor Kart Strecke am Wachauring",
+    "length_m": 750,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+  "note": null
+ },
+ {
+  "id": "way/157537270",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1007,
+    "width_m": 10,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.speedarena.at/",
+  "note": "Width stated as 8-10 m."
+ },
+ {
+  "id": "way/588787026",
+  "tracks": [],
+  "source": null,
+  "note": "Homepage is very large and mostly code; no length found in first 200k characters."
+ },
+ {
+  "id": "way/346100215",
+  "tracks": [
+   {
+    "name": "Rennstrecke",
+    "length_m": 1180,
+    "width_m": null,
+    "use": "race"
+   },
+   {
+    "name": "Leihkartbahn",
+    "length_m": 580,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.speedworld-kart.at/",
+  "note": "Race track stated as both 1140 m and 1180 m on the same page; longest used."
+ },
+ {
+  "id": "way/45494972",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor track; homepage states no length."
+ },
+ {
+  "id": "node/9602638604",
+  "tracks": [],
+  "source": null,
+  "note": "St. Poelten indoor e-kart track not yet open (project delayed); no length stated."
+ },
+ {
+  "id": "way/809272289",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 980,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://rw-m.at/kart-fahren",
+  "note": "980 m, can be driven clockwise or anticlockwise."
+ },
+ {
+  "id": "way/55762296",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: site TLS certificate error."
+ },
+ {
+  "id": "relation/3868005",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: HTTP 403."
+ },
+ {
+  "id": "way/355474061",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": 9,
+    "use": "rental"
+   }
+  ],
+  "source": "https://monza-kart.com",
+  "note": "Indoor e-kart track on two floors, 500 m total, up to 9 m wide."
+ },
+ {
+  "id": "way/137166744",
+  "tracks": [],
+  "source": null,
+  "note": "Wolfsberg page states no track length."
+ },
+ {
+  "id": "relation/11814859",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartbahn-ziersdorf.at/strecke-kartbahn/",
+  "note": "Approx. 500 m; site says it can be driven in several layouts but gives no separate lengths."
+ },
+ {
+  "id": "way/427997314",
+  "tracks": [],
+  "source": null,
+  "note": "Site covers only the Huizingen indoor circuit and states no length; Beersel venue not mentioned."
+ },
+ {
+  "id": "way/264828644",
+  "tracks": [],
+  "source": null,
+  "note": "Karting page states no track length."
+ },
+ {
+  "id": "way/1205468329",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartingbouillon.com/",
+  "note": null
+ },
+ {
+  "id": "way/1238425770",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart site states no track lengths."
+ },
+ {
+  "id": "way/834819629",
+  "tracks": [
+   {
+    "name": "Double etage",
+    "length_m": 1100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.greenpowerkart.be/",
+  "note": "Indoor two-level track."
+ },
+ {
+  "id": "way/94522368",
+  "tracks": [
+   {
+    "name": "Piste Complete",
+    "length_m": 1366,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartingdesfagnes.be/",
+  "note": null
+ },
+ {
+  "id": "way/182395864",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://yeti-eeklo.be/karting/",
+  "note": "Indoor two-level e-kart track."
+ },
+ {
+  "id": "way/103316772",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.experience-factory.com/eupen/karting/",
+  "note": "Indoor track of 1.1 km with bridge, banked turn and tunnel."
+ },
+ {
+  "id": "node/9364985457",
+  "tracks": [],
+  "source": null,
+  "note": "New track from June 2026; no length stated."
+ },
+ {
+  "id": "way/881881200",
+  "tracks": [
+   {
+    "name": "Pro Circuit",
+    "length_m": 1360,
+    "width_m": 12,
+    "use": "both"
+   },
+   {
+    "name": "Fun Circuit",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartinggenk.be/nl/karts-and-circuit",
+  "note": "Pro Circuit width 8.5-12 m; Fun Circuit stated 7.5 m wide."
+ },
+ {
+  "id": "way/1345697611",
+  "tracks": [],
+  "source": null,
+  "note": "BattleKart Genk page states no track length or area."
+ },
+ {
+  "id": "node/12825338681",
+  "tracks": [],
+  "source": null,
+  "note": "Page states 5,000 m2 complex with 2 arenas of 2,000 m2 each, but no lengths."
+ },
+ {
+  "id": "node/6046678299",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://e-kart.be/",
+  "note": "Indoor e-kart circuit, 450 m."
+ },
+ {
+  "id": "way/105251328",
+  "tracks": [],
+  "source": null,
+  "note": "Site states no track length (circuit under renovation)."
+ },
+ {
+  "id": "way/108437660",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 850,
+    "width_m": 6,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.actioncenter.be/action/karting/",
+  "note": null
+ },
+ {
+  "id": "way/112038987",
+  "tracks": [],
+  "source": null,
+  "note": "Indoor circuit in Huizingen; site states no length."
+ },
+ {
+  "id": "way/243837948",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: connection refused."
+ },
+ {
+  "id": "node/12752115882",
+  "tracks": [],
+  "source": null,
+  "note": "Circuit recently rebuilt; site says new track plan to follow, no length stated."
+ },
+ {
+  "id": "way/23031475",
+  "tracks": [],
+  "source": null,
+  "note": "Site states no track length."
+ },
+ {
+  "id": "way/35093946",
+  "tracks": [
+   {
+    "name": "Indoor + Outdoor",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Indoor",
+    "length_m": 450,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.fki.be/",
+  "note": "Outdoor section varies from 150 to 300 m; indoor track is modular."
+ },
+ {
+  "id": "node/13318880999",
+  "tracks": [],
+  "source": null,
+  "note": "Page states 6,000 m2 venue, no track length."
+ },
+ {
+  "id": "way/236927018",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 605,
+    "width_m": 9,
+    "use": "rental"
+   }
+  ],
+  "source": "https://aerokart.com/karting",
+  "note": "Indoor track, 7-9 m wide, refurbished 2024."
+ },
+ {
+  "id": "node/4130754189",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1215,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Sens inverse",
+    "length_m": 900,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://ouest-karting-normandie.com/la-piste/",
+  "note": "Two layouts: 1215 m CIK/FIA standard and 900 m reverse layout."
+ },
+ {
+  "id": "way/290668542",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://ckbesancon.com/",
+  "note": "Also a small electric-kart circuit for ages 3-5, length not stated."
+ },
+ {
+  "id": "way/290679920",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 720,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.karting-beaucaire.com/circuit",
+  "note": "Site mentions a second circuit at the end of the road but gives no details."
+ },
+ {
+  "id": "way/1530188806",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 801,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://karting-philippealliot.com/presentation-circuit-philippe-alliot/",
+  "note": "Current track 801 m x 7.5 m; page also says it was 916 m when built in 1995."
+ },
+ {
+  "id": "way/229549858",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1500,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "source": "https://kartingplus.com/",
+  "note": null
+ },
+ {
+  "id": "way/161851704",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 603,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.opalekarting.fr/",
+  "note": null
+ },
+ {
+  "id": "way/290722216",
+  "tracks": [
+   {
+    "name": "Grande Piste",
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "both"
+   },
+   {
+    "name": "Petite Piste",
+    "length_m": 920,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.topgun-evasion.com/2-topgun-evasion/19-circuit-karting-bassin-arcachon.html",
+  "note": null
+ },
+ {
+  "id": "way/163841094",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.circuitkarting.fr/karting-biguglia.php",
+  "note": null
+ },
+ {
+  "id": "way/1061101289",
+  "tracks": [],
+  "source": null,
+  "note": "Karting page gives no length; karting offered only for professional groups and currently unavailable."
+ },
+ {
+  "id": "way/1527270647",
+  "tracks": [],
+  "source": null,
+  "note": "Site states no track length."
+ },
+ {
+  "id": "way/290679925",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: connection refused/reset."
+ },
+ {
+  "id": "way/233032193",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1150,
+    "width_m": 8,
+    "use": "both"
+   },
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.loudun-karting.com/",
+  "note": "Site gives 1150 m or 800 m layouts, both 8 m wide."
+ },
+ {
+  "id": "way/1222119712",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: connection refused."
+ },
+ {
+  "id": "way/290720400",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1200,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting-cotebasque.com",
+  "note": "Site says more than 1200 m."
+ },
+ {
+  "id": "way/1041889411",
+  "tracks": [
+   {
+    "name": "Karting thermique",
+    "length_m": 200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://speedpark.fr/bretigny-sur-orge/karting/",
+  "note": "Indoor track."
+ },
+ {
+  "id": "way/346861663",
+  "tracks": [],
+  "source": null,
+  "note": "Site states no track length."
+ },
+ {
+  "id": "way/373794179",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.karting-evasion.fr/",
+  "note": null
+ },
+ {
+  "id": "way/108356695",
+  "tracks": [
+   {
+    "name": "Grande piste",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-cabourg/",
+  "note": null
+ },
+ {
+  "id": "way/290721039",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: TLS error on site."
+ },
+ {
+  "id": "way/168227075",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 976,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.winkart-11.fr",
+  "note": null
+ },
+ {
+  "id": "way/290722219",
+  "tracks": [
+   {
+    "name": "Outdoor",
+    "length_m": 953,
+    "width_m": 8,
+    "use": "both"
+   },
+   {
+    "name": "Indoor",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://k47.fr/circuit-karting-exterieur-pres-d-agen/",
+  "note": "Indoor 300 m length from https://k47.fr/piste-karting-interieur-caudecoste/."
+ },
+ {
+  "id": "way/274573480",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1100,
+    "width_m": 8,
+    "use": "both"
+   }
+  ],
+  "source": "https://karting-caussiniojouls.com/",
+  "note": null
+ },
+ {
+  "id": "way/1080477505",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.wakalase.com/",
+  "note": "Indoor two-level electric kart track."
+ },
+ {
+  "id": "node/14090466896",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 202,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://speedpark.fr/rennes/karting/",
+  "note": "Indoor electric kart track."
+ },
+ {
+  "id": "way/701534636",
+  "tracks": [
+   {
+    "name": "Circuit principal",
+    "length_m": 700,
+    "width_m": 7,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karting-challans.fr/index.php/circuit/les-pistes",
+  "note": "Also a separate children's track (from age 3), length not stated."
+ },
+ {
+  "id": "way/289884888",
+  "tracks": [],
+  "source": null,
+  "note": "Circuit page states no track length."
+ },
+ {
+  "id": "way/432100728",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingdulaquais.com/piste-karting",
+  "note": "Leisure-only track of over 900 m (originally 550 m, rebuilt 2010)."
+ },
+ {
+  "id": "node/11563955592",
+  "tracks": [],
+  "source": null,
+  "note": "Page states 2,000 m2 venue with a 1,500 m2 arena, no length."
+ },
+ {
+  "id": "way/109128724",
+  "tracks": [],
+  "source": null,
+  "note": "Site describes an oval with 14 possible configurations but no length."
+ },
+ {
+  "id": "node/12648080502",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 420,
+    "width_m": 5,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.kartingdechartres.fr/pages/notre-piste-17.html",
+  "note": "Indoor two-level electric track, minimum width 5 m."
+ },
+ {
+  "id": "way/369460246",
+  "tracks": [
+   {
+    "name": "Piste rouge",
+    "length_m": 1700,
+    "width_m": null,
+    "use": "both"
+   },
+   {
+    "name": "Piste orange",
+    "length_m": 1500,
+    "width_m": null,
+    "use": "race"
+   }
+  ],
+  "source": "https://www.kartingdubugey.com/circuit-du-bugey/",
+  "note": "Divisible into 2 independent circuits with 6 possible layouts; orange track shared with car/motorbike days."
+ },
+ {
+  "id": "way/707199497",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.karthors.fr",
+  "note": null
+ },
+ {
+  "id": "node/13817470583",
+  "tracks": [],
+  "source": null,
+  "note": "Site states no track length."
+ },
+ {
+  "id": "way/30744291",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://circuit-de-lindre.com/",
+  "note": "Stated as 1000 m x 7.5 m."
+ },
+ {
+  "id": "way/324728989",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://kerlabo-kart.com/",
+  "note": "Site says more than 800 m, homologated in both directions."
+ },
+ {
+  "id": "way/1528560674",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.bretagne-karting.bzh/",
+  "note": null
+ },
+ {
+  "id": "node/758394659",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 280,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://speedpark.fr/conflans/karting/",
+  "note": "Indoor track."
+ },
+ {
+  "id": "way/39321555",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 500,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartorigins.fr/",
+  "note": "New 500 m track."
+ },
+ {
+  "id": "way/72225826",
+  "tracks": [
+   {
+    "name": "Circuit Asphalte",
+    "length_m": 700,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.west-mecapark.com/",
+  "note": null
+ },
+ {
+  "id": "relation/20669653",
+  "tracks": [
+   {
+    "name": "Piste 1200m",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "race"
+   },
+   {
+    "name": "Piste 1000m",
+    "length_m": 1000,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://rkc-karting-paris.com/le-complexe/",
+  "note": "Also a Piste decouverte and a Baby Track with no length stated; site mentions 5 layouts."
+ },
+ {
+  "id": "way/792891327",
+  "tracks": [
+   {
+    "name": "Circuit 900 metres",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "source": "https://www.cosne-karting.com/",
+  "note": null
+ },
+ {
+  "id": "way/69104806",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 600,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://kartingdecrolles.com/",
+  "note": null
+ }
+]

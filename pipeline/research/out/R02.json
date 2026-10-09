@@ -1,0 +1,638 @@
+[
+ {
+  "id": "way/206011236",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Marktredwitz-Dörflas; the 134 m layout may be a small private or club track."
+ },
+ {
+  "id": "way/1163615563",
+  "name": "Kart Motorsport Arena (Stucks-Kart-Center)",
+  "type": "outdoor",
+  "website": "https://www.kartmotorsport.de",
+  "websites": [
+   {
+    "url": "https://www.kartmotorsport.de",
+    "role": "rental",
+    "name": "Kart Motorsport Arena Gollhofen"
+   }
+  ],
+  "phone": "+49 9339 991367",
+  "email": "info@kartmotorsport.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "9 PS",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartmotorsport.de",
+   "https://www.ortsdienst.de/bayern/wuerzburg/kartbahn/"
+  ],
+  "note": "Indoor 540 m and outdoor 960 m tracks, combinable to 1,500 m; Industriestrasse 6, reservation required."
+ },
+ {
+  "id": "way/833973923",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Coordinates fall in the Nuremberg Volksfestplatz/Dutzendteich area; no permanent public kart venue found there (Formula Kartbahn Nürnberg is elsewhere, at Kilianstrasse 102)."
+ },
+ {
+  "id": "way/913590419",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found in Traitsching; the 218 m layout may be a private or club track."
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "type": "outdoor",
+  "website": "https://www.kartclub-straubing.de",
+  "websites": [
+   {
+    "url": "https://www.kartclub-straubing.de",
+    "role": "club",
+    "name": "Kartclub Straubing"
+   }
+  ],
+  "phone": "+49 9421 60101",
+  "email": "info@kartclub-straubing.de",
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ortsdienst.de/bayern/straubing/kartbahn/",
+   "https://freizeitmonster.de/blog/kartbahnen-straubing"
+  ],
+  "note": "Club-run track at Imhoffstrasse; reviews mention well-maintained karts, but rental terms could not be confirmed because the club site was unreachable."
+ },
+ {
+  "id": "way/30120851",
+  "name": "KartArena Ingolstadt",
+  "type": "indoor",
+  "website": "https://www.kartarena-ingolstadt.de",
+  "websites": [
+   {
+    "url": "https://www.kartarena-ingolstadt.de",
+    "role": "venue",
+    "name": "KartArena Ingolstadt"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/aktivitaeten/orte/kartarena-ingolstadt-190340",
+   "https://freizeitmonster.de/blog/kartbahnen-ingolstadt"
+  ],
+  "note": "Listed at Manchinger Strasse 128, 85053 Ingolstadt; the linked website did not load (certificate error), so status and rental are unverified."
+ },
+ {
+  "id": "way/328666276",
+  "name": "Karting-Paradies Vilsbiburg",
+  "type": "outdoor",
+  "website": "https://www.karting-paradies.de",
+  "websites": [
+   {
+    "url": "https://www.karting-paradies.de",
+    "role": "rental",
+    "name": "Karting-Paradies Vilsbiburg"
+   }
+  ],
+  "phone": "+49 8741 924117",
+  "email": "service@karting-paradies.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9 PS",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5 PS",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5 PS",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "13 PS",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.karting-paradies.de",
+   "https://freizeitinsider.de/angebot/karting-paradies-vilsbiburg/"
+  ],
+  "note": "Combined indoor and outdoor venue at Hertzstrasse 3; fleet is Super Kart 9 PS, Pro Kart 6.5 PS, Kids Kart 6.5 PS and a 13 PS two-seater."
+ },
+ {
+  "id": "way/1473538034",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for an AMC kart track in Burgau; probably a club track (kart slalom or youth training)."
+ },
+ {
+  "id": "way/1279684227",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found for Neumarkt-Sankt Veit."
+ },
+ {
+  "id": "way/1345148810",
+  "name": "Motorsportclub Zeilarn e.V.",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.zeilarn.de/fileadmin/Gemeinde/Dateien/Vereinszeitung/2021/Sportzeitung_Ausgabe_9.pdf",
+   "https://www.zeilarn.de/fileadmin/Gemeinde/Dateien/Vereinszeitung/2022/2022.10.pdf"
+  ],
+  "note": "Probably the club ground of MSC Zeilarn, whose youth kart (kart slalom) group trains about twice a week; not a public rental venue."
+ },
+ {
+  "id": "way/593928323",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Augsburg/Königsbrunn for these coordinates; nearest listed tracks are in Mering and Landsberg."
+ },
+ {
+  "id": "way/419523875",
+  "name": "Schweppermannring (Ampfing)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-muehldorf-a-inn",
+   "https://www.adac-motorsport.de/en/deutsche-kart-meisterschaft/news/2024/dkm-travels-to-its-most-southerly-event-in-ampfing/"
+  ],
+  "note": "Probably the 1,063 m Schweppermannring (St 2550, 84562 Mettenheim), a DKM championship circuit; the 221 m OSM way may be only part of it. No rental info found."
+ },
+ {
+  "id": "way/195781843",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Saaldorf-Surheim/Steinbrünning; may be a private or club track."
+ },
+ {
+  "id": "way/93488466",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track in Geretsried."
+ },
+ {
+  "id": "way/177706707",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-site mentions of 'Kartplatz Hof' in Teisendorf found; operator, probably a local motorsport club, not identified."
+ },
+ {
+  "id": "way/514034419",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-site mentions of a 'Kart-Trainingsgelände' in Marktoberdorf found; probably a club training ground, not a public venue."
+ },
+ {
+  "id": "way/24789697",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Sonthofen-Bihlerdorf."
+ },
+ {
+  "id": "way/795149381",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for Speedracer e.V. or a Motodrom in Bernau; name suggests a small club track, possibly for kids."
+ },
+ {
+  "id": "way/94128522",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-site mentions of a 'Kartsporthalle' in Lebusa found; operator and opening status unknown."
+ },
+ {
+  "id": "way/285319826",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a speedway or kart track in Homberg (Ohm)."
+ },
+ {
+  "id": "way/255820186",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No indoor kart venue found in Wetzlar-Garbenheim; nearest listed venues are Kartland Sinn and Kartbahn Hungen."
+ },
+ {
+  "id": "way/202733188",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/minigolf-floersheim"
+  ],
+  "note": "A directory places a minigolf site at 'Cross Kart Bahn, 65439 Flörsheim', but no current kart operation was found."
+ },
+ {
+  "id": "node/8841305710",
+  "name": "Indoorkart Usedom",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Appears only in travel-site listings; freizeitinsider lists no indoor track on Usedom, so it may be closed."
+ },
+ {
+  "id": "way/761797608",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Linstow; the Van der Valk Resort's listed activities do not include karting."
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "type": null,
+  "website": "https://www.motodrom-schwerin.de",
+  "websites": [
+   {
+    "url": "https://www.motodrom-schwerin.de",
+    "role": "venue",
+    "name": "Motodrom Schwerin"
+   }
+  ],
+  "phone": "+49 385 6666260",
+  "email": "info@motodrom-schwerin.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ortsdienst.de/mecklenburg-vorpommern/kartbahn/",
+   "https://freizeitmonster.de/blog/kartbahnen-schwerin"
+  ],
+  "note": "Listed at Baustrasse 3, 19061 Schwerin, which is in the Görries area; the website blocked access, so rental details are unverified."
+ },
+ {
+  "id": "way/835366727",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Grabowhöfe."
+ },
+ {
+  "id": "way/585117248",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track of Motorsportclub Jever at Heidmühle."
+ },
+ {
+  "id": "way/1474842457",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for Kartbahn Stickhausen."
+ },
+ {
+  "id": "way/531411082",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for a kart track in Fürstenau."
+ },
+ {
+  "id": "way/216971093",
+  "name": "Harzer Kart-Center",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kr.hotels.com/es/tgp/lodging/979108905569366016/harzer-kart-center"
+  ],
+  "note": "Appears only in hotel listings (near Klosterhotel Wöltingerode, Vienenburg); not in kart directories for Goslar, so it may be closed."
+ },
+ {
+  "id": "relation/10642924",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No web source found for 'Ravensburgring' in Borgholzhausen; may be a private or club track."
+ },
+ {
+  "id": "node/997947153",
+  "name": "Sport Kart Münster",
+  "type": "indoor",
+  "website": "https://www.sportkart-muenster.de",
+  "websites": [
+   {
+    "url": "https://www.sportkart-muenster.de",
+    "role": "rental",
+    "name": "Sportkart Münster"
+   }
+  ],
+  "phone": "+49 251 92439933",
+  "email": "info@sportkart-muenster.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.sportkart-muenster.de",
+   "https://freizeitinsider.de/angebot/sport-kart-muenster/"
+  ],
+  "note": "All-weather 480 m track at An der Kleimannbrücke 55, open Friday to Sunday; listed as indoor although OSM tags it outdoor."
+ },
+ {
+  "id": "way/894252551",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Reken station; the 176 m layout may be a private or club track."
+ },
+ {
+  "id": "way/192702364",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only travel-site mentions of a 'Kartbahn Schermbeck' found; operator unknown."
+ },
+ {
+  "id": "way/430206718",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Bottrop-Grafenwald."
+ },
+ {
+  "id": "way/235291205",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Gelsenkirchen-Leithe."
+ }
+]

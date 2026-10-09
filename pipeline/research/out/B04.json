@@ -1,0 +1,953 @@
+[
+ {
+  "id": "way/582975406",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.e-fun-park-pottenstein.de/",
+  "websites": [
+   {
+    "url": "https://www.e-fun-park-pottenstein.de/",
+    "role": "rental",
+    "name": "E-Fun-Park Pottenstein"
+   }
+  ],
+  "phone": "+49 9243 7014011",
+  "email": "info@e-fun-park-pottenstein.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.e-fun-park-pottenstein.de/",
+   "https://www.e-fun-park-pottenstein.de/freizeitangebot/go-kart/"
+  ],
+  "note": "Electric RiMO SiNUS biSynchron karts (2 x 2.8 kW); kids and adult tickets."
+ },
+ {
+  "id": "way/1163615563",
+  "name": "Stucks-Kart-Center Gollhofen",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+49 9339 991367",
+  "email": "info@kartmotorsport.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ortsdienst.de/bayern/main-spessart/zellingen/kartbahn/"
+  ],
+  "note": "Only directory listings found (Industriestrasse 6, Gollhofen); no official website located."
+ },
+ {
+  "id": "way/833973923",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Could not identify a venue at these coordinates in SW Nuernberg; Formula Kartbahn Nuernberg (Kilianstrasse) is elsewhere."
+ },
+ {
+  "id": "way/27658112",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.prokart-raceland.com/home/",
+  "websites": [
+   {
+    "url": "https://www.prokart-raceland.com/home/",
+    "role": "venue",
+    "name": "Pro Kart Raceland Wackersdorf"
+   }
+  ],
+  "phone": "+49 9431 75520",
+  "email": "info@prokart-raceland.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": "23",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.prokart-raceland.com/home/"
+  ],
+  "note": "Indoor and outdoor rental tracks plus separate race-kart (Rennkart) tickets and hours; kids karts from 6 years; only 4 Rotax rental karts (22-23 PS)."
+ },
+ {
+  "id": "way/913590419",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Traitsching."
+ },
+ {
+  "id": "node/2501649295",
+  "name": null,
+  "type": null,
+  "website": "https://www.kart-o-mania.de/",
+  "websites": [
+   {
+    "url": "https://www.kart-o-mania.de/",
+    "role": "rental",
+    "name": "Planet KART-O-MANIA"
+   }
+  ],
+  "phone": "+49 9923 1802",
+  "email": "info@kart-o-mania.de",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kart-o-mania.de/"
+  ],
+  "note": "Leisure venue with kart areas and prices; fleet details not stated on website."
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "type": "outdoor",
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.kartclub-straubing.de/",
+    "role": "club",
+    "name": "Kartclub Straubing"
+   }
+  ],
+  "phone": "+49 9421 60101",
+  "email": "info@kartclub-straubing.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ortsdienst.de/bayern/straubing/kartbahn/",
+   "https://freizeitinsider.de/lotse/go-kartbahn/straubing/"
+  ],
+  "note": "Track at Imhoffstrasse, Straubing, run by Kartclub Straubing; club website could not be loaded; reviews mention well-maintained karts and timing."
+ },
+ {
+  "id": "way/30120851",
+  "name": "KartArena Ingolstadt",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-ingolstadt"
+  ],
+  "note": "Directory lists KartArena Ingolstadt, Manchinger Strasse 128; possibly related to FunArena Ingolstadt (indoor karting); no official site found."
+ },
+ {
+  "id": "way/1444721703",
+  "name": "MSC Osterhofen",
+  "type": "outdoor",
+  "website": "https://msc-osterhofen.jimdoweb.com/",
+  "websites": [
+   {
+    "url": "https://msc-osterhofen.jimdoweb.com/",
+    "role": "club",
+    "name": "MSC Osterhofen"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Club track near Blaimberg; club website blocked fetching and no other sources found."
+ },
+ {
+  "id": "way/129879602",
+  "name": null,
+  "type": "indoor",
+  "website": "https://bavaria-kart.de/",
+  "websites": [
+   {
+    "url": "https://bavaria-kart.de/",
+    "role": "rental",
+    "name": "Bavaria Kart"
+   }
+  ],
+  "phone": "+49 8221 22002",
+  "email": "info@bavaria-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://bavaria-kart.de/"
+  ],
+  "note": "Indoor track with summer outdoor section; new Sodi karts, combustion karts for exclusive group rentals."
+ },
+ {
+  "id": "way/328666276",
+  "name": "Karting Paradies Vilsbiburg",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 8741 924117",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/karting-paradies-vilsbiburg/",
+   "https://freizeitmonster.de/blog/kartbahnen-vilsbiburg"
+  ],
+  "note": "Outdoor section (350 m) of Karting Paradies Vilsbiburg, which also has a 650 m indoor track (Hertzstrasse 3)."
+ },
+ {
+  "id": "way/1473538034",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found for AMC Kartbahn Burgau."
+ },
+ {
+  "id": "way/108799424",
+  "name": null,
+  "type": "indoor",
+  "website": "https://ecodrom.de/",
+  "websites": [
+   {
+    "url": "https://ecodrom.de/",
+    "role": "rental",
+    "name": "Ecodrom Neu-Ulm"
+   }
+  ],
+  "phone": "+49 731 2074840",
+  "email": "info@ecodrom.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://ecodrom.de/",
+   "https://www.tourismus.ulm.de/en/discover/ulm-and-neu-ulm/sports-and-leisure/sports/ecodrom"
+  ],
+  "note": "Indoor hall with electric karts and a two-seater kart."
+ },
+ {
+  "id": "way/1279684227",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Neumarkt-Sankt Veit."
+ },
+ {
+  "id": "way/1345148810",
+  "name": "MSC Zeilarn",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.zeilarn.de/fileadmin/Gemeinde/Dateien/Vereinszeitung/2021/Sportzeitung_Ausgabe_9.pdf"
+  ],
+  "note": "Probably the MSC Zeilarn youth kart-slalom training ground (Grillenhoegl near Zeilarn, since 2018); not confirmed."
+ },
+ {
+  "id": "way/593928323",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No venue identified near Koenigsbrunn; nearest listed tracks are Mering-Sankt Afra (outdoor) and Landsberg (indoor)."
+ },
+ {
+  "id": "way/419523875",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Small track (221 m) near Kartbahn Ampfing; possibly its kids/secondary track, not confirmed. No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "node/822046091",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartshop-ampfing.de",
+  "websites": [
+   {
+    "url": "https://www.kartshop-ampfing.de",
+    "role": "venue",
+    "name": "Kartbahn Ampfing / Kartshop Ampfing"
+   }
+  ],
+  "phone": "+49 8636 983190",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.kartshop-ampfing.de"
+  ],
+  "note": "Rental free driving and Rotax race rentals; race-kart shop (Birel ART, TM) and kart school with professional training."
+ },
+ {
+  "id": "node/1844036287",
+  "name": null,
+  "type": "indoor",
+  "website": "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast",
+  "websites": [
+   {
+    "url": "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast",
+    "role": "rental",
+    "name": "TeamSport E-Karting Muenchen West"
+   }
+  ],
+  "phone": "+49 8131 3863015",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "note": "Indoor e-karting on four tracks over several levels; kids sessions offered."
+ },
+ {
+  "id": "way/236541889",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.gokartarena.de/",
+  "websites": [
+   {
+    "url": "https://www.gokartarena.de/",
+    "role": "rental",
+    "name": "GoKartArena Neufinsing"
+   }
+  ],
+  "phone": "+49 8121 2252280",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-neufahrn-bei-freising"
+  ],
+  "note": "Website could not be loaded (SSL error); address Am Steinfeld 3, Finsing."
+ },
+ {
+  "id": "node/9594078422",
+  "name": "Saus & Braus Landsberg",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 8191 92670",
+  "email": "info@speed-landsberg.com",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/freizeit-angebote/landsberg-am-lech/",
+   "https://www.ortsdienst.de/bayern/landsberg-am-lech/weil/kartbahn/"
+  ],
+  "note": "Formerly Speed Kartcenter Landsberg; 400 m indoor track over 2.5 levels, kids from 8; directory contact details may be outdated."
+ },
+ {
+  "id": "way/181920581",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kart2000-wasserburg.de",
+  "websites": [
+   {
+    "url": "https://www.kart2000-wasserburg.de",
+    "role": "rental",
+    "name": "Kart2000 Wasserburg"
+   }
+  ],
+  "phone": "+49 8071 40093",
+  "email": "info@kart2000-wasserburg.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kart2000-wasserburg.de"
+  ],
+  "note": "Indoor and outdoor sections; juniors 9-17, tandem kart with staff driver for under 9s; kids kart school."
+ },
+ {
+  "id": "way/102467584",
+  "name": "AMC Memmingen Motorsportgelaende",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.memmingerberg.de/images/aktuelles/AMC_Memmingen_70-Jahre.pdf"
+  ],
+  "note": "Club motorsport ground next to Memmingen airport (since 2010) with small track for karts/supermoto; club offers outdoor rental with its own 10 rental karts; youth kart-slalom group."
+ },
+ {
+  "id": "way/195781843",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/93488466",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "node/5026773084",
+  "name": null,
+  "type": "indoor",
+  "website": "http://www.all-kart.de",
+  "websites": [
+   {
+    "url": "http://www.all-kart.de",
+    "role": "rental",
+    "name": "All-Kart Kaufbeuren"
+   }
+  ],
+  "phone": "+49 8341 94959",
+  "email": "info@all-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "http://www.all-kart.de",
+   "http://www.all-kart.de/oeffnungszeiten"
+  ],
+  "note": "Website describes an indoor kart hall (Hallenkartbahn), input says outdoor; fleet not specified; also pitbike sessions."
+ },
+ {
+  "id": "way/177706707",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/514034419",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/727712552",
+  "name": null,
+  "type": null,
+  "website": "http://www.seealm-ring.de/",
+  "websites": [
+   {
+    "url": "http://www.seealm-ring.de/",
+    "role": "rental",
+    "name": "Seealm-Ring"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Domain seealm-ring.de no longer resolves; status unverified."
+ },
+ {
+  "id": "way/24789697",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/31795313",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 30 43566841",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kartland.de/"
+  ],
+  "note": "Former website kartland.de now redirects to an unrelated casino site; venue may be closed, not confirmed."
+ },
+ {
+  "id": "node/13651711458",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.mobi-kart.de/",
+  "websites": [
+   {
+    "url": "https://www.mobi-kart.de/",
+    "role": "rental",
+    "name": "MOBIKART Fun Racing"
+   }
+  ],
+  "phone": "+49 30 98638749",
+  "email": "info@mobi-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.mobi-kart.de/"
+  ],
+  "note": "Indoor electric karting on two levels (about 480 m) with separate kids track; input says outdoor."
+ },
+ {
+  "id": "node/1111632078",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.berlin-kart.de/",
+  "websites": [
+   {
+    "url": "https://www.berlin-kart.de/",
+    "role": "rental",
+    "name": "Berlin Kart"
+   }
+  ],
+  "phone": "+49 151 40030091",
+  "email": "info@berlin-kart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.berlin-kart.de/"
+  ],
+  "note": "Indoor venue of 10,000 sqm per website; input says outdoor."
+ },
+ {
+  "id": "way/377273485",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.kart-templin.de",
+  "websites": [
+   {
+    "url": "http://www.kart-templin.de",
+    "role": "venue",
+    "name": "Templiner Ring"
+   }
+  ],
+  "phone": "+49 3987 409960",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.kart-templin.de"
+  ],
+  "note": "Private drivers with own karts may drive daily 9-19; rental from age 8 / 1.40 m."
+ },
+ {
+  "id": "way/795149381",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; web search budget ran out before this track could be searched."
+ },
+ {
+  "id": "way/72708524",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahn-schoenerlinde.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-schoenerlinde.de/",
+    "role": "rental",
+    "name": "Kartbahn Schoenerlinde"
+   }
+  ],
+  "phone": "+49 30 74777301",
+  "email": "info@kartbahn-schoenerlinde.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha",
+    "engine": "390 ccm",
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Arisco",
+    "engine": "Honda (2x)",
+    "hp": "9",
+    "class": "twin"
+   },
+   {
+    "chassis": "Combi kart",
+    "engine": "390 ccm",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-schoenerlinde.de/",
+   "https://www.kartbahn-schoenerlinde.de/fahrzeuge"
+  ],
+  "note": "Twin kart has two 9 PS Honda engines; tandem kart for one adult plus one child."
+ },
+ {
+  "id": "way/89322197",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://mcrathenow.de/",
+  "websites": [
+   {
+    "url": "https://mcrathenow.de/",
+    "role": "club",
+    "name": "MC Rathenow e.V. im ADAC"
+   }
+  ],
+  "phone": "+49 3385 512555",
+  "email": "mc-rathenow@web.de",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://mcrathenow.de/"
+  ],
+  "note": "Club asphalt kart track at Motodrom, Zum Wolzensee 1; kart slalom and road-race events with regular club training; no rental karting."
+ },
+ {
+  "id": "way/1443336719",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.spreeflitzer.de",
+  "websites": [
+   {
+    "url": "http://www.spreeflitzer.de",
+    "role": "rental",
+    "name": "Spreeflitzer (R&E Petersdorf GmbH)"
+   }
+  ],
+  "phone": "+49 173 8564964",
+  "email": "info@spreeflitzer.de",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "http://www.spreeflitzer.de",
+   "http://www.spreeflitzer.de/kontakt"
+  ],
+  "note": "Electric karts for almost all ages; Am Fuchsbau 2, Bad Saarow-Petersdorf."
+ },
+ {
+  "id": "way/110163356",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kart-center.de/",
+  "websites": [
+   {
+    "url": "https://kart-center.de/",
+    "role": "rental",
+    "name": "Spreewaldring Kartcenter"
+   }
+  ],
+  "phone": "+49 35477 4040",
+  "email": "info@kart-center.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://kart-center.de/"
+  ],
+  "note": "9 PS rental karts up to 80 km/h; hobby race series Spreewaldcup and Scudi-Kart-Cup."
+ },
+ {
+  "id": "way/458296932",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://go102.de/",
+  "websites": [
+   {
+    "url": "https://go102.de/",
+    "role": "rental",
+    "name": "GO102 - Die Kartbahn"
+   }
+  ],
+  "phone": "+49 33741 72065",
+  "email": "booking@go102.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart Rasselbande",
+    "engine": null,
+    "hp": "6.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodikart Energy",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart Pro",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart MAX",
+    "engine": null,
+    "hp": "30",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodikart Doppel",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://go102.de/",
+   "https://go102.de/karts/"
+  ],
+  "note": "Sodikart fleet with junior, Energy, Pro, 30 PS MAX and two-seater classes."
+ }
+]

@@ -1,0 +1,1078 @@
+[
+ {
+  "id": "way/355474061",
+  "name": null,
+  "type": "indoor",
+  "website": "https://monza-kart.com",
+  "websites": [
+   {
+    "url": "https://monza-kart.com",
+    "role": "rental",
+    "name": "Monza Kartbahn Wien"
+   }
+  ],
+  "phone": "+43 1 616 46 26",
+  "email": "office@monza-kart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://monza-kart.com"
+  ],
+  "note": "Two-level indoor hall now running electric rental karts; earlier 200cc petrol karts are mentioned as history."
+ },
+ {
+  "id": "way/1238425770",
+  "name": "BattleKart Brussels (Tour & Taxis)",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/",
+    "role": "rental",
+    "name": "BattleKart"
+   }
+  ],
+  "phone": "+32 2 315 49 69",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.naboo.app/en-gb/explorer/houses/battlekart-1000",
+   "https://365.be/en/attractions/get-moving-recreation-theme-parks-brussels-battlekart-tour-taxis/"
+  ],
+  "note": "Augmented-reality electric karting in Shed 3 at Tour & Taxis, 2,000 m2, min. height 1.45 m."
+ },
+ {
+  "id": "node/3470346239",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+32 2 332 36 96",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/belgique/city,kart-73801.html"
+  ],
+  "note": "Only an old directory listing found (indoor 600 m track, Square Emile des Grees du Lou 5A, with bowling); input says outdoor; current status unverified."
+ },
+ {
+  "id": "node/12752115882",
+  "name": "Indoorkarting Lommel",
+  "type": "indoor",
+  "website": "http://www.indoorkartinglommel.be",
+  "websites": [
+   {
+    "url": "http://www.indoorkartinglommel.be",
+    "role": "rental",
+    "name": "Indoorkarting Lommel"
+   }
+  ],
+  "phone": "+32 11 55 42 00",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://quefaire.be/karting-interieur-3200m2-8367963.shtml"
+  ],
+  "note": "3,200 m2 indoor track at Balendijk 171; info from directory listings only, possibly dated."
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "type": "indoor",
+  "website": "https://yeti-eeklo.be/",
+  "websites": [
+   {
+    "url": "https://yeti-eeklo.be/",
+    "role": "venue",
+    "name": "Yeti Eeklo"
+   }
+  ],
+  "phone": "+32 9 278 73 78",
+  "email": "reservaties@yeti-eeklo.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://yeti-eeklo.be/",
+   "https://aroundus.com/p/174854733-yeti-eeklo"
+  ],
+  "note": "Indoor leisure centre (opened 2016) with karting track and escape rooms; fleet not stated."
+ },
+ {
+  "id": "way/131579725",
+  "name": "De Kegel X-treme",
+  "type": "indoor",
+  "website": "https://www.bowlingdekegel.be/",
+  "websites": [
+   {
+    "url": "https://www.bowlingdekegel.be/",
+    "role": "venue",
+    "name": "De Kegel X-treme"
+   }
+  ],
+  "phone": "+32 59 44 79 81",
+  "email": "bowlingdekegel@telenet.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.bowlingdekegel.be/"
+  ],
+  "note": "Bowling/minigolf venue with e-karting section; kart details not published."
+ },
+ {
+  "id": "node/3724910749",
+  "name": "Worldkarts Sint-Niklaas",
+  "type": "indoor",
+  "website": "https://sint-niklaas.worldkarts.com/",
+  "websites": [
+   {
+    "url": "https://sint-niklaas.worldkarts.com/",
+    "role": "rental",
+    "name": "Worldkarts Sint-Niklaas"
+   }
+  ],
+  "phone": "+32 3 765 99 85",
+  "email": "sn@worldkarts.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR6",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://sint-niklaas.worldkarts.com/"
+  ],
+  "note": "Former JPR Karting; jprkarting.be now redirects to Worldkarts Sint-Niklaas (Europark-Noord 29)."
+ },
+ {
+  "id": "way/99249659",
+  "name": null,
+  "type": null,
+  "website": "https://www.goodwillkarting.be",
+  "websites": [
+   {
+    "url": "https://www.goodwillkarting.be",
+    "role": "rental",
+    "name": "Goodwill Karting"
+   }
+  ],
+  "phone": "+32 14 22 43 46",
+  "email": "info@goodwillkarting.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.goodwillkarting.be"
+  ],
+  "note": "Individual and group sessions offered; fleet not specified on site."
+ },
+ {
+  "id": "way/144396456",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+32 11 79 45 99",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://bsearch.be/outdoor-karting/",
+   "https://www.openingsuren.vlaanderen/karting/3500-hasselt"
+  ],
+  "note": "Only directory listings (Kerkhofstraat 18, Meeuwen); no website found, status unclear."
+ },
+ {
+  "id": "node/12825338681",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/nl/gent",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/nl/gent",
+    "role": "rental",
+    "name": "BattleKart Gent"
+   }
+  ],
+  "phone": "+32 9 286 80 32",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/en/gent"
+  ],
+  "note": "Augmented-reality electric karting, opened October 2024 with two tracks."
+ },
+ {
+  "id": "way/43590428",
+  "name": "Inkart",
+  "type": "indoor",
+  "website": "https://www.inkart.be/",
+  "websites": [
+   {
+    "url": "https://www.inkart.be/",
+    "role": "rental",
+    "name": "Inkart"
+   }
+  ],
+  "phone": "+32 3 866 18 19",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.inkart.be/"
+  ],
+  "note": "Two-level indoor circuit plus an outdoor section; petrol rental karts, model not stated."
+ },
+ {
+  "id": "node/6046678299",
+  "name": "E-Kart Gent",
+  "type": "indoor",
+  "website": "https://e-kart.be/",
+  "websites": [
+   {
+    "url": "https://e-kart.be/",
+    "role": "rental",
+    "name": "E-Kart"
+   }
+  ],
+  "phone": "+32 9 310 90 20",
+  "email": "welcome@e-kart.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://e-kart.be/"
+  ],
+  "note": "Electric indoor karting at Dok Noord; kids from 6, adults from 16."
+ },
+ {
+  "id": "way/46766217",
+  "name": "Burney's Mechelen",
+  "type": "indoor",
+  "website": "https://burneys.be",
+  "websites": [
+   {
+    "url": "https://burneys.be",
+    "role": "rental",
+    "name": "Burney's"
+   }
+  ],
+  "phone": "+32 15 68 96 97",
+  "email": "info@burneys.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://burneys.be",
+   "https://huyghebaert-mechelen.be/",
+   "https://www.tripper.nl/en/deal/tickets-2-heats-karten-burneys-korting"
+  ],
+  "note": "OSM name Huyghebaert is the site; the karting there is Burney's indoor e-kart circuit (Kruisbaan 50) - identification is likely but not certain."
+ },
+ {
+  "id": "way/23031475",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.cargo-karting.be/",
+  "websites": [
+   {
+    "url": "https://www.cargo-karting.be/",
+    "role": "rental",
+    "name": "Cargo-Karting"
+   }
+  ],
+  "phone": "+32 89 77 28 50",
+  "email": "info@cargo-karting.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.cargo-karting.be/",
+   "https://www.fijnuit.nl/6833/cargo-karting"
+  ],
+  "note": "Two-level indoor track; Pay & Drive 16+, junior lessons 6-14."
+ },
+ {
+  "id": "way/881881200",
+  "name": "Karting Genk (Home of Champions)",
+  "type": "outdoor",
+  "website": "https://www.kartinggenk.be/",
+  "websites": [
+   {
+    "url": "https://www.kartinggenk.be/",
+    "role": "venue",
+    "name": "Karting Genk"
+   }
+  ],
+  "phone": "+32 89 65 81 82",
+  "email": "reservaties@kartinggenk.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "Formula Honda",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "80cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "125cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "50cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartinggenk.be/",
+   "https://www.dagjeweg.nl/tip/5428/Karting-Genk",
+   "https://en.wikipedia.org/wiki/Karting_Genk"
+  ],
+  "note": "FIA circuit (1,360 m pro + 550 m fun track) with own-kart section and kart storage; Sodi RT10 used in Champions Sprint Cup; 50/80/125cc figures from an older third-party listing."
+ },
+ {
+  "id": "way/172406245",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+32 11 22 22 88",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.openingsuren.vlaanderen/karting/3500-hasselt"
+  ],
+  "note": "actionkart.be is now a domain-for-sale page, so the venue (Walenstraat 32A) may be closed."
+ },
+ {
+  "id": "way/1345697611",
+  "name": "BattleKart Genk",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/en/genk",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/en/genk",
+    "role": "rental",
+    "name": "BattleKart Genk"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/en/genk"
+  ],
+  "note": "Augmented-reality electric karting inside the Action Valley complex."
+ },
+ {
+  "id": "way/35093946",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.fki.be/",
+  "websites": [
+   {
+    "url": "https://www.fki.be/",
+    "role": "rental",
+    "name": "First Kart'Inn"
+   }
+  ],
+  "phone": "+32 2 251 50 04",
+  "email": "info@fki.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "BIZ",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "BIZ",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": "BIZ",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "BIZ",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.fki.be/"
+  ],
+  "note": "450 m indoor + 250 m outdoor section; Wednesday evening club racing in the venue's race karts."
+ },
+ {
+  "id": "way/105251328",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.brusselskart.be/",
+  "websites": [
+   {
+    "url": "https://www.brusselskart.be/",
+    "role": "venue",
+    "name": "Brussels Kart"
+   }
+  ],
+  "phone": "+32 2 467 28 00",
+  "email": "mail@brusselskart.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.brusselskart.be/",
+   "https://www.eventplanner.co.uk/directory/4500_brussels-kart.html"
+  ],
+  "note": "Indoor karting plus business/event centre (A. Gossetlaan 11); site notes a temporary closure 4-21 October for circuit renovation."
+ },
+ {
+  "id": "way/264828644",
+  "name": "Fastlane Karting Bilzen",
+  "type": null,
+  "website": "https://fastlanebilzen.be/",
+  "websites": [
+   {
+    "url": "https://fastlanebilzen.be/",
+    "role": "rental",
+    "name": "Fastlane Karting"
+   }
+  ],
+  "phone": "+32 89 50 10 25",
+  "email": "info@fastlanekarting.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://fastlanebilzen.be/",
+   "https://www.openingsuren.vlaanderen/karting/3740-bilzen"
+  ],
+  "note": "OSM name 'Fastline' is Fastlane (Vrankrijk 31, Bilzen): 35 karts for kids and adults plus 2 duo karts, with bowling."
+ },
+ {
+  "id": "way/472960694",
+  "name": null,
+  "type": "indoor",
+  "website": "https://poperinge.worldkarts.com/home",
+  "websites": [
+   {
+    "url": "https://poperinge.worldkarts.com/home",
+    "role": "rental",
+    "name": "Worldkarts Poperinge"
+   }
+  ],
+  "phone": "+32 57 33 27 62",
+  "email": "poperinge@worldkarts.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Alpha Carbon K",
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Alpha Carbon K",
+    "engine": "270cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Alpha Mini-K",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://poperinge.worldkarts.com/home"
+  ],
+  "note": "12-minute sessions; adults 13+/1.50 m, kids 7+/1.25 m."
+ },
+ {
+  "id": "way/112038987",
+  "name": "The District (formerly Factory Kart)",
+  "type": "indoor",
+  "website": "https://thedistrict.be/",
+  "websites": [
+   {
+    "url": "https://thedistrict.be/",
+    "role": "venue",
+    "name": "The District"
+   }
+  ],
+  "phone": "+32 2 361 55 11",
+  "email": "info@thedistrict.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://thedistrict.be/"
+  ],
+  "note": "factorykart.be now redirects to The District (A. Vaucampslaan 26, Huizingen), which offers indoor karting."
+ },
+ {
+  "id": "way/427997314",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Unnamed 279 m outdoor track near Huizingen; not identified (web search quota exhausted); The District site mentions no outdoor track."
+ },
+ {
+  "id": "node/12676251167",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/en/mouscron/",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/en/mouscron/",
+    "role": "rental",
+    "name": "BattleKart Mouscron"
+   }
+  ],
+  "phone": "+32 56 94 06 02",
+  "email": "info@mouscron.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "BattleKart Family",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/en/mouscron/"
+  ],
+  "note": "Augmented-reality electric karting at Rue du Valemprez 20A, Dottignies."
+ },
+ {
+  "id": "node/10312671620",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.wik-karting.be",
+  "websites": [
+   {
+    "url": "https://www.wik-karting.be",
+    "role": "rental",
+    "name": "WIK - Wavre Indoor Karting"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.wik-karting.be"
+  ],
+  "note": "535 m indoor track with 32 karts and 2 two-seaters; models not stated; booking required."
+ },
+ {
+  "id": "way/103316772",
+  "name": "Experience Factory Eupen",
+  "type": "indoor",
+  "website": "https://www.experience-factory.com/eupen/",
+  "websites": [
+   {
+    "url": "https://www.experience-factory.com/eupen/",
+    "role": "rental",
+    "name": "Experience Factory Eupen"
+   }
+  ],
+  "phone": "+32 87 31 32 33",
+  "email": "eupen@experience-factory.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.experience-factory.com/eupen/"
+  ],
+  "note": "Karting Eupen is now branded Experience Factory; 1.1 km indoor track with petrol karts, models not stated."
+ },
+ {
+  "id": "node/9811846018",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched: no website known and web search quota exhausted."
+ },
+ {
+  "id": "node/9364985457",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Unnamed track near Romsee; not identified (web search quota exhausted)."
+ },
+ {
+  "id": "way/243837948",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No website found (brusselssouthkarting.be does not resolve); web search quota exhausted."
+ },
+ {
+  "id": "way/895692304",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.imagikart.be/"
+  ],
+  "note": "imagikart.be is only a hosting placeholder page (created July 2024); venue status unknown."
+ },
+ {
+  "id": "way/834819629",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.greenpowerkart.be/",
+  "websites": [
+   {
+    "url": "https://www.greenpowerkart.be/",
+    "role": "rental",
+    "name": "Green Power Kart"
+   }
+  ],
+  "phone": "+32 71 35 49 10",
+  "email": "info@greenpowerkart.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.greenpowerkart.be/"
+  ],
+  "note": "1,100 m two-level indoor electric track at Rue de l'Industrie 12, Jumet."
+ },
+ {
+  "id": "way/34403881",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "1,234 m outdoor track near Francorchamps with generic name; not identified (web search quota exhausted)."
+ },
+ {
+  "id": "way/106757628",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.plopsa.com/plopsaland-ardennes/"
+  ],
+  "note": "366 m track near Coo; Plopsaland Ardennes (formerly Plopsa Coo) homepage lists no karting, so identity unconfirmed."
+ },
+ {
+  "id": "node/13318880999",
+  "name": null,
+  "type": "indoor",
+  "website": "https://battlekart.com/fr/wex",
+  "websites": [
+   {
+    "url": "https://battlekart.com/fr/wex",
+    "role": "rental",
+    "name": "BattleKart WEX"
+   }
+  ],
+  "phone": "+32 84 77 02 22",
+  "email": "info@wex.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://battlekart.com/fr/wex"
+  ],
+  "note": "Augmented-reality electric karting in Palais 6 of the WEX exhibition centre."
+ },
+ {
+  "id": "way/99245645",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Unnamed outdoor track near Aye; not identified (web search quota exhausted)."
+ },
+ {
+  "id": "way/108437660",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.actioncenter.be/",
+  "websites": [
+   {
+    "url": "https://www.actioncenter.be/",
+    "role": "venue",
+    "name": "ActionCenter St. Vith"
+   }
+  ],
+  "phone": "+32 80 32 93 01",
+  "email": "info@actioncenter.be",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.actioncenter.be/"
+  ],
+  "note": "Indoor karting bookable as part of leisure-centre packages; fleet not stated."
+ },
+ {
+  "id": "way/94522368",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingdesfagnes.be/",
+  "websites": [
+   {
+    "url": "https://www.kartingdesfagnes.be/",
+    "role": "venue",
+    "name": "Karting des Fagnes"
+   }
+  ],
+  "phone": "+32 60 31 26 70",
+  "email": "info@kartingdesfagnes.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartingdesfagnes.be/"
+  ],
+  "note": "Large outdoor track in Mariembourg with dedicated private-kart days."
+ },
+ {
+  "id": "way/1205468329",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingbouillon.com/",
+  "websites": [
+   {
+    "url": "https://www.kartingbouillon.com/",
+    "role": "rental",
+    "name": "Karting Bouillon"
+   }
+  ],
+  "phone": "+32 61 46 78 07",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartingbouillon.com/"
+  ],
+  "note": "Outdoor rental track; seasonal hours, weather-dependent in winter."
+ },
+ {
+  "id": "way/144460956",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.indoor-superkart.de/",
+  "websites": [
+   {
+    "url": "https://www.indoor-superkart.de/",
+    "role": "rental",
+    "name": "Indoor Superkart Hemsbach"
+   }
+  ],
+  "phone": "+49 6201 493073",
+  "email": "info@indoor-superkart.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "in-house built",
+    "engine": "LPG",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.indoor-superkart.de/"
+  ],
+  "note": "Self-built LPG karts up to 55 km/h; walk-in without reservation possible."
+ },
+ {
+  "id": "way/164688996",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.msc-oberflockenbach.de/",
+  "websites": [
+   {
+    "url": "https://www.msc-oberflockenbach.de/",
+    "role": "club",
+    "name": "MSC Oberflockenbach e.V. im ADAC"
+   }
+  ],
+  "phone": null,
+  "email": "info@msc-oberflockenbach.de",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.msc-oberflockenbach.de/"
+  ],
+  "note": "Club kart-slalom ground (Kartplatz Engesserstrasse) for ADAC slalom classes K1-K5; no public rental mentioned."
+ }
+]

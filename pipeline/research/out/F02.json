@@ -1,0 +1,1031 @@
+[
+ {
+  "id": "way/65283310",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.energykarting-stcyr.com",
+  "websites": [
+   {
+    "url": "https://www.energykarting-stcyr.com",
+    "role": "rental",
+    "name": "Energy Karting Saint-Cyr"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.energykarting-stcyr.com"
+  ],
+  "note": "Indoor electric karting with mini-karts from age 4, plus mini-golf and play park; address 1085 route de Morel, 07430 Saint-Cyr."
+ },
+ {
+  "id": "way/1091781031",
+  "name": "Speed Karting",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 74 09 05 49",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/rhone-alpes/speed,karting-41621.html",
+   "https://aroundus.com/p/174847965-karting-lyon"
+  ],
+  "note": "Directory listings only (Speed Karting / 'Karting Lyon', 436 boulevard Napoleon Bullukian); no official site found, name match to OSM track is likely but unconfirmed."
+ },
+ {
+  "id": "way/700028361",
+  "name": "Actua Karting (Circuits de Lyon)",
+  "type": "outdoor",
+  "website": "https://www.actua-organisation.fr/",
+  "websites": [
+   {
+    "url": "https://www.actua-organisation.fr/",
+    "role": "rental",
+    "name": "Actua Organisation / Circuits de Lyon"
+   }
+  ],
+  "phone": "+33 4 37 25 90 08",
+  "email": "contact@actua-organisation.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.actua-organisation.fr/"
+  ],
+  "note": "16-hectare outdoor complex with 5 tracks and a 250-kart fleet from children's karts to Rotax competition karts."
+ },
+ {
+  "id": "way/483983873",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 75 05 58 80",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://www.koifaire.com/rhone-alpes/st,paul,kart,team-109224.html"
+  ],
+  "note": "Indoor electric karting at 285 rue du Soleil, open since 2014 per directory; no official website found."
+ },
+ {
+  "id": "way/196085614",
+  "name": "Karting Distrakart",
+  "type": "outdoor",
+  "website": "http://www.distrakart.fr",
+  "websites": [
+   {
+    "url": "http://www.distrakart.fr",
+    "role": "rental",
+    "name": "Distrakart"
+   }
+  ],
+  "phone": "+33 4 71 00 44 30",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "Alpha",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Comer",
+    "engine": "Comer 60cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.myhauteloire.fr/en/activity/karting-distrakart/"
+  ],
+  "note": "Track homologation covers leisure karting for the operator's customers only, excluding competitions; mobile +33 6 65 34 97 23; own website has a TLS error."
+ },
+ {
+  "id": "node/11111781069",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.fast-and-green.fr/",
+  "websites": [
+   {
+    "url": "https://www.fast-and-green.fr/",
+    "role": "rental",
+    "name": "Fast & Green"
+   }
+  ],
+  "phone": "+33 4 77 61 52 74",
+  "email": "info@fast-and-green.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.fast-and-green.fr/"
+  ],
+  "note": "Site describes an indoor circuit with latest-generation electric (Sodikart) karts, at 9 Esplanade Benevent, Saint-Etienne; OSM type says outdoor."
+ },
+ {
+  "id": "way/174905891",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online source found for 'Circuit du Bicetre' in Savigneux; possibly a private or club track (Montbrison has clubs Team Passion Karting 42 and Passion Karting du Forez)."
+ },
+ {
+  "id": "way/154944821",
+  "name": "MK Circuit",
+  "type": "outdoor",
+  "website": "http://www.mk-circuit.com",
+  "websites": [
+   {
+    "url": "http://www.mk-circuit.com",
+    "role": "venue",
+    "name": "MK Circuit"
+   }
+  ],
+  "phone": "+33 4 50 25 53 47",
+  "email": "info@mk-circuit.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RX250",
+    "engine": "250cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.haute-savoie-tourisme.org/205726-mk-circuit-karting"
+  ],
+  "note": "1014 m FFSA CAT 1 outdoor track, open 1 Feb to 15 Dec; RT10 from age 14, RX250 from age 18."
+ },
+ {
+  "id": "way/1421723660",
+  "name": "Kart Parc Thones",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.annecy-ville.fr/karting-annecy/"
+  ],
+  "note": "876 m loop at Lieu-dit La Cour, Thones, children from age 10; no official website or contacts found."
+ },
+ {
+  "id": "way/1198636134",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kartingdugrandarc.fr/",
+  "websites": [
+   {
+    "url": "https://kartingdugrandarc.fr/",
+    "role": "rental",
+    "name": "Karting du Grand Arc"
+   }
+  ],
+  "phone": "+33 4 79 38 43 44",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "250cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi Fun Kid",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://kartingdugrandarc.fr/"
+  ],
+  "note": "Open Wednesday to Sunday; also offers RX 250cc karts and a two-seater for children and reduced-mobility drivers."
+ },
+ {
+  "id": "node/4943667120",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Portes-les-Valence; Arena 45 (Valence international circuit) lies north of Valence, not at these coordinates."
+ },
+ {
+  "id": "way/1192840538",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online in Valprivas; possibly a private or club track."
+ },
+ {
+  "id": "way/601839513",
+  "name": "AS Karting Villars",
+  "type": null,
+  "website": "http://www.askarting-villars42.fr",
+  "websites": [
+   {
+    "url": "http://www.askarting-villars42.fr",
+    "role": "club",
+    "name": "Association Sportive Karting Villars"
+   }
+  ],
+  "phone": null,
+  "email": "askvillars@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "http://www.askarting-villars42.fr"
+  ],
+  "note": "Club track with karting school, leisure sessions, rental and competition sections; track not approved for mini motos."
+ },
+ {
+  "id": "node/12020240069",
+  "name": "On'Kart Viry",
+  "type": null,
+  "website": "https://on-kart.com/",
+  "websites": [
+   {
+    "url": "https://on-kart.com/",
+    "role": "rental",
+    "name": "On'Kart"
+   }
+  ],
+  "phone": "+33 4 50 38 34 13",
+  "email": "info@on-kart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://on-kart.com/"
+  ],
+  "note": "Open six days a week (closed Monday); kart models not stated."
+ },
+ {
+  "id": "node/11163525017",
+  "name": "Park Events Lyon",
+  "type": "indoor",
+  "website": "https://www.park-events.com/",
+  "websites": [
+   {
+    "url": "https://www.park-events.com/",
+    "role": "rental",
+    "name": "Park Events"
+   }
+  ],
+  "phone": "+33 4 72 78 05 05",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc bioethanol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.park-events.com/"
+  ],
+  "note": "Advertised as the largest indoor karting in Lyon, multi-level track of about 700-750 m; OSM type says outdoor."
+ },
+ {
+  "id": "way/81060002",
+  "name": null,
+  "type": "indoor",
+  "website": "https://green-kart.com/",
+  "websites": [
+   {
+    "url": "https://green-kart.com/",
+    "role": "rental",
+    "name": "Green Kart"
+   }
+  ],
+  "phone": "+33 4 76 23 14 14",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "160cc",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://green-kart.com/"
+  ],
+  "note": "Covered 500 m track on two levels with 30 karts."
+ },
+ {
+  "id": "way/62603956",
+  "name": "Appoigny Kart Indoor",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/fr/karting/appoigny-kart-indoor--e19629581"
+  ],
+  "note": "Indoor electric karting at ZI du Quenou, Appoigny, from age 10 / 1.30 m; directory listing only, no official site found."
+ },
+ {
+  "id": "node/7476287647",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.puissancekartindoor.com/",
+  "websites": [
+   {
+    "url": "https://www.puissancekartindoor.com/",
+    "role": "rental",
+    "name": "Puissance Kart Indoor"
+   }
+  ],
+  "phone": "+33 3 81 36 12 65",
+  "email": "contact@puissancekartindoor.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.puissancekartindoor.com/"
+  ],
+  "note": "Covered 380 m track; closed Monday and Tuesday."
+ },
+ {
+  "id": "node/4024318772",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found on karting at C.P. Quad Loisirs in Augy; possibly a quad venue with occasional karting."
+ },
+ {
+  "id": "way/290668542",
+  "name": "Circuit Karting Besancon (CKB)",
+  "type": "outdoor",
+  "website": "https://ckbesancon.com/",
+  "websites": [
+   {
+    "url": "https://ckbesancon.com/",
+    "role": "venue",
+    "name": "Circuit Karting Besancon"
+   }
+  ],
+  "phone": "+33 3 84 32 96 03",
+  "email": "ckbesancon@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Rotax Max Evo 125",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc 4-stroke",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc 4-stroke",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Kidracer",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://ckbesancon.com/"
+  ],
+  "note": "Linked club ASK Besancon (~150 licence holders) gets track-fee and storage discounts; kart storage and maintenance offered; mobile +33 6 78 16 06 24."
+ },
+ {
+  "id": "node/7345774782",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Avanne-Aveney; nearest known venues are Games Factory Besancon (indoor) and CKB Autoreille."
+ },
+ {
+  "id": "way/1153189104",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online in Blanzy; short 266 m track may be private or a club/minikart track."
+ },
+ {
+  "id": "way/289884888",
+  "name": "LKS - Laville Karting Services",
+  "type": "outdoor",
+  "website": "https://www.lkskarting.com",
+  "websites": [
+   {
+    "url": "https://www.lkskarting.com",
+    "role": "venue",
+    "name": "LKS Karting"
+   }
+  ],
+  "phone": "+33 6 11 40 16 79",
+  "email": "contact@lkskarting.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.lkskarting.com",
+   "https://www.achalon.com/en/touristic_sheet/lks-laville-karting-services-champforgeuil-en-4436999/"
+  ],
+  "note": "Sodikart fleet with 2- and 4-stroke karts, kids sessions for ages 7-13, endurance races in the SWS series; also kart sales and repair."
+ },
+ {
+  "id": "way/290061425",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online in Charnay-les-Macon."
+ },
+ {
+  "id": "node/10177312599",
+  "name": "Devalkart - La Combe Saint-Pierre",
+  "type": "outdoor",
+  "website": "https://lacombesaintpierre.com/devalkart/",
+  "websites": [
+   {
+    "url": "https://lacombesaintpierre.com/devalkart/",
+    "role": "venue",
+    "name": "La Combe Saint-Pierre - Devalkart"
+   }
+  ],
+  "phone": "+33 3 81 68 65 50",
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://lacombesaintpierre.com/devalkart/"
+  ],
+  "note": "Not a motorised kart track: Devalkart is a downhill grass-kart ride at the La Combe Saint-Pierre leisure station."
+ },
+ {
+  "id": "node/9665224117",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.koifaire.com/bourgogne/dijon-21000/loisirs/karting-246/"
+  ],
+  "note": "Listed at 12 rue Antoine Becquerel, Chenove, but kartmania.com now redirects to a domain-sale page; no current info found, possibly closed."
+ },
+ {
+  "id": "way/792891327",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.cosne-karting.com/",
+  "websites": [
+   {
+    "url": "http://www.cosne-karting.com/",
+    "role": "venue",
+    "name": "Cosne Karting"
+   }
+  ],
+  "phone": "+33 3 86 28 09 58",
+  "email": "cosne-karting@orange.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "http://www.cosne-karting.com/",
+   "https://www.burgundy-tourism.com/sit/cosne-karting-2"
+  ],
+  "note": "900 m track with paintball and mini-golf; open daily except Monday, closed December-January."
+ },
+ {
+  "id": "way/82965142",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://aroundus.com/p/174855425-kart-90"
+  ],
+  "note": "Only hotel/aggregator mentions found; a 'Kart 90 - Circuit Eisen' is listed in neighbouring Chevremont, link to this indoor site unconfirmed."
+ },
+ {
+  "id": "way/33995393",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online at Dommartin/Pontarlier; the nearby FFSA track Circuit de l'Enclos is at Septfontaine, not these coordinates."
+ },
+ {
+  "id": "way/126711889",
+  "name": "Kart 71",
+  "type": "indoor",
+  "website": "https://www.kart71.com/",
+  "websites": [
+   {
+    "url": "https://www.kart71.com/",
+    "role": "rental",
+    "name": "Kart 71"
+   }
+  ],
+  "phone": "+33 3 85 87 70 24",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kart71.com/",
+   "https://www.achalon.com/en/touristic_sheet/kart-71-dracy-le-fort-en-5881561/"
+  ],
+  "note": "Indoor karting near Chalon-sur-Saone with clubhouse, bar and sim racing."
+ },
+ {
+  "id": "way/1486100472",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online at Vy-les-Filain/Filain; 152 m track may be private."
+ },
+ {
+  "id": "way/290666067",
+  "name": "Circuit de Bresse - Karting",
+  "type": "outdoor",
+  "website": "http://www.circuitdebresse.com",
+  "websites": [
+   {
+    "url": "http://www.circuitdebresse.com",
+    "role": "venue",
+    "name": "Circuit de Bresse"
+   }
+  ],
+  "phone": "+33 3 85 76 76 76",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.burgundy-tourism.com/courses-and-lessons/circuit-de-bresse-karting",
+   "http://www.circuitdebresse.com"
+  ],
+  "note": "1,100 m FFSA kart track (opened 2007) beside the Circuit de Bresse road course; offers track rights for owners of competition karts and a French Karting School; one listing gives 270cc/120cc rental karts instead."
+ },
+ {
+  "id": "way/267957938",
+  "name": "Karting Alcava Gueugnonnais",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 6 83 65 04 58",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.pagesjaunes.fr/pros/54337559"
+  ],
+  "note": "Directory listing only (bat A Chazey, Gueugnon, daily 14:00-19:00); no official website found."
+ },
+ {
+  "id": "way/152009014",
+  "name": "Circuit d'Is-sur-Tille (Nicolas Klein)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "no",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.adrenactive.com/stage-pilotage-sprint-car-dijon-6641.htm"
+  ],
+  "note": "FFSA dirt autocross/cross-car track (1,180 m); public offer is instructor-led sprint-car/kartcross courses, not go-kart rental."
+ },
+ {
+  "id": "way/1192618778",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.madeinkart.com/",
+  "websites": [
+   {
+    "url": "https://www.madeinkart.com/",
+    "role": "venue",
+    "name": "Made In Kart"
+   }
+  ],
+  "phone": "+33 3 86 19 32 32",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270cc 4-stroke",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "Rotax Max 125",
+    "hp": "28.5 CV",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "2x 390cc",
+    "hp": "30 CV",
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi Fun Kid",
+    "engine": "120cc 4-stroke",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.madeinkart.com/",
+   "https://www.madeinkart.com/horaires-acces/"
+  ],
+  "note": "1,050 m outdoor UFOLEP-certified track welcoming FFSA/UFOLEP licence holders; open February-December, also +33 7 57 78 77 14."
+ },
+ {
+  "id": "way/248052927",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No online information found on a kart-cross ground at Joudes."
+ },
+ {
+  "id": "way/191907701",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online in La Villeneuve-Bellenoye-et-la-Maize."
+ },
+ {
+  "id": "way/289892057",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No outdoor track found online; only 'Karting Evasion' in Le Creusot appears in the sports-facility census, described as a covered concrete track, so the match is unconfirmed."
+ },
+ {
+  "id": "way/655641165",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found online in Longvic; possibly a club or private track."
+ },
+ {
+  "id": "way/939274680",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No venue found in Magny itself; 'Motor System' karting (La Chaume, Avallon, 270cc rental karts) is nearby and may be this track, unconfirmed."
+ }
+]

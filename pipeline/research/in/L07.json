@@ -1,0 +1,457 @@
+[
+ {
+  "id": "way/601839513",
+  "name": "AS Karting Villars",
+  "town": "Villars",
+  "country": "France",
+  "websites": [
+   "http://www.askarting-villars42.fr"
+  ],
+  "mapped_length_m": 646
+ },
+ {
+  "id": "way/152130584",
+  "name": "Dunois Kart",
+  "town": "Villemaury",
+  "country": "France",
+  "websites": [
+   "https://www.dunoiskart.com/",
+   "https://www.dunoiskart.com/tarifs-proprietaires-kart-ask-pays-dunois-eure-loire-28"
+  ],
+  "mapped_length_m": 1101
+ },
+ {
+  "id": "way/652859924",
+  "name": "Formule Kart",
+  "town": "Villeperdue",
+  "country": "France",
+  "websites": [
+   "https://www.formulekart.com/"
+  ],
+  "mapped_length_m": 1409
+ },
+ {
+  "id": "node/12020240069",
+  "name": "On'Kart Viry",
+  "town": "Viry",
+  "country": "France",
+  "websites": [
+   "https://on-kart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/10871381994",
+  "name": "Kart'Up Vitrolles",
+  "town": "Vitrolles",
+  "country": "France",
+  "websites": [
+   "https://www.kartup-vitrolles.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/11163525017",
+  "name": "Park Events Lyon",
+  "town": "Vénissieux",
+  "country": "France",
+  "websites": [
+   "https://www.park-events.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/395457394",
+  "name": "Kart'Race",
+  "town": "Witry-lès-Reims",
+  "country": "France",
+  "websites": [
+   "https://www.kartrace.org/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/81060002",
+  "name": "Green Kart",
+  "town": "Échirolles",
+  "country": "France",
+  "websites": [
+   "https://green-kart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/12388424111",
+  "name": "Base US Karting",
+  "town": "Étrechet",
+  "country": "France",
+  "websites": [
+   "https://baseuskarting.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13651711458",
+  "name": "MOBIKART Fun Racing",
+  "town": null,
+  "country": "Germany",
+  "websites": [
+   "https://www.mobi-kart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/388393542",
+  "name": "Raceland Karting",
+  "town": "Arnsberg",
+  "country": "Germany",
+  "websites": [
+   "http://raceland-karting.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/211012168",
+  "name": "Kartodrom Asbach",
+  "town": "Asbach",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartodrom-asbach.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "mapped_length_m": 487
+ },
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "town": "Backnang",
+  "country": "Germany",
+  "websites": [
+   "https://www.indy-cart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13456963144",
+  "name": "BattleKart Bad-Hersfeld",
+  "town": "Bad Hersfeld",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/bad-hersfeld"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/7567389572",
+  "name": "Burgpark Ring Kart-Bahn",
+  "town": "Bad Mergentheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-mgh.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/1649028239",
+  "name": "KART'N Curves Bad Rappenau",
+  "town": "Bad Rappenau",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1443336719",
+  "name": "Spreeflitzer",
+  "town": "Bad Saarow",
+  "country": "Germany",
+  "websites": [
+   "http://www.spreeflitzer.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/868429925",
+  "name": "DWA Racing",
+  "town": "Bassum",
+  "country": "Germany",
+  "websites": [
+   "https://www.dwa-racing.de/"
+  ],
+  "mapped_length_m": 966
+ },
+ {
+  "id": "way/286457460",
+  "name": "Go-Kart und Quad Bahn Bergen",
+  "town": "Bergen auf Rügen",
+  "country": "Germany",
+  "websites": [
+   "https://www.ruegenkartbahn.de/"
+  ],
+  "mapped_length_m": 253
+ },
+ {
+  "id": "node/1844036287",
+  "name": "TeamSport E-Karting Kart Palast Funpark",
+  "town": "Bergkirchen",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/1111632078",
+  "name": "Berlin Kart",
+  "town": "Berlin",
+  "country": "Germany",
+  "websites": [
+   "https://www.berlin-kart.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/856436751",
+  "name": "Ralf Schumacher Kartcenter",
+  "town": "Bispingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.rs-kartcenter.de"
+  ],
+  "mapped_length_m": 1024
+ },
+ {
+  "id": "node/13894638060",
+  "name": "BattleKart Bochum",
+  "town": "Bochum",
+  "country": "Germany",
+  "websites": [
+   "https://battlekart.com/bochum"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/213124246",
+  "name": "Breitwangbahn (MSC Ipf Bopfingen)",
+  "town": "Bopfingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.msc-ipf.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/27057471",
+  "name": "Indoor Kart Stahlwerk Bous",
+  "town": "Bous",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn-bous.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/119129470",
+  "name": "Kartcity",
+  "town": "Braunschweig",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcity.de/"
+  ],
+  "mapped_length_m": 361
+ },
+ {
+  "id": "way/1212578881",
+  "name": "BB-Kartcenter Bremen",
+  "town": "Bremen",
+  "country": "Germany",
+  "websites": [
+   "https://www.bb-kart.de/"
+  ],
+  "mapped_length_m": 319
+ },
+ {
+  "id": "node/12513908020",
+  "name": "Kartodrom Elles",
+  "town": "Buchholz (Westerwald)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartodrom-elles.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/124785648",
+  "name": "Motorsportarena Stefan Bellof (Kartbahn Oppenrod)",
+  "town": "Buseck",
+  "country": "Germany",
+  "websites": [
+   "https://kv-oppenrod.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/510877435",
+  "name": "Motor Sport Weis - Kartbahn Büren",
+  "town": "Büren",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-bueren.de"
+  ],
+  "mapped_length_m": 904
+ },
+ {
+  "id": "way/138713437",
+  "name": "Nordseering",
+  "town": "Büsum",
+  "country": "Germany",
+  "websites": [
+   "https://www.nordseering.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/6550773226",
+  "name": "Burnout Celler Kartbahn",
+  "town": "Celle",
+  "country": "Germany",
+  "websites": [
+   "https://www.celler-kartbahn.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/98118626",
+  "name": "POWERhall Chemnitz",
+  "town": "Chemnitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.powerhall.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/43869473",
+  "name": "Karthalle Coswig",
+  "town": "Coswig",
+  "country": "Germany",
+  "websites": [
+   "https://www.karthalle-coswig.de/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/241613190",
+  "name": "Kart-Bahn Dahlemer Binz",
+  "town": "Dahlem",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-dahlemer-binz.de"
+  ],
+  "mapped_length_m": 1243
+ },
+ {
+  "id": "way/303166461",
+  "name": "Kartbahn Dargelin",
+  "town": "Dargelin",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-mv.de/Dargelin/home.html"
+  ],
+  "mapped_length_m": 673
+ },
+ {
+  "id": "way/349532750",
+  "name": "Kartbahn Liedolsheim",
+  "town": "Dettenheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahnliedolsheim.de/"
+  ],
+  "mapped_length_m": 1079
+ },
+ {
+  "id": "way/804847045",
+  "name": "Kartarena",
+  "town": "Dinslaken",
+  "country": "Germany",
+  "websites": [
+   "https://kartarena-dinslaken.de"
+  ],
+  "mapped_length_m": 805
+ },
+ {
+  "id": "way/58739117",
+  "name": "Kartbahn Freizeitpark Löschen",
+  "town": "Drebkau",
+  "country": "Germany",
+  "websites": [
+   "https://www.gokart-cottbus.de/",
+   "http://www.freizeitparkloeschen.de"
+  ],
+  "mapped_length_m": 912
+ },
+ {
+  "id": "node/4340422756",
+  "name": "AMC Ehingen Kartbahn Wolfsgurgel",
+  "town": "Ehingen (Donau)",
+  "country": "Germany",
+  "websites": [
+   "https://www.amc-ehingen.com/",
+   "https://www.amc-ehingen.com/leihkart"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/181920581",
+  "name": "Kart2000",
+  "town": "Eiselfing",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart2000-wasserburg.de"
+  ],
+  "mapped_length_m": 536
+ },
+ {
+  "id": "way/78364408",
+  "name": "Kartbahn Lüneburg",
+  "town": "Embsen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-lueneburg.de/"
+  ],
+  "mapped_length_m": 805
+ },
+ {
+  "id": "way/89820377",
+  "name": "The Kart Company Emsbüren",
+  "town": "Emsbüren",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcompanyemsbueren.de/de/"
+  ],
+  "mapped_length_m": 946
+ },
+ {
+  "id": "node/8183988855",
+  "name": "Kart-Center Erfurt",
+  "town": "Erfurt",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-center-erfurt.de"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/27615820",
+  "name": "Daytona Kart-Center",
+  "town": "Essen",
+  "country": "Germany",
+  "websites": [
+   "https://www.daytona-kartbahn.de"
+  ],
+  "mapped_length_m": 1453
+ }
+]

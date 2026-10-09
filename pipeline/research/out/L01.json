@@ -1,0 +1,293 @@
+[
+ {
+  "id": "way/725892580",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/8375040368",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/1344908573",
+  "tracks": [
+   {
+    "name": "Vorarlberg Ring",
+    "length_m": 360,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartbahn-treff.com/",
+  "note": "Indoor track."
+ },
+ {
+  "id": "way/159522629",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "way/98283484",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/11726784673",
+  "tracks": [],
+  "source": null,
+  "note": null
+ },
+ {
+  "id": "node/12805789828",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 510,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+  "note": null
+ },
+ {
+  "id": "way/107608181",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 456,
+    "width_m": null,
+    "use": "both"
+   }
+  ],
+  "source": "https://www.kartcenter.at/",
+  "note": null
+ },
+ {
+  "id": "way/472368623",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "relation/1760200",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/6968981892",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/868068820",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/194361134",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/157537270",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/588787026",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/346100215",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/45494972",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/9602638604",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/809272289",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/55762296",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "relation/3868005",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/355474061",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/137166744",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "relation/11814859",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/427997314",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/264828644",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/1205468329",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/1238425770",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/834819629",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/94522368",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/182395864",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/103316772",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/9364985457",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/881881200",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/1345697611",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/12825338681",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/6046678299",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/105251328",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/108437660",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/112038987",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/243837948",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/12752115882",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/23031475",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "way/35093946",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ },
+ {
+  "id": "node/13318880999",
+  "tracks": [],
+  "source": null,
+  "note": "Not checked: website could not be fetched (rate-limited/failed)."
+ }
+]

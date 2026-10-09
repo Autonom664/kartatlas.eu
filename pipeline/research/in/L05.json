@@ -1,0 +1,458 @@
+[
+ {
+  "id": "way/192522849",
+  "name": "VP Kart (Indy Kart)",
+  "town": "Le Ménil",
+  "country": "France",
+  "websites": [
+   "http://www.vp-kart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1525227888",
+  "name": "Karting de Pers",
+  "town": "Le Rouget-Pers",
+  "country": "France",
+  "websites": [
+   "https://www.cantalkarting.fr/"
+  ],
+  "mapped_length_m": 1092
+ },
+ {
+  "id": "way/688370905",
+  "name": "Karting le Rove",
+  "town": "Le Rove",
+  "country": "France",
+  "websites": [
+   "https://www.kartinglerove.com/",
+   "https://www.facebook.com/KartingLeRove"
+  ],
+  "mapped_length_m": 505
+ },
+ {
+  "id": "way/904774472",
+  "name": "Karting de Saintes",
+  "town": "Les Gonds",
+  "country": "France",
+  "websites": [
+   "https://kartingdesaintes.com/",
+   "https://www.facebook.com/kartingdesaintes/"
+  ],
+  "mapped_length_m": 690
+ },
+ {
+  "id": "node/11359723300",
+  "name": "Inwall Kart",
+  "town": "Les Ponts-de-Cé",
+  "country": "France",
+  "websites": [
+   "https://www.inwallkart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1529016844",
+  "name": "Atlantic Kart System",
+  "town": "Les Sables-d'Olonne",
+  "country": "France",
+  "websites": [
+   "https://www.akskart.fr/"
+  ],
+  "mapped_length_m": 1050
+ },
+ {
+  "id": "way/788311613",
+  "name": "SM Kart#50 (Circuit de la Manche)",
+  "town": "Lessay",
+  "country": "France",
+  "websites": [
+   "http://www.smkart50.fr/"
+  ],
+  "mapped_length_m": 1006
+ },
+ {
+  "id": "way/28057971",
+  "name": "Ledoux Karting",
+  "town": "Levet",
+  "country": "France",
+  "websites": [
+   "https://www.ledoux-karting.fr/"
+  ],
+  "mapped_length_m": 783
+ },
+ {
+  "id": "node/5033005312",
+  "name": "NTKart",
+  "town": "Lexy",
+  "country": "France",
+  "websites": [
+   "https://ntkart.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/70109989",
+  "name": "RMT Karting",
+  "town": "Limoges",
+  "country": "France",
+  "websites": [
+   "https://www.rmt-karting.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/155604424",
+  "name": "JCS Karting Parc",
+  "town": "Lubersac",
+  "country": "France",
+  "websites": [
+   "https://www.jcskarting.com/"
+  ],
+  "mapped_length_m": 782
+ },
+ {
+  "id": "way/290721038",
+  "name": "Karting de Magescq",
+  "town": "Magescq",
+  "country": "France",
+  "websites": [
+   "https://www.karting-de-magescq.fr/",
+   "https://www.facebook.com/kartingdemagescq/"
+  ],
+  "mapped_length_m": 2073
+ },
+ {
+  "id": "way/482336192",
+  "name": "Karting Circuit de Nevers Magny-Cours",
+  "town": "Magny-Cours",
+  "country": "France",
+  "websites": [
+   "https://www.circuitmagnycours.com/piste-karting/",
+   "https://kartingmagnycours.com/"
+  ],
+  "mapped_length_m": 1110
+ },
+ {
+  "id": "node/12584616596",
+  "name": "Karting Manosque",
+  "town": "Manosque",
+  "country": "France",
+  "websites": [
+   "https://www.kartingmanosque.fr/"
+  ],
+  "mapped_length_m": 816
+ },
+ {
+  "id": "way/127256481",
+  "name": "Circuit de Karting de Marcillat-en-Combraille (GTR Performance)",
+  "town": "Marcillat-en-Combraille",
+  "country": "France",
+  "websites": [
+   "https://www.gtr-performance.fr/activites/karting-marcillat-en-combraille"
+  ],
+  "mapped_length_m": 1295
+ },
+ {
+  "id": "node/13458676482",
+  "name": "Karting PaintBall 14 (KPB14)",
+  "town": "Marolles",
+  "country": "France",
+  "websites": [
+   "https://www.karting-paintball14.fr/",
+   "https://www.facebook.com/p/Karting-Paintball-14-61561339271231/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/290678826",
+  "name": "ASK Martigues - Piste de l'Oratoire",
+  "town": "Martigues",
+  "country": "France",
+  "websites": [
+   "https://askmartigues.fr/"
+  ],
+  "mapped_length_m": 734
+ },
+ {
+  "id": "relation/4267416",
+  "name": "Karting Auto Meisenthal",
+  "town": "Meisenthal",
+  "country": "France",
+  "websites": [
+   "https://karting-meisenthal.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/128857901",
+  "name": "Cap Karting - Circuit de Mer",
+  "town": "Mer",
+  "country": "France",
+  "websites": [
+   "https://www.capkarting.com/"
+  ],
+  "mapped_length_m": 1493
+ },
+ {
+  "id": "node/13105619745",
+  "name": "Karting Family Fun Park",
+  "town": "Meschers-sur-Gironde",
+  "country": "France",
+  "websites": [
+   "https://www.family-fun-park-meschers.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/156358387",
+  "name": "New Kart Poitiers",
+  "town": "Migné-Auxances",
+  "country": "France",
+  "websites": [
+   "http://www.newkartpoitiers.com/"
+  ],
+  "mapped_length_m": 433
+ },
+ {
+  "id": "way/290680699",
+  "name": "Nîmes Karting",
+  "town": "Milhaud",
+  "country": "France",
+  "websites": [
+   "https://www.nimeskarting.fr/"
+  ],
+  "mapped_length_m": 548
+ },
+ {
+  "id": "way/92793042",
+  "name": "Kartland Paris",
+  "town": "Moissy-Cramayel",
+  "country": "France",
+  "websites": [
+   "https://www.kartland.fr/"
+  ],
+  "mapped_length_m": 1469
+ },
+ {
+  "id": "way/189887727",
+  "name": "Karting Bocaspeed",
+  "town": "Moncoutant-sur-Sèvre",
+  "country": "France",
+  "websites": [
+   "https://bocaspeed.fr/"
+  ],
+  "mapped_length_m": 865
+ },
+ {
+  "id": "way/221575189",
+  "name": "Karting Loisirs Monteux",
+  "town": "Monteux",
+  "country": "France",
+  "websites": [
+   "https://kartingdemonteux.fr/"
+  ],
+  "mapped_length_m": 1688
+ },
+ {
+  "id": "way/594674045",
+  "name": "Circuit Maurice Tissandier (Circuit de La Châtre)",
+  "town": "Montgivray",
+  "country": "France",
+  "websites": [
+   "https://www.circuitdelachatre.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1531505783",
+  "name": "Karting du Nord Mayenne",
+  "town": "Montreuil-Poulay",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdunordmayenne.fr/"
+  ],
+  "mapped_length_m": 1082
+ },
+ {
+  "id": "way/898168875",
+  "name": "Mistral Karting",
+  "town": "Montélimar",
+  "country": "France",
+  "websites": [
+   "http://www.mistralkart.com"
+  ],
+  "mapped_length_m": 1205
+ },
+ {
+  "id": "node/12089359841",
+  "name": "BattleKart Lyon-Mornant",
+  "town": "Mornant",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/lyon-mornant/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/123559878",
+  "name": "Karting de Muret",
+  "town": "Muret",
+  "country": "France",
+  "websites": [
+   "https://www.kartingmuret.fr"
+  ],
+  "mapped_length_m": 1418
+ },
+ {
+  "id": "way/290670811",
+  "name": "Karting 2 Noiron",
+  "town": "Noiron-sous-Gevrey",
+  "country": "France",
+  "websites": [
+   "https://www.karting2noiron.fr/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1000270136",
+  "name": "BattleKart",
+  "town": "Notre-Dame-d'Oé",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/tours/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/472062469",
+  "name": "Racing Kart JPR",
+  "town": "Ostricourt",
+  "country": "France",
+  "websites": [
+   "https://www.karting-lille-jpr.fr",
+   "https://www.facebook.com/RacingKartJPR"
+  ],
+  "mapped_length_m": 1709
+ },
+ {
+  "id": "node/13247717402",
+  "name": "Circuit de Ouistreham",
+  "town": "Ouistreham",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-ouistreham/"
+  ],
+  "mapped_length_m": 508
+ },
+ {
+  "id": "way/482574017",
+  "name": "Astra Kart Ozan",
+  "town": "Ozan",
+  "country": "France",
+  "websites": [
+   "https://astrakartozan.fr/"
+  ],
+  "mapped_length_m": 406
+ },
+ {
+  "id": "way/95700263",
+  "name": "Circuit Jean Brun",
+  "town": "Paray-sous-Briailles",
+  "country": "France",
+  "websites": [
+   "https://karting-varennes.fr/"
+  ],
+  "mapped_length_m": 1483
+ },
+ {
+  "id": "way/192506414",
+  "name": "Karting du Mont-Blanc",
+  "town": "Passy",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdumontblanc.com"
+  ],
+  "mapped_length_m": 600
+ },
+ {
+  "id": "way/747859413",
+  "name": "Karting des 3 Lacs",
+  "town": "Piégut",
+  "country": "France",
+  "websites": [
+   "https://karting3lacs.fr/"
+  ],
+  "mapped_length_m": 835
+ },
+ {
+  "id": "way/45104851",
+  "name": "Solokart",
+  "town": "Plessé",
+  "country": "France",
+  "websites": [
+   "https://www.solokart.com/"
+  ],
+  "mapped_length_m": 1335
+ },
+ {
+  "id": "way/1528576088",
+  "name": "Kart 56",
+  "town": "Ploemel",
+  "country": "France",
+  "websites": [
+   "https://www.kart56.com/"
+  ],
+  "mapped_length_m": 829
+ },
+ {
+  "id": "way/1528558823",
+  "name": "Kart Ouest",
+  "town": "Ploumoguer",
+  "country": "France",
+  "websites": [
+   "https://www.kartouest29.fr/"
+  ],
+  "mapped_length_m": 768
+ },
+ {
+  "id": "way/681911933",
+  "name": "Kart Center Pluméliau",
+  "town": "Pluméliau-Bieuzy",
+  "country": "France",
+  "websites": [
+   "https://www.kartcenter56.fr/"
+  ],
+  "mapped_length_m": 701
+ },
+ {
+  "id": "way/192260020",
+  "name": "Karting Dijon-Prenois",
+  "town": "Prenois",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-dijon-prenois.com/karting/"
+  ],
+  "mapped_length_m": 1273
+ },
+ {
+  "id": "way/502111524",
+  "name": "Loc'karting",
+  "town": "Pérols",
+  "country": "France",
+  "websites": [
+   "https://www.lockarting.fr/"
+  ],
+  "mapped_length_m": 644
+ },
+ {
+  "id": "way/635825967",
+  "name": "Circuit Sarron",
+  "town": "Riom",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-sarron.com/"
+  ],
+  "mapped_length_m": 1206
+ }
+]

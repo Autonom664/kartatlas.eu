@@ -1,0 +1,798 @@
+[
+ {
+  "id": "way/591214829",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1501690160",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1545739790",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1244640976",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/karting-club-asd-la-gria"
+  ],
+  "note": "Unverified: an aggregator lists 'Karting Club ASD La Gria' (minimoto/kart rental) in Vibo Valentia, but it could not be tied to this or the other Vibo location."
+ },
+ {
+  "id": "way/1246628708",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "node/7833028470",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/901582000",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/751351594",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart track found online at Bagnoli Irpino; may be small/seasonal near Laceno (Lacenolandia park lists only mini quads)."
+ },
+ {
+  "id": "node/7243664380",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+39 328 906 2866",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.motoclub-tingavert.it/t55617s.html"
+  ],
+  "note": "Only source is a 2006 forum post listing 270cc 4T go-kart and minimoto rental; current status unverified."
+ },
+ {
+  "id": "way/249504927",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979107759473827840/pista-italia-kart"
+  ],
+  "note": "Only hotel-directory mentions found; no operator details."
+ },
+ {
+  "id": "way/1560147507",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Lies ~600 m from 'Pista Italia Kart' (way/249504927); possibly the same or an adjacent venue."
+ },
+ {
+  "id": "way/1250811035",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/kartodromo-iscaro"
+  ],
+  "note": "Aggregator says it hosts ACI regional and Rotax series races and offers rental karts; unverified by official source."
+ },
+ {
+  "id": "way/732197609",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1074242510",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Campo Sant'Anna is a locality in Sant'Agata sui Due Golfi; no kart activity found online, possibly not a kart track."
+ },
+ {
+  "id": "way/491948926",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1055471951",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://uk.hotels.com/tgp/lodging/979109136253984768/pista-caudina"
+  ],
+  "note": "Only hotel-directory mention found."
+ },
+ {
+  "id": "node/8831479745",
+  "name": "Karting Club Città di Morcone",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+39 345 1758709",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/es-MX/go-karts/karting-club-morcone--e19745285",
+   "https://www.yumping.com/es-MX/go-karts/karting-club-citta-di-morcone--e19716951"
+  ],
+  "note": "Known website pistagokart.it now hosts unrelated casino content; directory says ACI/CSAI-homologated 800 m track with 11 rental karts (270cc 4T) and kart school from age 5."
+ },
+ {
+  "id": "way/109024510",
+  "name": "Kartodromo Vesuvio Club San Pasquale",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only hotel-directory mentions found; OSM name misspelled 'Katrodomo'."
+ },
+ {
+  "id": "way/452900892",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/943478086",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Pozzuoli; OSM name 'Kartodrumo' appears only in travel-directory stubs."
+ },
+ {
+  "id": "way/667464227",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "node/10267365182",
+  "name": "Blu Park Salerno",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi LRX",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/it/kart/blu-park-salerno--e19764273"
+  ],
+  "note": "Directory lists electric Sodi karts on a two-level track at Via Tiberio Claudio Felice 50, operator INDOOR SRL; kids rides need an adult ticket."
+ },
+ {
+  "id": "way/430063195",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "relation/20633491",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://circuitointernazionalenapoli.com/",
+  "websites": [
+   {
+    "url": "https://circuitointernazionalenapoli.com/",
+    "role": "venue",
+    "name": "Circuito Internazionale Napoli"
+   }
+  ],
+  "phone": "+39 375 697 7160",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "IPK Praga",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Birel ART N35-XR",
+    "engine": "Honda 390cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Birel ART N35-TWIN",
+    "engine": "Honda 390cc 4-stroke",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://circuitointernazionalenapoli.com/",
+   "https://circuitointernazionalenapoli.com/noleggio-kart/"
+  ],
+  "note": "Rental 17:00-23:00 daily except Tuesday, minimum age 14 (390cc 18+); rental page also gives phone 081 968229."
+ },
+ {
+  "id": "way/745014942",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/981858153",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/567433303",
+  "name": "Valpista Karting Raceway",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/karting/valpista-karting-raceway--e19746575"
+  ],
+  "note": "Directory places Valpista Karting Raceway at Via Buco Vecchio, Teggiano (8-minute kart rides from 15 EUR); match to these coordinates is probable but not confirmed."
+ },
+ {
+  "id": "way/617218652",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/315013666",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://livetheworld.com/activities/italy/area-51-go-kart"
+  ],
+  "note": "An aggregator lists 'Area 51 Go-Kart' at Viale Europa 51, Torre del Greco, but it could not be confirmed as this location."
+ },
+ {
+  "id": "way/1270623433",
+  "name": "MiniMoto San Mauro Mare",
+  "type": null,
+  "website": "https://www.minimotoitalia.com/",
+  "websites": [
+   {
+    "url": "https://www.minimotoitalia.com/",
+    "role": "venue",
+    "name": "MiniMoto San Mauro Mare"
+   }
+  ],
+  "phone": "+39 348 4037770",
+  "email": "info@minimotoitalia.com",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.minimotoitalia.com/",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "note": "Probable match: minimoto and go-kart track at Via Cagnona 121 (Bellaria/San Mauro Mare border) with kart rental, baby track and karts for disabled riders; identity with OSM 'Pista Go-Kart di Bellaria' not confirmed."
+ },
+ {
+  "id": "node/12302370555",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "note": "Nearest listed venue is Collari Race Way (Via Romita 2, Bologna), which appears to be mainly a radio-controlled car track; site certificate expired."
+ },
+ {
+  "id": "way/819981857",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1316505007",
+  "name": "Kartodromo Rastellino",
+  "type": null,
+  "website": "https://www.kartodromorastellino.it/",
+  "websites": [
+   {
+    "url": "https://www.kartodromorastellino.it/",
+    "role": "venue",
+    "name": "Kartodromo Rastellino"
+   }
+  ],
+  "phone": "+39 333 1813079",
+  "email": "zoboli.oskart@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartodromorastellino.it/",
+   "https://www.yumping.com/en/karting/kartodromo-rastellino--e19745112"
+  ],
+  "note": "Also phone +39 059 937201; site lists lap records for 'Kart 270' and 'Kart 200' (assumed rental classes) and offers free sessions on request."
+ },
+ {
+  "id": "way/423697503",
+  "name": null,
+  "type": null,
+  "website": "http://www.pistacattolica.it",
+  "websites": [
+   {
+    "url": "http://www.pistacattolica.it",
+    "role": "venue",
+    "name": "Jeepers Kart"
+   }
+  ],
+  "phone": "+39 0541 957292",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/karting/jeepers-cross--e17230",
+   "https://www.livetheworld.com/activities/italy/jeepers-kart"
+  ],
+  "note": "Website domain did not resolve; directories describe a ~650-680 m main track plus ~300 m kids/beginner track, rentals, and riders may bring own minimotos/mini karts."
+ },
+ {
+  "id": "way/75928127",
+  "name": "Happy Valley Kart",
+  "type": "outdoor",
+  "website": "https://www.happyvalleykart.com/",
+  "websites": [
+   {
+    "url": "https://www.happyvalleykart.com/",
+    "role": "venue",
+    "name": "Happy Valley Kart"
+   }
+  ],
+  "phone": "+39 0544 987304",
+  "email": "info@happyvalleykart.it",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Birel",
+    "engine": "Honda 4-stroke",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "Birel",
+    "engine": "Honda 4-stroke",
+    "hp": "6",
+    "class": "junior"
+   },
+   {
+    "chassis": "Birel",
+    "engine": "Honda 4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.happyvalleykart.com/",
+   "https://www.happyvalleykart.com/noleggio-kart/"
+  ],
+  "note": "1000 m track; Extreme Kart 18+, Fun Kart 12+, Young Kart 6-12, Baby Kart summer mornings; prove libere for own karts and bikes."
+ },
+ {
+  "id": "way/354900178",
+  "name": "Circuito di Pomposa",
+  "type": "outdoor",
+  "website": "https://www.circuitodipomposa.com/",
+  "websites": [
+   {
+    "url": "https://www.circuitodipomposa.com/",
+    "role": "venue",
+    "name": "Circuito di Pomposa"
+   }
+  ],
+  "phone": "+39 0533 357957",
+  "email": "info@circuitodipomposa.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi GT4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR4",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.circuitodipomposa.com/",
+   "https://www.circuitodipomposa.com/noleggio-kart"
+  ],
+  "note": "Rental 10-minute sessions without booking (GT4 14+, SR4 16+); mobile/WhatsApp +39 392 999 93 99; site has a 'Mezzi privati' section."
+ },
+ {
+  "id": "way/1301840283",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not the Circuito di Pomposa (which is ~1.8 km west, separate entry); no venue found online for this location."
+ },
+ {
+  "id": "way/208976251",
+  "name": null,
+  "type": null,
+  "website": "https://extremakart.it/",
+  "websites": [
+   {
+    "url": "https://extremakart.it/",
+    "role": "venue",
+    "name": "Extrema Kart"
+   }
+  ],
+  "phone": "+39 392 6929912",
+  "email": "extremakart@gmail.com",
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://extremakart.it/",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "note": "Site has a 'Noleggio Kart' page but no fleet details; address Via Abba e Motto 5/a, Finale Emilia."
+ },
+ {
+  "id": "way/141611632",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No public information found; venue could not be verified online."
+ },
+ {
+  "id": "way/1481640920",
+  "name": "Theway Experience Park Imola",
+  "type": null,
+  "website": "https://www.thewaykart.com/le-nostre-piste/imola",
+  "websites": [
+   {
+    "url": "https://www.thewaykart.com/le-nostre-piste/imola",
+    "role": "rental",
+    "name": "Theway Imola"
+   }
+  ],
+  "phone": "+39 0444 371351",
+  "email": "info@thewaykart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.thewaykart.com/le-nostre-piste/imola",
+   "https://www.thewaykart.com/"
+  ],
+  "note": "Mixed venue: 900 m Sun Track (indoor & outdoor) and 750 m three-level indoor Rain Track; bookable public kart sessions, fleet not stated."
+ }
+]

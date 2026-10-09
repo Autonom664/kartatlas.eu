@@ -1,0 +1,972 @@
+[
+ {
+  "id": "way/977813910",
+  "name": "Erlebnisberg Altenberg (Mini-Karts)",
+  "type": "outdoor",
+  "website": "https://www.erlebnisberg-altenberg.de/",
+  "websites": [
+   {
+    "url": "https://www.erlebnisberg-altenberg.de/",
+    "role": "venue",
+    "name": "Erlebnisberg Altenberg (Wiegand Erlebnisberge)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.erlebnisberg-altenberg.de/"
+  ],
+  "note": "Probable match: mini-kart attraction at the Erlebnisberg leisure park (summer season); not a real kart track."
+ },
+ {
+  "id": "node/1175484382",
+  "name": "GO-Kart Racinghall Fraureuth",
+  "type": "indoor",
+  "website": "http://www.karthalle.de/",
+  "websites": [
+   {
+    "url": "http://www.karthalle.de/",
+    "role": "rental",
+    "name": "GO-Kart Racinghall Fraureuth"
+   }
+  ],
+  "phone": "+49 3761 760066",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.karthalle.de/"
+  ],
+  "note": "Indoor hall on former MASSI site; twin karts new in 2026; phone booking requested."
+ },
+ {
+  "id": "way/223183532",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Bärenstein hill in Plauen; may be a small club or private track."
+ },
+ {
+  "id": "way/89254346",
+  "name": "Kartbahn Motorsport Arena Oschersleben",
+  "type": "outdoor",
+  "website": "https://www.motorsportarena.com/",
+  "websites": [
+   {
+    "url": "https://www.motorsportarena.com/",
+    "role": "venue",
+    "name": "Motorsport Arena Oschersleben"
+   }
+  ],
+  "phone": "+49 39499 200",
+  "email": "info@motorsportarena.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.motorsportarena.com/kartbahn/leihkart-und-eigene-karts/",
+   "https://www.ortsdienst.de/sachsen-anhalt/boerde/kartbahn/"
+  ],
+  "note": "Kart track (approx. 1,018 m) at the Oschersleben circuit; rental race karts and own karts offered; fleet not specified; phone from directory."
+ },
+ {
+  "id": "way/751984689",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/de/halle-leipzig",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/de/halle-leipzig",
+    "role": "rental",
+    "name": "BattleKart Halle-Leipzig"
+   }
+  ],
+  "phone": "+49 345 97607484",
+  "email": "info@halle-leipzig.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/de/halle-leipzig"
+  ],
+  "note": "Augmented-reality electric kart game arena, Berliner Str. 191 Halle."
+ },
+ {
+  "id": "way/837980941",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.foehrring.de/",
+  "websites": [
+   {
+    "url": "https://www.foehrring.de/",
+    "role": "rental",
+    "name": "FöhrRing"
+   }
+  ],
+  "phone": "+49 4681 9929829",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.foehrring.de/",
+   "https://freizeitinsider.de/angebot/foehrring/"
+  ],
+  "note": "Electric kart track; fleet 12 single and 2 twin RiMO e-karts; min age 9."
+ },
+ {
+  "id": "way/87439125",
+  "name": "Kartbahn Schleswig",
+  "type": "outdoor",
+  "website": "https://www.kartbahn-schleswig.de/",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-schleswig.de/",
+    "role": "rental",
+    "name": "Kartbahn Schleswig (KBS Motorsport GmbH)"
+   }
+  ],
+  "phone": "+49 4621 307550",
+  "email": "post@kartbahn-schleswig.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.kartbahn-schleswig.de/",
+   "https://www.kartbahn-schleswig.de/privatkart",
+   "https://www.kartbahn-schleswig.de/kontakt"
+  ],
+  "note": "620 m track; private karts allowed in opening hours (2-strokes weekdays from 16:00, 93 dB limit); phone is WhatsApp/messages only."
+ },
+ {
+  "id": "way/101400108",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only generic 'Kartbahn' tourist listings for Burg auf Fehmarn found; no operator identified."
+ },
+ {
+  "id": "way/1489525899",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Klein Wessek / Weissenhäuser Strand; possibly a small leisure-park kart track."
+ },
+ {
+  "id": "node/9043533487",
+  "name": "EVOKART Kiel",
+  "type": "indoor",
+  "website": "https://evokart-kiel.de/",
+  "websites": [
+   {
+    "url": "https://evokart-kiel.de/",
+    "role": "rental",
+    "name": "EVOKART Kiel"
+   }
+  ],
+  "phone": "+49 431 65959800",
+  "email": "anfragen@evokart-kiel.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://evokart-kiel.de/"
+  ],
+  "note": "Old domain ecokart-kiel.de redirects to evokart-kiel.de; venue says indoor electric karting at Braunstraße 40."
+ },
+ {
+  "id": "way/138713437",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.nordseering.de/",
+  "websites": [
+   {
+    "url": "https://www.nordseering.de/",
+    "role": "rental",
+    "name": "Nordseering Büsum"
+   }
+  ],
+  "phone": "+49 4834 9628962",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha 2",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200 cc",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.nordseering.de/"
+  ],
+  "note": "15 RiMO Alpha 2 adult karts, 4 junior karts and twin kart; email currently down per website."
+ },
+ {
+  "id": "node/14002285223",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/de/marne",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/de/marne",
+    "role": "rental",
+    "name": "BattleKart Marne"
+   }
+  ],
+  "phone": "+49 4851 9619056",
+  "email": "info@marne.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/de/marne"
+  ],
+  "note": "Augmented-reality electric kart game arena."
+ },
+ {
+  "id": "way/344985853",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/halberstadt/"
+  ],
+  "note": "Only directory listings found (listed as indoor track in Ringleben); no website or current info."
+ },
+ {
+  "id": "way/550349415",
+  "name": null,
+  "type": null,
+  "website": "http://www.kart-center-heiligenstadt.de/",
+  "websites": [
+   {
+    "url": "http://www.kart-center-heiligenstadt.de/",
+    "role": "rental",
+    "name": "Kart Center Heiligenstadt"
+   }
+  ],
+  "phone": "+49 3606 506484",
+  "email": "info@kart-center-heiligenstadt.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.kart-center-heiligenstadt.de/"
+  ],
+  "note": "Combined indoor and outdoor track; kids from 12, younger via Kinderkartschule."
+ },
+ {
+  "id": "way/389007612",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://th.hotels.com/en/tgp/lodging/979109162468397056/kart-und-eventcenter-schlotheim"
+  ],
+  "note": "Website kartcenter-schlotheim.de no longer resolves; a directory lists 'ABR Kart-Center Schlotheim' at Hessisch-Lichtenauer-Str. 1; status unclear."
+ },
+ {
+  "id": "node/8183988855",
+  "name": null,
+  "type": null,
+  "website": "http://www.kart-center-erfurt.de",
+  "websites": [
+   {
+    "url": "http://www.kart-center-erfurt.de",
+    "role": "rental",
+    "name": "Kart Center Erfurt"
+   }
+  ],
+  "phone": "+49 179 2632077",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Hubi-Karts HK7",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "http://www.kart-center-erfurt.de"
+  ],
+  "note": "Indoor track (2017) extended with outdoor section (2020), about 800 m; also a hand-controlled kart for disabled drivers."
+ },
+ {
+  "id": "way/254359849",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.kartbahnjena.de",
+  "websites": [
+   {
+    "url": "http://www.kartbahnjena.de",
+    "role": "rental",
+    "name": "Kartbahn Jena"
+   }
+  ],
+  "phone": "+49 3641 470195",
+  "email": "info@kartbahnjena.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "http://www.kartbahnjena.de"
+  ],
+  "note": "Website describes an outdoor track (input said indoor), Wiesenstraße 104 Jena."
+ },
+ {
+  "id": "way/368351876",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Ratscher; Kartbahn Schwarzbach is about 4 km east, possibly related."
+ },
+ {
+  "id": "way/128521415",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+49 3687 860419",
+  "email": "webmaster@kartbahn-schwarzbach.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ortsdienst.de/thueringen/hildburghausen/sachsenbrunn/kartbahn/"
+  ],
+  "note": "Website kartbahn-schwarzbach.de shows only a default server page; contacts from directory (Am Merbelsroder Weg 11)."
+ },
+ {
+  "id": "way/1006250895",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; small track near Nendeln unidentified."
+ },
+ {
+  "id": "way/1317001788",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; track near Malbun unidentified."
+ },
+ {
+  "id": "way/222877605",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; track near Witten (Assen) unidentified."
+ },
+ {
+  "id": "node/2782845692",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartingemmen.nl",
+  "websites": [
+   {
+    "url": "https://www.kartingemmen.nl",
+    "role": "venue",
+    "name": "Karting Emmen"
+   }
+  ],
+  "phone": "+31 591 351 515",
+  "email": "info@kartingemmen.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.kartingemmen.nl"
+  ],
+  "note": "New Sodi rental karts with laptimers; own kart or motorbike training possible."
+ },
+ {
+  "id": "node/2798149538",
+  "name": null,
+  "type": null,
+  "website": "https://levelracing.eu/",
+  "websites": [
+   {
+    "url": "https://levelracing.eu/",
+    "role": "other",
+    "name": "LevelRacing (kart gear shop)"
+   }
+  ],
+  "phone": "+31 6 54972151",
+  "email": "info@levelracing.eu",
+  "status": "unknown",
+  "rental": "no",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://levelracing.eu/"
+  ],
+  "note": "LevelRacing is a karting gear shop (open by appointment), not a kart track; likely a mis-tagged entry."
+ },
+ {
+  "id": "node/2551684936",
+  "name": "Indoorkarting Heerenveen (De Vries Indoor Karting)",
+  "type": "indoor",
+  "website": "https://www.indoorkartingheerenveen.nl",
+  "websites": [
+   {
+    "url": "https://www.indoorkartingheerenveen.nl",
+    "role": "rental",
+    "name": "Indoorkarting Heerenveen"
+   }
+  ],
+  "phone": "+31 513 681662",
+  "email": "info@indoorkartingheerenveen.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.indoorkartingheerenveen.nl"
+  ],
+  "note": "Karting from age 15 and 1.60 m; fleet not stated."
+ },
+ {
+  "id": "node/6859713080",
+  "name": null,
+  "type": null,
+  "website": "https://kartingeefde.nl",
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website kartingeefde.nl unreachable (certificate error, shared host); status unverified."
+ },
+ {
+  "id": "node/7452547101",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; track near Ugchelen (Apeldoorn) unidentified."
+ },
+ {
+  "id": "node/2848644350",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; no website known for Kartbaan Duiven."
+ },
+ {
+  "id": "node/13607854888",
+  "name": null,
+  "type": "indoor",
+  "website": "https://kartbaanwinterswijk.nl",
+  "websites": [
+   {
+    "url": "https://kartbaanwinterswijk.nl",
+    "role": "rental",
+    "name": "Kartbaan Winterswijk"
+   }
+  ],
+  "phone": "+31 543 533480",
+  "email": "info@kartbaanwinterswijk.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://kartbaanwinterswijk.nl"
+  ],
+  "note": "Indoor electric karting from 1.50 m."
+ },
+ {
+  "id": "node/2690461468",
+  "name": null,
+  "type": null,
+  "website": "https://planet-awesome.com",
+  "websites": [
+   {
+    "url": "https://planet-awesome.com",
+    "role": "rental",
+    "name": "Planet Awesome Nijmegen"
+   }
+  ],
+  "phone": "+31 24 2022222",
+  "email": "support.nijmegen@planet-awesome.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://planet-awesome.com"
+  ],
+  "note": "Multi-level electric kart track in an entertainment centre at Energieweg 102 Nijmegen; likely indoor but not stated."
+ },
+ {
+  "id": "way/1561716712",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; small track near Dukenburg unidentified."
+ },
+ {
+  "id": "way/474012393",
+  "name": null,
+  "type": null,
+  "website": "http://kartbaanulrum.nl",
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website kartbaanulrum.nl unreachable (self-signed certificate); status unverified."
+ },
+ {
+  "id": "way/47490179",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.teamsport-ekarting.nl/locaties/groningen",
+  "websites": [
+   {
+    "url": "https://www.teamsport-ekarting.nl/locaties/groningen",
+    "role": "rental",
+    "name": "TeamSport Groningen"
+   }
+  ],
+  "phone": "+31 85 888 5865",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.teamsport-ekarting.nl/locaties/groningen"
+  ],
+  "note": "Indoor electric track of almost 500 m with bridge and tunnel; kids karts for ages 8-12."
+ },
+ {
+  "id": "way/290232085",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; indoor venue near Swalmen unidentified."
+ },
+ {
+  "id": "way/276563025",
+  "name": null,
+  "type": null,
+  "website": "https://www.allinecht.nl/",
+  "websites": [
+   {
+    "url": "https://www.allinecht.nl/",
+    "role": "rental",
+    "name": "All In Echt"
+   }
+  ],
+  "phone": "+31 475 418900",
+  "email": "info@allinecht.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.allinecht.nl/"
+  ],
+  "note": "Leisure centre with kart track (age 14+); fleet not stated."
+ },
+ {
+  "id": "way/274259545",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.powerarea.nl",
+  "websites": [
+   {
+    "url": "https://www.powerarea.nl",
+    "role": "rental",
+    "name": "Powerarea Vaals"
+   }
+  ],
+  "phone": "+31 85 111 7171",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.powerarea.nl"
+  ],
+  "note": "Two-storey indoor kart track; kids karts 6-9, junior 10-14, duo karts."
+ },
+ {
+  "id": "node/575350323",
+  "name": "Circuit Park Berghem",
+  "type": "outdoor",
+  "website": "https://www.circuitparkberghem.nl",
+  "websites": [
+   {
+    "url": "https://www.circuitparkberghem.nl",
+    "role": "venue",
+    "name": "Circuit Park Berghem"
+   }
+  ],
+  "phone": "+31 412 455 222",
+  "email": "info@circuitparkberghem.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.circuitparkberghem.nl",
+   "https://www.circuitparkberghem.nl/openingstijden/"
+  ],
+  "note": "Rental heats and own-kart free training (online booking); fleet not stated."
+ },
+ {
+  "id": "way/296815510",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Not researched in depth: web search budget exhausted and no known website; indoor venue near Uden unidentified."
+ },
+ {
+  "id": "node/7734829180",
+  "name": null,
+  "type": null,
+  "website": "https://www.devoltage.nl",
+  "websites": [
+   {
+    "url": "https://www.devoltage.nl",
+    "role": "rental",
+    "name": "De Voltage"
+   }
+  ],
+  "phone": "+31 13 580 0007",
+  "email": "info@devoltage.nl",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.devoltage.nl"
+  ],
+  "note": "Entertainment centre with 450 m Sodi kart circuit with fly-over; indoor/outdoor not stated."
+ },
+ {
+  "id": "node/13897664495",
+  "name": null,
+  "type": null,
+  "website": "https://www.kcr.nl",
+  "websites": [],
+  "phone": "+31 165 570 777",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Website kcr.nl unreachable (certificate error); phone from input data; unverified."
+ }
+]

@@ -1,0 +1,785 @@
+[
+ {
+  "id": "node/13031534281",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": "+39 338 873 7528",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://iltaccodibacco.it/puglia/eventi/208495.html",
+   "https://www.motoclub-tingavert.it/t329040s.html"
+  ],
+  "note": "Mini-autodromo also used by cars/motorbikes; hosted 2019 Puglia-Basilicata Formula Challenge opener; no website or rental info found."
+ },
+ {
+  "id": "way/179582857",
+  "name": "Kartodromo 90",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "DC 160",
+    "engine": "Honda 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "DC 200",
+    "engine": "Honda 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/kartodromo90--e19637708",
+   "https://wanderlog.com/place/details/635744/kartodromo-90"
+  ],
+  "note": "Two layouts (440 m and 750 m) on SS172 km 2 towards Putignano; fleet per third-party listing (15 DC160 incl. 2 twin, 15 DC200, minikart for ages 7-10); no official website found."
+ },
+ {
+  "id": "way/160287052",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Kartodromo-Santa-Caterina-Abbasanta.d979107675587842048.Vacation-Attraction"
+  ],
+  "note": "Only travel-portal mentions found; no operator info."
+ },
+ {
+  "id": "way/1546897978",
+  "name": null,
+  "type": null,
+  "website": "https://www.pistadeicampioni.com/",
+  "websites": [
+   {
+    "url": "https://www.pistadeicampioni.com/",
+    "role": "venue",
+    "name": "Pista dei Campioni"
+   },
+   {
+    "url": "https://www.facebook.com/www.pistadeicampioni.it",
+    "role": "other",
+    "name": "Pista dei Campioni Facebook"
+   }
+  ],
+  "phone": "+39 379 211 0688",
+  "email": "info@pistadeicampioni.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.pistadeicampioni.com/",
+   "https://www.pistadeicampioni.com/contatti"
+  ],
+  "note": "Seasonal evening operation May-October (Costa Smeralda); shared and private sessions on Sodikart karts, also mini motos."
+ },
+ {
+  "id": "relation/3937865",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.unionesarda.it/news-sardegna/oristano-provincia/riola-sardo-a-le-dune-tutto-pronto-per-il-prossimo-mondiale-di-motocross-skc9c7j9"
+  ],
+  "note": "No kart track found in Riola Sardo; the mapped area may be the 'Le Dune' motocross complex - verify."
+ },
+ {
+  "id": "way/160525985",
+  "name": "Pista Jolly Park",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/pista-jolly-park--e17254"
+  ],
+  "note": "Directory lists Pista Jolly Park, Via E. D'Arborea 16, Budoni (karting since 1983, club); rental not confirmed."
+ },
+ {
+  "id": "way/1266537543",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Cardedu."
+ },
+ {
+  "id": "way/596130286",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; 168 m layout suggests a small private or mini track."
+ },
+ {
+  "id": "way/172570006",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; small 223 m mini-kart circuit."
+ },
+ {
+  "id": "way/297850148",
+  "name": "Kartodromo Is Arenadas",
+  "type": "outdoor",
+  "website": "https://kartodromoisarenadas.it/",
+  "websites": [
+   {
+    "url": "https://kartodromoisarenadas.it/",
+    "role": "venue",
+    "name": "Kartodromo Is Arenadas"
+   }
+  ],
+  "phone": "+39 335 645 9745",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://kartodromoisarenadas.it/",
+   "https://www.yumping.com/en/karting/kartodromo-is-arenadas--e17235"
+  ],
+  "note": "About 1300 m with 13 corners at Localita Birdesu; association rental karts (listing says 270 and 200, likely cc) and own karts; official site looks outdated (latest events 2009)."
+ },
+ {
+  "id": "way/184641695",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Monte Figu, Iglesias."
+ },
+ {
+  "id": "way/305333851",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Luogosanto."
+ },
+ {
+  "id": "way/139979548",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979108243916034048/pista-di-kart"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "way/24323666",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at this Olbia location."
+ },
+ {
+  "id": "way/167590733",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/es/Kartodromo-Zio-Beppi-Ozieri.d979107648324653056.Guia-Turistica"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "way/198047918",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found; location near Santa Margherita di Pula resorts suggests a holiday-resort track."
+ },
+ {
+  "id": "node/10269290828",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/SestuGO-Sestu.d979109110048104448.Vacation-Attraction"
+  ],
+  "note": "Only travel-portal mentions found; no operator info."
+ },
+ {
+  "id": "way/1049886188",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for SBkart."
+ },
+ {
+  "id": "way/170319772",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track in Tertenia."
+ },
+ {
+  "id": "way/284733806",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Ottava (Sassari)."
+ },
+ {
+  "id": "way/580918848",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.unionesarda.it/sport/motori/kart-la-pista-di-alghero-ospita-la-terza-prova-del-campionato-sardo-aci-sport-wrgpiwi1",
+   "https://www.unionesarda.it/sport-sardegna/6-challenge-riviera-del-corallo-il-round-finale-tricolore-si-disputera-ad-alghero-g9blrb08"
+  ],
+  "note": "Competition circuit hosting ACI Sport Sardinian kart championship and Formula Challenge rounds; no website or rental info found."
+ },
+ {
+  "id": "relation/1219196",
+  "name": "Pista S. Venera",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://yumping.com/en/karting/pista-s-venera--e17264"
+  ],
+  "note": "1200 m x 10 m competition-grade track with driving school; rental karts in 160 and 270 cc classes per directory listing."
+ },
+ {
+  "id": "way/1019107361",
+  "name": "Circuito Kartodromo di Avola",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/circuito-kartodromo-di-avola--e19765158"
+  ],
+  "note": "Via Risicone, Avola; free rides and races on Sodi RT8 karts per directory listing; no website found."
+ },
+ {
+  "id": "node/13304913446",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No permanent kart track found in Bagheria (only a city street race); verify."
+ },
+ {
+  "id": "way/244137447",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track at Borgetto."
+ },
+ {
+  "id": "way/632224753",
+  "name": "Pista Kart e Cross Calatabiano - Centro Sportivo San Filippo",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/pista-kart-e-cross-calatabiano-centro-sportivo-san-filippo"
+  ],
+  "note": "Kart and cross track with minibike and football fields; only a generic directory listing found."
+ },
+ {
+  "id": "way/1125962180",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://ae.hotels.com/es/tgp/lodging/979108198827053056/kartodromo-lorisanna"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "way/931696878",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kr.hotels.com/en/tgp/lodging/979108543808675840/kartodromo-elio-de-angelis"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "node/9777642985",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.hotels.com/tgp/lodging/979109117379616768/e-crazy-cart"
+  ],
+  "note": "Only travel-portal mentions found; 127 m layout, possibly an electric/fun-kart attraction."
+ },
+ {
+  "id": "way/244607733",
+  "name": "Riverkarting",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "CRG",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "50cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/riverkarting--e19760885"
+  ],
+  "note": "Family-run, open all year, SS113 km 111; ~500 m track, CRG 270 adult karts and 50cc kids karts (min age 6) per directory listing."
+ },
+ {
+  "id": "way/1504727024",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.yumping.com/en/karting/circuito-triscina--e19673881"
+  ],
+  "note": "No info on 'Duetto di Besi'; a 'Circuito Triscina' with kart rental is listed at C.da Manicalunga, Castelvetrano - possibly the same venue, verify."
+ },
+ {
+  "id": "way/243816366",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.expedia.com/Kartodromo-Minoa-Hotels.0-l979108857332989952-0.Travel-Guide-Filter-Hotels"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "way/1060306922",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://livesicilia.it/rally-and-speed-on-track-bene-lisland-motorsport-2/",
+   "https://lapmeta.com/fr/track/886"
+  ],
+  "note": "Circuit (about 1.7 km) used for rally/speed-on-track events; reportedly on ACI Sport karting list; no rental info found."
+ },
+ {
+  "id": "way/171855334",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Brolo/Ficarra (891 m layout)."
+ },
+ {
+  "id": "way/452863081",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://kr.hotels.com/tgp/lodging/979108347727151104/eurokart-portorosa"
+  ],
+  "note": "Only travel-portal mentions found."
+ },
+ {
+  "id": "way/178607359",
+  "name": "Kartodromo di Gela",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://qds.it/per-il-kartodromo-di-gela-non-ce-due-senza-tre/"
+  ],
+  "note": "Province-owned 1260 m circuit (C.da Zaia, SP8 Gela-Butera); lease tenders in 2019 failed to find an operator, current status unclear."
+ },
+ {
+  "id": "way/1388704251",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found for a kart track near Chianchitta/Giardini-Naxos."
+ },
+ {
+  "id": "way/507793994",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://circuitovincenzaispica.it/",
+  "websites": [
+   {
+    "url": "https://circuitovincenzaispica.it/",
+    "role": "venue",
+    "name": "Circuito Vincenza Ispica"
+   },
+   {
+    "url": "https://www.facebook.com/circuitovincenzaispica/",
+    "role": "other",
+    "name": "Circuito Vincenza Facebook"
+   }
+  ],
+  "phone": "+39 331 958 4281",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "125cc 2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "125cc 2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://circuitovincenzaispica.it/"
+  ],
+  "note": "Run by Ricca Karting SSD; rental 125cc 2-stroke Sodi karts and rental championship; site has a private-vehicle entry section; closed Tuesdays."
+ },
+ {
+  "id": "way/316423358",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.kartodromolascari.it/",
+  "websites": [
+   {
+    "url": "http://www.kartodromolascari.it/",
+    "role": "venue",
+    "name": "Kartodromo di Lascari"
+   }
+  ],
+  "phone": "+39 335 6959796",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://yumping.com/en/karting/kartodromo-lascari--e17307"
+  ],
+  "note": "About 700 m asphalt circuit near Cefalu (built 1995); offers kart rental and circuit hire to groups and professionals; website is a JS app with no readable content."
+ },
+ {
+  "id": "way/74586165",
+  "name": "Kartodromo di Marsala",
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.livetheworld.com/activities/italy/kartodromo-di-marsala"
+  ],
+  "note": "Generic listing mentions a Kartodromo di Marsala with private kart hire by evening reservation; not confirmed to be this location."
+ }
+]

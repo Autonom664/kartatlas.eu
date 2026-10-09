@@ -1,0 +1,1065 @@
+[
+ {
+  "id": "way/482336192",
+  "name": "Karting Circuit de Nevers Magny-Cours",
+  "type": "outdoor",
+  "website": "https://www.circuitmagnycours.com/piste-karting/",
+  "websites": [
+   {
+    "url": "https://www.circuitmagnycours.com/piste-karting/",
+    "role": "venue",
+    "name": "Circuit de Nevers Magny-Cours - Piste Karting"
+   },
+   {
+    "url": "https://kartingmagnycours.com/",
+    "role": "rental",
+    "name": "Karting Magny-Cours"
+   }
+  ],
+  "phone": "+33 3 86 21 80 00",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.circuitmagnycours.com/piste-karting/",
+   "https://www.circuitmagnycours.com/"
+  ],
+  "note": "1110 m track with 48-kart fleet offering 4T, 2T and kids rental karts; models not specified."
+ },
+ {
+  "id": "way/290671102",
+  "name": "Kartmania - Circuit de l'Auxois Sud",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://tourismepouillybligny.fr/en/having-fun-and-relaxing/familyadventures",
+   "https://www.pagesjaunes.fr/pros/55068684"
+  ],
+  "note": "Part of Complexe Automobile de l'Auxois (Maconge/Meilly-sur-Rouvres); 1090 m track per tourism office; no official site found."
+ },
+ {
+  "id": "way/201410942",
+  "name": "Circuit Jura Sud Karting",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 84 42 69 58",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.jura-tourism.com/activite/circuit-jura-sud-karting/",
+   "https://www.koifaire.com/franche-comte/circuit,jura,sud,karting-17982.html"
+  ],
+  "note": "Has both indoor and outdoor rental tracks plus kart/moto track-day access (droits de piste)."
+ },
+ {
+  "id": "node/8035472559",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found beyond hotel-aggregator listings; Appoigny Kart Indoor is nearby and may be related."
+ },
+ {
+  "id": "way/290670811",
+  "name": "Karting 2 Noiron",
+  "type": "outdoor",
+  "website": "https://www.karting2noiron.fr/",
+  "websites": [
+   {
+    "url": "https://www.karting2noiron.fr/",
+    "role": "rental",
+    "name": "Karting 2 Noiron"
+   }
+  ],
+  "phone": "+33 6 60 88 72 89",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.karting2noiron.fr/"
+  ],
+  "note": "Website headline says closed for all of 2026, reopening in 2027 (temporary closure)."
+ },
+ {
+  "id": "way/192260020",
+  "name": "Karting Dijon-Prenois",
+  "type": "outdoor",
+  "website": "https://www.circuit-dijon-prenois.com/karting/",
+  "websites": [
+   {
+    "url": "https://www.circuit-dijon-prenois.com/karting/",
+    "role": "venue",
+    "name": "Circuit Dijon-Prenois Karting"
+   }
+  ],
+  "phone": "+33 3 80 35 36 50",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc 4-stroke",
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi RX7",
+    "engine": "390cc 4-stroke",
+    "hp": "15",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Duo Drive",
+    "engine": "390cc 4-stroke",
+    "hp": "15",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.circuit-dijon-prenois.com/location-de-kartings/",
+   "https://www.burgundy-tourism.com/sit/karting-dijon-prenois"
+  ],
+  "note": "Directory phone numbers differ (03 80 35 36 50 / 03 80 35 32 22)."
+ },
+ {
+  "id": "node/2941815936",
+  "name": "Sport Karting - Circuit de la Vallée",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 3 84 75 04 95",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/sport-karting-circuit-de-la-vallee"
+  ],
+  "note": "Directory also mentions moto/competition-kart roulage sessions."
+ },
+ {
+  "id": "node/4279763005",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for 'Circuit Eisen - Kart 90' in Pérouse; a 'Go Kart 90' is listed in nearby Danjoutin/Chèvremont but link unconfirmed."
+ },
+ {
+  "id": "way/305458590",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [],
+  "note": "Mapped as an abandoned 109 m kart track; not researched further."
+ },
+ {
+  "id": "relation/5258300",
+  "name": "Speed Karting Chalon",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 4 74 09 05 49",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.groupon.fr/deals/speed-karting-chalon"
+  ],
+  "note": "Identified via Groupon listing (Rue du Dr Jeannin, Saint-Marcel, 800 m track); match to coordinates likely but not certain."
+ },
+ {
+  "id": "relation/2035090",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found on a karting track in Selongey."
+ },
+ {
+  "id": "way/680299871",
+  "name": null,
+  "type": "outdoor",
+  "website": "http://www.circuitdelenclos.com/",
+  "websites": [
+   {
+    "url": "http://www.circuitdelenclos.com/",
+    "role": "venue",
+    "name": "Circuit de l'Enclos"
+   }
+  ],
+  "phone": "+33 3 81 49 55 44",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "http://www.circuitdelenclos.com/"
+  ],
+  "note": "Two tracks (600 m and 1200 m); offers kart rental and 'droit de piste' track access; Rotax workshop and races."
+ },
+ {
+  "id": "way/123072286",
+  "name": "Sens Espaces Karting (Circuit de Soucy)",
+  "type": "outdoor",
+  "website": "https://www.sek.fr/",
+  "websites": [
+   {
+    "url": "https://www.sek.fr/",
+    "role": "venue",
+    "name": "Sens Espaces Karting"
+   }
+  ],
+  "phone": "+33 3 86 86 60 40",
+  "email": "contact@sek.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Minikart",
+    "engine": "200cc 4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax Max 125cc 2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.sek.fr/",
+   "https://www.funbooker.com/fr/annonce/session-karting-sur-la-piste-de-sens-89/voir",
+   "https://www.ffsakarting.org/medias/fr/2022-07-10-championnat-de-france-soucy-france/Dossier de presentation/FFSA_Karting_2022_Dossier_Presentation_Soucy.pdf"
+  ],
+  "note": "1100 m competition track plus 830 m leisure track; club ASK Sens hosts FFSA championships; fleet list does not say which karts are rental."
+ },
+ {
+  "id": "way/87233258",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Appears to be a kart-cross (off-road) circuit, not a karting track; no details found."
+ },
+ {
+  "id": "way/533293229",
+  "name": "Circuit de Vaison Piste",
+  "type": "outdoor",
+  "website": "https://vaisonpiste.com/",
+  "websites": [
+   {
+    "url": "https://vaisonpiste.com/",
+    "role": "venue",
+    "name": "Vaison Piste"
+   }
+  ],
+  "phone": "+33 3 85 57 64 85",
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.lerepairedesmotards.com/guides/circuits/circuit-france-vaison-piste.php",
+   "https://www.funbooker.com/fr/category/stage-de-pilotage/circuit-de-vaison"
+  ],
+  "note": "Mainly a car/motorbike circuit (~2 km); karting endurance mentioned by one source only; website blocked (403)."
+ },
+ {
+  "id": "way/1222119712",
+  "name": "SpeedPark Brest",
+  "type": "indoor",
+  "website": "https://speedpark.fr/brest/",
+  "websites": [
+   {
+    "url": "https://speedpark.fr/brest/",
+    "role": "rental",
+    "name": "SpeedPark Brest"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/speedpark-investit-35-millions-deuros-brest-pour-son-nouveau-complexe-de-loisirs-2094248",
+   "https://speedpark.fr/"
+  ],
+  "note": "Multi-activity leisure complex in Kergaradec zone with a small indoor kart track."
+ },
+ {
+  "id": "way/42550548",
+  "name": "BKE Brest Karting Électrique",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.pagesjaunes.fr/pros/59914582"
+  ],
+  "note": null
+ },
+ {
+  "id": "node/8215361954",
+  "name": "Kart'Expo",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 2 99 05 96 05",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.citizenkid.com/sortie/kartexpo-rennes-a1057888",
+   "https://fr.mappy.com/poi/5beb60a80351d130e656dcb7"
+  ],
+  "note": "Known website kart-expo.fr now shows a sold/parked domain; same venue as way/886473998 (41 La Haie Gautrais, Bruz)."
+ },
+ {
+  "id": "node/14090466896",
+  "name": "SpeedPark Rennes",
+  "type": "indoor",
+  "website": "https://speedpark.fr/rennes/",
+  "websites": [
+   {
+    "url": "https://speedpark.fr/rennes/",
+    "role": "rental",
+    "name": "SpeedPark Rennes"
+   }
+  ],
+  "phone": "+33 2 42 07 09 32",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.parcsetloisirs.fr/parc/speedpark-rennes",
+   "https://speedpark.fr/"
+  ],
+  "note": "Indoor 200 m electric kart track in leisure complex at CC Carrefour Cesson; OSM tags it outdoor."
+ },
+ {
+  "id": "way/324728989",
+  "name": "Karting de Kerlabo",
+  "type": null,
+  "website": "https://kerlabo-kart.com/",
+  "websites": [
+   {
+    "url": "https://kerlabo-kart.com/",
+    "role": "rental",
+    "name": "Karting de Kerlabo"
+   }
+  ],
+  "phone": "+33 6 75 78 47 32",
+  "email": "kerlabo.kart22@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Birel ART",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Kid Racer",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "2DRIVE",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://kerlabo-kart.com/"
+  ],
+  "note": "Fleet models inferred from website image labels only."
+ },
+ {
+  "id": "way/1528560674",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.bretagne-karting.bzh/",
+  "websites": [
+   {
+    "url": "https://www.bretagne-karting.bzh/",
+    "role": "rental",
+    "name": "Bretagne Karting"
+   }
+  ],
+  "phone": "+33 2 98 94 25 09",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.bretagne-karting.bzh/"
+  ],
+  "note": "Also adapted karts for reduced mobility, and paintball."
+ },
+ {
+  "id": "node/12595478788",
+  "name": "BattleKart Rennes (FunLab)",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/",
+    "role": "rental",
+    "name": "BattleKart"
+   }
+  ],
+  "phone": "+33 2 59 16 13 05",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://unidivers.fr/battlekart-meziere-rennes/",
+   "https://www.citizenkid.com/sortie/battlekart-rennes-a1070915"
+  ],
+  "note": "Augmented-reality electric karting in FunLab leisure complex, opened 2025; OSM tags it outdoor."
+ },
+ {
+  "id": "way/34179469",
+  "name": null,
+  "type": null,
+  "website": "https://www.gp-circuit.fr/",
+  "websites": [
+   {
+    "url": "https://www.gp-circuit.fr/",
+    "role": "venue",
+    "name": "GP Circuit"
+   }
+  ],
+  "phone": "+33 2 96 50 09 09",
+  "email": "contact@gp-circuit.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": "30",
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://www.gp-circuit.fr/",
+   "https://www.yumping.com/en/karting/gp-circuit--e19629430"
+  ],
+  "note": "Public rental without reservation plus 'Racing' karts; site has a kart-owner section and competition karting."
+ },
+ {
+  "id": "relation/5927801",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No track found at these coordinates; GP Circuit Lamballe (way/34179469) is ~4 km away."
+ },
+ {
+  "id": "way/203778623",
+  "name": "Circuit de Karting de Lohéac (Clos d'Ahaut)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/es-MX/parques-tematicos/hmc-loheac--e19689524",
+   "https://www.ffsakarting.org/medias/fr/2021-10-03-championnat-de-france-loheac-france/Dossier de presentation/5 FFSA_Karting_2021_Dossier_Presentation_Lohéac.pdf"
+  ],
+  "note": "Karting run by HMC Lohéac next to the Lohéac circuit; has hosted French championships; mapped 2141 m length may be the car circuit."
+ },
+ {
+  "id": "way/46804813",
+  "name": null,
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.dinardemeraudetourisme.com/en/fiche/karting-cap-malo-5FS0001T"
+  ],
+  "note": "Indoor 650 m track at Cap Malo; sources give conflicting phone numbers (02 99 133 133 / 02 99 13 35 00)."
+ },
+ {
+  "id": "way/178180850",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found near Milizac-Guipronvel."
+ },
+ {
+  "id": "way/46810016",
+  "name": "Royal Kart",
+  "type": "indoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 2 99 66 42 59",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://www.citizenkid.com/sortie/royal-kart-rennes-a1014863",
+   "https://www.yumping.com/en/karting/royal-kart--e19629415"
+  ],
+  "note": "Royal Kart in ZA Montgervalaise, La Mézière likely matches; royalkart.com domain is now parked, so it may be closed."
+ },
+ {
+  "id": "way/1528576088",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kart56.com/",
+  "websites": [
+   {
+    "url": "https://www.kart56.com/",
+    "role": "rental",
+    "name": "Kart56"
+   }
+  ],
+  "phone": "+33 2 97 56 71 71",
+  "email": "info@kart56.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kart56.com/"
+  ],
+  "note": "All karts run on bioethanol."
+ },
+ {
+  "id": "way/1528558823",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartouest29.fr/",
+  "websites": [
+   {
+    "url": "https://www.kartouest29.fr/",
+    "role": "rental",
+    "name": "KartOuest"
+   }
+  ],
+  "phone": "+33 2 98 89 34 40",
+  "email": "kartouestploumoguer@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartouest29.fr/",
+   "https://www.brest-metropole-tourisme.fr/en/activite/kart-ouest/"
+  ],
+  "note": "Own karts allowed Sunday mornings on reserved slots."
+ },
+ {
+  "id": "way/681911933",
+  "name": "Kart Center Pluméliau",
+  "type": "outdoor",
+  "website": "https://www.kartcenter56.fr/",
+  "websites": [
+   {
+    "url": "https://www.kartcenter56.fr/",
+    "role": "rental",
+    "name": "Kart Center 56"
+   }
+  ],
+  "phone": "+33 2 97 51 98 11",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax 2-stroke",
+    "hp": "22",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartcenter56.fr/"
+  ],
+  "note": "Also motorbike free-riding sessions and paintball."
+ },
+ {
+  "id": "way/394191346",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found in Poullaouen."
+ },
+ {
+  "id": "way/1079270728",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 6 77 27 75 80",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://uk.hotels.com/tgp/lodging/979109090116861952/karting-s-passion"
+  ],
+  "note": "Only aggregator listings found."
+ },
+ {
+  "id": "way/886473998",
+  "name": "Kart'Expo",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 2 99 05 96 05",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.citizenkid.com/sortie/kartexpo-rennes-a1057888",
+   "https://fr.mappy.com/poi/5beb60a80351d130e656dcb7"
+  ],
+  "note": "Same venue as node/8215361954 (Bruz/Saint-Jacques border) - likely duplicate."
+ },
+ {
+  "id": "way/1528584088",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.karting-saint-malo.com/",
+  "websites": [
+   {
+    "url": "https://www.karting-saint-malo.com/",
+    "role": "rental",
+    "name": "Karting Saint-Malo"
+   }
+  ],
+  "phone": "+33 2 99 89 16 88",
+  "email": "contact@ksm.bzh",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.karting-saint-malo.com/"
+  ],
+  "note": "900 m outdoor track with 45 karts."
+ },
+ {
+  "id": "way/969613966",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found near Saint-Armel/Sarzeau."
+ },
+ {
+  "id": "node/1700260286",
+  "name": "SpeedPark Vannes",
+  "type": "indoor",
+  "website": "https://www.karting-bowling.fr/",
+  "websites": [
+   {
+    "url": "https://www.karting-bowling.fr/",
+    "role": "rental",
+    "name": "SpeedPark Vannes"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.lejournaldesentreprises.com/article/speedpark-bowling-karting-laser-en-piste-vannes-79639",
+   "https://speedpark.fr/"
+  ],
+  "note": "Indoor first-floor kart track in leisure complex (Parc Lann); OSM tags it outdoor."
+ },
+ {
+  "id": "way/778707537",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found in Étrelles."
+ },
+ {
+  "id": "way/617063147",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.la-mairie.com/arthon/sport"
+  ],
+  "note": "Town site lists a bitumen karting circuit at La Petite Vau; no operator details."
+ },
+ {
+  "id": "node/12648080502",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartingdechartres.fr/",
+  "websites": [
+   {
+    "url": "https://www.kartingdechartres.fr/",
+    "role": "rental",
+    "name": "Karting de Chartres"
+   }
+  ],
+  "phone": "+33 2 37 28 70 07",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.kartingdechartres.fr/",
+   "https://acceslibre.beta.gouv.fr/app/28-chartres/a/circuit-sportif-deux-roues-voiture/erp/karting-de-chartres/"
+  ],
+  "note": "Indoor electric Sodikart venue; OSM tags it outdoor."
+ }
+]

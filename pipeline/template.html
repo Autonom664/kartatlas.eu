@@ -1,0 +1,760 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kart Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: full-height app, map canvas left, filter + track list rail right; stacks on phones */
+:root {
+  --bg: #f3f4f2; --panel: #ffffff; --fg: #1d2124; --muted: #5d666d; --line: #dadfe0;
+  --land: #e4e7e3; --land-de: #fbfcfa; --border: #b9c0c2; --water: #dfe7ea;
+  --outdoor: #d6460f; --indoor: #1f6fc4; --kids: #8a7a2e; --focus: #1f6fc4;
+  --display: "Barlow Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "Barlow", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #15181a; --panel: #1c2023; --fg: #e8ebec; --muted: #9aa4aa; --line: #2e3438;
+  --land: #23282b; --land-de: #2b3135; --border: #49525a; --water: #171b1e;
+  --outdoor: #ff7a45; --indoor: #5aa6f0; --kids: #c9b45c; --focus: #5aa6f0; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #15181a; --panel: #1c2023; --fg: #e8ebec; --muted: #9aa4aa; --line: #2e3438;
+  --land: #23282b; --land-de: #2b3135; --border: #49525a; --water: #171b1e;
+  --outdoor: #ff7a45; --indoor: #5aa6f0; --kids: #c9b45c; --focus: #5aa6f0; color-scheme: dark }
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { height: 100%; margin: 0; }
+body { background: var(--bg); color: var(--fg); font: 15px/1.45 var(--body); }
+.app { height: 100%; display: grid; grid-template-columns: minmax(0, 1fr) 380px; grid-template-rows: auto minmax(0, 1fr); }
+header { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 20px; padding: 14px 20px 12px; border-bottom: 1px solid var(--line); background: var(--panel); position: relative; }
+header::after { content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 4px;
+  background: repeating-conic-gradient(var(--fg) 0 25%, transparent 0 50%) 0 0 / 8px 8px; opacity: .85; }
+h1 { margin: 0; font: 700 28px/1 var(--display); letter-spacing: .01em; text-transform: uppercase; text-wrap: balance; }
+.sub { color: var(--muted); font-size: 13px; }
+.stats { margin-left: auto; display: flex; gap: 18px; font-family: var(--mono); font-size: 13px; font-variant-numeric: tabular-nums; }
+.stats b { font-weight: 500; font-size: 17px; margin-right: 4px; }
+.mapwrap { position: relative; min-width: 0; min-height: 0; background: var(--water); }
+svg#map { width: 100%; height: 100%; display: block; cursor: grab; touch-action: none; }
+svg#map:active { cursor: grabbing; }
+.country { fill: var(--land); stroke: var(--border); stroke-width: .6; vector-effect: non-scaling-stroke; }
+.country.on { fill: var(--land-de); stroke: var(--muted); stroke-width: 1.1; }
+.clabel { fill: var(--muted); font: 600 13px var(--display); text-transform: uppercase; letter-spacing: .1em; opacity: .6; pointer-events: none; text-anchor: middle; }
+.dot { stroke: var(--panel); cursor: pointer; }
+.dot.outdoor { fill: var(--outdoor); } .dot.indoor { fill: var(--indoor); } .dot.kids { fill: var(--kids); }
+.dot.sel { stroke: var(--fg); }
+.zoomctl { position: absolute; right: 12px; top: 12px; display: flex; flex-direction: column; gap: 4px; }
+.zoomctl button, .chip, .sortbtn { font: 600 14px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
+.zoomctl button { width: 34px; height: 34px; font-size: 18px; line-height: 1; }
+button:focus-visible, input:focus-visible, .item:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.tip { position: absolute; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 9px; font-size: 13px; box-shadow: 0 4px 14px rgb(0 0 0 / .15); max-width: 240px; }
+.tip b { display: block; }
+.tip span { color: var(--muted); }
+aside { background: var(--panel); border-left: 1px solid var(--line); display: flex; flex-direction: column; min-height: 0; min-width: 0; }
+.controls { padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; border-bottom: 1px solid var(--line); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 7px; padding: 5px 10px; font-size: 13px; font-weight: 500; }
+.chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+.chip[aria-pressed="false"] { opacity: .45; }
+.chip[aria-pressed="false"] i { background: transparent !important; outline: 1.5px solid var(--muted) !important; }
+.chip .n { font-family: var(--mono); color: var(--muted); font-size: 12px; }
+input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); font: 15px var(--body); }
+.sortrow { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.sortbtn { padding: 3px 8px; font-size: 12px; font-weight: 500; text-transform: none; letter-spacing: 0; }
+.sortbtn[aria-pressed="true"] { background: var(--fg); color: var(--panel); border-color: var(--fg); }
+.detail { padding: 14px 16px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 6px; position: relative; flex: 1 1 auto; min-height: 0; overflow-y: auto; box-shadow: 0 6px 10px -8px rgb(0 0 0 / .35); }
+.detail > *, .tabpane > * { flex-shrink: 0; min-width: 0; }
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin-top: 4px; position: sticky; top: 30px; z-index: 2; background: var(--panel); }
+.tab { font: 600 13px var(--body); color: var(--muted); background: none; border: 0; border-bottom: 2px solid transparent; padding: 6px 10px; cursor: pointer; margin-bottom: -1px; }
+.tab[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--fg); }
+.tab:hover { color: var(--fg); }
+.tabpane { display: flex; flex-direction: column; gap: 8px; padding-top: 6px; }
+.tabpane .note { margin: 0; }
+.detail .dhead { position: sticky; top: -14px; z-index: 3; display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: -14px -16px 0; padding: 10px 16px 6px; background: var(--panel); }
+.detail .closebtn { flex-shrink: 0; font: 600 13px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 5px 12px; cursor: pointer; }
+.detail .closebtn:hover { background: var(--bg); }
+@media (max-width: 820px) { .detail { max-height: none; } }
+.detail h2 { margin: 0; font: 700 22px/1.1 var(--display); text-wrap: balance; }
+.detail .kind { font: 600 11px var(--body); text-transform: uppercase; letter-spacing: .08em; }
+.facts { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 3px 12px; font-size: 13px; margin: 4px 0 0; }
+.facts dt { color: var(--muted); } .facts dd { margin: 0; overflow-wrap: anywhere; }
+.facts dd.num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.layout { margin: 4px 0 2px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); }
+.layout svg { display: block; width: 100%; height: auto; }
+.layout .trk { fill: none; stroke: var(--fg); stroke-width: 4.5; stroke-linejoin: round; stroke-linecap: round; }
+.layout .trk-in { fill: none; stroke: var(--bg); stroke-width: 1.2; stroke-dasharray: 5 6; stroke-linejoin: round; }
+.layout .bar { stroke: var(--muted); stroke-width: 1.5; }
+.layout text { fill: var(--muted); font: 11px var(--mono); }
+.layout .cap { display: block; padding: 4px 8px 6px; font-size: 11px; color: var(--muted); }
+.detail .note { font-size: 12px; color: var(--muted); font-style: italic; }
+.selrow { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
+.selrow label { display: flex; flex-direction: column; gap: 2px; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; min-width: 0; }
+.selrow select { font: 13px var(--body); color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 4px; min-width: 0; text-transform: none; letter-spacing: 0; }
+.selrow select.active, input#q.active { border-color: var(--fg); box-shadow: inset 0 0 0 1px var(--fg); }
+.searchrow { display: flex; gap: 6px; }
+.searchrow input { flex: 1; min-width: 0; }
+.resetbtn { font: 600 13px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 0 10px; cursor: pointer; white-space: nowrap; }
+.resetbtn:disabled { opacity: .4; cursor: default; }
+.fleet { width: 100%; border-collapse: collapse; font-size: 12.5px; margin-top: 2px; }
+.fleet caption { text-align: left; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; padding-bottom: 3px; }
+.fleet th { text-align: left; font-weight: 600; color: var(--muted); border-bottom: 1px solid var(--line); padding: 3px 6px 3px 0; }
+.fleet td { border-bottom: 1px solid var(--line); padding: 4px 6px 4px 0; vertical-align: top; }
+.fleet td.num { font-family: var(--mono); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.fleetwrap { overflow-x: auto; }
+.more summary { cursor: pointer; font-size: 12px; color: var(--indoor); padding: 4px 0; }
+.pills { display: flex; flex-wrap: wrap; gap: 5px; }
+.pill { font-size: 11.5px; font-weight: 600; border-radius: 999px; padding: 1px 8px; border: 1px solid var(--line); }
+.pill.yes { border-color: var(--fg); }
+.pill.no { color: var(--muted); text-decoration: line-through; }
+.pill.closed { background: var(--fg); color: var(--panel); border-color: var(--fg); }
+.dot.closed { opacity: .35; }
+.fees { font-size: 12.5px; border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; background: var(--bg); }
+.fees-h { display: block; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 2px; }
+.fees ul { margin: 0; padding-left: 16px; display: flex; flex-direction: column; gap: 2px; }
+.lay-tag { font-family: var(--mono); font-size: 10px; color: var(--muted); border: 1px solid var(--line); border-radius: 3px; padding: 0 3px; margin-left: 4px; }
+.links { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; margin-top: 4px; }
+.links a { color: var(--indoor); }
+.list { overflow-y: auto; flex: 1; min-height: 0; }
+.item { display: grid; grid-template-columns: 10px minmax(0, 1fr) auto; gap: 2px 10px; align-items: baseline; padding: 9px 16px; border-bottom: 1px solid var(--line); cursor: pointer; }
+.item:hover { background: var(--bg); }
+.item.sel { background: var(--bg); box-shadow: inset 3px 0 0 var(--fg); }
+.item i { width: 9px; height: 9px; border-radius: 50%; align-self: center; }
+.item .nm { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.item .nm.unnamed { font-weight: 400; color: var(--muted); font-style: italic; }
+.item .km { font-family: var(--mono); font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.item .loc { grid-column: 2 / 4; font-size: 12px; color: var(--muted); }
+.foot { padding: 10px 16px; font-size: 11.5px; color: var(--muted); border-top: 1px solid var(--line); }
+.foot a { color: inherit; }
+@media (max-width: 820px) {
+  .app { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto 55vh auto; height: auto; }
+  html, body { height: auto; }
+  aside { border-left: 0; border-top: 1px solid var(--line); }
+  .list { max-height: 60vh; }
+  .stats { margin-left: 0; }
+  header { padding-inline: 16px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+.controls { max-height: 48vh; overflow-y: auto; }
+.sortrow { flex-wrap: wrap; }
+.intentrow, .locationrow, .viewrow { display: flex; gap: 6px; flex-wrap: wrap; }
+.intentrow button, .locationrow button, .viewrow button { min-height: 44px; }
+.intentrow button[aria-pressed="true"], .viewrow button[aria-pressed="true"] { background: var(--fg); color: var(--panel); }
+.locationrow input { flex: 1; min-width: 120px; padding: 8px; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 6px; }
+.locationrow select { background: var(--bg); color: var(--fg); padding: 8px; }
+.status { font-size: 12px; color: var(--muted); }
+.session { grid-column: 2 / 4; font-size: 13px; }
+.mobile-nav { display: none; }
+details > summary { cursor: pointer; padding: 8px 0; }
+@media (max-width: 820px) {
+  .app { grid-template-rows: auto auto minmax(0, 1fr); height: 100dvh; overflow: hidden; }
+  .mobile-nav { display: flex; grid-column: 1 / -1; padding: 8px 16px; background: var(--panel); }
+  .mapwrap { grid-row: 3; grid-column: 1; }
+  aside { grid-row: 3; grid-column: 1; overflow: hidden; }
+  .app[data-view="list"] .mapwrap { visibility: hidden; }
+  .app[data-view="map"] aside { visibility: hidden; }
+  .app[data-view="map"][data-detail="true"] aside { visibility: visible; align-self: end; max-height: 75dvh; z-index: 4; border-radius: 12px 12px 0 0; }
+  .app[data-view="map"][data-detail="true"] .controls, .app[data-view="map"][data-detail="true"] .foot { display: none; }
+  .controls { max-height: 45dvh; flex-shrink: 0; }
+  .detail { max-height: none; }
+  .list { max-height: none; }
+  .chip, .sortbtn, .tab { min-height: 44px; }
+  .zoomctl { top: 8px; }
+}
+</style>
+
+<div class="app" data-view="list" data-detail="false">
+  <header>
+    <h1>Kart Atlas</h1>
+    <span class="sub"><span id="covered"></span> · every kart venue in OpenStreetMap</span>
+    <div class="stats" id="stats"></div>
+  </header>
+  <nav class="mobile-nav viewrow" aria-label="Display mode">
+    <button class="chip" data-view="list" aria-pressed="true">List</button>
+    <button class="chip" data-view="map" aria-pressed="false">Map</button>
+  </nav>
+  <div class="mapwrap" id="mapwrap">
+    <svg id="map" role="img" aria-label="Map of go-kart tracks"></svg>
+    <div class="zoomctl">
+      <button id="zin" aria-label="Zoom in">+</button>
+      <button id="zout" aria-label="Zoom out">−</button>
+      <button id="zreset" aria-label="Reset view" style="font-size:13px">⤢</button>
+      <button id="area" aria-label="Search this map area" style="width:auto;font-size:13px;padding:8px">Search this area</button>
+    </div>
+    <div class="tip" id="tip" hidden></div>
+  </div>
+  <aside>
+    <div class="controls">
+      <div class="intentrow" aria-label="What would you like to do?">
+        <button class="chip" data-intent="" aria-pressed="true">Explore all</button>
+        <button class="chip" data-intent="rent" aria-pressed="false">Go karting</button>
+        <button class="chip" data-intent="family" aria-pressed="false">Family outing</button>
+        <button class="chip" data-intent="own" aria-pressed="false">Bring my kart</button>
+        <button class="chip" data-intent="race" aria-pressed="false">Race-kart rental</button>
+        <button class="chip" data-intent="group" aria-pressed="false">Group event</button>
+      </div>
+      <form id="location-form" class="locationrow">
+        <input id="place" list="places" placeholder="Find around an atlas town" aria-label="Atlas town">
+        <datalist id="places"></datalist>
+        <button class="chip" type="submit">Find nearby</button>
+        <button class="chip" id="locate" type="button">Use my location</button>
+        <select id="radius" aria-label="Search radius"><option value="25">25 km</option><option value="50" selected>50 km</option><option value="100">100 km</option><option value="250">250 km</option></select>
+        <button class="chip" id="clear-location" type="button">Clear location / area</button>
+      </form>
+      <span id="location-status" class="status" role="status">Town centres are estimated from mapped venues. Your device location is never put in share links.</span>
+      <div class="searchrow">
+        <input id="q" type="search" placeholder="Search name, town, region or kart…" aria-label="Search tracks">
+        <button id="reset" class="resetbtn" type="button">Reset filters</button>
+      </div>
+      <details id="advanced"><summary>More filters: countries, track types and karts</summary>
+      <div class="chips" id="cchips"></div>
+      <div class="chips" id="chips"></div>
+      <div class="selrow">
+        <label>Driving<select id="f-drive"><option value="">Any</option><option value="rent">Rental karts</option><option value="own">Own karts allowed</option><option value="race">Race karts for rent</option></select></label>
+        <label>Chassis<select id="f-chassis"></select></label>
+        <label>Engine<select id="f-engine"></select></label>
+      </div>
+      </details>
+      <div class="sortrow">Sort
+        <button class="sortbtn" data-sort="n" aria-pressed="true">A–Z</button>
+        <button class="sortbtn" data-sort="cc" aria-pressed="false">Country</button>
+        <button class="sortbtn" data-sort="len" aria-pressed="false">Longest</button>
+        <button class="sortbtn" data-sort="ppm" aria-pressed="false">Cheapest €/min</button>
+        <button class="sortbtn" data-sort="ppl" aria-pressed="false">Cheapest €/lap</button>
+        <button class="sortbtn" data-sort="distance" aria-pressed="false">Nearest</button>
+      </div>
+      <button class="chip" id="share-search" type="button">Copy search link</button>
+      <span id="share-status" class="status" role="status"></span>
+    </div>
+    <div class="detail" id="detail" hidden></div>
+    <div class="list" id="list"></div>
+    <div class="foot">Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, ODbL. Pulled 9 Oct 2026 (tag <code>sport=karting</code>). Region names are in the local language. Lengths are measured from mapped track lines and are approximate. Indoor/outdoor is inferred from tags and names.</div>
+  </aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script>
+const TRACKS = /*TRACKS*/[];
+const COUNTRIES = /*COUNTRIES*/{};
+const WORLD = /*WORLD*/{};
+const RATES = /*RATES*/{};
+const KINDS = {
+  outdoor: { label: "Outdoor circuit" },
+  indoor: { label: "Indoor / hall" },
+  kids: { label: "Kids & other" },
+};
+const state = { on: { outdoor: true, indoor: true, kids: false }, cc: Object.fromEntries(Object.keys(COUNTRIES).map(c => [c, true])), q: "", sort: "n", sel: null, layOnly: false, drive: "", chassis: "", engine: "", closed: false, member: false, tab: "overview", intent: "", origin: null, radius: 50, bounds: null, view: "list", privateViewport: false };
+const CCID = Object.fromEntries(Object.entries(COUNTRIES).map(([c, v]) => [v.id, c]));
+document.getElementById("covered").textContent = Object.values(COUNTRIES).map(c => c.name).join(", ");
+TRACKS.forEach((t, i) => t.id = i);
+const towns = new Map();
+TRACKS.filter(t => t.c).forEach(t => {
+  const label = `${t.c}, ${COUNTRIES[t.cc].name}`;
+  const town = towns.get(label) || { label, lo: 0, la: 0, count: 0 };
+  town.lo += t.lo; town.la += t.la; town.count++;
+  towns.set(label, town);
+});
+towns.forEach(t => { t.lo /= t.count; t.la /= t.count; });
+document.getElementById("places").innerHTML = [...towns.keys()].sort().map(t => `<option value="${esc(t)}"></option>`).join("");
+const distance = t => state.origin ? d3.geoDistance([state.origin.lo, state.origin.la], [t.lo, t.la]) * 6371 : null;
+function matchesIntent(t) {
+  if (!state.intent) return true;
+  if (state.intent === "rent") return t.r === "yes";
+  if (state.intent === "own") return t.ow === "yes";
+  if (state.intent === "race") return (t.K || []).some(m => m[3] === "race") || (t.P || []).some(p => p[1] === "race" && p[11] === "session");
+  if (state.intent === "group") return (t.P || []).some(p => p[11] === "package" && /group|grand.?prix|race|qualif|sprint|rennen|grupp|course|endurance/i.test([p[0], p[13]].filter(Boolean).join(" ")));
+  return (t.K || []).some(m => ["kids", "junior", "twin"].includes(m[3])) || (t.P || []).some(p => ["kids", "junior", "twin"].includes(p[1]));
+}
+
+const svg = d3.select("#map");
+const g = svg.append("g");
+const proj = d3.geoMercator();
+const path = d3.geoPath(proj);
+const countries = topojson.feature(WORLD, WORLD.objects.countries);
+let k = 1;
+const covered = countries.features.filter(f => CCID[f.id]);
+g.append("g").selectAll("path").data(countries.features)
+  .join("path").attr("class", d => "country" + (CCID[d.id] ? " on" : ""));
+const labels = g.append("g").selectAll("text").data(covered.filter(d => CCID[d.id] !== "LI")).join("text").attr("class", "clabel").text(d => COUNTRIES[CCID[d.id]].name);
+const dotsG = g.append("g");
+
+function layout() {
+  const el = document.getElementById("mapwrap");
+  const w = el.clientWidth, h = el.clientHeight;
+  if (w < 80 || h < 80) return;
+  svg.attr("viewBox", `0 0 ${w} ${h}`);
+  const pts = TRACKS.map(t => [t.lo, t.la]);
+  proj.fitExtent([[24, 24], [w - 56, h - 24]], { type: "MultiPoint", coordinates: pts });
+  g.selectAll("path.country").attr("d", path);
+  labels.attr("transform", d => { const m = { DE: [10.3, 51.3], AT: [14.2, 47.6], IT: [12.6, 42.9], CH: [8.0, 46.75], DK: [9.2, 56.15], SE: [15.2, 62.0], FR: [2.5, 46.7], NL: [5.7, 52.45], BE: [4.65, 50.6] }[CCID[d.id]]; return `translate(${m ? proj(m) : path.centroid(d)})`; });
+  drawDots();
+}
+
+function visible() {
+  const q = state.q.trim().toLowerCase();
+  return TRACKS.filter(t => state.on[t.k] && state.cc[t.cc] && (!state.layOnly || t.g) && (state.closed || !t.cl)
+    && matchesIntent(t)
+    && (!state.origin || distance(t) <= state.radius)
+    && (!state.bounds || (t.lo >= state.bounds[0] && t.lo <= state.bounds[2] && t.la >= state.bounds[1] && t.la <= state.bounds[3]))
+    && (!state.drive || (state.drive === "rent" ? t.r === "yes" : state.drive === "race" ? (t.K || []).some(m => m[3] === "race") : t.ow === "yes"))
+    && (!state.chassis || (t.K || []).some(m => m[4] === state.chassis))
+    && (!state.engine || (t.K || []).some(m => m[5] === state.engine))
+    && (!q || [t.n, t.near, t.c, t.st, t.a, ...(t.K || []).map(m => m.slice(0, 2).join(" "))].some(v => v && v.toLowerCase().includes(q))));
+}
+
+function drawDots() {
+  const v = visible();
+  const r = 5.5 / Math.sqrt(k), sw = 1.2 / k;
+  dotsG.selectAll("circle").data(v, d => d.id).join("circle")
+    .attr("class", d => `dot ${d.k}${d.cl ? " closed" : ""}${d.id === state.sel ? " sel" : ""}`)
+    .attr("cx", d => proj([d.lo, d.la])[0]).attr("cy", d => proj([d.lo, d.la])[1])
+    .attr("r", d => d.id === state.sel ? r * 1.6 : r).attr("stroke-width", d => d.id === state.sel ? sw * 2 : sw)
+    .on("mouseenter", (e, d) => showTip(e, d)).on("mousemove", (e, d) => showTip(e, d)).on("mouseleave", hideTip)
+    .on("click", (e, d) => select(d.id, false));
+  dotsG.selectAll("circle.sel").raise();
+  labels.attr("font-size", 13 / Math.sqrt(k)).style("display", k > 4 ? "none" : null);
+}
+
+const tip = document.getElementById("tip");
+function showTip(e, d) {
+  const box = document.getElementById("mapwrap").getBoundingClientRect();
+  tip.innerHTML = `<b></b><span></span>`;
+  tip.querySelector("b").textContent = title(d) + (d.gs != null ? " (guessed name)" : "");
+  tip.querySelector("span").textContent = [d.c, d.cc, d.T ? d.T.map(l => l[1] + ' m').join(' + ') : d.lm ? `≈ ${d.lm} m` : null].filter(Boolean).join(" · ");
+  tip.hidden = false;
+  let x = e.clientX - box.left + 12, y = e.clientY - box.top + 12;
+  if (x + 250 > box.width) x -= 260;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+}
+function hideTip() { tip.hidden = true; }
+
+const zoom = d3.zoom().scaleExtent([1, 40]).on("zoom", e => { if (!isFinite(e.transform.k) || !isFinite(e.transform.x)) return; k = e.transform.k; g.attr("transform", e.transform); drawDots(); });
+svg.call(zoom);
+zoom.on("end.share", () => saveUrl(true));
+document.getElementById("zin").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1.8);
+document.getElementById("zout").onclick = () => svg.transition().duration(250).call(zoom.scaleBy, 1 / 1.8);
+document.getElementById("zreset").onclick = () => { resetMap(); saveUrl(); };
+
+function flyTo(t) {
+  const el = document.getElementById("mapwrap");
+  const [x, y] = proj([t.lo, t.la]);
+  const s = Math.max(k, 6);
+  svg.transition().duration(600).call(zoom.transform, d3.zoomIdentity.translate(el.clientWidth / 2 - x * s, el.clientHeight / 2 - y * s).scale(s));
+}
+
+function closeDetail(updateUrl = true) {
+  if (state.sel == null) return;
+  const id = state.sel;
+  state.sel = null;
+  document.querySelector(".app").dataset.detail = "false";
+  document.getElementById("detail").hidden = true;
+  document.getElementById("list").hidden = false;
+  drawDots(); renderList();
+  const row = document.querySelector(`.item[data-id="${id}"]`);
+  if (row) { row.scrollIntoView({ block: "nearest" }); row.focus({ preventScroll: true }); }
+  if (updateUrl) saveUrl();
+}
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeDetail(); });
+document.getElementById("detail").addEventListener("click", e => { if (e.target.closest("[data-close]")) { e.preventDefault(); e.stopPropagation(); closeDetail(); } });
+document.getElementById("detail").addEventListener("click", e => {
+  const b = e.target.closest("[data-tab]"); if (!b) return;
+  state.tab = b.dataset.tab;
+  document.querySelectorAll("#detail .tab").forEach(x => x.setAttribute("aria-selected", x === b));
+  document.querySelectorAll("#detail .tabpane").forEach(x => x.hidden = x.dataset.pane !== state.tab);
+  saveUrl();
+});
+svg.on("click.close", e => { if (!e.target.closest || !e.target.closest("circle.dot")) closeDetail(); });
+function select(id, fly = true) {
+  state.sel = id;
+  document.querySelector(".app").dataset.detail = "true";
+  const t = TRACKS[id];
+  renderDetail(t);
+  drawDots();
+  renderList();
+  if (fly) flyTo(t);
+  const row = document.querySelector(`.item[data-id="${id}"]`);
+  if (row && !fly) row.scrollIntoView({ block: "nearest" });
+  saveUrl();
+}
+
+function title(t) { return t.n || (t.near ? `Kart track near ${t.near}` : "Unnamed kart track"); }
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function sessionOf(t) {
+  return (t.P || []).filter(p => p[18] && p[2] && (!p[16] || state.member)).sort((a, b) => a[6] - b[6] || a[2] - b[2])[0];
+}
+function sessionSummary(t) {
+  const p = sessionOf(t);
+  if (!p) return "";
+  const fees = (t.F || []).filter(f => f[5]);
+  return `From €${p[6].toFixed(2)} for ${p[2]} min${p[16] ? " (members)" : ""}${p[5] !== "EUR" ? ` (${p[4]} ${p[5]})` : ""}${fees.length ? ` · Known mandatory fees: €${fees.reduce((sum, f) => sum + f[3], 0).toFixed(2)}; see conditions` : ""}`;
+}
+function layoutSvg(t) {
+  if (!t.g) return "";
+  const W = 340, H = 200, pad = 16;
+  const kx = 111320 * Math.cos(t.la * Math.PI / 180), ky = 110540;
+  const lines = t.g.map(l => l.map(p => [(p[1] - t.lo) * kx, -(p[0] - t.la) * ky]));
+  const all = lines.flat();
+  const xs = all.map(p => p[0]), ys = all.map(p => p[1]);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+  const sc = Math.min((W - 2 * pad) / Math.max(x1 - x0, 1), (H - 2 * pad - 14) / Math.max(y1 - y0, 1));
+  const ox = (W - (x1 - x0) * sc) / 2, oy = (H - 14 - (y1 - y0) * sc) / 2;
+  const d = lines.map(l => "M" + l.map(p => `${((p[0] - x0) * sc + ox).toFixed(1)},${((p[1] - y0) * sc + oy).toFixed(1)}`).join("L")).join("");
+  const span = Math.max(x1 - x0, y1 - y0);
+  const bar = [10, 20, 50, 100, 200, 500, 1000].reverse().find(b => b * sc <= W * 0.35) || 10;
+  return `<div class="layout"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Track layout">
+    <path class="trk" d="${d}"></path><path class="trk-in" d="${d}"></path>
+    <line class="bar" x1="${pad}" x2="${pad + bar * sc}" y1="${H - 10}" y2="${H - 10}"></line>
+    <text x="${pad + bar * sc + 6}" y="${H - 6}">${bar} m</text>
+    <text x="${W - pad}" y="${H - 6}" text-anchor="end">N ↑</text></svg>
+    <span class="cap">Layout as drawn in OpenStreetMap. It may include pit lanes or alternative configurations.</span></div>`;
+}
+const ROLE = { rental: "Rental", club: "Club", venue: "Venue", other: "Website" };
+function siteLinks(t, web) {
+  const href = u => /^https?:/i.test(u) ? u : "https://" + u;
+  if (t.ws && t.ws.length) return t.ws.map(([u, role, name]) => `<a href="${esc(href(u))}" target="_blank" rel="noopener">${esc(ROLE[role] || "Website")}${name ? ": " + esc(name) : ""}</a>`).join("");
+  return web ? `<a href="${esc(web)}" target="_blank" rel="noopener">Website</a>` : "";
+}
+function pills(t) {
+  if (!t.r && !t.ow && !t.cl) return "";
+  const p = [];
+  if (t.cl) p.push('<span class="pill closed">Reported closed</span>');
+  if (t.r) p.push(`<span class="pill ${t.r === "yes" ? "yes" : "no"}">Rental karts</span>`);
+  if (t.ow) p.push(`<span class="pill ${t.ow === "yes" ? "yes" : "no"}">Own karts</span>`);
+  if ((t.K || []).some(m => m[3] === "race")) p.push('<span class="pill yes">Race karts for rent</span>');
+  return `<div class="pills">${p.join("")}</div>`;
+}
+function layoutTable(t) {
+  if (!t.T) return "";
+  const src = t.Ts ? `<a href="${esc(t.Ts)}" target="_blank" rel="noopener">venue website</a>` : "venue website";
+  const rows = t.T.slice().sort((a, b) => b[1] - a[1]);
+  const row = l => `<tr><td>${esc(l[0] || "Track")}</td><td class="num">${l[1].toLocaleString("en")} m</td><td class="num">${l[2] ? esc(l[2]) + " m" : "–"}</td><td>${esc(l[3] || "–")}</td></tr>`;
+  const head = '<thead><tr><th>Layout</th><th>Length</th><th>Width</th><th>Use</th></tr></thead>';
+  const more = rows.length > 6 ? `<details class="more"><summary>Show all ${rows.length} layouts (${rows[rows.length - 1][1]}–${rows[0][1].toLocaleString("en")} m)</summary><table class="fleet">${head}<tbody>${rows.slice(6).map(row).join("")}</tbody></table></details>` : "";
+  return `<div class="fleetwrap"><table class="fleet"><caption>Track layouts</caption>
+    ${head}<tbody>
+    ${rows.slice(0, 6).map(l => `<tr><td>${esc(l[0] || "Track")}</td><td class="num">${l[1].toLocaleString("en")} m</td><td class="num">${l[2] ? esc(l[2]) + " m" : "–"}</td><td>${esc(l[3] || "–")}</td></tr>`).join("")}
+    </tbody></table>${more}<span class="note">Lengths from the ${src}.${t.Tn ? " " + esc(t.Tn) : ""}</span></div>`;
+}
+function feeLine(t) {
+  if (!t.F && !t.mem) return "";
+  const eur = v => "€" + (v >= 100 ? Math.round(v) : v.toFixed(2));
+  const items = (t.F || []).map(f => `<li><b>${esc(f[0] || "Fee")}</b>: ${f[3] ? eur(f[3]) : "free"}${f[2] !== "EUR" ? ` (${esc(f[1] + " " + f[2])})` : ""}${f[4] ? " " + esc(f[4]) : ""}${f[5] ? ' <span class="lay-tag">mandatory</span>' : ' <span class="lay-tag">optional</span>'}${f[6] ? ` <span class="note">${esc(f[6])}</span>` : ""}</li>`);
+  if (t.mem && !(t.F || []).some(f => /member|medlem|club|klub/i.test(f[0] || ""))) items.unshift(`<li><b>Club membership</b>: ${esc(t.mem)} <span class="lay-tag">for member prices</span></li>`);
+  return `<div class="fees"><span class="fees-h">Extra fees on top of the driving price</span><ul>${items.join("")}</ul></div>`;
+}
+function priceTable(t) {
+  if (!t.P) return feeLine(t);
+  const eur = v => "€" + (v >= 100 ? Math.round(v) : v.toFixed(2));
+  const age = x => [x[8] != null ? x[8] + "+" : "", x[9] != null ? "≤" + x[9] : "", x[10] ? x[10] + " cm" : ""].filter(Boolean).join(" ") || "–";
+  const what = x => x[11] === "package" || x[14] ? "Package or group offer" + (x[2] ? " · " + x[2] + " min" : "") : [x[2] ? x[2] + " min" : "", x[3] ? x[3] + " laps" : ""].filter(Boolean).join(" / ") || "Session";
+  const rows = t.P.map(x => `<tr><td>${esc(x[0] || x[1] || "Kart")} <span class="lay-tag">${esc(x[1] || "unclassified")}</span>${x[16] ? ' <span class="lay-tag" title="Only for members; membership required">members</span>' : ""}${!x[18] ? ' <span class="lay-tag" title="Not a standard adult rental comparison">not compared</span>' : ""}${x[12] ? ` <span class="lay-tag">${esc(x[12])}</span>` : ""}${x[13] ? `<br><span class="note">${esc(x[13])}</span>` : ""}</td>
+    <td>${esc(what(x))}</td><td class="num" title="${esc(x[4] + " " + x[5])}">${eur(x[6])}${x[5] !== "EUR" ? `<br><span class="note">${esc(x[4] + " " + x[5])}</span>` : ""}</td>
+    <td class="num">${x[7] ? eur(x[7]) : "–"}</td><td class="num">${x[15] ? eur(x[15]) : "–"}</td><td>${esc(age(x))}</td></tr>`).join("");
+  const src = t.Ps ? `<a href="${esc(t.Ps)}" target="_blank" rel="noopener">venue website</a>` : "venue website";
+  return `${feeLine(t)}<div class="fleetwrap"><table class="fleet"><caption>Prices by kart class: standard adult, performance/race, junior and packages</caption>
+    <thead><tr><th>Kart</th><th>What you get</th><th>Price</th><th>€/min</th><th>€/lap</th><th>Age / height</th></tr></thead><tbody>${rows}</tbody></table>
+    <span class="note">Prices from the ${src} as listed when checked. Other currencies converted to EUR at ECB rates of ${esc(RATES.date || "the build date")}. Member prices are shown with a "members" tag and only count in comparisons when "Include member prices" is on. The €/min and €/lap used for comparing venues are the cheapest standard adult prices: plain single driving sessions with stated minutes or laps, excluding kids' karts, special or day-limited offers, packages, blocks, group races and offers with meals, drinks or medals.${t.Pn ? " " + esc(t.Pn) : ""}</span></div>`;
+}
+function fleetTable(t) {
+  if (!t.K || !t.K.length) return "";
+  return `<div class="fleetwrap"><table class="fleet"><caption>Rental fleet</caption>
+    <thead><tr><th>Kart</th><th>Engine</th><th>hp</th><th>Class</th></tr></thead><tbody>
+    ${t.K.map(m => `<tr><td>${esc(m[0] || "–")}</td><td>${esc(m[1] || "–")}</td><td class="num">${esc(m[2] || "–")}</td><td>${esc(m[3] || "–")}</td></tr>`).join("")}
+    </tbody></table></div>`;
+}
+function renderDetail(t) {
+  const el = document.getElementById("detail");
+  const facts = [
+    ["Town", t.c], ["Region", t.st], ["Country", COUNTRIES[t.cc].name], ["Address", t.a],
+    ["Phone", t.p], ["Email", t.e], ["Hours", t.h],
+  ].filter(f => f && f[1]);
+  const web = t.w ? (/^https?:/i.test(t.w) ? t.w : "https://" + t.w) : null;
+  const [typ, oid] = t.o.split("/");
+  const trackLen = t.T ? t.T.slice().sort((a, b) => b[1] - a[1]).map(l => l[1].toLocaleString("en") + " m").join(" · ")
+    : t.lm ? `≈ ${t.lm.toLocaleString("en")} m (from the map)` : null;
+  const realK = (t.K || []).filter(m => m[0] || m[1] || m[2]);
+  const karts = realK.length ? fleetTable({ ...t, K: realK }) : "";
+  const classesOnly = !realK.length && t.K && t.K.length ? [...new Set(t.K.map(m => m[3]).filter(Boolean))].join(", ") : "";
+  const ov = `
+    ${sessionSummary(t) ? `<p>${esc(sessionSummary(t))}</p><p class="note">Session cost and lowest €/min may refer to different sessions. Fees shown are known fees, not a guaranteed complete first-visit total.</p>` : ""}
+    ${t.note ? `<p class="note">${esc(t.note)}</p>` : ""}
+    <dl class="facts">${trackLen ? `<dt>Track</dt><dd class="num">${esc(trackLen)}</dd>` : ""}${t.ppm ? `<dt>From</dt><dd class="num">€${t.ppm.toFixed(2)}/min (adult)</dd>` : ""}${classesOnly ? `<dt>Rental karts</dt><dd>${esc(classesOnly)} (models not stated)</dd>` : ""}${facts.map(f => `<dt>${f[0]}</dt><dd>${esc(f[1])}</dd>`).join("")}</dl>
+    <div class="links">
+      ${siteLinks(t, web)}
+      <a href="https://www.google.com/maps/search/?api=1&query=${t.la},${t.lo}" target="_blank" rel="noopener">Google Maps</a>
+      <a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>
+      ${(t.src || []).map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">Source ${i + 1}</a>`).join("")}
+    </div>`;
+  const track = (t.g || t.T || t.lm) ? `${layoutTable(t)}${layoutSvg(t)}${!t.T && t.lm ? `<p class="note">≈ ${t.lm.toLocaleString("en")} m measured from the map. May include several layouts or pit lanes. The venue does not publish a length.</p>` : ""}` : "";
+  const prices = t.P || t.F || t.mem ? priceTable(t) : "";
+  const tabs = [["overview", "Overview", ov], ["track", "Track", track], ["karts", "Karts", karts], ["prices", "Prices", prices]].filter(x => x[2]);
+  if (!tabs.some(x => x[0] === state.tab)) state.tab = "overview";
+  el.innerHTML = `<div class="dhead"><span class="kind" style="color:var(--${t.k})">${KINDS[t.k].label}${t.club ? " · club track" : ""}</span>
+    <button class="closebtn" type="button" data-close="1" aria-label="Close track details">✕ Close</button></div>
+    <h2>${esc(title(t))}</h2>
+    ${t.gs != null ? `<span class="note">Name guessed from a venue mapped ${t.gs} m away in OpenStreetMap. The track itself has no name there.</span>` : ""}
+    ${!t.n ? `<span class="note">No name in OpenStreetMap. Named after the nearest place.</span>` : ""}
+    ${pills(t)}
+    <button class="chip" type="button" data-share-venue>Copy venue link</button>
+    <span data-share-status class="status" role="status"></span>
+    <div class="tabs" role="tablist">${tabs.map(x => `<button type="button" role="tab" class="tab" data-tab="${x[0]}" aria-selected="${x[0] === state.tab}">${x[1]}</button>`).join("")}</div>
+    ${tabs.map(x => `<div class="tabpane" role="tabpanel" data-pane="${x[0]}"${x[0] === state.tab ? "" : " hidden"}>${x[2]}</div>`).join("")}`;
+  el.hidden = false;
+  el.scrollTop = 0;
+  document.getElementById("list").hidden = true;
+}
+
+function renderList() {
+  const v = visible().slice();
+  const s = state.sort;
+  const byName = (a, b) => (a.n ? 0 : 1) - (b.n ? 0 : 1) || title(a).localeCompare(title(b), "de");
+  v.sort((a, b) => s === "distance" ? (distance(a) ?? Infinity) - (distance(b) ?? Infinity) || byName(a, b) : s === "ppl" ? (pplOf(a) ?? 1e9) - (pplOf(b) ?? 1e9) || byName(a, b) : s === "ppm" ? (ppmOf(a) ?? 1e9) - (ppmOf(b) ?? 1e9) || byName(a, b) : s === "len" ? (b.len || 0) - (a.len || 0) || byName(a, b)
+    : s === "cc" ? COUNTRIES[a.cc].name.localeCompare(COUNTRIES[b.cc].name) || (a.st || "").localeCompare(b.st || "", "de") || byName(a, b)
+    : (a.n ? 0 : 1) - (b.n ? 0 : 1) || title(a).localeCompare(title(b), "de"));
+  const list = document.getElementById("list");
+  list.innerHTML = v.map(t => `<div class="item${t.id === state.sel ? " sel" : ""}" tabindex="0" role="button" data-id="${t.id}">
+    <i style="background:var(--${t.k})"></i>
+    <span class="nm${t.n ? "" : " unnamed"}">${esc(title(t))}${t.gs != null ? '<span class="lay-tag" title="Name guessed from a nearby venue">guess</span>' : ""}${t.g ? '<span class="lay-tag" title="Layout available">layout</span>' : ""}${t.r === "yes" ? '<span class="lay-tag" title="Rental karts">rental</span>' : ""}${t.ppm ? `<span class="lay-tag" title="Cheapest public adult price per minute">€${t.ppm.toFixed(2)}/min</span>` : ""}${t.ppl ? `<span class="lay-tag" title="Cheapest public adult price per lap">€${t.ppl.toFixed(2)}/lap</span>` : ""}${state.member && t.ppmM ? `<span class="lay-tag" title="Member price per minute; membership required">members €${t.ppmM.toFixed(2)}/min</span>` : ""}${t.cl ? '<span class="lay-tag" title="Reported closed">closed</span>' : ""}</span>
+    <span class="km">${s === "ppl" && pplOf(t) ? "€" + pplOf(t).toFixed(2) + "/lap" + (pplOf(t) !== t.ppl ? "*" : "") : s === "ppm" && ppmOf(t) ? "€" + ppmOf(t).toFixed(2) + "/min" + (ppmOf(t) !== t.ppm ? "*" : "") : t.T ? t.T.map(l => l[1]).join(" / ") + " m" : t.lm ? "≈ " + t.lm + " m" : ""}</span>
+    <span class="loc">${esc([t.c, t.st, t.cc].filter(Boolean).join(", "))}${distance(t) != null ? ` · ${distance(t).toFixed(1)} km straight-line` : ""}</span>
+    ${sessionSummary(t) ? `<span class="session">${esc(sessionSummary(t))}</span>` : ""}</div>`).join("")
+    || `<div class="item"><span></span><span class="loc">No tracks match these filters. Use Reset filters to start over.</span></div>`;
+  const c = { outdoor: 0, indoor: 0 };
+  v.forEach(t => { if (t.k in c) c[t.k]++; });
+  document.getElementById("stats").innerHTML =
+    `<span><b>${v.length}</b>shown</span><span><b>${c.outdoor}</b>outdoor</span><span><b>${c.indoor}</b>indoor</span>`;
+}
+document.getElementById("list").addEventListener("click", e => { const it = e.target.closest(".item[data-id]"); if (it) select(+it.dataset.id); });
+document.getElementById("list").addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { const it = e.target.closest(".item[data-id]"); if (it) { e.preventDefault(); select(+it.dataset.id); } } });
+
+const cchips = document.getElementById("cchips");
+Object.entries(COUNTRIES).forEach(([cc, cv]) => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "cchip-" + cc;
+  b.setAttribute("aria-pressed", true);
+  b.innerHTML = `<i style="background:var(--fg)"></i>${cv.name} <span class="n">${TRACKS.filter(t => t.cc === cc && t.k !== "kids").length}</span>`;
+  b.onclick = () => { state.cc[cc] = !state.cc[cc]; b.setAttribute("aria-pressed", state.cc[cc]); refresh(); };
+  cchips.appendChild(b);
+});
+const chips = document.getElementById("chips");
+{
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "chip-layout"; b.setAttribute("aria-pressed", false);
+  b.innerHTML = `<i style="background:transparent;outline:1.5px solid var(--fg)"></i>Only with layout <span class="n">${TRACKS.filter(t => t.g).length}</span>`;
+  b.onclick = () => { state.layOnly = !state.layOnly; b.setAttribute("aria-pressed", state.layOnly); refresh(); };
+  setTimeout(() => chips.appendChild(b));
+}
+Object.entries(KINDS).forEach(([key, kd]) => {
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "chip-" + key;
+  b.setAttribute("aria-pressed", state.on[key]);
+  b.innerHTML = `<i style="background:var(--${key})"></i>${kd.label} <span class="n">${TRACKS.filter(t => t.k === key).length}</span>`;
+  b.onclick = () => { state.on[key] = !state.on[key]; b.setAttribute("aria-pressed", state.on[key]); refresh(); };
+  chips.appendChild(b);
+});
+{
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "chip-member"; b.setAttribute("aria-pressed", false);
+  b.title = "Use club/member prices (membership required) in €/min and €/lap";
+  b.innerHTML = `<i style="background:transparent;outline:1.5px solid var(--fg)"></i>Include member prices <span class="n">${TRACKS.filter(t => t.ppmM || t.pplM).length}</span>`;
+  b.onclick = () => { state.member = !state.member; b.setAttribute("aria-pressed", state.member); refresh(); };
+  setTimeout(() => chips.appendChild(b));
+}
+const ppmOf = t => state.member && t.ppmM ? t.ppmM : t.ppm;
+const pplOf = t => state.member && t.pplM ? t.pplM : t.ppl;
+if (TRACKS.some(t => t.cl)) {
+  const b = document.createElement("button");
+  b.className = "chip"; b.id = "chip-closed"; b.setAttribute("aria-pressed", false);
+  b.innerHTML = `<i style="background:var(--muted)"></i>Show closed <span class="n">${TRACKS.filter(t => t.cl).length}</span>`;
+  b.onclick = () => { state.closed = !state.closed; b.setAttribute("aria-pressed", state.closed); refresh(); };
+  setTimeout(() => chips.appendChild(b));
+}
+function fillSelect(id, idx, label) {
+  const cnt = {};
+  TRACKS.forEach(t => new Set((t.K || []).map(m => m[idx]).filter(Boolean)).forEach(v => cnt[v] = (cnt[v] || 0) + 1));
+  const el = document.getElementById(id);
+  el.innerHTML = `<option value="">Any ${label}</option>` + Object.entries(cnt).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([v, n]) => `<option value="${esc(v)}">${esc(v)} (${n})</option>`).join("");
+}
+fillSelect("f-chassis", 4, "chassis");
+fillSelect("f-engine", 5, "engine");
+const snap = () => JSON.stringify({ on: state.on, cc: state.cc, q: state.q, layOnly: state.layOnly, drive: state.drive, chassis: state.chassis, engine: state.engine, closed: state.closed, member: state.member, intent: state.intent, origin: state.origin, radius: state.radius, bounds: state.bounds, sort: state.sort });
+const DEFAULTS = snap();
+function refresh(replaceUrl = false) {
+  if (state.sel != null) closeDetail(false);
+  drawDots(); renderList();
+  syncControls();
+  saveUrl(replaceUrl);
+  document.getElementById("reset").disabled = snap() === DEFAULTS;
+  [["f-drive", state.drive], ["f-chassis", state.chassis], ["f-engine", state.engine]].forEach(([id, v]) => document.getElementById(id).classList.toggle("active", !!v));
+  document.getElementById("q").classList.toggle("active", !!state.q);
+}
+[["f-drive", "drive"], ["f-chassis", "chassis"], ["f-engine", "engine"]].forEach(([id, key]) =>
+  document.getElementById(id).addEventListener("change", e => { state[key] = e.target.value; refresh(); }));
+document.getElementById("reset").onclick = () => {
+  Object.assign(state, JSON.parse(DEFAULTS));
+  resetMap();
+  document.getElementById("q").value = "";
+  ["f-drive", "f-chassis", "f-engine"].forEach(id => document.getElementById(id).value = "");
+  document.querySelectorAll("#cchips .chip").forEach(b => b.setAttribute("aria-pressed", true));
+  Object.keys(KINDS).forEach(key => document.getElementById("chip-" + key).setAttribute("aria-pressed", state.on[key]));
+  ["chip-layout", "chip-closed", "chip-member"].forEach(id => { const b = document.getElementById(id); if (b) b.setAttribute("aria-pressed", false); });
+  refresh();
+};
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; refresh(true); });
+document.querySelectorAll(".sortbtn").forEach(b => b.onclick = () => {
+  state.sort = b.dataset.sort;
+  if (state.sel != null) closeDetail(false);
+  document.querySelectorAll(".sortbtn").forEach(x => x.setAttribute("aria-pressed", x === b));
+  renderList();
+  saveUrl();
+});
+
+let restoring = false;
+function resetMap() {
+  const wasRestoring = restoring;
+  restoring = true;
+  try { svg.interrupt().call(zoom.transform, d3.zoomIdentity); }
+  finally { restoring = wasRestoring; }
+  state.privateViewport = false;
+}
+function syncControls() {
+  document.getElementById("q").value = state.q;
+  document.getElementById("place").value = state.origin?.label || "";
+  document.getElementById("radius").value = state.radius;
+  document.querySelectorAll("[data-intent]").forEach(b => b.setAttribute("aria-pressed", b.dataset.intent === state.intent));
+  document.querySelectorAll(".sortbtn").forEach(b => {
+    b.setAttribute("aria-pressed", b.dataset.sort === state.sort);
+    if (b.dataset.sort === "distance") b.disabled = !state.origin;
+  });
+  document.querySelectorAll("#cchips .chip").forEach(b => b.setAttribute("aria-pressed", state.cc[b.id.slice(6)]));
+  Object.keys(KINDS).forEach(key => document.getElementById("chip-" + key).setAttribute("aria-pressed", state.on[key]));
+  [["chip-layout", "layOnly"], ["chip-closed", "closed"], ["chip-member", "member"]].forEach(([id, key]) => document.getElementById(id)?.setAttribute("aria-pressed", state[key]));
+  [["f-drive", "drive"], ["f-chassis", "chassis"], ["f-engine", "engine"]].forEach(([id, key]) => document.getElementById(id).value = state[key]);
+  document.querySelector(".app").dataset.view = state.view;
+  document.querySelectorAll("button[data-view]").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+  document.getElementById("location-status").textContent = state.origin ? `${state.origin.label || "Your device location (private)"} · within ${state.radius} km straight-line${state.origin.label ? " · approximate town centre" : ""}` : state.bounds ? "Results limited to the selected map area." : "Town centres are estimated from mapped venues. Device location is never put in share links.";
+}
+function saveUrl(replace = false) {
+  if (restoring) return;
+  const p = new URLSearchParams();
+  if (state.sel != null) p.set("venue", TRACKS[state.sel].o);
+  if (state.tab !== "overview") p.set("tab", state.tab);
+  ["q", "intent", "drive", "chassis", "engine"].forEach(key => { if (state[key]) p.set(key, state[key]); });
+  if (state.sort !== "n" && !(state.sort === "distance" && state.origin && !state.origin.label)) p.set("sort", state.sort);
+  p.set("countries", Object.keys(state.cc).filter(c => state.cc[c]).join(","));
+  p.set("kinds", Object.keys(state.on).filter(c => state.on[c]).join(","));
+  ["layOnly", "closed", "member"].forEach(key => { if (state[key]) p.set(key, "1"); });
+  p.set("view", state.view);
+  if (state.origin?.label) { p.set("town", state.origin.label); p.set("radius", state.radius); }
+  // Device coordinates and its derived map viewport must not leak through URLs.
+  if (!state.privateViewport && (!state.origin || state.origin.label)) {
+    if (state.bounds) p.set("bounds", state.bounds.join(","));
+    const el = document.getElementById("mapwrap");
+    const transform = d3.zoomTransform(svg.node());
+    if (el.clientWidth && el.clientHeight) {
+      const centre = proj.invert(transform.invert([el.clientWidth / 2, el.clientHeight / 2]));
+      if (centre?.every(Number.isFinite)) p.set("map", [...centre.map(x => x.toFixed(5)), transform.k.toFixed(3)].join(","));
+    }
+  }
+  const hash = "#" + p.toString();
+  if (location.hash !== hash) history[replace ? "replaceState" : "pushState"](null, "", hash);
+}
+function restoreUrl() {
+  restoring = true;
+  try {
+    const p = new URLSearchParams(location.hash.slice(1));
+    Object.assign(state, JSON.parse(DEFAULTS), { sel: null, tab: "overview", view: "list", privateViewport: false });
+    ["q", "chassis", "engine"].forEach(key => { state[key] = (p.get(key) || "").slice(0, 200); });
+    if (["", "rent", "family", "own", "race", "group"].includes(p.get("intent") || "")) state.intent = p.get("intent") || "";
+    if (["", "rent", "own", "race"].includes(p.get("drive") || "")) state.drive = p.get("drive") || "";
+    if (["n", "cc", "len", "ppm", "ppl", "distance"].includes(p.get("sort"))) state.sort = p.get("sort");
+    if (p.has("countries")) Object.keys(state.cc).forEach(c => state.cc[c] = p.get("countries").split(",").includes(c));
+    if (p.has("kinds")) Object.keys(state.on).forEach(c => state.on[c] = p.get("kinds").split(",").includes(c));
+    ["layOnly", "closed", "member"].forEach(key => state[key] = p.get(key) === "1");
+    if (p.get("view") === "map") state.view = "map";
+    const town = towns.get(p.get("town"));
+    if (town) state.origin = { lo: town.lo, la: town.la, label: town.label };
+    if ([25, 50, 100, 250].includes(Number(p.get("radius")))) state.radius = Number(p.get("radius"));
+    const bounds = p.get("bounds")?.split(",").map(Number);
+    if (bounds?.length === 4 && bounds.every(Number.isFinite) && bounds[0] >= -180 && bounds[2] <= 180 && bounds[1] >= -90 && bounds[3] <= 90 && bounds[0] <= bounds[2] && bounds[1] <= bounds[3]) state.bounds = bounds;
+    if (state.sort === "distance" && !state.origin) state.sort = "n";
+    syncControls();
+    layout();
+    const map = p.get("map")?.split(",").map(Number);
+    if (map?.length === 3 && map.every(Number.isFinite) && Math.abs(map[0]) <= 180 && Math.abs(map[1]) < 85 && map[2] >= 1 && map[2] <= 40) {
+      const [x, y] = proj(map.slice(0, 2)), el = document.getElementById("mapwrap");
+      svg.call(zoom.transform, d3.zoomIdentity.translate(el.clientWidth / 2 - x * map[2], el.clientHeight / 2 - y * map[2]).scale(map[2]));
+    } else svg.call(zoom.transform, d3.zoomIdentity);
+    drawDots(); renderList();
+    document.getElementById("detail").hidden = true;
+    document.getElementById("list").hidden = false;
+    document.querySelector(".app").dataset.detail = "false";
+    const venue = TRACKS.find(t => t.o === p.get("venue"));
+    if (["overview", "track", "karts", "prices"].includes(p.get("tab"))) state.tab = p.get("tab");
+    if (venue) select(venue.id, false);
+    document.getElementById("reset").disabled = snap() === DEFAULTS;
+  } finally { restoring = false; }
+}
+window.addEventListener("popstate", restoreUrl);
+window.addEventListener("hashchange", restoreUrl);
+document.querySelectorAll("[data-intent]").forEach(b => b.onclick = () => {
+  state.intent = b.dataset.intent;
+  state.drive = ""; state.chassis = ""; state.engine = "";
+  state.closed = false;
+  state.layOnly = false;
+  state.on = { outdoor: true, indoor: true, kids: state.intent === "family" };
+  refresh();
+});
+document.querySelectorAll("button[data-view]").forEach(b => b.onclick = () => {
+  state.view = b.dataset.view; syncControls(); layout(); saveUrl();
+});
+function setOrigin(origin) {
+  state.privateViewport = !origin.label;
+  state.origin = origin; state.bounds = null; state.sort = "distance";
+  refresh(); flyTo(origin);
+}
+document.getElementById("location-form").onsubmit = e => {
+  e.preventDefault();
+  const input = document.getElementById("place").value.trim();
+  const town = towns.get(input);
+  if (!town) { document.getElementById("location-status").textContent = "Choose a town from the suggestions. Only towns already in the atlas are searchable."; return; }
+  setOrigin({ lo: town.lo, la: town.la, label: town.label });
+};
+document.getElementById("locate").onclick = () => {
+  if (!navigator.geolocation) { document.getElementById("location-status").textContent = "Location is not supported by this browser. Choose an atlas town instead."; return; }
+  document.getElementById("location-status").textContent = "Requesting location permission…";
+  navigator.geolocation.getCurrentPosition(p => setOrigin({ lo: p.coords.longitude, la: p.coords.latitude }), e => {
+    document.getElementById("location-status").textContent = `Location unavailable: ${e.message}. Choose an atlas town instead.`;
+  }, { timeout: 10000, maximumAge: 60000 });
+};
+document.getElementById("radius").onchange = e => { state.radius = Number(e.target.value); refresh(); };
+document.getElementById("clear-location").onclick = () => {
+  state.origin = null; state.bounds = null;
+  resetMap();
+  if (state.sort === "distance") state.sort = "n"; refresh();
+};
+document.getElementById("area").onclick = () => {
+  const el = document.getElementById("mapwrap"), transform = d3.zoomTransform(svg.node());
+  const a = proj.invert(transform.invert([0, el.clientHeight])), b = proj.invert(transform.invert([el.clientWidth, 0]));
+  state.bounds = [Math.max(-180, a[0]), Math.max(-90, a[1]), Math.min(180, b[0]), Math.min(90, b[1])];
+  state.origin = null; if (state.sort === "distance") state.sort = "n"; refresh();
+};
+async function copyLink(venueOnly = false) {
+  const url = new URL(location.href);
+  if (venueOnly && state.sel != null) url.hash = new URLSearchParams({ venue: TRACKS[state.sel].o, tab: state.tab }).toString();
+  try {
+    await navigator.clipboard.writeText(url.href);
+    document.getElementById("share-status").textContent = "Link copied. Device location is excluded.";
+    const status = document.querySelector("[data-share-status]");
+    if (status) status.textContent = "Venue link copied.";
+  } catch (e) {
+    document.getElementById("share-status").textContent = `Could not copy the link: ${e.message}. Copy it from the address bar.`;
+    const status = document.querySelector("[data-share-status]");
+    if (status) status.textContent = `Could not copy the link: ${e.message}. Copy it from the address bar.`;
+  }
+}
+document.getElementById("share-search").onclick = () => copyLink();
+document.getElementById("detail").addEventListener("click", e => { if (e.target.closest("[data-share-venue]")) copyLink(true); });
+restoreUrl();
+new ResizeObserver(() => layout()).observe(document.getElementById("mapwrap"));
+</script>

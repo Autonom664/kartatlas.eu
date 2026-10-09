@@ -1,0 +1,323 @@
+[
+ {
+  "id": "way/95139054",
+  "name": "SMK Västerås Karting",
+  "town": "Västerås kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.smkvasteras.se/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/10444657637",
+  "name": "Multi Challenge",
+  "town": "Östersunds kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://multichallenge.se"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/3005599187",
+  "name": "Motorsportzentrum Fimmelsberg",
+  "town": "Amlikon-Bissegg",
+  "country": "Switzerland",
+  "websites": [
+   "https://kartbahn-fimmelsberg.ch/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "town": "Basel",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbasel.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/996303265",
+  "name": "OutdoorKart Graubünden",
+  "town": "Cazis",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.outdoorkart.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "relation/7225161",
+  "name": "Kartbahn Lyss",
+  "town": "Kappelen",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "petrol",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1126111119",
+  "name": "Pista GOKART Locarno-Magadino",
+  "town": "Locarno",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.karts.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    "97cc",
+    "2.5",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/163895648",
+  "name": "Kartbahn Lyss (Kartbahn Kappelen AG)",
+  "town": "Lyss",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/346520170",
+  "name": "Kartbahn Morschach (Swiss Holiday Park)",
+  "town": "Morschach",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+   "https://www.swissholidaypark.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/248875804",
+  "name": "Race-Inn",
+  "town": "Roggwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.race-inn.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/157919567",
+  "name": "Kartbahn Spreitenbach",
+  "town": "Spreitenbach",
+  "country": "Switzerland",
+  "websites": [
+   "https://spreitenbach.kart.ch"
+  ],
+  "known_fleet": [
+   [
+    "Tomkart Swiss E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/3166986261",
+  "name": "Kartbahn Sulgen",
+  "town": "Sulgen",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahn-sulgen.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "5.5",
+    "junior"
+   ],
+   [
+    "Sodi SR5",
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/186105356",
+  "name": "Karting de Payerne (Payerneland)",
+  "town": "Vers-chez-Perrin",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.payerneland.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "relation/4298937",
+  "name": "Karting de Vuiteboeuf (Good Kart Indoor Sàrl)",
+  "town": "Vuiteboeuf",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartingvuiteboeuf.ch/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/163933505",
+  "name": "Kart-Bahn Wohlen",
+  "town": "Waltenschwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnwohlen.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Kinder-Kart",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Spezial-Kart",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Turbo-Kart",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "town": "Winterthur",
+  "country": "Switzerland",
+  "websites": [
+   "https://winterthur.kart.ch"
+  ],
+  "known_fleet": [
+   [
+    "Tomkart Swiss E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ }
+]

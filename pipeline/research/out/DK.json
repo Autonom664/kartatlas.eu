@@ -1,0 +1,896 @@
+[
+ {
+  "id": "way/486318757",
+  "name": "Thy Karting Center",
+  "type": "outdoor",
+  "website": "https://thymotorsport.dk/",
+  "websites": [
+   {
+    "url": "https://thymotorsport.dk/",
+    "role": "club",
+    "name": "Thy Motor Sport"
+   }
+  ],
+  "phone": "+45 28 77 59 87",
+  "email": "thymotorsport@hotmail.dk",
+  "status": "open",
+  "rental": "no",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://thymotorsport.dk/",
+   "https://thymotorsport.dk/traening/"
+  ],
+  "note": "Run by club Thy Motor Sport (Hanstholm); a July 2025 news post says there is no kart rental for tourists; training Tue/Thu/Sat."
+ },
+ {
+  "id": "node/4467077725",
+  "name": "Gokart World",
+  "type": "indoor",
+  "website": "https://gokartworld.dk",
+  "websites": [
+   {
+    "url": "https://gokartworld.dk",
+    "role": "rental",
+    "name": "Gokart World"
+   }
+  ],
+  "phone": "+45 98 13 48 00",
+  "email": "info@gokartworld.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://gokartworld.dk",
+   "https://www.visitdenmark.com/denmark/plan-your-trip/gokart-world-gdk596111"
+  ],
+  "note": "Indoor 400 m track in Svenstrup (input says outdoor); designed with Tom Kristensen; fleet models not stated."
+ },
+ {
+  "id": "way/785838797",
+  "name": "Mou Gokart",
+  "type": "outdoor",
+  "website": "https://mougokart.dk",
+  "websites": [
+   {
+    "url": "https://mougokart.dk",
+    "role": "rental",
+    "name": "Mou Gokart"
+   },
+   {
+    "url": "https://mougokart.dk/gokart-klub-boern/",
+    "role": "club",
+    "name": "Gokart-klub for børn og unge i Mou"
+   }
+  ],
+  "phone": "+45 22 33 33 29",
+  "email": "mail@mougokart.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "DINO",
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "DINO",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "sources": [
+   "https://mougokart.dk",
+   "https://www.enjoynordjylland.com/north-jutland/plan-your-trip/mou-gokart-gdk997588",
+   "https://mougokart.dk/gokart-klub-boern/"
+  ],
+  "note": "Outdoor track in Storvorde since 1964; drop-in in summer, junior karts from age 7; kids/youth club planned for Sundays from 2027."
+ },
+ {
+  "id": "way/567296895",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No source found for a 'Tom K Karting Arena' in Rebild; name and status unverified."
+ },
+ {
+  "id": "node/4477658831",
+  "name": "Skive Gokart og Paintball Center",
+  "type": "outdoor",
+  "website": "https://www.skivegokart.dk",
+  "websites": [
+   {
+    "url": "https://www.skivegokart.dk",
+    "role": "rental",
+    "name": "Skive Gokart og Paintball Center"
+   }
+  ],
+  "phone": "+45 96 16 71 11",
+  "email": "info@skivegokart.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.skivegokart.dk",
+   "https://www.destinationlimfjorden.com/fjord-holiday/guide/skive-gokart-and-paintball-gdk602124"
+  ],
+  "note": "Activity/event centre (Killesmosevej 10, Skive) with go-kart in group packages; open by appointment."
+ },
+ {
+  "id": "way/466134641",
+  "name": "Viborg Motor Klub",
+  "type": "outdoor",
+  "website": "https://viborgmotorklub.dk/",
+  "websites": [
+   {
+    "url": "https://viborgmotorklub.dk/",
+    "role": "club",
+    "name": "Viborg Motor Klub"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "unknown",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://viborgmotorklub.dk/",
+   "https://viborgmotorklub.dk/karting/traening/"
+  ],
+  "note": "Club track at Havrisvej 10, Tjele; licence holders can train Wed/Sat (guest 1-day licence available); site links to a 'Viborg Kart Park' rental offer not verified."
+ },
+ {
+  "id": "way/447780824",
+  "name": "Auning Kart Park",
+  "type": "outdoor",
+  "website": "https://auningkartpark.dk/",
+  "websites": [
+   {
+    "url": "https://auningkartpark.dk/",
+    "role": "rental",
+    "name": "Auning Kart Park"
+   }
+  ],
+  "phone": "+45 30 58 12 34",
+  "email": "mail@auningkartpark.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://auningkartpark.dk/"
+  ],
+  "note": "Public rental bookable online, runs almost all year; fleet models not stated."
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "type": "outdoor",
+  "website": "https://www.dmka.dk/karting/",
+  "websites": [
+   {
+    "url": "https://www.dmka.dk/karting/",
+    "role": "club",
+    "name": "DMKA Karting"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.dmka.dk/karting/"
+  ],
+  "note": "Club track of DMKA at Tirstrup; club offers kart rental for newcomers and training on set days; rental may be members only."
+ },
+ {
+  "id": "way/532894308",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [
+   {
+    "url": "http://midtjyskgokart.dk",
+    "role": "other",
+    "name": "Midtjysk Gokart (site returned 403, unverified)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "midtjyskgokart.dk returned HTTP 403 and no other source for the venue was found."
+ },
+ {
+  "id": "way/87330958",
+  "name": "Racehall Aarhus",
+  "type": "indoor",
+  "website": "https://racehall.com/",
+  "websites": [
+   {
+    "url": "https://racehall.com/",
+    "role": "rental",
+    "name": "Racehall Aarhus"
+   },
+   {
+    "url": "https://racehall.com/en/boernenes-gokart-klub/",
+    "role": "club",
+    "name": "Racehall Børnenes Gokart Klub"
+   }
+  ],
+  "phone": "+45 86 28 01 70",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "200 cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Dino Mini 2020",
+    "engine": "120 cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twinstructor",
+    "engine": "2 x 200 cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Dino HandiKart 2020",
+    "engine": "200 cc",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://racehall.com/",
+   "https://racehall.com/gokart-modeller/"
+  ],
+  "note": "Indoor centre at Hasselager Centervej 30, Viby J; models page is chain-wide (not split per location)."
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "type": "outdoor",
+  "website": "https://silkeborg-gokart.dk/",
+  "websites": [
+   {
+    "url": "https://silkeborg-gokart.dk/",
+    "role": "rental",
+    "name": "Silkeborg GoKart Center"
+   }
+  ],
+  "phone": "+45 20 24 68 95",
+  "email": "gokartcenter@me.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Dino",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://silkeborg-gokart.dk/"
+  ],
+  "note": "Go-kart and paintball centre; public bookings and group packages."
+ },
+ {
+  "id": "node/2216849378",
+  "name": "Grindsted Gokart Klub",
+  "type": "outdoor",
+  "website": "https://www.grindstedgokartklub.dk/",
+  "websites": [
+   {
+    "url": "https://www.grindstedgokartklub.dk/",
+    "role": "club",
+    "name": "Grindsted Gokart Klub"
+   },
+   {
+    "url": "https://grigoe.dk",
+    "role": "rental",
+    "name": "grigoe.dk (rental booking and TB Kart dealer)"
+   }
+  ],
+  "phone": "+45 31 37 10 40",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.grindstedgokartklub.dk/",
+   "https://www.grindstedgokartklub.dk/lejekart",
+   "https://grigoe.dk"
+  ],
+  "note": "Club offers rental karts from age 5 via grigoe.dk (also a TB Kart dealer); phone is the grigoe.dk booking line."
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "type": "outdoor",
+  "website": "https://www.ballerupeventcenter.dk/",
+  "websites": [
+   {
+    "url": "https://www.ballerupeventcenter.dk/",
+    "role": "rental",
+    "name": "Ballerup Event Center"
+   }
+  ],
+  "phone": "+45 44 66 60 04",
+  "email": "info@ballerupeventcenter.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.ballerupeventcenter.dk/"
+  ],
+  "note": "Per-person sessions (training, Le Mans, Grand Prix) bookable online; open daily."
+ },
+ {
+  "id": "way/356759825",
+  "name": "Vandel Gokart",
+  "type": "outdoor",
+  "website": "https://www.vandelgokart.dk/",
+  "websites": [
+   {
+    "url": "https://www.vandelgokart.dk/",
+    "role": "rental",
+    "name": "Vandel Gokart"
+   },
+   {
+    "url": "https://vandelgokart.dk/klub/",
+    "role": "club",
+    "name": "Vandel Gokart Klub"
+   }
+  ],
+  "phone": "+45 88 63 88 53",
+  "email": "info@vandelgokart.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.vandelgokart.dk/"
+  ],
+  "note": "Public rental from 140 cm; site phone differs from the input phone (+45 40 26 56 19)."
+ },
+ {
+  "id": "way/177039353",
+  "name": "Holbæk Gokartklub",
+  "type": "outdoor",
+  "website": "https://holbaek-gokart.dk/",
+  "websites": [
+   {
+    "url": "https://holbaek-gokart.dk/",
+    "role": "club",
+    "name": "Holbæk Gokartklub"
+   }
+  ],
+  "phone": "+45 50 47 54 94",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://holbaek-gokart.dk/",
+   "https://holbaek-gokart.dk/priser/"
+  ],
+  "note": "Volunteer club; sells single drives in training time and private coaching with club karts for kids (6-12) and adults; phone is SMS to the chief trainer."
+ },
+ {
+  "id": "way/139090965",
+  "name": "Københavns Gokart Bane",
+  "type": "outdoor",
+  "website": "https://kbh-gokart.dk/",
+  "websites": [
+   {
+    "url": "https://kbh-gokart.dk/",
+    "role": "club",
+    "name": "Københavns Gokart Bane"
+   },
+   {
+    "url": "https://www.kk.dk/index%2ephp/nyheder/orientering-koebenhavns-gokart-bane-lukker-til-sommeren-2028",
+    "role": "venue",
+    "name": "Københavns Kommune (track owner)"
+   }
+  ],
+  "phone": "+45 32 57 76 64",
+  "email": null,
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://kbh-gokart.dk/",
+   "https://www.kk.dk/index%2ephp/nyheder/orientering-koebenhavns-gokart-bane-lukker-til-sommeren-2028"
+  ],
+  "note": "No rental; own karts with DASU licence; the City of Copenhagen says the track closes in summer 2028."
+ },
+ {
+  "id": "way/213207415",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "svebollegokart.dk no longer resolves (DNS not found); only stale aggregator listings found, so status is unclear."
+ },
+ {
+  "id": "way/839020157",
+  "name": "Racehall København",
+  "type": "indoor",
+  "website": "https://racehall.com/",
+  "websites": [
+   {
+    "url": "https://racehall.com/",
+    "role": "rental",
+    "name": "Racehall København"
+   },
+   {
+    "url": "https://racehall.com/en/boernenes-gokart-klub/",
+    "role": "club",
+    "name": "Racehall Børnenes Gokart Klub"
+   }
+  ],
+  "phone": "+45 86 28 01 70",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "200 cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Dino Mini 2020",
+    "engine": "120 cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twinstructor",
+    "engine": "2 x 200 cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Dino HandiKart 2020",
+    "engine": "200 cc",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://racehall.com/",
+   "https://racehall.com/gokart-modeller/"
+  ],
+  "note": "Indoor centre at Bondehøjvej 20, Taastrup; models page is chain-wide (not split per location)."
+ },
+ {
+  "id": "way/938791191",
+  "name": "Roskilde Racing Center",
+  "type": "outdoor",
+  "website": "https://www.roskilderacingcenter.dk",
+  "websites": [
+   {
+    "url": "https://www.roskilderacingcenter.dk",
+    "role": "rental",
+    "name": "Roskilde Racing Center"
+   }
+  ],
+  "phone": "+45 26 28 48 40",
+  "email": "info@roskilderacingcenter.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "SODI",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://www.roskilderacingcenter.dk",
+   "https://www.visitdenmark.com/denmark/plan-your-trip/roskilde-racing-center-real-speed-and-an-authentic-racing-atmosphere-gdk1156579"
+  ],
+  "note": "1,250 m outdoor track, season late March to late November, minimum age 13."
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "type": "indoor",
+  "website": "https://racesyd.dk/",
+  "websites": [
+   {
+    "url": "https://racesyd.dk/",
+    "role": "rental",
+    "name": "RaceSyd"
+   },
+   {
+    "url": "https://fredericiagokartklub.dk/",
+    "role": "club",
+    "name": "Fredericia Gokartklub"
+   }
+  ],
+  "phone": "+45 75 50 20 60",
+  "email": "booking@racesyd.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://racesyd.dk/",
+   "https://fredericiagokartklub.dk/",
+   "https://www.visitdenmark.com/denmark/plan-your-trip/racesyd-gokart-gdk1083306"
+  ],
+  "note": "Indoor commercial centre; Fredericia Gokartklub is based here and trains weekly on Tuesdays (juniors and seniors) in the rental karts; fleet brand not stated on racesyd.dk (kids karts from 120 cm with remote speed limit, adult karts from 145 cm)."
+ },
+ {
+  "id": "way/892633637",
+  "name": "Søndersø Karting Klub",
+  "type": "outdoor",
+  "website": "https://gokartfyn.dk/",
+  "websites": [
+   {
+    "url": "https://gokartfyn.dk/",
+    "role": "club",
+    "name": "Søndersø Karting Klub (GoKart Fyn)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://gokartfyn.dk/"
+  ],
+  "note": "Club track; karts rentable only for private or company events (min. 8 people, Apr-Oct); training Wed/Sat with licences."
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "type": "indoor",
+  "website": "https://bowlnfun.dk/forlystelser/gokart/",
+  "websites": [
+   {
+    "url": "https://bowlnfun.dk/forlystelser/gokart/",
+    "role": "rental",
+    "name": "Bowl'n'Fun Esbjerg"
+   }
+  ],
+  "phone": "+45 75 46 84 00",
+  "email": "bookesbjerg@bowlnfun.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://bowlnfun.dk/?centerchoice=604",
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "note": "Indoor go-kart in an entertainment centre (input says outdoor); kids karts for ages 8-12."
+ },
+ {
+  "id": "node/4467097590",
+  "name": "Odense Gokart Hal",
+  "type": "indoor",
+  "website": "https://odensegokart.dk",
+  "websites": [
+   {
+    "url": "https://odensegokart.dk",
+    "role": "rental",
+    "name": "Odense Gokart Hal"
+   }
+  ],
+  "phone": "+45 70 25 02 10",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "SODI (2024)",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "SODI (2024)",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://odensegokart.dk"
+  ],
+  "note": "Indoor hall (input says outdoor); all-SODI 2024 fleet, kids from 7, adults from 13."
+ },
+ {
+  "id": "way/712050506",
+  "name": "Gokartcenter Fyn",
+  "type": "outdoor",
+  "website": "https://gokartcenterfyn.dk/",
+  "websites": [
+   {
+    "url": "https://gokartcenterfyn.dk/",
+    "role": "rental",
+    "name": "Gokartcenter Fyn (Motorsport Center Fyn ApS)"
+   }
+  ],
+  "phone": "+45 20 29 57 27",
+  "email": "booking@mcfyn.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Dino",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://gokartcenterfyn.dk/"
+  ],
+  "note": "Outdoor track at Kærbygårdevej 25, Odense SØ, with 24 Dino karts; exclusive track hire needs at least 12 people."
+ },
+ {
+  "id": "way/1236943145",
+  "name": "Korsør Kart Klub",
+  "type": "outdoor",
+  "website": "https://www.kgkk.dk/",
+  "websites": [
+   {
+    "url": "https://www.kgkk.dk/",
+    "role": "club",
+    "name": "Korsør Kart Klub"
+   }
+  ],
+  "phone": "+45 61 43 40 53",
+  "email": "jannikconsult@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kgkk.dk/"
+  ],
+  "note": "Club track; drive club karts per session or with membership; kart school for ages 8-12."
+ },
+ {
+  "id": "way/449265399",
+  "name": "Vojens Motorsport Arena",
+  "type": "outdoor",
+  "website": "https://www.vma.dk/",
+  "websites": [
+   {
+    "url": "https://www.vma.dk/",
+    "role": "rental",
+    "name": "Vojens Motorsport Arena"
+   },
+   {
+    "url": "https://vma.dk/egen-kart/",
+    "role": "club",
+    "name": "VMA club training with own kart"
+   }
+  ],
+  "phone": "+45 24 25 22 53",
+  "email": "info@vma.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Bambini kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Tony Kart",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "sources": [
+   "https://vma.dk/sodi-world-series/",
+   "https://vma.dk/egen-kart/",
+   "https://vma.dk/loebstyper-priser/"
+  ],
+  "note": "Rental fleet is Sodikart (model/engine/hp not stated) plus reduced-speed Bambini karts from age 6 and a Tony Kart for the Pro Kart Event; own karts with DASU licence Tue/Sat (300 DKK)."
+ },
+ {
+  "id": "way/93851066",
+  "name": "Skærbæk Gocart Center",
+  "type": "outdoor",
+  "website": "https://www.kart.dk/",
+  "websites": [
+   {
+    "url": "https://www.kart.dk/",
+    "role": "rental",
+    "name": "Skærbæk Gocart Center"
+   }
+  ],
+  "phone": "+45 74 75 28 00",
+  "email": "go@kart.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kart.dk/"
+  ],
+  "note": "Public sessions from age 8 and team events; racekart training Tue/Thu; site phone differs from the input phone (+45 40489445)."
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "type": "outdoor",
+  "website": "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane",
+  "websites": [
+   {
+    "url": "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane",
+    "role": "club",
+    "name": "SAK Motorsport"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Club track of SAK Motorsport; the site could not be fetched (redirect loop) and no other details were found."
+ },
+ {
+  "id": "way/94984580",
+  "name": "Als Gokart Klub",
+  "type": "outdoor",
+  "website": "https://alsgokartklub.dk/",
+  "websites": [
+   {
+    "url": "https://alsgokart.dk",
+    "role": "rental",
+    "name": "Als Gokart"
+   },
+   {
+    "url": "https://alsgokartklub.dk/",
+    "role": "club",
+    "name": "Als Gokart Klub"
+   }
+  ],
+  "phone": "+45 70 25 02 20",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "SODI",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://alsgokartklub.dk/",
+   "https://alsgokart.dk"
+  ],
+  "note": "Club track (760 m); public rental run by new lessees since 2026 as Als Gokart (alsgokart.dk), kids from 7; phone is the rental booking line."
+ },
+ {
+  "id": "way/380865250",
+  "name": "Marielyst Gokart & Paintball Center",
+  "type": "outdoor",
+  "website": "https://gokart.dk/",
+  "websites": [
+   {
+    "url": "https://gokart.dk/",
+    "role": "rental",
+    "name": "Marielyst Gokart & Paintball Center"
+   }
+  ],
+  "phone": "+45 54 17 44 04",
+  "email": "info@gokart.dk",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://gokart.dk/",
+   "https://www.visitlolland-falster.com/tourist/events/marielyst-go-kart-paintball-center-gdk738374"
+  ],
+  "note": "Separate adult track (from 14 years, 60 km/h) and children's track (7-13 years, 25 km/h)."
+ },
+ {
+  "id": "way/664573164",
+  "name": "Rødby Karting Ring",
+  "type": "outdoor",
+  "website": "http://www.rgkk.dk/rgkk",
+  "websites": [
+   {
+    "url": "https://rodbygokart.dk",
+    "role": "rental",
+    "name": "Rødby Gokart"
+   },
+   {
+    "url": "http://www.rgkk.dk/rgkk",
+    "role": "club",
+    "name": "Rødby Go-Kart Klub"
+   }
+  ],
+  "phone": "+45 70 25 02 24",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "SODI",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "http://www.rgkk.dk/rgkk",
+   "https://rodbygokart.dk"
+  ],
+  "note": "Club track of Rødby Go-Kart Klub; licence holders train Wed/Fri/Sat (Mar-Oct); public rental via Rødby Gokart (rodbygokart.dk), whose booking line is the phone."
+ }
+]

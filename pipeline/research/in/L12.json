@@ -1,0 +1,457 @@
+[
+ {
+  "id": "node/13979020833",
+  "name": "Kartodromo Palazzo",
+  "town": "Trecchina",
+  "country": "Italy",
+  "websites": [
+   "http://kartodromopalazzo.it/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/208383998",
+  "name": "Frasnelli Karting Parc (Safety Park)",
+  "town": "Vadena - Pfatten",
+  "country": "Italy",
+  "websites": [
+   "https://www.frasnelli-kart.com/"
+  ],
+  "mapped_length_m": 1114
+ },
+ {
+  "id": "way/290766494",
+  "name": "Leopard Circuit Viterbo",
+  "town": "Viterbo",
+  "country": "Italy",
+  "websites": [
+   "https://www.viterbocircuit.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/312407341",
+  "name": "Viterbo Circuit (Circuito Internazionale Viterbo)",
+  "town": "Viterbo",
+  "country": "Italy",
+  "websites": [
+   "https://www.viterbocircuit.com/"
+  ],
+  "mapped_length_m": 1452
+ },
+ {
+  "id": "way/881600516",
+  "name": "Polenta & Motori - Circuito Riccardo Borile",
+  "town": "Vo'",
+  "country": "Italy",
+  "websites": [
+   "https://www.polentaemotori.it/"
+  ],
+  "mapped_length_m": 617
+ },
+ {
+  "id": "node/575350323",
+  "name": "Circuit Park Berghem",
+  "town": "Berghem",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.circuitparkberghem.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/217521987",
+  "name": "Linnaeushof",
+  "town": "Bloemendaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.linnaeushof.nl/"
+  ],
+  "mapped_length_m": 137
+ },
+ {
+  "id": "node/1571226584",
+  "name": "Race Planet Delft",
+  "town": "Delft",
+  "country": "Netherlands",
+  "websites": [
+   "https://raceplanet.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2779183074",
+  "name": "Karting Texel",
+  "town": "Den Burg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartingtexel.nl/"
+  ],
+  "mapped_length_m": 430
+ },
+ {
+  "id": "way/58821981",
+  "name": "De Uithof",
+  "town": "Den Haag",
+  "country": "Netherlands",
+  "websites": [
+   "https://deuithof.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/958029969",
+  "name": "Go Kart In Dordrecht",
+  "town": "Dordrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kart.nl/",
+   "https://bowlmore.nl/dordrecht/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/276563025",
+  "name": "All In Echt",
+  "town": "Echt",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.allinecht.nl/"
+  ],
+  "mapped_length_m": 139
+ },
+ {
+  "id": "node/6859713080",
+  "name": "Karting Eefde",
+  "town": "Eefde",
+  "country": "Netherlands",
+  "websites": [
+   "https://kartingeefde.nl"
+  ],
+  "mapped_length_m": 701
+ },
+ {
+  "id": "node/8695377425",
+  "name": "Hezemans Karting",
+  "town": "Eindhoven",
+  "country": "Netherlands",
+  "websites": [
+   "https://hezemans.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2732671760",
+  "name": "De Landsard Outdoor Kartcircuit",
+  "town": "Eindhoven",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.outdoorkarting.nl"
+  ],
+  "mapped_length_m": 986
+ },
+ {
+  "id": "node/2756063118",
+  "name": "ZERO55",
+  "town": "Enschede",
+  "country": "Netherlands",
+  "websites": [
+   "https://zero55.nl/enschede/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/1098017859",
+  "name": "A15 Karting",
+  "town": "Gorinchem",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.a15karting.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/47490179",
+  "name": "TeamSport Groningen",
+  "town": "Groningen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/groningen"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2551684936",
+  "name": "Indoorkarting Heerenveen (De Vries Indoor Karting)",
+  "town": "Heerenveen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.indoorkartingheerenveen.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/474012393",
+  "name": "Kartbaan Ulrum",
+  "town": "Het Hogeland",
+  "country": "Netherlands",
+  "websites": [
+   "http://kartbaanulrum.nl"
+  ],
+  "mapped_length_m": 331
+ },
+ {
+  "id": "node/1413233649",
+  "name": "Coronel Kartracing",
+  "town": "Huizen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.coronel.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2782845692",
+  "name": "Karting Emmen",
+  "town": "Nieuw-Weerdinge",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartingemmen.nl"
+  ],
+  "mapped_length_m": 877
+ },
+ {
+  "id": "node/2690461468",
+  "name": "Planet Awesome",
+  "town": "Nijmegen",
+  "country": "Netherlands",
+  "websites": [
+   "https://planet-awesome.com"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2663385135",
+  "name": "Kartplaza Actionworld",
+  "town": "Nijverdal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartplaza.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/278188018",
+  "name": "Kartbaan Oldenzaal",
+  "town": "Oldenzaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://kartbaanoldenzaal.nl/"
+  ],
+  "mapped_length_m": 817
+ },
+ {
+  "id": "node/4620552009",
+  "name": "Van der Ende Racing & Fun",
+  "town": "Poeldijk",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.vanderende.com/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13897664495",
+  "name": "Kart Centre Roosendaal",
+  "town": "Roosendaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kcr.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/746760110",
+  "name": "Kartbaan Strijen",
+  "town": "Strijen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaanstrijen.nl/"
+  ],
+  "mapped_length_m": 702
+ },
+ {
+  "id": "node/7734829180",
+  "name": "De Voltage",
+  "town": "Tilburg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.devoltage.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/3040205459",
+  "name": "Kartfabrique",
+  "town": "Utrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartfabrique.nl/"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/1360118353",
+  "name": "TeamSport Karten Utrecht The Wall",
+  "town": "Utrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/446075802",
+  "name": "Kartcircuit Driebergen",
+  "town": "Utrechtse Heuvelrug",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaan.com"
+  ],
+  "mapped_length_m": 708
+ },
+ {
+  "id": "way/274259545",
+  "name": "Powerarea",
+  "town": "Vaals",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.powerarea.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/13607854888",
+  "name": "Indoor Kartbaan Winterswijk",
+  "town": "Winterswijk",
+  "country": "Netherlands",
+  "websites": [
+   "https://kartbaanwinterswijk.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/4614279439",
+  "name": "Silverstone Partycenter",
+  "town": "Zwanenburg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.silverstone.nl"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "node/2788019640",
+  "name": "Kartcentrum Zwolle",
+  "town": "Zwolle",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartcentrumzwolle.nl"
+  ],
+  "mapped_length_m": 527
+ },
+ {
+  "id": "way/1350493948",
+  "name": "Racehall Stockholm",
+  "town": "Botkyrka kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://racehall.com/en/booking-stockholm"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "way/234113309",
+  "name": "Kart",
+  "town": "Enköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.enkopingsmk.se/karting",
+   "https://www.enkopingsmk.se/"
+  ],
+  "mapped_length_m": 1432
+ },
+ {
+  "id": "node/14088543327",
+  "name": "Gränges Hyr-kart",
+  "town": "Grängesberg",
+  "country": "Sweden",
+  "websites": [
+   "https://grangeshyrkart.se"
+  ],
+  "mapped_length_m": null
+ },
+ {
+  "id": "relation/10426245",
+  "name": "Göteborgs Gokartcenter",
+  "town": "Göteborgs Stad",
+  "country": "Sweden",
+  "websites": [
+   "https://gokart.se/"
+  ],
+  "mapped_length_m": 996
+ },
+ {
+  "id": "way/1005039103",
+  "name": "Flotsbro Downhill Cars",
+  "town": "Huddinge kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736"
+  ],
+  "mapped_length_m": 443
+ },
+ {
+  "id": "way/1307053280",
+  "name": "Andreassen Motorsport Kart Park",
+  "town": "Jokkmokks kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.vuollerimsmf.se/kartingringen"
+  ],
+  "mapped_length_m": 1106
+ },
+ {
+  "id": "way/1418328888",
+  "name": "Järfälla Hyrkart",
+  "town": "Järfälla kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.jarfallahyrkart.se/",
+   "https://www.sodakart.se/"
+  ],
+  "mapped_length_m": 935
+ },
+ {
+  "id": "way/45484844",
+  "name": "Skogstorps Motorarena",
+  "town": "Kalmar kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.kalmargokart.se/",
+   "https://www.kalmarmotorklubb.se/kalmarmotorklubb-bilsport-gokart"
+  ],
+  "mapped_length_m": 1141
+ },
+ {
+  "id": "way/250247751",
+  "name": "Gelleråsen Arena kart tracks",
+  "town": "Karlskoga kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gellerasen.se/gokart/",
+   "https://www.gellerasen.se/kartingbanan/"
+  ],
+  "mapped_length_m": null
+ }
+]

@@ -1,0 +1,1129 @@
+[
+ {
+  "id": "way/231105393",
+  "name": null,
+  "type": "indoor",
+  "website": "https://kartbahn-wuppertal.de/",
+  "websites": [
+   {
+    "url": "https://kartbahn-wuppertal.de/",
+    "role": "rental",
+    "name": "Kartbahn Wuppertal (K + K Kart-Verleih & KFZ Vertrieb GmbH)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://kartbahn-wuppertal.de/"
+  ],
+  "note": "Website says the hall at Deutscher Ring 44 closed after 29 years and will reopen at a new, not yet stated location; old domain formel-eins-kartbahn.de redirects there."
+ },
+ {
+  "id": "way/59513188",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.gokart-online.de/",
+  "websites": [
+   {
+    "url": "https://www.gokart-online.de/",
+    "role": "rental",
+    "name": "RS Speedworld (Indoor-Karting GmbH)"
+   }
+  ],
+  "phone": "+49 2131 660700",
+  "email": "info@kartevent.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RSX E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RSX 2-Sitzer E-Kart (RS 2-Drive)",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.gokart-online.de/"
+  ],
+  "note": "Switched to electric karts."
+ },
+ {
+  "id": "node/12497729617",
+  "name": null,
+  "type": "indoor",
+  "website": "https://teamsport-ekarting.de/standorte/moenchengladbach",
+  "websites": [
+   {
+    "url": "https://teamsport-ekarting.de/standorte/moenchengladbach",
+    "role": "rental",
+    "name": "TeamSport E-Karting Mönchengladbach"
+   }
+  ],
+  "phone": "+49 3222 1093444",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Gen7 E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/moenchengladbach",
+   "https://www.team-sport.co.uk/bruces-blog/monchengladbach-opening-2022"
+  ],
+  "note": "Two-level indoor electric track (about 500 m), opened 2022."
+ },
+ {
+  "id": "way/138621802",
+  "name": "Outdoorkartbahn Niederkrüchten (Kartbahn Schwalmtal)",
+  "type": "outdoor",
+  "website": "http://www.outdoorkartbahn.com",
+  "websites": [
+   {
+    "url": "http://www.outdoorkartbahn.com",
+    "role": "venue",
+    "name": "Kartbahn Schwalmtal / Outdoorkartbahn"
+   }
+  ],
+  "phone": "+49 2163 45400",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/kuka-kartbahn/",
+   "http://www.outdoorkartbahn.com"
+  ],
+  "note": "Raderberg 2, 41366 Schwalmtal; also listed as KUKA Outdoor-Kartbahn Niederkrüchten; operator website has almost no content."
+ },
+ {
+  "id": "node/11099569920",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://wt-becker.weebly.com/"
+  ],
+  "note": "Linked website is a martial arts school (Kampfkunst-Akademien Südwestfalen), not a kart track; likely a mis-tagged map entry."
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "type": null,
+  "website": "http://www.kartfun-astenberg.de",
+  "websites": [
+   {
+    "url": "http://www.kartfun-astenberg.de",
+    "role": "rental",
+    "name": "Kartfun Astenberg"
+   }
+  ],
+  "phone": "+49 2981 908702",
+  "email": "info@kartfun-astenberg.de",
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/kartfun-neuastenberg/"
+  ],
+  "note": "Winterberger Str. 2, Neuastenberg; directories disagree on indoor vs 550 m outdoor track; website unreachable (SSL error)."
+ },
+ {
+  "id": "way/1410399039",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/duesseldorf-neuss",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/duesseldorf-neuss",
+    "role": "rental",
+    "name": "BattleKart Düsseldorf-Neuss"
+   }
+  ],
+  "phone": "+49 2137 9278636",
+  "email": "info@duesseldorf-neuss.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "note": "Gamified projection karting with electric karts."
+ },
+ {
+  "id": "way/1005516056",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Odenkirchen in web sources."
+ },
+ {
+  "id": "way/1082888776",
+  "name": "Formel Fun (Panorama-Park Sauerland)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.freizeitpark-welt.de/freizeitparks/panorama_park/attraktionen/formel-fun-r222"
+  ],
+  "note": "Likely the former Formel Fun kart ride in Panorama-Park Sauerland (Rinsecke), operated 1993-2007; park now lists a pedal-kart track; identification inferred from location."
+ },
+ {
+  "id": "way/1302354538",
+  "name": "Panorama-Park Sauerland (Kettcarbahn)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "https://www.freizeitpark-welt.de/freizeitparks/panorama_park/attraktionen/formel-fun-r222"
+  ],
+  "note": "Inside Panorama-Park Sauerland amusement park; probably the pedal-kart track or remains of the former Formel Fun kart ride, not a real kart track."
+ },
+ {
+  "id": "node/3761972790",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.lemanskarting.de/",
+  "websites": [
+   {
+    "url": "https://www.lemanskarting.de/",
+    "role": "rental",
+    "name": "Le Mans Karting"
+   }
+  ],
+  "phone": "+49 221 5952302",
+  "email": "info@lemanskarting.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.lemanskarting.de/"
+  ],
+  "note": "Kart hall at Hugo-Eckener-Str. 29, Köln, about 400 m track; fleet not stated."
+ },
+ {
+  "id": "way/319085809",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.ms-kartcenter.de/",
+  "websites": [
+   {
+    "url": "https://www.ms-kartcenter.de/",
+    "role": "rental",
+    "name": "Michael Schumacher Kart & Event Center"
+   }
+  ],
+  "phone": "+49 2273 60190",
+  "email": "info@ms-kartcenter.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "SiNUS Nano",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.ms-kartcenter.de/"
+  ],
+  "note": "Indoor 728 m plus outdoor 710 m track and kids track; adult, junior and twin rental karts offered but models not stated; kart school/academy."
+ },
+ {
+  "id": "node/3761972788",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartcenter-cologne.de",
+  "websites": [
+   {
+    "url": "https://www.kartcenter-cologne.de",
+    "role": "rental",
+    "name": "Kartcenter Cologne"
+   }
+  ],
+  "phone": "+49 2236 878888",
+  "email": "info@kartcenter-cologne.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "7.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.kartcenter-cologne.de"
+  ],
+  "note": "Track is in a converted industrial hall at Kelvinstr. 5-7; 12 adult karts and 1 kids kart."
+ },
+ {
+  "id": "way/358507994",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "Only a hotel-listing reference to 'Go-Kart-Bahn Nörvenich' found; no operator details."
+ },
+ {
+  "id": "way/241613190",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahn-dahlemer-binz.de",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-dahlemer-binz.de",
+    "role": "venue",
+    "name": "Kartbahn Dahlemer Binz"
+   }
+  ],
+  "phone": "+49 2447 1866",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "R25",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "SixPointFive",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "R13",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "TwinKart",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-dahlemer-binz.de",
+   "https://freizeitinsider.de/angebot/kartbahn-dahlemer-binz/"
+  ],
+  "note": "Website states rental-kart operation only (no own two-stroke karts); site links to Karting Club Burg Brüggen, relationship not stated."
+ },
+ {
+  "id": "node/778241955",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitmonster.de/blog/kartbahnen-waldbroel"
+  ],
+  "note": "Directory lists Westerwaldring at K 44, 57612 Eichelhardt; no operator website found."
+ },
+ {
+  "id": "node/12513908020",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.kartodrom-elles.de",
+  "websites": [
+   {
+    "url": "https://www.kartodrom-elles.de",
+    "role": "rental",
+    "name": "Kartodrom Elles"
+   },
+   {
+    "url": "https://www.kartbahn-deutschland.de/",
+    "role": "other",
+    "name": "Kartbahn Deutschland (Elles + Asbach group)"
+   }
+  ],
+  "phone": "+49 2683 6036",
+  "email": "info@kartbahn-deutschland.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartodrom-elles.de",
+   "https://freizeitinsider.de/angebot/kartodrom-elles/"
+  ],
+  "note": "Indoor 350 m track (map says outdoor) with 16 rental karts incl. a tandem kart; same operator as Kartodrom Asbach."
+ },
+ {
+  "id": "way/211012168",
+  "name": "Kartodrom Asbach",
+  "type": null,
+  "website": "https://www.kartodrom-asbach.de",
+  "websites": [
+   {
+    "url": "https://www.kartodrom-asbach.de",
+    "role": "rental",
+    "name": "Kartodrom Asbach"
+   },
+   {
+    "url": "https://www.kartbahn-deutschland.de/",
+    "role": "other",
+    "name": "Kartbahn Deutschland (Elles + Asbach group)"
+   }
+  ],
+  "phone": "+49 2683 9476036",
+  "email": "info@kartbahn-deutschland.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartodrom-asbach.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "note": "Former KMS-Kartcenter site (Am Wäldchen, Asbach) now runs as Kartodrom Asbach, an indoor and outdoor track; old kms-kartcenter.de domain is dead."
+ },
+ {
+  "id": "node/3761972821",
+  "name": null,
+  "type": "indoor",
+  "website": "https://nuerburgring.de/experience/at-the-ring/ringkartbahn",
+  "websites": [
+   {
+    "url": "https://nuerburgring.de/experience/at-the-ring/ringkartbahn",
+    "role": "venue",
+    "name": "Nürburgring ring°kartbahn"
+   }
+  ],
+  "phone": "+49 2691 302630",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn?locale=en",
+   "https://www.kuladig.de/Objektansicht/Drucken/KLD-360128"
+  ],
+  "note": "Indoor electric kart track (about 400 m) in the Nürburgring complex; kids karts for ages 8-11; double kart driven by staff only."
+ },
+ {
+  "id": "node/12806062014",
+  "name": "BattleKart Koblenz-Mayen",
+  "type": "indoor",
+  "website": "https://www.battlekart.com/en/koblenz-mayen",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/en/koblenz-mayen",
+    "role": "rental",
+    "name": "BattleKart Koblenz-Mayen"
+   }
+  ],
+  "phone": "+49 2651 48234",
+  "email": "info@koblenz-mayen.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "note": "Gamified projection karting, Alter Andernacher Weg 2, Mayen."
+ },
+ {
+  "id": "way/82208301",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found near Wüschheim/Reckershausen in directory listings."
+ },
+ {
+  "id": "node/6205111509",
+  "name": null,
+  "type": "indoor",
+  "website": "https://karthalle-mainz.de/",
+  "websites": [
+   {
+    "url": "https://karthalle-mainz.de/",
+    "role": "rental",
+    "name": "Karthalle Mainz"
+   }
+  ],
+  "phone": "+49 6131 1431644",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://karthalle-mainz.de/"
+  ],
+  "note": "280 m indoor track with electric karts."
+ },
+ {
+  "id": "way/352676165",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.battlekart.com/trier",
+  "websites": [
+   {
+    "url": "https://www.battlekart.com/trier",
+    "role": "rental",
+    "name": "BattleKart Trier"
+   }
+  ],
+  "phone": "+49 6502 403920",
+  "email": "info@trier.battlekart.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "no",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.battlekart.com/trier"
+  ],
+  "note": "Gamified projection karting, Spitzstraße 20, Kenn."
+ },
+ {
+  "id": "way/102538435",
+  "name": null,
+  "type": "indoor",
+  "website": "https://gokartbahn.net/",
+  "websites": [
+   {
+    "url": "https://gokartbahn.net/",
+    "role": "rental",
+    "name": "GO Indoor-Kart Kaiserslautern"
+   }
+  ],
+  "phone": "+49 631 41459999",
+  "email": "info@gokartbahn.net",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO Sinus Ion",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RiMO Sinus Twin",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://gokartbahn.net/"
+  ],
+  "note": "Two-level electric indoor track in a 3,000 m2 hall, Merkurstraße 3b."
+ },
+ {
+  "id": "way/655238957",
+  "name": "Karthaus Zweibrücken",
+  "type": "indoor",
+  "website": "https://karthaus.de/",
+  "websites": [
+   {
+    "url": "https://karthaus.de/",
+    "role": "rental",
+    "name": "Karthaus Zweibrücken"
+   }
+  ],
+  "phone": "+49 6332 4818650",
+  "email": "anfrage@karthaus.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://karthaus.de/",
+   "https://freizeitinsider.de/lotse/go-kartbahn/annweiler-am-trifels/"
+  ],
+  "note": "E-kart track and event center at the Zweibrücken Fashion Outlet."
+ },
+ {
+  "id": "way/96950749",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/lotse/go-kartbahn/annweiler-am-trifels/"
+  ],
+  "note": "No kart venue listed at Queichhambach/Annweiler; nearest listed is Kart Center Landau 8 km away."
+ },
+ {
+  "id": "node/2791912346",
+  "name": null,
+  "type": null,
+  "website": "https://www.kartcenter-landau.de/",
+  "websites": [
+   {
+    "url": "https://www.kartcenter-landau.de/",
+    "role": "rental",
+    "name": "Kart Center Landau"
+   }
+  ],
+  "phone": "+49 6341 962699",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.kartcenter-landau.de/",
+   "https://freizeitinsider.de/lotse/go-kartbahn/annweiler-am-trifels/"
+  ],
+  "note": "Has both indoor and outdoor track sections; fleet not stated."
+ },
+ {
+  "id": "way/165403103",
+  "name": "Saarlandring Uchtelfangen",
+  "type": "outdoor",
+  "website": "https://www.saarlandring.de/",
+  "websites": [
+   {
+    "url": "https://www.saarlandring.de/",
+    "role": "club",
+    "name": "Motorsportclub Uchtelfangen e.V."
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "no",
+  "own_karts": "yes",
+  "karts": [],
+  "sources": [
+   "https://www.saarlandring.de/",
+   "https://www.saarlandring.de/?Rennkarts"
+  ],
+  "note": "Club track of MSC Uchtelfangen; website states no rental karts and has a race-kart section with track rules and prices."
+ },
+ {
+  "id": "way/27057471",
+  "name": "Indoor Kart Stahlwerk Bous",
+  "type": "indoor",
+  "website": "https://kartbahn-bous.de",
+  "websites": [
+   {
+    "url": "https://kartbahn-bous.de",
+    "role": "rental",
+    "name": "Kartbahn Bous"
+   }
+  ],
+  "phone": "+49 6834 70705",
+  "email": "info@kartbahn-bous.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://kartbahn-bous.de"
+  ],
+  "note": "Billed as the largest indoor kart track in Saarland (map says outdoor); has a kart club section and kids kart school, details not stated."
+ },
+ {
+  "id": "node/7366421704",
+  "name": null,
+  "type": null,
+  "website": "http://www.kart-palast.com",
+  "websites": [
+   {
+    "url": "http://www.kart-palast.com",
+    "role": "rental",
+    "name": "Kart-Palast"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "status": "closed",
+  "rental": "no",
+  "own_karts": "no",
+  "karts": [],
+  "sources": [
+   "http://www.kart-palast.com"
+  ],
+  "note": "Website announces the track has closed and refers visitors to Kartbahn Bous."
+ },
+ {
+  "id": "way/1041609383",
+  "name": "Kartbahn Lohsa",
+  "type": "outdoor",
+  "website": "https://kartbahnlohsa.wixsite.com/start",
+  "websites": [
+   {
+    "url": "https://kartbahnlohsa.wixsite.com/start",
+    "role": "venue",
+    "name": "Kartbahn Lohsa"
+   }
+  ],
+  "phone": "+49 35724 56836",
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://freizeitinsider.de/angebot/kartbahn-lohsa/"
+  ],
+  "note": "An der Kartbahn 1, 02999 Lohsa, 850 m; name confirmed by directory; listed website returned 404."
+ },
+ {
+  "id": "way/74481523",
+  "name": "Sax Freizeit Center (Saxracing)",
+  "type": "indoor",
+  "website": "https://saxfreizeitcenter.de/",
+  "websites": [
+   {
+    "url": "https://saxfreizeitcenter.de/",
+    "role": "rental",
+    "name": "Sax Freizeit Center"
+   }
+  ],
+  "phone": "+49 34205 42530",
+  "email": "info@saxfreizeitcenter.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "combustion",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "sources": [
+   "https://saxfreizeitcenter.de/",
+   "https://freizeitinsider.de/angebot/saxracing/"
+  ],
+  "note": "Indoor track with four layouts at Westringstraße 6, Schkeuditz-Dölzig; saxracing.de redirects to saxfreizeitcenter.de."
+ },
+ {
+  "id": "node/392851670",
+  "name": "Kartcenter Grimma",
+  "type": null,
+  "website": "https://kartcenter-grimma.de",
+  "websites": [
+   {
+    "url": "https://kartcenter-grimma.de",
+    "role": "rental",
+    "name": "Kartcenter Grimma"
+   }
+  ],
+  "phone": "+49 3437 9363000",
+  "email": "info@kartcenter-grimma.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2-Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://kartcenter-grimma.de",
+   "https://kartcenter-grimma.de/die-karts/",
+   "https://freizeitinsider.de/angebot/laps-kartcenter/"
+  ],
+  "note": "1200 m combined indoor and outdoor track; directory slug suggests it was formerly Lap's Kartcenter; offers track rental."
+ },
+ {
+  "id": "way/43869473",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.karthalle-coswig.de/",
+  "websites": [
+   {
+    "url": "https://www.karthalle-coswig.de/",
+    "role": "rental",
+    "name": "Karthalle Coswig"
+   }
+  ],
+  "phone": "+49 3523 534844",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.karthalle-coswig.de/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/1120780117",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.kartbahn-goerlitz-ring.de",
+  "websites": [
+   {
+    "url": "https://www.kartbahn-goerlitz-ring.de",
+    "role": "rental",
+    "name": "Kartbahn Görlitz-Ring (Morawski-Motors)"
+   }
+  ],
+  "phone": "+49 35822 37787",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.kartbahn-goerlitz-ring.de",
+   "https://www.kartbahn-goerlitz-ring.de/unsere-leihkarts"
+  ],
+  "note": "In Hagenwerder; reopened 04.04.2026 after resurfacing; weather-dependent hours, reservation advised."
+ },
+ {
+  "id": "way/1176594744",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No kart venue found at Pirnaische Vorstadt, Dresden; possibly not a real kart track."
+ },
+ {
+  "id": "way/1220208796",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.saxoniaring-freiberg.de",
+  "websites": [
+   {
+    "url": "https://www.saxoniaring-freiberg.de",
+    "role": "club",
+    "name": "Kart-Club-Freiberg e.V. (Saxoniaring)"
+   }
+  ],
+  "phone": "+49 1522 2492221",
+  "email": "micharacing@yahoo.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.saxoniaring-freiberg.de",
+   "https://www.saxoniaring-freiberg.de/preise"
+  ],
+  "note": "Club-run 720 m kart and pocketbike track at Muldenhütten 21; private karts allowed except Sundays (60 min 10 EUR, day 35 EUR)."
+ },
+ {
+  "id": "way/98118626",
+  "name": "POWERhall Chemnitz",
+  "type": "indoor",
+  "website": "https://www.powerhall.de/",
+  "websites": [
+   {
+    "url": "https://www.powerhall.de/",
+    "role": "rental",
+    "name": "POWERhall kart & event GmbH"
+   }
+  ],
+  "phone": "+49 371 64964000",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda 200 cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5 Kids",
+    "engine": "Honda 160 cc",
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2 Drive",
+    "engine": "Honda 270 cc",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.powerhall.de/"
+  ],
+  "note": "Wildparkstraße 8-14, Chemnitz; mobile/WhatsApp +49 172 3472567."
+ },
+ {
+  "id": "way/39775529",
+  "name": "Erzgebirgsring Lichtenberg",
+  "type": "outdoor",
+  "website": "http://www.erzgebirgsring.de",
+  "websites": [
+   {
+    "url": "http://www.erzgebirgsring.de",
+    "role": "venue",
+    "name": "Erzgebirgsring Lichtenberg mbH"
+   }
+  ],
+  "phone": "+49 172 3496278",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "http://www.erzgebirgsring.de",
+   "https://freizeitinsider.de/angebot/erzgebirgsring-lichtenberg/"
+  ],
+  "note": "1100 m outdoor track; private race karts and motorcycles allowed after pre-registration (96 dB limit); hours vary daily."
+ },
+ {
+  "id": "way/814876030",
+  "name": "Arena E",
+  "type": "outdoor",
+  "website": "https://arena-e.de",
+  "websites": [
+   {
+    "url": "https://arena-e.de",
+    "role": "venue",
+    "name": "Arena E"
+   }
+  ],
+  "phone": "+49 37604 75600",
+  "email": "anfragen@arena-e.de",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://arena-e.de",
+   "https://freizeitinsider.de/angebot/arena-e/"
+  ],
+  "note": "Identified by location (Niedermülsen); venue has an indoor RiMO e-kart hall plus a 450-1315 m outdoor track with combustion karts and a separate motorsport track."
+ }
+]

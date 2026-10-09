@@ -1,0 +1,1181 @@
+[
+ {
+  "id": "way/404696632",
+  "name": "Kart Landes 40",
+  "type": "outdoor",
+  "website": "https://kartlandes.com/",
+  "websites": [
+   {
+    "url": "https://kartlandes.com/",
+    "role": "venue",
+    "name": "Kart Landes 40"
+   },
+   {
+    "url": "https://www.facebook.com/kartlandes40/",
+    "role": "other",
+    "name": "Kart Landes 40 Facebook"
+   }
+  ],
+  "phone": "+33 5 58 08 98 77",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://kartlandes.com/"
+  ],
+  "note": "Site says 1,400 m track; 390cc karts described as semi-competition; licensed driver practice (roulages licencies) alternates with rental."
+ },
+ {
+  "id": "way/98867497",
+  "name": "Karting d'Espoey (Loisirs O' d'Espoey)",
+  "type": "outdoor",
+  "website": "https://www.karting-espoey.com/",
+  "websites": [
+   {
+    "url": "https://www.karting-espoey.com/",
+    "role": "venue",
+    "name": "Karting d'Espoey"
+   }
+  ],
+  "phone": "+33 5 59 04 69 51",
+  "email": "contact@karting-espoey.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.karting-espoey.com/",
+   "https://www.yumping.com/en/karting/karting-despoey--e19630814"
+  ],
+  "note": "270cc rental karts known only from visitor reviews."
+ },
+ {
+  "id": "way/339306511",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Fargeas/Feytiat; RMT Karting (indoor) is about 2 km west in Limoges-Romanet."
+ },
+ {
+  "id": "node/11066847282",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://kartingcityperigord.fr/",
+  "websites": [
+   {
+    "url": "https://kartingcityperigord.fr/",
+    "role": "venue",
+    "name": "Karting City Périgord"
+   },
+   {
+    "url": "https://univerland.eu",
+    "role": "other",
+    "name": "Univerland Journiac"
+   },
+   {
+    "url": "https://www.facebook.com/Kartingcity",
+    "role": "other",
+    "name": "Karting City Facebook"
+   }
+  ],
+  "phone": "+33 5 53 07 10 74",
+  "email": "contact@univerland.net",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://kartingcityperigord.fr/"
+  ],
+  "note": "Electric outdoor track inside the Univerland leisure park."
+ },
+ {
+  "id": "way/212080356",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Alpha Karting",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc 4-stroke",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/garden-karting--e19629575"
+  ],
+  "note": "No official website found; data from directory listing only."
+ },
+ {
+  "id": "way/54413439",
+  "name": "Circuit de Haute Saintonge",
+  "type": "outdoor",
+  "website": "https://www.circuitdehautesaintonge.com/",
+  "websites": [
+   {
+    "url": "https://www.circuitdehautesaintonge.com/",
+    "role": "venue",
+    "name": "Circuit de Haute Saintonge"
+   }
+  ],
+  "phone": "+33 5 46 04 08 10",
+  "email": "contact@circuitdhs.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.circuitdehautesaintonge.com/piste-kart/",
+   "https://www.ffsakarting.org/medias/fr/2020-09-27-championnat-de-france-haute-saintonge-france/Dossier de présentation/FFSA_Karting_2020_Dossier_Presentation_Long_Circuit.pdf"
+  ],
+  "note": "Motorsport complex with FFSA long-circuit kart track; rental karts are combustion (pages conflict on electric karts)."
+ },
+ {
+  "id": "node/6799381818",
+  "name": "Family Fun Park Lagord",
+  "type": null,
+  "website": "https://www.family-fun-park-lagord.com/",
+  "websites": [
+   {
+    "url": "https://www.family-fun-park-lagord.com/",
+    "role": "venue",
+    "name": "Family Fun Park Lagord"
+   }
+  ],
+  "phone": "+33 5 46 56 06 39",
+  "email": "contact.lagord@familyfunpark.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.family-fun-park-lagord.com/"
+  ],
+  "note": "Leisure park with karting among other activities."
+ },
+ {
+  "id": "way/290722217",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://lfkarting.fr/",
+  "websites": [
+   {
+    "url": "https://lfkarting.fr/",
+    "role": "venue",
+    "name": "LF Karting"
+   },
+   {
+    "url": "https://www.facebook.com/people/LF-Karting/100028608017669/",
+    "role": "other",
+    "name": "LF Karting Facebook"
+   }
+  ],
+  "phone": "+33 5 53 87 84 52",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": "14 hp",
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://lfkarting.fr/"
+  ],
+  "note": "Open daily 10-19; 390cc 14 hp handi-kart available by reservation."
+ },
+ {
+  "id": "node/7965738226",
+  "name": "Aunis Karting",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 46 00 41 70",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://guide-charente-maritime.com/en/tourism/meetings/group-activities/le-thou-46/aunis-karting-12371.html"
+  ],
+  "note": "FFSA-member 800 m track, ZI du Fief Girard; no official website found."
+ },
+ {
+  "id": "way/904774472",
+  "name": "Karting de Saintes",
+  "type": "outdoor",
+  "website": "https://kartingdesaintes.com/",
+  "websites": [
+   {
+    "url": "https://kartingdesaintes.com/",
+    "role": "venue",
+    "name": "Circuit Karting de Saintes"
+   },
+   {
+    "url": "https://www.facebook.com/kartingdesaintes/",
+    "role": "other",
+    "name": "Facebook"
+   }
+  ],
+  "phone": "+33 6 15 35 73 54",
+  "email": "kartingsaintes@hotmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "sources": [
+   "https://kartingdesaintes.com/"
+  ],
+  "note": "Also offers a hand-controlled handi-kart."
+ },
+ {
+  "id": "way/715352032",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.royanatlantique.fr/en/activites/oceanic-aventure-quad-et-karting-les-mathes/"
+  ],
+  "note": "Unidentified 133 m track; may be the Océanic Aventure children's electric kart track in Les Mathes (summer only), not confirmed."
+ },
+ {
+  "id": "way/122433185",
+  "name": "AL Karting",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 6 37 29 30 89",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.guide-charente-maritime.com/en/tourism/entertainment/in-nature/karting/les-mathes-447/al-karting-13809.html",
+   "https://www.royanatlantique.fr/en/activites/al-karting-les-mathes/"
+  ],
+  "note": "Seasonal; summer 2026 open daily July-August."
+ },
+ {
+  "id": "way/98318651",
+  "name": "Circuit Berdery",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 59 81 16 21",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://en.tourismepau.com/offers/circuit-berdery-lescar-en-4904326/",
+   "https://guide-bearn-pyrenees.com/en/tourism/entertainment/in-nature/karting/lescar-219/circuit-berdery-963.html"
+  ],
+  "note": "1,100 m track; 2-stroke rental karts reserved for experienced drivers 15+."
+ },
+ {
+  "id": "way/1102755850",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No venue found for this 277 m track west of Limoges."
+ },
+ {
+  "id": "way/70109989",
+  "name": null,
+  "type": "indoor",
+  "website": "https://www.rmt-karting.fr/",
+  "websites": [
+   {
+    "url": "https://www.rmt-karting.fr/",
+    "role": "venue",
+    "name": "RMT Karting"
+   }
+  ],
+  "phone": "+33 5 55 09 18 93",
+  "email": "info@rmt-karting.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": "6.6 kW",
+    "class": "electric"
+   }
+  ],
+  "sources": [
+   "https://www.rmt-karting.fr/",
+   "https://en.visitlimousin.com/stay/leisure-activities-and-facilities/sports-and-leisure-activities-in-haute-vienne/rmt-karting-limoges-en-4155072"
+  ],
+  "note": "Large indoor electric track with 30 karts; min. age 11 and 145 cm."
+ },
+ {
+  "id": "node/2432025566",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found in Loix (Ile de Re)."
+ },
+ {
+  "id": "relation/2174397",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.pyrenees-atlantiques.gouv.fr/contenu/telechargement/48093/356489/file/recueil-64-2023-096-recueil-des-actes-administratifs.pdf"
+  ],
+  "note": "Possibly the homologated Circuit des Sources at Lombia (motorsport circuit), but no karting use confirmed."
+ },
+ {
+  "id": "way/155604424",
+  "name": "JCS Karting Parc",
+  "type": "outdoor",
+  "website": "https://www.jcskarting.com/",
+  "websites": [
+   {
+    "url": "https://www.jcskarting.com/",
+    "role": "venue",
+    "name": "JCS Karting Parc"
+   }
+  ],
+  "phone": "+33 5 55 73 96 22",
+  "email": "info@jcskarting.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RX250",
+    "engine": "270cc",
+    "hp": "9 hp",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.jcskarting.com/",
+   "https://www.brive-tourisme.com/en/fiche/activites-sportives-activites-culturelles-et-prestataires-de-sejours-itinerants/jcs-karting-parc-lubersac_TFOASCAQU019V5000J4/",
+   "https://www.yumping.com/en/motor-sports/jcs-karting--e19629217"
+  ],
+  "note": "Floodlit FFSA track; also Baby Racer karts (3-6 yrs) and a handi-kart."
+ },
+ {
+  "id": "way/290721038",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.karting-de-magescq.fr/",
+  "websites": [
+   {
+    "url": "https://www.karting-de-magescq.fr/",
+    "role": "venue",
+    "name": "Karting de Magescq"
+   },
+   {
+    "url": "https://www.facebook.com/kartingdemagescq/",
+    "role": "other",
+    "name": "Facebook"
+   }
+  ],
+  "phone": "+33 5 58 47 77 66",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.karting-de-magescq.fr/",
+   "https://karting-de-magescq.fr/licencies/"
+  ],
+  "note": "Outdoor (input said indoor): 1,200 m main and 400 m kids tracks; licensed drivers may practice (not July-August), boxes for rent."
+ },
+ {
+  "id": "node/13105619745",
+  "name": null,
+  "type": null,
+  "website": "https://www.family-fun-park-meschers.com/",
+  "websites": [
+   {
+    "url": "https://www.family-fun-park-meschers.com/",
+    "role": "venue",
+    "name": "Family Fun Park Meschers"
+   }
+  ],
+  "phone": "+33 5 46 06 15 58",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.family-fun-park-meschers.com/"
+  ],
+  "note": "Leisure park; phone on its site (06 15 58) differs from input (03 15 58)."
+ },
+ {
+  "id": "way/156358387",
+  "name": "New Kart Poitiers",
+  "type": "outdoor",
+  "website": "http://www.newkartpoitiers.com/",
+  "websites": [
+   {
+    "url": "http://www.newkartpoitiers.com/",
+    "role": "venue",
+    "name": "New Kart Poitiers"
+   }
+  ],
+  "phone": "+33 5 49 51 23 71",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi GT5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "sources": [
+   "https://www.visitpoitiers.fr/en/activites/new-kart-poitiers/",
+   "https://www.yumping.com/en/karting/kart-center-poitiers--e19629422"
+  ],
+  "note": "Website did not resolve at check time; listed as open all year (ANCV); 650 m FFSA track."
+ },
+ {
+  "id": "way/189887727",
+  "name": "Karting Bocaspeed",
+  "type": "outdoor",
+  "website": "https://bocaspeed.fr/",
+  "websites": [
+   {
+    "url": "https://bocaspeed.fr/",
+    "role": "venue",
+    "name": "Bocaspeed"
+   }
+  ],
+  "phone": "+33 5 49 80 38 27",
+  "email": "karting@bocaspeed.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "bio-ethanol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://bocaspeed.fr/",
+   "https://www.gralon.net/evenements/79/evenement-courses-sprint-karting-bocaspeed-2041908.htm"
+  ],
+  "note": "Runs bio-ethanol karts; hosts SWS sprint races in 2026."
+ },
+ {
+  "id": "way/541146049",
+  "name": "Kart System",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 56 47 64 19",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5 hp",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9 hp",
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.citizenkid.com/sortie/karting-system-de-merignac-bordeaux-a105392",
+   "https://www.yumping.com/en/karting/kart-system--e19629578"
+  ],
+  "note": "Leisure (650 m) and international competition (1,320 m) tracks; kartsystem.fr did not resolve, so current status unverified."
+ },
+ {
+  "id": "way/207905346",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 55 78 59 58",
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi GT4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi GT4",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Fun Kid",
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://en.visitlimousin.com/stay/leisure-activities-and-facilities/sports-and-leisure-activities-in-haute-vienne/circuit-des-renardieres-pageas-en-4155085/"
+  ],
+  "note": "1,200 m track; 2026 season 5 Jan-20 Dec, closed Mon-Tue."
+ },
+ {
+  "id": "way/479303819",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No information found on karting at La Fabrique Ludique, Roquefort."
+ },
+ {
+  "id": "way/1241212966",
+  "name": "PromoSports Karting (Circuit Henri Bellin)",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": "Sodi RX7",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://yumping.com/en/multiadventure/promosports--e19688185",
+   "https://www.vienne.gouv.fr/index.php/contenu/telechargement/9119/64746/file/RAA-2016-04-01+n42.pdf"
+  ],
+  "note": "FFSA cat. 2 track straddling Rouillé/Saint-Sauvant; data from directory listings."
+ },
+ {
+  "id": "way/72953754",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No indoor karting found at Médis/Royan; Karting de Royan (outdoor) is nearby, so this could be a duplicate or mis-tag."
+ },
+ {
+  "id": "way/724274244",
+  "name": "Karting de Royan",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.royanatlantique.fr/en/activites/karting-de-royan-royan/",
+   "https://www.yumping.com/karting/karting-de-royan--e19629424"
+  ],
+  "note": "Circuit de la Côte de Beauté, 13 rue d'Arsonval; match to these coordinates not fully confirmed."
+ },
+ {
+  "id": "way/1319275360",
+  "name": "Kart Extrem",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": "+33 5 46 70 92 63",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/kart-extrem--e19629444",
+   "https://www.parcsetloisirs.fr/parc/sarl-kart-extrem"
+  ],
+  "note": "1,150 m track; sources disagree on whether it is currently open; phone unverified."
+ },
+ {
+  "id": "way/261965110",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.evenementielpourtous.com/spectacles-enfants-et-animations-de-noel/location-de-kart-a-pedales/nouvelle-aquitaine/dordogne/sarlat-la-caneda-24520"
+  ],
+  "note": "Possibly the Karting Cross pedal-kart track at Saint-Geniès (not motorised), unconfirmed."
+ },
+ {
+  "id": "node/13377968137",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.passionkarting17.fr/",
+  "websites": [
+   {
+    "url": "https://www.passionkarting17.fr/",
+    "role": "venue",
+    "name": "Passion Karting 17"
+   }
+  ],
+  "phone": "+33 5 16 51 78 69",
+  "email": "passionkarting17@gmail.com",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.passionkarting17.fr/"
+  ],
+  "note": null
+ },
+ {
+  "id": "way/328170185",
+  "name": "Bergerac Karting",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.pays-bergerac-tourisme.com/en/diffusio/saint-laurent-des-vignes/bergerac-karting_TFOASCAQU024FS0004P",
+   "https://www.yumping.com/en/karting/bergerac-karting--e19629574"
+  ],
+  "note": "800 m FFSA track; offers membership and leisure racing; listing info dated 2020."
+ },
+ {
+  "id": "relation/9882790",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found; name suggests a radio-controlled model car club rather than a kart track."
+ },
+ {
+  "id": "way/989919349",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Savignac-sur-Leyze."
+ },
+ {
+  "id": "way/136274608",
+  "name": null,
+  "type": "outdoor",
+  "website": "https://www.passionkarting16.fr",
+  "websites": [
+   {
+    "url": "https://www.passionkarting16.fr",
+    "role": "venue",
+    "name": "Passion Karting 16"
+   }
+  ],
+  "phone": "+33 5 45 62 18 18",
+  "email": "contact@passionkarting16.fr",
+  "status": "open",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "sources": [
+   "https://www.passionkarting16.fr"
+  ],
+  "note": "Circuit de La Rochefoucauld; has club PK16 with driving programmes."
+ },
+ {
+  "id": "way/183755170",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "390cc 4-stroke",
+    "hp": "13 hp",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "125cc 2-stroke",
+    "hp": "21 hp",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc 4-stroke",
+    "hp": "4 hp",
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.yumping.com/en/karting/circuit-karting-perigord--e19684438",
+   "https://www.dordogne-perigord-tourisme.fr/offres/viens-conduire-nos-ptits-bolides-teyjat-fr-3300339/"
+  ],
+  "note": "Sources give differing fleet details (also 9 hp, 28 hp and two-seater mentioned)."
+ },
+ {
+  "id": "way/164016386",
+  "name": "Karting-Loisir 86",
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://www.tourisme-chatellerault.fr/en/?p=11848",
+   "https://www.yumping.com/en/karting/karting-loisir-86--e19629433"
+  ],
+  "note": "800 m outdoor FFSA track plus a 450 m indoor track opened in 2018."
+ },
+ {
+  "id": "way/158604014",
+  "name": "Karting Montalivet",
+  "type": "outdoor",
+  "website": "http://www.karting-montalivet.com/",
+  "websites": [
+   {
+    "url": "http://www.karting-montalivet.com/",
+    "role": "venue",
+    "name": "Karting Montalivet"
+   }
+  ],
+  "phone": "+33 5 56 09 38 94",
+  "email": null,
+  "status": "unknown",
+  "rental": "yes",
+  "own_karts": "unknown",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "sources": [
+   "https://guide-bordeaux-gironde.com/en/tourism/entertainment/in-nature/karting/vendays-montalivet-526/karting-montalivet-6979.html",
+   "https://www.yumping.com/en/karting/karting-montalivet--e19692495"
+  ],
+  "note": "Known website did not resolve; also offers quads."
+ },
+ {
+  "id": "way/483659334",
+  "name": null,
+  "type": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [],
+  "note": "No karting venue found at Villefranque; nearest known is Karting Côte Basque in Briscous (different location)."
+ },
+ {
+  "id": "way/290722218",
+  "name": null,
+  "type": "outdoor",
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "status": "unknown",
+  "rental": "unknown",
+  "own_karts": "unknown",
+  "karts": [],
+  "sources": [
+   "https://www.guide-bordeaux-gironde.com/en/tourism/entertainment/in-nature/karting/etauliers-157/a-s-karting-d-etauliers-6983.html"
+  ],
+  "note": "Association (club) track; no details found."
+ }
+]

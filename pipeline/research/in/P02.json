@@ -1,0 +1,1669 @@
+[
+ {
+  "id": "way/892633637",
+  "name": "Søndersø Karting Klub",
+  "town": "Nordfyns Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartfyn.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/4467097590",
+  "name": "Odense Gokart Hal",
+  "town": "Odense Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://odensegokart.dk"
+  ],
+  "known_fleet": [
+   [
+    "SODI (2024)",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "SODI (2024)",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/712050506",
+  "name": "Gokartcenter Fyn",
+  "town": "Odense Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://gokartcenterfyn.dk/"
+  ],
+  "known_fleet": [
+   [
+    "Dino",
+    "Honda GX270",
+    "9",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/938791191",
+  "name": "Roskilde Racing Center",
+  "town": "Roskilde Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.roskilderacingcenter.dk"
+  ],
+  "known_fleet": [
+   [
+    "SODI",
+    null,
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "town": "Silkeborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://silkeborg-gokart.dk/"
+  ],
+  "known_fleet": [
+   [
+    "Dino",
+    null,
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/4477658831",
+  "name": "Skive Gokart og Paintball Center",
+  "town": "Skive Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.skivegokart.dk"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/1236943145",
+  "name": "Korsør Kart Klub",
+  "town": "Slagelse Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.kgkk.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "town": "Syddjurs Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.dmka.dk/karting/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/94984580",
+  "name": "Als Gokart Klub",
+  "town": "Sønderborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://alsgokartklub.dk/",
+   "https://alsgokart.dk"
+  ],
+  "known_fleet": [
+   [
+    "SODI",
+    null,
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/93851066",
+  "name": "Skærbæk Gocart Center",
+  "town": "Tønder Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.kart.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/356759825",
+  "name": "Vandel Gokart",
+  "town": "Vejle Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://www.vandelgokart.dk/",
+   "https://vandelgokart.dk/klub/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/466134641",
+  "name": "Viborg Motor Klub",
+  "town": "Viborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "https://viborgmotorklub.dk/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "town": "Vordingborg Kommune",
+  "country": "Denmark",
+  "websites": [
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/158239320",
+  "name": "Karting Number One",
+  "town": "Agde",
+  "country": "France",
+  "websites": [
+   "https://www.kartingnumberone.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/405292367",
+  "name": "Le Kart'Are (Circuit d'Aigues-Vives / Circuit International de Lavelanet)",
+  "town": "Aigues-Vives",
+  "country": "France",
+  "websites": [
+   "https://karting-ariege.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/171449371",
+  "name": "Circuit Roger Gaillard (ASK Ancenis)",
+  "town": "Ancenis-Saint-Géréon",
+  "country": "France",
+  "websites": [
+   "https://www.ask-ancenis.fr"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/269958238",
+  "name": "Circuit International Anthoine Hubert (ASK Angerville / RKO)",
+  "town": "Angerville",
+  "country": "France",
+  "websites": [
+   "https://askangerville.fr/",
+   "https://www.rko.fr/",
+   "https://efk-anthoine-hubert.fr/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/290715453",
+  "name": "Ludikart",
+  "town": "Argelès-sur-Mer",
+  "country": "France",
+  "websites": [
+   "https://www.ludikart.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    "120cc",
+    null,
+    "junior"
+   ],
+   [
+    "Egarakart",
+    "100cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/236927018",
+  "name": "Aerokart",
+  "town": "Argenteuil",
+  "country": "France",
+  "websites": [
+   "https://aerokart.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/183168423",
+  "name": "Circuit du Val d'Argenton",
+  "town": "Argentonnay",
+  "country": "France",
+  "websites": [
+   "https://pks-loisirs.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "thermal",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "thermal",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "thermal",
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "way/712430022",
+  "name": "Circuit Pau-Arnos",
+  "town": "Arnos",
+  "country": "France",
+  "websites": [
+   "https://circuit-pau-arnos.fr/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/7476287647",
+  "name": "Puissance Kart Indoor",
+  "town": "Audincourt",
+  "country": "France",
+  "websites": [
+   "https://www.puissancekartindoor.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "160cc",
+    null,
+    "junior"
+   ]
+  ],
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/8082781259",
+  "name": "Metz Kart Indoor by GF (Games Factory Metz)",
+  "town": "Augny",
+  "country": "France",
+  "websites": [
+   "https://gamesfactory.fr/metz/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": true
+ },
+ {
+  "id": "node/4130754189",
+  "name": "Ouest Karting",
+  "town": "Aunay-les-Bois",
+  "country": "France",
+  "websites": [
+   "https://ouest-karting-normandie.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "390cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290668542",
+  "name": "Circuit Karting Besancon (CKB)",
+  "town": "Autoreille",
+  "country": "France",
+  "websites": [
+   "https://ckbesancon.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Rotax Max Evo 125",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc 4-stroke",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "390cc 4-stroke",
+    null,
+    "twin"
+   ],
+   [
+    "Kidracer",
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290679920",
+  "name": "Espace Loisirs Karting",
+  "town": "Beaucaire",
+  "country": "France",
+  "websites": [
+   "https://www.karting-beaucaire.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    "Sodi Kid Racer",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1530188806",
+  "name": "Circuit Philippe Alliot (Vendée Espace Karting)",
+  "town": "Bellevigny",
+  "country": "France",
+  "websites": [
+   "https://karting-philippealliot.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Sodi 2Drive",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/229549858",
+  "name": "Karting Plus Belmont",
+  "town": "Belmont-sur-Rance",
+  "country": "France",
+  "websites": [
+   "https://www.kartingplus.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "120cc",
+    "4 CV",
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    "9 CV",
+    "adult"
+   ],
+   [
+    null,
+    "390cc",
+    "13 CV",
+    "adult"
+   ],
+   [
+    null,
+    "IAME KA100 2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/161851704",
+  "name": "Opale Karting",
+  "town": "Berck",
+  "country": "France",
+  "websites": [
+   "https://www.opalekarting.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart RT10",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    "120cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290722216",
+  "name": "Topgun Evasion - Circuit Karting du Bassin d'Arcachon",
+  "town": "Biganos",
+  "country": "France",
+  "websites": [
+   "https://www.topgun-evasion.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/163841094",
+  "name": "Karting Biguglia (AS Karting Corsika)",
+  "town": "Biguglia",
+  "country": "France",
+  "websites": [
+   "https://www.circuitkarting.fr/karting-biguglia.php"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1527270647",
+  "name": "Kart Escale",
+  "town": "Bort-l'Étang",
+  "country": "France",
+  "websites": [
+   "https://www.kartescale.com/",
+   "https://boutique.kartescale.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "390cc",
+    "16 hp",
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290679925",
+  "name": "Sud Karting Location",
+  "town": "Bouillargues",
+  "country": "France",
+  "websites": [
+   "https://sudkarting.fr/fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/233032193",
+  "name": "Karting de Loudun",
+  "town": "Bournand",
+  "country": "France",
+  "websites": [
+   "https://www.loudun-karting.com/",
+   "https://www.facebook.com/kartingdeloudun"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "bioethanol",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1222119712",
+  "name": "SpeedPark Brest",
+  "town": "Brest",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/brest/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290720400",
+  "name": "Karting Côte Basque",
+  "town": "Briscous",
+  "country": "France",
+  "websites": [
+   "https://www.karting-cotebasque.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1041889411",
+  "name": "SpeedPark Brétigny-sur-Orge",
+  "town": "Brétigny-sur-Orge",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/bretigny-sur-orge/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "petrol (thermique)",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/346861663",
+  "name": "Circuit de Karting Maraikart",
+  "town": "Bucy-le-Long",
+  "country": "France",
+  "websites": [
+   "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/373794179",
+  "name": "Karting Evasion",
+  "town": "Bully",
+  "country": "France",
+  "websites": [
+   "https://www.karting-evasion.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT5",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/108356695",
+  "name": "Circuit de Cabourg",
+  "town": "Cabourg",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-cabourg/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290721039",
+  "name": "Karting du Gaillou",
+  "town": "Capbreton",
+  "country": "France",
+  "websites": [
+   "http://www.kartingdugaillou.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/168227075",
+  "name": "Win'Kart",
+  "town": "Carcassonne",
+  "country": "France",
+  "websites": [
+   "https://www.winkart-11.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "390cc",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/290722219",
+  "name": "K47 Karting Caudecoste",
+  "town": "Caudecoste",
+  "country": "France",
+  "websites": [
+   "https://k47.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/274573480",
+  "name": "Karting de Caussiniojouls (BSO Karting)",
+  "town": "Caussiniojouls",
+  "country": "France",
+  "websites": [
+   "https://karting-caussiniojouls.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    null,
+    "5 hp",
+    "kids"
+   ],
+   [
+    "Sodikart",
+    null,
+    "9 hp",
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    "14 hp",
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    "21.5 hp",
+    "race"
+   ],
+   [
+    "Sodikart",
+    null,
+    "22 hp",
+    "race"
+   ],
+   [
+    null,
+    null,
+    "9 hp",
+    "other"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1080477505",
+  "name": "Wakalase",
+  "town": "Cernay",
+  "country": "France",
+  "websites": [
+   "https://www.wakalase.com/",
+   "https://www.pgkart.com/fr/projets/complexe-de-loisirs-wakalase/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/14090466896",
+  "name": "SpeedPark Rennes",
+  "town": "Cesson-Sévigné",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/rennes/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/701534636",
+  "name": "Karting de Challans (Martini Racing Kart)",
+  "town": "Challans",
+  "country": "France",
+  "websites": [
+   "https://www.karting-challans.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    "Sodi SR5",
+    "270cc",
+    "9 hp",
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    "9 hp",
+    "twin"
+   ],
+   [
+    null,
+    "120cc",
+    "4.5 hp",
+    "kids"
+   ],
+   [
+    null,
+    "Rotax 125 2-stroke",
+    "22 hp",
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/289884888",
+  "name": "LKS - Laville Karting Services",
+  "town": "Champforgeuil",
+  "country": "France",
+  "websites": [
+   "https://www.lkskarting.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/432100728",
+  "name": "Karting du Laquais",
+  "town": "Champier",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdulaquais.com/",
+   "https://www.circuitdulaquais.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT4",
+    "270cc",
+    null,
+    null
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/11563955592",
+  "name": "BattleKart Paris-Sud-Massy",
+  "town": "Champlan",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/paris-sud-massy/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/109128724",
+  "name": "I.TEKKARTING",
+  "town": "Champniers",
+  "country": "France",
+  "websites": [
+   "https://www.itekkarting.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/12648080502",
+  "name": "Karting de Chartres",
+  "town": "Chartres",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdechartres.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/369460246",
+  "name": "Karting du Bugey",
+  "town": "Château-Gaillard",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdubugey.com/",
+   "https://tendancekart.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT8",
+    "Honda GX390",
+    "13 hp",
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "Honda 200cc",
+    "7 hp",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/707199497",
+  "name": "Karthors",
+  "town": "Cieurac",
+  "country": "France",
+  "websites": [
+   "https://www.karthors.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/13817470583",
+  "name": "Speed2Max",
+  "town": "Clermont-Ferrand",
+  "country": "France",
+  "websites": [
+   "https://speed2max.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/30744291",
+  "name": "Circuit de Karting de l'Indre",
+  "town": "Clion",
+  "country": "France",
+  "websites": [
+   "https://circuit-de-lindre.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "Rotax 125",
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/324728989",
+  "name": "Karting de Kerlabo",
+  "town": "Cohiniac",
+  "country": "France",
+  "websites": [
+   "https://kerlabo-kart.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR6",
+    null,
+    null,
+    "junior"
+   ],
+   [
+    "Birel ART",
+    null,
+    null,
+    null
+   ],
+   [
+    "Kid Racer",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "2DRIVE",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1528560674",
+  "name": "Bretagne Karting",
+  "town": "Combrit",
+  "country": "France",
+  "websites": [
+   "https://www.bretagne-karting.bzh/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/758394659",
+  "name": "SpeedPark Conflans-Sainte-Honorine",
+  "town": "Conflans-Sainte-Honorine",
+  "country": "France",
+  "websites": [
+   "https://speedpark.fr/conflans/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/39321555",
+  "name": "Kart Origins",
+  "town": "Corbas",
+  "country": "France",
+  "websites": [
+   "https://kartorigins.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "160cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/72225826",
+  "name": "West Mecapark",
+  "town": "Corcoué-sur-Logne",
+  "country": "France",
+  "websites": [
+   "https://www.west-mecapark.com/"
+  ],
+  "known_fleet": null,
+  "has_official_lengths": false
+ },
+ {
+  "id": "relation/20669653",
+  "name": "RKC Karting Paris",
+  "town": "Cormeilles-en-Vexin",
+  "country": "France",
+  "websites": [
+   "https://rkc-karting-paris.com/",
+   "https://trophee-gentleman.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "390cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/792891327",
+  "name": "Cosne Karting",
+  "town": "Cosne-Cours-sur-Loire",
+  "country": "France",
+  "websites": [
+   "http://www.cosne-karting.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/69104806",
+  "name": "Karting de Crolles",
+  "town": "Crolles",
+  "country": "France",
+  "websites": [
+   "https://kartingdecrolles.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "270cc",
+    "9 hp",
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "160cc",
+    "9 hp",
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "node/5914598951",
+  "name": "Starter Park",
+  "town": "Cuges-les-Pins",
+  "country": "France",
+  "websites": [
+   "https://www.starterpark.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "125cc 2-stroke",
+    null,
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/242783734",
+  "name": "OnlyKart",
+  "town": "Dagneux",
+  "country": "France",
+  "websites": [
+   "https://www.onlykart.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "270cc bioethanol",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1560503900",
+  "name": "KLL Loisirs",
+  "town": "Douvrin",
+  "country": "France",
+  "websites": [
+   "https://kll.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Sodi",
+    null,
+    null,
+    "twin"
+   ],
+   [
+    "Sodi",
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/796566900",
+  "name": "Ardennes Karting",
+  "town": "Douzy",
+  "country": "France",
+  "websites": [
+   "https://ardenneskarting.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RSX",
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi (junior)",
+    "electric",
+    null,
+    "junior"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/126711889",
+  "name": "Kart 71",
+  "town": "Dracy-le-Fort",
+  "country": "France",
+  "websites": [
+   "https://www.kart71.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "has_official_lengths": false
+ },
+ {
+  "id": "way/1540863442",
+  "name": "BattleKart",
+  "town": "Dreux",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/paris-ouest-dreux"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "has_official_lengths": false
+ }
+]
