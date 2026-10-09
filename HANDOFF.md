@@ -37,12 +37,15 @@ and history navigation. Docker preview passes nginx configuration validation
 and returns HTML with no-cache.
 
 Deployment is blocked as of 9 October 2026: SSH to dst-ovh / 57.129.89.104:22
-began timing out after earlier successful inspection. Public HTTPS still
+is intermittent: a later port check and key authentication succeeded, but
+subsequent SCP connections timed out, including a legacy SCP retry with
+keepalives. Public HTTPS still
 returns the previous release (one-hour HTML cache, no planning controls).
-The initial SSH backup command failed, so subsequent uploads and Compose
-rebuild did not run. Creation of backups/before-planning-20261009 and image
-tag kart-atlas:before-planning-20261009 cannot be confirmed; inspect before
-retrying rather than overwriting an existing backup. Once SSH is restored,
+The initial SSH backup command reported a timeout, but a later successful
+inspection confirmed backups/before-planning-20261009 contains the previous
+HTML, JSON and nginx.conf. The rollback image tag has not been verified.
+Transfers have not completed and the Compose rebuild has not run.
+Preserve the existing backup on retries. Once SSH is stable,
 upload the generated HTML/JSON and deploy/nginx.conf, rebuild/recreate only
 the kart-atlas service, and verify public content/cache headers and browser UI.
 
