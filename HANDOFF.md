@@ -36,18 +36,17 @@ overwriting saved venues, four-venue limits, separate standard/race prices,
 and history navigation. Docker preview passes nginx configuration validation
 and returns HTML with no-cache.
 
-Deployment is blocked as of 9 October 2026: SSH to dst-ovh / 57.129.89.104:22
-is intermittent: a later port check and key authentication succeeded, but
-subsequent SCP connections timed out, including a legacy SCP retry with
-keepalives. Public HTTPS still
-returns the previous release (one-hour HTML cache, no planning controls).
-The initial SSH backup command reported a timeout, but a later successful
-inspection confirmed backups/before-planning-20261009 contains the previous
-HTML, JSON and nginx.conf. The rollback image tag has not been verified.
-Transfers have not completed and the Compose rebuild has not run.
-Preserve the existing backup on retries. Once SSH is stable,
-upload the generated HTML/JSON and deploy/nginx.conf, rebuild/recreate only
-the kart-atlas service, and verify public content/cache headers and browser UI.
+Planning release aeba2d7 deployed and verified on 9 October 2026. SSH was
+intermittent on the user's away-from-home network; switching to a phone
+hotspot allowed all transfers and deployment to complete. This points to a
+network/source-IP-dependent issue, not bad credentials, but the exact cause
+was not established. Public HTML matches the tested local file exactly and
+returns Cache-Control: no-cache with CSP intact. Live browser comparison
+shows Cattolica and Adventure Eefde with correct prices and check dates.
+Only kart-atlas was recreated; other server containers remained running.
+Rollback backup: backups/before-planning-20261009 (previous HTML, JSON and
+nginx.conf). Image tag kart-atlas:before-planning-20261009 was ensured before
+the build. Preserve these backups.
 
 Paste this into a new Claude Code session opened in this folder:
 
