@@ -1,6 +1,7 @@
 [
   {
     "id":"way/245463137",
+    "checked_at":"2026-10-09",
     "prices":[],
     "fees":[],
     "membership":null,
@@ -10,6 +11,12 @@
   },
   {
     "id":"way/423697503",
+    "checked_at":"2026-10-09",
+    "website":"https://www.pistadicattolica.it/",
+    "rental":"yes",
+    "own_karts":"yes",
+    "source":"https://www.pistadicattolica.it/",
+    "website_note":"Official operator website verified on 2026-10-09 through JEEPER CROSS srl, Via Gallinelli, Cattolica, and linked Jeepers Kart profiles. Replaces the inaccessible pistacattolica.it domain. Main and beginner tracks offer rental and private vehicle use; numeric kart age/height limits remain unverified.",
     "prices":[
       {"label":"KART 400 CC - Sessione Giri Liberi","class":"adult","type":"session","minutes":10,"laps":null,"price":20,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Main track; regular kart rental, not the motorcycle offers.","comparison_eligible":true},
       {"label":"KART 400 CC - MiniGP","class":"adult","type":"package","minutes":5,"laps":12,"price":30,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"5 minutes qualifying plus 12-lap race; minutes describe qualifying only, not total driving time."},
@@ -30,6 +37,7 @@
   },
   {
     "id":"way/59826097",
+    "checked_at":"2026-10-09",
     "prices":[],
     "fees":[],
     "membership":null,
@@ -39,6 +47,12 @@
   },
   {
     "id":"way/316423358",
+    "checked_at":"2026-10-09",
+    "website":"https://www.kartodromolascari.it/",
+    "rental":"yes",
+    "own_karts":"yes",
+    "source":"https://www.kartodromolascari.it/",
+    "website_note":"Official HTTPS website verified on 2026-10-09 by venue name and address in Lascari. Published rental tariffs are available, but engine-to-age/class mapping remains unverified. See the price notes for confirmed biposto requirements.",
     "prices":[
       {"label":"Kart 160 cc","class":"other","type":"session","minutes":10,"laps":null,"price":15,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Published 10-minute rental tariff. Price section does not explicitly associate engine size with Mini R13 or an age class; not assumed to be standard adult or a verified children's price.","comparison_eligible":false},
       {"label":"Kart 390 cc","class":"other","type":"session","minutes":10,"laps":null,"price":20,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Published 10-minute rental tariff. Fleet R25 is listed as age 12+, minimum height 145 cm, but price section does not explicitly map R25 to 390 cc; class and numeric limits not attached by inference.","comparison_eligible":false},

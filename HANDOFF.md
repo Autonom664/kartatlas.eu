@@ -20,6 +20,32 @@ Cattolica's apparent EUR 3 package typo is retained with a warning and excluded
 from comparison. Lascari's uncertain kart classes and South Milano's unverified
 standard/performance distinction are explicitly excluded, not guessed.
 
+The tested planning release adds browser-local favourites, explicit shared
+shortlists, and comparison of two to four venues, keeping standard adult and
+race-kart offers separate. Research P10/P11 now carries explicit inspection
+dates and five verified current operator links, plus verified rental facts.
+Failed checks are labelled attempts, not verified prices; older records with
+no date remain undated. HTML revalidates while JSON retains one-hour caching.
+Favourites are origin-specific; a shortlist link can transfer them to `.eu`.
+See README for generated fields, URL format and privacy behaviour.
+
+Planning release validation: four Python and fourteen Node tests pass.
+Browser checks cover persistent favourites, shared-list merging without
+overwriting saved venues, four-venue limits, separate standard/race prices,
+390 px mobile scrolling, clipboard-denial feedback, Escape/focus restoration
+and history navigation. Docker preview passes nginx configuration validation
+and returns HTML with no-cache.
+
+Deployment is blocked as of 9 October 2026: SSH to dst-ovh / 57.129.89.104:22
+began timing out after earlier successful inspection. Public HTTPS still
+returns the previous release (one-hour HTML cache, no planning controls).
+The initial SSH backup command failed, so subsequent uploads and Compose
+rebuild did not run. Creation of backups/before-planning-20261009 and image
+tag kart-atlas:before-planning-20261009 cannot be confirmed; inspect before
+retrying rather than overwriting an existing backup. Once SSH is restored,
+upload the generated HTML/JSON and deploy/nginx.conf, rebuild/recreate only
+the kart-atlas service, and verify public content/cache headers and browser UI.
+
 Paste this into a new Claude Code session opened in this folder:
 
 ---

@@ -1,6 +1,11 @@
 [
   {
     "id":"way/388280270",
+    "checked_at":"2026-10-09",
+    "website":"https://www.southmilanokarting.com/",
+    "rental":"yes",
+    "source":"https://www.southmilanokarting.com/struttura-piste-paddock-servizi",
+    "website_note":"Official alternative verified on 2026-10-09 by operator, venue, email and telephone. Replaces the inaccessible pistasouthmilano.it link. Published 4T, 2T, children's, twin and group offers are listed separately; standard-adult eligibility of the 4T offer remains unverified.",
     "prices":[
       {"label":"Divertimento per Bambini","class":"kids","type":"session","minutes":10,"laps":null,"price":20,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"Per person. Helmet, hygienic under-helmet covering and live safety assistance included. Age/height limits not published on inspected rental page."},
       {"label":"Divertimento a Coppie","class":"twin","type":"session","minutes":10,"laps":null,"price":30,"currency":"EUR","extras":false,"member":false,"min_age":null,"max_age":null,"min_height_cm":null,"day":null,"note":"The official page explicitly says prezzo a persona (per person), including for this couple offer; not reinterpreted as per kart. Helmet, hygienic covering and assistance included."},
@@ -23,6 +28,8 @@
   },
   {
     "id":"way/347258997",
+    "checked_at":"2026-10-09",
+    "source":"https://www.comune.santamariadelmolise.is.it/vivere-il-comune/luoghi/karting-club-molise/",
     "prices":[],
     "fees":[],
     "membership":null,
@@ -32,6 +39,11 @@
   },
   {
     "id":"node/6859713080",
+    "checked_at":"2026-10-09",
+    "website":"https://adventureeefde.nl/",
+    "name":"Adventure Eefde (Karting Eefde)",
+    "rental":"yes",
+    "website_note":"Current official operator verified on 2026-10-09: Karting Eefde was renamed Adventure Eefde in 2018. Address and phone match the venue. Replaces the inaccessible kartingeefde.nl link; published adult, junior and duo offers are available.",
     "prices":[
       {"label":"Volwassen kart","class":"adult","type":"session","minutes":10,"laps":null,"price":18,"currency":"EUR","extras":false,"member":false,"min_age":13,"max_age":null,"min_height_cm":150,"day":null,"comparison_eligible":true,"note":"Per 10 minutes; standard adult rental. Official heading says adults 13 years and older."},
       {"label":"Kinderkart","class":"junior","type":"session","minutes":10,"laps":null,"price":13,"currency":"EUR","extras":false,"member":false,"min_age":8,"max_age":12,"min_height_cm":135,"day":null,"note":"Per 10 minutes; youth section states 8-12 years. Price table specifies from 8 years and minimum 1.35 m."},
@@ -48,6 +60,12 @@
   },
   {
     "id":"node/13897664495",
+    "checked_at":"2026-10-09",
+    "website":"https://www.playdome.nl/",
+    "name":"Playdome (Kart Centre Roosendaal)",
+    "rental":"yes",
+    "source":"https://www.playdome.nl/playkarten/",
+    "website_note":"Current official successor verified on 2026-10-09: Playdome took over Kart Centre Roosendaal and opened in August 2021 at the same address with matching telephone. Replaces the unusable kcr.nl link. Rental prices are session blocks, not standard single-session comparisons.",
     "prices":[
       {"label":"Playkarten - 2 sessies dal","class":"adult","type":"package","minutes":10,"laps":null,"price":35.5,"currency":"EUR","extras":false,"member":false,"min_age":14,"max_age":null,"min_height_cm":140,"day":"Off-peak (dal); exact schedule not published on inspected pages","note":"Per person for 2 sessions. Each booked session is 12 minutes including entry/exit, 10 minutes actual driving; about 1 hour total program. Must buy sessions in blocks; do not divide price into a fictitious single-session price. Official family page says family and regular rates are identical."},
       {"label":"Playkarten - 2 sessies piek","class":"adult","type":"package","minutes":10,"laps":null,"price":40.5,"currency":"EUR","extras":false,"member":false,"min_age":14,"max_age":null,"min_height_cm":140,"day":"Peak (piek); exact schedule not published on inspected pages","note":"Per person for 2 sessions, each 12 minutes including pit entry/exit, 10 minutes actual driving. Source https://www.playdome.nl/familie-playkarten/ explicitly confirms same peak tariff as regular Playkarten."},

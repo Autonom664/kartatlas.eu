@@ -37,6 +37,28 @@ corrections are preserved in `pipeline/`.
   Browser Back/Forward restores these states. Device coordinates and their
   map viewport are never included.
 
+## Favourites and comparison
+
+Open a venue to save it or add it to a comparison. The header opens saved
+venues, shared shortlists and side-by-side comparison of up to four venues.
+Comparison keeps standard adult sessions separate from performance/race
+offers, and shows family evidence, source links, track lengths and fee
+conditions. Missing facts are labelled unverified, never assumed unavailable.
+The existing membership option also applies to comparisons.
+
+Favourites use `localStorage` under `kartatlas.favourites`, containing only
+stable venue IDs. No account, coordinates or external storage is involved.
+Storage failures are reported and leave a usable in-memory list for the
+current visit. Saved lists are browser/origin-specific: the future `.eu` domain
+will not automatically inherit favourites from `.dk`; copy a shortlist link,
+change its hostname to `.eu` after activation, and use Save all to transfer them.
+
+Shortlist links use `#shortlist=`; comparison links use `#compare=` with at
+most four IDs and the optional membership setting. Opening a shared shortlist
+does not overwrite local favourites. Visitors explicitly save shared venues.
+Only intentional list/comparison sharing exposes the corresponding venue IDs;
+device coordinates and map bounds are omitted from these links.
+
 ## Prices
 
 `pipeline/price_rules.py` produces explicit comparison eligibility at index 18
@@ -51,6 +73,17 @@ Session summaries show the lowest-priced eligible timed session, which can
 differ from the session offering the lowest EUR/min. Mandatory fees remain
 separate with their conditions; no complete first-visit total is claimed.
 Member-only prices remain opt-in.
+
+Research can record `checked_at` (ISO date) for the actual source inspection,
+`source` for layouts, and verified `website`/`website_note`, `name`, `rental` and
+`own_karts` corrections. These fields are merged from the selected price
+research record; nonempty earlier prices/layouts survive empty retries.
+Generated `Pc`/`Tc` identify price/layout check dates; `Pa` records the latest
+explicitly dated price research attempt, even when a retry found no prices.
+A failed attempt does not change the check date of retained earlier prices.
+Earlier records without explicit dates display "date not recorded", rather
+than borrowing the build or exchange-rate date. Verified replacement operator
+links supersede stale venue links while separate club links are retained.
 
 ## Docker deployment
 
@@ -71,5 +104,7 @@ and a certificate covering that name has been issued. Both names are intended
 to serve the site without a cross-domain redirect.
 
 Security headers permit first-party geolocation only, disable camera and
-microphone, restrict resources with CSP, and retain a one-hour cache lifetime.
+microphone, and restrict resources with CSP. HTML uses `Cache-Control: no-cache`
+so browsers revalidate it on each visit; the companion JSON retains its
+one-hour cache lifetime.
 The app still uses inline scripts/styles and pinned third-party script URLs.

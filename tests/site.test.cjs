@@ -10,7 +10,7 @@ const tracks = JSON.parse(fs.readFileSync(path.join(root, "kart-atlas.json"), "u
 const template = fs.readFileSync(path.join(root, "pipeline", "template.html"), "utf8");
 
 function loadFunction(name, values) {
-  const match = template.match(new RegExp(`function ${name}\\([^]*?\\n\\}`, "m"));
+  const match = template.match(new RegExp(`(?:async )?function ${name}\\([^]*?\\n\\}`, "m"));
   assert.ok(match, `Missing function ${name}`);
   const context = vm.createContext(values);
   vm.runInContext(match[0], context);
@@ -73,7 +73,7 @@ test("private device origin and derived map viewport never enter share URLs", ()
       on: { outdoor: true }, view: "list", radius: 50, bounds: null,
     };
     const save = loadFunction("saveUrl", {
-      state, TRACKS: [{ o: "way/123" }], restoring: false, URLSearchParams,
+      state, TRACKS: [{ o: "way/123" }], compareIds: ["way/456"], sharedIds: ["way/789"], restoring: false, URLSearchParams,
       location: { hash: "" }, history: { pushState: (_a, _b, hash) => { saved = hash; } },
       document: { getElementById: () => ({ clientWidth: 390, clientHeight: 500 }) },
       svg: { node: () => ({}) }, d3: { zoomTransform: () => ({ invert: v => v, k: 1 }) },
@@ -82,8 +82,146 @@ test("private device origin and derived map viewport never enter share URLs", ()
     save();
     const params = new URLSearchParams(saved.slice(1));
     assert.equal(params.get("venue"), "way/123");
+    assert.equal(params.get("compare"), "way/456");
+    assert.equal(params.get("shortlist"), "way/789");
     assert.equal(params.has("map"), !!origin.label);
     assert.equal(params.has("town"), !!origin.label);
     assert.equal(params.has("sort"), !!origin.label);
+  }
+});
+
+test("source freshness is explicit, and failed checks do not claim verified prices", () => {
+  const freshness = loadFunction("freshness", {});
+  assert.match(freshness({ P: [[1]], Pc: "2026-10-09" }), /checked on 2026-10-09/);
+  assert.match(freshness({ P: [[1]] }), /date was not recorded/);
+  assert.match(freshness({ Pa: "2026-10-09" }), /No verified published prices.*Last research attempt: 2026-10-09/);
+  assert.doesNotMatch(freshness({ Pa: "2026-10-09" }), /prices checked on/);
+  assert.doesNotMatch(freshness({ P: [[1]], Pc: "<img>" }), /<img>/);
+});
+
+test("shortlists accept only unique existing IDs and comparisons are bounded to four", () => {
+  const ids = ["way/1", "way/2", "node/3", "way/4", "way/5"];
+  const validate = loadFunction("validVenueIds", { venueIds: new Set(ids), TRACKS: ids });
+  assert.deepEqual(Array.from(validate(["way/1", "way/1", null, "<script>", ...ids], 4)), ids.slice(0, 4));
+  assert.deepEqual(Array.from(validate({})), []);
+  assert.deepEqual(Array.from(validate(ids)), ids);
+});
+
+test("family limits are evidence-based and unknown is not unavailable", () => {
+  const family = loadFunction("familySummary", {});
+  assert.equal(family({}), "Family options not verified.");
+  assert.match(family({ K: [[null, null, null, "twin"]] }), /twin.*Age\/height limits not verified/);
+  const junior = Array(19).fill(null);
+  junior[0] = "Junior"; junior[1] = "junior"; junior[8] = 8; junior[10] = 130;
+  assert.match(family({ P: [junior] }), /age 8\+, minimum 130 cm/);
+});
+
+test("recent verified operator replacements and source dates survive the build", () => {
+  const expected = {
+    "way/423697503": "https://www.pistadicattolica.it/",
+    "way/388280270": "https://www.southmilanokarting.com/",
+    "way/316423358": "https://www.kartodromolascari.it/",
+    "node/6859713080": "https://adventureeefde.nl/",
+    "node/13897664495": "https://www.playdome.nl/",
+  };
+  for (const [id, website] of Object.entries(expected)) {
+    const t = tracks.find(t => t.o === id);
+    assert.equal(t.w, website);
+    assert.equal(t.ws[0][0], website);
+    assert.equal(t.Pc, "2026-10-09");
+    assert.equal(t.r, "yes");
+    if (t.T) { assert.equal(t.Tc, "2026-10-09"); assert.ok(t.Ts); }
+  }
+  assert.equal(tracks.find(t => t.o === "way/388280270").ppm, null);
+  for (const id of ["way/245463137", "way/59826097", "way/347258997"]) {
+    const t = tracks.find(t => t.o === id);
+    assert.equal(t.Pc, undefined);
+    assert.equal(t.Pa, "2026-10-09");
+  }
+});
+
+test("HTML revalidates while the companion dataset retains its cache policy", () => {
+  const nginx = fs.readFileSync(path.join(root, "deploy", "nginx.conf"), "utf8");
+  for (const location of ["/", "/index.html"]) {
+    const block = nginx.split(`location = ${location} {`)[1].split("\n    }")[0];
+    assert.match(block, /Cache-Control "no-cache"/);
+    assert.doesNotMatch(block, /expires 1h/);
+    assert.match(block, /Content-Security-Policy/);
+  }
+  assert.match(nginx.split("location = /kart-atlas.json {")[1], /max-age=3600/);
+});
+
+test("a fifth comparison is rejected with feedback and removal frees a place", () => {
+  const status = { textContent: "" };
+  let saved = 0, updated = 0;
+  const toggle = loadFunction("toggleComparison", {
+    venueIds: new Set(["a", "b", "c", "d", "e"]), compareIds: ["a", "b", "c", "d"],
+    planner: { open: false }, document: { getElementById: () => status },
+    updatePlanning: () => updated++, saveUrl: () => saved++,
+  });
+  toggle("e");
+  assert.match(status.textContent, /up to four/);
+  assert.equal(saved, 0);
+  toggle("a"); toggle("e");
+  assert.equal(updated, 2);
+  assert.equal(saved, 2);
+  assert.match(status.textContent, /4 of 4/);
+});
+
+test("favourites persist as IDs and storage failures are explicitly reported", () => {
+  const status = { textContent: "" };
+  const writes = [];
+  let blocked = false;
+  const toggle = loadFunction("toggleFavourite", {
+    favouriteIds: [], venueIds: new Set(["way/1"]), planner: { open: false },
+    document: { getElementById: () => status }, updatePlanning: () => {},
+    localStorage: { setItem: (key, value) => { if (blocked) throw new Error("Storage denied"); writes.push([key, value]); } },
+  });
+  toggle("way/1");
+  assert.deepEqual(writes, [["kartatlas.favourites", '["way/1"]']]);
+  toggle("way/1");
+  assert.equal(writes[1][1], "[]");
+  blocked = true; toggle("way/1");
+  assert.match(status.textContent, /Could not persist saved venues: Storage denied.*visit only/);
+});
+
+test("comparison renders standard and race offers separately and escapes source text", () => {
+  const state = { member: false };
+  const esc = loadFunction("esc", {});
+  const sessionOf = loadFunction("sessionOf", { state });
+  const offerSummary = loadFunction("offerSummary", {});
+  const familySummary = loadFunction("familySummary", {});
+  const freshness = loadFunction("freshness", {});
+  const compare = loadFunction("comparisonTable", {
+    state, esc, sessionOf, offerSummary, familySummary, freshness,
+    ppmOf: t => t.ppm, title: t => t.n, planningActions: () => "",
+    feeLine: () => "", siteLinks: () => "",
+  });
+  const south = tracks.find(t => t.o === "way/388280270");
+  const html = compare([{ ...south, n: '<img src=x onerror="alert(1)">' }]);
+  assert.match(html, /Performance \/ race sessions/);
+  assert.match(html, /No eligible standard adult session verified/);
+  assert.match(html, /€60\.00/);
+  assert.match(html, /&lt;img/);
+  assert.doesNotMatch(html, /<img/);
+});
+
+test("shortlist and comparison sharing omit device location, search and viewport", async () => {
+  for (const mode of ["saved", "shared", "compare"]) {
+    let copied;
+    const share = loadFunction("sharePlan", {
+      plannerMode: mode, favouriteIds: ["way/1"], sharedIds: ["way/2"], compareIds: ["way/1", "way/2"],
+      state: { member: true, origin: { lo: 12.345, la: 54.321 } }, URL, URLSearchParams,
+      location: { href: "https://kartatlas.eu/?release=1#town=Berlin&map=12.345,54.321,6&venue=way/3" },
+      navigator: { clipboard: { writeText: async value => { copied = value; } } },
+      document: { getElementById: () => ({ textContent: "" }) },
+    });
+    await share();
+    const url = new URL(copied);
+    const params = new URLSearchParams(url.hash.slice(1));
+    assert.equal(url.search, "");
+    assert.deepEqual([...params.keys()], mode === "compare" ? ["compare", "member"] : ["shortlist"]);
+    assert.equal(params.get(mode === "compare" ? "compare" : "shortlist"), mode === "compare" ? "way/1,way/2" : mode === "saved" ? "way/1" : "way/2");
+    assert.doesNotMatch(copied, /12\.345|54\.321/);
   }
 });

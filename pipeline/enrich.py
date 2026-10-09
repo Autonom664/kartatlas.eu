@@ -90,6 +90,7 @@ for t in tracks:
         if 40 <= L <= 6000: T.append([k.get('name'), L, k.get('width_m'), k.get('use')])
     if T:
         t['T'] = T; t['Ts'] = r.get('source'); t['Tn'] = r.get('note')
+        t['Tc'] = r.get('checked_at')
         t['len'] = max(x[1] for x in T)
 # prices from venue websites (research/out/P*.json), converted with ECB reference rates
 import urllib.request, xml.etree.ElementTree as ET
@@ -105,10 +106,11 @@ try:
 except Exception as e:
     print('ECB fetch failed, using cached rates:', e)
     rates = json.load(open(RATES_FILE)) if os.path.exists(RATES_FILE) else {'date': None, 'EUR': 1.0}
-prices = {}
+prices, attempts = {}, {}
 for f in sorted(glob.glob(base + '/research/out/P*.json')):
     try:
         for r in json.load(open(f, encoding='utf-8')):
+            if r.get('checked_at'): attempts[r['id']] = r['checked_at']
             if r.get('prices') or r['id'] not in prices: prices[r['id']] = r
     except ValueError:
         print('skipped (being written):', f)
@@ -117,6 +119,17 @@ def num(v):
     except (TypeError, ValueError): return None
 for t in tracks:
     r = prices.get(t['o'])
+    if r and r.get('website'):
+        t['w'] = r['website']
+        t['ws'] = [[r['website'], 'venue', None]] + [w for w in (t.get('ws') or []) if w[1] == 'club' and w[0] != r['website']]
+        t['note'] = r.get('website_note') or t.get('note')
+        if r.get('name'):
+            t['n'] = r['name']; t['gs'] = None; t['near'] = None
+    if r:
+        for field, key in [('rental', 'r'), ('own_karts', 'ow')]:
+            if r.get(field) in ('yes', 'no'):
+                t[key] = r[field]
+    t['Pa'] = attempts.get(t['o'])
     if OVR.get(t['o'], {}).get('noprice'): r = None
     P = []
     for q in (r or {}).get('prices') or []:
@@ -139,6 +152,7 @@ for t in tracks:
                   not comparison_eligible(q), comparison_eligible(q)])
     if P:
         t['P'] = P; t['Ps'] = r.get('price_source'); t['Pn'] = r.get('note')
+        t['Pc'] = r.get('checked_at')
         def standard(x):
             return x[18]
         def best(idx, members):

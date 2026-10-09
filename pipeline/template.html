@@ -144,6 +144,19 @@ input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px so
 .session { grid-column: 2 / 4; font-size: 13px; }
 .mobile-nav { display: none; }
 details > summary { cursor: pointer; padding: 8px 0; }
+.planning { display: flex; flex-wrap: wrap; gap: 6px; }
+.planning .chip { min-height: 44px; }
+.planner { width: min(1100px, calc(100vw - 24px)); max-height: 90dvh; padding: 16px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel); color: var(--fg); }
+.planner::backdrop { background: rgb(0 0 0 / .55); }
+.planner-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.planner h2 { margin: 0; font: 700 24px var(--display); }
+.planner-scroll { overflow-x: auto; margin-top: 12px; }
+.comparison { border-collapse: collapse; width: 100%; font-size: 13px; }
+.comparison th, .comparison td { border: 1px solid var(--line); padding: 10px; vertical-align: top; text-align: left; min-width: 190px; overflow-wrap: anywhere; }
+.comparison th[scope="row"] { min-width: 140px; }
+.comparison caption { text-align: left; margin-bottom: 10px; color: var(--muted); }
+.saved-item { border-top: 1px solid var(--line); padding: 12px 0; }
+.saved-item h3 { margin: 0 0 6px; }
 @media (max-width: 820px) {
   .app { grid-template-rows: auto auto minmax(0, 1fr); height: 100dvh; overflow: hidden; }
   .mobile-nav { display: flex; grid-column: 1 / -1; padding: 8px 16px; background: var(--panel); }
@@ -166,6 +179,11 @@ details > summary { cursor: pointer; padding: 8px 0; }
     <h1>Kart Atlas</h1>
     <span class="sub"><span id="covered"></span> · every kart venue in OpenStreetMap</span>
     <div class="stats" id="stats"></div>
+    <nav class="planning" aria-label="Trip planning">
+      <button class="chip" id="saved-venues" type="button">Saved venues (0)</button>
+      <button class="chip" id="shared-venues" type="button" hidden>Shared shortlist</button>
+      <button class="chip" id="compare-venues" type="button">Compare (0/4)</button>
+    </nav>
   </header>
   <nav class="mobile-nav viewrow" aria-label="Display mode">
     <button class="chip" data-view="list" aria-pressed="true">List</button>
@@ -230,6 +248,12 @@ details > summary { cursor: pointer; padding: 8px 0; }
   </aside>
 </div>
 
+<dialog id="planner" class="planner" aria-labelledby="planner-title">
+  <div class="planner-head"><h2 id="planner-title">Trip planning</h2><button class="chip" id="planner-close" type="button" autofocus>Close</button></div>
+  <p id="planner-status" class="status" role="status"></p>
+  <div id="planner-body"></div>
+</dialog>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
 <script>
@@ -246,6 +270,22 @@ const state = { on: { outdoor: true, indoor: true, kids: false }, cc: Object.fro
 const CCID = Object.fromEntries(Object.entries(COUNTRIES).map(([c, v]) => [v.id, c]));
 document.getElementById("covered").textContent = Object.values(COUNTRIES).map(c => c.name).join(", ");
 TRACKS.forEach((t, i) => t.id = i);
+const venueIds = new Set(TRACKS.map(t => t.o));
+let favouriteIds = [], compareIds = [], sharedIds = [], plannerMode = "saved", plannerReturnFocus = null;
+const planner = document.getElementById("planner");
+function validVenueIds(value, limit = TRACKS.length) {
+  return Array.isArray(value) ? [...new Set(value.filter(id => typeof id === "string" && venueIds.has(id)))].slice(0, limit) : [];
+}
+try {
+  const stored = localStorage.getItem("kartatlas.favourites");
+  if (stored) {
+    const parsed = JSON.parse(stored);
+    if (!Array.isArray(parsed)) throw new Error("Saved venue data is not a list.");
+    favouriteIds = validVenueIds(parsed);
+  }
+} catch (e) {
+  document.getElementById("share-status").textContent = `Could not load saved venues: ${e.message}. You can still build a shortlist for this visit.`;
+}
 const towns = new Map();
 TRACKS.filter(t => t.c).forEach(t => {
   const label = `${t.c}, ${COUNTRIES[t.cc].name}`;
@@ -353,7 +393,11 @@ function closeDetail(updateUrl = true) {
   if (row) { row.scrollIntoView({ block: "nearest" }); row.focus({ preventScroll: true }); }
   if (updateUrl) saveUrl();
 }
-document.addEventListener("keydown", e => { if (e.key === "Escape") closeDetail(); });
+document.addEventListener("keydown", e => {
+  if (e.key !== "Escape") return;
+  if (planner.open) { e.preventDefault(); planner.close(); }
+  else closeDetail();
+});
 document.getElementById("detail").addEventListener("click", e => { if (e.target.closest("[data-close]")) { e.preventDefault(); e.stopPropagation(); closeDetail(); } });
 document.getElementById("detail").addEventListener("click", e => {
   const b = e.target.closest("[data-tab]"); if (!b) return;
@@ -378,6 +422,158 @@ function select(id, fly = true) {
 
 function title(t) { return t.n || (t.near ? `Kart track near ${t.near}` : "Unnamed kart track"); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function freshness(t) {
+  const date = v => typeof v === "string" && /^\d{4}-\d{2}-\d{2}$/.test(v) ? v : null;
+  if (t.P?.length) return date(t.Pc) ? `Published prices checked on ${t.Pc}. Confirm current prices with the venue before travelling.` : "Published prices found; the source-check date was not recorded. Confirm current prices with the venue.";
+  return `No verified published prices in the atlas. This does not mean rental is unavailable.${date(t.Pa) ? ` Last research attempt: ${t.Pa}.` : ""}`;
+}
+function planningActions(t) {
+  return `<div class="planning"><button class="chip" type="button" data-favourite="${esc(t.o)}" aria-pressed="${favouriteIds.includes(t.o)}">${favouriteIds.includes(t.o) ? "Unsave venue" : "Save venue"}</button>
+    <button class="chip" type="button" data-compare="${esc(t.o)}" aria-pressed="${compareIds.includes(t.o)}">${compareIds.includes(t.o) ? "Remove from comparison" : "Add to comparison"}</button></div>`;
+}
+function updatePlanning() {
+  document.getElementById("saved-venues").textContent = `Saved venues (${favouriteIds.length})`;
+  document.getElementById("compare-venues").textContent = `Compare (${compareIds.length}/4)`;
+  document.getElementById("shared-venues").hidden = !sharedIds.length;
+  document.querySelectorAll("[data-favourite]").forEach(b => {
+    const saved = favouriteIds.includes(b.dataset.favourite);
+    b.setAttribute("aria-pressed", saved); b.textContent = saved ? "Unsave venue" : "Save venue";
+  });
+  document.querySelectorAll("[data-compare]").forEach(b => {
+    const compared = compareIds.includes(b.dataset.compare);
+    b.setAttribute("aria-pressed", compared); b.textContent = compared ? "Remove from comparison" : "Add to comparison";
+  });
+}
+function toggleFavourite(id) {
+  if (!venueIds.has(id)) return;
+  favouriteIds = favouriteIds.includes(id) ? favouriteIds.filter(v => v !== id) : [...favouriteIds, id];
+  let message = "Saved venues are stored only in this browser, without an account.";
+  try { localStorage.setItem("kartatlas.favourites", JSON.stringify(favouriteIds)); }
+  catch (e) { message = `Could not persist saved venues: ${e.message}. Changes are available for this visit only.`; }
+  updatePlanning();
+  if (planner.open) renderPlanner();
+  document.getElementById(planner.open ? "planner-status" : "share-status").textContent = message;
+}
+function toggleComparison(id) {
+  if (!venueIds.has(id)) return;
+  const status = document.getElementById(planner.open ? "planner-status" : "share-status");
+  if (!compareIds.includes(id) && compareIds.length >= 4) {
+    status.textContent = "Compare up to four venues. Remove one from the comparison before adding another.";
+    return;
+  }
+  compareIds = compareIds.includes(id) ? compareIds.filter(v => v !== id) : [...compareIds, id];
+  updatePlanning();
+  if (planner.open) renderPlanner();
+  status.textContent = `${compareIds.length} of 4 comparison places selected. Use Compare to view them side by side.`;
+  saveUrl();
+}
+function offerSummary(p) {
+  return `${p[0] || p[1] || "Session"}: €${p[6].toFixed(2)}${p[2] ? ` / ${p[2]} min` : ""}${p[3] ? ` / ${p[3]} laps` : ""}${p[5] !== "EUR" ? ` (${p[4]} ${p[5]})` : ""}${p[16] ? " · members only" : ""}${p[12] ? ` · ${p[12]}` : ""}`;
+}
+function familySummary(t) {
+  const classes = [...new Set([...(t.K || []).map(k => k[3]), ...(t.P || []).map(p => p[1])].filter(c => ["kids", "junior", "twin"].includes(c)))];
+  if (!classes.length) return "Family options not verified.";
+  const limits = (t.P || []).filter(p => classes.includes(p[1]) && (p[8] != null || p[9] != null || p[10] != null));
+  return `${classes.join(", ")} offers/fleet published. ${limits.length ? limits.map(p => `${p[0] || p[1]}: ${[p[8] != null ? `age ${p[8]}+` : "", p[9] != null ? `maximum age ${p[9]}` : "", p[10] != null ? `minimum ${p[10]} cm` : ""].filter(Boolean).join(", ")}`).join("; ") : "Age/height limits not verified."} Confirm driver/passenger rules and whether families can drive together.`;
+}
+function comparisonTable(venues) {
+  const rows = [
+    ["Rental availability", t => esc(t.r === "yes" ? "Confirmed rental" : t.r === "no" ? "Reported no rental" : "Not verified") + (t.cl ? " · Reported closed" : "")],
+    ["Lowest standard session", t => sessionOf(t) ? esc(offerSummary(sessionOf(t))) : "No eligible standard adult session verified"],
+    ["Lowest standard €/min", t => ppmOf(t) != null ? `€${ppmOf(t).toFixed(2)}/min${ppmOf(t) !== t.ppm ? " · member price" : ""}` : "Not verified"],
+    ["Fees and membership", t => (feeLine(t) || "No fee information verified") + "<p class=\"note\">Not a guaranteed complete first-visit total.</p>"],
+    ["Performance / race sessions", t => {
+      const offers = (t.P || []).filter(p => p[1] === "race" && p[11] === "session" && !p[14] && (!p[16] || state.member));
+      return offers.length ? offers.map(p => `<p>${esc(offerSummary(p))}${p[13] ? `<br><span class="note">${esc(p[13])}</span>` : ""}</p>`).join("") : "No verified race-kart session price";
+    }],
+    ["Family options", t => esc(familySummary(t))],
+    ["Track length", t => t.T?.length ? esc(t.T.map(l => `${l[0] || "Track"}: ${l[1]} m`).join("; ")) : t.lm ? `Approx. ${t.lm} m, measured from the map` : "Not verified"],
+    ["Price freshness", t => esc(freshness(t))],
+    ["Sources", t => siteLinks(t, t.w) + (t.Ps ? ` <a href="${esc(t.Ps)}" target="_blank" rel="noopener">Price source</a>` : "")],
+  ];
+  return `<div class="planner-scroll" tabindex="0" aria-label="Scrollable venue comparison"><table class="comparison"><caption>Standard rental and performance/race prices are separate. Lowest session cost and lowest €/min may describe different sessions. Membership is ${state.member ? "included" : "excluded"}.</caption>
+    <thead><tr><th scope="col">Compare venues</th>${venues.map(t => `<th scope="col">${esc(title(t))}<br><span class="note">${esc([t.c, t.cc].filter(Boolean).join(", "))}</span>${planningActions(t)}<button class="chip" type="button" data-open-venue="${esc(t.o)}">Open details</button></th>`).join("")}</tr></thead>
+    <tbody>${rows.map(([label, value]) => `<tr><th scope="row">${label}</th>${venues.map(t => `<td>${value(t)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
+function renderPlanner() {
+  const focused = planner.contains(document.activeElement) ? document.activeElement : null;
+  const focusKey = focused ? ["favourite", "compare", "openVenue"].find(key => focused.dataset[key]) : null;
+  const ids = plannerMode === "compare" ? compareIds : plannerMode === "shared" ? sharedIds : favouriteIds;
+  const venues = ids.map(id => TRACKS.find(t => t.o === id));
+  document.getElementById("planner-title").textContent = plannerMode === "compare" ? "Compare venues" : plannerMode === "shared" ? "Shared shortlist" : "Saved venues";
+  document.getElementById("planner-status").textContent = plannerMode === "compare" ? "Choose two to four venues. Remove or add venues through their details or your saved list." : "Saved venues stay in this browser. Sharing sends only venue IDs; no device location is included.";
+  document.getElementById("planner-body").innerHTML = `<div class="planning">
+    <button class="chip" type="button" data-share-plan${!ids.length ? " disabled" : ""}>Copy ${plannerMode === "compare" ? "comparison" : "shortlist"} link</button>
+    ${plannerMode === "compare" ? `<button class="chip" type="button" data-clear-compare${!ids.length ? " disabled" : ""}>Clear comparison</button>` : `<button class="chip" type="button" data-show-comparison>Compare selected (${compareIds.length}/4)</button>`}
+    ${plannerMode === "shared" ? '<button class="chip" type="button" data-save-shared>Save all to this browser</button>' : ""}
+    </div>${plannerMode === "compare" && venues.length >= 2 ? comparisonTable(venues) : !venues.length ? "<p>No venues selected yet. Open a venue and choose Save venue or Add to comparison.</p>" : (plannerMode === "compare" ? "<p>Add a second venue to compare side by side.</p>" : "") + venues.map(t => `<section class="saved-item"><h3>${esc(title(t))}</h3><p>${esc([t.c, t.cc].filter(Boolean).join(", "))}</p><p>${esc(freshness(t))}</p>${planningActions(t)}<button class="chip" type="button" data-open-venue="${esc(t.o)}">Open details</button></section>`).join("")}`;
+  updatePlanning();
+  if (focusKey) {
+    const replacement = [...planner.querySelectorAll("button")].find(b => b.dataset[focusKey] === focused.dataset[focusKey]);
+    (replacement || document.getElementById("planner-close")).focus({ preventScroll: true });
+  }
+}
+function openPlanner(mode) {
+  plannerMode = mode; renderPlanner();
+  if (!planner.open) {
+    const active = document.activeElement;
+    plannerReturnFocus = active && active !== document.body && !planner.contains(active) ? active : document.getElementById(mode === "compare" ? "compare-venues" : mode === "shared" ? "shared-venues" : "saved-venues");
+    planner.showModal();
+  }
+}
+async function sharePlan() {
+  const ids = plannerMode === "compare" ? compareIds : plannerMode === "shared" ? sharedIds : favouriteIds;
+  const url = new URL(location.href);
+  url.search = "";
+  const params = new URLSearchParams({ [plannerMode === "compare" ? "compare" : "shortlist"]: ids.join(",") });
+  if (plannerMode === "compare" && state.member) params.set("member", "1");
+  url.hash = params.toString();
+  try {
+    await navigator.clipboard.writeText(url.href);
+    document.getElementById("planner-status").textContent = "Link copied. It contains venue IDs only, plus the membership option for comparisons.";
+  } catch (e) {
+    document.getElementById("planner-status").textContent = `Could not copy the link: ${e.message}. Select and copy the link below.`;
+    const input = document.createElement("input");
+    input.value = url.href; input.readOnly = true; input.setAttribute("aria-label", "Shareable shortlist link"); input.style.width = "100%";
+    document.getElementById("planner-body").prepend(input); input.focus(); input.select();
+  }
+}
+document.getElementById("saved-venues").onclick = () => openPlanner("saved");
+document.getElementById("shared-venues").onclick = () => openPlanner("shared");
+document.getElementById("compare-venues").onclick = () => openPlanner("compare");
+document.getElementById("planner-close").onclick = () => planner.close();
+planner.addEventListener("close", () => {
+  if (!planner.open) (plannerReturnFocus?.isConnected ? plannerReturnFocus : document.getElementById("saved-venues")).focus({ preventScroll: true });
+});
+document.addEventListener("click", e => {
+  const favourite = e.target.closest("[data-favourite]");
+  const compare = e.target.closest("[data-compare]");
+  if (favourite) toggleFavourite(favourite.dataset.favourite);
+  if (compare) toggleComparison(compare.dataset.compare);
+});
+planner.addEventListener("click", e => {
+  const open = e.target.closest("[data-open-venue]");
+  if (open) { planner.close(); select(TRACKS.find(t => t.o === open.dataset.openVenue).id); }
+  if (e.target.closest("[data-share-plan]")) sharePlan();
+  if (e.target.closest("[data-show-comparison]")) openPlanner("compare");
+  if (e.target.closest("[data-clear-compare]")) { compareIds = []; renderPlanner(); saveUrl(); }
+  if (e.target.closest("[data-save-shared]")) {
+    favouriteIds = validVenueIds([...favouriteIds, ...sharedIds]);
+    let message = "Shortlist saved to this browser.";
+    try { localStorage.setItem("kartatlas.favourites", JSON.stringify(favouriteIds)); }
+    catch (error) { message = `Could not persist the shortlist: ${error.message}. Available for this visit only.`; }
+    updatePlanning(); renderPlanner(); document.getElementById("planner-status").textContent = message;
+  }
+});
+window.addEventListener("storage", e => {
+  if (e.key !== "kartatlas.favourites" && e.key !== null) return;
+  try {
+    const parsed = e.newValue == null ? [] : JSON.parse(e.newValue);
+    if (!Array.isArray(parsed)) throw new Error("Saved venue data is not a list.");
+    favouriteIds = validVenueIds(parsed); updatePlanning();
+    if (planner.open) renderPlanner();
+  } catch (error) { document.getElementById("share-status").textContent = `Could not update saved venues from another tab: ${error.message}.`; }
+});
 function sessionOf(t) {
   return (t.P || []).filter(p => p[18] && p[2] && (!p[16] || state.member)).sort((a, b) => a[6] - b[6] || a[2] - b[2])[0];
 }
@@ -411,7 +607,7 @@ const ROLE = { rental: "Rental", club: "Club", venue: "Venue", other: "Website" 
 function siteLinks(t, web) {
   const href = u => /^https?:/i.test(u) ? u : "https://" + u;
   if (t.ws && t.ws.length) return t.ws.map(([u, role, name]) => `<a href="${esc(href(u))}" target="_blank" rel="noopener">${esc(ROLE[role] || "Website")}${name ? ": " + esc(name) : ""}</a>`).join("");
-  return web ? `<a href="${esc(web)}" target="_blank" rel="noopener">Website</a>` : "";
+  return web ? `<a href="${esc(href(web))}" target="_blank" rel="noopener">Website</a>` : "";
 }
 function pills(t) {
   if (!t.r && !t.ow && !t.cl) return "";
@@ -432,7 +628,7 @@ function layoutTable(t) {
   return `<div class="fleetwrap"><table class="fleet"><caption>Track layouts</caption>
     ${head}<tbody>
     ${rows.slice(0, 6).map(l => `<tr><td>${esc(l[0] || "Track")}</td><td class="num">${l[1].toLocaleString("en")} m</td><td class="num">${l[2] ? esc(l[2]) + " m" : "–"}</td><td>${esc(l[3] || "–")}</td></tr>`).join("")}
-    </tbody></table>${more}<span class="note">Lengths from the ${src}.${t.Tn ? " " + esc(t.Tn) : ""}</span></div>`;
+    </tbody></table>${more}    <span class="note">Lengths from the ${src}.${t.Tc ? " Checked on " + esc(t.Tc) + "." : " Source-check date not recorded."}${t.Tn ? " " + esc(t.Tn) : ""}</span></div>`;
 }
 function feeLine(t) {
   if (!t.F && !t.mem) return "";
@@ -442,7 +638,7 @@ function feeLine(t) {
   return `<div class="fees"><span class="fees-h">Extra fees on top of the driving price</span><ul>${items.join("")}</ul></div>`;
 }
 function priceTable(t) {
-  if (!t.P) return feeLine(t);
+  if (!t.P) return `${feeLine(t)}<p class="note">${esc(freshness(t))}</p>`;
   const eur = v => "€" + (v >= 100 ? Math.round(v) : v.toFixed(2));
   const age = x => [x[8] != null ? x[8] + "+" : "", x[9] != null ? "≤" + x[9] : "", x[10] ? x[10] + " cm" : ""].filter(Boolean).join(" ") || "–";
   const what = x => x[11] === "package" || x[14] ? "Package or group offer" + (x[2] ? " · " + x[2] + " min" : "") : [x[2] ? x[2] + " min" : "", x[3] ? x[3] + " laps" : ""].filter(Boolean).join(" / ") || "Session";
@@ -452,7 +648,7 @@ function priceTable(t) {
   const src = t.Ps ? `<a href="${esc(t.Ps)}" target="_blank" rel="noopener">venue website</a>` : "venue website";
   return `${feeLine(t)}<div class="fleetwrap"><table class="fleet"><caption>Prices by kart class: standard adult, performance/race, junior and packages</caption>
     <thead><tr><th>Kart</th><th>What you get</th><th>Price</th><th>€/min</th><th>€/lap</th><th>Age / height</th></tr></thead><tbody>${rows}</tbody></table>
-    <span class="note">Prices from the ${src} as listed when checked. Other currencies converted to EUR at ECB rates of ${esc(RATES.date || "the build date")}. Member prices are shown with a "members" tag and only count in comparisons when "Include member prices" is on. The €/min and €/lap used for comparing venues are the cheapest standard adult prices: plain single driving sessions with stated minutes or laps, excluding kids' karts, special or day-limited offers, packages, blocks, group races and offers with meals, drinks or medals.${t.Pn ? " " + esc(t.Pn) : ""}</span></div>`;
+    <p class="note">${esc(freshness(t))}</p><span class="note">Prices from the ${src} as listed when checked. Other currencies converted to EUR at ECB rates of ${esc(RATES.date || "the build date")}. Member prices are shown with a "members" tag and only count in comparisons when "Include member prices" is on. The €/min and €/lap used for comparing venues are the cheapest standard adult prices: plain single driving sessions with stated minutes or laps, excluding kids' karts, special or day-limited offers, packages, blocks, group races and offers with meals, drinks or medals.${t.Pn ? " " + esc(t.Pn) : ""}</span></div>`;
 }
 function fleetTable(t) {
   if (!t.K || !t.K.length) return "";
@@ -475,6 +671,8 @@ function renderDetail(t) {
   const karts = realK.length ? fleetTable({ ...t, K: realK }) : "";
   const classesOnly = !realK.length && t.K && t.K.length ? [...new Set(t.K.map(m => m[3]).filter(Boolean))].join(", ") : "";
   const ov = `
+    <p class="note">${esc(freshness(t))}</p>
+    <p class="note">Rental: ${t.r === "yes" ? "confirmed" : t.r === "no" ? "reported unavailable" : "not verified"}. Own karts: ${t.ow === "yes" ? "confirmed" : t.ow === "no" ? "reported unavailable" : "not verified"}.</p>
     ${sessionSummary(t) ? `<p>${esc(sessionSummary(t))}</p><p class="note">Session cost and lowest €/min may refer to different sessions. Fees shown are known fees, not a guaranteed complete first-visit total.</p>` : ""}
     ${t.note ? `<p class="note">${esc(t.note)}</p>` : ""}
     <dl class="facts">${trackLen ? `<dt>Track</dt><dd class="num">${esc(trackLen)}</dd>` : ""}${t.ppm ? `<dt>From</dt><dd class="num">€${t.ppm.toFixed(2)}/min (adult)</dd>` : ""}${classesOnly ? `<dt>Rental karts</dt><dd>${esc(classesOnly)} (models not stated)</dd>` : ""}${facts.map(f => `<dt>${f[0]}</dt><dd>${esc(f[1])}</dd>`).join("")}</dl>
@@ -485,7 +683,7 @@ function renderDetail(t) {
       ${(t.src || []).map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">Source ${i + 1}</a>`).join("")}
     </div>`;
   const track = (t.g || t.T || t.lm) ? `${layoutTable(t)}${layoutSvg(t)}${!t.T && t.lm ? `<p class="note">≈ ${t.lm.toLocaleString("en")} m measured from the map. May include several layouts or pit lanes. The venue does not publish a length.</p>` : ""}` : "";
-  const prices = t.P || t.F || t.mem ? priceTable(t) : "";
+  const prices = priceTable(t);
   const tabs = [["overview", "Overview", ov], ["track", "Track", track], ["karts", "Karts", karts], ["prices", "Prices", prices]].filter(x => x[2]);
   if (!tabs.some(x => x[0] === state.tab)) state.tab = "overview";
   el.innerHTML = `<div class="dhead"><span class="kind" style="color:var(--${t.k})">${KINDS[t.k].label}${t.club ? " · club track" : ""}</span>
@@ -494,6 +692,7 @@ function renderDetail(t) {
     ${t.gs != null ? `<span class="note">Name guessed from a venue mapped ${t.gs} m away in OpenStreetMap. The track itself has no name there.</span>` : ""}
     ${!t.n ? `<span class="note">No name in OpenStreetMap. Named after the nearest place.</span>` : ""}
     ${pills(t)}
+    ${planningActions(t)}
     <button class="chip" type="button" data-share-venue>Copy venue link</button>
     <span data-share-status class="status" role="status"></span>
     <div class="tabs" role="tablist">${tabs.map(x => `<button type="button" role="tab" class="tab" data-tab="${x[0]}" aria-selected="${x[0] === state.tab}">${x[1]}</button>`).join("")}</div>
@@ -637,6 +836,8 @@ function syncControls() {
 function saveUrl(replace = false) {
   if (restoring) return;
   const p = new URLSearchParams();
+  if (compareIds.length) p.set("compare", compareIds.join(","));
+  if (sharedIds.length) p.set("shortlist", sharedIds.join(","));
   if (state.sel != null) p.set("venue", TRACKS[state.sel].o);
   if (state.tab !== "overview") p.set("tab", state.tab);
   ["q", "intent", "drive", "chassis", "engine"].forEach(key => { if (state[key]) p.set(key, state[key]); });
@@ -663,6 +864,9 @@ function restoreUrl() {
   restoring = true;
   try {
     const p = new URLSearchParams(location.hash.slice(1));
+    compareIds = validVenueIds((p.get("compare") || "").split(","), 4);
+    sharedIds = validVenueIds((p.get("shortlist") || "").split(","));
+    if (planner.open) planner.close();
     Object.assign(state, JSON.parse(DEFAULTS), { sel: null, tab: "overview", view: "list", privateViewport: false });
     ["q", "chassis", "engine"].forEach(key => { state[key] = (p.get(key) || "").slice(0, 200); });
     if (["", "rent", "family", "own", "race", "group"].includes(p.get("intent") || "")) state.intent = p.get("intent") || "";
@@ -692,6 +896,9 @@ function restoreUrl() {
     const venue = TRACKS.find(t => t.o === p.get("venue"));
     if (["overview", "track", "karts", "prices"].includes(p.get("tab"))) state.tab = p.get("tab");
     if (venue) select(venue.id, false);
+    updatePlanning();
+    if (p.has("compare") && compareIds.length && !venue) openPlanner("compare");
+    else if (sharedIds.length && !venue) openPlanner("shared");
     document.getElementById("reset").disabled = snap() === DEFAULTS;
   } finally { restoring = false; }
 }
