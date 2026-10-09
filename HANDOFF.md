@@ -2,6 +2,31 @@
 
 ## Current status (9 October 2026)
 
+Independent expansion: 1,197 static venue pages, directory, sitemap and robots
+are built under ignored `public/`. Canonical URLs use the existing live `.dk`
+domain; `.eu`, correction inbox and email alert delivery remain deferred by
+the user. Docker now copies `assets/` and `public/`. JS and Latin fonts are
+self-hosted with licence notices; CSP no longer trusts third-party CDNs.
+English/Danish/German core controls use browser-local and URL language
+preferences; operator names, prices and research facts remain source-language.
+Static pages and remaining long-form explanations are English.
+New `FG01` family/group research for Eefde and Playdome lives in the nested
+`pipeline/research/out/family/` directory. Do not overwrite the old top-level
+French `F01.json` or remove it from general enrichment.
+Details/comparison identify the exact session behind the lowest EUR/min;
+static pages show package-component caveats and ECB conversion dates.
+`npm run test:browser` runs durable Playwright checks against a Docker preview
+at port 18082 (override with KARTATLAS_TEST_URL). `npm run health` is an
+on-demand uptime/TLS/header checker, not active monitoring. See README.
+This expansion is deployed and verified on the existing live hostname.
+Validation: 22 Node cases, eight Python tests and nine live Playwright cases
+pass. Published HTML SHA-256 exactly matches the tested local build; page,
+sitemap, local assets and same-origin CSP checks pass. The health checker
+reports 89 days remaining on the TLS certificate at release time.
+Rollback source archive is backups/before-venue-pages-20261009/source.tar.gz;
+rollback image is kart-atlas:before-venue-pages-20261009. Other projects were
+not rebuilt or reconfigured.
+
 Accessibility/security-hardening release deployed on 9 October 2026:
 filters initially collapse on small/short screens; compact mobile header and
 collapsed attribution prevent the list losing its height. Opening details

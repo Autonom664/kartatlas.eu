@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 .env
 node_modules/
+public/
+playwright-report/
+test-results/
 pipeline/research/work_*/

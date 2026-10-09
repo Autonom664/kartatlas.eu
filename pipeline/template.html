@@ -1,8 +1,10 @@
+<!doctype html>
+<html lang="en">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Kart Atlas</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<meta name="description" content="Discover European karting venues, compare published rental sessions, and plan family or group visits with source-backed information.">
+<link rel="stylesheet" href="/assets/fonts.css">
 <style>
 /* Layout: full-height app, map canvas left, filter + track list rail right; stacks on phones */
 :root {
@@ -204,6 +206,7 @@ details > summary { cursor: pointer; padding: 8px 0; }
       <button class="chip" id="saved-venues" type="button">Saved venues (0)</button>
       <button class="chip" id="shared-venues" type="button" hidden>Shared shortlist</button>
       <button class="chip" id="compare-venues" type="button">Compare (0/4)</button>
+      <label>Language <select id="language" aria-label="Interface language"><option value="en">English</option><option value="da">Dansk</option><option value="de">Deutsch</option></select></label>
     </nav>
   </header>
   <nav class="mobile-nav viewrow" aria-label="Display mode">
@@ -263,6 +266,7 @@ details > summary { cursor: pointer; padding: 8px 0; }
         <button class="sortbtn" data-sort="distance" aria-pressed="false">Nearest</button>
       </div>
       <button class="chip" id="share-search" type="button">Copy search link</button>
+      <span class="status language-note" id="language-note">Venue names, tariff wording and research notes retain their source language.</span>
     </div>
     </details>
     <span id="share-status" class="status" role="status"></span>
@@ -278,8 +282,8 @@ details > summary { cursor: pointer; padding: 8px 0; }
   <div id="planner-body"></div>
 </dialog>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="/assets/d3.min.js"></script>
+<script src="/assets/topojson-client.min.js"></script>
 <script>
 const TRACKS = /*TRACKS*/[];
 const COUNTRIES = /*COUNTRIES*/{};
@@ -326,8 +330,8 @@ function matchesIntent(t) {
   if (state.intent === "rent") return t.r === "yes";
   if (state.intent === "own") return t.ow === "yes";
   if (state.intent === "race") return (t.K || []).some(m => m[3] === "race") || (t.P || []).some(p => p[1] === "race" && p[11] === "session");
-  if (state.intent === "group") return (t.P || []).some(p => p[11] === "package" && /group|grand.?prix|race|qualif|sprint|rennen|grupp|course|endurance/i.test([p[0], p[13]].filter(Boolean).join(" ")));
-  return (t.K || []).some(m => ["kids", "junior", "twin"].includes(m[3])) || (t.P || []).some(p => ["kids", "junior", "twin"].includes(p[1]));
+  if (state.intent === "group") return !!t.FG?.group?.length || (t.P || []).some(p => p[11] === "package" && /group|grand.?prix|race|qualif|sprint|rennen|grupp|course|endurance/i.test([p[0], p[13]].filter(Boolean).join(" ")));
+  return !!t.FG?.family?.length || (t.K || []).some(m => ["kids", "junior", "twin"].includes(m[3])) || (t.P || []).some(p => ["kids", "junior", "twin"].includes(p[1]));
 }
 
 const svg = d3.select("#map");
@@ -523,6 +527,7 @@ function offerSummary(p) {
   return `${p[0] || p[1] || "Session"}: €${p[6].toFixed(2)}${p[2] ? ` / ${p[2]} min` : ""}${p[3] ? ` / ${p[3]} laps` : ""}${p[5] !== "EUR" ? ` (${p[4]} ${p[5]})` : ""}${p[16] ? " · members only" : ""}${p[12] ? ` · ${p[12]}` : ""}`;
 }
 function familySummary(t) {
+  if (t.FG?.family?.length) return t.FG.family.join(" ");
   const classes = [...new Set([...(t.K || []).map(k => k[3]), ...(t.P || []).map(p => p[1])].filter(c => ["kids", "junior", "twin"].includes(c)))];
   if (!classes.length) return "Family options not verified.";
   const limits = (t.P || []).filter(p => classes.includes(p[1]) && (p[8] != null || p[9] != null || p[10] != null));
@@ -533,6 +538,7 @@ function comparisonTable(venues) {
     ["Rental availability", t => esc(t.r === "yes" ? "Confirmed rental" : t.r === "no" ? "Reported no rental" : "Not verified") + (t.cl ? " · Reported closed" : "")],
     ["Lowest standard session", t => sessionOf(t) ? esc(offerSummary(sessionOf(t))) : "No eligible standard adult session verified"],
     ["Lowest standard €/min", t => ppmOf(t) != null ? `€${ppmOf(t).toFixed(2)}/min${ppmOf(t) !== t.ppm ? " · member price" : ""}` : "Not verified"],
+    ["Session behind that €/min", t => esc(rateSessionSummary(t)) || "Not verified"],
     ["Fees and membership", t => (feeLine(t) || "No fee information verified") + "<p class=\"note\">Not a guaranteed complete first-visit total.</p>"],
     ["Performance / race sessions", t => {
       const offers = (t.P || []).filter(p => p[1] === "race" && p[11] === "session" && !p[14] && (!p[16] || state.member));
@@ -578,6 +584,7 @@ async function sharePlan() {
   const url = new URL(location.href);
   url.search = "";
   const params = new URLSearchParams({ [plannerMode === "compare" ? "compare" : "shortlist"]: ids.join(",") });
+  if (window.kartLanguage?.() && window.kartLanguage() !== "en") params.set("lang", window.kartLanguage());
   if (plannerMode === "compare" && state.member) params.set("member", "1");
   url.hash = params.toString();
   try {
@@ -628,6 +635,13 @@ window.addEventListener("storage", e => {
 });
 function sessionOf(t) {
   return (t.P || []).filter(p => p[18] && p[2] && (!p[16] || state.member)).sort((a, b) => a[6] - b[6] || a[2] - b[2])[0];
+}
+function rateSessionOf(t) {
+  return (t.P || []).filter(p => p[18] && p[7] != null && (!p[16] || state.member)).sort((a, b) => a[7] - b[7] || a[6] - b[6])[0];
+}
+function rateSessionSummary(t) {
+  const p = rateSessionOf(t);
+  return p ? `${offerSummary(p)} · €${p[7].toFixed(2)}/min` : "";
 }
 function sessionSummary(t) {
   const p = sessionOf(t);
@@ -725,9 +739,12 @@ function renderDetail(t) {
     <p class="note">${esc(freshness(t))}</p>
     <p class="note">Rental: ${t.r === "yes" ? "confirmed" : t.r === "no" ? "reported unavailable" : "not verified"}. Own karts: ${t.ow === "yes" ? "confirmed" : t.ow === "no" ? "reported unavailable" : "not verified"}.</p>
     ${sessionSummary(t) ? `<p>${esc(sessionSummary(t))}</p><p class="note">Session cost and lowest €/min may refer to different sessions. Fees shown are known fees, not a guaranteed complete first-visit total.</p>` : ""}
-    ${t.note ? `<p class="note">${esc(t.note)}</p>` : ""}
+    ${rateSessionSummary(t) ? `<p><b>Session behind the lowest €/min:</b> ${esc(rateSessionSummary(t))}</p>` : ""}
+    ${t.FG ? `<section><h3>Family and group visits</h3>${["family", "group"].map(key => `<ul data-source-text>${(t.FG[key] || []).map(f => `<li>${esc(f)}</li>`).join("")}</ul>`).join("")}<p class="note">Checked on ${esc(t.FG.checked_at)}. ${externalLink(t.FG.source, "Family/group source")}</p></section>` : ""}
+    ${t.note ? `<p class="note" data-source-text>${esc(t.note)}</p>` : ""}
     <dl class="facts">${trackLen ? `<dt>Track</dt><dd class="num">${esc(trackLen)}</dd>` : ""}${t.ppm ? `<dt>From</dt><dd class="num">€${t.ppm.toFixed(2)}/min (adult)</dd>` : ""}${classesOnly ? `<dt>Rental karts</dt><dd>${esc(classesOnly)} (models not stated)</dd>` : ""}${facts.map(f => `<dt>${f[0]}</dt><dd>${esc(f[1])}</dd>`).join("")}</dl>
     <div class="links">
+      <a href="/venues/${t.o.replace("/", "-")}/">Venue page</a>
       ${siteLinks(t, web)}
       <a href="https://www.google.com/maps/search/?api=1&query=${t.la},${t.lo}" target="_blank" rel="noopener">Google Maps</a>
       <a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>
@@ -887,6 +904,8 @@ function syncControls() {
 function saveUrl(replace = false) {
   if (restoring) return;
   const p = new URLSearchParams();
+  const language = new URLSearchParams(location.hash.slice(1)).get("lang");
+  if (["da", "de"].includes(language)) p.set("lang", language);
   if (compareIds.length) p.set("compare", compareIds.join(","));
   if (sharedIds.length) p.set("shortlist", sharedIds.join(","));
   if (state.sel != null) p.set("venue", TRACKS[state.sel].o);
@@ -999,7 +1018,11 @@ document.getElementById("area").onclick = () => {
 };
 async function copyLink(venueOnly = false) {
   const url = new URL(location.href);
-  if (venueOnly && state.sel != null) url.hash = new URLSearchParams({ venue: TRACKS[state.sel].o, tab: state.tab }).toString();
+  if (venueOnly && state.sel != null) {
+    const params = new URLSearchParams({ venue: TRACKS[state.sel].o, tab: state.tab });
+    if (window.kartLanguage?.() && window.kartLanguage() !== "en") params.set("lang", window.kartLanguage());
+    url.hash = params.toString();
+  }
   try {
     await navigator.clipboard.writeText(url.href);
     document.getElementById("share-status").textContent = "Link copied. Device location is excluded.";
@@ -1016,3 +1039,5 @@ document.getElementById("detail").addEventListener("click", e => { if (e.target.
 restoreUrl();
 new ResizeObserver(() => layout()).observe(document.getElementById("mapwrap"));
 </script>
+<script src="/assets/i18n.js"></script>
+</html>

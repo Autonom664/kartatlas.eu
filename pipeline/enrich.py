@@ -180,6 +180,13 @@ for t in tracks:
     if F: t['F'] = F
     if not t.get('mem') and (r.get('membership') or ov.get('membership')): t['mem'] = r.get('membership') or ov.get('membership')
 RATES_DATE = rates.get('date')
+family = {}
+for f in sorted(glob.glob(base + '/research/out/family/*.json')):
+    for r in json.load(open(f, encoding='utf-8')):
+        family[r['id']] = r
+for t in tracks:
+    if t['o'] in family:
+        t['FG'] = family[t['o']]
 json.dump({'date': RATES_DATE, 'used': sorted({x[5] for t in tracks for x in (t.get('P') or [])})}, open(base + '/rates_meta.json', 'w'))
 for t in tracks:
     d = OVR.get(t['o'], {}).get('dropurl')

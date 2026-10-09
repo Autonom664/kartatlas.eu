@@ -9,6 +9,7 @@ From `pipeline/`, run:
 ```powershell
 $env:PYTHONIOENCODING = 'utf-8'
 python -I test_price_rules.py
+python -I test_venue_pages.py
 python -I build.py
 ```
 
@@ -19,6 +20,32 @@ the price regression, intent predicates, session costs and location privacy.
 Edit `pipeline/template.html`, not the generated `kart-atlas.html`. The build
 also regenerates `kart-atlas.json`. Research inputs, results and manual
 corrections are preserved in `pipeline/`.
+
+`public/` contains reproducibly generated venue pages, directory, sitemap and
+robots file; it is not checked into Git. Build it before building Docker.
+The canonical origin defaults to the live `.dk` hostname. Set `SITE_URL` to
+the new HTTPS origin only after its DNS/certificate are ready.
+
+Local JS/font assets and licence notices are checked in under `assets/`.
+To reproduce them after dependency changes, use `npm ci` then `npm run assets`.
+Fontsource font files use the Latin subset, covering Danish/German characters.
+The app makes no third-party asset requests; operator/maps links still leave
+the site when explicitly followed.
+
+Browser regression tests use Playwright against the actual Nginx image:
+
+```powershell
+docker build -f deploy\Dockerfile -t kart-atlas:test .
+docker run -d --name kart-atlas-test -p 127.0.0.1:18082:80 kart-atlas:test
+npm run test:browser
+docker stop kart-atlas-test
+docker rm kart-atlas-test
+```
+
+If Chromium is missing, run `npx playwright install chromium` once. Set
+`KARTATLAS_TEST_URL` to test another origin. The tests exercise mobile layouts
+in all three interface languages, keyboard focus/tabs, comparisons, family
+facts, history, sharing privacy, routes, headers and same-origin assets.
 
 ## Discovery
 
@@ -79,6 +106,10 @@ differ from the session offering the lowest EUR/min. Mandatory fees remain
 separate with their conditions; no complete first-visit total is claimed.
 Member-only prices remain opt-in.
 
+Details and comparisons also identify the actual offer, amount and duration
+behind the lowest EUR/min. Static venue pages distinguish package driving
+components from total visit duration and state the ECB conversion date.
+
 Research can record `checked_at` (ISO date) for the actual source inspection,
 `source` for layouts, and verified `website`/`website_note`, `name`, `rental` and
 `own_karts` corrections. These fields are merged from the selected price
@@ -90,6 +121,28 @@ Earlier records without explicit dates display "date not recorded", rather
 than borrowing the build or exchange-rate date. Verified replacement operator
 links supersede stale venue links while separate club links are retained.
 
+## Family facts and interface languages
+
+Official family/group research is stored separately in
+`pipeline/research/out/family/FG*.json` and merged as `FG`, without replacing
+existing tariffs or general research. FG01 covers Adventure Eefde and
+Playdome: ages/heights, mixed family sessions, group formats and source dates.
+Unknown driver limits and group minima are explicitly left unverified.
+
+English, Danish and German are available for core navigation, controls and
+comparison labels. The language preference is local to the browser and also
+included as `#lang=da` / `#lang=de` in shared links and history. Venue names,
+tariff wording and research notes retain their source language; static venue
+pages and remaining long-form data explanations are currently English.
+There is no automatic translation of operator facts.
+
+`npm run health` checks the live atlas, a venue route, sitemap, security
+headers and trusted TLS certificate expiry (failure below 21 days). It exits
+nonzero with an explicit error on failure. This is an on-demand checker,
+**not scheduled monitoring or active alert delivery**. The `.eu` activation,
+correction inbox and email alerts are deferred until the user confirms the
+domain/mailbox; no nonfunctional correction form is published.
+
 ## Docker deployment
 
 ```powershell
@@ -99,7 +152,8 @@ docker compose -f deploy\compose.yaml up -d
 
 The container listens on loopback port 18081 and is served through host Nginx.
 The origin deployment is `/home/ubuntu/kart-atlas-deploy` on SSH alias
-`dst-ovh`. Upload the generated page/data and updated deployment files, then
+`dst-ovh`. Upload the generated page/data, `public/`, `assets/`, `.dockerignore`
+and updated deployment files, then
 rebuild/recreate only this Compose project.
 
 The live hostname is `kartatlas.michaelbinger.dk`. The bootstrap host config
@@ -112,7 +166,8 @@ Security headers permit first-party geolocation only, disable camera and
 microphone, and restrict resources with CSP. HTML uses `Cache-Control: no-cache`
 so browsers revalidate it on each visit; the companion JSON retains its
 one-hour cache lifetime.
-The app still uses inline scripts/styles and pinned third-party script URLs.
+The app still uses inline scripts/styles; script, stylesheet and font origins
+are restricted to self, with no CDN/font-host allowlist.
 All data-driven website/source links pass a shared HTTP(S)-only validator.
 Invalid or credential-bearing links are shown as unavailable and logged,
 not rendered as clickable links.

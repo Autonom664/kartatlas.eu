@@ -194,6 +194,7 @@ test("comparison renders standard and race offers separately and escapes source 
   const freshness = loadFunction("freshness", {});
   const compare = loadFunction("comparisonTable", {
     state, esc, sessionOf, offerSummary, familySummary, freshness,
+    rateSessionSummary: loadFunction("rateSessionSummary", { offerSummary, rateSessionOf: loadFunction("rateSessionOf", { state }) }),
     ppmOf: t => t.ppm, title: t => t.n, planningActions: () => "",
     feeLine: () => "", siteLinks: () => "", externalLink: loadFunction("externalLink", { URL, esc, console }),
   });
@@ -239,6 +240,7 @@ test("shortlist and comparison sharing omit device location, search and viewport
     let copied;
     const share = loadFunction("sharePlan", {
       plannerMode: mode, favouriteIds: ["way/1"], sharedIds: ["way/2"], compareIds: ["way/1", "way/2"],
+      window: {},
       state: { member: true, origin: { lo: 12.345, la: 54.321 } }, URL, URLSearchParams,
       location: { href: "https://kartatlas.eu/?release=1#town=Berlin&map=12.345,54.321,6&venue=way/3" },
       navigator: { clipboard: { writeText: async value => { copied = value; } } },
@@ -272,4 +274,57 @@ test("generated details and results expose accessible names and focus targets", 
   assert.match(template, /"ArrowLeft", "ArrowRight", "Home", "End"/);
   assert.match(html, /<details class="filter-panel" id="filters">/);
   assert.match(html, /<details class="foot">/);
+});
+
+test("the lowest rate explains its actual offer, independently of lowest session cost", () => {
+  const state = { member: false };
+  const offers = [[58, 60, false], [22, 15, false], [5, 10, true]].map(([cost, minutes, member]) => {
+    const p = Array(19).fill(null);
+    p[0] = "Standard"; p[2] = minutes; p[6] = cost; p[7] = cost / minutes; p[16] = member; p[18] = true;
+    return p;
+  });
+  const venue = { P: offers };
+  const rateSessionOf = loadFunction("rateSessionOf", { state });
+  assert.equal(rateSessionOf(venue), offers[0]);
+  const summary = loadFunction("rateSessionSummary", { rateSessionOf, offerSummary: loadFunction("offerSummary", {}) });
+  assert.match(summary(venue), /€58\.00.*60 min.*€0\.97\/min/);
+  state.member = true;
+  assert.equal(rateSessionOf(venue), offers[2]);
+});
+
+test("family research is explicit and does not erase verified tariffs", () => {
+  const matches = loadFunction("matchesIntent", { state: { intent: "family" } });
+  const family = loadFunction("familySummary", {});
+  for (const id of ["node/6859713080", "node/13897664495"]) {
+    const t = tracks.find(t => t.o === id);
+    assert.ok(t.P.length);
+    assert.ok(t.FG.checked_at && t.FG.source);
+    assert.equal(matches(t), true);
+    assert.match(family(t), /cm/);
+  }
+  assert.match(tracks.find(t => t.o === "node/13897664495").FG.family.join(" "), /whole party/);
+});
+
+test("all venues have indexable pages and the sitemap uses the current domain", () => {
+  const sitemap = fs.readFileSync(path.join(root, "public", "sitemap.xml"), "utf8");
+  const rates = JSON.parse(fs.readFileSync(path.join(root, "pipeline", "rates_meta.json"), "utf8"));
+  assert.equal((sitemap.match(/<loc>/g) || []).length, tracks.length + 2);
+  for (const t of tracks) {
+    const slug = t.o.replace("/", "-");
+    const page = fs.readFileSync(path.join(root, "public", "venues", slug, "index.html"), "utf8");
+    assert.ok(page.includes(`https://kartatlas.michaelbinger.dk/venues/${slug}/`));
+    assert.ok(page.includes(`ECB rates of ${rates.date}`));
+    assert.doesNotMatch(page, /<script/);
+    assert.ok(sitemap.includes(`/venues/${slug}/`));
+  }
+});
+
+test("deployment assets are local and CSP no longer trusts third-party CDNs", () => {
+  assert.doesNotMatch(html, /https:\/\/(fonts\.googleapis|cdnjs|cdn\.jsdelivr)/);
+  const nginx = fs.readFileSync(path.join(root, "deploy", "nginx.conf"), "utf8");
+  assert.doesNotMatch(nginx, /cdnjs|jsdelivr|googleapis|gstatic/);
+  assert.match(nginx, /try_files \$uri \$uri\/ =404/);
+  for (const file of ["d3.min.js", "topojson-client.min.js", "fonts.css", "i18n.js"]) {
+    assert.ok(fs.existsSync(path.join(root, "assets", file)));
+  }
 });

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "node/6859713080",
+    "checked_at": "2026-10-09",
+    "source": "https://adventureeefde.nl/karten",
+    "family": [
+      "Junior kart: minimum age 8 and minimum height 135 cm. The site describes the junior category as ages 8-12.",
+      "Adult kart: minimum age 13 and minimum height 150 cm.",
+      "Duo kart passenger: minimum age 3. Passenger eligibility is not driver eligibility; driver requirements and whether different kart categories share a heat are not verified."
+    ],
+    "group": [
+      "Published race arrangements start at 15 or 25 people respectively; these are separate formats, not a universal minimum for all visits.",
+      "Children's birthday arrangement: 6-12 people, two 8-minute drives, refreshments and food. Not a plain driving session.",
+      "Official page offers direct reservations. Confirm group dates and format with the operator."
+    ]
+  },
+  {
+    "id": "node/13897664495",
+    "checked_at": "2026-10-09",
+    "source": "https://www.playdome.nl/activiteiten/playkarten/",
+    "family": [
+      "Regular sessions require age 14+ and minimum height 140 cm.",
+      "If anyone in the party is under 14 and above 140 cm, the whole party must book a family session. Adults and children then drive together at reduced speed.",
+      "Closed, flat shoes are required. Participants must understand Dutch or English. Confirm individual suitability and requirements with the operator."
+    ],
+    "group": [
+      "Published team endurance formats last one, two or three hours and allow at most eight teams. The page gives examples of 25, 50, 75 or 100 participants; these examples are not interpreted as a minimum booking size.",
+      "Endurance includes a prize ceremony. Price per person, individual driving allocation and minimum group size remain unverified.",
+      "Official page links to family-session reservations. Do not book a regular session for a mixed under-14/adult party."
+    ]
+  }
+]

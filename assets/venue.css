@@ -1,0 +1,13 @@
+@import url("./fonts.css");
+:root { color-scheme: light dark; font-family: Barlow, system-ui, sans-serif; line-height: 1.5; }
+body { margin: 0; background: Canvas; color: CanvasText; }
+main { max-width: 1000px; margin: auto; padding: 24px; }
+a { color: LinkText; }
+a:focus-visible { outline: 3px solid Highlight; outline-offset: 3px; }
+dl { display: grid; grid-template-columns: minmax(100px, 1fr) 3fr; gap: 8px; }
+dt { font-weight: 600; }
+dd { margin: 0; overflow-wrap: anywhere; }
+.scroll { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px; text-align: left; vertical-align: top; border: 1px solid GrayText; min-width: 110px; }
+footer { border-top: 1px solid GrayText; margin-top: 24px; padding-top: 16px; font-size: 13px; }

@@ -1,0 +1,20 @@
+{
+  "name": "kart-atlas",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/site.test.cjs",
+    "test:browser": "playwright test",
+    "health": "node tools/check-health.cjs",
+    "assets": "node tools/vendor-assets.cjs"
+  },
+  "dependencies": {
+    "d3": "7.8.5",
+    "topojson-client": "3.1.0",
+    "@fontsource/barlow": "^5.2.0",
+    "@fontsource/barlow-condensed": "^5.2.0",
+    "@fontsource/ibm-plex-mono": "^5.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
