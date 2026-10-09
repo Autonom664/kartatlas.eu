@@ -195,7 +195,7 @@ test("comparison renders standard and race offers separately and escapes source 
   const compare = loadFunction("comparisonTable", {
     state, esc, sessionOf, offerSummary, familySummary, freshness,
     ppmOf: t => t.ppm, title: t => t.n, planningActions: () => "",
-    feeLine: () => "", siteLinks: () => "",
+    feeLine: () => "", siteLinks: () => "", externalLink: loadFunction("externalLink", { URL, esc, console }),
   });
   const south = tracks.find(t => t.o === "way/388280270");
   const html = compare([{ ...south, n: '<img src=x onerror="alert(1)">' }]);
@@ -205,6 +205,34 @@ test("comparison renders standard and race offers separately and escapes source 
   assert.match(html, /&lt;img/);
   assert.doesNotMatch(html, /<img/);
 });
+
+  test("external links allow HTTP(S) only and visibly reject malformed schemes", () => {
+    const warnings = [];
+    const esc = loadFunction("esc", {});
+    const link = loadFunction("externalLink", { URL, esc, console: { warn: (...args) => warnings.push(args) } });
+    for (const url of ["javascript:alert(1)", "data:text/html,<script>", "file:///etc/passwd", "https://user:password@example.com", "https://", "", null]) {
+      const rendered = link(url, "Source");
+      assert.doesNotMatch(rendered, /<a /);
+      assert.match(rendered, /invalid link unavailable/);
+    }
+    assert.equal(warnings.length, 7);
+    assert.match(link("example.com/path", "Venue"), /href="https:\/\/example.com\/path"/);
+    assert.match(link("http://example.com/", "<img>"), /&lt;img&gt;/);
+    assert.match(link("HTTPS://example.com/", "Venue"), /href="https:\/\/example.com\/"/);
+  });
+
+  test("activating a tab updates selected state, keyboard order and panel visibility", () => {
+    const tabs = ["overview", "track", "prices"].map(name => ({ dataset: { tab: name }, setAttribute(key, value) { this[key] = value; } }));
+    const panes = tabs.map(t => ({ dataset: { pane: t.dataset.tab }, hidden: false }));
+    const state = {};
+    let saved = 0;
+    const activate = loadFunction("activateTab", { state, document: { querySelectorAll: selector => selector.includes("tabpane") ? panes : tabs }, saveUrl: () => saved++ });
+    activate(tabs[2]);
+    assert.equal(state.tab, "prices");
+    assert.deepEqual(tabs.map(t => t.tabIndex), [-1, -1, 0]);
+    assert.deepEqual(panes.map(t => t.hidden), [true, true, false]);
+    assert.equal(saved, 1);
+  });
 
 test("shortlist and comparison sharing omit device location, search and viewport", async () => {
   for (const mode of ["saved", "shared", "compare"]) {
@@ -216,6 +244,7 @@ test("shortlist and comparison sharing omit device location, search and viewport
       navigator: { clipboard: { writeText: async value => { copied = value; } } },
       document: { getElementById: () => ({ textContent: "" }) },
     });
+
     await share();
     const url = new URL(copied);
     const params = new URLSearchParams(url.hash.slice(1));
@@ -224,4 +253,23 @@ test("shortlist and comparison sharing omit device location, search and viewport
     assert.equal(params.get(mode === "compare" ? "compare" : "shortlist"), mode === "compare" ? "way/1,way/2" : mode === "saved" ? "way/1" : "way/2");
     assert.doesNotMatch(copied, /12\.345|54\.321/);
   }
+});
+test("all existing researched links remain usable under HTTP(S) validation", () => {
+  const warnings = [];
+  const link = loadFunction("externalLink", { URL, esc: loadFunction("esc", {}), console: { warn: message => warnings.push(message) } });
+  for (const t of tracks) {
+    const urls = [t.w, t.Ps, t.Ts, ...(t.src || []), ...(t.ws || []).map(w => w[0])].filter(Boolean);
+    for (const url of urls) assert.match(link(url, "Source"), /<a href=/, `${t.o}: ${url}`);
+  }
+  assert.equal(warnings.length, 0);
+});
+
+test("generated details and results expose accessible names and focus targets", () => {
+  assert.match(html, /id="stats" role="status" aria-live="polite" aria-atomic="true"/);
+  assert.match(template, /id="detail-title" tabindex="-1"/);
+  assert.match(template, /aria-controls="pane-\$\{x\[0\]\}"/);
+  assert.match(template, /aria-labelledby="tab-\$\{x\[0\]\}"/);
+  assert.match(template, /"ArrowLeft", "ArrowRight", "Home", "End"/);
+  assert.match(html, /<details class="filter-panel" id="filters">/);
+  assert.match(html, /<details class="foot">/);
 });

@@ -33,6 +33,11 @@ corrections are preserved in `pipeline/`.
   straight-line kilometres, not driving distances.
 - Radius search, nearest sorting and search-this-map-area narrow the results.
 - Mobile users can switch between List and Map; marker details open over the map.
+- Search/filters collapse initially on small or short screens. Opening a venue
+  hides filters and attribution to give details the available rail height;
+  closing restores them. Attribution remains accessible in a disclosure.
+- Keyboard selection focuses the venue heading. Tabs support arrow keys,
+  Home/End and linked panels; result counts are announced politely.
 - Share links encode filters, map position and stable OSM venue identifiers.
   Browser Back/Forward restores these states. Device coordinates and their
   map viewport are never included.
@@ -108,3 +113,6 @@ microphone, and restrict resources with CSP. HTML uses `Cache-Control: no-cache`
 so browsers revalidate it on each visit; the companion JSON retains its
 one-hour cache lifetime.
 The app still uses inline scripts/styles and pinned third-party script URLs.
+All data-driven website/source links pass a shared HTTP(S)-only validator.
+Invalid or credential-bearing links are shown as unavailable and logged,
+not rendered as clickable links.

@@ -2,6 +2,22 @@
 
 ## Current status (9 October 2026)
 
+Accessibility/security-hardening release deployed on 9 October 2026:
+filters initially collapse on small/short screens; compact mobile header and
+collapsed attribution prevent the list losing its height. Opening details
+hides filters/attribution in all views. At 320x568 the collapsed list is 302 px;
+at 390x844 details are 663 px (previously 116 px). Expanded filters still leave
+a usable list, including 844x390 landscape. Heading focus, linked tab panels,
+ArrowLeft/Right/Home/End navigation, polite result announcements, high-contrast
+unselected presets and 44 px close targets are implemented. Sharing/comparison
+feedback remains visible outside the hidden filters.
+All data-driven source links use HTTP(S)-only validation; invalid links show
+explicit feedback and console warnings. All 3,200 current links remain valid.
+The published HTML matches the tested release exactly, with CSP and no-cache
+intact. Rollback backup/image: before-accessibility-20261009 in the existing
+backups directory and kart-atlas:before-accessibility-20261009. Only Kart Atlas
+was rebuilt; no other project's configuration or service was modified.
+
 The site is live at https://kartatlas.michaelbinger.dk in Docker on OVH, behind
 the existing host Nginx. GitHub origin is `git@github.com:Autonom664/kartatlas.eu.git`.
 See `README.md` for the current build, comparison rules, discovery features and

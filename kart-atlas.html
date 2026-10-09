@@ -45,7 +45,7 @@ svg#map:active { cursor: grabbing; }
 .zoomctl { position: absolute; right: 12px; top: 12px; display: flex; flex-direction: column; gap: 4px; }
 .zoomctl button, .chip, .sortbtn { font: 600 14px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; cursor: pointer; }
 .zoomctl button { width: 34px; height: 34px; font-size: 18px; line-height: 1; }
-button:focus-visible, input:focus-visible, .item:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible, a:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 .tip { position: absolute; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 9px; font-size: 13px; box-shadow: 0 4px 14px rgb(0 0 0 / .15); max-width: 240px; }
 .tip b { display: block; }
 .tip span { color: var(--muted); }
@@ -54,7 +54,8 @@ aside { background: var(--panel); border-left: 1px solid var(--line); display: f
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { display: inline-flex; align-items: center; gap: 7px; padding: 5px 10px; font-size: 13px; font-weight: 500; }
 .chip i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
-.chip[aria-pressed="false"] { opacity: .45; }
+.chip[aria-pressed="false"] { opacity: 1; }
+button:disabled { opacity: .65; cursor: not-allowed; }
 .chip[aria-pressed="false"] i { background: transparent !important; outline: 1.5px solid var(--muted) !important; }
 .chip .n { font-family: var(--mono); color: var(--muted); font-size: 12px; }
 input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); font: 15px var(--body); }
@@ -63,14 +64,14 @@ input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px so
 .sortbtn[aria-pressed="true"] { background: var(--fg); color: var(--panel); border-color: var(--fg); }
 .detail { padding: 14px 16px; border-bottom: 1px solid var(--line); display: flex; flex-direction: column; gap: 6px; position: relative; flex: 1 1 auto; min-height: 0; overflow-y: auto; box-shadow: 0 6px 10px -8px rgb(0 0 0 / .35); }
 .detail > *, .tabpane > * { flex-shrink: 0; min-width: 0; }
-.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin-top: 4px; position: sticky; top: 30px; z-index: 2; background: var(--panel); }
+.tabs { display: flex; gap: 2px; border-bottom: 1px solid var(--line); margin-top: 4px; position: sticky; top: 44px; z-index: 2; background: var(--panel); }
 .tab { font: 600 13px var(--body); color: var(--muted); background: none; border: 0; border-bottom: 2px solid transparent; padding: 6px 10px; cursor: pointer; margin-bottom: -1px; }
 .tab[aria-selected="true"] { color: var(--fg); border-bottom-color: var(--fg); }
 .tab:hover { color: var(--fg); }
 .tabpane { display: flex; flex-direction: column; gap: 8px; padding-top: 6px; }
 .tabpane .note { margin: 0; }
 .detail .dhead { position: sticky; top: -14px; z-index: 3; display: flex; align-items: center; justify-content: space-between; gap: 8px; margin: -14px -16px 0; padding: 10px 16px 6px; background: var(--panel); }
-.detail .closebtn { flex-shrink: 0; font: 600 13px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 5px 12px; cursor: pointer; }
+.detail .closebtn { flex-shrink: 0; min-height: 44px; font: 600 13px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 5px 12px; cursor: pointer; }
 .detail .closebtn:hover { background: var(--bg); }
 @media (max-width: 820px) { .detail { max-height: none; } }
 .detail h2 { margin: 0; font: 700 22px/1.1 var(--display); text-wrap: balance; }
@@ -134,6 +135,13 @@ input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px so
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 .controls { max-height: 48vh; overflow-y: auto; }
+.filter-panel { flex-shrink: 0; }
+.filter-panel > summary { padding: 10px 16px; min-height: 44px; border-bottom: 1px solid var(--line); font-weight: 600; }
+.foot { flex-shrink: 0; padding: 0 16px; }
+.foot > summary { min-height: 44px; }
+.foot[open] { max-height: 25dvh; overflow-y: auto; }
+.app[data-detail="true"] .filter-panel, .app[data-detail="true"] .foot { display: none; }
+.tab { min-height: 44px; }
 .sortrow { flex-wrap: wrap; }
 .intentrow, .locationrow, .viewrow { display: flex; gap: 6px; flex-wrap: wrap; }
 .intentrow button, .locationrow button, .viewrow button { min-height: 44px; }
@@ -141,6 +149,8 @@ input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px so
 .locationrow input { flex: 1; min-width: 120px; padding: 8px; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 6px; }
 .locationrow select { background: var(--bg); color: var(--fg); padding: 8px; }
 .status { font-size: 12px; color: var(--muted); }
+#share-status { flex-shrink: 0; padding: 6px 16px; max-height: 15dvh; overflow-y: auto; }
+#share-status:empty { display: none; }
 .session { grid-column: 2 / 4; font-size: 13px; }
 .mobile-nav { display: none; }
 details > summary { cursor: pointer; padding: 8px 0; }
@@ -171,6 +181,17 @@ details > summary { cursor: pointer; padding: 8px 0; }
   .list { max-height: none; }
   .chip, .sortbtn, .tab { min-height: 44px; }
   .zoomctl { top: 8px; }
+  header { gap: 6px 12px; padding: 8px 16px; }
+  header .sub { display: none; }
+  header .stats { font-size: 11px; gap: 8px; }
+  header .stats b { font-size: 13px; }
+  header .planning { width: 100%; }
+  .controls { max-height: 30dvh; }
+}
+@media (max-height: 600px) {
+  header .sub { display: none; }
+  header { padding-block: 6px; gap: 6px 12px; }
+  .controls { max-height: 25dvh; }
 }
 </style>
 
@@ -178,7 +199,7 @@ details > summary { cursor: pointer; padding: 8px 0; }
   <header>
     <h1>Kart Atlas</h1>
     <span class="sub"><span id="covered"></span> · every kart venue in OpenStreetMap</span>
-    <div class="stats" id="stats"></div>
+    <div class="stats" id="stats" role="status" aria-live="polite" aria-atomic="true"></div>
     <nav class="planning" aria-label="Trip planning">
       <button class="chip" id="saved-venues" type="button">Saved venues (0)</button>
       <button class="chip" id="shared-venues" type="button" hidden>Shared shortlist</button>
@@ -200,6 +221,8 @@ details > summary { cursor: pointer; padding: 8px 0; }
     <div class="tip" id="tip" hidden></div>
   </div>
   <aside>
+    <details class="filter-panel" id="filters">
+    <summary>Search and filters</summary>
     <div class="controls">
       <div class="intentrow" aria-label="What would you like to do?">
         <button class="chip" data-intent="" aria-pressed="true">Explore all</button>
@@ -240,11 +263,12 @@ details > summary { cursor: pointer; padding: 8px 0; }
         <button class="sortbtn" data-sort="distance" aria-pressed="false">Nearest</button>
       </div>
       <button class="chip" id="share-search" type="button">Copy search link</button>
-      <span id="share-status" class="status" role="status"></span>
     </div>
+    </details>
+    <span id="share-status" class="status" role="status"></span>
     <div class="detail" id="detail" hidden></div>
     <div class="list" id="list"></div>
-    <div class="foot">Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, ODbL. Pulled 9 Oct 2026 (tag <code>sport=karting</code>). Region names are in the local language. Lengths are measured from mapped track lines and are approximate. Indoor/outdoor is inferred from tags and names.</div>
+    <details class="foot"><summary>Data and attribution · © OpenStreetMap</summary><p>Data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a>, ODbL. Pulled 9 Oct 2026 (tag <code>sport=karting</code>). Region names are in the local language. Lengths are measured from mapped track lines and are approximate. Indoor/outdoor is inferred from tags and names.</p></details>
   </aside>
 </div>
 
@@ -270,6 +294,7 @@ const state = { on: { outdoor: true, indoor: true, kids: false }, cc: Object.fro
 const CCID = Object.fromEntries(Object.entries(COUNTRIES).map(([c, v]) => [v.id, c]));
 document.getElementById("covered").textContent = Object.values(COUNTRIES).map(c => c.name).join(", ");
 TRACKS.forEach((t, i) => t.id = i);
+document.getElementById("filters").open = !matchMedia("(max-width: 820px), (max-height: 600px)").matches;
 const venueIds = new Set(TRACKS.map(t => t.o));
 let favouriteIds = [], compareIds = [], sharedIds = [], plannerMode = "saved", plannerReturnFocus = null;
 const planner = document.getElementById("planner");
@@ -390,7 +415,8 @@ function closeDetail(updateUrl = true) {
   document.getElementById("list").hidden = false;
   drawDots(); renderList();
   const row = document.querySelector(`.item[data-id="${id}"]`);
-  if (row) { row.scrollIntoView({ block: "nearest" }); row.focus({ preventScroll: true }); }
+  if (row && (state.view !== "map" || !matchMedia("(max-width: 820px)").matches)) { row.scrollIntoView({ block: "nearest" }); row.focus({ preventScroll: true }); }
+  else document.getElementById("zreset").focus({ preventScroll: true });
   if (updateUrl) saveUrl();
 }
 document.addEventListener("keydown", e => {
@@ -401,10 +427,23 @@ document.addEventListener("keydown", e => {
 document.getElementById("detail").addEventListener("click", e => { if (e.target.closest("[data-close]")) { e.preventDefault(); e.stopPropagation(); closeDetail(); } });
 document.getElementById("detail").addEventListener("click", e => {
   const b = e.target.closest("[data-tab]"); if (!b) return;
+  activateTab(b);
+});
+function activateTab(b) {
   state.tab = b.dataset.tab;
-  document.querySelectorAll("#detail .tab").forEach(x => x.setAttribute("aria-selected", x === b));
+  document.querySelectorAll("#detail .tab").forEach(x => {
+    x.setAttribute("aria-selected", x === b); x.tabIndex = x === b ? 0 : -1;
+  });
   document.querySelectorAll("#detail .tabpane").forEach(x => x.hidden = x.dataset.pane !== state.tab);
   saveUrl();
+}
+document.getElementById("detail").addEventListener("keydown", e => {
+  const b = e.target.closest("[data-tab]");
+  if (!b || !["ArrowLeft", "ArrowRight", "Home", "End"].includes(e.key)) return;
+  e.preventDefault();
+  const tabs = [...document.querySelectorAll("#detail .tab")], i = tabs.indexOf(b);
+  const index = e.key === "Home" ? 0 : e.key === "End" ? tabs.length - 1 : (i + (e.key === "ArrowRight" ? 1 : -1) + tabs.length) % tabs.length;
+  activateTab(tabs[index]); tabs[index].focus({ preventScroll: true });
 });
 svg.on("click.close", e => { if (!e.target.closest || !e.target.closest("circle.dot")) closeDetail(); });
 function select(id, fly = true) {
@@ -417,11 +456,24 @@ function select(id, fly = true) {
   if (fly) flyTo(t);
   const row = document.querySelector(`.item[data-id="${id}"]`);
   if (row && !fly) row.scrollIntoView({ block: "nearest" });
+  if (!restoring) document.getElementById("detail-title").focus({ preventScroll: true });
   saveUrl();
 }
 
 function title(t) { return t.n || (t.near ? `Kart track near ${t.near}` : "Unnamed kart track"); }
 function esc(s) { return String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+function externalLink(value, label) {
+  try {
+    if (typeof value !== "string" || !value.trim()) throw new Error("Missing URL");
+    const text = value.trim();
+    const url = new URL(/^[a-z][a-z\d+.-]*:/i.test(text) ? text : "https://" + text);
+    if (!["http:", "https:"].includes(url.protocol) || !url.hostname || url.username || url.password) throw new Error("Unsupported URL");
+    return `<a href="${esc(url.href)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+  } catch (e) {
+    console.warn("Kart Atlas blocked an invalid external link:", e.message);
+    return `<span class="note">${esc(label)} (invalid link unavailable)</span>`;
+  }
+}
 function freshness(t) {
   const date = v => typeof v === "string" && /^\d{4}-\d{2}-\d{2}$/.test(v) ? v : null;
   if (t.P?.length) return date(t.Pc) ? `Published prices checked on ${t.Pc}. Confirm current prices with the venue before travelling.` : "Published prices found; the source-check date was not recorded. Confirm current prices with the venue.";
@@ -489,7 +541,7 @@ function comparisonTable(venues) {
     ["Family options", t => esc(familySummary(t))],
     ["Track length", t => t.T?.length ? esc(t.T.map(l => `${l[0] || "Track"}: ${l[1]} m`).join("; ")) : t.lm ? `Approx. ${t.lm} m, measured from the map` : "Not verified"],
     ["Price freshness", t => esc(freshness(t))],
-    ["Sources", t => siteLinks(t, t.w) + (t.Ps ? ` <a href="${esc(t.Ps)}" target="_blank" rel="noopener">Price source</a>` : "")],
+    ["Sources", t => siteLinks(t, t.w) + (t.Ps ? " " + externalLink(t.Ps, "Price source") : "")],
   ];
   return `<div class="planner-scroll" tabindex="0" aria-label="Scrollable venue comparison"><table class="comparison"><caption>Standard rental and performance/race prices are separate. Lowest session cost and lowest €/min may describe different sessions. Membership is ${state.member ? "included" : "excluded"}.</caption>
     <thead><tr><th scope="col">Compare venues</th>${venues.map(t => `<th scope="col">${esc(title(t))}<br><span class="note">${esc([t.c, t.cc].filter(Boolean).join(", "))}</span>${planningActions(t)}<button class="chip" type="button" data-open-venue="${esc(t.o)}">Open details</button></th>`).join("")}</tr></thead>
@@ -605,9 +657,8 @@ function layoutSvg(t) {
 }
 const ROLE = { rental: "Rental", club: "Club", venue: "Venue", other: "Website" };
 function siteLinks(t, web) {
-  const href = u => /^https?:/i.test(u) ? u : "https://" + u;
-  if (t.ws && t.ws.length) return t.ws.map(([u, role, name]) => `<a href="${esc(href(u))}" target="_blank" rel="noopener">${esc(ROLE[role] || "Website")}${name ? ": " + esc(name) : ""}</a>`).join("");
-  return web ? `<a href="${esc(href(web))}" target="_blank" rel="noopener">Website</a>` : "";
+  if (t.ws && t.ws.length) return t.ws.map(([u, role, name]) => externalLink(u, (ROLE[role] || "Website") + (name ? ": " + name : ""))).join("");
+  return web ? externalLink(web, "Website") : "";
 }
 function pills(t) {
   if (!t.r && !t.ow && !t.cl) return "";
@@ -620,7 +671,7 @@ function pills(t) {
 }
 function layoutTable(t) {
   if (!t.T) return "";
-  const src = t.Ts ? `<a href="${esc(t.Ts)}" target="_blank" rel="noopener">venue website</a>` : "venue website";
+  const src = t.Ts ? externalLink(t.Ts, "venue website") : "venue website";
   const rows = t.T.slice().sort((a, b) => b[1] - a[1]);
   const row = l => `<tr><td>${esc(l[0] || "Track")}</td><td class="num">${l[1].toLocaleString("en")} m</td><td class="num">${l[2] ? esc(l[2]) + " m" : "–"}</td><td>${esc(l[3] || "–")}</td></tr>`;
   const head = '<thead><tr><th>Layout</th><th>Length</th><th>Width</th><th>Use</th></tr></thead>';
@@ -645,7 +696,7 @@ function priceTable(t) {
   const rows = t.P.map(x => `<tr><td>${esc(x[0] || x[1] || "Kart")} <span class="lay-tag">${esc(x[1] || "unclassified")}</span>${x[16] ? ' <span class="lay-tag" title="Only for members; membership required">members</span>' : ""}${!x[18] ? ' <span class="lay-tag" title="Not a standard adult rental comparison">not compared</span>' : ""}${x[12] ? ` <span class="lay-tag">${esc(x[12])}</span>` : ""}${x[13] ? `<br><span class="note">${esc(x[13])}</span>` : ""}</td>
     <td>${esc(what(x))}</td><td class="num" title="${esc(x[4] + " " + x[5])}">${eur(x[6])}${x[5] !== "EUR" ? `<br><span class="note">${esc(x[4] + " " + x[5])}</span>` : ""}</td>
     <td class="num">${x[7] ? eur(x[7]) : "–"}</td><td class="num">${x[15] ? eur(x[15]) : "–"}</td><td>${esc(age(x))}</td></tr>`).join("");
-  const src = t.Ps ? `<a href="${esc(t.Ps)}" target="_blank" rel="noopener">venue website</a>` : "venue website";
+  const src = t.Ps ? externalLink(t.Ps, "venue website") : "venue website";
   return `${feeLine(t)}<div class="fleetwrap"><table class="fleet"><caption>Prices by kart class: standard adult, performance/race, junior and packages</caption>
     <thead><tr><th>Kart</th><th>What you get</th><th>Price</th><th>€/min</th><th>€/lap</th><th>Age / height</th></tr></thead><tbody>${rows}</tbody></table>
     <p class="note">${esc(freshness(t))}</p><span class="note">Prices from the ${src} as listed when checked. Other currencies converted to EUR at ECB rates of ${esc(RATES.date || "the build date")}. Member prices are shown with a "members" tag and only count in comparisons when "Include member prices" is on. The €/min and €/lap used for comparing venues are the cheapest standard adult prices: plain single driving sessions with stated minutes or laps, excluding kids' karts, special or day-limited offers, packages, blocks, group races and offers with meals, drinks or medals.${t.Pn ? " " + esc(t.Pn) : ""}</span></div>`;
@@ -663,7 +714,7 @@ function renderDetail(t) {
     ["Town", t.c], ["Region", t.st], ["Country", COUNTRIES[t.cc].name], ["Address", t.a],
     ["Phone", t.p], ["Email", t.e], ["Hours", t.h],
   ].filter(f => f && f[1]);
-  const web = t.w ? (/^https?:/i.test(t.w) ? t.w : "https://" + t.w) : null;
+  const web = t.w;
   const [typ, oid] = t.o.split("/");
   const trackLen = t.T ? t.T.slice().sort((a, b) => b[1] - a[1]).map(l => l[1].toLocaleString("en") + " m").join(" · ")
     : t.lm ? `≈ ${t.lm.toLocaleString("en")} m (from the map)` : null;
@@ -680,7 +731,7 @@ function renderDetail(t) {
       ${siteLinks(t, web)}
       <a href="https://www.google.com/maps/search/?api=1&query=${t.la},${t.lo}" target="_blank" rel="noopener">Google Maps</a>
       <a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>
-      ${(t.src || []).map((u, i) => `<a href="${esc(u)}" target="_blank" rel="noopener">Source ${i + 1}</a>`).join("")}
+      ${(t.src || []).map((u, i) => externalLink(u, `Source ${i + 1}`)).join("")}
     </div>`;
   const track = (t.g || t.T || t.lm) ? `${layoutTable(t)}${layoutSvg(t)}${!t.T && t.lm ? `<p class="note">≈ ${t.lm.toLocaleString("en")} m measured from the map. May include several layouts or pit lanes. The venue does not publish a length.</p>` : ""}` : "";
   const prices = priceTable(t);
@@ -688,15 +739,15 @@ function renderDetail(t) {
   if (!tabs.some(x => x[0] === state.tab)) state.tab = "overview";
   el.innerHTML = `<div class="dhead"><span class="kind" style="color:var(--${t.k})">${KINDS[t.k].label}${t.club ? " · club track" : ""}</span>
     <button class="closebtn" type="button" data-close="1" aria-label="Close track details">✕ Close</button></div>
-    <h2>${esc(title(t))}</h2>
+    <h2 id="detail-title" tabindex="-1">${esc(title(t))}</h2>
     ${t.gs != null ? `<span class="note">Name guessed from a venue mapped ${t.gs} m away in OpenStreetMap. The track itself has no name there.</span>` : ""}
     ${!t.n ? `<span class="note">No name in OpenStreetMap. Named after the nearest place.</span>` : ""}
     ${pills(t)}
     ${planningActions(t)}
     <button class="chip" type="button" data-share-venue>Copy venue link</button>
     <span data-share-status class="status" role="status"></span>
-    <div class="tabs" role="tablist">${tabs.map(x => `<button type="button" role="tab" class="tab" data-tab="${x[0]}" aria-selected="${x[0] === state.tab}">${x[1]}</button>`).join("")}</div>
-    ${tabs.map(x => `<div class="tabpane" role="tabpanel" data-pane="${x[0]}"${x[0] === state.tab ? "" : " hidden"}>${x[2]}</div>`).join("")}`;
+    <div class="tabs" role="tablist" aria-label="Venue information">${tabs.map(x => `<button type="button" role="tab" class="tab" id="tab-${x[0]}" data-tab="${x[0]}" aria-controls="pane-${x[0]}" tabindex="${x[0] === state.tab ? 0 : -1}" aria-selected="${x[0] === state.tab}">${x[1]}</button>`).join("")}</div>
+    ${tabs.map(x => `<div class="tabpane" role="tabpanel" id="pane-${x[0]}" aria-labelledby="tab-${x[0]}" tabindex="0" data-pane="${x[0]}"${x[0] === state.tab ? "" : " hidden"}>${x[2]}</div>`).join("")}`;
   el.hidden = false;
   el.scrollTop = 0;
   document.getElementById("list").hidden = true;
