@@ -2,39 +2,42 @@
 
 ## Current status (14 October 2026)
 
-Trackmaps release `4fa5577` is live on https://kartatlas.michaelbinger.dk.
-Its history includes gap-fill release `50b878d`. The existing local release
+Luxembourg/Poland/Czech Republic release `b6bb79f` is live on
+https://kartatlas.michaelbinger.dk. The release covers 13 countries and has
+1,356 venue entries and static venue pages. The local prebuilt release
 artefacts (`kart-atlas.html`, `kart-atlas.json`, `public/`, `assets/`,
-`.dockerignore` and `deploy/`) were uploaded without a local rebuild. The local
-HTML SHA-256 matched the requested value,
-`1e42ad2c998e3125615a3b834f1942048197cddad72da32890127b5970220863`, and the
-published HTML matches it.
+`.dockerignore` and `deploy/`) were uploaded without rebuilding. The requested
+HTML SHA-256 matched locally and on the live site:
+`4375d52cac22d7354afe8ef65c3da55f6c14020ccad78cb04efc5c5aaabb5ff6`.
+OneDrive finished syncing the public pages before packaging; the remote
+extraction contains all 1,356 venue pages. This commit includes the preceding
+gap-fill release `50b878d`.
 
 Deployment followed the OVH Docker procedure: source backup and image tag
 first, then upload/extract into `/home/ubuntu/kart-atlas-deploy`, then
-rebuild/recreate only the `kart-atlas` Compose project. Rollback for this
-release is `backups/before-trackmaps-20261014/source.tar.gz` plus image
-`kart-atlas:before-trackmaps-20261014`. Other server containers were not
-touched; the host TLS vhost and deferred `.eu` configuration remain
-untouched.
+rebuild/recreate only the `kart-atlas` Compose project. Rollback is
+`backups/before-lu-pl-cz-20261014/source.tar.gz` plus image
+`kart-atlas:before-lu-pl-cz-20261014`. Other containers were not touched; the
+host TLS vhost and deferred `.eu` configuration remain untouched.
 
 Live verification passed: `Cache-Control: no-cache` and CSP headers are
 present, `npm run health` passed, and all eleven Playwright browser tests
-passed against the live site. Powerarea Vaals (`way/274259545`) shows a
-schematic Track-tab diagram credited to powerarea.nl. Pista Azzurra Jesolo
-(`way/130350436`) shows its OpenStreetMap layout in the Track tab. The
-“Only with layout” count increased from 751 before deployment to 817 after.
-TLS had 84 days remaining at verification.
+passed against the live site. The country filter lists Luxembourg, Poland and
+Czech Republic. Praga Arena (`way/242996795`) shows original CZK prices and
+their EUR conversions. The static page
+`/venues/way-460847946/` loads ACL Karting Mondercange. TLS had 84 days
+remaining at verification.
 
 Windows-created tar archives can restore nested `public/` and `assets/`
 directories read-only on Linux. Before extraction, make the existing
 task-owned directories owner-writable; use tar's delayed directory restore
 and no-same-permissions behavior, then make extracted directories
 owner-writable too. Earlier rollback archives remain preserved:
-`before-trackmaps-20261014`, `before-finder-redesign-20261014`,
-`before-country-discovery-20261009`, `before-pista-winner-20261009`,
-`before-venue-pages-20261009`, `before-accessibility-20261009`,
-`before-planning-20261009` and `before-discovery-20261009`.
+`before-lu-pl-cz-20261014`, `before-trackmaps-20261014`,
+`before-finder-redesign-20261014`, `before-country-discovery-20261009`,
+`before-pista-winner-20261009`, `before-venue-pages-20261009`,
+`before-accessibility-20261009`, `before-planning-20261009` and
+`before-discovery-20261009`.
 
 Earlier feature release:
 
