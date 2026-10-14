@@ -2,30 +2,28 @@
 
 ## Current status (14 October 2026)
 
-Luxembourg/Poland/Czech Republic release `b6bb79f` is live on
-https://kartatlas.michaelbinger.dk. The release covers 13 countries and has
-1,356 venue entries and static venue pages. The local prebuilt release
-artefacts (`kart-atlas.html`, `kart-atlas.json`, `public/`, `assets/`,
-`.dockerignore` and `deploy/`) were uploaded without rebuilding. The requested
-HTML SHA-256 matched locally and on the live site:
-`4375d52cac22d7354afe8ef65c3da55f6c14020ccad78cb04efc5c5aaabb5ff6`.
-OneDrive finished syncing the public pages before packaging; the remote
-extraction contains all 1,356 venue pages. This commit includes the preceding
-gap-fill release `50b878d`.
+Discovery release `472cba2` is live on https://kartatlas.michaelbinger.dk.
+It adds 129 discovered venues, brings the atlas to 1,482 venue pages, and
+includes recovered prices, unnamed-entry review and the “Own/race karts only
+(no rental)” filter. The local prebuilt artefacts (`kart-atlas.html`,
+`kart-atlas.json`, `public/`, `assets/`, `.dockerignore` and `deploy/`) were
+uploaded without rebuilding. The HTML hash matched locally and on the live
+site: `2f2596748f4cde238c7c7527146d30a206da02065d3bb509989edaab1cce418b`.
+OneDrive sync completed before packaging; the remote extraction has all 1,482
+static venue pages.
 
-Deployment followed the OVH Docker procedure: source backup and image tag
+Deployment followed the OVH Docker procedure: source archive and image tag
 first, then upload/extract into `/home/ubuntu/kart-atlas-deploy`, then
 rebuild/recreate only the `kart-atlas` Compose project. Rollback is
-`backups/before-lu-pl-cz-20261014/source.tar.gz` plus image
-`kart-atlas:before-lu-pl-cz-20261014`. Other containers were not touched; the
-host TLS vhost and deferred `.eu` configuration remain untouched.
+`backups/before-discovery2-20261015/source.tar.gz` plus image
+`kart-atlas:before-discovery2-20261015`. Other containers were not touched;
+the host TLS vhost and deferred `.eu` configuration remain untouched.
 
 Live verification passed: `Cache-Control: no-cache` and CSP headers are
 present, `npm run health` passed, and all eleven Playwright browser tests
-passed against the live site. The country filter lists Luxembourg, Poland and
-Czech Republic. Praga Arena (`way/242996795`) shows original CZK prices and
-their EUR conversions. The static page
-`/venues/way-460847946/` loads ACL Karting Mondercange. TLS had 84 days
+passed. The Karts > Driving filter contains “Own/race karts only (no rental)”.
+`/venues/way-184267672/` loads the Motokáry Masarykův okruh page. BattleKart
+Le Mans (`node/13284163733`) displays its price table. TLS had 84 days
 remaining at verification.
 
 Windows-created tar archives can restore nested `public/` and `assets/`
@@ -33,11 +31,11 @@ directories read-only on Linux. Before extraction, make the existing
 task-owned directories owner-writable; use tar's delayed directory restore
 and no-same-permissions behavior, then make extracted directories
 owner-writable too. Earlier rollback archives remain preserved:
-`before-lu-pl-cz-20261014`, `before-trackmaps-20261014`,
-`before-finder-redesign-20261014`, `before-country-discovery-20261009`,
-`before-pista-winner-20261009`, `before-venue-pages-20261009`,
-`before-accessibility-20261009`, `before-planning-20261009` and
-`before-discovery-20261009`.
+`before-discovery2-20261015`, `before-lu-pl-cz-20261014`,
+`before-trackmaps-20261014`, `before-finder-redesign-20261014`,
+`before-country-discovery-20261009`, `before-pista-winner-20261009`,
+`before-venue-pages-20261009`, `before-accessibility-20261009`,
+`before-planning-20261009` and `before-discovery-20261009`.
 
 Earlier feature release:
 
