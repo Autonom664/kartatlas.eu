@@ -172,6 +172,7 @@ for t in tracks:
     if OVR.get(t['o'], {}).get('noprice'): r = None
     P = []
     for q in (r or {}).get('prices') or []:
+        if not isinstance(q, dict): continue  # malformed research entry
         amt, cur = num(q.get('price')), (q.get('currency') or 'EUR').upper()
         if amt is None or amt <= 0 or cur not in rates: continue
         eur = round(amt / rates[cur], 2)
@@ -208,6 +209,7 @@ for t in tracks:
     if OVR.get(t['o'], {}).get('noprice'): r = {}
     F = []
     for fz in r.get('fees') or []:
+        if not isinstance(fz, dict): continue  # malformed research entry
         amt, cur = num(fz.get('amount')), (fz.get('currency') or 'EUR').upper()
         if cur not in rates: continue
         if amt is None and not fz.get('mandatory'): continue  # unpriced optional extras add nothing

@@ -1,0 +1,598 @@
+[
+ {
+  "id": "way/1486100472",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 152 m raceway lies inside La Guiguitte en Folie, a children's farm/leisure park in Filain (OSM theme_park with pirate-ship ride, bowling, arcade and animal enclosures within 150 m); it is a park ride, not a kart venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1486100472",
+   "https://www.openstreetmap.org/way/1485949128",
+   "https://guiguitteenfolie.jimdofree.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1079744042",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The dirt track is the 'Crazy Kart' family attraction inside the Pokeyland leisure park (OSM attraction node 30 m away; park site lists Crazy Kart with a 110 cm minimum height), next to 'Quad Kids', paintball and toboggans.",
+  "sources": [
+   "https://www.openstreetmap.org/node/8693886368",
+   "https://www.openstreetmap.org/way/935294131",
+   "https://www.pokeyland.com/activites/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/875122571",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The way sits inside an OSM sports_centre named 'Circuit Mini Buggy' tagged sport=rc_car; it is a radio-controlled car track, mis-tagged as karting.",
+  "sources": [
+   "https://www.openstreetmap.org/way/875122571",
+   "https://www.openstreetmap.org/way/936022909"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/614006004",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small leisure=track at the Lac du Der port/resort area in Giffaumont next to minigolf, tree-climbing and a campsite; probably a holiday-resort attraction, but no source shows what kind of karts run there.",
+  "sources": [
+   "https://www.openstreetmap.org/way/614006004",
+   "https://www.openstreetmap.org/way/175560137"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/111531590",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An asphalt kart complex is mapped here (pitch of ~1 km plus four sport=karting asphalt raceways) in fields by the Vierzon-Tours railway, but web searches found no circuit, club or operator in Gievres.",
+  "sources": [
+   "https://www.openstreetmap.org/way/111531590",
+   "https://www.openstreetmap.org/way/139746891"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/233622123",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The untagged sport=karting area in Gresswiller sits next to the mapped 'Club de voitures radio-commandees MVHS', whose site says its asphalt and synthetic-turf off-road tracks are in Gresswiller; this is an RC-car track, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/233622123",
+   "https://www.openstreetmap.org/node/14270733084",
+   "https://sites.google.com/view/club-mvhs-67"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1021512553",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 540 m track is inside the Didi'land amusement park (Morsbronn/Gunstett), where OSM shows an information board for 'Les F1'; the park describes Les F1 as a children's kart ride (95-140 cm).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1021512553",
+   "https://www.openstreetmap.org/node/9890324332",
+   "https://www.didiland.fr/en/attraction/31-the-f1"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/721615951",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceway is within the Loisirs Ocean amusement park at La Faute-sur-Mer (OSM theme_park 13 m away); the park's site advertises 'Babys Karts', a children's ride.",
+  "sources": [
+   "https://www.openstreetmap.org/way/721615951",
+   "https://www.openstreetmap.org/way/1529011104",
+   "https://www.loisirs-ocean.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/162384551",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Two raceway ways (274 m) in a rural area with only hiking signposts nearby; no karting business, club or event was found for La Ferriere-aux-Etangs.",
+  "sources": [
+   "https://www.openstreetmap.org/way/162384551",
+   "https://www.openstreetmap.org/way/856142219"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/191907701",
+  "verdict": "club_or_private",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The sport=karting area adjoins a leisure=track tagged access=private in open countryside; no public venue or club was found online, so it looks like a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/191907701",
+   "https://www.openstreetmap.org/way/191907698"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/5927801",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A small asphalt karting area (about 100 x 100 m, access=customers) inside the municipal sports complex by Stade de Lamballe and Lycee Henri Avril; it is NOT the GP Circuit kart track, which OSM places 4.6 km away at Rue des Freres Pieto. Its use (school/road-safety or club mini-track) is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/5927801",
+   "https://www.openstreetmap.org/way/394994623",
+   "https://www.openstreetmap.org/way/34179469"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/311226208",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An isolated leisure=pitch sport=karting in farmland with no other tagged features nearby; nothing about karting in Laneuveville-en-Saulnois was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/311226208"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/715352032",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 133 m track about 240 m from the Luna Park funfair at Les Mathes/La Palmyre and next to campsites; it is not at either known kart operator (AL Karting on Allee des Charmettes and Oceanic Aventure on Route de la Fouasse are both over 1 km away). It is probably a funfair or campsite kids' ride, but this is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/715352032",
+   "https://www.openstreetmap.org/way/159705879",
+   "https://www.royanatlantique.fr/en/activites/al-karting-les-mathes/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1102755850",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 277 m raceway lies inside the Parc Bellevue amusement park in Limoges, among carousels, a slide and a 'Voitures Electriques' ride; it is a funfair attraction, not a kart venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1102755850",
+   "https://www.openstreetmap.org/way/141884371",
+   "https://www.openstreetmap.org/node/2265979968"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/2432025566",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A node tagged leisure=track sport=karting in Loix, beside tennis courts, a sports shop and a campsite playground; no karting on Ile de Re near Loix was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/node/2432025566",
+   "https://www.openstreetmap.org/node/2958418533"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/655641165",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The site is the track complex of ALC Longvic MRC, a radio-controlled car club (OSM club node 10 m away tagged piste_voiture_radio_commandee; club site: 'Pistes Voitures RC Loisirs et Competitions'). The karting-tagged raceways and asphalt pitches are RC-car tracks.",
+  "sources": [
+   "https://www.openstreetmap.org/way/655641165",
+   "https://www.openstreetmap.org/node/14114445647",
+   "https://alc-longvic-mrc.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/939274680",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 327 m raceway is 51 m from Motor'System (ZA Bonjuan, Magny). A Yumping listing says Motor System rents 270 cc karts on an outdoor track at La Chaume/Bonjuan, but its own site only mentions Can-Am quads, SSVs and an FFM cross terrain, so current kart rental is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/939274680",
+   "https://www.openstreetmap.org/node/11474495900",
+   "https://www.yumping.com/en/motor-sports/motor-system--e19679120",
+   "https://www.motor-system.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/613999944",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sports_centre tagged sport=karting;boules with a karting pitch next to petanque pitches near the Nolongues sports complex; it may be a municipal or club mini-track, but nothing was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/613999944",
+   "https://www.openstreetmap.org/way/613999941"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/761190869",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A small network of raceway ways (269 m) next to a football pitch, a school and a travellers' site in Marles-les-Mines; no karting venue or club in the town was found, so it may be a children's or road-safety track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/761190869",
+   "https://www.openstreetmap.org/way/89050973"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/240989115",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An isolated leisure=track sport=karting (Bing 2011 trace) in farmland near the D23; no karting venue in Marmagne or near La Chapelle-Saint-Ursin was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/240989115"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/202120893",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 331 m asphalt raceway imported from the sports ministry's equipment census (2015), near the Puy Saint-Mary chapel above Mauriac; no operator or club was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/202120893"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/308748098",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 711 m asphalt kart raceway from the sports ministry's census, off the Route de Compiegne west of Soissons. The only local club found, A.S.K Soissons, is listed as racing at a 950 m Bucy-le-Long track, so it is not confirmed to be this one.",
+  "sources": [
+   "https://www.openstreetmap.org/way/308748098",
+   "https://www.yumping.com/en/karting/a-s-k-soissons--e19629203"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/178180850",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceways (458 m) adjoin La Recre des Trois Cures amusement park (theme_park 74 m away, among its rides and playgrounds); this is a park attraction track, not a stand-alone kart venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/178180850",
+   "https://www.openstreetmap.org/way/74268906",
+   "https://larecredes3cures.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/12018456",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An asphalt karting area in the grounds of the Chateau de Chalendrat site in Mirefleurs, whose buildings are named 'Batiment ados', 'Infirmerie' and 'Ateliers' (apparently a youth institution); it looks like an on-site private track, but this is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/12018456",
+   "https://www.openstreetmap.org/way/148990916"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/823896174",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A small raceway area among residential towers on Avenue Gloria (Magnan, Nice), next to a private garden and car-park entrance; no karting at this spot was found. It may be a private or children's track or a mis-tag.",
+  "sources": [
+   "https://www.openstreetmap.org/way/823896174"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1038297754",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The element is tagged disused:highway=raceway with landuse=grass, and the nearby raceway is also disused, beside the Terril 43 slag heap near Loisinord. It is a former track that has been grassed over, not an active kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1038297754",
+   "https://www.openstreetmap.org/way/1257148580"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1070725646",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A large mapped complex of about 19 kart raceway segments near Claret/Pompignan suggests a substantial circuit, but no circuit name, operator or club was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1070725646",
+   "https://www.openstreetmap.org/way/1070725648"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/394191346",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Two raceway ways (418 m) in countryside near Ty Nouet hamlet, Poullaouen; no karting venue or club was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/394191346",
+   "https://www.openstreetmap.org/way/1116742105"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/13228393793",
+  "verdict": "club_or_private",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A kart raceway node from the sports ministry's 2025 census, sitting on a leisure=track tagged access=private reached by a private track; no public operator was found, so it appears to be a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/node/13228393793",
+   "https://www.openstreetmap.org/way/898168871"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/136505203",
+  "verdict": "real",
+  "name": "Euro Dieppe Karting",
+  "website": null,
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "Euro Dieppe Karting is mapped here (named track area and building) in the Zone d'activite Verte, Rouxmesnil-Bouteilles; a tourism guide lists kart rental on outdoor and indoor tracks at this address. The listed website eurodieppekarting.fr no longer resolves, so check that the venue still operates.",
+  "sources": [
+   "https://www.openstreetmap.org/way/136505230",
+   "https://www.openstreetmap.org/way/136505217",
+   "https://www.guide-tourisme-france.com/VISITER/euro-dieppe-karting--rouxmesnil-bouteilles-3587.htm"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/72953754",
+  "verdict": "duplicate",
+  "name": "Karting de Royan",
+  "website": null,
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The building stands beside a lit asphalt karting pitch on Rue d'Arsonval, Royan, which is the address of Karting de Royan (Circuit de la Cote de Beaute, 13 rue d'Arsonval). That 600 m approved track rents karts to drivers aged 7 and over. Duplicate of the existing Karting de Royan entry way/724274244 (same venue, building at the address).",
+  "sources": [
+   "https://www.openstreetmap.org/way/72953754",
+   "https://www.openstreetmap.org/way/281465480",
+   "https://www.royanatlantique.fr/en/activites/karting-de-royan-royan/",
+   "https://www.yumping.com/karting/karting-de-royan--e19629424"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1429200345",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An isolated 637 m raceway in the countryside near Quinson/Regusse; the only feature nearby is a private pool. No karting venue was found online, so it may be private.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1429200345"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/261965110",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 299 m raceway near the hamlet of Lascot in Saint-Genies. A directory lists 'Karting Cross' in Saint-Genies with its own track (drivers aged 8+), but classifies it as pedal-kart rental, and its location and vehicle type are unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/261965110",
+   "https://www.evenementielpourtous.com/karting-cross-87810"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/872984146",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceways are inside the Laby'Parc leisure park (theme_park 70 m away), whose website lists pedal karting ('karting a pedales') among its activities.",
+  "sources": [
+   "https://www.openstreetmap.org/way/872984146",
+   "https://www.openstreetmap.org/way/445530710",
+   "https://laby-parc.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/10088957473",
+  "verdict": "real",
+  "name": "SpeedPark Le Mans",
+  "website": "https://speedpark.fr/le-mans/",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The node is inside the 'SpeedPark Le Mans' building (ZAC des Portes de l'Oceane, Saint-Saturnin), an indoor centre that tourism listings say has karting on 2 circuits plus bowling and laser tag.",
+  "sources": [
+   "https://www.openstreetmap.org/way/151295241",
+   "https://speedpark.fr/le-mans/",
+   "https://www.atlantic-loire-valley.com/activities/leisure-activities-for-young-people/speed-park"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1536839980",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 311 m raceway (plus a raceway multipolygon) in fields near the Bijude picnic area off the D1; no karting venue or club at Saint-Vaast-la-Hougue was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1536839980",
+   "https://www.openstreetmap.org/relation/2964481"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/969613966",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM notes on the way and on the gate say it is a kart track abandoned for several years, overgrown with brambles and gorse, and closed off by a private-property sign. It is no longer a usable kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/969613966",
+   "https://www.openstreetmap.org/node/8972714517"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/989919349",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 1531 m raceway near Saval in rural Savignac-sur-Leyze, a length typical of a competition kart circuit, but no circuit, club or event was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/989919349"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/727555589",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Two asphalt kart raceways (321 m) with no other tagged features nearby; no karting venue in Savonnieres-devant-Bar or Bar-le-Duc was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/727555589",
+   "https://www.openstreetmap.org/way/727555590"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

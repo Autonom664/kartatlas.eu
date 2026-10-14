@@ -1,0 +1,1455 @@
+[
+ {
+  "website": "https://www.battlekart.com/en/breda",
+  "phone": "+31 767820969",
+  "email": "info@breda.battlekart.com",
+  "hours": "Mon-Wed 14:30-19:30, Thu 14:00-20:00, Fri 13:00-23:00, Sat 10:00-23:00, Sun 10:00-20:00",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Week: each game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "Mon-Fri",
+    "note": "15 min incl. boarding/landing"
+   },
+   {
+    "label": "Weekend: each game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "Sat-Sun",
+    "note": "15 min incl. boarding/landing"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/en/breda",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/en/breda",
+   "https://www.battlekart.com/en/centers/nld"
+  ],
+  "id": "node/2728928727",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/en/parkstad",
+  "phone": "+31 457 820 500",
+  "email": "info@parkstad.battlekart.com",
+  "hours": "Mon-Thu 14:00-21:00, Fri 14:00-23:00, Sat 10:00-22:00, Sun 10:00-20:00",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "First game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Second game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Next game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/en/parkstad",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/en/parkstad",
+   "https://www.battlekart.com/en/centers/nld"
+  ],
+  "id": "node/4482685879",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/nl/apeldoorn",
+  "phone": "+31 557820466",
+  "email": "info@apeldoorn.battlekart.com",
+  "hours": "Mon-Thu 14:30-21:00 (holidays 12:00-21:00), Fri 14:30-22:00 (holidays 12:00-22:00), Sat 10:00-22:00, Sun 10:00-20:00",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "First game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Second game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Next games",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Student BattleKart Night",
+    "class": "BattleKart",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 30.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": "Tue, Thu from 18:00",
+    "note": "student card required, not bookable online"
+   },
+   {
+    "label": "Bachelor Party Package",
+    "class": "BattleKart",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 49.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "per person"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/nl/apeldoorn",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/nl/apeldoorn",
+   "https://www.battlekart.com/en/centers/nld"
+  ],
+  "id": "node/2683573095",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/nl/utrecht-beusichem",
+  "phone": "+31 345502000",
+  "email": "info@utrecht-beusichem.battlekart.com",
+  "hours": "Mon-Sat 10:00-22:00, Sun 10:00-21:00",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Een sessie",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Het tweede",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Het volgende",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/nl/utrecht-beusichem",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/nl/utrecht-beusichem",
+   "https://www.battlekart.com/en/centers/nld"
+  ],
+  "id": "node/2818777571",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/en/herentals",
+  "phone": "+32 14 87 31 85",
+  "email": "info@herentals.battlekart.com",
+  "hours": "Mon,Tue,Thu 16:00-21:00; Wed 12:45-21:00; Fri 16:00-22:00; Sat 10:00-22:00; Sun 10:00-20:00 (school holidays Mon-Thu 10:00-21:00)",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "One game",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/en/herentals",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/en/herentals",
+   "https://www.battlekart.com/en/centers/bel"
+  ],
+  "id": "way/142890626",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/nl/kortrijk",
+  "phone": "+32 56 94 44 64",
+  "email": "info@kortrijk.battlekart.com",
+  "hours": "Opens when no event is held in Hall 4 of Kortrijk Xpo; temporarily closed until 23 October (2026) per site",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Een spel",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/nl/kortrijk",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/nl/kortrijk",
+   "https://www.battlekart.com/en/centers/bel"
+  ],
+  "id": "way/145474807",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/en/malmedy",
+  "phone": "+32 476 05 75 95",
+  "email": "info@malmedy.battlekart.com",
+  "hours": "Tue,Thu 16:00-20:00; Wed 14:00-20:00; Fri 16:00-21:00; Sat 10:00-21:00; Sun 10:00-20:00; Mon closed (school holidays Mon-Thu 13:00-20:00)",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "One Part",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/en/malmedy",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/en/malmedy",
+   "https://www.battlekart.com/en/centers/bel"
+  ],
+  "id": "node/5766591167",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/mons",
+  "phone": "+32 65 98 20 20",
+  "email": "info@mons.battlekart.com",
+  "hours": "Outside school holidays: Mon,Tue,Thu 16:00-21:00; Wed 13:00-21:00; Fri 16:00-00:00; Sat 10:00-00:00; Sun 10:00-21:00. School holidays daily 10:00-21:00 (Fri/Sat to 00:00)",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "15 min (1 session)",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "30 min (2 sessions)",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 39.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "45 min (3 sessions)",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 45,
+    "laps": null,
+    "price": 49.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/mons",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/mons",
+   "https://www.battlekart.com/en/centers/bel"
+  ],
+  "id": "way/120216557",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.kartbaanleeuwarden.nl/",
+  "phone": "+31 58 213 47 22",
+  "email": "info@kartbaanleeuwarden.nl",
+  "hours": "Mon-Tue closed, Wed 15:00-23:00, Thu 17:00-23:00, Fri 15:00-24:00, Sat 12:00-24:00, Sun 12:00-20:00 (footer says 21:00)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult kart"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kinderkart"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "duokart"
+   }
+  ],
+  "ages": {
+   "kinderkart": "8+ and leg length >= 71 cm",
+   "adult_kart": "from about 12 if pedals/wheel reachable",
+   "duokart": "children under 8 / too small ride with an adult"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Heat",
+    "class": "adult/kinderkart",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 18.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Duokart heat",
+    "class": "duokart",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Private heat (all 14 places)",
+    "class": null,
+    "type": "group",
+    "minutes": 12,
+    "laps": null,
+    "price": 250.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "once",
+    "mandatory": true,
+    "note": "required under the helmet"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.kartbaanleeuwarden.nl/karten/",
+  "tracks": [
+   {
+    "name": "Indoor circuit",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.kartbaanleeuwarden.nl/",
+   "https://www.kartbaanleeuwarden.nl/karten/",
+   "https://www.dagjeweg.nl/friesland/karting",
+   "https://www.go-karting.eu/countries/netherlands/"
+  ],
+  "id": "node/3065001418",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.themaxx.nl/",
+  "phone": "+31 318 25 20 20",
+  "email": null,
+  "hours": "Mon/Tue 15:00-22:00, Wed 13:00-22:00, Thu 15:00-22:00, Fri 14:00-00:00, Sat 12:00-00:00, Sun 12:00-22:00",
+  "karts": [],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "2 heats Karten",
+    "class": null,
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 38.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "promo: 'van EUR 41 voor EUR 38 p.p.'"
+   },
+   {
+    "label": "Karten & Lasergame",
+    "class": null,
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 31.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "promo: 'van EUR 32,50 voor EUR 31,50 p.p.'"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.themaxx.nl/",
+  "tracks": [
+   {
+    "name": "Indoor kartbaan (renewed)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://www.themaxx.nl/activiteiten/kartbaan",
+  "sources": [
+   "https://www.themaxx.nl/",
+   "https://www.dagjeweg.nl/utrecht/karting"
+  ],
+  "id": "node/2775186344",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.kartingzeeland.nl/",
+  "phone": "+31 118 61 74 75",
+  "email": "info@kartingzeeland.nl",
+  "hours": "Mon 18:00-22:00, Tue closed, Wed-Fri 16:00-22:00, Sat 12:00-22:00, Sun 12:00-18:00",
+  "karts": [],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "1 x 10 minuten",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2 x 10 minuten",
+    "class": null,
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 36.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "3 x 10 minuten",
+    "class": null,
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 49.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "1 x 10 minuten (online)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "online booking price"
+   },
+   {
+    "label": "2 x 10 minuten (online)",
+    "class": null,
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 33.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "online booking price"
+   },
+   {
+    "label": "3 x 10 minuten (online)",
+    "class": null,
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 47.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "online booking price"
+   },
+   {
+    "label": "Onbeperkt Karten",
+    "class": null,
+    "type": "package",
+    "minutes": 300,
+    "laps": null,
+    "price": 47.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "last Saturday of month 17:00-22:00",
+    "note": "not in March, July, August, December"
+   },
+   {
+    "label": "Cursus",
+    "class": null,
+    "type": "course",
+    "minutes": null,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "minimum 4 persons"
+   },
+   {
+    "label": "Half Uurs-Race",
+    "class": null,
+    "type": "group race",
+    "minutes": 30,
+    "laps": null,
+    "price": 450.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Een Uurs-Race",
+    "class": null,
+    "type": "group race",
+    "minutes": 60,
+    "laps": null,
+    "price": 850.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Twee Uurs-Race",
+    "class": null,
+    "type": "group race",
+    "minutes": 120,
+    "laps": null,
+    "price": 1650.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.kartingzeeland.nl/ (booking: https://booking.bmileisure.com/indoorkartingmiddelburg/book/product-list)",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.kartingzeeland.nl/",
+   "https://www.dagjeweg.nl/zeeland/karting"
+  ],
+  "id": "node/2907833430",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.gamecity.nl/",
+  "phone": "+31 79 342 6226",
+  "email": "sales@gamecity.nl",
+  "hours": "Mon by appointment, Tue 16:00-22:00, Wed 13:00-22:00, Thu 15:00-22:00, Fri 13:00-00:00, Sat 11:00-00:00, Sun 11:00-22:00",
+  "karts": [],
+  "ages": {
+   "note": "booking form: children up to 13 must be at least 1.40 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Karten 2 heats",
+    "class": null,
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 39.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.gamecity.nl/",
+  "tracks": [
+   {
+    "name": "Multi-level indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://www.gamecity.nl/activiteiten/karten/",
+  "sources": [
+   "https://www.gamecity.nl/",
+   "https://www.dagjeweg.nl/zuid-holland/karting"
+  ],
+  "id": "node/541088890",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://kortrijk.worldkarts.com/",
+  "phone": "+32 56 21 49 91",
+  "email": "kortrijk@worldkarts.com",
+  "hours": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "200cc",
+    "hp": null,
+    "class": "leisure"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "adult": "13+ and 1.50 m",
+   "kids": "7-12 and 1.25 m",
+   "kids_track": "Kids Track & Play mini racers 2-10 (main site)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Kart session",
+    "class": null,
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 17.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "venue publishes conflicting prices for the same session (17/18/22 EUR)",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": null,
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 32.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "12'+12'; venue publishes conflicting prices for the same session (17/18/22 EUR)",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Grand Prix",
+    "class": null,
+    "type": "session",
+    "minutes": 32,
+    "laps": null,
+    "price": 42.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "12'+20'; venue publishes conflicting prices for the same session (17/18/22 EUR)",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Super Grand Prix",
+    "class": null,
+    "type": "session",
+    "minutes": 42,
+    "laps": null,
+    "price": 52.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10'+12'+20'; venue publishes conflicting prices for the same session (17/18/22 EUR)",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Endurance race",
+    "class": null,
+    "type": "session",
+    "minutes": 60,
+    "laps": null,
+    "price": 80.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "venue publishes conflicting prices for the same session (17/18/22 EUR)",
+    "comparison_eligible": false
+   }
+  ],
+  "fees": [
+   {
+    "name": "Membership card",
+    "amount": 1.0,
+    "currency": "EUR",
+    "period": "per year",
+    "mandatory": true,
+    "note": "worldkarts.com: new card EUR 1 if none or older than one year"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kortrijk.worldkarts.com/",
+  "tracks": [
+   {
+    "name": "Worldkarts Kortrijk indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://kortrijk.worldkarts.com/",
+   "https://www.worldkarts.com/",
+   "https://www.go-karting.eu/countries/belgium/"
+  ],
+  "id": "way/1237913076",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.extremekart.be/",
+  "phone": "+32 16 57 17 18",
+  "email": "info@extremekart.be",
+  "hours": "Mon-Tue closed (adjustable), Wed-Fri 18:00-23:00, Sat 14:00-24:00, Sun 14:00-19:00",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "rental"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "duokart"
+   }
+  ],
+  "ages": {
+   "pay_drive": "12+ and must reach pedals; under 14 consent form",
+   "duokart": "pilot 16+, passenger min 1 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Pay & drive 1st session of the day",
+    "class": null,
+    "type": "session",
+    "minutes": 13,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "incl. kart equipment and free membership card"
+   },
+   {
+    "label": "Pay & drive 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 13,
+    "laps": null,
+    "price": 18.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "same day"
+   },
+   {
+    "label": "Pay & drive 3rd session or more",
+    "class": null,
+    "type": "session",
+    "minutes": 13,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "same day"
+   },
+   {
+    "label": "Duokart",
+    "class": "duokart",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 24.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.extremekart.be/",
+  "tracks": [
+   {
+    "name": "Asphalt circuit",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.extremekart.be/",
+   "https://www.go-karting.eu/countries/belgium/"
+  ],
+  "id": "way/359241120",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.thesmiles.be/",
+  "phone": "+32 50 511 211",
+  "email": "knokke@thesmiles.be",
+  "hours": "Mon closed, Tue/Thu 16:00-23:00, Wed 14:00-23:00, Fri 16:00-01:00, Sat 12:00-01:00, Sun 12:00-21:00",
+  "karts": [],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor karting track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.thesmiles.be/",
+   "https://la-reserve.be/en/node/112",
+   "https://www.go-karting.eu/countries/belgium/"
+  ],
+  "id": "way/1217048343",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ }
+]

@@ -3,6 +3,7 @@ import re
 PROMO = re.compile(
     r"ladies|night|half.?price|happy|spar|student|promo|early.?bird|special|"
     r"aktion|réduit|reduced|discount|rabatt|off.?peak|block|abo|subscription|"
+    r"following session|additional session|next session|session suivante|partie suivante|second session|2nd session|folgefahrt|weitere fahrt|"
     r"monday|tuesday|wednesday|thursday|friday|montag|dienstag|mittwoch|"
     r"donnerstag|freitag|lundi|mardi|mercredi|jeudi|vendredi|"
     r"mandag|tirsdag|onsdag|torsdag|fredag|"

@@ -1,0 +1,448 @@
+[
+ {
+  "id": "node/6968981892",
+  "name": "Chargers Racing",
+  "town": "Leonding",
+  "country": "AT",
+  "websites": [
+   "https://www.chargersracing.at/",
+   "https://www.chargersracing.at/"
+  ],
+  "known_price_source": null,
+  "last_note": "Electric-kart track on three levels (approx. 600 m) in the UNO shopping centre, Im Baeckerfeld 1; website unreachable during research so current status unconfirmed."
+ },
+ {
+  "id": "way/1147658133",
+  "name": "Freizeitpark Stubenbergsee",
+  "town": "Stubenberg",
+  "country": "AT",
+  "websites": [
+   "http://www.freizeitpark-stubenbergsee.at",
+   "http://www.freizeitpark-stubenbergsee.at"
+  ],
+  "known_price_source": null,
+  "last_note": "Kart track inside an amusement park (Freienberg 73/76); the park site lists electric go-karts while a family listing cites twelve 20 hp karts, and no prices are published."
+ },
+ {
+  "id": "way/194361134",
+  "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring",
+  "town": "Melk",
+  "country": "AT",
+  "websites": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452"
+  ],
+  "known_price_source": null,
+  "last_note": "750 m outdoor kart track at OeAMTC driving centre (summer kart experience) next to the Wachauring circuit."
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "town": "St. Pölten",
+  "country": "AT",
+  "websites": [
+   "https://www.rw-m.at/",
+   "https://www.rw-m.at/"
+  ],
+  "known_price_source": null,
+  "last_note": "Site says the St. Poelten (indoor e-kart) track's opening is delayed ('Eroeffnung verzoegert', 'Oeffnungszeiten folgen'); not yet operating. Prices/hours/980 m track on the site belong to the operator's other venue, Kartbahn Stetteldorf."
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "town": "Eeklo",
+  "country": "BE",
+  "websites": [
+   "https://yeti-eeklo.be/",
+   "https://yeti-eeklo.be/"
+  ],
+  "known_price_source": null,
+  "last_note": "Indoor leisure centre (opened 2016) with karting track and escape rooms; fleet not stated."
+ },
+ {
+  "id": "way/186521896",
+  "name": "Autodrom Písek - Hradiště (AK Hradiště v AČR)",
+  "town": "Písek",
+  "country": "CZ",
+  "websites": [
+   "https://www.autoklub-pisek.cz/",
+   "https://www.autoklub-pisek.cz/"
+  ],
+  "known_price_source": null,
+  "last_note": "Club kart circuit; the club states it does not operate kart rental, track days for own karts by online booking."
+ },
+ {
+  "id": "node/12818688068",
+  "name": "Karting arena lipník",
+  "town": "Lipník nad Bečvou",
+  "country": "CZ",
+  "websites": [
+   "https://www.kartingarena.cz",
+   "https://www.kartingarena.cz"
+  ],
+  "known_price_source": null,
+  "last_note": "Website shows only a bot-verification page, so content could not be checked; phone from OSM. Lead: motokary-olomouc.cz/lipnik lists an outdoor 350 m track at Loucska 503 (270 CZK/10 min) with different phone, possibly same site under earlier/other operator - not used."
+ },
+ {
+  "id": "way/360164280",
+  "name": "Motokáry Hořovice",
+  "town": "Hořovice",
+  "country": "CZ",
+  "websites": [
+   "https://motokaryhorovice.cz/",
+   "https://motokaryhorovice.cz/"
+  ],
+  "known_price_source": null,
+  "last_note": "Website returns HTTP 403 to automated requests, so content could not be checked; phone from OSM; a voucher portal lists it as Motorsport Aréna Hořovice (not used)."
+ },
+ {
+  "id": "way/304341132",
+  "name": "Motokáry Krmelín",
+  "town": "Krmelín",
+  "country": "CZ",
+  "websites": [
+   "https://www.facebook.com/MotokaryKrmelin",
+   "https://www.facebook.com/MotokaryKrmelin"
+  ],
+  "known_price_source": null,
+  "last_note": "Only a Facebook page exists; its content (hours, prices, activity) could not be read."
+ },
+ {
+  "id": "node/3222962495",
+  "name": "Motokáry Teplice (Metropole Teplice)",
+  "town": "Teplice",
+  "country": "CZ",
+  "websites": [
+   "https://www.metropoleteplice.cz/motokary",
+   "https://www.metropoleteplice.cz/motokary"
+  ],
+  "known_price_source": null,
+  "last_note": "Entertainment centre with karts, bowling and restaurant; prices only via Apex Timing booking widget, none readable on site."
+ },
+ {
+  "id": "way/252520329",
+  "name": "motokárová dráha",
+  "town": "Rokytnice nad Jizerou",
+  "country": "CZ",
+  "websites": [
+   "http://www.hotel-stary-mlyn.com/motokarova-draha/",
+   "http://www.hotel-stary-mlyn.com/motokarova-draha/"
+  ],
+  "known_price_source": null,
+  "last_note": "Hotel Starý mlýn kart track page returns HTTP 403 to automated requests, so content could not be verified; no other online presence found."
+ },
+ {
+  "id": "way/27615820",
+  "name": "Daytona Kart-Center",
+  "town": "Essen",
+  "country": "DE",
+  "websites": [
+   "https://www.daytona-kartbahn.de",
+   "https://www.daytona-kartbahn.de"
+  ],
+  "known_price_source": null,
+  "last_note": "Kart and price subpages returned no readable content (likely script-rendered)."
+ },
+ {
+  "id": "way/33529699",
+  "name": "F1 motodrom",
+  "town": "Wernau (Neckar)",
+  "country": "DE",
+  "websites": [
+   "https://f1-motodrom.de/",
+   "https://f1-motodrom.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: website f1-motodrom.de returns 403 Forbidden on homepage and 404 on all subpages (no content)"
+ },
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "town": "Backnang",
+  "country": "DE",
+  "websites": [
+   "https://www.indy-cart.de/",
+   "https://www.indy-cart.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Website shows only a notice 'Wir haben vorÃ¼bergehend geschlossen' (temporarily closed); no prices/karts/track info on site."
+ },
+ {
+  "id": "way/78364408",
+  "name": "Kartbahn Lüneburg",
+  "town": "Embsen",
+  "country": "DE",
+  "websites": [
+   "https://www.kartbahn-lueneburg.de/",
+   "https://www.kartbahn-lueneburg.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Opening hours page content could not be read."
+ },
+ {
+  "id": "way/164688996",
+  "name": "Kartbahn MSC-Oberflockenbach",
+  "town": "Weinheim",
+  "country": "DE",
+  "websites": [
+   "https://www.msc-oberflockenbach.de/",
+   "https://www.msc-oberflockenbach.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Motor club (kart slalom K1-K5, GTC, pitbike); no rental karts, public hours or rental rules published."
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "town": "Sinn",
+  "country": "DE",
+  "websites": [
+   "http://kartland-sinn.de/",
+   "http://kartland-sinn.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "kartland-sinn.de (and www.) redirects to kac.kartland-sinn.de, an outdated Kart-Aktiv-Club page (latest dates 2013/2014); no current venue site. It mentions 6.5 PS and 9 PS rental karts (9 PS needs Kartland licence), 10-min ticket 11 EUR (7 EUR for club members), club fee 40 EUR/quarter - prices not"
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "town": "Schwerin",
+  "country": "DE",
+  "websites": [
+   "https://www.motodrom-schwerin.de",
+   "https://www.motodrom-schwerin.de"
+  ],
+  "known_price_source": null,
+  "last_note": "Listed at Baustrasse 3, 19061 Schwerin, which is in the Görries area; the website blocked access, so rental details are unverified."
+ },
+ {
+  "id": "way/510877435",
+  "name": "Motor Sport Weis - Kartbahn Büren",
+  "town": "Büren",
+  "country": "DE",
+  "websites": [
+   "http://www.kartbahn-bueren.de",
+   "http://www.kartbahn-bueren.de"
+  ],
+  "known_price_source": null,
+  "last_note": "Website offline: kartbahn-bueren.de redirects to kartbahnbueren.com/offline/ showing only 'Wir arbeiten gerade an unserer Website ... BALD VERFÃœGBAR' (Motor Sport Weis, Westring 27, BÃ¼ren); no facts available."
+ },
+ {
+  "id": "way/89322197",
+  "name": "Motor Sportclub Rathenow e.V. im ADAC",
+  "town": "Rathenow",
+  "country": "DE",
+  "websites": [
+   "https://mcrathenow.de/",
+   "https://mcrathenow.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Club site states 'Wir bieten KEINEN Leihkartbetrieb' (no rental karts); club runs kart slalom, circuit races and a Youngster-Cup."
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "town": "Strasburg (Uckermark)",
+  "country": "DE",
+  "websites": [
+   "https://www.mc-touring-strasburg.com/",
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Motor club site (motocross, off-road, go-kart); no rental, hours or rules information published."
+ },
+ {
+  "id": "way/165403103",
+  "name": "Saarlandring Uchtelfangen",
+  "town": "Illingen",
+  "country": "DE",
+  "websites": [
+   "https://www.saarlandring.de/",
+   "https://www.saarlandring.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Site states 'Kein Leihkartbetrieb' (no rental karts); 716 m club/race kart track."
+ },
+ {
+  "id": "way/392128609",
+  "name": "Vogelsbergring",
+  "town": "Wächtersbach",
+  "country": "DE",
+  "websites": [
+   "http://www.msc-wittgenborn.de/",
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: msc-wittgenborn.de is in maintenance mode (\"Diese Seite ist bis auf Weiteres offline\"), no content"
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "town": "Walldorf",
+  "country": "DE",
+  "websites": [
+   "http://www.msc-walldorf-astoria.de",
+   "http://www.msc-walldorf-astoria.de"
+  ],
+  "known_price_source": null,
+  "last_note": "Motor club track for own race karts and bikes (kart day pass EUR 40, cash only); no rental karts mentioned."
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "town": "Vordingborg Kommune",
+  "country": "DK",
+  "websites": [
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane",
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: site redirects HTTPS to HTTP and the fetcher forces HTTPS (redirect loop)."
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "town": "Syddjurs Kommune",
+  "country": "DK",
+  "websites": [
+   "https://www.dmka.dk/karting/",
+   "https://www.dmka.dk/karting/"
+  ],
+  "known_price_source": null,
+  "last_note": "Directory names the venue DMKA Kartingbane at Kolind, not Djursland Gokart Ring."
+ },
+ {
+  "id": "way/139090965",
+  "name": "Københavns Gokart Bane",
+  "town": "Københavns Kommune",
+  "country": "DK",
+  "websites": [
+   "https://kbh-gokart.dk/",
+   "https://kbh-gokart.dk/",
+   "https://www.kk.dk/index%2ephp/nyheder/orientering-koebenhavns-gokart-bane-lukker-til-sommeren-2028"
+  ],
+  "known_price_source": null,
+  "last_note": "No kart rental: own DASU-compliant kart, DASU licence and membership or single-session ticket required. Track is due to close in summer 2028 (Copenhagen Municipality notice)."
+ },
+ {
+  "id": "way/532894308",
+  "name": "Midtjysk Karting Bane",
+  "town": "Ikast-Brande Kommune",
+  "country": "DK",
+  "websites": [
+   "http://midtjyskgokart.dk",
+   "http://midtjyskgokart.dk"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: midtjyskgokart.dk returns HTTP 403 Forbidden"
+ },
+ {
+  "id": "way/486318757",
+  "name": "Thy Karting Center",
+  "town": "Thisted Kommune",
+  "country": "DK",
+  "websites": [
+   "https://thymotorsport.dk/",
+   "https://thymotorsport.dk/"
+  ],
+  "known_price_source": null,
+  "last_note": "Website is Thy Motor Sport Karting, Lufthavnsvej 9, Hanstholm (club track). Site states it has no kart rental for tourists; members-only via DASU."
+ },
+ {
+  "id": "way/567296895",
+  "name": "Tom K Karting Arena",
+  "town": "Rebild Kommune",
+  "country": "DK",
+  "websites": [
+   "https://mnj.dk",
+   "https://mnj.dk"
+  ],
+  "known_price_source": null,
+  "last_note": "Coordinates match the club motorsport complex Nysumbanen (Nysumgaardvej 8, 9610 Nørager) with a members-only karting track; the name 'Tom K Karting Arena' was not found in any source and no rental karts are mentioned."
+ },
+ {
+  "id": "way/466134641",
+  "name": "Viborg Motor Klub",
+  "town": "Viborg Kommune",
+  "country": "DK",
+  "websites": [
+   "https://viborgmotorklub.dk/",
+   "https://viborgmotorklub.dk/"
+  ],
+  "known_price_source": null,
+  "last_note": "Club track at Havrisvej 10, Tjele; licence holders can train Wed/Sat (guest 1-day licence available); site links to a 'Viborg Kart Park' rental offer not verified."
+ },
+ {
+  "id": "way/174687955",
+  "name": "A.S. Karting Le Coteau",
+  "town": "Roanne",
+  "country": "FR",
+  "websites": [
+   "http://www.karting-le-coteau.com",
+   "http://www.karting-le-coteau.com"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: site returns HTTP 503/406 (server blocks requests)"
+ },
+ {
+  "id": "way/712568193",
+  "name": "ASK Abbeville Somme Karting",
+  "town": "Abbeville",
+  "country": "FR",
+  "websites": [
+   "https://abbeville-somme-karting.fr/",
+   "https://abbeville-somme-karting.fr/"
+  ],
+  "known_price_source": null,
+  "last_note": "Licence-only club track: only FFSA licence holders with approved own karts may drive (one-day licence available); no rental."
+ },
+ {
+  "id": "way/290678826",
+  "name": "ASK Martigues - Piste de l'Oratoire",
+  "town": "Martigues",
+  "country": "FR",
+  "websites": [
+   "https://askmartigues.fr/",
+   "https://askmartigues.fr/"
+  ],
+  "known_price_source": null,
+  "last_note": "Club track for FFSA licensees; site states no kart loan or rental at the club."
+ },
+ {
+  "id": "way/216109369",
+  "name": "Ardèche Loisirs Mécaniques",
+  "town": "Grospierres",
+  "country": "FR",
+  "websites": [
+   "http://www.ardecheloisirsmecaniques.com",
+   "http://www.ardecheloisirsmecaniques.com",
+   "https://www.facebook.com/Ardecheloisirsmecaniques-808526995835264/"
+  ],
+  "known_price_source": null,
+  "last_note": "Official site confirms the 700 m rental kart track at 95 chemin de Chabriere; prices come from the regional tourism office listing as the site shows none."
+ },
+ {
+  "id": "way/95700263",
+  "name": "Circuit Jean Brun",
+  "town": "Paray-sous-Briailles",
+  "country": "FR",
+  "websites": [
+   "https://karting-varennes.fr/",
+   "https://karting-varennes.fr/"
+  ],
+  "known_price_source": null,
+  "last_note": "Competition circuit (ASK Varennes): practice is for drivers with an FFSA licence or day participation title, booked online in advance; no kart rental mentioned."
+ },
+ {
+  "id": "way/1061101289",
+  "name": "Circuit Karting ADR (Anneau du Rhin)",
+  "town": "Biltzheim",
+  "country": "FR",
+  "websites": [
+   "https://www.anneau-du-rhin.com/produit/karting/",
+   "https://www.anneau-du-rhin.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Karting is offered only to seminars and professional groups (team building); the product page currently shows it as unavailable."
+ }
+]

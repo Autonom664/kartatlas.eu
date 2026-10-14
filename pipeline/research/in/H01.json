@@ -1,0 +1,226 @@
+{
+ "held": [
+  {
+   "source": "D05",
+   "name": "BattleKart Nantes",
+   "address": "9 avenue Simone Veil, 44230 Saint-Sébastien-sur-Loire",
+   "town": "Saint-Sébastien-sur-Loire",
+   "country": "FR",
+   "website": "https://www.battlekart.com/fr/nantes",
+   "current_lat": 47.191395,
+   "current_lon": -1.486421,
+   "current_ref": "way/765167644",
+   "note": "BattleKart: electric karts on an indoor track with augmented-reality game projected on the floor (racing + game modes). Session 15 min incl. boarding. Existing 'City Kart Indoor' node/5607946169 is ~280 m away - verify it is a different venue (it may have been replaced)."
+  },
+  {
+   "source": "D05",
+   "name": "BattleKart Paris-Nord-Villepinte",
+   "address": "ZAC Paris Nord 2, 93420 Villepinte",
+   "town": "Villepinte",
+   "country": "FR",
+   "website": "https://www.battlekart.com/fr/paris-nord-villepinte",
+   "current_lat": 48.972473,
+   "current_lon": 2.507065,
+   "current_ref": null,
+   "note": "BattleKart: electric karts on an indoor track with augmented-reality game projected on the floor (racing + game modes). Session 15 min incl. boarding. Coordinates approximate (Paris Nord 2 guidepost); no street number given on site."
+  },
+  {
+   "source": "D05",
+   "name": "BattleKart Valenciennes",
+   "address": "1 Esplanade des Rives Créatives de l'Escaut, 59410 Anzin",
+   "town": "Anzin",
+   "country": "FR",
+   "website": "https://www.battlekart.com/fr/valenciennes",
+   "current_lat": 50.370397,
+   "current_lon": 3.502068,
+   "current_ref": null,
+   "note": "BattleKart: electric karts on an indoor track with augmented-reality game projected on the floor (racing + game modes). Session 15 min incl. boarding. Coordinates are only the Anzin town centroid - needs better geocoding (Rives Créatives de l'Escaut site)."
+  },
+  {
+   "source": "D05",
+   "name": "SpeedPark Angers Beaucouzé",
+   "address": "Centre commercial Atoll, Ecoparc du Buisson, 49073 Beaucouzé",
+   "town": "Beaucouzé",
+   "country": "FR",
+   "website": "https://speedpark.fr/angers-beaucouze/karting/",
+   "current_lat": 47.484158,
+   "current_lon": -0.626317,
+   "current_ref": null,
+   "note": "SpeedPark multi-activity leisure complex (bowling, laser game, etc.) with an indoor kart track; 10-minute sessions. 9 karts. Coordinates approximate (Atoll centre)."
+  },
+  {
+   "source": "D05",
+   "name": "SpeedPark Bordeaux",
+   "address": "Avenue du 7ème Art (complexe Ortalissa), 33140 Villenave-d'Ornon",
+   "town": "Villenave-d'Ornon",
+   "country": "FR",
+   "website": "https://speedpark.fr/bordeaux/karting/",
+   "current_lat": 44.773787,
+   "current_lon": -0.559503,
+   "current_ref": null,
+   "note": "SpeedPark multi-activity leisure complex (bowling, laser game, etc.) with an indoor kart track; 10-minute sessions. Coordinates are only the Villenave-d'Ornon town centroid - needs better geocoding (Ortalissa complex)."
+  },
+  {
+   "source": "D05",
+   "name": "SpeedPark Claye-Souilly",
+   "address": "3 rue Robert Schuman, 77410 Claye-Souilly",
+   "town": "Claye-Souilly",
+   "country": "FR",
+   "website": "https://speedpark.fr/claye/karting/",
+   "current_lat": 48.946087,
+   "current_lon": 2.68837,
+   "current_ref": null,
+   "note": "SpeedPark multi-activity leisure complex (bowling, laser game, etc.) with an indoor kart track; 10-minute sessions. 9 karts. Coordinates are only the Claye-Souilly town centroid - needs better geocoding."
+  },
+  {
+   "source": "D08",
+   "name": "BattleKart Antwerpen",
+   "address": "Waagnatie Expo & Events, Rijnkaai 150, 2000 Antwerpen",
+   "town": "Antwerpen",
+   "country": "BE",
+   "website": "https://www.battlekart.com/nl/antwerpen",
+   "current_lat": 51.2333401,
+   "current_lon": 4.4029752,
+   "current_ref": null,
+   "note": "In Waagnatie event hall; hours can change when the hall hosts events. Geocode only matched the street Rijnkaai (way/120143808), no address object - coordinates approximate. 30% discount students/teachers/disabled; 5th game free with loyalty card."
+  },
+  {
+   "source": "D08",
+   "name": "BattleKart Liège-Verlaine",
+   "address": "Grand Route 126, 4537 Verlaine",
+   "town": "Verlaine",
+   "country": "BE",
+   "website": "https://www.battlekart.com/en/verlaine",
+   "current_lat": 50.610216,
+   "current_lon": 5.3191491,
+   "current_ref": null,
+   "note": "Geocode matched only the street Grand Route (way/620895469), not the house number - coordinates approximate."
+  },
+  {
+   "source": "D08",
+   "name": "John Martin's Karting Namur (JM Karting Floreffe)",
+   "address": "Rue de Saint-Gobain 1, 5150 Floreffe (Franière)",
+   "town": "Floreffe",
+   "country": "BE",
+   "website": "https://jmkarting.com/namur",
+   "current_lat": 50.433687,
+   "current_lon": 4.743143,
+   "current_ref": null,
+   "note": "Coordinates are those published on the venue's own contact page (labelled Rue des Deportes 61, Franiere); Nominatim only matched the street Rue de Saint-Gobain. Rented by the quarter hour; no prices on contact page."
+  },
+  {
+   "source": "D06",
+   "name": "Circuito del Sele",
+   "address": "Via Fosso Pioppo, 84091 Battipaglia (SA)",
+   "town": "Battipaglia",
+   "country": "IT",
+   "website": "https://www.circuitodelsele.it/",
+   "current_lat": 40.61068,
+   "current_lon": 14.96395,
+   "current_ref": "way/1104478097",
+   "note": "Multi-use circuit since 1985 (kart 1345 m, moto/auto 1700 m), ACI Karting championship venue 2019; kart rental for adults and two-seaters for children; prices not published. Coordinates approximate: one of several Via Fosso Pioppo street segments (postcode 84091); exact track position not geocoded."
+  },
+  {
+   "source": "D06",
+   "name": "7 Laghi Kart - Circuito Internazionale (Castelletto Circuit)",
+   "address": "SP1 6/A, 27040 Castelletto di Branduzzo (PV)",
+   "town": "Castelletto di Branduzzo",
+   "country": "IT",
+   "website": "https://www.7laghikartitalia.it/",
+   "current_lat": 45.05769,
+   "current_lon": 9.09502,
+   "current_ref": "way/1290246625",
+   "note": "Major international circuit (WSK, ROK Cup, RMC Italy 2026 rounds). Width 8-10 m. Coordinates approximate: SP1 street segment in Castelletto di Branduzzo; Nominatim has no named object for the track. NOT the unnamed Cervesina object way/598864441, which sits next to Circuito Tazio Nuvolari about 8 km"
+  },
+  {
+   "source": "D06",
+   "name": "Space Game Val Camonica - Kart (ex Planet Kart)",
+   "address": "Via Saletti 20, Zona Industriale, 25050 Pian Camuno (BS)",
+   "town": "Pian Camuno",
+   "country": "IT",
+   "website": "https://spacegamevallecamonica.it/kart/",
+   "current_lat": 45.84374,
+   "current_lon": 10.15793,
+   "current_ref": "relation/46282",
+   "note": "planetkart.it now redirects to Space Game Val Camonica (kart, laser game, bowling). Two-level indoor track plus outdoor extension. Opening hours start Mon 17:00-00:00 (rest truncated). Coordinates are ONLY the Pian Camuno municipality centroid - Nominatim could not geocode Via Saletti in Pian Camuno"
+  },
+  {
+   "source": "D06",
+   "name": "Torino Kart Indoor",
+   "address": "Via (Enrico) Fermi 11, Torino (site says 10048)",
+   "town": "Torino",
+   "country": "IT",
+   "website": "https://torinokartindoor.com/",
+   "current_lat": 45.11383,
+   "current_lon": 7.67351,
+   "current_ref": "node/4733915803",
+   "note": "22 electric Sodi RSX2 karts. ADDRESS UNCERTAIN: site says 'Via Fermi 11 10048 TORINO' but 10048 is Vinovo's postcode; coordinates are Via Enrico Fermi 11 in Torino (10148, Madonna di Campagna) - verify before publishing."
+  },
+  {
+   "source": "D06",
+   "name": "SKindoor - Sardinia Kart Indoor",
+   "address": "Monastir (CA) - street address not published on site",
+   "town": "Monastir",
+   "country": "IT",
+   "website": "https://sardegnakartindoor.com/",
+   "current_lat": 39.38474,
+   "current_lon": 9.04484,
+   "current_ref": "relation/39908",
+   "note": "Self-described largest indoor kart track in Europe, Monastir (CA), ~15 km from Cagliari (Yumping: ~500 m in two connected sheds, 20 Sodi karts). skindoor.it redirects to sardegnakartindoor.com. Coordinates are ONLY the Monastir municipality centroid - needs manual placement. ~7 km from existing Sest"
+  },
+  {
+   "source": "D04",
+   "name": "Kartring Oberberg (Oberbergischer Go-Kart-Ring Hahn-Wildbergerhütte)",
+   "address": "Halbhustener Weg, 51580 Reichshof-Hahn",
+   "town": "Reichshof",
+   "country": "DE",
+   "website": "http://kartring-oberberg.de/",
+   "current_lat": 50.969072,
+   "current_lon": 7.761809,
+   "current_ref": "way/31119963",
+   "note": "Over 60 years old; DMSB-approved track, also hosts national/international kart races. Street (Halbhustener Weg) from freizeitmonster directory; coordinates are street-level. Website contains injected online-casino spam text (site possibly compromised) but hours are current (NRW autumn holidays 2026)"
+  },
+  {
+   "source": "D04",
+   "name": "VM Kart Racing",
+   "address": "Johann-Reiss-Straße 1, 79541 Lörrach-Brombach",
+   "town": "Lörrach",
+   "country": "DE",
+   "website": "http://www.vm-kart-racing.de/",
+   "current_lat": 47.638603,
+   "current_lon": 7.705813,
+   "current_ref": "way/1112769598",
+   "note": "Over 25 years of events. Rules page refers to \"Indoor-Kartbahn\". Coordinates are street-level (Johann-Reiss-Straße)."
+  },
+  {
+   "source": "D03",
+   "name": "Motokáry Masarykův okruh (CREDITAS Autodrom Brno)",
+   "address": "Masarykův okruh 201, 664 81 Ostrovačice",
+   "town": "Ostrovačice / Brno",
+   "country": "CZ",
+   "website": "https://www.automotodrombrno.cz/motokary/",
+   "current_lat": 49.20303,
+   "current_lon": 16.45338,
+   "current_ref": null,
+   "note": "Previous lead now confirmed on the circuit's own page. COORDINATES APPROXIMATE: centroid of the main circuit way/8585805; the kart track's exact position inside the complex could not be geocoded (Overpass rate-limited/timed out, no Nominatim object). Needs a manual position fix."
+  }
+ ],
+ "battlekart_already_present": [
+  {
+   "name": "BattleKart Bispingen",
+   "existing_id": "way/856436751",
+   "comment": "Separate BattleKart AR e-kart arena (Gaußscher Bogen 8, opened 2020) ~250 m from Ralf Schumacher Kartcenter; distinct venue, may deserve its own entry (BattleKart data: 53.098354, 9.982157)."
+  },
+  {
+   "name": "BattleKart Köln",
+   "existing_id": "node/3761972790",
+   "comment": "Separate BattleKart arena (Butzweilerstraße 35-39, opened 2021) ~700 m from Le Mans Karting Köln; distinct venue, may deserve its own entry (50.981995, 6.899971)."
+  },
+  {
+   "name": "BattleKart Dankern",
+   "existing_id": "way/92468697",
+   "comment": "BattleKart arena inside the Emslandring/Schloss Dankern complex (opened 2023); distinct venue at the same site."
+  }
+ ],
+ "city_kart_indoor_nantes": "node/5607946169"
+}

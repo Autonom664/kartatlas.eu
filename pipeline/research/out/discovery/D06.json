@@ -1,0 +1,2500 @@
+{
+ "countries": [
+  "IT"
+ ],
+ "sources_used": [
+  {
+   "name": "Travel Emilia-Romagna - Go-kart tracks in Emilia-Romagna",
+   "url": "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "venues_listed": 24
+  },
+  {
+   "name": "K1 Speed Italia location list",
+   "url": "https://www.k1speed.com/it/",
+   "venues_listed": 7
+  },
+  {
+   "name": "TKART - ACI Karting 2019 venues / 2025 Rd1 Ugento",
+   "url": "https://tkart.it/en/news/events/the-venues-of-the-italian-aci-karting-2019-championship-italian-cup-national-trophy-and-italian-championship-for-regional-teams",
+   "venues_listed": 8
+  },
+  {
+   "name": "ACI Sport - Campionato Italiano ACI Karting 2026 calendar (via search)",
+   "url": "https://www.acisport.it/it/acisport/news/notizie/94003/il-campionato-italiano-aci-karting-2026-scatta-a-lonato",
+   "venues_listed": 5
+  },
+  {
+   "name": "QN Motori - Go Kart: le migliori piste in Italia (2019)",
+   "url": "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+   "venues_listed": 14
+  },
+  {
+   "name": "Milanofree - Go kart a Milano e dintorni",
+   "url": "https://www.milanofree.it/milano/eventi/go-kart-a-milano-e-dintorni-piste-indoor-e-outdoor.html",
+   "venues_listed": 8
+  },
+  {
+   "name": "Motoclub Tingavert forum (Italiankart.it copy, Toscana/Lazio, 2006-2010)",
+   "url": "https://www.motoclub-tingavert.it/t502829s.html",
+   "venues_listed": 6
+  },
+  {
+   "name": "Yumping karting listings (search snippets only; site blocks fetch)",
+   "url": "https://www.yumping.com/it/kart",
+   "venues_listed": null
+  },
+  {
+   "name": "Il Resto del Carlino - PGK Pesaro opening",
+   "url": "https://www.ilrestodelcarlino.it/pesaro/cosa-fare/go-kart-elettrici-x708f6w2",
+   "venues_listed": 1
+  }
+ ],
+ "new_venues": [
+  {
+   "name": "K1 Speed Catania (Etnapolis)",
+   "address": "Centro Commerciale Etnapolis, Località Valcorrente 23, 95032 Belpasso (CT)",
+   "town": "Belpasso",
+   "country": "IT",
+   "lat": 37.54496,
+   "lon": 14.95126,
+   "address_osm_id": "way/28716662",
+   "type": "indoor",
+   "website": "https://www.k1speed.com/it/catania.html",
+   "phone": "+39 095 741 0027",
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/junior"
+    }
+   ],
+   "ages": {},
+   "hours": "Mon-Thu 16:00-24:00; Fri 16:00-01:00; Sat 11:00-01:00; Sun 11:00-24:00",
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.k1speed.com/it/",
+    "https://www.k1speed.com/it/catania.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Former Hollywood Kart Catania, rebranded K1 Speed (2024 partnership). Indoor electric karts inside Etnapolis mall; coordinates are the mall. Prices not published on the page (separate prices page)."
+  },
+  {
+   "name": "K1 Speed Napoli-Marcianise",
+   "address": "Centro Commerciale Campania, SS Sannitica, Località Aurno 87, 81025 Marcianise (CE)",
+   "town": "Marcianise",
+   "country": "IT",
+   "lat": 41.00435,
+   "lon": 14.32812,
+   "address_osm_id": "way/232100516",
+   "type": "indoor",
+   "website": "https://www.k1speed.com/it/napoli-marcianise.html",
+   "phone": "+39 0823 149 9780",
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/junior"
+    }
+   ],
+   "ages": {},
+   "hours": "Mon-Sun 10:00-24:00",
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.k1speed.com/it/",
+    "https://www.k1speed.com/it/napoli-marcianise.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Former Hollywood Kart Marcianise, now K1 Speed. Inside Centro Commerciale Campania; coordinates are the mall."
+  },
+  {
+   "name": "K1 Speed Meda",
+   "address": "Via Maroncelli angolo via Piave, 20821 Meda (MB)",
+   "town": "Meda",
+   "country": "IT",
+   "lat": 45.65395,
+   "lon": 9.17244,
+   "address_osm_id": "way/345487575",
+   "type": "indoor",
+   "website": "https://www.k1speed.com/it/meda.html",
+   "phone": "+39 0362 1979649",
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/junior"
+    }
+   ],
+   "ages": {},
+   "hours": "Mon-Thu 16:00-24:00; Fri 16:00-01:00; Sat 11:00-01:00; Sun 11:00-24:00",
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.k1speed.com/it/",
+    "https://www.k1speed.com/it/meda.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Coordinates are the Via Pietro Maroncelli street object (corner with Via Piave), approximate."
+  },
+  {
+   "name": "Ikart - pista go kart indoor",
+   "address": "Via Raibano 40/A, 47853 Coriano (RN)",
+   "town": "Coriano",
+   "country": "IT",
+   "lat": 43.97828,
+   "lon": 12.6379,
+   "address_osm_id": "node/4497567606",
+   "type": "indoor",
+   "website": "https://i-kart.it/",
+   "phone": "+39 345 161 5726",
+   "email": "info@i-kart.it",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "Storm",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 130
+   },
+   "hours": "Mon closed; Tue-Fri 17:00-23:00; Sat 16:00-24:00; Sun 15:00-21:00",
+   "prices": [
+    {
+     "label": "IKART GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 min practice + 5 min qualifying + race 1 7 laps + race 2 7 laps"
+    },
+    {
+     "label": "Maxi Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 min practice + 5 min qualifying + 7-lap race"
+    },
+    {
+     "label": "Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 35.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 min qualifying + 7-lap race"
+    },
+    {
+     "label": "Prove libere",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": "No membership fee (stated). Bookings for groups of 5 or more.",
+   "price_source": "https://i-kart.it/",
+   "tracks": [
+    {
+     "name": "Indoor 2-level track",
+     "length_m": 630,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": "https://i-kart.it/la-pista/",
+   "sources": [
+    "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+    "https://i-kart.it/",
+    "https://i-kart.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Site markets itself as 'a Riccione' but address is Coriano. Two-level indoor track (630 m stated; 600 m elsewhere on site). Home page contains injected unrelated Czech gambling text (site likely compromised)."
+  },
+  {
+   "name": "Turbokart",
+   "address": "Via Campania 3, Zona Industriale Cattagnina, San Nicolò, 29010 Rottofreno (PC)",
+   "town": "Rottofreno",
+   "country": "IT",
+   "lat": 45.05379,
+   "lon": 9.57719,
+   "address_osm_id": "way/222784251",
+   "type": "outdoor",
+   "website": "https://www.turbokart.it/",
+   "phone": "+39 347 342 6156",
+   "email": "info@turbokart.it",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Birel N35",
+     "engine": "200cc 4T",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Parolin",
+     "engine": "200cc",
+     "hp": null,
+     "class": "junior 8-14"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "minikart (min 130 cm)"
+    }
+   ],
+   "ages": {
+    "junior": "8-14",
+    "minikart_min_height_cm": 130
+   },
+   "hours": "Wed-Fri 20:30-23:00; Sat 15:30-19:00 and 20:30-23:00; Sun 14:30-20:30 (booking required)",
+   "prices": [
+    {
+     "label": "Turno cronometrato",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 23.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Turno cronometrato",
+     "class": null,
+     "type": "session",
+     "minutes": 30,
+     "laps": null,
+     "price": 37.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Abbonamento 10 turni da 15'",
+     "class": null,
+     "type": "package",
+     "minutes": 15,
+     "laps": null,
+     "price": 215.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Gara Easy",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 33.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' timed + 20' race"
+    },
+    {
+     "label": "Gara Easy - Warm Up",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 39.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' practice + 5' timed + 20' race"
+    },
+    {
+     "label": "Gara Pro",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 48.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' timed + 15' race 1 + 15' race 2"
+    },
+    {
+     "label": "Gara Pro - Warm Up",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 54.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' practice + 5' timed + 15' race1 + 15' race2"
+    },
+    {
+     "label": "Kart doppio - turno cronometrato",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 30.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": "Annual membership (tesseramento) EUR 3; helmets included",
+   "price_source": "https://www.turbokart.it/orari-tariffe",
+   "tracks": [
+    {
+     "name": "Turbokart",
+     "length_m": 400,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+    "https://www.turbokart.it/",
+    "https://www.turbokart.it/orari-tariffe"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "400 m track, partly covered (indoor/outdoor mix); 8 karts on track. Coordinates are the Via Campania street object."
+  },
+  {
+   "name": "Misanino KCE - Kart Circuit Misano",
+   "address": "Via Marco Simoncelli 19, 47843 Misano Adriatico (RN)",
+   "town": "Misano Adriatico",
+   "country": "IT",
+   "lat": 43.96307,
+   "lon": 12.69156,
+   "address_osm_id": "way/680592711",
+   "type": "outdoor",
+   "website": "https://www.misanino.it/",
+   "phone": "+39 335 626 6636",
+   "email": "info@misanino.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "400cc 4T",
+     "hp": null,
+     "class": "Sport (min 16)"
+    },
+    {
+     "chassis": null,
+     "engine": "125cc 2T",
+     "hp": null,
+     "class": "Race (min 18)"
+    }
+   ],
+   "ages": {
+    "sport_min": 16,
+    "race_min": 18
+   },
+   "hours": null,
+   "prices": [
+    {
+     "label": "Sport 400cc - giri liberi",
+     "class": null,
+     "type": null,
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Mon-Thu",
+     "note": null
+    },
+    {
+     "label": "Sport 400cc - giri liberi",
+     "class": null,
+     "type": null,
+     "minutes": 10,
+     "laps": null,
+     "price": 24.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Fri-Sun+holidays",
+     "note": null
+    },
+    {
+     "label": "Sport 400cc - MINI Grand Prix",
+     "class": null,
+     "type": null,
+     "minutes": null,
+     "laps": null,
+     "price": 30.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Mon-Thu",
+     "note": "5 min qualifying + 12-lap race"
+    },
+    {
+     "label": "Sport 400cc - MINI Grand Prix",
+     "class": null,
+     "type": null,
+     "minutes": null,
+     "laps": null,
+     "price": 34.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Fri-Sun+holidays",
+     "note": "5 min qualifying + 12-lap race"
+    },
+    {
+     "label": "Sport 400cc - Grand Prix",
+     "class": null,
+     "type": null,
+     "minutes": null,
+     "laps": null,
+     "price": 48.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Mon-Thu",
+     "note": "5 min qualifying + 12-lap race 1 + 10-lap race 2"
+    },
+    {
+     "label": "Sport 400cc - Grand Prix",
+     "class": null,
+     "type": null,
+     "minutes": null,
+     "laps": null,
+     "price": 52.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 16,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Fri-Sun+holidays",
+     "note": "5 min qualifying + 12-lap race 1 + 10-lap race 2"
+    },
+    {
+     "label": "Race 125cc 2T - giri liberi",
+     "class": null,
+     "type": null,
+     "minutes": 10,
+     "laps": null,
+     "price": 35.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 18,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Mon-Thu",
+     "note": "requires lap under 49 s with Sport kart"
+    },
+    {
+     "label": "Race 125cc 2T - giri liberi",
+     "class": null,
+     "type": null,
+     "minutes": 10,
+     "laps": null,
+     "price": 40.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 18,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Fri-Sun+holidays",
+     "note": "requires lap under 49 s with Sport kart"
+    }
+   ],
+   "fees": "Mandatory annual SPEED CARD EUR 5; helmet and balaclava included",
+   "price_source": "https://www.misanino.it/noleggio-go-kart/",
+   "tracks": [
+    {
+     "name": "Misanino",
+     "length_m": 900,
+     "width_m": 10,
+     "use": "rental/race"
+    }
+   ],
+   "layout_page": "https://www.misanino.it/tracciato-kart-misano/",
+   "sources": [
+    "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+    "https://www.misanino.it/",
+    "https://www.misanino.it/noleggio-go-kart/",
+    "https://www.misanino.it/tracciato-kart-misano/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Kart track inside Misano World Circuit complex; official SWS track; also own-kart trial days ('Prove Go Kart' for privati). Coordinates are the Via Marco Simoncelli street; site map pin 43.96189,12.69024."
+  },
+  {
+   "name": "Grand Tour Karting (Grand Tour Italia)",
+   "address": "Via Paolo Canali 8, 40127 Bologna (BO)",
+   "town": "Bologna",
+   "country": "IT",
+   "lat": 44.51677,
+   "lon": 11.40969,
+   "address_osm_id": "way/265893610",
+   "type": "indoor",
+   "website": "https://www.grandtouritalia.it/it/go-kart-a-grand-tour-italia",
+   "phone": "+39 051 002 9955",
+   "email": "prenotazioni@gtkarting.it",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/junior 14+"
+    }
+   ],
+   "ages": {
+    "min_age": 14
+   },
+   "hours": null,
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+    "https://www.grandtouritalia.it/it/go-kart-a-grand-tour-italia"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Indoor electric kart track inside Grand Tour Italia theme park (ex FICO); coordinates are the park object. Formats: CRONO 10', Corsa GT (8' quali + 8-lap race), Corsa GT Plus, All-you-can-drive Tue/Wed 17-23, Time Attack Thu 17-23; prices not on page. Travel Emilia-Romagna says 500 m, electric karts by Parolin (not on own page)."
+  },
+  {
+   "name": "Pista Go Kart Acquaparco Migliaro",
+   "address": "Via Sfondrabò 46/A, Borgo Cascina, 44027 Migliaro (Fiscaglia, FE)",
+   "town": "Fiscaglia",
+   "country": "IT",
+   "lat": 44.78465,
+   "lon": 11.98532,
+   "address_osm_id": "way/236274584",
+   "type": "outdoor",
+   "website": "https://www.acquaparco.it/pista-gokart",
+   "phone": "+39 334 893 6368",
+   "email": "info@acquaparco.it",
+   "rental": null,
+   "own_karts": "yes",
+   "karts": [],
+   "ages": {},
+   "hours": null,
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Acquaparco",
+     "length_m": 1300,
+     "width_m": null,
+     "use": "own karts (60, monomarcia, KZ sessions)"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+    "https://www.acquaparco.it/pista-gokart",
+    "https://www.acquaparco.it/contatti"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "1300 m own-kart track next to a swimming-pool park; hourly sessions by category (60, monomarcia, KZ), on-site mechanic, races held. No rental karts mentioned. Coordinates are the Via Sfondrabò street object (approximate)."
+  },
+  {
+   "name": "Pista Salentina - Circuito Internazionale Karting Torre San Giovanni",
+   "address": "SP Pescoluse - Torre San Giovanni, 73059 Torre San Giovanni, Ugento (LE)",
+   "town": "Ugento",
+   "country": "IT",
+   "lat": 39.89093,
+   "lon": 18.13549,
+   "osm_id": "way/209088489",
+   "type": "outdoor",
+   "website": "https://www.pistasalentina.it/",
+   "phone": "+39 0833 931311",
+   "email": "mail@pistasalentina.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "single-seat rental (14+)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    }
+   ],
+   "ages": {
+    "single_min_age": 14,
+    "two_seater_driver_min_age": 18,
+    "two_seater_passenger_min_age": 6
+   },
+   "hours": null,
+   "prices": [
+    {
+     "label": "Kart singolo",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "best-lap ranking after each 10-minute run"
+    },
+    {
+     "label": "Kart bi-posto",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "driver 18+, passenger 6+"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.pistasalentina.it/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://tkart.it/en/news/features/the-circuits-of-the-italian-aci-karting-2025-championship-rd1-in-ugento",
+    "https://www.pistasalentina.it/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "OSM object is highway=raceway without sport=karting (also node/2193169945 leisure=sports_centre). Hosted Rd1 of the 2025 Italian ACI Karting Championship; operating since 1986; floodlit; camper area and rooms on site. Second phone +39 349 274 2614."
+  },
+  {
+   "name": "Circuito del Sele",
+   "address": "Via Fosso Pioppo, 84091 Battipaglia (SA)",
+   "town": "Battipaglia",
+   "country": "IT",
+   "lat": 40.61068,
+   "lon": 14.96395,
+   "address_osm_id": "way/1104478097",
+   "type": "outdoor",
+   "website": "https://www.circuitodelsele.it/",
+   "phone": "+39 0828 672931",
+   "email": "info@circuitodelsele.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult (15+ or 1.40 m)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater with adult (children from 5)"
+    }
+   ],
+   "ages": {
+    "adult_min_age": 15,
+    "adult_min_height_cm": 140,
+    "children_two_seater_from": 5
+   },
+   "hours": null,
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Kart track",
+     "length_m": 1345,
+     "width_m": null,
+     "use": "rental/race"
+    },
+    {
+     "name": "Moto/auto track",
+     "length_m": 1700,
+     "width_m": null,
+     "use": "moto/cars"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://tkart.it/en/news/events/the-venues-of-the-italian-aci-karting-2019-championship-italian-cup-national-trophy-and-italian-championship-for-regional-teams",
+    "https://www.circuitodelsele.it/",
+    "https://www.circuitodelsele.it/noleggio-kart/",
+    "https://www.circuitodelsele.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Multi-use circuit since 1985 (kart 1345 m, moto/auto 1700 m), ACI Karting championship venue 2019; kart rental for adults and two-seaters for children; prices not published. Coordinates approximate: one of several Via Fosso Pioppo street segments (postcode 84091); exact track position not geocoded."
+  },
+  {
+   "name": "Kartodromo Napoli",
+   "address": "Via Santa Maria La Nova 1 (Parco commerciale Le Porte di Napoli), 80021 Afragola (NA)",
+   "town": "Afragola",
+   "country": "IT",
+   "lat": 40.93385,
+   "lon": 14.35682,
+   "address_osm_id": "way/203027625",
+   "type": "indoor",
+   "website": "https://www.kartodromonapoli.it/",
+   "phone": "+39 081 278 6015",
+   "email": "kartodromonapoli@gmail.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/child"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 130,
+    "two_seater_child_height_cm": "105-130"
+   },
+   "hours": "Mon-Fri 11:00-01:15; Sat 10:00-02:00; Sun 10:00-01:15",
+   "prices": [
+    {
+     "label": "Corsa 8 minuti - adulto",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 16.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Corsa 8 minuti - bambino",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 12.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Mon-Fri",
+     "note": null
+    },
+    {
+     "label": "Corsa 8 minuti - bambino",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Sat, Sun, holidays",
+     "note": null
+    },
+    {
+     "label": "Biposto (1 adulto + 1 bambino 105-130 cm)",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 27.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 min qualifying + 10-lap race, grid start, min 7 drivers; not Sundays/holidays"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.kartodromonapoli.it/orari-e-prezzi/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.yumping.com/it/kart/kartodromo-napoli--e19764272",
+    "https://www.kartodromonapoli.it/",
+    "https://www.kartodromonapoli.it/contact/",
+    "https://www.kartodromonapoli.it/orari-e-prezzi/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Two-level indoor electric kart track inside Le Porte di Napoli retail park; coordinates are the mall."
+  },
+  {
+   "name": "7 Laghi Kart - Circuito Internazionale (Castelletto Circuit)",
+   "address": "SP1 6/A, 27040 Castelletto di Branduzzo (PV)",
+   "town": "Castelletto di Branduzzo",
+   "country": "IT",
+   "lat": 45.05769,
+   "lon": 9.09502,
+   "address_osm_id": "way/1290246625",
+   "type": "outdoor",
+   "website": "https://www.7laghikartitalia.it/",
+   "phone": "+39 392 836 3204",
+   "email": "info@7laghikart.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": "Sodikart SR",
+     "engine": "Honda 270cc 4T",
+     "hp": 10,
+     "class": "adult/teen"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "mini kart (from 10)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater (driver 18+, passenger 10+)"
+    }
+   ],
+   "ages": {
+    "minikart_min_age": 10,
+    "two_seater_driver_min_age": 18,
+    "two_seater_passenger_min_age": 10
+   },
+   "hours": "Rental Nov 1-Dec 20 2026: Tue-Sun 16:00 to sunset, booking; Mar-Oct: Tue-Sun 17:00-19:00. Own karts: daily 9:00-16:00 (closed Mondays Nov-Dec 20).",
+   "prices": [
+    {
+     "label": "Turno kart 4T Honda 270cc",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "adults and teens"
+    },
+    {
+     "label": "Turno mini kart",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 10,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Turno kart biposto",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "driver 18+, passenger from 10"
+    },
+    {
+     "label": "Formula Mini GP a gruppi",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 12,
+     "price": 55.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8 min timed practice + 12-lap heat; booking, min 8 people"
+    },
+    {
+     "label": "Formula Grand Prix 1 ora (per team)",
+     "class": null,
+     "type": "endurance",
+     "minutes": 60,
+     "laps": null,
+     "price": 140.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'da' EUR 140 per team; 10' quali + 50' with driver changes; min 10 teams"
+    },
+    {
+     "label": "Formula Grand Prix 2 ore (per team)",
+     "class": null,
+     "type": "endurance",
+     "minutes": 120,
+     "laps": null,
+     "price": 280.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'da' EUR 280 per team; min 10 teams"
+    },
+    {
+     "label": "Kart privati - giornaliero",
+     "class": null,
+     "type": "own kart day",
+     "minutes": null,
+     "laps": null,
+     "price": 65.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "all categories"
+    },
+    {
+     "label": "Kart privati - pomeridiano 12-16",
+     "class": null,
+     "type": "own kart half day",
+     "minutes": null,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "weekdays only"
+    }
+   ],
+   "fees": "Balaclava mandatory (sold EUR 8 cotton / EUR 1 disposable)",
+   "price_source": "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/noleggio-kart",
+   "tracks": [
+    {
+     "name": "7 Laghi",
+     "length_m": 1256,
+     "width_m": 10,
+     "use": "race/rental"
+    }
+   ],
+   "layout_page": "https://www.7laghikartitalia.it/il-circuito/la-pista",
+   "sources": [
+    "https://tkart.it/en/news/events/the-venues-of-the-italian-aci-karting-2019-championship-italian-cup-national-trophy-and-italian-championship-for-regional-teams",
+    "https://www.7laghikartitalia.it/",
+    "https://www.7laghikartitalia.it/il-circuito/noleggio-kart",
+    "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/noleggio-kart",
+    "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/kart-privati"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Major international circuit (WSK, ROK Cup, RMC Italy 2026 rounds). Width 8-10 m. Coordinates approximate: SP1 street segment in Castelletto di Branduzzo; Nominatim has no named object for the track. NOT the unnamed Cervesina object way/598864441, which sits next to Circuito Tazio Nuvolari about 8 km west."
+  },
+  {
+   "name": "Circuito Internazionale Il Sagittario",
+   "address": "Via Pontina km 81,300, 04100 Latina (LT)",
+   "town": "Latina",
+   "country": "IT",
+   "lat": 41.40409,
+   "lon": 12.98453,
+   "osm_id": "way/718090905",
+   "type": "outdoor",
+   "website": "https://www.circuitoilsagittario.it/",
+   "phone": "+39 0773 258183",
+   "email": "info@circuitoilsagittario.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": "CRG Centurion",
+     "engine": "270cc 4T",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids (from 130 cm)"
+    }
+   ],
+   "ages": {
+    "kids_min_height_cm": 130
+   },
+   "hours": "Rental: Mon closed; Tue-Fri 09:00-13:00 and 14:00-20:00 or dark; Sat/Sun/holidays 17:00-20:00 or dark. Own vehicles (1-24 Oct): Mon-Fri 09:00-13:00/14:00-17:30, Sat-Sun 09:00-13:00/14:00-17:00.",
+   "prices": [
+    {
+     "label": "Turno singolo 270cc",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Turno singolo kart bambini",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 130,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mezzi/kart privati - mezza giornata",
+     "class": null,
+     "type": "own kart half day",
+     "minutes": null,
+     "laps": null,
+     "price": 35.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mezzi/kart privati - giornata intera",
+     "class": null,
+     "type": "own kart day",
+     "minutes": null,
+     "laps": null,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sabato pre-gara - turno unico",
+     "class": null,
+     "type": "own kart",
+     "minutes": null,
+     "laps": null,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Sat (pre-race)",
+     "note": null
+    }
+   ],
+   "fees": "Insurance membership (tesseramento) EUR 8, 365 days, mandatory for under-16 rental; own karts need ASI C1 membership",
+   "price_source": "https://www.circuitoilsagittario.it/noleggio/",
+   "tracks": [
+    {
+     "name": "Il Sagittario",
+     "length_m": 1540,
+     "width_m": null,
+     "use": "kart/moto/legend cars"
+    }
+   ],
+   "layout_page": "https://www.circuitoilsagittario.it/tracciato/",
+   "sources": [
+    "https://www.motoclub-tingavert.it/t7158s.html",
+    "https://www.yumping.com/karting/circuito-il-saggitario--e19745120",
+    "https://www.circuitoilsagittario.it/",
+    "https://www.circuitoilsagittario.it/noleggio/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "OSM object is highway=raceway (not sport=karting). Multi-use circuit: kart rental, Ohvale minibikes, Legend Cars, own karts/bikes. Track length 1540 m from third-party listings (Yumping), not own site."
+  },
+  {
+   "name": "Adrenaline Kart Indoor",
+   "address": "Via Guido Maggiora 25, 14100 Asti (AT)",
+   "town": "Asti",
+   "country": "IT",
+   "lat": 44.91211,
+   "lon": 8.2299,
+   "address_osm_id": "node/3361843390",
+   "type": "indoor",
+   "website": "https://www.adrenalinekartindoor.it/",
+   "phone": "+39 0141 178 4297",
+   "email": "prenotazioni.aki@gmail.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids (roll-bar)"
+    }
+   ],
+   "ages": {
+    "min_age": 7
+   },
+   "hours": "Open 7 days, from 09:00 by booking",
+   "prices": [
+    {
+     "label": "Corsa singola",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 30.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "adults and children"
+    },
+    {
+     "label": "Corsa singola",
+     "class": null,
+     "type": "session",
+     "minutes": 25,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Corsa singola sport (solo adulti)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 40.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Plus GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 20,
+     "price": 50.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' practice + 5' quali + 20-lap race"
+    },
+    {
+     "label": "Gold GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 30,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' practice + 5' quali + 30-lap race"
+    },
+    {
+     "label": "Champions GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 80.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "7' practice + 7' quali + 2 x 18-lap races"
+    },
+    {
+     "label": "Finalissima",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "only after a GP; 5' quali + 10 laps"
+    },
+    {
+     "label": "Abbonamento 5 corse 15'",
+     "class": null,
+     "type": "package",
+     "minutes": 15,
+     "laps": null,
+     "price": 130.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "valid 30 days"
+    },
+    {
+     "label": "Abbonamento 10 corse 15'",
+     "class": null,
+     "type": "package",
+     "minutes": 15,
+     "laps": null,
+     "price": 230.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Abbonamento 5 corse 25'",
+     "class": null,
+     "type": "package",
+     "minutes": 25,
+     "laps": null,
+     "price": 200.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Abbonamento 10 corse 25'",
+     "class": null,
+     "type": "package",
+     "minutes": 25,
+     "laps": null,
+     "price": 350.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": "Mandatory annual membership (ASI) EUR 10; VIP card EUR 100 (30% off); locker deposit EUR 5; reverse grid EUR 20; ballast EUR 5",
+   "price_source": "https://www.adrenalinekartindoor.it/quote-di-partecipazione/",
+   "tracks": [
+    {
+     "name": "Two-level indoor track",
+     "length_m": null,
+     "width_m": 6,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.expedia.com/things-to-do/go-kart-asti-go-kart-race-with-5-minutes-of-qualifying-15-laps-of-racing.a50357609.activity-details",
+    "https://www.adrenalinekartindoor.it/",
+    "https://www.adrenalinekartindoor.it/quote-di-partecipazione/",
+    "https://www.adrenalinekartindoor.it/contatti-aki/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Two-level indoor track on 3500 m2, since 2016; home page says 20 adult + 8 kids karts, price page says 13 adult + 8 kids. Expedia listings give 500 m length (not on own site). Coordinates are an office node at the same house number (Via Guido Maggiora 25)."
+  },
+  {
+   "name": "Space Game Val Camonica - Kart (ex Planet Kart)",
+   "address": "Via Saletti 20, Zona Industriale, 25050 Pian Camuno (BS)",
+   "town": "Pian Camuno",
+   "country": "IT",
+   "lat": 45.84374,
+   "lon": 10.15793,
+   "address_osm_id": "relation/46282",
+   "type": "indoor",
+   "website": "https://spacegamevallecamonica.it/kart/",
+   "phone": "+39 0364 591042",
+   "email": "info@spacegamevallecamonica.it",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "OTL",
+     "engine": "electric",
+     "hp": null,
+     "class": "kids 115-135 cm (remote-controlled)"
+    },
+    {
+     "chassis": "Sodikart Junior Pro LRX",
+     "engine": "electric",
+     "hp": null,
+     "class": "junior"
+    },
+    {
+     "chassis": "OTL",
+     "engine": "electric",
+     "hp": null,
+     "class": "standard"
+    },
+    {
+     "chassis": "Sodikart RSX2",
+     "engine": "electric",
+     "hp": null,
+     "class": "performance (licence)"
+    },
+    {
+     "chassis": "Birel ART",
+     "engine": null,
+     "hp": 27,
+     "class": "top (14+, licence)"
+    },
+    {
+     "chassis": "Sodikart X2drive",
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 115,
+    "gp_min_age": 14
+   },
+   "hours": null,
+   "prices": [
+    {
+     "label": "Kart OTL bimbo",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 10.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "115-135 cm"
+    },
+    {
+     "label": "Kart OTL standard (non tesserati, over 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kart OTL standard (tesserati, under 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kart OTL standard (tesserati, over 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "OTL Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 30.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 10-lap race"
+    },
+    {
+     "label": "OTL Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 38.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 8' quali + 10-lap race"
+    },
+    {
+     "label": "Sodi RSX2",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 34.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 44.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Super GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 8' quali + 10-lap race 1 + 10-lap reverse-grid race 2"
+    },
+    {
+     "label": "Birel ART",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Iron Training Birel",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8 + 8 min"
+    },
+    {
+     "label": "Kart doppio Sodikart X2drive",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "adult driver, co-pilot min 110 cm"
+    },
+    {
+     "label": "Corso di guida",
+     "class": null,
+     "type": "course",
+     "minutes": null,
+     "laps": null,
+     "price": 50.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "Mon-Fri 17-19, members, booking"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://spacegamevallecamonica.it/kart/",
+   "tracks": [
+    {
+     "name": "Indoor (2 levels)",
+     "length_m": 450,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "Outdoor",
+     "length_m": 550,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+    "https://spacegamevallecamonica.it/kart/",
+    "https://spacegamevallecamonica.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "planetkart.it now redirects to Space Game Val Camonica (kart, laser game, bowling). Two-level indoor track plus outdoor extension. Opening hours start Mon 17:00-00:00 (rest truncated). Coordinates are ONLY the Pian Camuno municipality centroid - Nominatim could not geocode Via Saletti in Pian Camuno; needs manual placement. Engine types per kart partly inferred from model names (OTL/RSX2 are electric models) - verify."
+  },
+  {
+   "name": "Torino Kart Indoor",
+   "address": "Via (Enrico) Fermi 11, Torino (site says 10048)",
+   "town": "Torino",
+   "country": "IT",
+   "lat": 45.11383,
+   "lon": 7.67351,
+   "address_osm_id": "node/4733915803",
+   "type": "indoor",
+   "website": "https://torinokartindoor.com/",
+   "phone": "+39 011 584 4485",
+   "email": "torinokartindoor@gmail.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "Sodikart RSX2",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/kids from 1.35 m"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 135
+   },
+   "hours": "Mon-Fri 17:30-23:30; Sat 15:00-23:30; Sun 15:00-21:30",
+   "prices": [
+    {
+     "label": "Prove libere",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 qualifying laps + 10 minutes race"
+    },
+    {
+     "label": "Medium GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 35.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 qualifying laps + 15 minutes race"
+    },
+    {
+     "label": "GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 40.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "10 min qualifying + 15 min race"
+    }
+   ],
+   "fees": "Mandatory annual membership EUR 10; exclusive track min 13 participants",
+   "price_source": "https://torinokartindoor.com/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+    "https://torinokartindoor.com/",
+    "https://torinokartindoor.com/kart/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "22 electric Sodi RSX2 karts. ADDRESS UNCERTAIN: site says 'Via Fermi 11 10048 TORINO' but 10048 is Vinovo's postcode; coordinates are Via Enrico Fermi 11 in Torino (10148, Madonna di Campagna) - verify before publishing."
+  },
+  {
+   "name": "MyKart Montecatini - Officina Dello Sport 2.0",
+   "address": "Viale Ugo Foscolo (c/o Terminal Bus), 51016 Montecatini Terme (PT)",
+   "town": "Montecatini Terme",
+   "country": "IT",
+   "lat": 43.87823,
+   "lon": 10.77993,
+   "address_osm_id": "way/180137921",
+   "type": "indoor",
+   "website": "https://ods20.it/",
+   "phone": "+39 0572 767870",
+   "email": "officinadellosport2.0@gmail.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "Sodikart RSX",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult"
+    }
+   ],
+   "ages": {},
+   "hours": "Mon closed; Tue-Fri 20:30-00:00; Sat-Sun 16:00-00:00",
+   "prices": [],
+   "fees": null,
+   "price_source": "https://ods20.it/wp-content/uploads/2026/08/PREZZI-15.09.2026-ITA.pdf",
+   "tracks": [
+    {
+     "name": "MyKart indoor",
+     "length_m": 500,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.yumping.com/fr/karting/my-kart--e19626945",
+    "https://ods20.it/",
+    "https://ods20.it/i-nostri-kart/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "mykart.it redirects to ods20.it. Indoor electric-kart track 500 m, booking required. Prices are only in a linked PDF price list (not downloaded/read). Coordinates are the Via Ugo Foscolo street object (approximate)."
+  },
+  {
+   "name": "Kart Roma (Pista Kart Roma)",
+   "address": "Via della Muratella 49, 00148 Ponte Galeria, Roma (RM)",
+   "town": "Roma",
+   "country": "IT",
+   "lat": 41.816425,
+   "lon": 12.327418,
+   "address_osm_id": "way/32572655",
+   "type": "outdoor",
+   "website": "https://www.kartroma.it/",
+   "phone": "+39 06 6500 4962",
+   "email": "info@kartroma.it",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids 10-14"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    }
+   ],
+   "ages": {
+    "kids": "10-14 (daylight only, arrive by 19:30)",
+    "gp": "18+"
+   },
+   "hours": "Mon-Fri 17:00-24:00; Sat 11:00-13:00 and 15:00-24:00; Sun 11:00-13:00 and 15:00-23:00 (outdoor, weather dependent; no bookings)",
+   "prices": [
+    {
+     "label": "Sessione",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sessione",
+     "class": null,
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 38.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Turni successivi",
+     "class": null,
+     "type": "session",
+     "minutes": null,
+     "laps": null,
+     "price": 19.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "subsequent sessions"
+    },
+    {
+     "label": "Kart biposto",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Grand Prix 1",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 15,
+     "price": 40.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' qualifying + 15-lap race; min 8 adult drivers"
+    },
+    {
+     "label": "Grand Prix 2",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 15,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "4' free + 8' quali + 15 laps; min 8 adults"
+    },
+    {
+     "label": "Grand Prix 3",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 20,
+     "price": 50.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "4' free + 8' quali + 20 laps; min 8 adults"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.kartroma.it/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.yumping.com/it/kart/kartroma--e17238",
+    "https://www.kartroma.it/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Outdoor track at GRA exit 31 Ponte Galeria. lat/lon taken from the Google Maps pin on the venue's own site; address_osm_id is the nearest Via della Muratella street segment returned by Nominatim. Third-party listings mention a 900 m track and Honda 270cc karts (not on own page). ~7.5 km from the existing unnamed Roma object way/1173707235."
+  },
+  {
+   "name": "PGK Karting Network Pesaro",
+   "address": "Via Toscana 16, 61122 Pesaro (PU)",
+   "town": "Pesaro",
+   "country": "IT",
+   "lat": 43.90412,
+   "lon": 12.87775,
+   "address_osm_id": "way/38460476",
+   "type": "indoor",
+   "website": "https://www.pgkpesaro.it/",
+   "phone": "+39 340 643 9551",
+   "email": "info@pgkpesaro.it",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/kids"
+    }
+   ],
+   "ages": {},
+   "hours": "Mon-Fri 18:00-24:00; Sat 15:30-00:30; Sun 15:30-23:30",
+   "prices": [
+    {
+     "label": "Giri liberi 8' - prima corsa",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Giri liberi 8' - seconda corsa (stesso giorno)",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Gran premio - primo",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 8,
+     "price": 28.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5' qualifying + 8-lap final"
+    },
+    {
+     "label": "Gran premio - secondo (stesso giorno)",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 8,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Giri liberi 16' - prima corsa",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 28.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Giri liberi 16' - seconda corsa (stesso giorno)",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.pgkpesaro.it/corse-e-tariffe/",
+   "tracks": [
+    {
+     "name": "PGK Pesaro",
+     "length_m": 650,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": "https://www.pgkpesaro.it/il-circuito/",
+   "sources": [
+    "https://www.ilrestodelcarlino.it/pesaro/cosa-fare/go-kart-elettrici-x708f6w2",
+    "https://www.pgkpesaro.it/",
+    "https://www.pgkpesaro.it/corse-e-tariffe/",
+    "https://www.pgkpesaro.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Opened 1 Feb 2025; two-level indoor electric track, 650 m, 14 corners + parabolic. Sister of existing PGK Venezia. Coordinates are the Via Toscana street object (Tombaccia), approximate."
+  },
+  {
+   "name": "SKindoor - Sardinia Kart Indoor",
+   "address": "Monastir (CA) - street address not published on site",
+   "town": "Monastir",
+   "country": "IT",
+   "lat": 39.38474,
+   "lon": 9.04484,
+   "address_osm_id": "relation/39908",
+   "type": "indoor",
+   "website": "https://sardegnakartindoor.com/",
+   "phone": null,
+   "email": null,
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodikart SR4",
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodikart IR5",
+     "engine": null,
+     "hp": null,
+     "class": "adult performance"
+    },
+    {
+     "chassis": "Sodikart 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kart for drivers with disabilities"
+    }
+   ],
+   "ages": {},
+   "hours": "From 1 June 2026: Mon-Tue 18:00-22:30; Wed-Sat 18:00-23:30; Sun 18:00-22:00 (Google widget on site shows different hours)",
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.yumping.com/en/karting/skindoor--e19693274",
+    "https://sardegnakartindoor.com/",
+    "https://sardegnakartindoor.com/go-kart/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Self-described largest indoor kart track in Europe, Monastir (CA), ~15 km from Cagliari (Yumping: ~500 m in two connected sheds, 20 Sodi karts). skindoor.it redirects to sardegnakartindoor.com. Coordinates are ONLY the Monastir municipality centroid - needs manual placement. ~7 km from existing SestuGO!/SBkart objects in Sestu (different venues). Prices not found in page text (booking/shop system)."
+  }
+ ],
+ "leads": [
+  {
+   "name": "Collari Race Way",
+   "town": "Bologna",
+   "country": "IT",
+   "source": "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "why_unconfirmed": "Own site collariraceway.it returns HTTP 500 / certificate mismatch; may be the hidden unnamed Bologna OSM object"
+  },
+  {
+   "name": "Planet Kart Romagna",
+   "town": "Conselice",
+   "country": "IT",
+   "source": "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "why_unconfirmed": "Own domain planetkartromagna.com does not resolve; status unknown"
+  },
+  {
+   "name": "Circuito del Persico",
+   "town": "Persiceto area (Via Molinellina 11)",
+   "country": "IT",
+   "source": "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "why_unconfirmed": "Own domain circuitodelpersico.it does not resolve; may be moto-only"
+  },
+  {
+   "name": "Racing Mini Car Fiorano",
+   "town": "Fiorano Modenese",
+   "country": "IT",
+   "source": "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "why_unconfirmed": "Own site unreachable (404/certificate mismatch); may be RC/mini-car track"
+  },
+  {
+   "name": "King Center (indoor kart)",
+   "town": "Torino (Via Monginevro 242)",
+   "country": "IT",
+   "source": "https://www.yumping.com/it/kart/king-center--e19626948",
+   "why_unconfirmed": "Own site kingcenter.it timed out; status unknown"
+  },
+  {
+   "name": "Pista kart Mondovì (670 m outdoor)",
+   "town": "Mondovì",
+   "country": "IT",
+   "source": "https://www.holidoit.com/e/giro-in-pista-con-go-kart-a-mondovi-fuori-cuneo",
+   "why_unconfirmed": "Only booking-platform listing; venue name/own site not found"
+  },
+  {
+   "name": "Pista kart Valsusa",
+   "town": "Bruzolo",
+   "country": "IT",
+   "source": "https://www.yumping.com/it/kart/cerrina-race-track--e17579 (suggestion list)",
+   "why_unconfirmed": "Mentioned only as a Yumping suggestion; no own site found"
+  },
+  {
+   "name": "Auronzo Ice Kart",
+   "town": "Auronzo di Cadore",
+   "country": "IT",
+   "source": "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+   "why_unconfirmed": "Seasonal ice-kart track; no own site found (2019 article)"
+  },
+  {
+   "name": "Ice Kinka Kart",
+   "town": "Pragelato",
+   "country": "IT",
+   "source": "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+   "why_unconfirmed": "Seasonal ice-kart track; no own site found (2019 article)"
+  },
+  {
+   "name": "Go Go Kart Racing Park (Bergamo kart indoor listing)",
+   "town": "Cortenuova",
+   "country": "IT",
+   "source": "https://yumping.com/en/motor-sports/go-go-kart-racing-park-indoor--e19633777",
+   "why_unconfirmed": "Only Yumping listing; no own site found; may be near unnamed Antegnate object"
+  },
+  {
+   "name": "EuroKart Milano - Idroscalo",
+   "town": "Segrate",
+   "country": "IT",
+   "source": "https://www.milanofree.it/milano/eventi/go-kart-a-milano-e-dintorni-piste-indoor-e-outdoor.html",
+   "why_unconfirmed": "No own site found; may be a seasonal leisure kart attraction"
+  },
+  {
+   "name": "Palermo Karting (Mondello)",
+   "town": "Palermo (Via dell'Olimpo, Mondello)",
+   "country": "IT",
+   "source": "https://www.yumping.com/en/karting/palermo-karting--e19734444",
+   "why_unconfirmed": "Only Yumping listing (last updated 2016); no own site found"
+  },
+  {
+   "name": "Pista del Lago",
+   "town": "Partinico (C/da Baronia)",
+   "country": "IT",
+   "source": "https://www.yumping.com/de/kart-fahren/pista-del-lago--e19682197",
+   "why_unconfirmed": "No own site found; may be the existing unnamed Borgetto object way/244137447"
+  },
+  {
+   "name": "Poggio Karting Club",
+   "town": null,
+   "country": "IT",
+   "source": "https://www.yumping.com/en/karting/poggio-karting-club--e19682117",
+   "why_unconfirmed": "Only Yumping listing; town not visible"
+  },
+  {
+   "name": "Titan Ice Kart",
+   "town": "Fiavè",
+   "country": "IT",
+   "source": "https://www.italia.it/it/italia/cosa-fare/go-kart-sul-ghiaccio-e-team-building",
+   "why_unconfirmed": "Seasonal ice-kart track; own site not checked (budget)"
+  },
+  {
+   "name": "Autodromo di Sardegna (karting use)",
+   "town": "Mores",
+   "country": "IT",
+   "source": "https://www.racecar.com/news/75632/motorsport/autodromo-di-sardegna-for-sale",
+   "why_unconfirmed": "Multi-use circuit reported for sale; karting track/status not confirmed"
+  }
+ ],
+ "already_present": [
+  {
+   "name": "Hollywood Kart Erba",
+   "existing_id": "node/6401336548",
+   "comment": "Rebranded K1 Speed Erba (k1speed.com/it/erba.html) after the 2024 Hollywood Kart-K1 Speed partnership; name/website outdated"
+  },
+  {
+   "name": "Hollywood Kart Milano Bicocca",
+   "existing_id": "node/13432940206",
+   "comment": "Now listed as K1 Speed Milano-Bicocca (k1speed.com/it/milano-bicocca.html); name outdated"
+  },
+  {
+   "name": "Pala Kart Parma",
+   "existing_id": "way/179588941",
+   "comment": "Travel Emilia-Romagna list says 'temporarily closed due to relocation' - check status/new location"
+  },
+  {
+   "name": "None (Cervesina)",
+   "existing_id": "way/598864441",
+   "comment": "leisure=pitch sport=karting next to Circuito Tazio Nuvolari (way/323362222); unnamed - possibly nameable from the Nuvolari circuit operator; it is NOT 7 Laghi Kart (Castelletto di Branduzzo), which is added as new"
+  },
+  {
+   "name": "None (Bologna, hidden)",
+   "existing_id": "way/1289078065 / node/12302370555",
+   "comment": "Possibly Collari Race Way (Via Romita, Bologna) listed by Travel Emilia-Romagna; own site down, could not confirm"
+  },
+  {
+   "name": "La Tosa",
+   "existing_id": "relation/19751379",
+   "comment": "Travel Emilia-Romagna lists it with website www.acquaparcoacqualand.it (Via del Senio 10, Riolo Terme); existing entry has no website"
+  }
+ ],
+ "checked_at": "2026-10-15"
+}

@@ -1,0 +1,25 @@
+[
+ {
+  "id": "relation/18655290",
+  "rental": "no",
+  "own_karts": "yes",
+  "sources": [],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/171449371",
+  "rental": "no",
+  "own_karts": "yes",
+  "sources": [],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/361609526",
+  "rental": null,
+  "own_karts": "yes",
+  "sources": [
+   "https://polskikarting.pl/tory/"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

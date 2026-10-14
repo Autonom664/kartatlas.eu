@@ -1,0 +1,240 @@
+[
+ {
+  "id": "way/1389597361",
+  "rental": "yes",
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/node/12862909873",
+   "https://www.zivefirmy.cz/motopark-ostrava_f1733044?cz=92",
+   "https://www.podnikatel.cz/rejstrik/motopark-ostrava-s-r-o-01643223/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/593928323",
+  "rental": "no",
+  "own_karts": null,
+  "website": "https://www.mac-koenigsbrunn.de/",
+  "sources": [
+   "https://www.openstreetmap.org/way/38157291",
+   "https://www.mac-koenigsbrunn.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/331597919",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/943546629",
+   "https://www.openstreetmap.org/way/331597919"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/202733188",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/202733188",
+   "https://www.openstreetmap.org/way/202733205"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/91915769",
+  "rental": "no",
+  "own_karts": null,
+  "website": "https://www.msc-knetzgau.de/",
+  "sources": [
+   "https://www.openstreetmap.org/way/91915769",
+   "https://www.openstreetmap.org/way/237653203",
+   "https://www.msc-knetzgau.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/712430022",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://circuit-pau-arnos.fr/",
+  "sources": [
+   "https://www.openstreetmap.org/way/253195295",
+   "https://circuit-pau-arnos.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/179466889",
+  "rental": "yes",
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/197171995",
+   "https://www.provenceguide.com/equipements/avignon/laser-concept/provence-4722224-1.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/7345774782",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://gamesfactory.fr/en/besancon/karting/",
+  "sources": [
+   "https://www.openstreetmap.org/way/72367987",
+   "https://gamesfactory.fr/en/besancon/karting/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/165379444",
+  "rental": "no",
+  "own_karts": "yes",
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/165379446",
+   "https://www.yumping.com/en/karting/karting-carpentras--e19684580"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/191907701",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/191907701",
+   "https://www.openstreetmap.org/way/191907698"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/13228393793",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/node/13228393793",
+   "https://www.openstreetmap.org/way/898168871"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/136505203",
+  "rental": "yes",
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/136505230",
+   "https://www.openstreetmap.org/way/136505217",
+   "https://www.guide-tourisme-france.com/VISITER/euro-dieppe-karting--rouxmesnil-bouteilles-3587.htm"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/10088957473",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://speedpark.fr/le-mans/",
+  "sources": [
+   "https://www.openstreetmap.org/way/151295241",
+   "https://speedpark.fr/le-mans/",
+   "https://www.atlantic-loire-valley.com/activities/leisure-activities-for-young-people/speed-park"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/4943667120",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/104056119",
+   "https://www.openstreetmap.org/node/8129025456",
+   "https://www.koifaire.com/rhone-alpes/xtremcenter-109217.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1396182326",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/1396182326",
+   "https://www.openstreetmap.org/relation/19265153",
+   "https://www.yumping.com/karting/club-del-miniautodromo--e19682185",
+   "https://www.motoclub-tingavert.it/t156509s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/375056306",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/375056306"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/198047918",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://www.fortevillageresort.com/",
+  "sources": [
+   "https://www.openstreetmap.org/way/198047918",
+   "https://www.familygo.eu/vacanze-con-bambini/viaggi/sardegna/forte-village-pula-per-famiglie/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1313745985",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/1313745985"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/315013666",
+  "rental": null,
+  "own_karts": null,
+  "website": null,
+  "sources": [
+   "https://www.openstreetmap.org/way/315013666",
+   "https://livetheworld.com/activities/italy/area-51-go-kart"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/345803624",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://www.centrumborek.pl/",
+  "sources": [
+   "https://www.centrumborek.pl/",
+   "https://visitmalopolska.pl/en_GB/obiekt/-/poi/borek-centrum-aktywnego-wypoczynku",
+   "https://www.openstreetmap.org/way/225320618"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/823000123",
+  "rental": "yes",
+  "own_karts": null,
+  "website": "https://www.zaurolandia.pl/",
+  "sources": [
+   "https://www.zaurolandia.pl/",
+   "https://zaurolandia.pl/?page_id=1006",
+   "https://www.openstreetmap.org/way/822998054"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

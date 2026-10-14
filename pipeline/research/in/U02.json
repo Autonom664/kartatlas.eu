@@ -1,0 +1,740 @@
+[
+ {
+  "id": "way/761797608",
+  "guessed_name": null,
+  "nearby_hint": "Linstow",
+  "town": "Dobbin-Linstow",
+  "region": "Mecklenburg-Vorpommern",
+  "country": "DE",
+  "lat": 53.61788,
+  "lon": 12.36717,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/331597919",
+  "guessed_name": null,
+  "nearby_hint": "Rüppurr",
+  "town": "Ettlingen",
+  "region": "Baden-Württemberg",
+  "country": "DE",
+  "lat": 48.95793,
+  "lon": 8.40321,
+  "type": "outdoor",
+  "osm_length_m": 368,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/202733188",
+  "guessed_name": null,
+  "nearby_hint": "Rüsselsheim",
+  "town": "Flörsheim",
+  "region": "Hessen",
+  "country": "DE",
+  "lat": 49.99742,
+  "lon": 8.40418,
+  "type": "outdoor",
+  "osm_length_m": 525,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "access": "private",
+   "bicycle": "no",
+   "foot": "no",
+   "highway": "raceway",
+   "sport": "motor;karting;motocross",
+   "surface": "dirt"
+  }
+ },
+ {
+  "id": "way/235291205",
+  "guessed_name": null,
+  "nearby_hint": "Leithe",
+  "town": "Gelsenkirchen",
+  "region": "Nordrhein-Westfalen",
+  "country": "DE",
+  "lat": 51.48474,
+  "lon": 7.10835,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/835366727",
+  "guessed_name": null,
+  "nearby_hint": "Grabowhöfe",
+  "town": "Grabowhöfe",
+  "region": "Mecklenburg-Vorpommern",
+  "country": "DE",
+  "lat": 53.56721,
+  "lon": 12.59393,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "access": "customers",
+   "area": "yes",
+   "highway": "raceway",
+   "operator": "Tiererlebnispark Müritz",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/91915769",
+  "guessed_name": null,
+  "nearby_hint": "Knetzgau",
+  "town": "Knetzgau",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 50.00154,
+  "lon": 10.54368,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "lit": "no",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/206011236",
+  "guessed_name": null,
+  "nearby_hint": "Dörflas",
+  "town": "Marktredwitz",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 49.99522,
+  "lon": 12.08743,
+  "type": "outdoor",
+  "osm_length_m": 134,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1279684227",
+  "guessed_name": null,
+  "nearby_hint": "Neumarkt-Sankt Veit",
+  "town": "Neumarkt-Sankt Veit",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 48.36627,
+  "lon": 12.52115,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/223183532",
+  "guessed_name": null,
+  "nearby_hint": "Bärenstein",
+  "town": "Plauen",
+  "region": "Sachsen",
+  "country": "DE",
+  "lat": 50.49926,
+  "lon": 12.1247,
+  "type": "outdoor",
+  "osm_length_m": 294,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/82208301",
+  "guessed_name": null,
+  "nearby_hint": "Wüschheim",
+  "town": "Reckershausen",
+  "region": "Rheinland-Pfalz",
+  "country": "DE",
+  "lat": 50.00798,
+  "lon": 7.39024,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/894252551",
+  "guessed_name": null,
+  "nearby_hint": "Bahnhof Reken",
+  "town": "Reken",
+  "region": "Nordrhein-Westfalen",
+  "country": "DE",
+  "lat": 51.8082,
+  "lon": 7.01998,
+  "type": "outdoor",
+  "osm_length_m": 176,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/195781843",
+  "guessed_name": null,
+  "nearby_hint": "Steinbrünning",
+  "town": "Saaldorf-Surheim",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 47.89858,
+  "lon": 12.94653,
+  "type": "outdoor",
+  "osm_length_m": 411,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "sand"
+  }
+ },
+ {
+  "id": "way/368351876",
+  "guessed_name": null,
+  "nearby_hint": "Ratscher",
+  "town": "Schleusingen",
+  "region": "Thüringen",
+  "country": "DE",
+  "lat": 50.49415,
+  "lon": 10.78368,
+  "type": "outdoor",
+  "osm_length_m": 391,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/24789697",
+  "guessed_name": null,
+  "nearby_hint": "Bihlerdorf",
+  "town": "Sonthofen",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 47.53055,
+  "lon": 10.26421,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "addr:city": "Sonthofen",
+   "addr:postcode": "87527",
+   "addr:street": "Falkenstraße",
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/954618039",
+  "guessed_name": null,
+  "nearby_hint": "Krenkingen",
+  "town": "Waldshut-Tiengen",
+  "region": "Baden-Württemberg",
+  "country": "DE",
+  "lat": 47.67925,
+  "lon": 8.31091,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "description": "Ein privat errichtetes Areal. Es sieht nach einem Terrain für BMX-Räder aus.",
+   "leisure": "track",
+   "sport": "karting",
+   "surface": "compacted"
+  }
+ },
+ {
+  "id": "way/1489525899",
+  "guessed_name": null,
+  "nearby_hint": "Klein Wessek",
+  "town": "Wangels",
+  "region": "Schleswig-Holstein",
+  "country": "DE",
+  "lat": 54.31111,
+  "lon": 10.80007,
+  "type": "outdoor",
+  "osm_length_m": 201,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/255820186",
+  "guessed_name": null,
+  "nearby_hint": "Garbenheim",
+  "town": "Wetzlar",
+  "region": "Hessen",
+  "country": "DE",
+  "lat": 50.57294,
+  "lon": 8.53909,
+  "type": "indoor",
+  "osm_length_m": 266,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "building": "sports_centre",
+   "club": "sport",
+   "roof:shape": "flat",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/358492956",
+  "guessed_name": null,
+  "nearby_hint": "Wildflecken",
+  "town": "Wildflecken",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 50.36781,
+  "lon": 9.91529,
+  "type": "outdoor",
+  "osm_length_m": 433,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/456207370",
+  "guessed_name": null,
+  "nearby_hint": "Rüdinghausen",
+  "town": "Witten",
+  "region": "Nordrhein-Westfalen",
+  "country": "DE",
+  "lat": 51.44824,
+  "lon": 7.38907,
+  "type": "outdoor",
+  "osm_length_m": 332,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "access": "private",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "relation/6438498",
+  "guessed_name": null,
+  "nearby_hint": "Plan-de-Cuques",
+  "town": "Allauch",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.33546,
+  "lon": 5.45984,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/1173145680",
+  "guessed_name": null,
+  "nearby_hint": "Anould",
+  "town": "Anould",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.18738,
+  "lon": 6.95994,
+  "type": "outdoor",
+  "osm_length_m": 207,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1362564733",
+  "guessed_name": null,
+  "nearby_hint": "Gargas",
+  "town": "Apt",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.89209,
+  "lon": 5.37674,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/712430022",
+  "guessed_name": "Circuit Pau-Arnos",
+  "nearby_hint": null,
+  "town": "Arnos",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 43.44629,
+  "lon": -0.5295,
+  "type": "outdoor",
+  "osm_length_m": 1024,
+  "has_outline": true,
+  "website": "https://circuit-pau-arnos.fr/",
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/179466889",
+  "guessed_name": null,
+  "nearby_hint": "Quartier Montfavet",
+  "town": "Avignon",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.95193,
+  "lon": 4.87136,
+  "type": "outdoor",
+  "osm_length_m": 199,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "source": "Bing",
+   "sport": "karting",
+   "was:pitches:tennis": "2",
+   "was:sport": "tennis"
+  }
+ },
+ {
+  "id": "way/136730900",
+  "guessed_name": null,
+  "nearby_hint": "Aydoilles",
+  "town": "Aydoilles",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.20924,
+  "lon": 6.55774,
+  "type": "indoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "building": "yes",
+   "leisure": "pitch",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/463697523",
+  "guessed_name": null,
+  "nearby_hint": "Bellignat",
+  "town": "Bellignat",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 46.2377,
+  "lon": 5.63473,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/934414055",
+  "guessed_name": null,
+  "nearby_hint": "Préguillac",
+  "town": "Berneuil",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 45.66442,
+  "lon": -0.60532,
+  "type": "outdoor",
+  "osm_length_m": 1212,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/7345774782",
+  "guessed_name": null,
+  "nearby_hint": "Avanne-Aveney",
+  "town": "Besançon",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.21275,
+  "lon": 5.94605,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "source": "Le ministère de la ville, de la jeunesse et des sports - 01/2018",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/659216733",
+  "guessed_name": "Speed Fun Karting",
+  "nearby_hint": null,
+  "town": "Bessines",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 46.29224,
+  "lon": -0.50747,
+  "type": "outdoor",
+  "osm_length_m": 894,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1153189104",
+  "guessed_name": null,
+  "nearby_hint": "Blanzy",
+  "town": "Blanzy",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 46.68958,
+  "lon": 4.3781,
+  "type": "outdoor",
+  "osm_length_m": 266,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/165379444",
+  "guessed_name": null,
+  "nearby_hint": "Carpentras",
+  "town": "Carpentras",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 44.03741,
+  "lon": 5.06447,
+  "type": "outdoor",
+  "osm_length_m": 1544,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/535021797",
+  "guessed_name": null,
+  "nearby_hint": "Neuville-sur-Ailette",
+  "town": "Chamouille",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 49.46503,
+  "lon": 3.6809,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/2485931748",
+  "guessed_name": null,
+  "nearby_hint": "Attigny",
+  "town": "Charbogne",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 49.49053,
+  "lon": 4.57469,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/290061425",
+  "guessed_name": null,
+  "nearby_hint": "Charnay-lès-Mâcon",
+  "town": "Charnay-lès-Mâcon",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 46.29625,
+  "lon": 4.79323,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "disused:leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/102674832",
+  "guessed_name": null,
+  "nearby_hint": "Chantecorps",
+  "town": "Clavé",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 46.50978,
+  "lon": -0.18206,
+  "type": "outdoor",
+  "osm_length_m": 476,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/5922610411",
+  "guessed_name": null,
+  "nearby_hint": "Cappelle-la-Grande",
+  "town": "Coudekerque-Branche",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 51.006,
+  "lon": 2.38441,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/33995393",
+  "guessed_name": "Karting des Poudrières",
+  "nearby_hint": null,
+  "town": "Dommartin",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 46.91823,
+  "lon": 6.33334,
+  "type": "outdoor",
+  "osm_length_m": 818,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1315948290",
+  "guessed_name": null,
+  "nearby_hint": "Althen-des-Paluds",
+  "town": "Entraigues-sur-la-Sorgue",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.99762,
+  "lon": 4.94389,
+  "type": "outdoor",
+  "osm_length_m": 144,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/339306511",
+  "guessed_name": null,
+  "nearby_hint": "Fargeas",
+  "town": "Feytiat",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 45.81675,
+  "lon": 1.29626,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ }
+]

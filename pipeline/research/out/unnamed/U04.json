@@ -1,0 +1,575 @@
+[
+ {
+  "id": "relation/2035090",
+  "verdict": "uncertain",
+  "name": "Piste karting Selongey",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM maps a 518 m track named 'Piste karting Selongey' (raceway way tagged access=no) in farmland/forest outside Selongey, sourced from the 2012 cadastre; no web presence of any karting venue or club in Selongey was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/150974920",
+   "https://www.openstreetmap.org/relation/2035090"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/296667026",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The OSM way is itself tagged disused=yes and lies in the town centre of Souppes-sur-Loing next to a campsite, sports ground and the river; no current karting venue in Souppes was found online (a directory counts a karting facility in the commune but without any name).",
+  "sources": [
+   "https://www.openstreetmap.org/way/296667026",
+   "https://verymap.net/sport/activite/7102-karting/77458-souppes-sur-loing/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1389612478",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "299 m raceway in farmland by the Moine river near La Romagne with no named facility nearby in OSM; web searches found no karting venue in La Romagne or Sèvremoine.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1389612478"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/229721547",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "298 m raceway in an urban area of Tours near Parc de Sainte-Radegonde, schools and a community centre; the known Tours-area kart venues are in Joué-lès-Tours and La Ville-aux-Dames, and nothing was found at this spot.",
+  "sources": [
+   "https://www.openstreetmap.org/way/229721547"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/611998367",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Tiny 154 m single-lane loop on the Trouville seafront by Place Foch, about 160 m from Les Trouvillaises, which rents children's pedal karts; no motor kart venue exists in Trouville (the nearest is Pont-l'Évêque), so this is most likely a children's pedal-kart circuit. Downgraded to uncertain: inferred from location only.",
+  "sources": [
+   "https://www.openstreetmap.org/way/611998367",
+   "https://www.openstreetmap.org/node/9855957362",
+   "https://www.lestrouvillaises.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/829823299",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small area tagged leisure=pitch + sport=karting next to a sports centre and football pitch in Coudekerque-Village; no karting club or venue in Téteghem-Coudekerque-Village was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/829823299"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/4943667120",
+  "verdict": "real",
+  "name": "XtremCenter Valence",
+  "website": null,
+  "type": "indoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The node sits 30 m from the OSM building 'Xtrem Valence' (amusement arcade, sport=motor) in the ZA les Mourettes; directory listings describe XtremCenter, 126 route de Beauvallon, Valence, as an indoor karting track (opened 2002) with bowling and laser game. No official website found. Rental left unverified: source is a directory listing.",
+  "sources": [
+   "https://www.openstreetmap.org/way/104056119",
+   "https://www.openstreetmap.org/node/8129025456",
+   "https://www.koifaire.com/rhone-alpes/xtremcenter-109217.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1192840538",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "609 m raceway next to the village football and tennis pitches of Valprivas, imported from the French sports-equipment census (2021); no karting venue or club in Valprivas was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1192840538"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1327891269",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The track lies inside the 5-star campsite Domaine La Yole (Vendres/Valras-Plage), so it is at most a guest/children's attraction; campsite listings mention water park, mini-golf and farm but no karting. Sun Karting (Sérignan) is 2.25 km away and is a separate venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/64645467",
+   "https://www.toocamp.com/france/camping-le-domaine-de-la-yole-c27388.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/483659334",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Two small leisure=track karting ways plus a motor raceway node in a rural spot of Villefranque next to a private swimming pool, suggesting a private property; no karting venue in Villefranque was found online (nearest public track is Karting Côte Basque in Briscous).",
+  "sources": [
+   "https://www.openstreetmap.org/way/483659334",
+   "https://www.openstreetmap.org/way/1044517000"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/380970617",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Untagged-except-sport=karting feature in the rural village of Véraza with no named facility nearby; no karting venue or club in Véraza was found (nearest known venue is Win'Kart, Carcassonne).",
+  "sources": [
+   "https://www.openstreetmap.org/way/380970617"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/404738749",
+  "verdict": "not_kart",
+  "name": "MES77 RC track (Stade Dominique Rocheteau)",
+  "website": "https://www.helloasso.com/associations/mesrc77",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The area lies in the Complexe sportif Dominique Rocheteau in Émerainville, where the model-car club MES77 runs an electric radio-controlled car track (DTM and 1/12 classes) built on a former skate area; it is an RC car track, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/883757440",
+   "https://www.helloasso.com/associations/mesrc77"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/778707537",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Three adjoining raceway ways (main 499 m) near the Golf des Rochers Sévigné at Étrelles; no karting venue or club in Étrelles or Vitré was found online (Ille-et-Vilaine venues listed are Lohéac, La Mézière, Melesse, Saint-Méloir).",
+  "sources": [
+   "https://www.openstreetmap.org/way/778707537"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/7833028470",
+  "verdict": "uncertain",
+  "name": "Kartodromo di Acerra",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM node carries alt_name 'Kartodromo di Acerra' with two karting raceway ways and construction land beside it, but no web source for a kart track in Acerra was found; the nearest found venue, Kartodromo Napoli, is in Afragola about 6 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/node/7833028470",
+   "https://www.openstreetmap.org/way/839406630"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/174920606",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Pitch tagged sport=karting at Valle San Bartolomeo; the only web trace is a 2009 Minimoto forum thread about the Valle S. Bartolomeo track reopening (minimoto, pit bike and supermoto), so it may be a minimoto track and its current status is unknown.",
+  "sources": [
+   "https://www.openstreetmap.org/way/174920606",
+   "https://www.motoclub-tingavert.it/t382334s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1355629609",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre area tagged karting next to a motor raceway and village pitches at Madonna della Carità, Ancarano; no kart venue in Ancarano was found online (Kartodromo Val Vibrata/Mad Racing is about 5 km away and already in the dataset).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1355629609",
+   "https://www.openstreetmap.org/way/617714512"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/516293117",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Short 188 m asphalt loop among private villas with swimming pools and a residential garden near Relais Sant'Agostino outside Andria, which suggests a private track; no kart venue at this location was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/516293117"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/901582000",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "222 m karting raceway next to an unnamed motor raceway area between Angri and Sant'Antonio Abate; no kart venue at this location was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/901582000",
+   "https://www.openstreetmap.org/way/245680737"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/430792284",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "560 m racetrack plus a second karting raceway near Cecchina (Ariccia) next to a car-repair shop and a private pool; two web searches found no kart venue in Cecchina, Ariccia or Albano.",
+  "sources": [
+   "https://www.openstreetmap.org/way/430792284",
+   "https://www.openstreetmap.org/way/450026100"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1306067463",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Isolated 176 m raceway at Cardillo (Avigliano) with nothing tagged around it; no kart venue in Avigliano was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1306067463"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/968023800",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre area tagged karting next to industrial land between Banzi and Palazzo San Gervasio; no kart venue there was found online (the similarly named Kartodromo Palazzo is in Trecchina, far away).",
+  "sources": [
+   "https://www.openstreetmap.org/way/968023800"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1217972654",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "177 m one-way loop in the Stanic industrial/commercial area of Bari, about 0.9 km from Kartodromo Barimax (already in the dataset); no separate kart venue at this spot was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1217972654"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/233960686",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Track area tagged karting next to another unnamed track in Bianco (province of Reggio Calabria); no kart venue in Bianco was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/233960686"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/244137447",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Track tagged karting beside the football and tennis pitches of Borgetto; no kart venue in Borgetto was found (Pista del Lago is in Contrada Baronia, Partinico, near Lago Poma, several km away).",
+  "sources": [
+   "https://www.openstreetmap.org/way/244137447",
+   "https://www.yumping.com/de/kart-fahren/pista-del-lago--e19682197"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/863985109",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "641 m karting raceway plus a second raceway beside a retail/commercial area (Eurospar, Unieuro) in Botricello; two web searches found no kart venue in Botricello.",
+  "sources": [
+   "https://www.openstreetmap.org/way/863985109",
+   "https://www.openstreetmap.org/way/863985110"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/244806326",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre area with a 266 m karting raceway next to the Natalino Indrigo baseball/softball centre in Bovisio Masciago; two web searches found no kart, minimoto or model-car track here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/244806326",
+   "https://www.openstreetmap.org/way/299686038"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/819981857",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "578 m raceway beside the football pitches of Centro Sportivo Comunale 'Gino Pederzini' between two industrial zones in Calderara di Reno; two web searches found no kart track in Calderara di Reno.",
+  "sources": [
+   "https://www.openstreetmap.org/way/819981857",
+   "https://www.openstreetmap.org/way/266782038"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/62801217",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The OSM way itself is tagged disused=yes (asphalt kart loop among hotels near Park Camper Kennedy, Lido di Camaiore); no current kart venue at Lido di Camaiore was found online, so it is probably a closed seaside track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/62801217"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1266537543",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Asphalt kart area at Museddu, Cardedu, with nothing else tagged nearby; Trip.com lists a 'Pista Kart I Ginepri' as a Cardedu attraction, but no source confirms its position, so it cannot be tied to this spot.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1266537543",
+   "https://us.trip.com//travel-guide/destination/cardedu-5399"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1560147507",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "877 m raceway next to the Laghi Nabi resort (park, glamping, hotel) at Baia Verde; Laghi Nabi listings mention water sports but no karting. 'Pista Italia Kart' (already in the dataset, OSM way/249504927) is a separate track about 0.6 km away, so this one remains unidentified.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1560147507",
+   "https://www.openstreetmap.org/way/839492940",
+   "https://www.hotels.com/tgp/lodging/979107759473827840/pista-italia-kart"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1303875597",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre area with two karting raceways (928 m) at Castel di Sangro; hotel portals list a 'kart' landmark in Castel di Sangro (about 1.4 km from Hotel Il Tiglio), but no name, operator or rental information was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1303875597",
+   "https://www.hotels.com/tgp/lodging/979109425661181952/kart"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/388207666",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small sports-centre area with a 175 m asphalt kart raceway next to the Campo Comunale and private gardens in Castrocielo; no kart venue in Castrocielo was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/388207666",
+   "https://www.openstreetmap.org/way/388576541"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1090755482",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Isolated 284 m raceway near the rural hamlet of Pascarosa (Ceglie Messapica) with nothing tagged nearby; two web searches found no kart venue there.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1090755482"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/598864441",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Pitch tagged karting immediately beside the Circuito Tazio Nuvolari (Cervesina) grandstand; the circuit's website lists no kart track, only a 480 m 'Nivolino' track homologated by the motorcycle federation (FMI) for minor-speed training, which may be what this is.",
+  "sources": [
+   "https://www.openstreetmap.org/way/598864441",
+   "https://www.openstreetmap.org/way/323362222",
+   "https://www.circuitotazionuvolari.it/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/3328247202",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Bare node tagged leisure=track + sport=karting in Cerveteri with no surrounding tagged features; no kart venue in Cerveteri was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/node/3328247202"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1293592738",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Raceway at Cetraro Marina near the 'Phoenix' sports hall and car workshops; no kart venue in Cetraro was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1293592738"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/537258626",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "481 m raceway at Ca' Lino (Chioggia) next to the 'Al Ranch' restaurant with an equestrian pitch and pool; no kart venue at Ca' Lino or Sottomarina was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/537258626"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1301840283",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small raceway in the resort centre of Lido degli Scacchi right beside the seasonal children's theme park 'Scaccolandia' and beach establishments, suggesting a summer mini-kart attraction; no source confirms it. Circuito di Pomposa (already in the dataset) is 1.8 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1301840283",
+   "https://www.openstreetmap.org/way/1301840282"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/713146485",
+  "verdict": "uncertain",
+  "name": "Circuito la Scintilla",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM names the surrounding sports centre 'Circuito la Scintilla' and maps karting, motor and motocross raceways there, but no web source for it exists; nearby Rieti venues found (Rambo Racing on SS4, Kartodromo La Mola) could not be tied to this location.",
+  "sources": [
+   "https://www.openstreetmap.org/way/691102332",
+   "https://www.openstreetmap.org/way/713146485"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

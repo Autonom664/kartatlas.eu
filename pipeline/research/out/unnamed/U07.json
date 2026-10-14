@@ -1,0 +1,497 @@
+[
+ {
+  "id": "way/1561716712",
+  "verdict": "not_kart",
+  "name": "Skelterbaan, Maisdoolhof Speelboerderij",
+  "website": "https://www.maisdoolhof.nl/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 202 m loop sits at the Maisdoolhof Speelboerderij play farm in Malden (OSM playground node within 200 m); the farm's own site lists a 'Skelterbaan' and 'Traptractorbaan' (pedal go-karts / pedal tractors for children), not a motorised kart track.",
+  "sources": [
+   "https://www.maisdoolhof.nl/",
+   "https://www.openstreetmap.org/node/11215382782"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1495035422",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "indoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Four covered sport=karting raceway segments mapped in 2026 next to a fenced paintball pitch off a private service road (Zuidelijke Dwarsweg) by the A12 at Waddinxveen; no operator name in OSM and web searches found no karting business here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1495035422",
+   "https://www.openstreetmap.org/way/1495035428"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1388775118",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small concrete area tagged karting on the grounds of Zespół Szkół Ponadpodstawowych nr 1 (Limanowskiego 10, Bartoszyce), next to school pitches and the town pool; possibly a school manoeuvring/traffic-education pad, but no source found confirming its use.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1388775118",
+   "https://www.openstreetmap.org/way/1376111534"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1125210707",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre polygon tagged karting at the foot of the Kotelnica Białczańska ski area next to chalets and Hotel Bania parking; no web source confirms a go-kart offer at this spot (nearby Bania Kids minipark is a children's park).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1125210707",
+   "https://bialkatatrzanska.pl/en/about-kotelnica/description-of-the-resort"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/643324411",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Asphalt sports-centre polygon tagged karting inside the Bolesławiec industrial zone (ul. Ekonomiczna / Modłowa, next to SRG Global and other factories); no karting business found for this location.",
+  "sources": [
+   "https://www.openstreetmap.org/way/643324411"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/345803624",
+  "verdict": "real",
+  "name": "Centrum Aktywnego Wypoczynku Borek",
+  "website": "https://www.centrumborek.pl/",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The track lies inside the 'Centrum Aktywnego Wypoczynku Borek' recreation ground (Borek 302, gm. Rzezawa); the centre's own site lists go-kart rides ('przejażdżki gokartami') and the regional tourism portal mentions its go-kart track.",
+  "sources": [
+   "https://www.centrumborek.pl/",
+   "https://visitmalopolska.pl/en_GB/obiekt/-/poi/borek-centrum-aktywnego-wypoczynku",
+   "https://www.openstreetmap.org/way/225320618"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/654470290",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Lit sports-centre polygon tagged karting on the southern edge of Chojnice near an Orlen station, a hotel/conference hall with shooting range and TenisCamp courts; no karting operator found for this spot (the known 'Canpol Racing' track is in Człuchów).",
+  "sources": [
+   "https://www.openstreetmap.org/way/654470290",
+   "https://pomorskie.travel/de_DE/-/canpol-racing-w-czluchowie"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1127486983",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Survey-mapped (2023) customer-access karting area beside a customer paintball field, shelter and parking in Jałowe (gm. Ustrzyki Dolne), suggesting a small leisure business; no web source found naming it or confirming karts.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1127486983",
+   "https://www.openstreetmap.org/way/1127486979"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1166210769",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Track lies at the Park Wola Sodowa family amusement park (Pychowice, Kraków); travel directories list a 'Tor gokartowy' landmark in Dębniki, but no park or operator source found describing karts, so it may be a children's ride.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1166210766",
+   "https://www.expedia.com/Tor-Gokartowy-Debniki.d979109034542243840.Vacation-Attraction",
+   "https://intravel.net/krakow/entertainment/park-wola"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1325491227",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Lit paved leisure=track tagged karting next to the OSK MOTORISTA driving school and behind the M1 Marki mall; may be a driving-school manoeuvre yard, no karting source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1325491227",
+   "https://www.openstreetmap.org/way/1319293213"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/19020303",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Pitch multipolygon tagged karting in the centre of Rudnik nad Sanem beside the secondary-school complex (Technikum/LO); likely a school facility, but no source found describing it.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/19020303"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/918036196",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "189 m raceway in the Rzeczka (gm. Walim) ski/holiday area beside the Sowia Grapa guest house, Ośrodek wypoczynkowy Rzeczka and a ski lift; no web source found confirming a kart offer here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/918036196"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1312646351",
+  "verdict": "not_kart",
+  "name": "Gokarty (JuraPark Solec Kujawski)",
+  "website": "https://juraparksolec.pl/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 159 m loop is a 'Gokarty' attraction inside the JuraPark Solec Kujawski dinosaur theme park (OSM node 12585618159); the park's own playground page only describes rides in 'mini samochodziki' (mini cars) for visiting children, i.e. a children's amusement ride rather than a kart track.",
+  "sources": [
+   "https://juraparksolec.pl/atrakcje/park-zabaw/",
+   "https://www.openstreetmap.org/node/12585618159",
+   "https://www.openstreetmap.org/way/160568275"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/194071643",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "711 m asphalt raceway described in OSM as 'Tor Kartingowy w Suwałkach' (tagged karting;motor;motocross) beside the Zespół Szkół nr 6 vocational school; no current operator, club or event source found, and the school site does not mention karting.",
+  "sources": [
+   "https://www.openstreetmap.org/way/194071643",
+   "https://www.zs6.pl/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1156687776",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "240 m raceway inside the former Elana industrial site (Boryszew S.A. Oddział Elana, Toruń-Rubinkowo); no karting business found here (Toruń's known kart venue, MotoPark Toruń, is on the other side of the city at ul. Łukasiewicza).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1156687776",
+   "https://lapmeta.com/ja/track/variation/1007"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1162491249",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Sports-centre polygon tagged karting by the school (Samorządowe Centrum Edukacji Szkolnej) and the stadium in Tylicz; probably a school/municipal sports area, no source found confirming kart use.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1162491249"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/867476105",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small asphalt sports-centre polygon tagged karting among public fitness stations and pitches next to the Albatros pool and Hasanka playground in Warszawa-Ursus (Niedźwiadek); likely a small public play/traffic area, but no source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/867476105"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/761020964",
+  "verdict": "not_kart",
+  "name": "Tor kartingowy (Jurajski Park Dinozaurów)",
+  "website": "https://jurajskiparkdinozaurow.pl/park-rozrywki/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The loop lies inside the Jurajski Park Dinozaurów children's amusement park at Wasilków, mapped as a playground called 'Tor kartingowy'; the park's current ride list has no karting, only an autodrom (bumper cars) and a children's 'Miasteczko Ruchu Drogowego' (traffic town).",
+  "sources": [
+   "https://jurajskiparkdinozaurow.pl/park-rozrywki/",
+   "https://www.openstreetmap.org/way/761020977",
+   "https://www.openstreetmap.org/way/237167289"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1422551589",
+  "verdict": "not_kart",
+  "name": "Camping Tumiany pedal-kart area",
+  "website": "https://www.camping-tumiany.pl/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The asphalt area is inside Camping Tumiany (Ośrodek Wypoczynkowy Camping Tumiany); the campsite's site only mentions rules for pedal go-karts ('Regulamin gokartów na pedały'), not motorised karts.",
+  "sources": [
+   "https://www.camping-tumiany.pl/",
+   "https://www.openstreetmap.org/node/2431074325"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/13796539259",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Point tagged karting among playgrounds and the 'Indoorspielplatz' of the Polenmarkt Hohenwutzen border market (Osinów Dolny); the market's own pages list only children's pedal vehicles (ages 1.5-8) and coin-operated E-Autos, no kart track, so it is probably a children's ride but this is not confirmed.",
+  "sources": [
+   "https://www.hohenwutzen.de/kindererlebnisse/",
+   "https://www.openstreetmap.org/node/13796539241"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/823000123",
+  "verdict": "real",
+  "name": "Gokarty Zaurolandia",
+  "website": "https://www.zaurolandia.pl/",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The 615 m asphalt, fee=yes track adjoins the Zaurolandia dinosaur/family park at Rogowo (OSM theme_park way 822998054); the park's own site lists 'gokarty' among attractions and its price list charges 'Gokardy - 20 zł/os.' separately from admission. Kart type (adult/child) is not stated.",
+  "sources": [
+   "https://www.zaurolandia.pl/",
+   "https://zaurolandia.pl/?page_id=1006",
+   "https://www.openstreetmap.org/way/822998054"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/173523512",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "411 m raceway in Byxelkrok (northern Öland), mapped since 2012 with no name; no karting business found here. The only nearby kart venue found, Glabo Gokart & Paintball, is at Glabo near Löttorp about 13 km south, so it is not this spot.",
+  "sources": [
+   "https://www.openstreetmap.org/way/173523512",
+   "https://www.expedia.com/es/Glabo-Gokart-Paintball-Lottorp.d979109107942658048.Guia-Turistica"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/11966326",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Asphalt leisure=track area tagged karting at Dansut, Gnesta, next to a sport=motor track area and parking; no club or operator found online.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/11966326",
+   "https://www.openstreetmap.org/way/879769794"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/367162773",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "466 m kart raceway right next to the Kinnekulle Ring circuit (Husaby, Götene); OSM gives contact:website hyrgokart.nu, but that domain no longer resolves and neither the Kinnekulle Ring site nor tourism pages mention kart rental, so current status is unknown.",
+  "sources": [
+   "https://www.openstreetmap.org/way/367162773",
+   "https://www.kinnekulle-ring.se/",
+   "https://www.vastsverige.com/lackokinnekulle/produkter/kinnekulle-ring/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/1414333573",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Point tagged karting next to a bowling node at the Cyberzone activity centre on Saltö, Karlskrona; Cyberzone's current site lists bowling, lasergame, arcade etc. but no go-karting, so any kart offer may have been discontinued.",
+  "sources": [
+   "https://www.cyberzone.se/",
+   "https://www.openstreetmap.org/way/116585807"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/341917056",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Pitch tagged karting on Risövägen (Remslemon), the street of Sollefteå Camping; a Höga Kusten tourism page says the campsite offers 'large go-karts for older children and adults', but the municipality's campsite pages do not describe them, so they may be pedal karts.",
+  "sources": [
+   "https://www.openstreetmap.org/way/341917056",
+   "https://www.hogakusten.com/de/adventure-solleftea-camping",
+   "https://www.solleftea.se/sollefteacamping/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1250293709",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Polygon tagged leisure=stadium + karting in the Himmelstalund park area near Himmelstalunds camping and the Borg pitches, Norrköping; no karting club or business found for it (Raceland Gokart is about 6 km east at Berga, GokartArenan at Klinga).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1250293709"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/297339947",
+  "verdict": "uncertain",
+  "name": "GokartArenan",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 776 m track is on Horns väg (Klinga/Löt, 605 97), matching the address of 'GokartArenan, Horns väg 5', which a city guide describes as indoor and outdoor go-karting with booking; but its own site gokartarenan.se now shows 'Squarespace - Website Expired', so current operation is unconfirmed.",
+  "sources": [
+   "https://thatsup.co.uk/norrkoping/activity/gokartarenan/",
+   "https://gokartarenan.se/",
+   "https://www.openstreetmap.org/way/297339945"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/518204339",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Pitch tagged karting beside the E20 at Lida/Läggesta (Strängnäs kommun) with no surrounding named features; no karting venue found for the area.",
+  "sources": [
+   "https://www.openstreetmap.org/way/518204339"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/5174043",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "397 m raceway in woodland at Fresta/Bollstanäs (Upplands Väsby) surrounded by several unnamed leisure=track ways and an archery field; no club or operator found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/5174043"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/152640372",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Recreation ground tagged karting at Malmasågen, Hökåsen (Västerås) inside a motor area with several folkrace raceways and a karting raceway (way 175854753); SMK Västerås Karting's postal address is Pinnmovägen, Hökåsen, but its mapped kart track is at Hälla ring (about 5 km away), so the club's use of this site is not confirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/152640372",
+   "https://www.openstreetmap.org/way/175854753",
+   "https://www.openstreetmap.org/way/95139054"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/322817680",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "292 m raceway off Argongatan beside Boglundsängen nature reserve and a fenced Armed Forces (FMTIS) area in Örebro; no karting club or venue found for it.",
+  "sources": [
+   "https://www.openstreetmap.org/way/322817680"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/14062544858",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Point tagged karting among playgrounds, a multiarena and adventure golf at the Gustavsvik resort/camping (Örebro); no source found describing karts there, so it may be a children's pedal-car area.",
+  "sources": [
+   "https://www.openstreetmap.org/node/14062544858",
+   "https://www.openstreetmap.org/way/365339926"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

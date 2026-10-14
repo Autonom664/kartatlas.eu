@@ -1,0 +1,1105 @@
+[
+ {
+  "id": "node/6968981892",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "chargersracing.at (DNS resolves) did not answer any HTTP/HTTPS connection, so no price list could be read."
+ },
+ {
+  "id": "way/1147658133",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.freizeitpark-stubenbergsee.at/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Park site (CITIES app page) only lists electric go-karts among attractions with opening hours; no price list, image or PDF is published."
+ },
+ {
+  "id": "way/194361134",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.oeamtc.at/fahrtechnik/trendsport/kart-experience-11005996",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "OeAMTC Kart Experience page says Melk/Wachauring is a group package (minimum charge 10 karts) booked by phone; no price is published."
+ },
+ {
+  "id": "node/9602638604",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://rw-m.at/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Operator site still shows St. Poelten opening hours as 'to follow' and refers visitors to Kartbahn Stetteldorf; no St. Poelten price list exists yet."
+ },
+ {
+  "id": "way/182395864",
+  "prices": [
+   {
+    "label": "1 sessie karten (8 min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Excludes member card, balaclava, gloves"
+   },
+   {
+    "label": "2 sessies karten (2 x 8 min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "3 sessies karten (3 x 8 min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 44,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "4 sessies karten (4 x 8 min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 32,
+    "laps": null,
+    "price": 58,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Driving Thunder Days (3 x 8 min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 38,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "thursday",
+    "note": "Promotion valid on Thursdays only"
+   },
+   {
+    "label": "Mini Grand Prix (8 min qualifying + 9-lap final)",
+    "class": "other",
+    "type": "package",
+    "minutes": 8,
+    "laps": 9,
+    "price": 38.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Exclusive use of track; site says bookable from 8 persons"
+   },
+   {
+    "label": "Grand Prix (8 min warm-up + 8 min qualifying + 9-lap final)",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": 9,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Exclusive use of track; bookable from 8 persons"
+   },
+   {
+    "label": "Kart Party (kids party: 2 sessions + snack, meal, drink)",
+    "class": "kids",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": 8,
+    "max_age": 16,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Fun & Food classic + 1x karten (adult)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 35,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Also American style 28 EUR, Italian style 29 EUR with 1 session"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Yeti Member Card (digital, mandatory for every driver)",
+    "amount": 3.5,
+    "currency": "EUR",
+    "period": "first year",
+    "mandatory": true,
+    "note": "then 2.50 EUR per person per year"
+   },
+   {
+    "name": "Balaclava (mandatory when using house helmet)",
+    "amount": 4,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": "Digital Yeti Member Card mandatory: 3.50 EUR first year, 2.50 EUR per year thereafter",
+  "price_source": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=379&categories=95,136,515,475,99,162",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Prices read from the public Apex Timing booking catalogue linked from yeti-eeklo.be/karting (no login); fees from the karting page."
+ },
+ {
+  "id": "way/186521896",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.autoklub-pisek.cz/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Club site states 'AK Hradiste v ACR neprovozuje pujcovnu motokar' (no kart rental); no kart price list published."
+ },
+ {
+  "id": "node/12818688068",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "kartingarena.cz (all paths incl. WordPress API) returns only a 'Verifying your browser' bot-challenge page; not bypassed, so no prices read."
+ },
+ {
+  "id": "way/360164280",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "motokaryhorovice.cz homepage returns HTTP 403 and all other paths 404 (server holds no readable pages); no price list found."
+ },
+ {
+  "id": "way/304341132",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Venue only has a Facebook page, which cannot be read without logging in; no own website with prices."
+ },
+ {
+  "id": "node/3222962495",
+  "prices": [
+   {
+    "label": "Dospela-online (adult race, SODI SR5, 150 cm+)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 300,
+    "currency": "CZK",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Online booking price"
+   },
+   {
+    "label": "Detska-online (kids race, SODI LR6, 130-150 cm)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 250,
+    "currency": "CZK",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "Online booking price; for drivers 130-150 cm"
+   },
+   {
+    "label": "Double-online (two-seat kart, adult with child)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 350,
+    "currency": "CZK",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Online booking price, listed per person"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=922",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "checked_at": "2026-10-15",
+  "note": "Prices read from the public Apex Timing booking catalogue linked from metropoleteplice.cz/motokary (no login needed)."
+ },
+ {
+  "id": "way/252520329",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "hotel-stary-mlyn.com blocks all requests with a Cloudflare 403 page (incl. WordPress API); not bypassed, no prices read."
+ },
+ {
+  "id": "way/27615820",
+  "prices": [
+   {
+    "label": "Trainingsfahrt Ticketkart (Bahn 1 oder 2, adults and children)",
+    "class": "other",
+    "type": "session",
+    "minutes": 11,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Trainingsfahrt Rennkart (with Race-Kart-Lizenz)",
+    "class": "race",
+    "type": "session",
+    "minutes": 11,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Adults and children holding the venue's Race-Kart-Lizenz"
+   },
+   {
+    "label": "Trainingsfahrt Doppelsitzer",
+    "class": "twin",
+    "type": "session",
+    "minutes": 11,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Driver min 1.40 m, passenger min 1.05 m"
+   },
+   {
+    "label": "Kinderfahrtraining Ticketkart (Bahn 1)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 11,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 14,
+    "min_height_cm": 135,
+    "day": "sunday",
+    "note": "Sundays 14:00-15:30 only"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "Mandatory under rental helmets; own helmet/balaclava allowed; gloves 3 EUR if needed"
+   },
+   {
+    "name": "Race-Kart-Lizenz card",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": false,
+    "note": "One-time card fee; issued after constant ~49.5 s laps in ticket karts on Bahn 1, min 85 kg, at race director's discretion"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.daytona-kartbahn.de/Preise/Traningsfahrten",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Price tables on the Trainingsfahrten page are script-rendered; read via the site's public DNN content API (module 494) behind that page."
+ },
+ {
+  "id": "way/33529699",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "f1-motodrom.de still returns 403 on the homepage and 404 on all tried paths; no content or price list available."
+ },
+ {
+  "id": "way/313108048",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.indy-cart.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Site only shows 'Wir haben voruebergehend geschlossen' (temporarily closed); no current price list published."
+ },
+ {
+  "id": "way/78364408",
+  "prices": [
+   {
+    "label": "Einzelfahrt - 15 Min",
+    "class": "other",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Happy Day Mittwoch (15 Min)",
+    "class": "other",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "wednesday",
+    "note": "Every Wednesday"
+   },
+   {
+    "label": "Einzelfahrt - 3er Ticket 15 Min (with break or consecutive)",
+    "class": "other",
+    "type": "session",
+    "minutes": 45,
+    "laps": null,
+    "price": 66,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 15 min, either with 15-min breaks or back-to-back"
+   },
+   {
+    "label": "Einzelfahrt 15 Min. Zweisitzer",
+    "class": "twin",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Price is per kart"
+   },
+   {
+    "label": "Einzelfahrt - 3er Ticket Zweisitzer",
+    "class": "twin",
+    "type": "session",
+    "minutes": 45,
+    "laps": null,
+    "price": 87,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 15 min; price is per kart"
+   },
+   {
+    "label": "Karting 30 (10 min qualifying + 20 min race), group booking",
+    "class": "other",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 44,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Same price Wed-Fri and Sat-Sun"
+   },
+   {
+    "label": "Karting 45 (15 min qualifying + 30 min race), group booking",
+    "class": "other",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 63,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Same price Wed-Fri and Sat-Sun"
+   },
+   {
+    "label": "Karting 60 (15 min warm-up + 15 min qualifying + 30 min race), group booking",
+    "class": "other",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 80,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Same price Wed-Fri and Sat-Sun"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=590",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Site's price page is empty; prices read from the public Apex Timing booking catalogue embedded on kartbahn-lueneburg.de/booking/einzelfahrten-gruppen/."
+ },
+ {
+  "id": "way/164688996",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://msc-oberflockenbach.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Motor club site (kart slalom, GTC, pitbike) has no rental karts and publishes no price list."
+ },
+ {
+  "id": "way/589950988",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "http://kac.kartland-sinn.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Domain still redirects to the outdated Kart-Aktiv-Club page (content from 2013/2014); no current venue price list, so the old club figures were not used."
+ },
+ {
+  "id": "way/1039053796",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "motodrom-schwerin.de returns a Cloudflare 'Just a moment' bot challenge (HTTP 403); not bypassed, no prices read."
+ },
+ {
+  "id": "way/510877435",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "http://www.kartbahnbueren.com/offline/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Site still offline ('Wir arbeiten gerade an unserer Website ... BALD VERFUEGBAR'); no price list."
+ },
+ {
+  "id": "way/89322197",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://mcrathenow.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Club states it offers no rental karts ('KEINEN Leihkartbetrieb'), so there is no rental price list to recover."
+ },
+ {
+  "id": "way/219979201",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.mc-touring-strasburg.com/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Club site lists Go Kart only as a discipline with a phone number; no rental, price page, image or PDF price list (media library has none)."
+ },
+ {
+  "id": "way/165403103",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.saarlandring.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Site states 'Kein Leihkartbetrieb' (no rental karts); no rental price list exists."
+ },
+ {
+  "id": "way/392128609",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "http://www.msc-wittgenborn.de/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Club site still in maintenance mode ('bis auf Weiteres offline'); no content."
+ },
+ {
+  "id": "way/537479732",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Tageskarte Kart (own kart, day pass)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": "Track access for own karts; no rental karts offered"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://msc-walldorf-astoria.de/preise",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Price page lists only a 40 EUR kart day pass for own karts; no rental karts."
+ },
+ {
+  "id": "way/318606996",
+  "prices": [
+   {
+    "label": "Proevekart (trial in club race kart: Miniput, Micro 60, Mini 60, Junior 125, Senior 125)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 600,
+    "currency": "DKK",
+    "extras": false,
+    "member": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Includes 3-month trial membership and 3 x 10 min driving; one more 3 x 10 min allowed within the 3 months; helmet, suit, gloves lent; by appointment by phone"
+   }
+  ],
+  "fees": [],
+  "membership": "Club track (DASU licence and SAK membership needed for regular driving); trial package includes a 3-month trial membership",
+  "price_source": "http://www.sak-motorsport.dk/karting/proevekart",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "No public rental; the club's trial-kart page states 600 DKK for 3 x 10 min in a club race kart incl. 3-month trial membership (the Sommerkart 2026 PDF is a members' summer camp, not rental)."
+ },
+ {
+  "id": "way/547428233",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Proevemedlemskab (3-month trial membership)",
+    "amount": 200,
+    "currency": "DKK",
+    "period": "3 months",
+    "mandatory": false,
+    "note": "Deducted from the subscription if joining the club afterwards"
+   }
+  ],
+  "membership": "Club (DMKA) track; trial membership 200 DKK for three months",
+  "price_source": "https://www.dmka.dk/bliv-proevemedlem/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "DMKA karting page says a kart can be rented from the club, but no rental price is published; only the 200 DKK trial membership is stated."
+ },
+ {
+  "id": "way/139090965",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Banemedlemsskab (track membership, calendar year)",
+    "amount": 1833,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "Priser 2026; own kart and DASU licence required"
+   },
+   {
+    "name": "Engangstraening Micro 60 / Rotax Micro (single training, own kart)",
+    "amount": 150,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": "Priser 2026"
+   },
+   {
+    "name": "Engangstraening other classes (single training, own kart)",
+    "amount": 175,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": "Priser 2026"
+   }
+  ],
+  "membership": "Track membership 1833 DKK per calendar year (2026); box rental 761 DKK/year",
+  "price_source": "https://kbh-gokart.dk/priser.html",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Price page (Priser 2026) states 'Vi har ingen kartudlejning' (no rental karts); only own-kart track fees listed."
+ },
+ {
+  "id": "way/532894308",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "midtjyskgokart.dk returns 403 on the homepage and 404 on other paths (no site content hosted); no price list."
+ },
+ {
+  "id": "way/486318757",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Traeningsafgift daglig (daily training fee, own kart)",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": true,
+    "note": "Over and under 18"
+   },
+   {
+    "name": "1-dags licens inkl. forsikring (non-DASU members)",
+    "amount": 250,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningslicens",
+    "amount": 330,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Proevemedlemskab (trial membership)",
+    "amount": 350,
+    "currency": "DKK",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "Annual training fee 1200-2400 DKK depending on age/membership; active member with basic licence 900 DKK",
+  "price_source": "https://thymotorsport.dk/priser/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Club price page lists only own-kart training fees, licences and memberships; site news states no kart rental for tourists."
+ },
+ {
+  "id": "way/567296895",
+  "prices": [],
+  "fees": [
+   {
+    "name": "En dags gebyr (day fee, own kart) - MNJ members",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": true,
+    "note": "Senior and junior; Miniput 200 DKK; updated 14/1/2026"
+   },
+   {
+    "name": "En dags gebyr (day fee, own kart) - non-MNJ members",
+    "amount": 350,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": true,
+    "note": "Senior and junior; Miniput 250 DKK; DASU club membership required"
+   },
+   {
+    "name": "En dags DASU licens",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "Annual karting training fee for MNJ members: senior 1900 DKK, junior 1300 DKK, Miniput 650 DKK (non-members 2300/1700/900 DKK); DASU club membership required",
+  "price_source": "https://mnj.dk/karting-traeningskontingent",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Nysumbanen (MNJ) is a club track for own karts; training-fee page lists only day/annual fees, no rental karts."
+ },
+ {
+  "id": "way/466134641",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://viborgmotorklub.dk/gokartudlejning/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Rental is run by Viborg Kart Park (10 Dino Leisure Honda karts) on the club track as private/company events by arrangement via mail/phone; no prices published."
+ },
+ {
+  "id": "way/174687955",
+  "prices": [
+   {
+    "label": "Enfant - 10 minutes de roulage (120cc, 5.5 CV)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 11,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "10 minutes de roulage (270cc, 9 CV)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2 x 10 minutes de roulage, from 6 persons (270cc, 9 CV)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 30,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Group price, from 6 persons"
+   },
+   {
+    "label": "2 x 10 minutes de roulage, from 20 persons (270cc, 9 CV)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 28,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Group price, from 20 persons"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://karting-le-coteau.com/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Site now loads; 'Nos tarifs' pricing tables on the homepage read (Stage initiation marked 'NON DISPO'; booking required, deposit requested)."
+ },
+ {
+  "id": "way/712568193",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://abbeville-somme-karting.fr/",
+  "tracks": [
+   {
+    "name": "Piste communale d'Abbeville",
+    "length_m": 1163,
+    "width_m": 8,
+    "use": "licence holders"
+   }
+  ],
+  "checked_at": "2026-10-15",
+  "note": "Track use reserved for FFSA licence holders with approved own karts (day licence available); no rental karts or rental prices."
+ },
+ {
+  "id": "way/290678826",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Droit de piste journee (track fee, FFSA licence holders, ASKM members)",
+    "amount": 35,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": "2026; half day 20 EUR, annual 180 EUR"
+   },
+   {
+    "name": "Droit de piste journee (track fee, FFSA licence holders, non-members)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": "2026; half day 25 EUR, annual 220 EUR"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://askmartigues.fr/nos-tarifs/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Tariff page states 'AUCUNE LOCATION DISPONIBLE' (no kart loan or rental); only 2026 track fees for FFSA licence holders listed."
+ },
+ {
+  "id": "way/216109369",
+  "prices": [
+   {
+    "label": "Kart electrique enfant - jeton 5 mn",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 4,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 2,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 tokens bought = 1 free"
+   },
+   {
+    "label": "Kart Enfant (8 a 11 ans) - session 10 mn",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 12,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 8,
+    "max_age": 11,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "Single price, no degressive rate"
+   },
+   {
+    "label": "Kart 270cc GTR5 - session 10 mn",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kart 270cc GTR5 - 3 x 10 mn",
+    "class": "adult",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kart 270cc GTR5 - 10 x 10 mn",
+    "class": "adult",
+    "type": "session",
+    "minutes": 100,
+    "laps": null,
+    "price": 165,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Challenge karting en groupe (10 min free practice + 10 min timed + 20 min race)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 62,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "By reservation; individual race up to 13 people, team endurance from 13; prizes for top 3; 30% deposit"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.ardecheloisirsmecaniques.com/les-activites/karting/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Venue's own karting page now shows a per-person tariff table (individual sessions and group challenge)."
+ },
+ {
+  "id": "way/95700263",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://karting-varennes.fr/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Homepage states 'Circuit reserve a la competition'; practice only for licence/day-title holders with own karts, no rental prices."
+ },
+ {
+  "id": "way/1061101289",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.anneau-du-rhin.com/produit/karting/",
+  "tracks": [],
+  "checked_at": "2026-10-15",
+  "note": "Karting product (390 cc, 14 hp karts) is only for seminars/professional groups (min. 16 people, on request) and is marked 'en rupture et indisponible'; no price shown."
+ }
+]

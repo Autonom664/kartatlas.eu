@@ -1,0 +1,1082 @@
+{
+ "countries": [
+  "DK",
+  "SE"
+ ],
+ "sources_used": [
+  {
+   "name": "gokartbaner.dk (Danish outdoor track overview)",
+   "url": "https://gokartbaner.dk/",
+   "venues_listed": 16
+  },
+  {
+   "name": "reco.se motorbana category (top 25)",
+   "url": "https://www.reco.se/kategori/motorbana/1?lang=sv",
+   "venues_listed": 12
+  },
+  {
+   "name": "VisitDenmark / VisitHerning / bornholm.info listings",
+   "url": "https://www.visitdenmark.com/",
+   "venues_listed": 8
+  },
+  {
+   "name": "Thatsup activity listings (SE)",
+   "url": "https://thatsup.co.uk/",
+   "venues_listed": 5
+  },
+  {
+   "name": "Gokartcentralen locations",
+   "url": "https://www.gokartcentralen.se/",
+   "venues_listed": 2
+  },
+  {
+   "name": "GoKartCity locations",
+   "url": "https://www.gokartcity.club/",
+   "venues_listed": 2
+  },
+  {
+   "name": "Visit Dalarna",
+   "url": "https://visitdalarna.se/en/do/activities/gokartarena-dalarna",
+   "venues_listed": 2
+  },
+  {
+   "name": "Visit Småland",
+   "url": "https://www.visitsmaland.se/en/to-do/scandinavian-kartway-anderstorp/",
+   "venues_listed": 1
+  },
+  {
+   "name": "FIA article on Dansk Gokart Cup (no venue names)",
+   "url": "https://api.fia.com/news/dansk-gokart-cup-new-era-karting-denmark",
+   "venues_listed": 0
+  }
+ ],
+ "new_venues": [
+  {
+   "name": "Gokartcentralen Göteborg",
+   "address": "Bergslagsgatan 6, 411 04 Göteborg",
+   "town": "Göteborg",
+   "country": "SE",
+   "lat": 57.7127504,
+   "lon": 11.977179,
+   "type": "indoor",
+   "website": "https://gokartcentralen.se/",
+   "phone": "010-303 99 90",
+   "email": "hello@gokartcentralen.se",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": 14,
+     "class": "Standard kart (approx. 60 km/h)"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "JuniorKart"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "Dubbelkart (two-seat, driven with adult 18+)"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 140,
+    "note": "no minimum age; standard kart from 140 cm, JuniorKart from 125 cm, Dubbelkart from 90 cm with adult; under 13 registered by an adult"
+   },
+   "hours": "12:00-20:00 shown on site at capture (full schedule https://gokartcentralen.se/oppettider/)",
+   "prices": [
+    {
+     "label": "Drop-in 1 pass",
+     "class": "Standard/Junior/Dubbelkart (electric)",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 205,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "shared track, not bookable in advance; Speedkart add-on +20 kr per pass (requires qualifying time)"
+    },
+    {
+     "label": "Drop-in 2 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 410,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "2 x 8 min; Speedkart +40 kr"
+    },
+    {
+     "label": "Drop-in 3 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 24,
+     "laps": null,
+     "price": 550,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "3 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 5 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 40,
+     "laps": null,
+     "price": 890,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 10 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 80,
+     "laps": null,
+     "price": 1680,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "10 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 20 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 160,
+     "laps": null,
+     "price": 3150,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "20 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 50 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 400,
+     "laps": null,
+     "price": 7000,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "50 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 100 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 800,
+     "laps": null,
+     "price": 11300,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "100 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Hela banan (race booking)",
+     "class": null,
+     "type": "group",
+     "minutes": null,
+     "laps": null,
+     "price": 4400,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'from' price, priced per group of 10; 8-150 participants"
+    }
+   ],
+   "fees": [],
+   "membership": "Prepaid member account / credit packages (Speedkart included)",
+   "price_source": "https://gokartcentralen.se/priser/drop-in/",
+   "tracks": [
+    {
+     "name": "Gokartcentralen Göteborg indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.gokartcentralen.se/",
+    "https://gokartcentralen.se/priser/drop-in/",
+    "https://thatsup.co.uk/gothenburg/activity/gokartcentralen/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Indoor electric karting in central Göteborg. OSM has it as a node tagged highway=raceway named 'Gokartcentralen Göteborg' (no sport=karting), hence missing from the map. Different venue from existing Göteborgs Gokartcenter (Torslanda). Students 10% off, pensioners (65+) 20% off. The same drop-in price list is shown for both Gokartcentralen sites (no per-site difference stated).",
+   "osm_id": "node/2313335877"
+  },
+  {
+   "name": "Gokartcentralen Kungälv",
+   "address": "Arntorpsgatan 22, 442 45 Kungälv",
+   "town": "Kungälv",
+   "country": "SE",
+   "lat": 57.8965396,
+   "lon": 11.9320734,
+   "type": "indoor",
+   "website": "https://gokartcentralen.se/",
+   "phone": "010-303 99 90",
+   "email": "hello@gokartcentralen.se",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": 14,
+     "class": "Standard kart (approx. 60 km/h)"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "JuniorKart"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "Dubbelkart (two-seat, driven with adult 18+)"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 140,
+    "note": "no minimum age; standard kart from 140 cm, JuniorKart from 125 cm, Dubbelkart from 90 cm with adult; under 13 registered by an adult"
+   },
+   "hours": "12:00-20:00 shown on site at capture (full schedule https://gokartcentralen.se/oppettider/)",
+   "prices": [
+    {
+     "label": "Drop-in 1 pass",
+     "class": "Standard/Junior/Dubbelkart (electric)",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 205,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "shared track, not bookable in advance; Speedkart add-on +20 kr per pass (requires qualifying time)"
+    },
+    {
+     "label": "Drop-in 2 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 410,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "2 x 8 min; Speedkart +40 kr"
+    },
+    {
+     "label": "Drop-in 3 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 24,
+     "laps": null,
+     "price": 550,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "3 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 5 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 40,
+     "laps": null,
+     "price": 890,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 10 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 80,
+     "laps": null,
+     "price": 1680,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "10 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 20 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 160,
+     "laps": null,
+     "price": 3150,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "20 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 50 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 400,
+     "laps": null,
+     "price": 7000,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "50 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Drop-in 100 pass",
+     "class": null,
+     "type": "session",
+     "minutes": 800,
+     "laps": null,
+     "price": 11300,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "100 x 8 min, Speedkart included"
+    },
+    {
+     "label": "Hela banan (race booking)",
+     "class": null,
+     "type": "group",
+     "minutes": null,
+     "laps": null,
+     "price": 4400,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'from' price, priced per group of 10; 8-150 participants"
+    }
+   ],
+   "fees": [],
+   "membership": "Prepaid member account / credit packages (Speedkart included)",
+   "price_source": "https://gokartcentralen.se/priser/drop-in/",
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "Outdoor track (open when weather allows)",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.gokartcentralen.se/",
+    "https://gokartcentralen.se/priser/drop-in/",
+    "https://www.vastsverige.com/kungalv/produkter/gokartcentralen/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Indoor hall plus an outdoor track when the weather allows; also SIM racing. Geocode is only the street Arntorpsgatan (way/230405371, postcode 442 45), not the building. Students 10% off, pensioners (65+) 20% off. The same drop-in price list is shown for both Gokartcentralen sites (no per-site difference stated).",
+   "address_osm_id": "way/230405371"
+  },
+  {
+   "name": "Scandinavian Kartway",
+   "address": "Nennesmovägen 21, 334 33 Anderstorp",
+   "town": "Anderstorp",
+   "country": "SE",
+   "lat": 57.2686068,
+   "lon": 13.6155181,
+   "type": "outdoor",
+   "website": "https://www.hyrkart.se/",
+   "phone": "0371-171 90",
+   "email": "bokning@hyrkart.se",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Caroli Kart",
+     "engine": "270 cc",
+     "hp": null,
+     "class": "Adult rental kart (from 12 y), 15 pcs"
+    },
+    {
+     "chassis": null,
+     "engine": "120 cc",
+     "hp": null,
+     "class": "Children's kart, 4 pcs"
+    },
+    {
+     "chassis": null,
+     "engine": "270 cc",
+     "hp": null,
+     "class": "Two-seater (passenger from 5 y)"
+    }
+   ],
+   "ages": {
+    "min_age": 8,
+    "note": "drive alone from 8 if reaching the pedals; from 5 as passenger in two-seater; adult karts from 12 (kart list per hyrkart text quoted in search results/Visit Småland)"
+   },
+   "hours": null,
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Scandinavian Kartway (scaled copy of Scandinavian Raceway)",
+     "length_m": 555,
+     "width_m": 7,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.hyrkart.se/",
+    "https://hyrkart.understory.io/en",
+    "https://www.visitsmaland.se/en/to-do/scandinavian-kartway-anderstorp/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Opposite the main entrance of Scandinavian Raceway. Width 7-11 m plus ~2 m runoff; lap record 36.539 s (2022). Prices/hours not shown in fetched pages; the understory booking page said no experiences currently available (probably off-season). Geocode is only the street Nennesmovägen; no OSM karting object found.",
+   "address_osm_id": "way/1274626538"
+  },
+  {
+   "name": "Gokartarena Dalarna",
+   "address": "Industrivägen 24, 776 70 Vikmanshyttan",
+   "town": "Vikmanshyttan (Hedemora)",
+   "country": "SE",
+   "lat": 60.2950956,
+   "lon": 15.83119,
+   "type": "indoor",
+   "website": "https://www.gokartarena.se/",
+   "phone": "070-309 90 78",
+   "email": "info@gokartarena.se",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "Electric rental kart, 4-step speed limiter, remote slow-down"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 140,
+    "note": "min 140 cm (leg length decides); under 16 needs guardian present or signed consent"
+   },
+   "hours": "Tue-Thu 14-20, Fri 12-20, Sat 11-18, Sun 12-17",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Two-level indoor track",
+     "length_m": 400,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.gokartarena.se/",
+    "https://www.gokartarena.se/go-kart/",
+    "https://visitdalarna.se/en/do/activities/gokartarena-dalarna"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Operator PJ Racing Promotion AB. Sweden's first two-storey indoor track, 10 corners, ~30 s lap, races up to 50 people. OSM node 538152709 at the same address is tagged leisure=track named 'Hedemora Gokart' (older name, no sport=karting). Prices only in the booking system, not on the pages. Alt. phone 076-789 12 56.",
+   "osm_id": "node/538152709"
+  },
+  {
+   "name": "GoKartCity Helsingborg",
+   "address": "Sjögatan 5, 252 25 Helsingborg",
+   "town": "Helsingborg",
+   "country": "SE",
+   "lat": 56.035636,
+   "lon": 12.6973709,
+   "type": "indoor",
+   "website": "https://www.gokartcity.club/",
+   "phone": "076-170 05 11",
+   "email": "info@gokartcity.se",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "Standard kart"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "Dubbelkart"
+    }
+   ],
+   "ages": {},
+   "hours": "Drop-in Fri 14-19, Sat 11-19, Sun 12-18 (Mon-Thu closed); track booking daily 09-21",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.gokartcity.club/",
+   "tracks": [
+    {
+     "name": "GoKartCity Helsingborg indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.gokartcity.club/",
+    "https://www.eniro.se/gokartcity+i+malm%c3%b6+ab/14988741/firma"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Sister site of existing Gokartcity Malmö (operator Gokartcity Skåne AB). The site lists drop-in prices only for Malmö (205 kr per pass, double kart 220 kr), not explicitly for Helsingborg, so none copied. Electric karts per the company's own directory description. Geocode is only the street Sjögatan (postcode 252 25). Booking line 040-960120.",
+   "address_osm_id": "way/376569001"
+  },
+  {
+   "name": "Gokarthallen Halmstad",
+   "address": "Slottsmöllan 10, 302 31 Halmstad",
+   "town": "Halmstad",
+   "country": "SE",
+   "lat": 56.6832018,
+   "lon": 12.8619095,
+   "type": "indoor",
+   "website": "http://www.gokarthallen.nu/",
+   "phone": "035-18 77 00",
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "Caroli",
+     "engine": "Honda (dual catalytic converters), alkylate fuel",
+     "hp": null,
+     "class": "Adult kart, 12 pcs, ~60 km/h"
+    },
+    {
+     "chassis": "Dino",
+     "engine": null,
+     "hp": null,
+     "class": "Child kart, 6 pcs"
+    },
+    {
+     "chassis": "Caroli",
+     "engine": null,
+     "hp": null,
+     "class": "Two-seater (disabled drivers / children under 130 cm), 2 pcs"
+    }
+   ],
+   "ages": {
+    "min_age": 7,
+    "min_height_cm": 130,
+    "note": "adult kart min 12 y and 150 cm; child kart 7-12 y from 130 cm"
+   },
+   "hours": "Mon-Fri 14:00-20:00, Sat-Sun 12:00-18:00",
+   "prices": [
+    {
+     "label": "Drop-in stor kart",
+     "class": "Adult kart",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 180,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": 12,
+     "max_age": null,
+     "min_height_cm": 150,
+     "day": null,
+     "note": "not bookable, run as time allows"
+    },
+    {
+     "label": "Dubbelkart",
+     "class": "Two-seater",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 180,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Barnkart",
+     "class": "Child kart",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 160,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": 7,
+     "max_age": 12,
+     "min_height_cm": 130,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "MiniRace",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 12,
+     "price": 240,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person, laps total"
+    },
+    {
+     "label": "MidiRace",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 18,
+     "price": 350,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person, laps total"
+    },
+    {
+     "label": "MaxiRace",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 24,
+     "price": 460,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person, medals 1-3"
+    },
+    {
+     "label": "MegaRace",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 32,
+     "price": 575,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person, medals 1-3"
+    },
+    {
+     "label": "Grand Prix",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 39,
+     "price": 650,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person, medals 1-3"
+    },
+    {
+     "label": "1H Le Mans (lag)",
+     "class": null,
+     "type": "team",
+     "minutes": 60,
+     "laps": null,
+     "price": 4800,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "6 cars included, extra car 800 kr"
+    },
+    {
+     "label": "2H Le Mans (lag)",
+     "class": null,
+     "type": "team",
+     "minutes": 120,
+     "laps": null,
+     "price": 9600,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "6 cars included, extra car 1600 kr"
+    },
+    {
+     "label": "2H Sunday Le Mans",
+     "class": null,
+     "type": "team",
+     "minutes": 120,
+     "laps": null,
+     "price": 1600,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per car, book a week ahead"
+    },
+    {
+     "label": "Barnkalas",
+     "class": null,
+     "type": "party",
+     "minutes": 30,
+     "laps": null,
+     "price": 1800,
+     "currency": "SEK",
+     "extras": null,
+     "member": false,
+     "min_age": 7,
+     "max_age": 12,
+     "min_height_cm": 130,
+     "day": null,
+     "note": "5 child karts, 30 min driving, café free"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Late cancellation (<5 days)",
+     "amount": null,
+     "currency": "SEK",
+     "period": null,
+     "mandatory": false,
+     "note": "50% of booked value"
+    }
+   ],
+   "membership": null,
+   "price_source": "http://www.gokarthallen.nu/",
+   "tracks": [
+    {
+     "name": "Gokarthallen indoor track",
+     "length_m": 414,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "http://www.gokarthallen.nu/",
+    "https://thatsup.co.uk/halmstad/activity/gokarthallen/",
+    "https://www.destinationhalmstad.se/en/experience/sports-and-activities/indoor-activities"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Operator Gokarthallen i Halmstad AB; one of Sweden's oldest indoor tracks (1996/1998). Payment Swish/cash only. Nominatim found neither the address nor the venue: coordinates are ONLY the 302 31 postcode centroid (Slottsmöllan area) - needs manual placement."
+  },
+  {
+   "name": "Herning Go-Kart Center",
+   "address": "Mørupvej 27E, 7400 Herning",
+   "town": "Herning",
+   "country": "DK",
+   "lat": 56.124161,
+   "lon": 8.941305,
+   "type": "indoor",
+   "website": "https://www.herninggokart.dk/",
+   "phone": "+45 3026 7070",
+   "email": "info@herninggokart.dk",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "BIZ Karts",
+     "engine": null,
+     "hp": null,
+     "class": "Rental kart, up to 60 km/h"
+    }
+   ],
+   "ages": {},
+   "hours": "Open every day by appointment; holiday-closed 11-14 Oct 2026, open 15-18 Oct 2026",
+   "prices": [],
+   "fees": [],
+   "membership": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Indoor Flexi-Track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.herninggokart.dk/",
+    "https://www.visitherning.com/herning/things-do/herning-go-kart-center-gdk607605",
+    "https://www.krak.dk/herning+go-kart+center+aps/67235129/firma"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "'Midtjyllands største indendørs gokartbane'. Booked events, up to 8 karts at a time. Address from VisitHerning/Krak (not on fetched homepage); price page ('Løb & priser') not reachable. Geocode hits the address node 27E.",
+   "address_osm_id": "node/4135818874"
+  },
+  {
+   "name": "Bornholms Gokart Center",
+   "address": "Pederskervejen 9B, 3730 Nexø",
+   "town": "Nexø",
+   "country": "DK",
+   "lat": 55.050482,
+   "lon": 15.067313,
+   "type": "indoor",
+   "website": "https://www.bornkart.dk/",
+   "phone": "+45 2858 0701",
+   "email": "info@bornholmsgokartcenter.dk",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [],
+   "ages": {
+    "min_age": 7,
+    "min_height_cm": 120,
+    "note": "groups: Voksen 18+, Ung 13-17, Barn 7-12"
+   },
+   "hours": "Fri-Sun 13:00-20:00 (closes 17:00 if no later bookings) per bornholm.info",
+   "prices": [],
+   "fees": [
+    {
+     "name": "Hjelmhue (balaclava) if not own",
+     "amount": 20,
+     "currency": "DKK",
+     "period": "once",
+     "mandatory": false,
+     "note": "buy and keep"
+    }
+   ],
+   "membership": "Membership gives 20% discount for 6 months (per bornholm.info)",
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.bornkart.dk/",
+    "https://www.bornkart.dk/index.php/produkt/gokart-15-min-1-person/",
+    "https://bornholm.info/en/gokartcenter/",
+    "https://www.visitdenmark.com/denmark/explore/bornholms-gokart-center-gdk1154699"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Only kart venue found on Bornholm. Prices from the official Bornholm tourism listing; venue site only confirms products/age groups (homepage news outdated, 2020). Active per Trustpilot (71 reviews) and app.bornkart.dk. Geocode hits address node 9B. Prices on bornholm.info are a tourism listing, not used.",
+   "address_osm_id": "node/5650266883"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Power Racing Gokart Academy",
+   "town": "Herlev",
+   "country": "DK",
+   "source": "https://visitcopenhagen.com/copenhagen/planning/power-racing-gokart-academy-gdk1082862",
+   "why_unconfirmed": "Own site power-racing.dk fails (SSL cert belongs to hosting provider wannafind) - possibly defunct; no street address found"
+  },
+  {
+   "name": "Uppsala Gokart & Event AB (Saffransvägen 14, Storvreta) / 'Gokartcentret' Uppsala",
+   "town": "Storvreta (Uppsala)",
+   "country": "SE",
+   "source": "https://www.reco.se/kategori/motorbana/1?lang=sv ; https://thatsup.co.uk/uppsala/activity/gokartcentret/lists/",
+   "why_unconfirmed": "Directory only; may be the operator behind existing Race4all/Rörken (way/126230927); no own website found"
+  },
+  {
+   "name": "Dala Hyr-Kart AB",
+   "town": "Borlänge",
+   "country": "SE",
+   "source": "https://www.reco.se/kategori/motorbana/1?lang=sv",
+   "why_unconfirmed": "Directory entry only (Tärningsgatan 13, likely company address); no website or track found"
+  },
+  {
+   "name": "Tomelilla Hyrkart HB",
+   "town": "Tomelilla (Ullstorp 10)",
+   "country": "SE",
+   "source": "https://www.reco.se/kategori/motorbana/1?lang=sv ; https://osterlen.se/en/the-villages/wool-shed/",
+   "why_unconfirmed": "Tourism text confirms a go-kart track at Ullstorp next to Tomelilla airfield, but no own website/Facebook found; operating status unknown"
+  },
+  {
+   "name": "Jämtlands Motorklubbs Hyrkart",
+   "town": "Östersund",
+   "country": "SE",
+   "source": "https://visitostersund.se/en/jamtlands-motorklubbs-hyrkart/",
+   "why_unconfirmed": "Not fetched (call budget); may coincide with existing Multi Challenge (node/10444657637) or be a separate club track"
+  },
+  {
+   "name": "SMC Gokart",
+   "town": "Västberga (Stockholm)",
+   "country": "SE",
+   "source": "https://www.reco.se/kategori/hyra-bil/v%C3%A4stberga/1?lang=en",
+   "why_unconfirmed": "Single old directory review (~200 kr per 15 min); no website found, may be closed"
+  },
+  {
+   "name": "Leksand Sommarland go-karts",
+   "town": "Leksand",
+   "country": "SE",
+   "source": "https://leksandresort.se/en/aktiviteter-med-barn-i-dalarna/ ; https://coasterpedia.net/wiki/Leksand_Sommarland",
+   "why_unconfirmed": "Amusement-park attraction; Coasterpedia lists them as 'Driftkarts' (possibly drift-kart only) - not verified"
+  },
+  {
+   "name": "Gokart Öland AB (Landsvägen Vässby 33)",
+   "town": "Borgholm",
+   "country": "SE",
+   "source": "https://www.reco.se/kategori/motorbana/1?lang=sv",
+   "why_unconfirmed": "Directory only; may be the existing unnamed Borgholm track way/173523512 - not verified"
+  }
+ ],
+ "already_present": [
+  {
+   "name": "GokartArenan (Horns väg 5, 605 97 Norrköping)",
+   "existing_id": "way/297339947",
+   "comment": "Existing entry is unnamed; Nominatim puts Horns väg 5 at 58.5671,16.0811 (~150 m away). Thatsup lists GokartArenan there (indoor+outdoor karting, segway; 4.5 from 192 Google reviews). Nameable as 'GokartArenan'."
+  },
+  {
+   "name": "Fyns Karting Center (gokartbaner.dk)",
+   "existing_id": "way/892633637",
+   "comment": "gokartbaner.dk names the Søndersø track 'Fyns Karting Center'; existing name Søndersø Karting Klub is fine."
+  },
+  {
+   "name": "Grindsted Motor Ring (gokartbaner.dk)",
+   "existing_id": "node/2216849378",
+   "comment": "Same venue as Grindsted Gokart Klub; alternative track name."
+  },
+  {
+   "name": "Sønderborg Racing Center (gokartbaner.dk / VisitDenmark)",
+   "existing_id": "way/94984580",
+   "comment": "Track name of Als Gokart Klub's venue; existing name ok."
+  },
+  {
+   "name": "Gokartstadion Ös-We Ring",
+   "existing_id": "way/34627720",
+   "comment": "Present. A directory wrongly gives Bergslagsgatan 6 Göteborg for it - that address is Gokartcentralen Göteborg (new venue)."
+  },
+  {
+   "name": "Värmlands Gokartcenter",
+   "existing_id": "relation/10105432",
+   "comment": "Present (Kristinehamn). reco.se lists it at 'Kusåsen 1, Skövde' - probably a directory error; no action."
+  }
+ ],
+ "checked_at": "2026-10-15"
+}

@@ -1,0 +1,1588 @@
+{
+ "existing": [
+  {
+   "id": "way/1548010030",
+   "name": "Lunapark Sowiński",
+   "town": "Władysławowo",
+   "country": "PL",
+   "lat": 54.79328,
+   "lon": 18.41236,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1541010814",
+   "name": "Crossikowo",
+   "town": "Ustka",
+   "country": "PL",
+   "lat": 54.56607,
+   "lon": 16.88787,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/13257241232",
+   "name": "Crazy Carts",
+   "town": "Pogórze",
+   "country": "PL",
+   "lat": 54.56401,
+   "lon": 18.50338,
+   "website": "https://crazycarts.pl/",
+   "hidden": true
+  },
+  {
+   "id": "node/12197759323",
+   "name": "KartCenter Sopot",
+   "town": "Sopot",
+   "country": "PL",
+   "lat": 54.43397,
+   "lon": 18.56331,
+   "website": "https://kartcenter.pl/sopot-outdoor/",
+   "hidden": false
+  },
+  {
+   "id": "node/12108615161",
+   "name": "Crazy Carts",
+   "town": "Gdańsk",
+   "country": "PL",
+   "lat": 54.42518,
+   "lon": 18.49002,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/11503408936",
+   "name": "Crazy Carts",
+   "town": "Gdańsk",
+   "country": "PL",
+   "lat": 54.40426,
+   "lon": 18.58656,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/366889241",
+   "name": "PitStop Gdańsk",
+   "town": "Gdańsk",
+   "country": "PL",
+   "lat": 54.38944,
+   "lon": 18.63751,
+   "website": "https://pitstop-gdansk.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1320181897",
+   "name": "E1GOKART Gdańsk",
+   "town": "Gdańsk",
+   "country": "PL",
+   "lat": 54.36895,
+   "lon": 18.47292,
+   "website": "https://gdansk.e1gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1388775118",
+   "name": null,
+   "town": "Bartoszyce",
+   "country": "PL",
+   "lat": 54.25198,
+   "lon": 20.82722,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/2574756529",
+   "name": "Autodrom Zespołu Szkół Rolniczych w Rusocinie",
+   "town": "Rusocin",
+   "country": "PL",
+   "lat": 54.23211,
+   "lon": 18.63066,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/361609526",
+   "name": "Autodrom Pomorze (ODTJ PORD Pszczółki)",
+   "town": "Pszczółki",
+   "country": "PL",
+   "lat": 54.17808,
+   "lon": 18.71091,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "node/5218801154",
+   "name": "GO-KARTS",
+   "town": "Kołobrzeg",
+   "country": "PL",
+   "lat": 54.16815,
+   "lon": 15.55452,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/7276301134",
+   "name": "Park Rozrywki Dziki Zachód",
+   "town": "Zieleniewo",
+   "country": "PL",
+   "lat": 54.13882,
+   "lon": 15.55616,
+   "website": "https://dzikizachod.com.pl/",
+   "hidden": true
+  },
+  {
+   "id": "way/194071643",
+   "name": null,
+   "town": "Suwałki",
+   "country": "PL",
+   "lat": 54.10275,
+   "lon": 22.91239,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/2378222100",
+   "name": "Tor kartingowy",
+   "town": "Ełk",
+   "country": "PL",
+   "lat": 53.8442,
+   "lon": 22.36999,
+   "website": "https://www.mark-tor.elk.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1422551589",
+   "name": null,
+   "town": "gmina Barczewo",
+   "country": "PL",
+   "lat": 53.81343,
+   "lon": 20.795,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/155151329",
+   "name": "Tor Kartingowy Kormoran Olsztyn",
+   "town": "Olsztyn",
+   "country": "PL",
+   "lat": 53.77531,
+   "lon": 20.53045,
+   "website": "https://www.olsztyn.torkormoran.pl",
+   "hidden": false
+  },
+  {
+   "id": "way/654470290",
+   "name": null,
+   "town": "Chojnice",
+   "country": "PL",
+   "lat": 53.68167,
+   "lon": 17.5373,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1051800201",
+   "name": "Canpol Racing",
+   "town": "gmina Człuchów",
+   "country": "PL",
+   "lat": 53.6513,
+   "lon": 17.31662,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/11903321405",
+   "name": "Tor Kartingowy DRIFT",
+   "town": "Grudziądz",
+   "country": "PL",
+   "lat": 53.49156,
+   "lon": 18.79504,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/235991206",
+   "name": "Tor Gokartowy Szczecin",
+   "town": "Szczecin",
+   "country": "PL",
+   "lat": 53.45802,
+   "lon": 14.5057,
+   "website": "https://www.gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/9045475232",
+   "name": "Silver Gokart Center",
+   "town": "gmina Kołbaskowo",
+   "country": "PL",
+   "lat": 53.38993,
+   "lon": 14.49877,
+   "website": "https://silverhotel.pl/gokart-center/o-torze/",
+   "hidden": false
+  },
+  {
+   "id": "way/845057578",
+   "name": "Kurpiowska Kraina",
+   "town": "Wydmusy",
+   "country": "PL",
+   "lat": 53.33684,
+   "lon": 21.41288,
+   "website": "https://www.kurpiowskakraina.com.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/761020964",
+   "name": "Tor kartingowy",
+   "town": "Wasilków",
+   "country": "PL",
+   "lat": 53.18497,
+   "lon": 23.15041,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1155416602",
+   "name": "Tor Kartingowy",
+   "town": "Fasty",
+   "country": "PL",
+   "lat": 53.16165,
+   "lon": 23.0675,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/12463495441",
+   "name": "Gokart Extreme - Pilski Tor Kartingowy",
+   "town": "Piła",
+   "country": "PL",
+   "lat": 53.14247,
+   "lon": 16.7267,
+   "website": "https://gokartextreme.pl/",
+   "hidden": false
+  },
+  {
+   "id": "relation/17868808",
+   "name": "Sadkarting",
+   "town": "Białystok",
+   "country": "PL",
+   "lat": 53.14028,
+   "lon": 23.20323,
+   "website": "https://www.sadkarting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "relation/14629604",
+   "name": "Tor Wyścigowy Uniwerstal Wrak Race",
+   "town": "Białystok",
+   "country": "PL",
+   "lat": 53.12513,
+   "lon": 23.08304,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/46237687",
+   "name": "Kartodrom Bydgoszcz",
+   "town": "Bydgoszcz",
+   "country": "PL",
+   "lat": 53.11994,
+   "lon": 18.06515,
+   "website": "https://kartodrom.bydgoszcz.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1312646351",
+   "name": "Gokarty",
+   "town": "Solec Kujawski",
+   "country": "PL",
+   "lat": 53.08103,
+   "lon": 18.235,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1164543364",
+   "name": "MotoPark Toruń",
+   "town": "Toruń",
+   "country": "PL",
+   "lat": 53.04537,
+   "lon": 18.61371,
+   "website": "https://www.motoparktorun.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1156687776",
+   "name": null,
+   "town": "Toruń",
+   "country": "PL",
+   "lat": 53.03759,
+   "lon": 18.66293,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1197167809",
+   "name": "MotoPark Toruń",
+   "town": "Toruń",
+   "country": "PL",
+   "lat": 53.02621,
+   "lon": 18.53968,
+   "website": "https://www.motoparktorun.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1427663691",
+   "name": "Tor Toruń",
+   "town": "Toruń",
+   "country": "PL",
+   "lat": 53.02328,
+   "lon": 18.54984,
+   "website": "https://www.motoparktorun.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/303296499",
+   "name": "AWIX Racing Arena",
+   "town": "Toruń",
+   "country": "PL",
+   "lat": 53.01895,
+   "lon": 18.54306,
+   "website": "https://racingarena.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/12645898898",
+   "name": "Strzelce Racing Center",
+   "town": "gmina Strzelce Krajeńskie",
+   "country": "PL",
+   "lat": 52.8886,
+   "lon": 15.53518,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/13796539259",
+   "name": null,
+   "town": "gmina Cedynia",
+   "country": "PL",
+   "lat": 52.84351,
+   "lon": 14.13068,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/823000123",
+   "name": null,
+   "town": "gmina Rogowo",
+   "country": "PL",
+   "lat": 52.74141,
+   "lon": 17.64972,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1104820795",
+   "name": "E1GOKART Poznań-Skórzewo",
+   "town": "Skórzewo",
+   "country": "PL",
+   "lat": 52.39242,
+   "lon": 16.80543,
+   "website": "https://poznan-skorzewo.e1gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1341655197",
+   "name": "GoKart Poznań",
+   "town": "Poznań",
+   "country": "PL",
+   "lat": 52.37511,
+   "lon": 16.98177,
+   "website": "https://gokartpoznan.pl",
+   "hidden": false
+  },
+  {
+   "id": "way/1415714770",
+   "name": "E1GOKART Poznań Rabowice",
+   "town": "Rabowice",
+   "country": "PL",
+   "lat": 52.37502,
+   "lon": 17.1138,
+   "website": "https://poznan-rabowice.e1gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1272521465",
+   "name": "Le Mans Poznań",
+   "town": "Jaryszki",
+   "country": "PL",
+   "lat": 52.33642,
+   "lon": 17.01234,
+   "website": "https://poznan.lemans.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/11033970860",
+   "name": "A1Karting",
+   "town": "Warszawa",
+   "country": "PL",
+   "lat": 52.31536,
+   "lon": 21.0152,
+   "website": "https://a1karting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1325491227",
+   "name": null,
+   "town": "Marki",
+   "country": "PL",
+   "lat": 52.30662,
+   "lon": 21.09008,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/13410245158",
+   "name": "Pole Position Bemowo",
+   "town": "Warszawa",
+   "country": "PL",
+   "lat": 52.26517,
+   "lon": 20.93152,
+   "website": "https://www.pole-position.pl/?page_id=387",
+   "hidden": false
+  },
+  {
+   "id": "way/1028405681",
+   "name": "Kartingowy PGE Narodowy",
+   "town": "Warszawa",
+   "country": "PL",
+   "lat": 52.24045,
+   "lon": 21.04263,
+   "website": "https://kartingowynarodowy.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/867476105",
+   "name": null,
+   "town": "Warszawa",
+   "country": "PL",
+   "lat": 52.19414,
+   "lon": 20.87502,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1568043338",
+   "name": "KCR – Kartingowe Centrum Radol",
+   "town": "Stare Miasto",
+   "country": "PL",
+   "lat": 52.18772,
+   "lon": 18.2268,
+   "website": "https://www.kcrkarting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1375092530",
+   "name": "KartRacingClub",
+   "town": "Guzów",
+   "country": "PL",
+   "lat": 52.12801,
+   "lon": 20.32804,
+   "website": "https://kartracingclub.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/691243123",
+   "name": "Pole Position Janki",
+   "town": "Sękocin Stary",
+   "country": "PL",
+   "lat": 52.12255,
+   "lon": 20.88934,
+   "website": "https://www.pole-position.pl/?page_id=413",
+   "hidden": false
+  },
+  {
+   "id": "node/11081505298",
+   "name": "Top Kart Arena",
+   "town": "Piaseczno",
+   "country": "PL",
+   "lat": 52.08615,
+   "lon": 21.02721,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1374849199",
+   "name": "Racing Center Warsaw",
+   "town": "Stara Wieś",
+   "country": "PL",
+   "lat": 52.08266,
+   "lon": 20.77719,
+   "website": "https://rcw.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/378900002",
+   "name": "WallraV Race Center",
+   "town": "Zielona Góra",
+   "country": "PL",
+   "lat": 51.93989,
+   "lon": 15.60089,
+   "website": "https://www.wallravracecenter.com/",
+   "hidden": false
+  },
+  {
+   "id": "node/6270147882",
+   "name": "Gokart Arena",
+   "town": "Łódź",
+   "country": "PL",
+   "lat": 51.78202,
+   "lon": 19.46654,
+   "website": "https://gokartarena.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/704385231",
+   "name": "Tor samochodów elektrycznych",
+   "town": "gmina Rawa Mazowiecka",
+   "country": "PL",
+   "lat": 51.76385,
+   "lon": 20.32103,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "node/7716694252",
+   "name": "BS KARTING",
+   "town": "Radom",
+   "country": "PL",
+   "lat": 51.39836,
+   "lon": 21.1674,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/643324411",
+   "name": null,
+   "town": "Bolesławiec",
+   "country": "PL",
+   "lat": 51.27462,
+   "lon": 15.58306,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/9067756270",
+   "name": "Tor Kartingowy Le Mans Wrocław",
+   "town": "Wrocław",
+   "country": "PL",
+   "lat": 51.14287,
+   "lon": 16.94387,
+   "website": "https://wroclaw.lemans.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1172858393",
+   "name": "TOP1 KARTING",
+   "town": "Wrocław",
+   "country": "PL",
+   "lat": 51.09721,
+   "lon": 16.93019,
+   "website": "https://top1karting.pl",
+   "hidden": false
+  },
+  {
+   "id": "way/433110600",
+   "name": "Samochodziki elektryczne",
+   "town": "Bałtów",
+   "country": "PL",
+   "lat": 51.0152,
+   "lon": 21.55133,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/560383355",
+   "name": "Halowy Tor Kartingowy E1Gokart",
+   "town": "Kielce",
+   "country": "PL",
+   "lat": 50.89825,
+   "lon": 20.62062,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/11107269281",
+   "name": "Tor Kartingowy M3Racing",
+   "town": "Świdnica",
+   "country": "PL",
+   "lat": 50.83485,
+   "lon": 16.50085,
+   "website": "https://m3racing.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1328947920",
+   "name": "E1GOKART Kielce",
+   "town": "Kielce",
+   "country": "PL",
+   "lat": 50.80762,
+   "lon": 20.62832,
+   "website": "https://kielce.e1gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/311074962",
+   "name": "Tor Wyrazów",
+   "town": "gmina Blachownia",
+   "country": "PL",
+   "lat": 50.78253,
+   "lon": 19.00123,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1361546931",
+   "name": "Crazy Carts - Akademia Driftingu",
+   "town": "Wałbrzych",
+   "country": "PL",
+   "lat": 50.76665,
+   "lon": 16.26719,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/4692352892",
+   "name": "Cartway Kryty Tor Gokartowy",
+   "town": "Zamość",
+   "country": "PL",
+   "lat": 50.72484,
+   "lon": 23.26953,
+   "website": "https://www.cartway.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/5888661145",
+   "name": "Tor kartingowy DS Speed",
+   "town": "Zamość",
+   "country": "PL",
+   "lat": 50.71436,
+   "lon": 23.2304,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/918036196",
+   "name": null,
+   "town": "Rzeczka",
+   "country": "PL",
+   "lat": 50.66377,
+   "lon": 16.46424,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/11118813494",
+   "name": "Gokart Park",
+   "town": "Jędrzejów",
+   "country": "PL",
+   "lat": 50.63557,
+   "lon": 20.26371,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "relation/19020303",
+   "name": null,
+   "town": "Rudnik nad Sanem",
+   "country": "PL",
+   "lat": 50.43811,
+   "lon": 22.2533,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/8815465640",
+   "name": "S-Kart Bytom",
+   "town": "Bytom",
+   "country": "PL",
+   "lat": 50.351,
+   "lon": 18.87919,
+   "website": "https://www.s-kart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1186493959",
+   "name": "Emotion Karting",
+   "town": "Bytom",
+   "country": "PL",
+   "lat": 50.3474,
+   "lon": 18.84788,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1124992595",
+   "name": "Miasteczko Rowerowe",
+   "town": "Nowa Sarzyna",
+   "country": "PL",
+   "lat": 50.31936,
+   "lon": 22.34061,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/1186081737",
+   "name": "Tor24.pl Zabrze",
+   "town": "Zabrze",
+   "country": "PL",
+   "lat": 50.31842,
+   "lon": 18.75437,
+   "website": "https://tor24.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1090764881",
+   "name": "E1GOKART Chorzów",
+   "town": "Chorzów",
+   "country": "PL",
+   "lat": 50.31337,
+   "lon": 18.97213,
+   "website": "https://chorzow.e1gokart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/216167772",
+   "name": "Tor Kartingowy AUTODROM (PitStop) Sosnowiec",
+   "town": "Sosnowiec",
+   "country": "PL",
+   "lat": 50.29508,
+   "lon": 19.11402,
+   "website": "https://gokarty.sosnowiec.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/337167413",
+   "name": "ForzaKart",
+   "town": "Jaworzno",
+   "country": "PL",
+   "lat": 50.22094,
+   "lon": 19.24638,
+   "website": "https://www.forzakart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/198291405",
+   "name": "Racing Park Chrzanów",
+   "town": "Chrzanów",
+   "country": "PL",
+   "lat": 50.12653,
+   "lon": 19.3671,
+   "website": "https://racingpark.pl/chrzanow/",
+   "hidden": false
+  },
+  {
+   "id": "node/11688436893",
+   "name": "WRT Karting",
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.09038,
+   "lon": 20.03489,
+   "website": "http://krakow.wrt-karting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/12081703669",
+   "name": "Karting Arena Kraków",
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.08947,
+   "lon": 19.95083,
+   "website": "https://kartingarena.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/338074045",
+   "name": "ICF karting",
+   "town": "Rzeszów",
+   "country": "PL",
+   "lat": 50.04789,
+   "lon": 21.99317,
+   "website": "https://icfkarting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/11042993196",
+   "name": "Motodrom",
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.03849,
+   "lon": 20.05732,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/203268457",
+   "name": "Reskart Racing",
+   "town": "Rzeszów",
+   "country": "PL",
+   "lat": 50.03618,
+   "lon": 21.99057,
+   "website": "https://reskart.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1166210769",
+   "name": null,
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.03434,
+   "lon": 19.90047,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/13016721932",
+   "name": "WRT 2.0 Kapelanka",
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.03231,
+   "lon": 19.92535,
+   "website": "http://krakow.wrt-karting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/345803624",
+   "name": null,
+   "town": "Borek",
+   "country": "PL",
+   "lat": 50.02973,
+   "lon": 20.52318,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/340462059",
+   "name": "GoKarting Center",
+   "town": "Kraków",
+   "country": "PL",
+   "lat": 50.0273,
+   "lon": 20.04956,
+   "website": "https://gokarting.com.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/10706887712",
+   "name": "Drift Park Extreme",
+   "town": "Tarnów",
+   "country": "PL",
+   "lat": 50.01374,
+   "lon": 20.97471,
+   "website": "https://www.driftpark.pl/",
+   "hidden": true
+  },
+  {
+   "id": "way/714617591",
+   "name": "Tor Sportowy Czyżoring",
+   "town": "Wodzisław Śląski",
+   "country": "PL",
+   "lat": 49.99031,
+   "lon": 18.43431,
+   "website": "http://www.torkartingowy.wodzislaw.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/6334079729",
+   "name": "SKW Racing Park",
+   "town": "Skawina",
+   "country": "PL",
+   "lat": 49.97384,
+   "lon": 19.78694,
+   "website": "https://racingpark.pl/skawina/",
+   "hidden": false
+  },
+  {
+   "id": "node/12836334870",
+   "name": "Twister Mini Kart",
+   "town": "Inwałd",
+   "country": "PL",
+   "lat": 49.86922,
+   "lon": 19.41058,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/130406933",
+   "name": "ZygZak Karting",
+   "town": "Bielsko-Biała",
+   "country": "PL",
+   "lat": 49.82704,
+   "lon": 19.05622,
+   "website": "https://zygzak-karting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/3384106901",
+   "name": "\"Nitro Karting\"Tor Kartingowy",
+   "town": "Nowy Sącz",
+   "country": "PL",
+   "lat": 49.58564,
+   "lon": 20.67199,
+   "website": "https://nitrokarting.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1232001720",
+   "name": "Kartingmania Zwardoń",
+   "town": "gmina Rajcza",
+   "country": "PL",
+   "lat": 49.50997,
+   "lon": 18.97566,
+   "website": "http://kartingmania.pl/",
+   "hidden": false
+  },
+  {
+   "id": "way/1127486983",
+   "name": null,
+   "town": "Jałowe",
+   "country": "PL",
+   "lat": 49.41294,
+   "lon": 22.6385,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1162491249",
+   "name": null,
+   "town": "Tylicz",
+   "country": "PL",
+   "lat": 49.39893,
+   "lon": 21.02776,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1125210707",
+   "name": null,
+   "town": "Białka Tatrzańska",
+   "country": "PL",
+   "lat": 49.39028,
+   "lon": 20.09956,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/526922862",
+   "name": "Pitlane Gokarty Wrocław",
+   "town": "Wrocław",
+   "country": "PL",
+   "lat": 51.0964161,
+   "lon": 17.034822,
+   "website": "https://www.gokartywroclaw.pl/",
+   "hidden": false
+  },
+  {
+   "id": "node/3958863483",
+   "name": "Motokáry Liberec",
+   "town": "Liberec",
+   "country": "CZ",
+   "lat": 50.76478,
+   "lon": 15.05534,
+   "website": "https://www.motokary-liberec.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/252520329",
+   "name": "motokárová dráha",
+   "town": "Rokytnice nad Jizerou",
+   "country": "CZ",
+   "lat": 50.72942,
+   "lon": 15.47833,
+   "website": "http://www.hotel-stary-mlyn.com/motokarova-draha/",
+   "hidden": false
+  },
+  {
+   "id": "node/3222962495",
+   "name": "Motokáry Teplice (Metropole Teplice)",
+   "town": "Teplice",
+   "country": "CZ",
+   "lat": 50.65169,
+   "lon": 13.83744,
+   "website": "https://www.metropoleteplice.cz/motokary",
+   "hidden": false
+  },
+  {
+   "id": "way/134968786",
+   "name": "Carbonia Racing Arena",
+   "town": "Most",
+   "country": "CZ",
+   "lat": 50.51582,
+   "lon": 13.65016,
+   "website": "https://carbonia.cz/motokary/",
+   "hidden": false
+  },
+  {
+   "id": "way/1305474871",
+   "name": null,
+   "town": "Nová Paka",
+   "country": "CZ",
+   "lat": 50.49282,
+   "lon": 15.50922,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/6754045481",
+   "name": "Motokáry Javorník",
+   "town": "Javorník",
+   "country": "CZ",
+   "lat": 50.42522,
+   "lon": 16.99607,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/14057139363",
+   "name": "Yety Motosport MX Park",
+   "town": "Kraslice",
+   "country": "CZ",
+   "lat": 50.30922,
+   "lon": 12.52689,
+   "website": "https://www.facebook.com/YetyMotosport/",
+   "hidden": true
+  },
+  {
+   "id": "way/1363273378",
+   "name": null,
+   "town": "Mžany",
+   "country": "CZ",
+   "lat": 50.3083,
+   "lon": 15.67321,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/12617704650",
+   "name": "Motokros",
+   "town": "Nechanice",
+   "country": "CZ",
+   "lat": 50.23172,
+   "lon": 15.65103,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/1239464809",
+   "name": null,
+   "town": "Hradec Králové",
+   "country": "CZ",
+   "lat": 50.17608,
+   "lon": 15.77964,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/242996795",
+   "name": "Praga Silmet Aréna",
+   "town": "SO Praha 20",
+   "country": "CZ",
+   "lat": 50.11654,
+   "lon": 14.60684,
+   "website": "https://pragaarena.cz/",
+   "hidden": false
+  },
+  {
+   "id": "node/11210902125",
+   "name": null,
+   "town": "Rakovník",
+   "country": "CZ",
+   "lat": 50.11384,
+   "lon": 13.73558,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/512655813",
+   "name": "KartPlanet",
+   "town": "SO Praha 9",
+   "country": "CZ",
+   "lat": 50.09986,
+   "lon": 14.5128,
+   "website": "https://kartplanet.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1220362473",
+   "name": "FUN arena Cheb (Kart Arena Cheb)",
+   "town": "Odrava",
+   "country": "CZ",
+   "lat": 50.08649,
+   "lon": 12.45141,
+   "website": "https://www.funarenacheb.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1056850452",
+   "name": null,
+   "town": "SO Praha 5",
+   "country": "CZ",
+   "lat": 50.06711,
+   "lon": 14.35155,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/4968398122",
+   "name": "CMK Praha motokáry (CMKarting Zličín)",
+   "town": "Praha",
+   "country": "CZ",
+   "lat": 50.05877,
+   "lon": 14.29514,
+   "website": "https://www.cmkarting.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1410089894",
+   "name": null,
+   "town": "Pavlíkov",
+   "country": "CZ",
+   "lat": 50.05732,
+   "lon": 13.74758,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/34420693",
+   "name": "Kart-centrum Radotín",
+   "town": "SO Praha 16",
+   "country": "CZ",
+   "lat": 49.98942,
+   "lon": 14.37719,
+   "website": "https://www.kart-centrum.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1137646442",
+   "name": null,
+   "town": "Kutná Hora",
+   "country": "CZ",
+   "lat": 49.94575,
+   "lon": 15.27914,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1246288163",
+   "name": "Půjčovna motokár Autodrom Vysoké Mýto",
+   "town": "Vysoké Mýto",
+   "country": "CZ",
+   "lat": 49.93998,
+   "lon": 16.17003,
+   "website": "https://www.autodromvmyto.cz/autodrom/pujcovna-motokar/",
+   "hidden": false
+  },
+  {
+   "id": "way/360164280",
+   "name": "Motokáry Hořovice",
+   "town": "Hořovice",
+   "country": "CZ",
+   "lat": 49.84585,
+   "lon": 13.91157,
+   "website": "https://motokaryhorovice.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1040049653",
+   "name": null,
+   "town": "Okřesaneč",
+   "country": "CZ",
+   "lat": 49.84479,
+   "lon": 15.47535,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1127732545",
+   "name": null,
+   "town": "Ostrava",
+   "country": "CZ",
+   "lat": 49.84339,
+   "lon": 18.22677,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1389597361",
+   "name": null,
+   "town": "Ostrava",
+   "country": "CZ",
+   "lat": 49.8253,
+   "lon": 18.2174,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/6312874546",
+   "name": "E-motion Park Ostrava",
+   "town": "Ostrava",
+   "country": "CZ",
+   "lat": 49.80044,
+   "lon": 18.22443,
+   "website": "https://e-kary.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1479858209",
+   "name": null,
+   "town": "Úlice",
+   "country": "CZ",
+   "lat": 49.79014,
+   "lon": 13.16851,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1374250838",
+   "name": null,
+   "town": "Havířov",
+   "country": "CZ",
+   "lat": 49.7892,
+   "lon": 18.40275,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1244235669",
+   "name": null,
+   "town": "Uničov",
+   "country": "CZ",
+   "lat": 49.77524,
+   "lon": 17.12798,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1471605096",
+   "name": null,
+   "town": "Chotěbuz",
+   "country": "CZ",
+   "lat": 49.76723,
+   "lon": 18.59013,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/200922128",
+   "name": null,
+   "town": "Moravská Třebová",
+   "country": "CZ",
+   "lat": 49.76286,
+   "lon": 16.6568,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1290080984",
+   "name": null,
+   "town": "Svitavy",
+   "country": "CZ",
+   "lat": 49.75228,
+   "lon": 16.45226,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/12723301387",
+   "name": "KartArena Plzeň",
+   "town": "Plzeň",
+   "country": "CZ",
+   "lat": 49.74166,
+   "lon": 13.38474,
+   "website": "https://motokaryplzen.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/304341132",
+   "name": "Motokáry Krmelín",
+   "town": "Krmelín",
+   "country": "CZ",
+   "lat": 49.73373,
+   "lon": 18.24826,
+   "website": "https://www.facebook.com/MotokaryKrmelin",
+   "hidden": false
+  },
+  {
+   "id": "way/308784917",
+   "name": "PSKART - Půjčovna motokár Mošnov-Albrechtičky",
+   "town": "Albrechtičky",
+   "country": "CZ",
+   "lat": 49.70943,
+   "lon": 18.11377,
+   "website": "http://www.pskart.cz",
+   "hidden": false
+  },
+  {
+   "id": "way/293789996",
+   "name": "sportovní formule Bouzov",
+   "town": "Bouzov",
+   "country": "CZ",
+   "lat": 49.69911,
+   "lon": 16.89055,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/550953358",
+   "name": "STEEL RING Třinec",
+   "town": "Třinec",
+   "country": "CZ",
+   "lat": 49.69168,
+   "lon": 18.66804,
+   "website": "https://www.steelring.cz/",
+   "hidden": false
+  },
+  {
+   "id": "node/11181570558",
+   "name": "LAMBORGHINI KART ARENA Olomouc",
+   "town": "Olomouc",
+   "country": "CZ",
+   "lat": 49.59741,
+   "lon": 17.25751,
+   "website": "http://www.motokary-olomouc.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/507817684",
+   "name": null,
+   "town": "Nový Jičín",
+   "country": "CZ",
+   "lat": 49.59155,
+   "lon": 17.99379,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1559395264",
+   "name": null,
+   "town": "Čejov",
+   "country": "CZ",
+   "lat": 49.57043,
+   "lon": 15.37094,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "node/12818688068",
+   "name": "Karting arena lipník",
+   "town": "Lipník nad Bečvou",
+   "country": "CZ",
+   "lat": 49.53305,
+   "lon": 17.59276,
+   "website": "https://www.kartingarena.cz",
+   "hidden": false
+  },
+  {
+   "id": "way/119557712",
+   "name": "Motokáry",
+   "town": "Trojanovice",
+   "country": "CZ",
+   "lat": 49.52377,
+   "lon": 18.20103,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1227154423",
+   "name": null,
+   "town": "Přerov",
+   "country": "CZ",
+   "lat": 49.46793,
+   "lon": 17.44118,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1156164337",
+   "name": "Dopravní hřiště",
+   "town": "Loukov",
+   "country": "CZ",
+   "lat": 49.42388,
+   "lon": 17.72538,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/1305474888",
+   "name": "Starkar Motokárová dráha",
+   "town": "Jihlava",
+   "country": "CZ",
+   "lat": 49.39321,
+   "lon": 15.60685,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/216393104",
+   "name": null,
+   "town": "Blansko",
+   "country": "CZ",
+   "lat": 49.36637,
+   "lon": 16.64037,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1536223673",
+   "name": null,
+   "town": "Velké Meziříčí",
+   "country": "CZ",
+   "lat": 49.34846,
+   "lon": 16.00627,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/186521896",
+   "name": "Autodrom Písek - Hradiště (AK Hradiště v AČR)",
+   "town": "Písek",
+   "country": "CZ",
+   "lat": 49.30268,
+   "lon": 14.11442,
+   "website": "https://www.autoklub-pisek.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/224063895",
+   "name": "RC cars playground",
+   "town": "Otrokovice",
+   "country": "CZ",
+   "lat": 49.21054,
+   "lon": 17.53137,
+   "website": null,
+   "hidden": true
+  },
+  {
+   "id": "way/421326635",
+   "name": "Kart Arena Brno",
+   "town": "Brno",
+   "country": "CZ",
+   "lat": 49.18397,
+   "lon": 16.58176,
+   "website": "https://www.motokary-brno.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/1317594562",
+   "name": null,
+   "town": "Oslavany",
+   "country": "CZ",
+   "lat": 49.13346,
+   "lon": 16.36022,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/436199081",
+   "name": "Motokáry Brno Modřice",
+   "town": "Modřice",
+   "country": "CZ",
+   "lat": 49.12173,
+   "lon": 16.60482,
+   "website": "https://www.motokary-modrice.cz/",
+   "hidden": false
+  },
+  {
+   "id": "way/630529478",
+   "name": "Motokáry",
+   "town": "Staré Město",
+   "country": "CZ",
+   "lat": 49.07226,
+   "lon": 17.42029,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/209191545",
+   "name": "Motokáry Pánov",
+   "town": "Hodonín",
+   "country": "CZ",
+   "lat": 48.88779,
+   "lon": 17.1442,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/848634367",
+   "name": null,
+   "town": "Horní Planá",
+   "country": "CZ",
+   "lat": 48.77131,
+   "lon": 14.05385,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1021660390",
+   "name": null,
+   "town": "Chvalovice",
+   "country": "CZ",
+   "lat": 48.76641,
+   "lon": 16.06169,
+   "website": null,
+   "hidden": false
+  },
+  {
+   "id": "way/1284236708",
+   "name": "Motokáry Břeclav",
+   "town": "Břeclav",
+   "country": "CZ",
+   "lat": 48.75429,
+   "lon": 16.86981,
+   "website": "https://www.motokarybreclav.cz",
+   "hidden": false
+  }
+ ],
+ "previous_leads": [
+  {
+   "name": "Wrocław Racing Center",
+   "town": "Wrocław",
+   "note": "LEAD ONLY - own site torkartingowy.eu failed to load (SSL error); current operation not verified. Coordinates are the house-number geocode of ul. Buforowa 2 (node/1200346323 is a plain address, not th"
+  },
+  {
+   "name": "Kryty Tor Kartingowy Cartmax",
+   "town": "Lublin",
+   "note": "LEAD ONLY - single directory listing (Venuu, which is closing in Poland); no own website found; current operation not verified; listing is event/corporate-focused. Coordinates are the Olimp shopping c"
+  },
+  {
+   "name": "Kart Aréna Litomyšl",
+   "town": "Litomyšl",
+   "note": "LEAD ONLY - own website not found; current operation not verified. Data from an expired voucher listing: 295 m track, karts up to 70 km/h. A guide mentions both indoor and outdoor tracks - type to ver"
+  },
+  {
+   "name": "Motokáry Masarykův okruh (Creditas Autodrom Brno)",
+   "town": "Ostrovačice / Brno",
+   "note": "LEAD ONLY - own page not fetched; 2026 operation and prices not verified (only old vouchers). Outdoor kart track beside the Brno circuit (renamed Creditas Autodrom Brno in April 2026). Coordinates are"
+  }
+ ],
+ "previous_searches": [
+  "tor kartingowy Lublin gokarty",
+  "motokáry České Budějovice motokárová dráha",
+  "gokarty Katowice tor kartingowy halowy",
+  "gokarty Gdynia tor kartingowy",
+  "cartmax Lublin kryty tor kartingowy cennik",
+  "motokárová hala Pardubice Zlín Karlovy Vary motokáry pronájem",
+  "gokarty Wrocław tor halowy",
+  "tor kartingowy Łódź gokarty halowe",
+  "\"Monaco Grand Prix\" motokárová hala",
+  "Kart Aréna Litomyšl motokáry ceník",
+  "motokáry Zlín motokárová dráha pronájem motokár",
+  "motokáry Karlovy Vary Ústí nad Labem Pardubice motokárová dráha",
+  "Masarykův okruh motokárová dráha ceník půjčovna motokár",
+  "Pitlane Wroclavia gokarty cennik",
+  "lista torów kartingowych w Polsce wypożyczalnia gokartów",
+  "Le Mans Bielany Wrocławskie Czekoladowa tor kartingowy",
+  "Wrocław Racing Center Buforowa gokarty",
+  "cartmax.pl Lublin gokarty Spółdzielczości Pracy",
+  "motokáry Masarykův okruh 2026 otevírací doba",
+  "kartarena Litomyšl Moravská 1200 motokáry 2026"
+ ]
+}

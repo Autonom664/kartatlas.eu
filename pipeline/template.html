@@ -109,6 +109,7 @@ input#q { width: 100%; box-sizing: border-box; padding: 8px 10px; border: 1px so
 .pill.yes { border-color: var(--fg); }
 .pill.no { color: var(--muted); text-decoration: line-through; }
 .pill.closed { background: var(--fg); color: var(--panel); border-color: var(--fg); }
+.pill.club { border-color: var(--fg); border-style: dashed; }
 .dot.closed { opacity: .35; }
 .fees { font-size: 12.5px; border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; background: var(--bg); }
 .fees-h { display: block; font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 2px; }
@@ -321,7 +322,7 @@ label.inline select, .sortlbl select { font: 13px var(--body); color: var(--fg);
       <section aria-labelledby="h-karts">
         <h3 id="h-karts">Karts</h3>
         <div class="selrow">
-          <label>Driving<select id="f-drive"><option value="">Any</option><option value="rent">Rental karts</option><option value="own">Own karts allowed</option><option value="race">Race karts for rent</option></select></label>
+          <label>Driving<select id="f-drive"><option value="">Any</option><option value="rent">Rental karts</option><option value="own">Own karts allowed</option><option value="ownonly">Own/race karts only (no rental)</option><option value="race">Race karts for rent</option></select></label>
           <label>Chassis<select id="f-chassis"></select></label>
           <label>Engine<select id="f-engine"></select></label>
         </div>
@@ -439,7 +440,7 @@ function visible() {
     && matchesIntent(t)
     && (!state.origin || distance(t) <= state.radius)
     && (!state.bounds || (t.lo >= state.bounds[0] && t.lo <= state.bounds[2] && t.la >= state.bounds[1] && t.la <= state.bounds[3]))
-    && (!state.drive || (state.drive === "rent" ? t.r === "yes" : state.drive === "race" ? (t.K || []).some(m => m[3] === "race") : t.ow === "yes"))
+    && (!state.drive || (state.drive === "rent" ? t.r === "yes" : state.drive === "race" ? (t.K || []).some(m => m[3] === "race") : state.drive === "ownonly" ? t.r === "no" && t.ow === "yes" : t.ow === "yes"))
     && (!state.chassis || (t.K || []).some(m => m[4] === state.chassis))
     && (!state.engine || (t.K || []).some(m => m[5] === state.engine))
     && (!q || [t.n, t.near, t.c, t.st, t.a, ...(t.K || []).map(m => m.slice(0, 2).join(" "))].some(v => v && v.toLowerCase().includes(q))));
@@ -769,6 +770,7 @@ function pills(t) {
   if (t.r) p.push(`<span class="pill ${t.r === "yes" ? "yes" : "no"}">Rental karts</span>`);
   if (t.ow) p.push(`<span class="pill ${t.ow === "yes" ? "yes" : "no"}">Own karts</span>`);
   if ((t.K || []).some(m => m[3] === "race")) p.push('<span class="pill yes">Race karts for rent</span>');
+  if (t.r === "no" && t.ow === "yes") p.push('<span class="pill club">Own/race karts only</span>');
   return `<div class="pills">${p.join("")}</div>`;
 }
 function layoutTable(t) {
@@ -1042,7 +1044,7 @@ function restoreUrl() {
     Object.assign(state, JSON.parse(DEFAULTS), { sel: null, tab: "overview", view: "list", privateViewport: false });
     ["q", "chassis", "engine"].forEach(key => { state[key] = (p.get(key) || "").slice(0, 200); });
     if (["", "rent", "family", "own", "race", "group"].includes(p.get("intent") || "")) state.intent = p.get("intent") || "";
-    if (["", "rent", "own", "race"].includes(p.get("drive") || "")) state.drive = p.get("drive") || "";
+    if (["", "rent", "own", "ownonly", "race"].includes(p.get("drive") || "")) state.drive = p.get("drive") || "";
     if (["n", "cc", "len", "ppm", "ppl", "distance"].includes(p.get("sort"))) state.sort = p.get("sort");
     if (p.has("countries")) Object.keys(state.cc).forEach(c => state.cc[c] = p.get("countries").split(",").includes(c));
     if (p.has("kinds")) Object.keys(state.on).forEach(c => state.on[c] = p.get("kinds").split(",").includes(c));

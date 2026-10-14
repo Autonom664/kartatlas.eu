@@ -1,0 +1,3528 @@
+[
+ {
+  "website": "https://www.battlekart.com/fr/arcachon",
+  "phone": "+33 5 56 22 81 20",
+  "email": "info@arcachon.battlekart.com",
+  "hours": "School holidays: Mon-Fri 11-22, Sat 10-23, Sun 10-20:30; outside holidays: Mon closed, Tue-Thu 15-20, Fri 15-22, Sat 10-22:30, Sun 10-19",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child under 16",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/arcachon",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/arcachon",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "node/11046524506",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/besancon",
+  "phone": "+33 3 81 48 42 76",
+  "email": "info@besancon.battlekart.com",
+  "hours": "Term time: Mon-Tue 16:30-23, Wed 14-23, Thu 16:30-23, Fri 16:30-00:30, Sat 10:30-00:30, Sun 10:30-23; school holidays daily from 10:30",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday before 19h - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday before 19h - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday before 19h - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Fri from 19h - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri",
+    "note": null
+   },
+   {
+    "label": "Fri from 19h - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri",
+    "note": null
+   },
+   {
+    "label": "Fri from 19h - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri",
+    "note": null
+   },
+   {
+    "label": "Sat/Sun before 13:30 - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Sat/Sun before 13:30 - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Sat/Sun before 13:30 - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "School holidays - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "School holidays - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "School holidays - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/besancon",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/besancon",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/217630336",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/bourges",
+  "phone": "+33 2 48 16 31 12",
+  "email": "info@bourges.battlekart.com",
+  "hours": "Outside school holidays: Mon closed, Tue-Thu 17-24, Fri 17-01, Sat 10-01, Sun 14-19; summer: Mon-Thu 14-24, Fri 14-01, Sat 10-01, Sun 14-19",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekend - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Child session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/bourges",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/bourges",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/56239646",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/coudekerque",
+  "phone": "+33 3 61 44 84 63",
+  "email": "info@coudekerque.battlekart.com",
+  "hours": "Term: Mon-Tue closed, Wed 15-20, Thu 16-21, Fri 16-24, Sat 14-24, Sun 14-19; holidays: Mon closed, Tue-Thu 14-20, Fri-Sat 14-24, Sun 14-20",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "All periods - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "All periods - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "All periods - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/coudekerque",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/coudekerque",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/362310450",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/dijon",
+  "phone": "+33 3 73 27 57 40",
+  "email": "info@dijon.battlekart.com",
+  "hours": "Mon closed, Tue 17-21, Wed 14-21, Thu 17-21 (to 22 if booked 24h ahead), Fri 17-23, Sat 10-23, Sun 10-19",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "All sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/dijon",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/dijon",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "node/2920088807",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/henin-beaumont",
+  "phone": "+33 7 59 49 66 28",
+  "email": "info@henin-beaumont.battlekart.com",
+  "hours": "Mon closed, Tue 17-24, Wed 16-24, Thu 17-24, Fri 17-00:30, Sat 10-01, Sun 14-22 (holidays from 14h)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekend - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/henin-beaumont",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/henin-beaumont",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/35875046",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/le-havre",
+  "phone": "+33 2 21 81 32 33",
+  "email": "info@le-havre.battlekart.com",
+  "hours": "Mon-Tue closed, Wed-Thu 17-22, Fri 17-23, Sat 15-23, Sun 15-19",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Replay",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Under 18 / student",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 17,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/le-havre",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/le-havre",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "node/12316027096",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/le-mans",
+  "phone": "+33 2 43 25 77 56",
+  "email": "info@le-mans.battlekart.com",
+  "hours": "Outside holidays: Mon-Tue closed, Wed 14-19:30, Thu 17-23, Fri 17-24, Sat 14-24, Sun 14-19; holidays: Tue-Sun from 14h",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child under 16",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/le-mans",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/le-mans",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "node/13284163733",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/metz",
+  "phone": "+33 3 66 32 25 92",
+  "email": "info@metz.battlekart.com",
+  "hours": "Mon closed, Tue-Thu 16-22, Fri 16-24, Sat 13-01, Sun 13-19 (summer from 14h / 10:30 weekends)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekend - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Matin Malin",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/metz",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/metz",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/299901132",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/mulhouse",
+  "phone": "+33 6 51 28 74 44",
+  "email": "info@mulhouse.battlekart.com",
+  "hours": "Term: Mon-Tue closed, Wed 14-21, Thu 16-21, Fri 16-01, Sat 13:30-01, Sun 14-20; holidays Mon-Thu 14-21/22",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Standard - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Standard - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Standard - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Jeudi Folie",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Thu",
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/mulhouse",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/mulhouse",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/1385751374",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/orleans",
+  "phone": "+33 2 38 14 38 64",
+  "email": "info@orleans.battlekart.com",
+  "hours": "Term: Mon closed, Tue 17-22, Wed 13-22, Thu 17-22, Fri 16-24, Sat 13-24, Sun 13-19; holidays daily from 13h",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekend - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Minor / student",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 17,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/orleans",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/orleans",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/622719714",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/paris-dammartin",
+  "phone": "+33 6 88 11 24 55",
+  "email": "info@paris-dammartin.battlekart.com",
+  "hours": "Term: Mon-Tue 16-22, Wed 14-22, Thu 16-22, Fri 16-24, Sat 10:30-01, Sun 10:30-19; Jul/Aug from 14h (Sat-Sun 13h)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Matin Malin",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child under 16",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/paris-dammartin",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/paris-dammartin",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/464595585",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/paris-pontault-combault",
+  "phone": "+33 1 60 34 66 31",
+  "email": "info@paris-pontault-combault.battlekart.com",
+  "hours": "Term: Mon closed, Tue 17-24, Wed 14-24, Thu 17-01, Fri 17-02, Sat 10-02, Sun 10-24; holidays daily from 14h",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "1st session (Fri-Sun)",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun",
+    "note": null
+   },
+   {
+    "label": "1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "3rd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/paris-pontault-combault",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/paris-pontault-combault",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/100212037",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/picardia",
+  "phone": "+33 9 73 45 37 37",
+  "email": "info@picardia.battlekart.com",
+  "hours": "Term: Mon-Tue closed, Wed 14-19, Thu 18-24, Fri 19-01, Sat 14-01, Sun 14-19; holidays Mon-Wed 14-19, Thu 14-24, Fri 14-01, Sat 10-01",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "All sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/picardia",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/picardia",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/759674905",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/saint-etienne",
+  "phone": "+33 4 58 28 25 24",
+  "email": "info@saint-etienne.battlekart.com",
+  "hours": "Term: Mon closed, Tue 16-20, Wed 14-20, Thu 16-23, Fri 16-24, Sat 10-24, Sun 10-20 (later on request)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Weekday - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekday - following",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Weekend - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Weekend - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Child under 16",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/saint-etienne",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/saint-etienne",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "way/108161104",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/fr/toulouse-blagnac",
+  "phone": "+33 5 61 06 15 85",
+  "email": "info@toulouse-blagnac.battlekart.com",
+  "hours": "Mon-Thu 16-23, Fri 16-24, Sat 10-24, Sun 10-21 (holidays from 14h)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/toulouse-blagnac",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/toulouse-blagnac",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "node/13316119277",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/beauvais/karting/",
+  "phone": "+33 3 44 49 99 62",
+  "email": null,
+  "hours": "Term: Mon-Tue 17-24, Wed 14-24, Thu 17-01, Fri 17-02, Sat 14-02, Sun 14-23",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "unknown",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.7,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child (from 7, until 20h)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 12.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/beauvais/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 260,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/beauvais/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "way/1152358765",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/cagnes-sur-mer/karting/",
+  "phone": null,
+  "email": null,
+  "hours": "Daily 10-00/02",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 11,
+   "min_height_cm": 140
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 11-14 (until 20h)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 14,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/cagnes-sur-mer/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/cagnes-sur-mer/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "way/359615626",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/henin-beaumont/karting/",
+  "phone": null,
+  "email": null,
+  "hours": "Daily 13-00/02",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child (from 7, until 20h)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 11.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/henin-beaumont/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 275,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/henin-beaumont/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "node/5696405120",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/servon/karting/",
+  "phone": null,
+  "email": null,
+  "hours": "Term: Mon-Tue 18-24, Wed 14-24, Thu 17-01, Fri 17-02, Sat 13-02, Sun 13-23",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 11,
+   "min_height_cm": 140
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 11-14",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 13.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 14,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/servon/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": 210,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/servon/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "node/11496768603",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/sqy/karting/",
+  "phone": null,
+  "email": null,
+  "hours": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 11,
+   "min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult 10 min (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult Priority (online)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 10 min (11-14)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child Priority (online)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/sqy/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/sqy/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "way/113732251",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/strasbourg/karting/",
+  "phone": null,
+  "email": null,
+  "hours": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult session (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 7-14 (until 20h, with guardian)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Member card adult 5 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Member card child 5 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 45,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/strasbourg/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/strasbourg/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "way/953568253",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://speedpark.fr/val-deurope/karting/",
+  "phone": null,
+  "email": null,
+  "hours": "Daily 11-00/01",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 11,
+   "min_height_cm": 140
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult (15+)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 11-14",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 14,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://speedpark.fr/val-deurope/karting/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://speedpark.fr/val-deurope/karting/",
+   "https://speedpark.fr/"
+  ],
+  "id": "way/25300640",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.urbankart-in.com/",
+  "phone": "+33 4 50 03 66 78",
+  "email": null,
+  "hours": "Term: Tue 17:30-20:30, Wed 15:30-20:30, Thu-Fri 17:30-22, Sat 10-12:30 & 14-22:30, Sun 10-12:30 & 13:30-19; school holidays Tue-Wed 14-20:30, Thu-Fri 14-22, Sat 14-22:30, Sun 14-19 (Mon closed)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "V2/V3/V4 speed levels"
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130,
+   "note": "child 7-13 from 1.30 m; teen 11-13 from 1.45 m; adult from 14"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult V3 (14+) - 1 race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult V3 - 2 races",
+    "class": null,
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 44,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult V3 - 3 races",
+    "class": null,
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 60,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult V3 - 4-9 races, per race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Student/FFSA - 1 race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "post-bac student card or FFSA licence"
+   },
+   {
+    "label": "Student/FFSA - 2 races",
+    "class": null,
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Student/FFSA - 3 races",
+    "class": null,
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Student/FFSA - 4-9 races, per race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Teen V2 (11-13, min 1.45 m) - 1 race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 13,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Teen V2 - 2 races",
+    "class": null,
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 39,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 13,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Teen V2 - 3 races",
+    "class": null,
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 57,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 13,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Teen V2 - 4-9 races, per race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 11,
+    "max_age": 13,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child (7-13, 1.30-1.45 m) - 1 race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child - 2 races",
+    "class": null,
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 34,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child - 3 races",
+    "class": null,
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 49,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child - 4-9 races, per race",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.urbankart-in.com/tarifs/",
+  "tracks": [
+   {
+    "name": "Urban Kart'in indoor track (bridge + tunnel, layout reversed quarterly)",
+    "length_m": 350,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.urbankart-in.com/",
+   "https://www.urbankart-in.com/tarifs/",
+   "https://www.haute-savoie-tourisme.org/index.php/4985857-urban-kartin"
+  ],
+  "id": "way/30278225",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://pariskart.com/",
+  "phone": "+33 1 72 35 82 50",
+  "email": "info@pariskart.com",
+  "hours": "Mon closed, Tue 17-23, Wed 12-23, Thu 17-23, Fri 14-01, Sat 10-01, Sun 10-20",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "child"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "two-seater"
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130,
+   "note": "adult 14+ & 1.50 m; child 7-13 & 1.30 m; two-seater passenger from 4"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Adult standard (14+, min 1.50 m)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult Official Driver",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Official Driver card 5 EUR/year"
+   },
+   {
+    "label": "Adult 5 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 50,
+    "laps": null,
+    "price": 105,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult 10 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 190,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Adult 20 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 200,
+    "laps": null,
+    "price": 340,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child standard (7-13, min 1.30 m)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child Official Driver",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 5 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 50,
+    "laps": null,
+    "price": 90,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 10 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 160,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child 20 sessions",
+    "class": null,
+    "type": "package",
+    "minutes": 200,
+    "laps": null,
+    "price": 280,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Two-seater baptism (passenger from 4)",
+    "class": null,
+    "type": "session",
+    "minutes": null,
+    "laps": 6,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "driven by instructor"
+   },
+   {
+    "label": "Grand Prix MNGP (min 8 drivers, 16+)",
+    "class": null,
+    "type": "grand_prix",
+    "minutes": 24,
+    "laps": null,
+    "price": 64,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min practice + 14 min race; Official Driver 59"
+   },
+   {
+    "label": "Grand Prix MXGP (min 8 drivers, 16+)",
+    "class": null,
+    "type": "grand_prix",
+    "minutes": 34,
+    "laps": null,
+    "price": 84,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min practice + 10 min quali + 14 min race; Official Driver 79"
+   }
+  ],
+  "fees": [],
+  "membership": "Balaclava 3 EUR (unless own helmet); Official Driver card 5 EUR/year",
+  "price_source": "https://pariskart.com/tarifs/",
+  "tracks": [
+   {
+    "name": "Paris Kart Indoor track (FFSA homologated, 17 corners, 15 karts/session)",
+    "length_m": 500,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://pariskart.com/",
+   "https://pariskart.com/tarifs/",
+   "https://sortiraparis.com/en/what-to-do-in-paris/sport-wellness/articles/200920-paris-kart-france-s-largest-indoor-karting-track"
+  ],
+  "id": "node/9827889653",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://karting-indoor-provence.com/",
+  "phone": "+33 4 91 36 22 00",
+  "email": null,
+  "hours": "Daily 10:00-24:00",
+  "karts": [
+   {
+    "chassis": "Sodikart SR5",
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult 270cc"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc 4-stroke",
+    "hp": null,
+    "class": "child"
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130,
+   "note": "children from 7 years and 1.30 m (200cc kids karts)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Session (adult or child)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min session incl. briefing"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://karting-indoor-provence.com/karting/",
+  "tracks": [
+   {
+    "name": "KIP indoor track (FFSA homologated, 150 m straight)",
+    "length_m": 350,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://karting-indoor-provence.com/karting/",
+   "https://karting-indoor-provence.com/",
+   "https://www.parcsetloisirs.fr/categorie/karting"
+  ],
+  "id": "way/209195993",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://nikito.com/karting-paris/",
+  "phone": null,
+  "email": null,
+  "hours": "Open 7 days",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "min_age": 16,
+   "min_height_cm": 140,
+   "note": "adult karting from 16 and 1.40 m; FAQ mentions child sessions from 10 at some tracks (not specific)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Karting adult (16+, min 1.40 m) - from",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 19.9,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "'à partir de'; session ~20 laps"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://nikito.com/domus/",
+  "tracks": [
+   {
+    "name": "NIKITO indoor electric track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://nikito.com/karting-paris/",
+   "https://nikito.com/domus/",
+   "https://www.sortiraparis.com/en/what-to-do-in-paris/gaming/guides/289565-go-karting-and-racing-simulators-experiences-in-paris-and-ile-de-france"
+  ],
+  "id": "way/144161941",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.canneskarting.com/",
+  "phone": "+33 4 93 47 12 97",
+  "email": "contact@canneskarting.com",
+  "hours": "Daily approx. 13:30-24:00 (Mon/Tue/Thu/Fri from 16:30 per tourism listing); online booking mandatory",
+  "karts": [
+   {
+    "chassis": "Sodikart",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart",
+    "engine": "electric",
+    "hp": null,
+    "class": "child"
+   }
+  ],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 130,
+   "note": "child karts 7-14 from 1.30 m; adult karts from 14 (1.45 m for GP)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Session without member card",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Member - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 22,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Member - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Member - 3rd session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "children ride 14:00-20:00, children only"
+   },
+   {
+    "label": "Child - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Child - 3rd session",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Grand Prix Formule 3 (min 8, 14+ & 1.45 m)",
+    "class": null,
+    "type": "grand_prix",
+    "minutes": null,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "10 min timed qualifying + 12-lap race"
+   },
+   {
+    "label": "Grand Prix Formule 2",
+    "class": null,
+    "type": "grand_prix",
+    "minutes": null,
+    "laps": null,
+    "price": 75,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "10 min practice + 10 min qualifying + 12-lap race"
+   },
+   {
+    "label": "Grand Prix Formule F1",
+    "class": null,
+    "type": "grand_prix",
+    "minutes": null,
+    "laps": null,
+    "price": 95,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "10 min practice + 10 min qualifying + 2 x 12-lap races"
+   }
+  ],
+  "fees": [],
+  "membership": "Member card 10 EUR/year",
+  "price_source": "https://www.canneskarting.com/fr/tarifs-40",
+  "tracks": [
+   {
+    "name": "Cannes Karting indoor track (2 levels, bridge)",
+    "length_m": 430,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.canneskarting.com/",
+   "https://www.canneskarting.com/fr/tarifs-40",
+   "https://cotedazurfrance.fr/offres/cannes-karting-cannes-la-bocca-fr-3621544/"
+  ],
+  "id": "node/13174943616",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ }
+]

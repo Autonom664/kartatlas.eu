@@ -1,0 +1,721 @@
+[
+ {
+  "id": "relation/2035090",
+  "guessed_name": "Piste karting Selongey",
+  "nearby_hint": null,
+  "town": "Selongey",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.61079,
+  "lon": 5.23343,
+  "type": "outdoor",
+  "osm_length_m": 518,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+   "sport": "karting",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/296667026",
+  "guessed_name": null,
+  "nearby_hint": "Souppes-sur-Loing",
+  "town": "Souppes-sur-Loing",
+  "region": "Île-de-France",
+  "country": "FR",
+  "lat": 48.18052,
+  "lon": 2.72858,
+  "type": "outdoor",
+  "osm_length_m": 403,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "disused": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1389612478",
+  "guessed_name": null,
+  "nearby_hint": "La Romagne",
+  "town": "Sèvremoine",
+  "region": "Pays de la Loire",
+  "country": "FR",
+  "lat": 47.07673,
+  "lon": -1.02138,
+  "type": "outdoor",
+  "osm_length_m": 299,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/229721547",
+  "guessed_name": null,
+  "nearby_hint": "Blanqui-Mirabeau",
+  "town": "Tours",
+  "region": "Centre-Val de Loire",
+  "country": "FR",
+  "lat": 47.40148,
+  "lon": 0.71134,
+  "type": "outdoor",
+  "osm_length_m": 298,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/611998367",
+  "guessed_name": null,
+  "nearby_hint": "Trouville-sur-Mer",
+  "town": "Trouville-sur-Mer",
+  "region": "Normandie",
+  "country": "FR",
+  "lat": 49.36711,
+  "lon": 0.07764,
+  "type": "outdoor",
+  "osm_length_m": 154,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "lanes": "1",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/829823299",
+  "guessed_name": null,
+  "nearby_hint": "Coudekerque-Village",
+  "town": "Téteghem-Coudekerque-Village",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 50.99237,
+  "lon": 2.39817,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/4943667120",
+  "guessed_name": null,
+  "nearby_hint": "Portes-lès-Valence",
+  "town": "Valence",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 44.89688,
+  "lon": 4.88872,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1192840538",
+  "guessed_name": null,
+  "nearby_hint": "Valprivas",
+  "town": "Valprivas",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 45.30714,
+  "lon": 4.03756,
+  "type": "outdoor",
+  "osm_length_m": 609,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "source": "Le ministère de la ville, de la jeunesse et des sports - 2021-04",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1327891269",
+  "guessed_name": null,
+  "nearby_hint": "Valras-Plage",
+  "town": "Vendres",
+  "region": "Occitanie",
+  "country": "FR",
+  "lat": 43.2356,
+  "lon": 3.26017,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "lanes": "1",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/483659334",
+  "guessed_name": null,
+  "nearby_hint": "Floride",
+  "town": "Villefranque",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 43.4691,
+  "lon": -1.4669,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/380970617",
+  "guessed_name": null,
+  "nearby_hint": "Véraza",
+  "town": "Véraza",
+  "region": "Occitanie",
+  "country": "FR",
+  "lat": 42.97355,
+  "lon": 2.30427,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/404738749",
+  "guessed_name": null,
+  "nearby_hint": "Malnoue",
+  "town": "Émerainville",
+  "region": "Île-de-France",
+  "country": "FR",
+  "lat": 48.82563,
+  "lon": 2.60868,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/778707537",
+  "guessed_name": null,
+  "nearby_hint": "Étrelles",
+  "town": "Étrelles",
+  "region": "Bretagne",
+  "country": "FR",
+  "lat": 48.0707,
+  "lon": -1.17286,
+  "type": "outdoor",
+  "osm_length_m": 499,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/7833028470",
+  "guessed_name": null,
+  "nearby_hint": "Acerra",
+  "town": "Acerra",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 40.96727,
+  "lon": 14.3683,
+  "type": "outdoor",
+  "osm_length_m": 448,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "alt_name": "Kartodromo di Acerra",
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/174920606",
+  "guessed_name": null,
+  "nearby_hint": "Valle San Bartolomeo",
+  "town": "Alessandria",
+  "region": "Piemonte",
+  "country": "IT",
+  "lat": 44.93936,
+  "lon": 8.62791,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1355629609",
+  "guessed_name": null,
+  "nearby_hint": "Ancarano",
+  "town": "Ancarano",
+  "region": "Abruzzo",
+  "country": "IT",
+  "lat": 42.83406,
+  "lon": 13.74087,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/516293117",
+  "guessed_name": null,
+  "nearby_hint": "Andria",
+  "town": "Andria",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 41.16906,
+  "lon": 16.2974,
+  "type": "outdoor",
+  "osm_length_m": 188,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/901582000",
+  "guessed_name": null,
+  "nearby_hint": "Sant'Antonio Abate",
+  "town": "Angri",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 40.73538,
+  "lon": 14.55479,
+  "type": "outdoor",
+  "osm_length_m": 222,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/430792284",
+  "guessed_name": null,
+  "nearby_hint": "Cecchina",
+  "town": "Ariccia",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 41.70013,
+  "lon": 12.65812,
+  "type": "outdoor",
+  "osm_length_m": 560,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "racetrack",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1306067463",
+  "guessed_name": null,
+  "nearby_hint": "Cardillo",
+  "town": "Avigliano",
+  "region": "Basilicata",
+  "country": "IT",
+  "lat": 40.74783,
+  "lon": 15.79025,
+  "type": "outdoor",
+  "osm_length_m": 176,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/968023800",
+  "guessed_name": null,
+  "nearby_hint": "Palazzo San Gervasio",
+  "town": "Banzi",
+  "region": "Basilicata",
+  "country": "IT",
+  "lat": 40.93028,
+  "lon": 16.01522,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1217972654",
+  "guessed_name": null,
+  "nearby_hint": "Stanic",
+  "town": "Bari",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 41.10671,
+  "lon": 16.81831,
+  "type": "outdoor",
+  "osm_length_m": 177,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/233960686",
+  "guessed_name": null,
+  "nearby_hint": "Bianco",
+  "town": "Bianco",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 38.10573,
+  "lon": 16.15538,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/244137447",
+  "guessed_name": null,
+  "nearby_hint": "Borgetto",
+  "town": "Borgetto",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 38.04478,
+  "lon": 13.13585,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/863985109",
+  "guessed_name": null,
+  "nearby_hint": "Botricello Superiore",
+  "town": "Botricello",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 38.93657,
+  "lon": 16.86734,
+  "type": "outdoor",
+  "osm_length_m": 641,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/244806326",
+  "guessed_name": null,
+  "nearby_hint": "Boschetto",
+  "town": "Bovisio Masciago",
+  "region": "Lombardia",
+  "country": "IT",
+  "lat": 45.6162,
+  "lon": 9.16729,
+  "type": "outdoor",
+  "osm_length_m": 266,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/819981857",
+  "guessed_name": null,
+  "nearby_hint": "Calderara di Reno",
+  "town": "Calderara di Reno",
+  "region": "Emilia-Romagna",
+  "country": "IT",
+  "lat": 44.55277,
+  "lon": 11.28062,
+  "type": "outdoor",
+  "osm_length_m": 578,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/62801217",
+  "guessed_name": null,
+  "nearby_hint": "Lido di Camaiore",
+  "town": "Camaiore",
+  "region": "Toscana",
+  "country": "IT",
+  "lat": 43.9042,
+  "lon": 10.21828,
+  "type": "outdoor",
+  "osm_length_m": 246,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "disused": "yes",
+   "highway": "raceway",
+   "kart": "designated",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1266537543",
+  "guessed_name": null,
+  "nearby_hint": "Museddu",
+  "town": "Cardedu",
+  "region": "Sardigna/Sardegna",
+  "country": "IT",
+  "lat": 39.77056,
+  "lon": 9.63997,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1560147507",
+  "guessed_name": null,
+  "nearby_hint": "Baia Verde",
+  "town": "Castel Volturno",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 41.01207,
+  "lon": 13.96992,
+  "type": "outdoor",
+  "osm_length_m": 877,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1303875597",
+  "guessed_name": null,
+  "nearby_hint": "Castel di Sangro",
+  "town": "Castel di Sangro",
+  "region": "Abruzzo",
+  "country": "IT",
+  "lat": 41.79357,
+  "lon": 14.10702,
+  "type": "outdoor",
+  "osm_length_m": 928,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/388207666",
+  "guessed_name": null,
+  "nearby_hint": "Castrocielo",
+  "town": "Castrocielo",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 41.51624,
+  "lon": 13.69905,
+  "type": "outdoor",
+  "osm_length_m": 175,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1090755482",
+  "guessed_name": null,
+  "nearby_hint": "Borgo Rurale Pascarosa",
+  "town": "Ceglie Messapica",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 40.68363,
+  "lon": 17.49994,
+  "type": "outdoor",
+  "osm_length_m": 284,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/598864441",
+  "guessed_name": null,
+  "nearby_hint": "Cervesina",
+  "town": "Cervesina",
+  "region": "Lombardia",
+  "country": "IT",
+  "lat": 45.07162,
+  "lon": 8.99344,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/3328247202",
+  "guessed_name": null,
+  "nearby_hint": "Cerveteri",
+  "town": "Cerveteri",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 41.98705,
+  "lon": 12.12826,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1293592738",
+  "guessed_name": null,
+  "nearby_hint": "Cetraro Marina",
+  "town": "Cetraro",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 39.51677,
+  "lon": 15.93477,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/537258626",
+  "guessed_name": null,
+  "nearby_hint": "Ca' Lino",
+  "town": "Chioggia",
+  "region": "Veneto",
+  "country": "IT",
+  "lat": 45.17817,
+  "lon": 12.27561,
+  "type": "outdoor",
+  "osm_length_m": 481,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1301840283",
+  "guessed_name": null,
+  "nearby_hint": "Lido degli Scacchi",
+  "town": "Comacchio",
+  "region": "Emilia-Romagna",
+  "country": "IT",
+  "lat": 44.70536,
+  "lon": 12.23777,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/713146485",
+  "guessed_name": "Circuito la Scintilla",
+  "nearby_hint": null,
+  "town": "Contigliano",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 42.4198,
+  "lon": 12.78121,
+  "type": "outdoor",
+  "osm_length_m": 634,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ }
+]

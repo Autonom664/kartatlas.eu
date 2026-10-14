@@ -53,6 +53,8 @@
     "Any engine": ["Alle motorer", "Alle Motoren"],
     "Rental karts": ["Udlejningskarts", "Leihkarts"],
     "Own karts allowed": ["Egne karts tilladt", "Eigene Karts erlaubt"],
+    "Own/race karts only (no rental)": ["Kun egne/racerkarts (ingen udlejning)", "Nur eigene/Renn-Karts (kein Verleih)"],
+    "Own/race karts only": ["Kun egne/racerkarts", "Nur eigene/Renn-Karts"],
     "Own karts": ["Egne karts", "Eigene Karts"],
     "Race karts for rent": ["Racekarts til leje", "Rennkarts zur Miete"],
     "Sort": ["Sortér", "Sortieren"],

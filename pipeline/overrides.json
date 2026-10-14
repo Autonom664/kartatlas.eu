@@ -382,9 +382,7 @@
  "way/1124992595": {
   "kind": "kids"
  },
- "way/361609526": {
-  "kind": "kids"
- },
+ "way/361609526": {},
  "node/6754045481": {
   "dropurl": "skion.cz"
  },
@@ -412,5 +410,221 @@
  },
  "node/7276301134": {
   "kind": "kids"
+ },
+ "way/58821981": {
+  "closed": true
+ },
+ "way/194071643": {
+  "name": "Tor Kartingowy Suwałki"
+ },
+ "way/686206452": {
+  "kind": "kids"
+ },
+ "way/1103944247": {
+  "kind": "kids"
+ },
+ "way/225023200": {
+  "kind": "kids"
+ },
+ "way/1339003084": {
+  "kind": "kids"
+ },
+ "way/507817684": {
+  "kind": "kids"
+ },
+ "way/1317594562": {
+  "kind": "kids"
+ },
+ "way/1389597361": {
+  "name": "Motopark Ostrava",
+  "kind": "outdoor"
+ },
+ "way/1244235669": {
+  "kind": "kids"
+ },
+ "way/593928323": {
+  "name": "MAC Königsbrunn – Jugendsportanlage am Ilsesee",
+  "club": true
+ },
+ "way/72953754": {
+  "remove": true
+ },
+ "way/1486100472": {
+  "kind": "kids"
+ },
+ "way/1079744042": {
+  "kind": "kids"
+ },
+ "way/875122571": {
+  "kind": "kids"
+ },
+ "way/233622123": {
+  "kind": "kids"
+ },
+ "way/1021512553": {
+  "kind": "kids"
+ },
+ "way/721615951": {
+  "kind": "kids"
+ },
+ "way/191907701": {
+  "club": true
+ },
+ "way/1102755850": {
+  "kind": "kids"
+ },
+ "way/655641165": {
+  "kind": "kids"
+ },
+ "way/178180850": {
+  "kind": "kids"
+ },
+ "way/1038297754": {
+  "kind": "kids"
+ },
+ "node/13228393793": {
+  "club": true
+ },
+ "way/136505203": {
+  "name": "Euro Dieppe Karting",
+  "kind": "outdoor"
+ },
+ "way/872984146": {
+  "kind": "kids"
+ },
+ "node/10088957473": {
+  "name": "SpeedPark Le Mans",
+  "web": "https://speedpark.fr/le-mans/",
+  "kind": "indoor"
+ },
+ "way/969613966": {
+  "kind": "kids"
+ },
+ "way/331597919": {
+  "name": "AMC Ettlingen e.V.",
+  "club": true
+ },
+ "way/202733188": {
+  "club": true
+ },
+ "way/91915769": {
+  "name": "MSC Knetzgau (Kartslalom / Jugendverkehrsschule)",
+  "club": true
+ },
+ "way/223183532": {
+  "kind": "kids"
+ },
+ "way/894252551": {
+  "kind": "kids"
+ },
+ "way/954618039": {
+  "kind": "kids"
+ },
+ "way/712430022": {
+  "name": "Circuit Pau-Arnos (piste karting)",
+  "web": "https://circuit-pau-arnos.fr/",
+  "kind": "outdoor"
+ },
+ "way/179466889": {
+  "name": "Laser Concept / Ball Concept Montplaisir (laser kart)",
+  "kind": "outdoor"
+ },
+ "node/7345774782": {
+  "name": "Games Factory Besancon",
+  "web": "https://gamesfactory.fr/en/besancon/karting/",
+  "kind": "indoor"
+ },
+ "way/165379444": {
+  "name": "Karting Carpentras (ASK Karting Carpentras)",
+  "club": true
+ },
+ "way/290061425": {
+  "kind": "kids"
+ },
+ "way/1315948290": {
+  "kind": "kids"
+ },
+ "way/1435688646": {
+  "kind": "kids"
+ },
+ "way/1317631741": {
+  "kind": "kids"
+ },
+ "way/228121884": {
+  "kind": "kids"
+ },
+ "way/1396182326": {
+  "name": "Club del Miniautodromo (Mini Autodromo di Massa)",
+  "kind": "outdoor"
+ },
+ "relation/3745641": {
+  "kind": "kids"
+ },
+ "relation/3745642": {
+  "kind": "kids"
+ },
+ "node/4943667120": {
+  "name": "XtremCenter Valence",
+  "kind": "indoor"
+ },
+ "way/404738749": {
+  "kind": "kids"
+ },
+ "way/375056306": {
+  "club": true
+ },
+ "way/198047918": {
+  "name": "Forte Village Go-Kart Track",
+  "web": "https://www.fortevillageresort.com/",
+  "kind": "outdoor"
+ },
+ "way/1384130031": {
+  "kind": "kids"
+ },
+ "way/311095070": {
+  "kind": "kids"
+ },
+ "way/1313745985": {
+  "club": true
+ },
+ "way/315013666": {
+  "name": "Area 51 Go-Kart",
+  "kind": "outdoor"
+ },
+ "way/1317001788": {
+  "kind": "kids"
+ },
+ "way/1430868491": {
+  "kind": "kids"
+ },
+ "way/1561716712": {
+  "kind": "kids"
+ },
+ "way/345803624": {
+  "name": "Centrum Aktywnego Wypoczynku Borek",
+  "web": "https://www.centrumborek.pl/",
+  "kind": "outdoor"
+ },
+ "way/1312646351": {
+  "kind": "kids"
+ },
+ "way/761020964": {
+  "kind": "kids"
+ },
+ "way/1422551589": {
+  "kind": "kids"
+ },
+ "way/823000123": {
+  "name": "Gokarty Zaurolandia",
+  "web": "https://www.zaurolandia.pl/",
+  "kind": "outdoor"
+ },
+ "node/6401336548": {
+  "name": "K1 Speed Erba (formerly Hollywood Kart)",
+  "web": "https://www.k1speed.com/it/erba.html"
+ },
+ "node/13432940206": {
+  "name": "K1 Speed Milano-Bicocca (formerly Hollywood Kart)",
+  "web": "https://www.k1speed.com/it/milano-bicocca.html"
  }
 }

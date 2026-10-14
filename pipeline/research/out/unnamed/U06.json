@@ -1,0 +1,562 @@
+[
+ {
+  "id": "way/1118676543",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Unnamed 498 m raceway mapped next to Stadio Pontecorvo on Viale dello Sport (OSM); two web searches found no kart venue in Pontecorvo.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1118676543"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/17362139",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Lit kart track polygon in the Fiuzzi beach area (Pineta di Fiuzzi, beach resorts) of Praia a Mare; could be a seasonal seaside kart track but no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/17362139"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/375056306",
+  "verdict": "club_or_private",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags the 269 m raceway access=private; it sits beside a sports ground on Via per Iolo/Via Ghisleri in Prato, and no public kart venue was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/375056306"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/198047918",
+  "verdict": "real",
+  "name": "Forte Village Go-Kart Track",
+  "website": "https://www.fortevillageresort.com/",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The raceway lies inside the Forte Village resort at Santa Margherita di Pula, which runs a 600 m outdoor go-kart track with rental karts (about 40 EUR per 12 minutes in a 2023 review); it is a resort facility mainly for guests. OSM also maps a second karting track (way/296377977) nearby in the resort.",
+  "sources": [
+   "https://www.openstreetmap.org/way/198047918",
+   "https://www.familygo.eu/vacanze-con-bambini/viaggi/sardegna/forte-village-pula-per-famiglie/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/286460358",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Asphalt 517 m raceway next to the Domus Aurea Resort (hotel, pools, pitches) at Contrada Puntarazzi, Ragusa; a business directory lists keyword tags like 'kartodromo domus aurea', but no page confirms a working kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/286460358",
+   "https://www.reteimprese.it/info_A3701B10000"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1450953504",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports centre on Strada ai Campi di Tiro (San Massimo, Rapallo) with compacted-surface raceways including a bridge and a paintball building next door (OSM); no web source confirms a kart venue or its type.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1450953504"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/591214829",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Kart area at Mortara/Occhio di Pellaro (Reggio Calabria) next to a raceway tagged sport=motor and a reception venue; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/591214829"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/721600346",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small kart area on the Riccione seafront (Lungomare della Repubblica) among hotel pools and beach resorts, likely a seaside or hotel attraction; the known Pista Go Kart Riccione (Via Flaminia 75) is a separate entry 2.7 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/way/721600346",
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1384130031",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceway was mapped together with and inside 'Mini park Paperino' (tourism=theme_park) on the Viserbella seafront, so it is a small children's ride-on car attraction, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1384130031",
+   "https://www.openstreetmap.org/way/1384130030"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/667464227",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting pitch polygon (no outline) beside the SS18 at San Martino/Acquavena, Roccagloriosa, surrounded by orchards; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/667464227"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/248092435",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small karting sports centre (203 m outline plus a separate raceway way/1159347259) on Via Don Demetrio Castelli, Roddi, next to the A33 motorway construction site; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/248092435"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/252062916",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting track polygon next to the La Celsa ATAC park-and-ride at Labaro/Saxa Rubra, Rome; no web source found for a kart venue here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/252062916"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1173707235",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Outdoor 244 m karting raceway beside motor raceways (sport=motor) by the A91 motorway at Viale Parco de' Medici, Rome; no venue found here. E-gokart Roma, 0.77 km away (way/1314593043), is an indoor track in The Village mall at Via Rebecchini 5, so it is a different site.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1173707235",
+   "https://www.e-gokart.it"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/462851004",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting pitch polygon (no outline) on Via Giovanni Falcone, Rosolini, beside a school complex and football/padel pitches; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/462851004"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/430063195",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting track way near the Reggia di Carditello in open farmland at San Tammaro; no web source found (the nearest named kart track found is Kartodromo di Casaluce, about 5 km south, a different site).",
+  "sources": [
+   "https://www.openstreetmap.org/way/430063195"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1545739790",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "249 m raceway beside a sports centre near the Palascoppa arena in Soverato Marina (Satriano side); no web source found for a kart venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1545739790"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/745014942",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports-centre polygon (no track outline) in the industrial zone on Via Polveriera, Saviano; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/745014942"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/490142732",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Track inside the municipal Centro Sportivo of Selvino next to minigolf, tennis and the public pool; likely a small leisure/children's track but no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/490142732"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/311095070",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "One of three small tracks inside the 'Mini GranPrix' amusement area (tourism=theme_park, next to Magic Park and minigolf) on the Senigallia seafront; a travel guide describes Mini Gran Prix as a place where kids steer mini cars.",
+  "sources": [
+   "https://www.openstreetmap.org/way/311095062",
+   "https://el.hotels.com/go/italy/senigallia"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1117928709",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small 194 m track area on Via Europa at Fener (Alano di Piave/Setteville) with a second raceway beside it. The only track found in Fener is 'Pista Verde', which hosted 1/8-scale RC car races in 2020, so this may be an RC track rather than a kart track; the location match is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1117928709",
+   "https://redrc.net/2020/07/cristiano-sartor-wins-at-pista-verde-race"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1181814898",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags this as a raceway under construction (highway=construction, construction=raceway) on a construction site next to the former Siracusa motor circuit; no source shows a kart track that is planned or open.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1181814898",
+   "https://www.openstreetmap.org/relation/9601705"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1153460281",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Tiny 149 m track among private gardens, a private pool and a private tennis court near Castello di Crippa in Sirtori (OSM access=private on surrounding features), so it is most likely a private residence track; no public venue found. Downgraded to uncertain: private status inferred from surroundings only.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1153460281"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1313745985",
+  "verdict": "club_or_private",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "All three karting raceway ways here are tagged access=private in OSM and sit in farmland/vineyards near the Canale dei Molini in Solarolo; no public venue found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1313745985"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/981858153",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports-centre polygon on Via Duca di Salza, Somma Vesuviana, with no other mapped features nearby; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/981858153"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/333552738",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "888 m karting sports centre with several raceways (one tagged access=private) next to athletics grounds at Badia, Sulmona; an old motorbike-forum thread (2006-2009) lists a kart track at Sulmona, but nothing current confirms it.",
+  "sources": [
+   "https://www.openstreetmap.org/way/333552738",
+   "https://www.motoclub-tingavert.it/t7158s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1485145255",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "200 m raceway beside SS209 Valnerina and the Nera river at Papigno, Terni; no web source found (the nearest known kart track is Le Querce in Cascia, far away).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1485145255"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1378182562",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Kart area by Lago Le Grazie and the Chienti river on Via Mattarella, Tolentino, next to a customer car park; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1378182562"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/315013666",
+  "verdict": "real",
+  "name": "Area 51 Go-Kart",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The karting sports centre adjoins the EuroBowling centre at Viale Europa 51, Torre del Greco; a listing describes Area 51 Go-Kart at that address as a year-round go-kart facility with several kart models and group races (aggregator source, no own website found).",
+  "sources": [
+   "https://www.openstreetmap.org/way/315013666",
+   "https://livetheworld.com/activities/italy/area-51-go-kart"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/226257969",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports-centre polygon (no outline) in the industrial area on Via Leonardo da Vinci, Torre di Mosto; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/226257969"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/840136581",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Kart area polygon by the railway on Viale della Serenissima, San Giuseppe (Treviso); no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/840136581"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/284733806",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Asphalt 428 m raceway among brownfield land at Ottava (Sassari); no web source found for a kart venue here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/284733806"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1091799386",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "508 m raceway at Fondotoce (Verbania) near a quarry and an equestrian field; no web source found (Kart Oasi Racing is at Crevoladossola, much farther north).",
+  "sources": [
+   "https://www.openstreetmap.org/way/1091799386"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1244640976",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "336 m raceway near Camping Eden and businesses on the SP95 at Porto Salvo/Bivona (Vibo Valentia); no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1244640976"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1246628708",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Short 147 m raceway on the SP14 at Piscopio (Vibo Valentia). A listing places 'Karting Club ASD La Gria' (kart rental and minimoto track) on the provincial road to Filogaso in Vibo Valentia, which could be this site, but its exact position is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1246628708",
+   "https://www.livetheworld.com/activities/italy/karting-club-asd-la-gria"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/438309773",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports-centre polygon on SP34 at Pedali, Viggianello; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/438309773"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/2685220619",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Point tagged sport=karting at the Piazzale dello Sport sports area of Villadossola, next to a raceway tagged sport=motor; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/node/2685220619"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1506906475",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "372 m one-way raceway at Grotte Santo Stefano (Viterbo). A 2007 forum post says the local electric-kart track 'Elettrokart Sensi' at Grotte Santo Stefano had been closed by the Comune; there is no current evidence whether it reopened.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1506906475",
+   "https://www.motoclub-tingavert.it/t92833s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1317001788",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceway is in the Malbun village centre beside the Schlucher-Treff restaurant and Spielpark Malbun; Liechtenstein tourism lists 'Schlucher-Treff mit Mini-Cars & Trampolin', a children's mini-car attraction, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1317001788",
+   "https://tourismus.li/en/lie/place/malbi-park/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1430868491",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "225 m sand-surface track inside the Dino Experience Park children's theme park (playground, maze, Jurassic Golf) in Gouda; a children's ride track, not a kart venue.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1430868491",
+   "https://welkomingouda.nl/en/locaties/dino-experience-park/"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

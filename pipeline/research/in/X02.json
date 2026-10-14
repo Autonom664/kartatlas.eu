@@ -1,0 +1,447 @@
+[
+ {
+  "id": "way/171449371",
+  "name": "Circuit Roger Gaillard (ASK Ancenis)",
+  "town": "Ancenis-Saint-Géréon",
+  "country": "FR",
+  "websites": [
+   "https://www.ask-ancenis.fr",
+   "https://www.ask-ancenis.fr"
+  ],
+  "known_price_source": null,
+  "last_note": "Club circuit; public rental is run by a separate operator, Plein Gaz Karting, sharing the track in alternating sessions."
+ },
+ {
+  "id": "way/533293229",
+  "name": "Circuit de Vaison Piste",
+  "town": "Torcy",
+  "country": "FR",
+  "websites": [
+   "https://vaisonpiste.com/",
+   "https://vaisonpiste.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: site returns HTTP 403 behind a Cloudflare JavaScript challenge"
+ },
+ {
+  "id": "way/183755170",
+  "name": "Circuit du Périgord",
+  "town": "Teyjat",
+  "country": "FR",
+  "websites": [
+   "http://www.circuit-karting-perigord.fr/",
+   "http://www.circuit-karting-perigord.fr/"
+  ],
+  "known_price_source": null,
+  "last_note": "Website taken from the Dordogne tourism office listing (Beaumont, Teyjat) but it returned HTTP 403, so no facts could be read from it."
+ },
+ {
+  "id": "way/207905346",
+  "name": "Kart-Circuit des Renardières",
+  "town": "Pageas",
+  "country": "FR",
+  "websites": [
+   "https://www.facebook.com/profile.php?id=61575141148355",
+   "https://www.facebook.com/profile.php?id=61575141148355"
+  ],
+  "known_price_source": null,
+  "last_note": "Only an official Facebook page found (via VisitLimousin); fleet and track details there come from a tourism listing and were not used."
+ },
+ {
+  "id": "way/724274244",
+  "name": "Karting de Royan",
+  "town": "Royan",
+  "country": "FR",
+  "websites": [
+   "https://www.karting-royan.com/",
+   "https://www.karting-royan.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Own site confirms 13 rue d'Arsonval (Royan 2 zone); 10-min 4-stroke and 8-min 2-stroke sessions; session prices only via online ticketing."
+ },
+ {
+  "id": "way/107595127",
+  "name": "Les Circuits de Vendée (Piste de la Michetterie)",
+  "town": "Fontenay-le-Comte",
+  "country": "FR",
+  "websites": [
+   "https://www.circuitsdevendee.com/",
+   "https://www.circuitsdevendee.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Operator site lists the Michetterie under its car/moto infrastructure but describes only indoor electric karting, so outdoor kart use of this track is unconfirmed."
+ },
+ {
+  "id": "way/1241212966",
+  "name": "PromoSports Karting (Circuit Henri Bellin)",
+  "town": "Rouillé",
+  "country": "FR",
+  "websites": [
+   "https://www.facebook.com/pages/Promosports/401955333189029",
+   "https://www.facebook.com/pages/Promosports/401955333189029"
+  ],
+  "known_price_source": null,
+  "last_note": "Only a Facebook page found (via Vienne tourism, which also gives phone/email); listed site promosports.org does not resolve; Facebook content not readable."
+ },
+ {
+  "id": "way/472062469",
+  "name": "Racing Kart JPR",
+  "town": "Ostricourt",
+  "country": "FR",
+  "websites": [
+   "https://www.karting-lille-jpr.fr",
+   "https://www.karting-lille-jpr.fr",
+   "https://www.facebook.com/RacingKartJPR"
+  ],
+  "known_price_source": null,
+  "last_note": "Session prices only in online booking widget; not listed as text."
+ },
+ {
+  "id": "way/410308914",
+  "name": "Racing Kart du Mans",
+  "town": "Soulitré",
+  "country": "FR",
+  "websites": [
+   "https://www.racingkartdumans.com/",
+   "https://www.racingkartdumans.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Session prices only in online ticketing (not listed as text); group formats 'sur demande'. Kart Juniors from 7, 270cc from 12, 390cc adults from 16."
+ },
+ {
+  "id": "node/13817470583",
+  "name": "Speed2Max",
+  "town": "Clermont-Ferrand",
+  "country": "FR",
+  "websites": [
+   "https://speed2max.com/",
+   "https://speed2max.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Speed2Max site covers a network of tracks; prices require selecting a track in the booking app and are not shown as text. Karts from 7 years and 1.40 m."
+ },
+ {
+  "id": "way/72225826",
+  "name": "West Mecapark",
+  "town": "Corcoué-sur-Logne",
+  "country": "FR",
+  "websites": [
+   "https://www.west-mecapark.com/",
+   "https://www.west-mecapark.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Rental kart prices only in Apex Timing booking widget (not readable); site lists only track access fees for own vehicles (20/40 EUR half/full day)."
+ },
+ {
+  "id": "way/798432703",
+  "name": "Adria Karting Raceway",
+  "town": "Adria",
+  "country": "IT",
+  "websites": [
+   "https://www.adriaraceway.com/",
+   "https://www.adriaraceway.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: adriaraceway.com returns Cloudflare bot challenge (403)"
+ },
+ {
+  "id": "relation/20633491",
+  "name": "Circuito Internazionale Napoli",
+  "town": "Sarno",
+  "country": "IT",
+  "websites": [
+   "https://circuitointernazionalenapoli.com/",
+   "https://circuitointernazionalenapoli.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Rental prices shown only as images on tariffe-noleggio page (not readable); text states 12-minute tickets, booking mandatory with phone confirmation."
+ },
+ {
+  "id": "relation/18655290",
+  "name": "Circuito internazionale \"Le Colline\"",
+  "town": "Chignolo Po",
+  "country": "IT",
+  "websites": [
+   "https://www.circuitointernazionalelecolline.it/",
+   "https://www.circuitointernazionalelecolline.it/"
+  ],
+  "known_price_source": null,
+  "last_note": "No kart rental mentioned on site; only track fees for privately owned karts (minors need parental authorisation form)."
+ },
+ {
+  "id": "way/159352783",
+  "name": "CogisKart",
+  "town": "Corridonia",
+  "country": "IT",
+  "websites": [
+   "https://www.cogiskart.com/",
+   "https://www.cogiskart.com/"
+  ],
+  "known_price_source": null,
+  "last_note": "Rental prices not published (booking mandatory, by phone); rental Mon, Wed-Sun from 16:00 to sunset, closed Tue and pre-race weeks."
+ },
+ {
+  "id": "way/366033331",
+  "name": "Kartodromo Orsoleo",
+  "town": "Roccanova",
+  "country": "IT",
+  "websites": [
+   "http://kartodromorsoleo.altervista.org",
+   "http://kartodromorsoleo.altervista.org"
+  ],
+  "known_price_source": null,
+  "last_note": "Site says open every day with floodlights and a fleet of 30 karts with minimum ages (270cc 14+, 200cc 12+, 120cc 8+, 35cc 5+)."
+ },
+ {
+  "id": "node/13979020833",
+  "name": "Kartodromo Palazzo",
+  "town": "Trecchina",
+  "country": "IT",
+  "websites": [
+   "http://kartodromopalazzo.it/",
+   "http://kartodromopalazzo.it/"
+  ],
+  "known_price_source": null,
+  "last_note": "670 m track near Maratea; driving requires ASD MotorArt membership (5 EUR/year); mobile +39 333 9422848."
+ },
+ {
+  "id": "way/1546897978",
+  "name": "Kartodromo Pista dei Campioni",
+  "town": "Alzachèna/Arzachena",
+  "country": "IT",
+  "websites": [
+   "https://www.pistadeicampioni.com/",
+   "https://www.pistadeicampioni.com/",
+   "https://www.facebook.com/www.pistadeicampioni.it"
+  ],
+  "known_price_source": null,
+  "last_note": "Seasonal evening operation May-October (Costa Smeralda); shared and private sessions on Sodikart karts, also mini motos."
+ },
+ {
+  "id": "way/47052547",
+  "name": "Pista Go Kart Riccione",
+  "town": "Riccione",
+  "country": "IT",
+  "websites": [
+   "https://www.facebook.com/riccionekartemoto",
+   "https://www.facebook.com/riccionekartemoto"
+  ],
+  "known_price_source": null,
+  "last_note": "Not checked: only website is a Facebook page, which returns no readable content without login"
+ },
+ {
+  "id": "way/104579055",
+  "name": "Pista Kart Vittoria",
+  "town": "Pontinvrea",
+  "country": "IT",
+  "websites": [
+   "http://www.pistakartvittoria.it/",
+   "http://www.pistakartvittoria.it/"
+  ],
+  "known_price_source": null,
+  "last_note": "637 m lit track; mobile +39 349 7853094."
+ },
+ {
+  "id": "way/365007906",
+  "name": "Pista Mini Speed",
+  "town": "Ortona",
+  "country": "IT",
+  "websites": [
+   "https://www.pistaminispeed.it/",
+   "https://www.pistaminispeed.it/"
+  ],
+  "known_price_source": null,
+  "last_note": "Mainly minimoto / pit bike / Ohvale Mini GP track that also mentions go-karts; closed in rain."
+ },
+ {
+  "id": "way/58821981",
+  "name": "De Uithof",
+  "town": "Den Haag",
+  "country": "NL",
+  "websites": [
+   "https://deuithof.nl/",
+   "https://deuithof.nl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Venue site deuithof.nl no longer mentions karting at all (no karting page in sitemap; /karten/ and /karting/ redirect to the homepage; only an F1 race simulator listed) - karting may have closed; not confirmed by the site"
+ },
+ {
+  "id": "way/47490179",
+  "name": "TeamSport Groningen",
+  "town": "Groningen",
+  "country": "NL",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/groningen",
+   "https://www.teamsport-ekarting.nl/locaties/groningen"
+  ],
+  "known_price_source": null,
+  "last_note": "Prices not listed on the site text; only available in the online booking widget, so prices left empty. No track-map graphic found (track images are photos)."
+ },
+ {
+  "id": "way/1360118353",
+  "name": "TeamSport Karten Utrecht The Wall",
+  "town": "Utrecht",
+  "country": "NL",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht",
+   "https://www.teamsport-ekarting.nl/locaties/utrecht"
+  ],
+  "known_price_source": null,
+  "last_note": "Prices not listed on the site text; only available in the online booking widget (and promo banner images), so prices left empty. No track-map graphic found."
+ },
+ {
+  "id": "node/12197759323",
+  "name": "KartCenter Sopot",
+  "town": "Sopot",
+  "country": "PL",
+  "websites": [
+   "https://kartcenter.pl/sopot-outdoor/",
+   "https://kartcenter.pl/sopot-outdoor/"
+  ],
+  "known_price_source": null,
+  "last_note": "Operator's Sopot page only announces an opening on 24 July (year not stated), with map 'coming soon'; the price list covers only the operator's indoor Gdańsk Morena track, so no Sopot prices are recorded."
+ },
+ {
+  "id": "way/845057578",
+  "name": "Kurpiowska Kraina",
+  "town": "Wydmusy",
+  "country": "PL",
+  "websites": [
+   "https://www.kurpiowskakraina.com.pl/",
+   "https://www.kurpiowskakraina.com.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "No online presence found for a kart track: the Kurpiowska Kraina resort website (accommodation, beach, water sports, bikes) does not mention go-karts."
+ },
+ {
+  "id": "way/1164543364",
+  "name": "MotoPark Toruń",
+  "town": "Toruń",
+  "country": "PL",
+  "websites": [
+   "https://www.motoparktorun.pl/",
+   "https://www.motoparktorun.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Driving-technique centre (ODTJ) with an asphalt racing/training track rented for events; its site mentions no kart rental, though a track database and the city site report Rotax/junior kart championship rounds held there."
+ },
+ {
+  "id": "way/1197167809",
+  "name": "MotoPark Toruń",
+  "town": "Toruń",
+  "country": "PL",
+  "websites": [
+   "https://www.motoparktorun.pl/",
+   "https://www.motoparktorun.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Within the MotoPark Toruń complex, a driver-training centre (ODTJ) with an asphalt training/race track and skid pads; its own site lists no public kart rental or kart prices."
+ },
+ {
+  "id": "way/155151329",
+  "name": "Tor Kartingowy Kormoran Olsztyn",
+  "town": "Olsztyn",
+  "country": "PL",
+  "websites": [
+   "https://www.olsztyn.torkormoran.pl",
+   "https://www.olsztyn.torkormoran.pl"
+  ],
+  "known_price_source": null,
+  "last_note": "Indoor asphalt track of about 300 m, width 4-8 m; over 20 karts; prices only in the online booking system."
+ },
+ {
+  "id": "way/1427663691",
+  "name": "Tor Toruń",
+  "town": "Toruń",
+  "country": "PL",
+  "websites": [
+   "https://www.motoparktorun.pl/",
+   "https://www.motoparktorun.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Within the MotoPark Toruń complex (Łukasiewicza 66), a driver-training centre (ODTJ) with an asphalt training/race track and skid pads; its own site lists no public kart rental or kart prices."
+ },
+ {
+  "id": "node/2378222100",
+  "name": "Tor kartingowy",
+  "town": "Ełk",
+  "country": "PL",
+  "websites": [
+   "https://www.mark-tor.elk.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Known website mark-tor.elk.pl only shows a 'technical break' maintenance page (expired certificate); no other online presence found."
+ },
+ {
+  "id": "way/1186081737",
+  "name": "Tor24.pl Zabrze",
+  "town": "Zabrze",
+  "country": "PL",
+  "websites": [
+   "https://tor24.pl/",
+   "https://tor24.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "24 Mach1 karts in classes Mini (from 6), Junior, Profi and Racer with 160/200/270 cm³ engines, 390 cm³ only after qualification; prices only on Facebook (the cennik page links there)."
+ },
+ {
+  "id": "node/13016721932",
+  "name": "WRT 2.0 Kapelanka",
+  "town": "Kraków",
+  "country": "PL",
+  "websites": [
+   "http://krakow.wrt-karting.pl/",
+   "http://krakow.wrt-karting.pl/"
+  ],
+  "known_price_source": null,
+  "last_note": "Second WRT Kraków track (WRT 2.0 Kapelanka); the only price list on the site is labelled for WRT 1.0 Nowa Huta, so no prices are recorded for Kapelanka."
+ },
+ {
+  "id": "relation/10426245",
+  "name": "Göteborgs Gokartcenter",
+  "town": "Göteborgs Stad",
+  "country": "SE",
+  "websites": [
+   "https://gokart.se/",
+   "https://gokart.se/"
+  ],
+  "known_price_source": null,
+  "last_note": "Prices not listed on the site text; only shown in the Funbutler online booking widget, so prices left empty."
+ },
+ {
+  "id": "way/234113309",
+  "name": "Kart",
+  "town": "Enköpings kommun",
+  "country": "SE",
+  "websites": [
+   "https://www.enkopingsmk.se/karting",
+   "https://www.enkopingsmk.se/"
+  ],
+  "known_price_source": null,
+  "last_note": "Club racing track (Enköpings MK); the karting page describes competition karting only and mentions no public kart rental."
+ },
+ {
+  "id": "way/343140372",
+  "name": "Kneippbyn gokart",
+  "town": "Gotlands kommun",
+  "country": "SE",
+  "websites": [
+   "https://www.kneippbyn.se",
+   "https://www.kneippbyn.se"
+  ],
+  "known_price_source": null,
+  "last_note": "Go-kart ride inside the Kneippbyn amusement/water park south of Visby, seasonal May-August."
+ },
+ {
+  "id": "way/828964156",
+  "name": "Trollringens kartingbana",
+  "town": "Lycksele kommun",
+  "country": "SE",
+  "websites": [
+   "https://lyckselemk.se/?p=hyrkart",
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "known_price_source": null,
+  "last_note": "Lycksele Motorklubb runs summer rental drop-in (late June to mid August) at Trollringen."
+ }
+]

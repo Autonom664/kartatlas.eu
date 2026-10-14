@@ -1,0 +1,732 @@
+[
+ {
+  "id": "way/1486100472",
+  "guessed_name": null,
+  "nearby_hint": "Vy-lès-Filain",
+  "town": "Filain",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.50347,
+  "lon": 6.17794,
+  "type": "outdoor",
+  "osm_length_m": 152,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1079744042",
+  "guessed_name": "Crazy Kart",
+  "nearby_hint": null,
+  "town": "Féy",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 49.02255,
+  "lon": 6.10164,
+  "type": "outdoor",
+  "osm_length_m": 330,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "dirt"
+  }
+ },
+ {
+  "id": "way/875122571",
+  "guessed_name": "Circuit Mini Buggy",
+  "nearby_hint": null,
+  "town": "Gap",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 44.55658,
+  "lon": 6.09119,
+  "type": "outdoor",
+  "osm_length_m": 263,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/614006004",
+  "guessed_name": null,
+  "nearby_hint": "Giffaumont-Champaubert",
+  "town": "Giffaumont-Champaubert",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.5522,
+  "lon": 4.7708,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/111531590",
+  "guessed_name": null,
+  "nearby_hint": "Gièvres",
+  "town": "Gièvres",
+  "region": "Centre-Val de Loire",
+  "country": "FR",
+  "lat": 47.28173,
+  "lon": 1.64764,
+  "type": "outdoor",
+  "osm_length_m": 1005,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/233622123",
+  "guessed_name": null,
+  "nearby_hint": "Heiligenberg",
+  "town": "Gresswiller",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.53881,
+  "lon": 7.40903,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1021512553",
+  "guessed_name": null,
+  "nearby_hint": "Gunstett",
+  "town": "Gunstett",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.91514,
+  "lon": 7.752,
+  "type": "outdoor",
+  "osm_length_m": 540,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/721615951",
+  "guessed_name": null,
+  "nearby_hint": "La Faute-sur-Mer",
+  "town": "L'Aiguillon-la-Presqu'île",
+  "region": "Pays de la Loire",
+  "country": "FR",
+  "lat": 46.33223,
+  "lon": -1.3283,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/162384551",
+  "guessed_name": null,
+  "nearby_hint": "La Ferrière-aux-Étangs",
+  "town": "La Ferrière-aux-Étangs",
+  "region": "Normandie",
+  "country": "FR",
+  "lat": 48.64422,
+  "lon": -0.5135,
+  "type": "outdoor",
+  "osm_length_m": 274,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/191907701",
+  "guessed_name": null,
+  "nearby_hint": "La Villeneuve-Bellenoye-et-la-Maize",
+  "town": "La Villeneuve-Bellenoye-et-la-Maize",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.70077,
+  "lon": 6.24602,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "relation/5927801",
+  "guessed_name": null,
+  "nearby_hint": "Lamballe",
+  "town": "Lamballe-Armor",
+  "region": "Bretagne",
+  "country": "FR",
+  "lat": 48.47436,
+  "lon": -2.50064,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "access": "customers",
+   "leisure": "track",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2016 + Bing",
+   "sport": "karting",
+   "surface": "asphalt",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/311226208",
+  "guessed_name": null,
+  "nearby_hint": "Laneuveville-en-Saulnois",
+  "town": "Laneuveville-en-Saulnois",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.87804,
+  "lon": 6.43461,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/715352032",
+  "guessed_name": null,
+  "nearby_hint": "Les Mathes",
+  "town": "Les Mathes",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 45.72371,
+  "lon": -1.17371,
+  "type": "outdoor",
+  "osm_length_m": 133,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1102755850",
+  "guessed_name": null,
+  "nearby_hint": "Les Fonts Saladas",
+  "town": "Limoges",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 45.87364,
+  "lon": 1.18271,
+  "type": "outdoor",
+  "osm_length_m": 277,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/2432025566",
+  "guessed_name": null,
+  "nearby_hint": "Loix",
+  "town": "Loix",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 46.22875,
+  "lon": -1.42983,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/655641165",
+  "guessed_name": null,
+  "nearby_hint": "Longvic",
+  "town": "Longvic",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.28801,
+  "lon": 5.05504,
+  "type": "outdoor",
+  "osm_length_m": 634,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2021",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/939274680",
+  "guessed_name": null,
+  "nearby_hint": "Magny",
+  "town": "Magny",
+  "region": "Bourgogne-Franche-Comté",
+  "country": "FR",
+  "lat": 47.49187,
+  "lon": 3.97315,
+  "type": "outdoor",
+  "osm_length_m": 327,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/613999944",
+  "guessed_name": null,
+  "nearby_hint": "Mareuil-lès-Meaux",
+  "town": "Mareuil-lès-Meaux",
+  "region": "Île-de-France",
+  "country": "FR",
+  "lat": 48.91888,
+  "lon": 2.85427,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting;boules"
+  }
+ },
+ {
+  "id": "way/761190869",
+  "guessed_name": null,
+  "nearby_hint": "Marles-les-Mines",
+  "town": "Marles-les-Mines",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 50.50627,
+  "lon": 2.5012,
+  "type": "outdoor",
+  "osm_length_m": 269,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/240989115",
+  "guessed_name": null,
+  "nearby_hint": "La Chapelle-Saint-Ursin",
+  "town": "Marmagne",
+  "region": "Centre-Val de Loire",
+  "country": "FR",
+  "lat": 47.07972,
+  "lon": 2.29762,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "source": "Bing 2011",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/202120893",
+  "guessed_name": null,
+  "nearby_hint": "Mauriac",
+  "town": "Mauriac",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 45.2244,
+  "lon": 2.32093,
+  "type": "outdoor",
+  "osm_length_m": 331,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 11/2015",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/308748098",
+  "guessed_name": null,
+  "nearby_hint": "Mercin-et-Vaux",
+  "town": "Mercin-et-Vaux",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 49.37958,
+  "lon": 3.29327,
+  "type": "outdoor",
+  "osm_length_m": 711,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/178180850",
+  "guessed_name": null,
+  "nearby_hint": "La Motte",
+  "town": "Milizac-Guipronvel",
+  "region": "Bretagne",
+  "country": "FR",
+  "lat": 48.47352,
+  "lon": -4.52589,
+  "type": "outdoor",
+  "osm_length_m": 458,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "relation/12018456",
+  "guessed_name": null,
+  "nearby_hint": "Mirefleurs",
+  "town": "Mirefleurs",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 45.69681,
+  "lon": 3.2345,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/823896174",
+  "guessed_name": null,
+  "nearby_hint": "Magnan",
+  "town": "Nice",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.69141,
+  "lon": 7.24265,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1038297754",
+  "guessed_name": null,
+  "nearby_hint": "Nœux-les-Mines",
+  "town": "Nœux-les-Mines",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 50.47303,
+  "lon": 2.68272,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "disused:highway": "raceway",
+   "landuse": "grass",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1070725646",
+  "guessed_name": null,
+  "nearby_hint": "Claret",
+  "town": "Pompignan",
+  "region": "Occitanie",
+  "country": "FR",
+  "lat": 43.88217,
+  "lon": 3.89434,
+  "type": "outdoor",
+  "osm_length_m": 489,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/394191346",
+  "guessed_name": null,
+  "nearby_hint": "Poullaouen",
+  "town": "Poullaouen",
+  "region": "Bretagne",
+  "country": "FR",
+  "lat": 48.33232,
+  "lon": -3.62547,
+  "type": "outdoor",
+  "osm_length_m": 418,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/13228393793",
+  "guessed_name": null,
+  "nearby_hint": "Présailles",
+  "town": "Présailles",
+  "region": "Auvergne-Rhône-Alpes",
+  "country": "FR",
+  "lat": 44.89,
+  "lon": 4.04684,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "source": "Le ministère de la ville, de la jeunesse et des sports - 2025-09",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/136505203",
+  "guessed_name": "Euro Dieppe Karting",
+  "nearby_hint": null,
+  "town": "Rouxmesnil-Bouteilles",
+  "region": "Normandie",
+  "country": "FR",
+  "lat": 49.90126,
+  "lon": 1.10755,
+  "type": "outdoor",
+  "osm_length_m": 714,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "access": "private",
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/72953754",
+  "guessed_name": null,
+  "nearby_hint": "Médis",
+  "town": "Royan",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 45.63327,
+  "lon": -0.99583,
+  "type": "indoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "building": "yes",
+   "ref:FR:RNB": "K24E53H5NEV7",
+   "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1429200345",
+  "guessed_name": null,
+  "nearby_hint": "Quinson",
+  "town": "Régusse",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "lat": 43.67899,
+  "lon": 6.05893,
+  "type": "outdoor",
+  "osm_length_m": 637,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/261965110",
+  "guessed_name": null,
+  "nearby_hint": "Salignac-Eyvigues",
+  "town": "Saint-Geniès",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 44.9849,
+  "lon": 1.297,
+  "type": "outdoor",
+  "osm_length_m": 299,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/872984146",
+  "guessed_name": null,
+  "nearby_hint": "Cucq",
+  "town": "Saint-Josse",
+  "region": "Hauts-de-France",
+  "country": "FR",
+  "lat": 50.49343,
+  "lon": 1.65229,
+  "type": "outdoor",
+  "osm_length_m": 556,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/10088957473",
+  "guessed_name": null,
+  "nearby_hint": "Saint-Pavace",
+  "town": "Saint-Saturnin",
+  "region": "Pays de la Loire",
+  "country": "FR",
+  "lat": 48.05023,
+  "lon": 0.17528,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1536839980",
+  "guessed_name": null,
+  "nearby_hint": "Saint-Vaast-la-Hougue",
+  "town": "Saint-Vaast-la-Hougue",
+  "region": "Normandie",
+  "country": "FR",
+  "lat": 49.60268,
+  "lon": -1.26223,
+  "type": "outdoor",
+  "osm_length_m": 311,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/969613966",
+  "guessed_name": null,
+  "nearby_hint": "Saint-Armel",
+  "town": "Sarzeau",
+  "region": "Bretagne",
+  "country": "FR",
+  "lat": 47.55796,
+  "lon": -2.69173,
+  "type": "outdoor",
+  "osm_length_m": 604,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "lit": "no",
+   "note": "Piste de karting abandonnée depuis plusieurs années. La vue aérienne de l'IGN ne reflète pas la réalité : les ronces et les ajoncs ont largement empiété sur la piste qui se détériore aussi très vite.",
+   "sport": "karting",
+   "status": "abandoned",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/989919349",
+  "guessed_name": null,
+  "nearby_hint": "Savignac-sur-Leyze",
+  "town": "Savignac-sur-Leyze",
+  "region": "Nouvelle-Aquitaine",
+  "country": "FR",
+  "lat": 44.46888,
+  "lon": 0.79394,
+  "type": "outdoor",
+  "osm_length_m": 1531,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/727555589",
+  "guessed_name": null,
+  "nearby_hint": "Savonnières-devant-Bar",
+  "town": "Savonnières-devant-Bar",
+  "region": "Grand Est",
+  "country": "FR",
+  "lat": 48.75554,
+  "lon": 5.17025,
+  "type": "outdoor",
+  "osm_length_m": 321,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ }
+]

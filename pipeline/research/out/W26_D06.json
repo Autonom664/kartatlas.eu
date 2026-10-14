@@ -1,0 +1,1582 @@
+[
+ {
+  "website": "https://www.k1speed.com/it/catania.html",
+  "phone": "+39 095 741 0027",
+  "email": null,
+  "hours": "Mon-Thu 16:00-24:00; Fri 16:00-01:00; Sat 11:00-01:00; Sun 11:00-24:00",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/junior"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.k1speed.com/it/",
+   "https://www.k1speed.com/it/catania.html"
+  ],
+  "id": "way/28716662",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.k1speed.com/it/napoli-marcianise.html",
+  "phone": "+39 0823 149 9780",
+  "email": null,
+  "hours": "Mon-Sun 10:00-24:00",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/junior"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.k1speed.com/it/",
+   "https://www.k1speed.com/it/napoli-marcianise.html"
+  ],
+  "id": "way/232100516",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.k1speed.com/it/meda.html",
+  "phone": "+39 0362 1979649",
+  "email": null,
+  "hours": "Mon-Thu 16:00-24:00; Fri 16:00-01:00; Sat 11:00-01:00; Sun 11:00-24:00",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/junior"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.k1speed.com/it/",
+   "https://www.k1speed.com/it/meda.html"
+  ],
+  "id": "way/345487575",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://i-kart.it/",
+  "phone": "+39 345 161 5726",
+  "email": "info@i-kart.it",
+  "hours": "Mon closed; Tue-Fri 17:00-23:00; Sat 16:00-24:00; Sun 15:00-21:00",
+  "karts": [
+   {
+    "chassis": "Storm",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "IKART GP",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 60.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 min practice + 5 min qualifying + race 1 7 laps + race 2 7 laps"
+   },
+   {
+    "label": "Maxi Gran Premio",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 45.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 min practice + 5 min qualifying + 7-lap race"
+   },
+   {
+    "label": "Gran Premio",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 35.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 min qualifying + 7-lap race"
+   },
+   {
+    "label": "Prove libere",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": "No membership fee (stated). Bookings for groups of 5 or more.",
+  "price_source": "https://i-kart.it/",
+  "tracks": [
+   {
+    "name": "Indoor 2-level track",
+    "length_m": 630,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://i-kart.it/la-pista/",
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://i-kart.it/",
+   "https://i-kart.it/contatti/"
+  ],
+  "id": "node/4497567606",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.turbokart.it/",
+  "phone": "+39 347 342 6156",
+  "email": "info@turbokart.it",
+  "hours": "Wed-Fri 20:30-23:00; Sat 15:30-19:00 and 20:30-23:00; Sun 14:30-20:30 (booking required)",
+  "karts": [
+   {
+    "chassis": "Birel N35",
+    "engine": "200cc 4T",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Parolin",
+    "engine": "200cc",
+    "hp": null,
+    "class": "junior 8-14"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "minikart (min 130 cm)"
+   }
+  ],
+  "ages": {
+   "junior": "8-14",
+   "minikart_min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Turno cronometrato",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 23.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Turno cronometrato",
+    "class": null,
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 37.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Abbonamento 10 turni da 15'",
+    "class": null,
+    "type": "package",
+    "minutes": 15,
+    "laps": null,
+    "price": 215.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gara Easy",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 33.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' timed + 20' race"
+   },
+   {
+    "label": "Gara Easy - Warm Up",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 39.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' practice + 5' timed + 20' race"
+   },
+   {
+    "label": "Gara Pro",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 48.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' timed + 15' race 1 + 15' race 2"
+   },
+   {
+    "label": "Gara Pro - Warm Up",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 54.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' practice + 5' timed + 15' race1 + 15' race2"
+   },
+   {
+    "label": "Kart doppio - turno cronometrato",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 30.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": "Annual membership (tesseramento) EUR 3; helmets included",
+  "price_source": "https://www.turbokart.it/orari-tariffe",
+  "tracks": [
+   {
+    "name": "Turbokart",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.turbokart.it/",
+   "https://www.turbokart.it/orari-tariffe"
+  ],
+  "id": "way/222784251",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.misanino.it/",
+  "phone": "+39 335 626 6636",
+  "email": "info@misanino.it",
+  "hours": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "400cc 4T",
+    "hp": null,
+    "class": "Sport (min 16)"
+   },
+   {
+    "chassis": null,
+    "engine": "125cc 2T",
+    "hp": null,
+    "class": "Race (min 18)"
+   }
+  ],
+  "ages": {
+   "sport_min": 16,
+   "race_min": 18
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Sport 400cc - giri liberi",
+    "class": null,
+    "type": null,
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": null
+   },
+   {
+    "label": "Sport 400cc - giri liberi",
+    "class": null,
+    "type": null,
+    "minutes": 10,
+    "laps": null,
+    "price": 24.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun+holidays",
+    "note": null
+   },
+   {
+    "label": "Sport 400cc - MINI Grand Prix",
+    "class": null,
+    "type": null,
+    "minutes": null,
+    "laps": null,
+    "price": 30.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "5 min qualifying + 12-lap race"
+   },
+   {
+    "label": "Sport 400cc - MINI Grand Prix",
+    "class": null,
+    "type": null,
+    "minutes": null,
+    "laps": null,
+    "price": 34.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun+holidays",
+    "note": "5 min qualifying + 12-lap race"
+   },
+   {
+    "label": "Sport 400cc - Grand Prix",
+    "class": null,
+    "type": null,
+    "minutes": null,
+    "laps": null,
+    "price": 48.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "5 min qualifying + 12-lap race 1 + 10-lap race 2"
+   },
+   {
+    "label": "Sport 400cc - Grand Prix",
+    "class": null,
+    "type": null,
+    "minutes": null,
+    "laps": null,
+    "price": 52.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun+holidays",
+    "note": "5 min qualifying + 12-lap race 1 + 10-lap race 2"
+   },
+   {
+    "label": "Race 125cc 2T - giri liberi",
+    "class": null,
+    "type": null,
+    "minutes": 10,
+    "laps": null,
+    "price": 35.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "requires lap under 49 s with Sport kart"
+   },
+   {
+    "label": "Race 125cc 2T - giri liberi",
+    "class": null,
+    "type": null,
+    "minutes": 10,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun+holidays",
+    "note": "requires lap under 49 s with Sport kart"
+   }
+  ],
+  "fees": [],
+  "membership": "Mandatory annual SPEED CARD EUR 5; helmet and balaclava included",
+  "price_source": "https://www.misanino.it/noleggio-go-kart/",
+  "tracks": [
+   {
+    "name": "Misanino",
+    "length_m": 900,
+    "width_m": 10,
+    "use": "rental/race"
+   }
+  ],
+  "layout_page": "https://www.misanino.it/tracciato-kart-misano/",
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.misanino.it/",
+   "https://www.misanino.it/noleggio-go-kart/",
+   "https://www.misanino.it/tracciato-kart-misano/"
+  ],
+  "id": "way/680592711",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": "yes",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.grandtouritalia.it/it/go-kart-a-grand-tour-italia",
+  "phone": "+39 051 002 9955",
+  "email": "prenotazioni@gtkarting.it",
+  "hours": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/junior 14+"
+   }
+  ],
+  "ages": {
+   "min_age": 14
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.grandtouritalia.it/it/go-kart-a-grand-tour-italia"
+  ],
+  "id": "way/265893610",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.acquaparco.it/pista-gokart",
+  "phone": "+39 334 893 6368",
+  "email": "info@acquaparco.it",
+  "hours": null,
+  "karts": [],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Acquaparco",
+    "length_m": 1300,
+    "width_m": null,
+    "use": "own karts (60, monomarcia, KZ sessions)"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.travelemiliaromagna.it/en/tracks-go-kart-emilia-romagna",
+   "https://www.acquaparco.it/pista-gokart",
+   "https://www.acquaparco.it/contatti"
+  ],
+  "id": "way/236274584",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": "yes",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.pistasalentina.it/",
+  "phone": "+39 0833 931311",
+  "email": "mail@pistasalentina.it",
+  "hours": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "single-seat rental (14+)"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "two-seater"
+   }
+  ],
+  "ages": {
+   "single_min_age": 14,
+   "two_seater_driver_min_age": 18,
+   "two_seater_passenger_min_age": 6
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Kart singolo",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "best-lap ranking after each 10-minute run"
+   },
+   {
+    "label": "Kart bi-posto",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "driver 18+, passenger 6+"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.pistasalentina.it/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://tkart.it/en/news/features/the-circuits-of-the-italian-aci-karting-2025-championship-rd1-in-ugento",
+   "https://www.pistasalentina.it/"
+  ],
+  "id": "way/209088489",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": "yes",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.kartodromonapoli.it/",
+  "phone": "+39 081 278 6015",
+  "email": "kartodromonapoli@gmail.com",
+  "hours": "Mon-Fri 11:00-01:15; Sat 10:00-02:00; Sun 10:00-01:15",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/child"
+   }
+  ],
+  "ages": {
+   "min_height_cm": 130,
+   "two_seater_child_height_cm": "105-130"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Corsa 8 minuti - adulto",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 16.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Corsa 8 minuti - bambino",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 12.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": null
+   },
+   {
+    "label": "Corsa 8 minuti - bambino",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat, Sun, holidays",
+    "note": null
+   },
+   {
+    "label": "Biposto (1 adulto + 1 bambino 105-130 cm)",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gran Premio",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 10,
+    "price": 27.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 min qualifying + 10-lap race, grid start, min 7 drivers; not Sundays/holidays"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.kartodromonapoli.it/orari-e-prezzi/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.yumping.com/it/kart/kartodromo-napoli--e19764272",
+   "https://www.kartodromonapoli.it/",
+   "https://www.kartodromonapoli.it/contact/",
+   "https://www.kartodromonapoli.it/orari-e-prezzi/"
+  ],
+  "id": "way/203027625",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.circuitoilsagittario.it/",
+  "phone": "+39 0773 258183",
+  "email": "info@circuitoilsagittario.it",
+  "hours": "Rental: Mon closed; Tue-Fri 09:00-13:00 and 14:00-20:00 or dark; Sat/Sun/holidays 17:00-20:00 or dark. Own vehicles (1-24 Oct): Mon-Fri 09:00-13:00/14:00-17:30, Sat-Sun 09:00-13:00/14:00-17:00.",
+  "karts": [
+   {
+    "chassis": "CRG Centurion",
+    "engine": "270cc 4T",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids (from 130 cm)"
+   }
+  ],
+  "ages": {
+   "kids_min_height_cm": 130
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Turno singolo 270cc",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Turno singolo kart bambini",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Mezzi/kart privati - mezza giornata",
+    "class": null,
+    "type": "own kart half day",
+    "minutes": null,
+    "laps": null,
+    "price": 35.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Mezzi/kart privati - giornata intera",
+    "class": null,
+    "type": "own kart day",
+    "minutes": null,
+    "laps": null,
+    "price": 60.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sabato pre-gara - turno unico",
+    "class": null,
+    "type": "own kart",
+    "minutes": null,
+    "laps": null,
+    "price": 60.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat (pre-race)",
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": "Insurance membership (tesseramento) EUR 8, 365 days, mandatory for under-16 rental; own karts need ASI C1 membership",
+  "price_source": "https://www.circuitoilsagittario.it/noleggio/",
+  "tracks": [
+   {
+    "name": "Il Sagittario",
+    "length_m": 1540,
+    "width_m": null,
+    "use": "kart/moto/legend cars"
+   }
+  ],
+  "layout_page": "https://www.circuitoilsagittario.it/tracciato/",
+  "sources": [
+   "https://www.motoclub-tingavert.it/t7158s.html",
+   "https://www.yumping.com/karting/circuito-il-saggitario--e19745120",
+   "https://www.circuitoilsagittario.it/",
+   "https://www.circuitoilsagittario.it/noleggio/"
+  ],
+  "id": "way/718090905",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": "yes",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.adrenalinekartindoor.it/",
+  "phone": "+39 0141 178 4297",
+  "email": "prenotazioni.aki@gmail.com",
+  "hours": "Open 7 days, from 09:00 by booking",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids (roll-bar)"
+   }
+  ],
+  "ages": {
+   "min_age": 7
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Corsa singola",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 30.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "adults and children"
+   },
+   {
+    "label": "Corsa singola",
+    "class": null,
+    "type": "session",
+    "minutes": 25,
+    "laps": null,
+    "price": 45.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Corsa singola sport (solo adulti)",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Plus GP",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 20,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' practice + 5' quali + 20-lap race"
+   },
+   {
+    "label": "Gold GP",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 30,
+    "price": 60.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' practice + 5' quali + 30-lap race"
+   },
+   {
+    "label": "Champions GP",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 80.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "7' practice + 7' quali + 2 x 18-lap races"
+   },
+   {
+    "label": "Finalissima",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 10,
+    "price": 25.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "only after a GP; 5' quali + 10 laps"
+   },
+   {
+    "label": "Abbonamento 5 corse 15'",
+    "class": null,
+    "type": "package",
+    "minutes": 15,
+    "laps": null,
+    "price": 130.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "valid 30 days"
+   },
+   {
+    "label": "Abbonamento 10 corse 15'",
+    "class": null,
+    "type": "package",
+    "minutes": 15,
+    "laps": null,
+    "price": 230.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Abbonamento 5 corse 25'",
+    "class": null,
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 200.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Abbonamento 10 corse 25'",
+    "class": null,
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 350.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": "Mandatory annual membership (ASI) EUR 10; VIP card EUR 100 (30% off); locker deposit EUR 5; reverse grid EUR 20; ballast EUR 5",
+  "price_source": "https://www.adrenalinekartindoor.it/quote-di-partecipazione/",
+  "tracks": [
+   {
+    "name": "Two-level indoor track",
+    "length_m": null,
+    "width_m": 6,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.expedia.com/things-to-do/go-kart-asti-go-kart-race-with-5-minutes-of-qualifying-15-laps-of-racing.a50357609.activity-details",
+   "https://www.adrenalinekartindoor.it/",
+   "https://www.adrenalinekartindoor.it/quote-di-partecipazione/",
+   "https://www.adrenalinekartindoor.it/contatti-aki/"
+  ],
+  "id": "node/3361843390",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://ods20.it/",
+  "phone": "+39 0572 767870",
+  "email": "officinadellosport2.0@gmail.com",
+  "hours": "Mon closed; Tue-Fri 20:30-00:00; Sat-Sun 16:00-00:00",
+  "karts": [
+   {
+    "chassis": "Sodikart RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://ods20.it/wp-content/uploads/2026/08/PREZZI-15.09.2026-ITA.pdf",
+  "tracks": [
+   {
+    "name": "MyKart indoor",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.yumping.com/fr/karting/my-kart--e19626945",
+   "https://ods20.it/",
+   "https://ods20.it/i-nostri-kart/"
+  ],
+  "id": "way/180137921",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.kartroma.it/",
+  "phone": "+39 06 6500 4962",
+  "email": "info@kartroma.it",
+  "hours": "Mon-Fri 17:00-24:00; Sat 11:00-13:00 and 15:00-24:00; Sun 11:00-13:00 and 15:00-23:00 (outdoor, weather dependent; no bookings)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids 10-14"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "two-seater"
+   }
+  ],
+  "ages": {
+   "kids": "10-14 (daylight only, arrive by 19:30)",
+   "gp": "18+"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Sessione",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sessione",
+    "class": null,
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 38.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Turni successivi",
+    "class": null,
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 19.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "subsequent sessions"
+   },
+   {
+    "label": "Kart biposto",
+    "class": null,
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Grand Prix 1",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 15,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8' qualifying + 15-lap race; min 8 adult drivers"
+   },
+   {
+    "label": "Grand Prix 2",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 15,
+    "price": 45.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "4' free + 8' quali + 15 laps; min 8 adults"
+   },
+   {
+    "label": "Grand Prix 3",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 20,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "4' free + 8' quali + 20 laps; min 8 adults"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.kartroma.it/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.yumping.com/it/kart/kartroma--e17238",
+   "https://www.kartroma.it/"
+  ],
+  "id": "way/32572655",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.pgkpesaro.it/",
+  "phone": "+39 340 643 9551",
+  "email": "info@pgkpesaro.it",
+  "hours": "Mon-Fri 18:00-24:00; Sat 15:30-00:30; Sun 15:30-23:30",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult/kids"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Giri liberi 8' - prima corsa",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 18.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Giri liberi 8' - seconda corsa (stesso giorno)",
+    "class": null,
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gran premio - primo",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 8,
+    "price": 28.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5' qualifying + 8-lap final"
+   },
+   {
+    "label": "Gran premio - secondo (stesso giorno)",
+    "class": null,
+    "type": "race",
+    "minutes": null,
+    "laps": 8,
+    "price": 25.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Giri liberi 16' - prima corsa",
+    "class": null,
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 28.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Giri liberi 16' - seconda corsa (stesso giorno)",
+    "class": null,
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 25.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.pgkpesaro.it/corse-e-tariffe/",
+  "tracks": [
+   {
+    "name": "PGK Pesaro",
+    "length_m": 650,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://www.pgkpesaro.it/il-circuito/",
+  "sources": [
+   "https://www.ilrestodelcarlino.it/pesaro/cosa-fare/go-kart-elettrici-x708f6w2",
+   "https://www.pgkpesaro.it/",
+   "https://www.pgkpesaro.it/corse-e-tariffe/",
+   "https://www.pgkpesaro.it/contatti/"
+  ],
+  "id": "way/38460476",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ }
+]

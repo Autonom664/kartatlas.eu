@@ -1,0 +1,728 @@
+[
+ {
+  "id": "way/686206452",
+  "guessed_name": null,
+  "nearby_hint": "Dellach",
+  "town": "Dellach",
+  "region": "Kärnten",
+  "country": "AT",
+  "lat": 46.65274,
+  "lon": 13.08295,
+  "type": "outdoor",
+  "osm_length_m": 377,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "lit": "no",
+   "oneway": "yes",
+   "sport": "motor;karting",
+   "surface": "fine_gravel"
+  }
+ },
+ {
+  "id": "way/874868038",
+  "guessed_name": null,
+  "nearby_hint": "Eggenburg",
+  "town": "Eggenburg",
+  "region": "Niederösterreich",
+  "country": "AT",
+  "lat": 48.64934,
+  "lon": 15.82402,
+  "type": "outdoor",
+  "osm_length_m": 172,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/716911856",
+  "guessed_name": null,
+  "nearby_hint": "Krottendorf",
+  "town": "Kapfenberg",
+  "region": "Steiermark",
+  "country": "AT",
+  "lat": 47.44141,
+  "lon": 15.31971,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "access": "customers",
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/102912644",
+  "guessed_name": null,
+  "nearby_hint": "Wegscheid",
+  "town": "Linz",
+  "region": "Oberösterreich",
+  "country": "AT",
+  "lat": 48.25171,
+  "lon": 14.27995,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "covered": "no",
+   "leisure": "pitch",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/463095468",
+  "guessed_name": null,
+  "nearby_hint": "Loosdorf",
+  "town": "Loosdorf",
+  "region": "Niederösterreich",
+  "country": "AT",
+  "lat": 48.20192,
+  "lon": 15.3908,
+  "type": "outdoor",
+  "osm_length_m": 263,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1103944247",
+  "guessed_name": null,
+  "nearby_hint": "Natternbach",
+  "town": "Natternbach",
+  "region": "Oberösterreich",
+  "country": "AT",
+  "lat": 48.40156,
+  "lon": 13.74887,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting",
+   "surface": "concrete"
+  }
+ },
+ {
+  "id": "way/325759220",
+  "guessed_name": null,
+  "nearby_hint": "Hinterglemm",
+  "town": "Saalbach-Hinterglemm",
+  "region": "Salzburg",
+  "country": "AT",
+  "lat": 47.38004,
+  "lon": 12.59933,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "leisure": "track",
+   "lit": "no",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/801526556",
+  "guessed_name": null,
+  "nearby_hint": "Abersee",
+  "town": "Sankt Gilgen",
+  "region": "Salzburg",
+  "country": "AT",
+  "lat": 47.73004,
+  "lon": 13.41612,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/225023200",
+  "guessed_name": null,
+  "nearby_hint": "Dunkelstein",
+  "town": "Ternitz",
+  "region": "Niederösterreich",
+  "country": "AT",
+  "lat": 47.71685,
+  "lon": 16.04218,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "amenity": "driver_training",
+   "driver_training:for": "kids",
+   "leisure": "pitch",
+   "sport": "cycling;karting"
+  }
+ },
+ {
+  "id": "way/1097041085",
+  "guessed_name": null,
+  "nearby_hint": "Frauenfeld",
+  "town": "Frauenfeld",
+  "region": "Thurgau",
+  "country": "CH",
+  "lat": 47.56076,
+  "lon": 8.91641,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/106942439",
+  "guessed_name": null,
+  "nearby_hint": "Hauterive NE",
+  "town": "Laténa",
+  "region": "Neuchâtel",
+  "country": "CH",
+  "lat": 47.00877,
+  "lon": 6.97551,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1339003084",
+  "guessed_name": null,
+  "nearby_hint": "Tufertschwil",
+  "town": "Lütisburg",
+  "region": "St. Gallen",
+  "country": "CH",
+  "lat": 47.39302,
+  "lon": 9.09756,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1073569368",
+  "guessed_name": null,
+  "nearby_hint": "Meyrin",
+  "town": "Meyrin",
+  "region": "Genève",
+  "country": "CH",
+  "lat": 46.22195,
+  "lon": 6.07785,
+  "type": "outdoor",
+  "osm_length_m": 219,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/216393104",
+  "guessed_name": null,
+  "nearby_hint": "Blansko",
+  "town": "Blansko",
+  "region": "Jihomoravský kraj",
+  "country": "CZ",
+  "lat": 49.36637,
+  "lon": 16.64037,
+  "type": "outdoor",
+  "osm_length_m": 161,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1471605096",
+  "guessed_name": null,
+  "nearby_hint": "Chotěbuz",
+  "town": "Chotěbuz",
+  "region": "Moravskoslezský kraj",
+  "country": "CZ",
+  "lat": 49.76723,
+  "lon": 18.59013,
+  "type": "outdoor",
+  "osm_length_m": 815,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1021660390",
+  "guessed_name": null,
+  "nearby_hint": "Chvalovice",
+  "town": "Chvalovice",
+  "region": "Jihomoravský kraj",
+  "country": "CZ",
+  "lat": 48.76641,
+  "lon": 16.06169,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1374250838",
+  "guessed_name": null,
+  "nearby_hint": "Šumbark",
+  "town": "Havířov",
+  "region": "Moravskoslezský kraj",
+  "country": "CZ",
+  "lat": 49.7892,
+  "lon": 18.40275,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/848634367",
+  "guessed_name": null,
+  "nearby_hint": "Horní Planá",
+  "town": "Horní Planá",
+  "region": "Jihočeský kraj",
+  "country": "CZ",
+  "lat": 48.77131,
+  "lon": 14.05385,
+  "type": "outdoor",
+  "osm_length_m": 256,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1239464809",
+  "guessed_name": null,
+  "nearby_hint": "Březhrad",
+  "town": "Hradec Králové",
+  "region": "Královéhradecký kraj",
+  "country": "CZ",
+  "lat": 50.17608,
+  "lon": 15.77964,
+  "type": "outdoor",
+  "osm_length_m": 972,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "ground"
+  }
+ },
+ {
+  "id": "way/1137646442",
+  "guessed_name": null,
+  "nearby_hint": "Karlov",
+  "town": "Kutná Hora",
+  "region": "Středočeský kraj",
+  "country": "CZ",
+  "lat": 49.94575,
+  "lon": 15.27914,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/200922128",
+  "guessed_name": null,
+  "nearby_hint": "Předměstí",
+  "town": "Moravská Třebová",
+  "region": "Pardubický kraj",
+  "country": "CZ",
+  "lat": 49.76286,
+  "lon": 16.6568,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1363273378",
+  "guessed_name": null,
+  "nearby_hint": "Mžany",
+  "town": "Mžany",
+  "region": "Královéhradecký kraj",
+  "country": "CZ",
+  "lat": 50.3083,
+  "lon": 15.67321,
+  "type": "outdoor",
+  "osm_length_m": 238,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1305474871",
+  "guessed_name": null,
+  "nearby_hint": "Nová Paka",
+  "town": "Nová Paka",
+  "region": "Královéhradecký kraj",
+  "country": "CZ",
+  "lat": 50.49282,
+  "lon": 15.50922,
+  "type": "outdoor",
+  "osm_length_m": 218,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/507817684",
+  "guessed_name": null,
+  "nearby_hint": "Loučka",
+  "town": "Nový Jičín",
+  "region": "Moravskoslezský kraj",
+  "country": "CZ",
+  "lat": 49.59155,
+  "lon": 17.99379,
+  "type": "outdoor",
+  "osm_length_m": 214,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1040049653",
+  "guessed_name": null,
+  "nearby_hint": "Skryje",
+  "town": "Okřesaneč",
+  "region": "Středočeský kraj",
+  "country": "CZ",
+  "lat": 49.84479,
+  "lon": 15.47535,
+  "type": "outdoor",
+  "osm_length_m": 1080,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1317594562",
+  "guessed_name": null,
+  "nearby_hint": "Padochov",
+  "town": "Oslavany",
+  "region": "Jihomoravský kraj",
+  "country": "CZ",
+  "lat": 49.13346,
+  "lon": 16.36022,
+  "type": "outdoor",
+  "osm_length_m": 321,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1127732545",
+  "guessed_name": null,
+  "nearby_hint": "Hošťálkovice",
+  "town": "Ostrava",
+  "region": "Moravskoslezský kraj",
+  "country": "CZ",
+  "lat": 49.84339,
+  "lon": 18.22677,
+  "type": "outdoor",
+  "osm_length_m": 130,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1389597361",
+  "guessed_name": null,
+  "nearby_hint": "Nová Ves",
+  "town": "Ostrava",
+  "region": "Moravskoslezský kraj",
+  "country": "CZ",
+  "lat": 49.8253,
+  "lon": 18.2174,
+  "type": "outdoor",
+  "osm_length_m": 609,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1410089894",
+  "guessed_name": null,
+  "nearby_hint": "Pavlíkov",
+  "town": "Pavlíkov",
+  "region": "Středočeský kraj",
+  "country": "CZ",
+  "lat": 50.05732,
+  "lon": 13.74758,
+  "type": "outdoor",
+  "osm_length_m": 369,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1227154423",
+  "guessed_name": null,
+  "nearby_hint": "Předmostí",
+  "town": "Přerov",
+  "region": "Olomoucký kraj",
+  "country": "CZ",
+  "lat": 49.46793,
+  "lon": 17.44118,
+  "type": "outdoor",
+  "osm_length_m": 205,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/11210902125",
+  "guessed_name": null,
+  "nearby_hint": "Rakovník",
+  "town": "Rakovník",
+  "region": "Středočeský kraj",
+  "country": "CZ",
+  "lat": 50.11384,
+  "lon": 13.73558,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "fee": "yes",
+   "leisure": "sports_centre",
+   "operator": "Monaco Compex",
+   "operator:type": "private",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1056850452",
+  "guessed_name": null,
+  "nearby_hint": "Motol",
+  "town": "SO Praha 5",
+  "region": "Praha",
+  "country": "CZ",
+  "lat": 50.06711,
+  "lon": 14.35155,
+  "type": "outdoor",
+  "osm_length_m": 797,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1290080984",
+  "guessed_name": null,
+  "nearby_hint": "Předměstí",
+  "town": "Svitavy",
+  "region": "Pardubický kraj",
+  "country": "CZ",
+  "lat": 49.75228,
+  "lon": 16.45226,
+  "type": "outdoor",
+  "osm_length_m": 380,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1244235669",
+  "guessed_name": null,
+  "nearby_hint": "Uničov",
+  "town": "Uničov",
+  "region": "Olomoucký kraj",
+  "country": "CZ",
+  "lat": 49.77524,
+  "lon": 17.12798,
+  "type": "outdoor",
+  "osm_length_m": 681,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1479858209",
+  "guessed_name": null,
+  "nearby_hint": "Hracholusky",
+  "town": "Úlice",
+  "region": "Plzeňský kraj",
+  "country": "CZ",
+  "lat": 49.79014,
+  "lon": 13.16851,
+  "type": "outdoor",
+  "osm_length_m": 149,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1559395264",
+  "guessed_name": null,
+  "nearby_hint": "Čejov",
+  "town": "Čejov",
+  "region": "Kraj Vysočina",
+  "country": "CZ",
+  "lat": 49.57043,
+  "lon": 15.37094,
+  "type": "outdoor",
+  "osm_length_m": 258,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/96950749",
+  "guessed_name": null,
+  "nearby_hint": "Queichhambach",
+  "town": "Annweiler am Trifels",
+  "region": "Rheinland-Pfalz",
+  "country": "DE",
+  "lat": 49.21182,
+  "lon": 7.97885,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/593928323",
+  "guessed_name": null,
+  "nearby_hint": "Königsbrunn",
+  "town": "Augsburg",
+  "region": "Bayern",
+  "country": "DE",
+  "lat": 48.27948,
+  "lon": 10.90056,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "leisure": "track",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/430206718",
+  "guessed_name": null,
+  "nearby_hint": "Grafenwald",
+  "town": "Bottrop",
+  "region": "Nordrhein-Westfalen",
+  "country": "DE",
+  "lat": 51.56731,
+  "lon": 6.87352,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "lit": "yes",
+   "sport": "karting"
+  }
+ }
+]

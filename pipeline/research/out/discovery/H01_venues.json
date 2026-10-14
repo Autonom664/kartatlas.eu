@@ -1,0 +1,1936 @@
+{
+ "countries": [],
+ "new_venues": [
+  {
+   "name": "BattleKart Nantes",
+   "address": "9 avenue Simone Veil, 44230 Saint-Sébastien-sur-Loire",
+   "town": "Saint-Sébastien-sur-Loire",
+   "country": "FR",
+   "lat": 47.189392,
+   "lon": -1.487108,
+   "address_osm_id": "way/1177180995",
+   "type": "indoor",
+   "website": "https://www.battlekart.com/fr/nantes",
+   "phone": "+33 2 51 71 23 00",
+   "email": "info@nantes.battlekart.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "BattleKart augmented-reality kart"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "hours": "Term: Mon closed, Tue-Wed 19-24, Thu 14-24, Fri-Sat 14-01, Sun 14-20; holidays Mon-Thu 14-24",
+   "prices": [
+    {
+     "label": "Session - 1st session",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 22,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Session - 2nd session",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Session - following sessions",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.battlekart.com/fr/nantes",
+   "tracks": [
+    {
+     "name": "BattleKart track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.battlekart.com/fr/nantes",
+    "https://www.battlekart.com/fr/centers/fra"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "BattleKart: electric karts on an indoor track with augmented-reality game projected on the floor (racing + game modes). Session 15 min incl. boarding. Existing 'City Kart Indoor' node/5607946169 is ~280 m away - verify it is a different venue (it may have been replaced).",
+   "osm_id": null
+  },
+  {
+   "name": "BattleKart Valenciennes",
+   "address": "1 Esplanade des Rives Créatives de l'Escaut, 59410 Anzin",
+   "town": "Anzin",
+   "country": "FR",
+   "lat": 50.37579,
+   "lon": 3.522342,
+   "type": "indoor",
+   "website": "https://www.battlekart.com/fr/valenciennes",
+   "phone": "+33 3 76 17 57 57",
+   "email": "info@valenciennes.battlekart.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "BattleKart augmented-reality kart"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "hours": "Mon-Tue closed, Wed 14-22, Thu-Fri 16-24, Sat 13:30-24, Sun 10-19",
+   "prices": [
+    {
+     "label": "Session",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Student / under 18",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 17,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.battlekart.com/fr/valenciennes",
+   "tracks": [
+    {
+     "name": "BattleKart track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.battlekart.com/fr/valenciennes",
+    "https://www.battlekart.com/fr/centers/fra"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "BattleKart: electric karts on an indoor track with augmented-reality game projected on the floor (racing + game modes). Session 15 min incl. boarding. Coordinates are only the Anzin town centroid - needs better geocoding (Rives Créatives de l'Escaut site).",
+   "osm_id": null,
+   "address_osm_id": "way/538962656"
+  },
+  {
+   "name": "SpeedPark Angers Beaucouzé",
+   "address": "Centre commercial Atoll, Ecoparc du Buisson, 49073 Beaucouzé",
+   "town": "Beaucouzé",
+   "country": "FR",
+   "lat": 47.4845032,
+   "lon": -0.6288744,
+   "type": "indoor",
+   "website": "https://speedpark.fr/angers-beaucouze/karting/",
+   "phone": null,
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": null
+    }
+   ],
+   "ages": {
+    "min_age": 11,
+    "min_height_cm": 140
+   },
+   "hours": "Daily approx. 11-23/01 (see site)",
+   "prices": [
+    {
+     "label": "Adult (15+)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 16.9,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 15,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Child 11-14",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 13.9,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 11,
+     "max_age": 14,
+     "min_height_cm": 140,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://speedpark.fr/angers-beaucouze/karting/",
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": 230,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://speedpark.fr/angers-beaucouze/karting/",
+    "https://speedpark.fr/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "SpeedPark multi-activity leisure complex (bowling, laser game, etc.) with an indoor kart track; 10-minute sessions. 9 karts. Coordinates approximate (Atoll centre).",
+   "osm_id": "node/11915648137",
+   "address_osm_id": null
+  },
+  {
+   "name": "SpeedPark Bordeaux",
+   "address": "Avenue du 7ème Art (complexe Ortalissa), 33140 Villenave-d'Ornon",
+   "town": "Villenave-d'Ornon",
+   "country": "FR",
+   "lat": 44.78738,
+   "lon": -0.5311,
+   "type": "indoor",
+   "website": "https://speedpark.fr/bordeaux/karting/",
+   "phone": null,
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": null
+    }
+   ],
+   "ages": {
+    "min_age": 11,
+    "min_height_cm": 140
+   },
+   "hours": "Daily 13-01/02",
+   "prices": [
+    {
+     "label": "Adult (15+)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 17.9,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 15,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Child 11-14 (until 20h)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14.9,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 11,
+     "max_age": 14,
+     "min_height_cm": 140,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://speedpark.fr/bordeaux/karting/",
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://speedpark.fr/bordeaux/karting/",
+    "https://speedpark.fr/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "SpeedPark multi-activity leisure complex (bowling, laser game, etc.) with an indoor kart track; 10-minute sessions. Coordinates are only the Villenave-d'Ornon town centroid - needs better geocoding (Ortalissa complex).",
+   "osm_id": null,
+   "address_osm_id": "relation/19641804"
+  },
+  {
+   "name": "BattleKart Antwerpen",
+   "address": "Waagnatie Expo & Events, Rijnkaai 150, 2000 Antwerpen",
+   "town": "Antwerpen",
+   "country": "BE",
+   "lat": 51.2338896,
+   "lon": 4.4020748,
+   "type": "indoor",
+   "website": "https://www.battlekart.com/nl/antwerpen",
+   "phone": "+32 3 386 15 58",
+   "email": "info@antwerpen.battlekart.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "BattleKart",
+     "engine": "electric",
+     "hp": null,
+     "class": "BattleKart (single-seat electric, AR-projection game arena)"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age; minimum height 1.45 m"
+   },
+   "hours": "Mon,Tue,Thu 16:00-21:00; Wed 12:45-21:00; Fri 16:00-22:00; Sat 10:00-22:00; Sun 10:00-20:00 (school holidays from 10:00; late slots to 23:00/00:00 if booked 24 h ahead)",
+   "prices": [
+    {
+     "label": "Een spel",
+     "class": "BattleKart",
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": [],
+   "price_source": "https://www.battlekart.com/nl/antwerpen",
+   "tracks": [
+    {
+     "name": "BattleKart arena (projected game track)",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.battlekart.com/nl/antwerpen",
+    "https://www.battlekart.com/en/centers/bel"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "In Waagnatie event hall; hours can change when the hall hosts events. Geocode only matched the street Rijnkaai (way/120143808), no address object - coordinates approximate. 30% discount students/teachers/disabled; 5th game free with loyalty card.",
+   "osm_id": "node/11104576517",
+   "address_osm_id": null
+  },
+  {
+   "name": "John Martin's Karting Namur (JM Karting Floreffe)",
+   "address": "Rue de Saint-Gobain 1, 5150 Floreffe (Franière)",
+   "town": "Floreffe",
+   "country": "BE",
+   "lat": 50.4356975,
+   "lon": 4.7397334,
+   "type": "indoor",
+   "website": "https://jmkarting.com/namur",
+   "phone": "+32 81 44 44 44",
+   "email": null,
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [],
+   "ages": {
+    "min_height_cm": 155,
+    "note": "valid ID card required; no minimum age stated"
+   },
+   "hours": "Mon,Tue,Thu 18:00-23:00; Wed 16:00-23:00; Fri 18:00-00:30; Sat 11:00-00:30; Sun 14:00-22:00",
+   "prices": [],
+   "fees": [],
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://jmkarting.com/",
+    "https://jmkarting.com/namur/horaires-contact",
+    "https://www.go-karting.eu/countries/belgium/",
+    "https://luxtoday.lu/en/knowledge/karting-luxembourg"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Coordinates are those published on the venue's own contact page (labelled Rue des Deportes 61, Franiere); Nominatim only matched the street Rue de Saint-Gobain. Rented by the quarter hour; no prices on contact page.",
+   "osm_id": "node/11085569991",
+   "address_osm_id": null
+  },
+  {
+   "name": "Circuito del Sele",
+   "address": "Via Fosso Pioppo, 84091 Battipaglia (SA)",
+   "town": "Battipaglia",
+   "country": "IT",
+   "lat": 40.604806,
+   "lon": 14.947529,
+   "address_osm_id": null,
+   "type": "outdoor",
+   "website": "https://www.circuitodelsele.it/",
+   "phone": "+39 0828 672931",
+   "email": "info@circuitodelsele.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult (15+ or 1.40 m)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater with adult (children from 5)"
+    }
+   ],
+   "ages": {
+    "adult_min_age": 15,
+    "adult_min_height_cm": 140,
+    "children_two_seater_from": 5
+   },
+   "hours": null,
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Kart track",
+     "length_m": 1345,
+     "width_m": null,
+     "use": "rental/race"
+    },
+    {
+     "name": "Moto/auto track",
+     "length_m": 1700,
+     "width_m": null,
+     "use": "moto/cars"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://tkart.it/en/news/events/the-venues-of-the-italian-aci-karting-2019-championship-italian-cup-national-trophy-and-italian-championship-for-regional-teams",
+    "https://www.circuitodelsele.it/",
+    "https://www.circuitodelsele.it/noleggio-kart/",
+    "https://www.circuitodelsele.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Multi-use circuit since 1985 (kart 1345 m, moto/auto 1700 m), ACI Karting championship venue 2019; kart rental for adults and two-seaters for children; prices not published. Coordinates approximate: one of several Via Fosso Pioppo street segments (postcode 84091); exact track position not geocoded.",
+   "osm_id": "way/107801416"
+  },
+  {
+   "name": "7 Laghi Kart - Circuito Internazionale (Castelletto Circuit)",
+   "address": "SP1 6/A, 27040 Castelletto di Branduzzo (PV)",
+   "town": "Castelletto di Branduzzo",
+   "country": "IT",
+   "lat": 45.064608,
+   "lon": 9.100018,
+   "address_osm_id": null,
+   "type": "outdoor",
+   "website": "https://www.7laghikartitalia.it/",
+   "phone": "+39 392 836 3204",
+   "email": "info@7laghikart.it",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": "Sodikart SR",
+     "engine": "Honda 270cc 4T",
+     "hp": 10,
+     "class": "adult/teen"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "mini kart (from 10)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater (driver 18+, passenger 10+)"
+    }
+   ],
+   "ages": {
+    "minikart_min_age": 10,
+    "two_seater_driver_min_age": 18,
+    "two_seater_passenger_min_age": 10
+   },
+   "hours": "Rental Nov 1-Dec 20 2026: Tue-Sun 16:00 to sunset, booking; Mar-Oct: Tue-Sun 17:00-19:00. Own karts: daily 9:00-16:00 (closed Mondays Nov-Dec 20).",
+   "prices": [
+    {
+     "label": "Turno kart 4T Honda 270cc",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "adults and teens"
+    },
+    {
+     "label": "Turno mini kart",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 10,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Turno kart biposto",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "driver 18+, passenger from 10"
+    },
+    {
+     "label": "Formula Mini GP a gruppi",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 12,
+     "price": 55.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8 min timed practice + 12-lap heat; booking, min 8 people"
+    },
+    {
+     "label": "Formula Grand Prix 1 ora (per team)",
+     "class": null,
+     "type": "endurance",
+     "minutes": 60,
+     "laps": null,
+     "price": 140.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'da' EUR 140 per team; 10' quali + 50' with driver changes; min 10 teams"
+    },
+    {
+     "label": "Formula Grand Prix 2 ore (per team)",
+     "class": null,
+     "type": "endurance",
+     "minutes": 120,
+     "laps": null,
+     "price": 280.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'da' EUR 280 per team; min 10 teams"
+    },
+    {
+     "label": "Kart privati - giornaliero",
+     "class": null,
+     "type": "own kart day",
+     "minutes": null,
+     "laps": null,
+     "price": 65.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "all categories"
+    },
+    {
+     "label": "Kart privati - pomeridiano 12-16",
+     "class": null,
+     "type": "own kart half day",
+     "minutes": null,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "weekdays only"
+    }
+   ],
+   "fees": "Balaclava mandatory (sold EUR 8 cotton / EUR 1 disposable)",
+   "price_source": "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/noleggio-kart",
+   "tracks": [
+    {
+     "name": "7 Laghi",
+     "length_m": 1256,
+     "width_m": 10,
+     "use": "race/rental"
+    }
+   ],
+   "layout_page": "https://www.7laghikartitalia.it/il-circuito/la-pista",
+   "sources": [
+    "https://tkart.it/en/news/events/the-venues-of-the-italian-aci-karting-2019-championship-italian-cup-national-trophy-and-italian-championship-for-regional-teams",
+    "https://www.7laghikartitalia.it/",
+    "https://www.7laghikartitalia.it/il-circuito/noleggio-kart",
+    "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/noleggio-kart",
+    "https://www.7laghikartitalia.it/il-circuito/prezzi-e-orari/kart-privati"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Major international circuit (WSK, ROK Cup, RMC Italy 2026 rounds). Width 8-10 m. Coordinates approximate: SP1 street segment in Castelletto di Branduzzo; Nominatim has no named object for the track. NOT the unnamed Cervesina object way/598864441, which sits next to Circuito Tazio Nuvolari about 8 km west.",
+   "osm_id": "way/416255369"
+  },
+  {
+   "name": "Space Game Val Camonica - Kart (ex Planet Kart)",
+   "address": "Via Saletti 20, Zona Industriale, 25050 Pian Camuno (BS)",
+   "town": "Pian Camuno",
+   "country": "IT",
+   "lat": 45.8457679,
+   "lon": 10.1377296,
+   "address_osm_id": "way/373544910",
+   "type": "indoor",
+   "website": "https://spacegamevallecamonica.it/kart/",
+   "phone": "+39 0364 591042",
+   "email": "info@spacegamevallecamonica.it",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "OTL",
+     "engine": "electric",
+     "hp": null,
+     "class": "kids 115-135 cm (remote-controlled)"
+    },
+    {
+     "chassis": "Sodikart Junior Pro LRX",
+     "engine": "electric",
+     "hp": null,
+     "class": "junior"
+    },
+    {
+     "chassis": "OTL",
+     "engine": "electric",
+     "hp": null,
+     "class": "standard"
+    },
+    {
+     "chassis": "Sodikart RSX2",
+     "engine": "electric",
+     "hp": null,
+     "class": "performance (licence)"
+    },
+    {
+     "chassis": "Birel ART",
+     "engine": null,
+     "hp": 27,
+     "class": "top (14+, licence)"
+    },
+    {
+     "chassis": "Sodikart X2drive",
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 115,
+    "gp_min_age": 14
+   },
+   "hours": null,
+   "prices": [
+    {
+     "label": "Kart OTL bimbo",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 10.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "115-135 cm"
+    },
+    {
+     "label": "Kart OTL standard (non tesserati, over 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kart OTL standard (tesserati, under 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kart OTL standard (tesserati, over 12)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "OTL Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 30.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 10-lap race"
+    },
+    {
+     "label": "OTL Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 38.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 8' quali + 10-lap race"
+    },
+    {
+     "label": "Sodi RSX2",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 34.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Gran Premio",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": 10,
+     "price": 44.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sodi RSX2 Super GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 60.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8' practice + 8' quali + 10-lap race 1 + 10-lap reverse-grid race 2"
+    },
+    {
+     "label": "Birel ART",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Iron Training Birel",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 45.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "8 + 8 min"
+    },
+    {
+     "label": "Kart doppio Sodikart X2drive",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "adult driver, co-pilot min 110 cm"
+    },
+    {
+     "label": "Corso di guida",
+     "class": null,
+     "type": "course",
+     "minutes": null,
+     "laps": null,
+     "price": 50.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "Mon-Fri 17-19, members, booking"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://spacegamevallecamonica.it/kart/",
+   "tracks": [
+    {
+     "name": "Indoor (2 levels)",
+     "length_m": 450,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "Outdoor",
+     "length_m": 550,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+    "https://spacegamevallecamonica.it/kart/",
+    "https://spacegamevallecamonica.it/contatti/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "planetkart.it now redirects to Space Game Val Camonica (kart, laser game, bowling). Two-level indoor track plus outdoor extension. Opening hours start Mon 17:00-00:00 (rest truncated). Coordinates are ONLY the Pian Camuno municipality centroid - Nominatim could not geocode Via Saletti in Pian Camuno; needs manual placement. Engine types per kart partly inferred from model names (OTL/RSX2 are electric models) - verify.",
+   "osm_id": null
+  },
+  {
+   "name": "Torino Kart Indoor",
+   "address": "Via (Enrico) Fermi 11, Torino (site says 10048)",
+   "town": "Torino",
+   "country": "IT",
+   "lat": 45.114241,
+   "lon": 7.672981,
+   "address_osm_id": "way/1535838475",
+   "type": "indoor",
+   "website": "https://torinokartindoor.com/",
+   "phone": "+39 011 584 4485",
+   "email": "torinokartindoor@gmail.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "Sodikart RSX2",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult/kids from 1.35 m"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 135
+   },
+   "hours": "Mon-Fri 17:30-23:30; Sat 15:00-23:30; Sun 15:00-21:30",
+   "prices": [
+    {
+     "label": "Prove libere",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mini GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 25.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 qualifying laps + 10 minutes race"
+    },
+    {
+     "label": "Medium GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 35.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 qualifying laps + 15 minutes race"
+    },
+    {
+     "label": "GP",
+     "class": null,
+     "type": "race",
+     "minutes": null,
+     "laps": null,
+     "price": 40.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "10 min qualifying + 15 min race"
+    }
+   ],
+   "fees": "Mandatory annual membership EUR 10; exclusive track min 13 participants",
+   "price_source": "https://torinokartindoor.com/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://motori.quotidiano.net/comefare/go-kart-dove-sono-le-migliori-piste-italia.htm",
+    "https://torinokartindoor.com/",
+    "https://torinokartindoor.com/kart/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "22 electric Sodi RSX2 karts. ADDRESS UNCERTAIN: site says 'Via Fermi 11 10048 TORINO' but 10048 is Vinovo's postcode; coordinates are Via Enrico Fermi 11 in Torino (10148, Madonna di Campagna) - verify before publishing.",
+   "osm_id": null
+  },
+  {
+   "name": "SKindoor - Sardinia Kart Indoor",
+   "address": "Monastir (CA) - street address not published on site",
+   "town": "Monastir",
+   "country": "IT",
+   "lat": 39.34774,
+   "lon": 9.059878,
+   "address_osm_id": null,
+   "type": "indoor",
+   "website": "https://sardegnakartindoor.com/",
+   "phone": null,
+   "email": null,
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodikart SR4",
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodikart IR5",
+     "engine": null,
+     "hp": null,
+     "class": "adult performance"
+    },
+    {
+     "chassis": "Sodikart 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "two-seater"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kart for drivers with disabilities"
+    }
+   ],
+   "ages": {},
+   "hours": "From 1 June 2026: Mon-Tue 18:00-22:30; Wed-Sat 18:00-23:30; Sun 18:00-22:00 (Google widget on site shows different hours)",
+   "prices": [],
+   "fees": null,
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.yumping.com/en/karting/skindoor--e19693274",
+    "https://sardegnakartindoor.com/",
+    "https://sardegnakartindoor.com/go-kart/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Self-described largest indoor kart track in Europe, Monastir (CA), ~15 km from Cagliari (Yumping: ~500 m in two connected sheds, 20 Sodi karts). skindoor.it redirects to sardegnakartindoor.com. Coordinates are ONLY the Monastir municipality centroid - needs manual placement. ~7 km from existing SestuGO!/SBkart objects in Sestu (different venues). Prices not found in page text (booking/shop system).",
+   "osm_id": "way/249471138"
+  },
+  {
+   "name": "Kartring Oberberg (Oberbergischer Go-Kart-Ring Hahn-Wildbergerhütte)",
+   "address": "Halbhustener Weg, 51580 Reichshof-Hahn",
+   "town": "Reichshof",
+   "country": "DE",
+   "lat": 50.970085,
+   "lon": 7.7621728,
+   "osm_id": "node/345882535",
+   "address_osm_id": null,
+   "type": "outdoor",
+   "website": "http://kartring-oberberg.de/",
+   "phone": "+49 2297 7475",
+   "email": null,
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "Leihkart (min 154 cm)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "Junior-Kart (8-10 years, min 145 cm)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "Twinkart"
+    }
+   ],
+   "ages": {
+    "junior": "8-10 years, min. 145 cm",
+    "rental": "min. 154/155 cm",
+    "twin_passenger": "child from 4 with adult 18+"
+   },
+   "hours": "Early March to mid-November, weather permitting (dry track only): Fri 14:00-19:00; Sat 13:00-19:00; Sun + holidays 10:00-19:00; NRW autumn holidays Mon-Fri 14-18, Sat 13-18, Sun 10-18",
+   "prices": [
+    {
+     "label": "Kinder 10 min",
+     "class": "kids",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 11,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kinder 5er Karte",
+     "class": "kids",
+     "type": "multi",
+     "minutes": 50,
+     "laps": null,
+     "price": 50,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kinder 10er Karte",
+     "class": "kids",
+     "type": "multi",
+     "minutes": 100,
+     "laps": null,
+     "price": 100,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Erwachsene 10 min",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Erwachsene 5er Karte",
+     "class": "adult",
+     "type": "multi",
+     "minutes": 50,
+     "laps": null,
+     "price": 65,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Erwachsene 10er Karte",
+     "class": "adult",
+     "type": "multi",
+     "minutes": 100,
+     "laps": null,
+     "price": 120,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Twin Kart 10 min",
+     "class": "twin",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "http://kartring-oberberg.de/preise/",
+   "tracks": [
+    {
+     "name": "Kartring Oberberg",
+     "length_m": 1000,
+     "width_m": null,
+     "use": "rental + races"
+    }
+   ],
+   "layout_page": "http://kartring-oberberg.de/strecke/",
+   "sources": [
+    "http://kartring-oberberg.de/",
+    "http://kartring-oberberg.de/preise/",
+    "http://kartring-oberberg.de/strecke/",
+    "http://kartring-oberberg.de/karts/",
+    "https://freizeitmonster.de/aktivitaeten/orte/kartring-oberberg-190840"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Over 60 years old; DMSB-approved track, also hosts national/international kart races. Street (Halbhustener Weg) from freizeitmonster directory; coordinates are street-level. Website contains injected online-casino spam text (site possibly compromised) but hours are current (NRW autumn holidays 2026)."
+  },
+  {
+   "name": "VM Kart Racing",
+   "address": "Johann-Reiss-Straße 1, 79541 Lörrach-Brombach",
+   "town": "Lörrach",
+   "country": "DE",
+   "lat": 47.6372332,
+   "lon": 7.7064972,
+   "osm_id": "way/88300368",
+   "address_osm_id": null,
+   "type": "indoor",
+   "website": "http://www.vm-kart-racing.de/",
+   "phone": "+49 7621 1605441",
+   "email": "info@vm-kart-racing.de",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [],
+   "ages": {},
+   "hours": "See site (Mon & Tue exclusive bookings from 1 hour)",
+   "prices": [
+    {
+     "label": "Fun-Fahrt (8 Minuten)",
+     "class": "adult",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 9.9,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Fun-Fahrt (8 Minuten) Member Cash Card",
+     "class": "adult",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 8.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": true,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Fun-Fahrt im Doppelsitzer",
+     "class": "twin",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "BASIC 10 Fun-Fahrten + 1",
+     "class": "adult",
+     "type": "multi",
+     "minutes": 88,
+     "laps": null,
+     "price": 99,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "SPEZIAL 20 Fun-Fahrten + 3",
+     "class": "adult",
+     "type": "multi",
+     "minutes": 184,
+     "laps": null,
+     "price": 198,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "VIP 30 Fun-Fahrten + 5",
+     "class": "adult",
+     "type": "multi",
+     "minutes": 280,
+     "laps": null,
+     "price": 297,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Stundentarif 1/2 Stunde",
+     "class": "adult",
+     "type": "session",
+     "minutes": 30,
+     "laps": null,
+     "price": 30,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Stundentarif 1 Stunde",
+     "class": "adult",
+     "type": "session",
+     "minutes": 60,
+     "laps": null,
+     "price": 53,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Halbstundenrennen (Training, Qualifying, Rennen; ab 5 Personen)",
+     "class": "adult",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 35,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Exklusive Bahnbuchung 1/2 Stunde",
+     "class": null,
+     "type": "exclusive",
+     "minutes": 30,
+     "laps": null,
+     "price": 235,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "max 7 karts on track"
+    }
+   ],
+   "fees": null,
+   "price_source": "http://www.vm-kart-racing.de/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "http://www.vm-kart-racing.de/",
+    "http://www.vm-kart-racing.de/impressum.html",
+    "https://www.racingo.de/kartbahnen"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Over 25 years of events. Rules page refers to \"Indoor-Kartbahn\". Coordinates are street-level (Johann-Reiss-Straße)."
+  },
+  {
+   "name": "BattleKart Bispingen",
+   "source": "battlekart_already_present",
+   "lat": 53.0982856,
+   "lon": 9.9815404,
+   "precision": "building",
+   "ref": "node/8331688445",
+   "ref_kind": "own",
+   "evidence": "Own page: Gaussscher Bogen 8, 29646 Bispingen; embedded 53.098354,9.982157. Nominatim search and reverse both return OSM node/8331688445 'Battle-Kart' (leisure=sports_centre, sport=karting, website bispingen.battlekart.com). Separate from existing way/856436751.",
+   "sources": [
+    "https://www.battlekart.com/de/bispingen",
+    "https://nominatim.openstreetmap.org/search?q=Gaussscher Bogen 8, 29646 Bispingen"
+   ],
+   "address": "Gaußscher Bogen 8, 29646 Bispingen",
+   "town": "Bispingen",
+   "country": "DE",
+   "website": "https://www.battlekart.com/de/bispingen",
+   "phone": "+49 5194 987950",
+   "email": "info@bispingen.battlekart.com",
+   "hours": "Mon-Sat 10-21 (Fri-Sat 21-23 by reservation only), Sun 10-20; Mondays open as normal in school holidays",
+   "prices": [
+    {
+     "label": "1st game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 15.6,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 14.8,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 13.6,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    },
+    {
+     "label": "2nd game - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    },
+    {
+     "label": "following games - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "rental": "yes",
+   "own_karts": "no",
+   "type": "indoor",
+   "osm_id": "node/8331688445",
+   "address_osm_id": null,
+   "checked_at": "2026-10-15"
+  },
+  {
+   "name": "BattleKart Köln",
+   "source": "battlekart_already_present",
+   "lat": 50.9813676,
+   "lon": 6.9004403,
+   "precision": "building",
+   "ref": "way/38446078",
+   "ref_kind": "building",
+   "evidence": "Own page: Butzweilerstrasse 35-39, Motorworld 4-Takt Hangar, 50829 Koeln. OSM way/38446078 is the building '4-Takt-Hangar' (Motorworld Koeln-Rheinland, addr 35-39) - Nominatim search hit. BattleKart's embedded pin (50.981995,6.899971) is ~60 m NW of the hangar over Bertha-Sander-Strasse housing, so the hangar position is used. ~700 m from existing node/3761972790.",
+   "sources": [
+    "https://www.battlekart.com/de/koeln",
+    "https://nominatim.openstreetmap.org/search?q=Butzweilerstrasse 35, 50829 Koeln"
+   ],
+   "address": "Butzweilerstraße 35-39 (Motorworld, 4-Takt Hangar), 50829 Köln",
+   "town": "Köln",
+   "country": "DE",
+   "website": "https://www.battlekart.com/de/koeln",
+   "phone": "+49 221 29246954",
+   "email": "info@koeln.battlekart.com",
+   "hours": "Mon-Thu 14-21, Fri 14-22, Sat 9-23, Sun 9-21",
+   "prices": [
+    {
+     "label": "1st game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 22.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 14.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "rental": "yes",
+   "own_karts": "no",
+   "type": "indoor",
+   "osm_id": null,
+   "address_osm_id": "way/38446078",
+   "checked_at": "2026-10-15"
+  },
+  {
+   "name": "Motokáry Masarykův okruh (CREDITAS Autodrom Brno)",
+   "address": "Masarykův okruh 201, 664 81 Ostrovačice",
+   "town": "Ostrovačice / Brno",
+   "country": "CZ",
+   "lat": 49.203128,
+   "lon": 16.44919,
+   "osm_id": "way/184267672",
+   "type": "outdoor",
+   "website": "https://www.automotodrombrno.cz/motokary/",
+   "phone": "+420 774 766 641",
+   "email": "motokary@brno-circuit.com",
+   "rental": true,
+   "own_karts": true,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "270 ccm",
+     "hp": null,
+     "class": "rental"
+    }
+   ],
+   "ages": {
+    "min_age": 12,
+    "min_height_cm": 160
+   },
+   "hours": "Tue and Fri 14:00-19:00; Sat-Sun 11:00-19:00 (may be closed during events; no reservations for individual rides)",
+   "prices": [
+    {
+     "label": "Motokára 270 ccm - 1 jízda 10 minut",
+     "class": "270ccm",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 300,
+     "currency": "CZK",
+     "extras": "helmet and gloves free",
+     "member": false,
+     "min_age": 12,
+     "max_age": null,
+     "min_height_cm": 160,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Pronájem s vlastní motokárou 60 minut",
+     "class": "own kart",
+     "type": "own_kart",
+     "minutes": 60,
+     "laps": null,
+     "price": 1000,
+     "currency": "CZK",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per kart"
+    }
+   ],
+   "fees": [
+    {
+     "label": "Hygienická kukla",
+     "price": 30,
+     "currency": "CZK"
+    }
+   ],
+   "price_source": "https://www.automotodrombrno.cz/motokary/",
+   "tracks": [
+    {
+     "name": "Motokárová dráha Masarykův okruh",
+     "length_m": 423,
+     "width_m": 5,
+     "use": "rental + own karts; 6 left / 5 right corners"
+    }
+   ],
+   "layout_page": "https://www.automotodrombrno.cz/motokary/",
+   "sources": [
+    "https://www.automotodrombrno.cz/motokary/",
+    "https://www.firmy.cz/?q=motok%C3%A1ry"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Previous lead now confirmed on the circuit's own page. COORDINATES APPROXIMATE: centroid of the main circuit way/8585805; the kart track's exact position inside the complex could not be geocoded (Overpass rate-limited/timed out, no Nominatim object). Needs a manual position fix.",
+   "address_osm_id": null
+  }
+ ]
+}

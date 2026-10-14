@@ -1,0 +1,350 @@
+[
+ {
+  "website": "https://gokartcentralen.se/",
+  "phone": "010-303 99 90",
+  "email": "hello@gokartcentralen.se",
+  "hours": "12:00-20:00 shown on site at capture (full schedule https://gokartcentralen.se/oppettider/)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": 14,
+    "class": "Standard kart (approx. 60 km/h)"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "JuniorKart"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "Dubbelkart (two-seat, driven with adult 18+)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 140,
+   "note": "no minimum age; standard kart from 140 cm, JuniorKart from 125 cm, Dubbelkart from 90 cm with adult; under 13 registered by an adult"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Drop-in 1 pass",
+    "class": "Standard/Junior/Dubbelkart (electric)",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 205,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "shared track, not bookable in advance; Speedkart add-on +20 kr per pass (requires qualifying time)"
+   },
+   {
+    "label": "Drop-in 2 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 410,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min; Speedkart +40 kr"
+   },
+   {
+    "label": "Drop-in 3 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 550,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 5 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 40,
+    "laps": null,
+    "price": 890,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 10 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 80,
+    "laps": null,
+    "price": 1680,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 20 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 160,
+    "laps": null,
+    "price": 3150,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "20 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 50 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 400,
+    "laps": null,
+    "price": 7000,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "50 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 100 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 800,
+    "laps": null,
+    "price": 11300,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "100 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Hela banan (race booking)",
+    "class": null,
+    "type": "group",
+    "minutes": null,
+    "laps": null,
+    "price": 4400,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "'from' price, priced per group of 10; 8-150 participants"
+   }
+  ],
+  "fees": [],
+  "membership": "Prepaid member account / credit packages (Speedkart included)",
+  "price_source": "https://gokartcentralen.se/priser/drop-in/",
+  "tracks": [
+   {
+    "name": "Gokartcentralen Göteborg indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokartcentralen.se/",
+   "https://gokartcentralen.se/priser/drop-in/",
+   "https://thatsup.co.uk/gothenburg/activity/gokartcentralen/"
+  ],
+  "id": "node/2313335877",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.gokartarena.se/",
+  "phone": "070-309 90 78",
+  "email": "info@gokartarena.se",
+  "hours": "Tue-Thu 14-20, Fri 12-20, Sat 11-18, Sun 12-17",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "Electric rental kart, 4-step speed limiter, remote slow-down"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 140,
+   "note": "min 140 cm (leg length decides); under 16 needs guardian present or signed consent"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Two-level indoor track",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokartarena.se/",
+   "https://www.gokartarena.se/go-kart/",
+   "https://visitdalarna.se/en/do/activities/gokartarena-dalarna"
+  ],
+  "id": "node/538152709",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.herninggokart.dk/",
+  "phone": "+45 3026 7070",
+  "email": "info@herninggokart.dk",
+  "hours": "Open every day by appointment; holiday-closed 11-14 Oct 2026, open 15-18 Oct 2026",
+  "karts": [
+   {
+    "chassis": "BIZ Karts",
+    "engine": null,
+    "hp": null,
+    "class": "Rental kart, up to 60 km/h"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor Flexi-Track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.herninggokart.dk/",
+   "https://www.visitherning.com/herning/things-do/herning-go-kart-center-gdk607605",
+   "https://www.krak.dk/herning+go-kart+center+aps/67235129/firma"
+  ],
+  "id": "node/4135818874",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.bornkart.dk/",
+  "phone": "+45 2858 0701",
+  "email": "info@bornholmsgokartcenter.dk",
+  "hours": "Fri-Sun 13:00-20:00 (closes 17:00 if no later bookings) per bornholm.info",
+  "karts": [],
+  "ages": {
+   "min_age": 7,
+   "min_height_cm": 120,
+   "note": "groups: Voksen 18+, Ung 13-17, Barn 7-12"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Hjelmhue (balaclava) if not own",
+    "amount": 20,
+    "currency": "DKK",
+    "period": "once",
+    "mandatory": false,
+    "note": "buy and keep"
+   }
+  ],
+  "membership": "Membership gives 20% discount for 6 months (per bornholm.info)",
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.bornkart.dk/",
+   "https://www.bornkart.dk/index.php/produkt/gokart-15-min-1-person/",
+   "https://bornholm.info/en/gokartcenter/",
+   "https://www.visitdenmark.com/denmark/explore/bornholms-gokart-center-gdk1154699"
+  ],
+  "id": "node/5650266883",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ }
+]

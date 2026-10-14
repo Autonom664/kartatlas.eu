@@ -1,0 +1,583 @@
+[
+ {
+  "id": "way/199780694",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM leisure=track sport=karting outline next to the Aviosuperficie Franca airstrip near Villaggio Baffa (Cotronei); no named venue in OSM and no web source found for a kart track at this spot.",
+  "sources": [
+   "https://www.openstreetmap.org/way/199780694",
+   "https://www.openstreetmap.org/way/199779626"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/596130286",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 168 m raceway inside an unnamed leisure=sports_centre (way/596130287) at the edge of Decimoputzu village, next to multi-sport pitches and parks; size suggests a small municipal/mini-kart track but no web source confirms it.",
+  "sources": [
+   "https://www.openstreetmap.org/way/596130286",
+   "https://www.openstreetmap.org/way/596130287"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/177220042",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "553 m asphalt raceway with a separate leisure=racetrack sport=karting outline (way/517674158) at Torremezzo di Falconara on the coast road SS18 near a beach resort; no name in OSM and no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/177220042",
+   "https://www.openstreetmap.org/way/517674158"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/326835886",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "328 m asphalt raceway with a racetrack outline (way/445123134) beside Camping Stella Maris in Torrette di Fano; probably a seaside holiday kart track but no name or web source found to confirm it is operating.",
+  "sources": [
+   "https://www.openstreetmap.org/way/326835886",
+   "https://www.openstreetmap.org/way/445123134"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/171855334",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "891 m raceway in rural Ficarra near Brolo (Messina) with no surrounding named features in OSM; web searches found no kart venue here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/171855334"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/32798128",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Unnamed sports_centre on SP115 Troiana containing a small leisure=track (way/398241043, ~270 m perimeter); the named Kartodromo Santa Cecilia (OSM way/32563273, ~1.3 km track, Via Troia) is a different entry about 1 km away, and nothing identifies this smaller track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/32798128",
+   "https://www.openstreetmap.org/way/398241043",
+   "https://www.yumping.com/en/karting/kartodromo-santa-cecilia--e17284"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/59826097",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags a fenced karting sports_centre with phone, VAT number and website pistakartingfondi.com plus a raceway (way/58472752), so a kart business existed here; the domain no longer resolves (last Wayback snapshot 2014) and no current source confirms it operates.",
+  "sources": [
+   "https://www.openstreetmap.org/way/59826097",
+   "https://www.openstreetmap.org/way/58472752",
+   "http://web.archive.org/web/20141221045544/http://www.pistakartingfondi.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/141611632",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Raceway area in Frassinoro village near the town hall and a small sports centre; no web source found for a kart track in Frassinoro.",
+  "sources": [
+   "https://www.openstreetmap.org/way/141611632"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1388704251",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "245 m raceway at Chianchitta (Giardini-Naxos) with no named features nearby; the known 'Pista Kart e Cross Calatabiano - Centro Sportivo San Filippo' entry is 1.8 km away and is a different place. No web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1388704251"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1289612226",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "636 m asphalt kart raceway next to a sport=motor raceway (way/1289612227) on the SS106 at Marina di Ginosa; looks like a motor/kart complex but no name or web source was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1289612226",
+   "https://www.openstreetmap.org/way/1289612227"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1195121477",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Raceway beside the Matera-Gravina provincial road near Bosco Difesa Grande; no kart venue found on the web for Gravina in Puglia.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1195121477"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/198091255",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The OSM mapper's own note says 'Not sure if it is for karts or modellism machines'; there is no outline and a sport=motor raceway (way/734791208) nearby. Nothing on the web confirms a kart track here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/198091255",
+   "https://www.openstreetmap.org/way/734791208"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/184641695",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "333 m raceway beside an unnamed multi-sport centre and the Centro Sportivo di Ceramica on the SS130 at Iglesias; no named kart venue found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/184641695",
+   "https://www.openstreetmap.org/way/184641693"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1469562147",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Recently mapped karting sports_centre among orchards near Frigole (Lecce) containing three raceway ways, the main loop about 715 m; looks like a genuine kart circuit but no name or web source was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1469562147",
+   "https://www.openstreetmap.org/way/1469562148"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1435688646",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The tagged raceway is only about 18 m long and sits inside Leffe's Parco comunale next to a playground, basketball pitch and kiosk bar; far too small for a kart track, most likely a children's play feature or mis-tag.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1435688646",
+   "https://www.openstreetmap.org/way/40469139",
+   "https://www.openstreetmap.org/way/1435688636"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1317631741",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 35 m raceway lying entirely inside the Luna Park Strabilia amusement park (tourism=theme_park) in Lignano Pineta; this is a fairground kart/bumper-car style ride, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1317631741",
+   "https://www.openstreetmap.org/way/83688544"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/460115149",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "320 m raceway next to a sports_centre that OSM describes as 'Pista GoKart' (way/459132842) and a football pitch in Contrada Tagaro, Locorotondo; supports a kart track existing but no name, operator or current status found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/460115149",
+   "https://www.openstreetmap.org/way/459132842"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/228121884",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM marks this way as disused:highway=raceway and now highway=service beside the Fiumara di Gerace near an equestrian centre; the former kart track is disused.",
+  "sources": [
+   "https://www.openstreetmap.org/way/228121884"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/305333851",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "leisure=pitch sport=karting area in the Residenza dell'Aquila holiday-home area of Rena Majore (Aglientu per Nominatim, not Luogosanto as the input says); no surrounding facility named and no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/305333851"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1479613077",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "sports_centre tagged karting;multi in farmland off the SS212 with two dirt leisure=track loops and a private gate nearby; could be a private dirt/off-road track, but nothing on the web confirms what it is.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1479613077",
+   "https://www.openstreetmap.org/way/1479613078"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/732197609",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Unnamed karting sports_centre without track outline on SP275 at the Marigliano/Mariglianella border next to an asphalt soccer pitch; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/732197609"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1089677812",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "418 m raceway beside the SP ex SS276 at Pergola (Marsico Nuovo) near a tennis court; no kart venue found on the web for Marsico Nuovo.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1089677812"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1396182326",
+  "verdict": "real",
+  "name": "Club del Miniautodromo (Mini Autodromo di Massa)",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Nominatim places this kart complex (two raceways plus multipolygon relation 19265153) in Turano, Massa; a forum listing names the outdoor 'Mini Autodromo di Massa' at Loc. Turano and Yumping lists Club del Miniautodromo in Massa selling 1-hour GP / mini-GP kart races to the public. The listed address (Via Aurelia Sud 112) was not verified on a map. Rental left unverified: sources are a forum post and a directory listing only.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1396182326",
+   "https://www.openstreetmap.org/relation/19265153",
+   "https://www.yumping.com/karting/club-del-miniautodromo--e19682185",
+   "https://www.motoclub-tingavert.it/t156509s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/3745641",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "This OSM relation is type=destination_sign (a road sign reading 'Kartodromo') mis-tagged with leisure=sports_centre; the track it points to is Karting Club Messina (Via Ayrton Senna), a different entry about 0.6 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/3745641",
+   "https://kartingclubmessina.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/3745642",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "This OSM relation is type=destination_sign (a road sign reading 'Kartodromo') at Pistunina mis-tagged with leisure=sports_centre; the track it points to is Karting Club Messina, a different entry about 1.2 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/3745642",
+   "https://kartingclubmessina.com/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/348306772",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Kart racetrack outlines inside the Sant'Ubaldo industrial zone of Monsano alongside several sport=motor raceways (a motor practice area); no name or operator found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/348306772",
+   "https://www.openstreetmap.org/way/348308002"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/491948926",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "639 m kart raceway with a start-finish node and racetrack outline (way/491948927) by the SS90bis on the Montecalvo Irpino/Casalbore border; clearly a purpose-built track but no name, operator or current status found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/491948926",
+   "https://www.openstreetmap.org/way/491948927"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/227703486",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "877 m one-way asphalt kart raceway near Oste (Montemurlo/Montale border) with several adjacent access=no karting raceways; no venue name found. A 2008 forum post mentions a 'Pista Minimoto e Kart Montemurlo' but places it at Ponte Bocci, Prato, so the match is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/227703486",
+   "https://www.openstreetmap.org/way/1350880030",
+   "https://www.motoclub-tingavert.it/t310556s.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/12395369765",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Bare node with only sport=karting at Salto (Montese) among farmland and houses, no track drawn; no web source found for a kart track here.",
+  "sources": [
+   "https://www.openstreetmap.org/node/12395369765"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/896968292",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Lit asphalt karting sports_centre on the Montesilvano seafront beside a fairground/theme_park area (way/908330939) with two leisure=track karting loops; probably a seasonal holiday kart track but no name or web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/896968292",
+   "https://www.openstreetmap.org/way/908330939",
+   "https://www.openstreetmap.org/way/1193201917"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/300265611",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "184 m raceway at the hamlet of Monquert (Montjovet) between the A5 motorway and houses; small and unnamed, no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/300265611"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1158140460",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports_centre (268 m) beside the municipal football ground and bocce hall; a nearby karting raceway (way/629568805) carries the OSM note 'FIXME: Looks to be in disuse'. No web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1158140460",
+   "https://www.openstreetmap.org/way/629568805"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/24323666",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting sports_centre with a 260 m raceway (way/197907561) on Viale Italia, Olbia, near McDonald's and the Olbia Arena festival grounds; no name or web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/24323666",
+   "https://www.openstreetmap.org/way/197907561"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/371434965",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "192 m asphalt raceway in Paterno's urban sports area (Velodromo Salinelle, stadium, tennis courts, playground); the small size may indicate a mini or traffic-education track, but no source confirms either way.",
+  "sources": [
+   "https://www.openstreetmap.org/way/371434965",
+   "https://www.openstreetmap.org/way/39353564"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/233149657",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "leisure=track karting next to Campo Sportivo di San Giovanni in Patti, with a sport=motor raceway nearby; the nearest known rental venue is Riverkarting in Capo d'Orlando (elsewhere). No source found for this spot.",
+  "sources": [
+   "https://www.openstreetmap.org/way/233149657",
+   "https://www.openstreetmap.org/way/1324401539"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/517642335",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Unnamed karting sports_centre with a sport=motor raceway (way/517642337) at Turchia, Pedaso; no web source found (Kartodromo Dino Ferrari is in Fermo, not here).",
+  "sources": [
+   "https://www.openstreetmap.org/way/517642335",
+   "https://www.openstreetmap.org/way/517642337"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/385008203",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Kart racetrack at Le Mose, Piacenza directly beside 'Motopark Piacenza' (sport=motocross raceway and racetrack); may be part of that motocross complex, but no source says whether karts run here.",
+  "sources": [
+   "https://www.openstreetmap.org/way/385008203",
+   "https://www.openstreetmap.org/way/483883267"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/971265602",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "488 m raceway in farmland at Contrada Santa Caterina, Polistena with no other features nearby; no web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/971265602"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/452900892",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "249 m lit asphalt raceway at Magazzeno near the Aviosuperficie del Sole and an untagged racetrack (way/195112592); Blu Park Salerno is a different entry 2.4 km away. No web source found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/452900892",
+   "https://www.openstreetmap.org/way/195112592"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

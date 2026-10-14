@@ -1,0 +1,1690 @@
+[
+ {
+  "website": "https://lublin.e1gokart.pl/",
+  "phone": "+48 607 111 272",
+  "email": "lublin@e1gokart.pl",
+  "hours": "Not published; Family Sessions Sat-Sun 09:00-11:00; call reception 607 111 272",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "senior (25 karts)"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "junior (12 karts)"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "double/tandem (3 karts)"
+   }
+  ],
+  "ages": {
+   "junior_min_height_cm": 130,
+   "tandem_driver": "adult",
+   "tandem_passenger": "approx. 5 years / approx. 110 cm",
+   "max_weight_kg": 120
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Gokart pojedynczy - 1 przejazd",
+    "class": "single",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "each additional ride same day 65 PLN; valid 180 days"
+   },
+   {
+    "label": "Gokart pojedynczy - 2 przejazdy",
+    "class": "single",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 135,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Gokart pojedynczy - 3 przejazdy",
+    "class": "single",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 200,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Gokart podwójny - 1 przejazd",
+    "class": "tandem",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 80,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "each additional ride same day 75 PLN"
+   },
+   {
+    "label": "Gokart podwójny - 2 przejazdy",
+    "class": "tandem",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 155,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart podwójny - 3 przejazdy",
+    "class": "tandem",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 230,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Karnet 10 przejazdów",
+    "class": "single",
+    "type": "pass",
+    "minutes": 80,
+    "laps": null,
+    "price": 650,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 x 8 min, valid 365 days"
+   },
+   {
+    "label": "Karnet 20 przejazdów",
+    "class": "single",
+    "type": "pass",
+    "minutes": 160,
+    "laps": null,
+    "price": 1250,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "20 x 8 min, valid 365 days"
+   },
+   {
+    "label": "Karnet 50 przejazdów",
+    "class": "single",
+    "type": "pass",
+    "minutes": 400,
+    "laps": null,
+    "price": 3000,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "50 x 8 min, valid 365 days"
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "single",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 150,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, reservation required"
+   },
+   {
+    "label": "Grand Prix",
+    "class": "single",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 200,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, reservation required"
+   },
+   {
+    "label": "Grand Prix max",
+    "class": "single",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, reservation required"
+   }
+  ],
+  "fees": [
+   {
+    "label": "Karta członkowska + rejestracja RaceFacer",
+    "price": 10,
+    "currency": "PLN"
+   },
+   {
+    "label": "Kominiarka (obowiązkowa, można mieć własną)",
+    "price": 15,
+    "currency": "PLN"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://lublin.e1gokart.pl/cennik/",
+  "tracks": [
+   {
+    "name": "E1GOKART Lublin",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental, 3 levels, hall 4500 m2"
+   }
+  ],
+  "layout_page": "https://lublin.e1gokart.pl/o-torze/",
+  "sources": [
+   "https://e1gokart.pl/",
+   "https://lublin.e1gokart.pl/",
+   "https://lublin.e1gokart.pl/cennik/"
+  ],
+  "id": "way/180852476",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://www.pujami.cz/",
+  "phone": "+420 602 170 767",
+  "email": "pujami@seznam.cz",
+  "hours": "Season 1.5.-30.9.: Wed-Fri 14:00-20:00, Sat-Sun 12:00-20:00 (asterisked on site)",
+  "karts": [
+   {
+    "chassis": "MS Kart",
+    "engine": "Honda 200 ccm",
+    "hp": null,
+    "class": "200ccm (12 karts)"
+   },
+   {
+    "chassis": "MS Kart",
+    "engine": "Honda 390 ccm",
+    "hp": null,
+    "class": "390ccm (6 karts)"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior/children (4 karts)"
+   }
+  ],
+  "ages": {
+   "junior_height_cm": "80-140",
+   "390ccm_min_age": 18,
+   "200ccm": "adults 18+ need a qualifying lap time on 200ccm to upgrade (per site)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "MOTOKÁRA JUNIOR 10 minut (80-140cm)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 280,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 80,
+    "day": null,
+    "note": "second unlabelled column: 2600 CZK"
+   },
+   {
+    "label": "MOTOKÁRA 200ccm 10 minut",
+    "class": "200ccm",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 300,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "second unlabelled column: 2800 CZK"
+   },
+   {
+    "label": "MOTOKÁRA 390ccm 8 minut (od 18let!)",
+    "class": "390ccm",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 370,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "second unlabelled column: 3500 CZK"
+   }
+  ],
+  "fees": [
+   {
+    "label": "zpracování výsledků + zadávání do PC",
+    "price": 300,
+    "currency": "CZK"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.pujami.cz/motokary/",
+  "tracks": [
+   {
+    "name": "PuJaMi",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.firmy.cz/?q=motok%C3%A1ry",
+   "https://www.pujami.cz/",
+   "https://www.pujami.cz/motokary/"
+  ],
+  "id": "node/673590252",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://motokarcentrum.cz/",
+  "phone": "+420 777 194 163",
+  "email": "motokarcentrum@gmail.com",
+  "hours": "Autumn: Mon-Fri 15:00-20:00, Sat-Sun 12:00-21:00 (confirm weekends/holidays in advance)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 270 ccm",
+    "hp": null,
+    "class": "adult (8 karts)"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "two-seater adult+child (1 kart)"
+   },
+   {
+    "chassis": null,
+    "engine": "120-200 ccm",
+    "hp": null,
+    "class": "children (6 karts, 30-50 km/h)"
+   },
+   {
+    "chassis": null,
+    "engine": "390 ccm",
+    "hp": null,
+    "class": "experienced (2 karts; requires lap under 27.5 s on 270ccm)"
+   }
+  ],
+  "ages": {
+   "min_height_cm": 130,
+   "under_15": "must be accompanied by legal guardian"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Motokára 270 ccm 10 min",
+    "class": "270ccm",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 300,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Motokára 270 ccm 15 min",
+    "class": "270ccm",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 440,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Motokára 270 ccm 20 min",
+    "class": "270ccm",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 580,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Motokára 270 ccm 30 min",
+    "class": "270ccm",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 860,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dětská motokára 10 min",
+    "class": "children",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 250,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dětská motokára 15 min",
+    "class": "children",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 370,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dětská motokára 20 min",
+    "class": "children",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 490,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dětská motokára 30 min",
+    "class": "children",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 730,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dvousedadlová motokára 10 min",
+    "class": "two-seater",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 350,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dvousedadlová motokára 15 min",
+    "class": "two-seater",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 520,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dvousedadlová motokára 20 min",
+    "class": "two-seater",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 690,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Dvousedadlová motokára 30 min",
+    "class": "two-seater",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 1030,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Motokára 390ccm 10 min",
+    "class": "390ccm",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 500,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "requires lap under 27.5 s on 270ccm"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://motokarcentrum.cz/#cenik",
+  "tracks": [
+   {
+    "name": "Motokár Centrum Bavorovice",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental; lit, bridge/tunnel, about one third covered by a hall"
+   }
+  ],
+  "layout_page": "https://motokarcentrum.cz/#o-nas",
+  "sources": [
+   "https://www.firmy.cz/?q=motok%C3%A1ry&page=2",
+   "https://www.slevomat.cz/podnik/113143-motokar-centrum",
+   "https://motokarcentrum.cz/"
+  ],
+  "id": "node/2650176849",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://racingpark.pl/krakow/",
+  "phone": "+48 694 566 611",
+  "email": "rezerwacje@gokartykrakow.pl",
+  "hours": "Seasonal April-October: Mon, Tue, Thu, Fri 13:00-20:00; Wed 13:00-21:00; Sat-Sun 12:00-20:00",
+  "karts": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": 5.5,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": 6.5,
+    "class": "senior"
+   },
+   {
+    "chassis": "Sodi 2DRIVE",
+    "engine": null,
+    "hp": 9,
+    "class": "tandem"
+   }
+  ],
+  "ages": {
+   "junior": "8+ years, min 120 cm",
+   "senior": "15+ years, min 135 cm",
+   "tandem_passenger": "min 4 years, min 110 cm; driver must first complete a senior ride"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Jednorazowy przejazd Senior",
+    "class": "senior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 54,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Jednorazowy przejazd Junior",
+    "class": "junior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 54,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 120,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Jednorazowy przejazd Tandem",
+    "class": "tandem",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 82,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SKW Starter 2 x 8 min Junior/Senior",
+    "class": "junior/senior",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 119,
+    "currency": "PLN",
+    "extras": "balaclava + driver card",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SKW Starter 2 x 8 min Tandem",
+    "class": "tandem",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 159,
+    "currency": "PLN",
+    "extras": "balaclava + driver card",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Karnet 5 przejazdów Junior/Senior",
+    "class": "junior/senior",
+    "type": "pass",
+    "minutes": 40,
+    "laps": null,
+    "price": 255,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Tandem 5 rides 389 PLN"
+   },
+   {
+    "label": "Karnet 10 przejazdów Junior/Senior",
+    "class": "junior/senior",
+    "type": "pass",
+    "minutes": 80,
+    "laps": null,
+    "price": 485,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Karnet 20 przejazdów Junior/Senior",
+    "class": "junior/senior",
+    "type": "pass",
+    "minutes": 160,
+    "laps": null,
+    "price": 864,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "15 rides 689, 50 rides 1890 PLN"
+   },
+   {
+    "label": "Tani Poniedziałek 2 x 8 min Junior/Senior",
+    "class": "junior/senior",
+    "type": "promo",
+    "minutes": 16,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Monday (not public holidays)",
+    "note": null
+   },
+   {
+    "label": "Summer Happy Hours 1 x 8 min Junior/Senior",
+    "class": "junior/senior",
+    "type": "promo",
+    "minutes": 8,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri until 15:00, summer",
+    "note": "Tandem 68 PLN"
+   },
+   {
+    "label": "Wynajem toru 6 gokartów 30 min",
+    "class": "junior/senior",
+    "type": "exclusive",
+    "minutes": 30,
+    "laps": null,
+    "price": 714,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "Fri-Sun 774 PLN"
+   },
+   {
+    "label": "Wynajem toru 6 gokartów 60 min",
+    "class": "junior/senior",
+    "type": "exclusive",
+    "minutes": 60,
+    "laps": null,
+    "price": 1374,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "Fri-Sun 1494 PLN"
+   }
+  ],
+  "fees": [
+   {
+    "label": "Karta kierowcy (gokartsystem.pl)",
+    "price": 12,
+    "currency": "PLN"
+   },
+   {
+    "label": "Kominiarka",
+    "price": 12,
+    "currency": "PLN"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://racingpark.pl/krakow/cennik/",
+  "tracks": [
+   {
+    "name": "Racing Park Kraków",
+    "length_m": 200,
+    "width_m": null,
+    "use": "rental; 3000 m2, 14 corners, on mall parking deck"
+   }
+  ],
+  "layout_page": "https://racingpark.pl/krakow/uklad-toru/",
+  "sources": [
+   "https://racingpark.pl/",
+   "https://racingpark.pl/krakow/",
+   "https://racingpark.pl/krakow/cennik/"
+  ],
+  "id": "way/212501809",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://www.motokaryrajec.com/",
+  "phone": "+420 704 114 199",
+  "email": "motokaryrajec@gmail.com",
+  "hours": "Wed and Fri 15:00-19:00; Sat 13:00-18:00 (other days not listed)",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "children"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "8 minutová jízda Sodi Motokárou",
+    "class": "Sodi",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 250,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "8 minutová jízda Dětskou Motokárou",
+    "class": "children",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 200,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Firemní / Skupinové akce - 5 motokár, 1 hodina",
+    "class": "Sodi",
+    "type": "exclusive",
+    "minutes": 60,
+    "laps": null,
+    "price": 7500,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "+1000 CZK per extra kart, max 7 karts"
+   }
+  ],
+  "fees": [
+   {
+    "label": "Kukla",
+    "price": 70,
+    "currency": "CZK"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.motokaryrajec.com/cenik/",
+  "tracks": [
+   {
+    "name": "Motokáry Rájec",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental; combined indoor + outdoor section"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.firmy.cz/?q=motok%C3%A1ry&page=2",
+   "https://www.slevomat.cz/podnik/203404-motokary-rajec-jestrebi",
+   "https://www.motokaryrajec.com/",
+   "https://www.motokaryrajec.com/cenik/"
+  ],
+  "id": "node/1179282649",
+  "name": null,
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://kartcenter.pl/nasz-tor/gdansk-morena-racing-track/",
+  "phone": "+48 58 329 05 45",
+  "email": null,
+  "hours": "Mon-Thu 14:00-21:00; Fri 14:00-22:00; Sat-Sun 09:00-22:00",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": null,
+    "hp": null,
+    "class": "senior"
+   },
+   {
+    "chassis": "Sodi LRX2",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi KidRacer",
+    "engine": null,
+    "hp": null,
+    "class": "kids 3+ (may ride with parent)"
+   }
+  ],
+  "ages": {
+   "kidracer_min_age": 3
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Quick Race 6 min SENIOR (RSX)",
+    "class": "senior",
+    "type": "session",
+    "minutes": 6,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "standard price; online 'od 59 PLN'"
+   },
+   {
+    "label": "Quick Race 6 min JUNIOR (LRX2)",
+    "class": "junior",
+    "type": "session",
+    "minutes": 6,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "standard price; online 'od 33 PLN'"
+   },
+   {
+    "label": "Quick Race 5 min KidRacer",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 3,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "standard price; online 'od 23 PLN'"
+   },
+   {
+    "label": "Pakiet Startowy 2x6 min SENIOR/JUNIOR",
+    "class": "junior/senior",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 129,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "119 PLN per person when booked for a date"
+   },
+   {
+    "label": "Karnet 5x6 min JUNIOR/SENIOR",
+    "class": "junior/senior",
+    "type": "pass",
+    "minutes": 30,
+    "laps": null,
+    "price": 325,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "295 PLN per person shown as reduced price"
+   },
+   {
+    "label": "Karnet 20x6 min JUNIOR/SENIOR",
+    "class": "junior/senior",
+    "type": "pass",
+    "minutes": 120,
+    "laps": null,
+    "price": 1300,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "999 PLN per person shown as reduced price"
+   },
+   {
+    "label": "Tani Wtorek (-50%) 6 min JUNIOR/RSX",
+    "class": "junior/senior",
+    "type": "promo",
+    "minutes": 6,
+    "laps": null,
+    "price": 33,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Tuesday",
+    "note": "KidRacer 5 min 23 PLN"
+   },
+   {
+    "label": "Mini Grand Prix (grupa 6-18 osób)",
+    "class": "junior/senior",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 179,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person"
+   },
+   {
+    "label": "Regular Grand Prix (grupa 6-18 osób)",
+    "class": "junior/senior",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 249,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person"
+   },
+   {
+    "label": "Kartmagedon (grupa 6-18 osób)",
+    "class": "junior/senior",
+    "type": "race",
+    "minutes": null,
+    "laps": null,
+    "price": 299,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person"
+   }
+  ],
+  "fees": [
+   {
+    "label": "Kominiarka (dopłata do Quick Race)",
+    "price": 14,
+    "currency": "PLN"
+   },
+   {
+    "label": "Kominiarka (dopłata do pakietu 2x6 min)",
+    "price": 16,
+    "currency": "PLN"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartcenter.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Gdańsk Morena Racing Track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental; SWS Gdańsk rounds; academy"
+   }
+  ],
+  "layout_page": "https://kartcenter.pl/nasz-tor/gdansk-morena-racing-track/",
+  "sources": [
+   "https://kartcenter.pl/",
+   "https://kartcenter.pl/nasz-tor/gdansk-morena-racing-track/",
+   "https://kartcenter.pl/cennik/",
+   "https://kartcenter.pl/kontakt/"
+  ],
+  "id": "way/88386558",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://www.daytona-tarnow.eu/",
+  "phone": "+48 516 141 600",
+  "email": null,
+  "hours": "Mon-Thu 15:00-22:00; Fri 15:00-23:00; Sat 11:00-23:00; Sun 11:00-22:00",
+  "karts": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160 ccm",
+    "hp": 4,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "200 ccm",
+    "hp": 6.5,
+    "class": "basic"
+   },
+   {
+    "chassis": "Sodi RX8",
+    "engine": "270 ccm",
+    "hp": 9,
+    "class": "senior"
+   },
+   {
+    "chassis": "Sodi 2DRIVE",
+    "engine": "270 ccm",
+    "hp": 9,
+    "class": "tandem"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "SODI LR5 / SR5 - 8 min",
+    "class": "LR5/SR5",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 55,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5 / SR5 - 2 x 8 min",
+    "class": "LR5/SR5",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 105,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5 / SR5 - 5 przejazdów",
+    "class": "LR5/SR5",
+    "type": "pass",
+    "minutes": 40,
+    "laps": null,
+    "price": 240,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 rides 457, 20 rides 858, 50 rides 1870 PLN"
+   },
+   {
+    "label": "SODI RX8 - 8 min",
+    "class": "RX8 270ccm",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI RX8 - 2 x 8 min",
+    "class": "RX8 270ccm",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 135,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI RX8 - 5 przejazdów",
+    "class": "RX8 270ccm",
+    "type": "pass",
+    "minutes": 40,
+    "laps": null,
+    "price": 308,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 rides 580, 20 rides 1090, 50 rides 2380 PLN"
+   },
+   {
+    "label": "SODI 2DRIVE tandem - 8 min",
+    "class": "tandem",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI 2DRIVE tandem - 2 x 8 min",
+    "class": "tandem",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 135,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "label": "Kominiarka (obowiązkowa, można własną)",
+    "price": 15,
+    "currency": "PLN"
+   },
+   {
+    "label": "Karta kierowcy GokartSystem.pl",
+    "price": 10,
+    "currency": "PLN"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.daytona-tarnow.eu/cennik/cennik-podstawowy",
+  "tracks": [
+   {
+    "name": "Daytona Tarnów",
+    "length_m": 420,
+    "width_m": "3-6",
+    "use": "rental; hall 3000 m2"
+   }
+  ],
+  "layout_page": "https://www.daytona-tarnow.eu/",
+  "sources": [
+   "https://www.inyourpocket.com/poland/tarnow/Leisure/Go-karting/Daytona-Tarnow_95928v",
+   "https://www.daytona-tarnow.eu/",
+   "https://www.daytona-tarnow.eu/cennik/cennik-podstawowy"
+  ],
+  "id": "way/229326784",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://autodromslomczyn.pl/",
+  "phone": "+48 605 453 971",
+  "email": "kontakt@autodromslomczyn.pl",
+  "hours": "Training days per reservation calendar (https://autodromslomczyn.pl/kalendarz/); proposed schedule: registration 08:00-10:00, track 09:00-16:00 (winter time 09:00-15:00)",
+  "karts": [],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Autodrom Słomczyn",
+    "length_m": null,
+    "width_m": null,
+    "use": "multi-configuration asphalt circuit (karting, pit-bike, supermoto, rallycross, drift); ROK Cup Poland and 2026 FIA Karting European Championship venue"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://polskikarting.pl/tory/",
+   "https://autodromslomczyn.pl/",
+   "https://autodromslomczyn.pl/treningi-na-autodromie-slomczyn/"
+  ],
+  "id": "way/227219991",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "no",
+  "own_karts": "yes",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ },
+ {
+  "website": "https://www.motokary-motobydlo.cz/",
+  "phone": "+420 602 312 722",
+  "email": "motobydlo@centrum.cz",
+  "hours": "Tue-Sun 10:00-19:00 (website; price list says 10:00-18:00); Monday sanitary day, rides only by phone booking",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "200 ccm",
+    "hp": null,
+    "class": "kids (kids' circuit)"
+   },
+   {
+    "chassis": null,
+    "engine": "200 ccm",
+    "hp": null,
+    "class": "full track"
+   },
+   {
+    "chassis": null,
+    "engine": "200 ccm max power",
+    "hp": null,
+    "class": "full track, max power"
+   }
+  ],
+  "ages": {
+   "children": "min height 130 cm, min age 8"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Dětský okruh 200 ccm 10 min",
+    "class": "kids circuit",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 350,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "15 min 400, 20 min 650, 30 min 750, 60 min 950 CZK"
+   },
+   {
+    "label": "Velký okruh 200 ccm 10 min",
+    "class": "full track 200ccm",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 500,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Velký okruh 200 ccm 15 min",
+    "class": "full track 200ccm",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 600,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Velký okruh 200 ccm 20 min",
+    "class": "full track 200ccm",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 700,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Velký okruh 200 ccm 30 min",
+    "class": "full track 200ccm",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 900,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Velký okruh 200 ccm 60 min",
+    "class": "full track 200ccm",
+    "type": "session",
+    "minutes": 60,
+    "laps": null,
+    "price": 1500,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Velký okruh 200 ccm max power 10 min",
+    "class": "full track 200ccm max power",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 600,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "15 min 750, 20 min 850, 30 min 1300, 60 min 1800 CZK"
+   },
+   {
+    "label": "Pronájem celé dráhy / 60 min (6 vozů na dráze)",
+    "class": "exclusive",
+    "type": "exclusive",
+    "minutes": 60,
+    "laps": null,
+    "price": 9800,
+    "currency": "CZK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.motokary-motobydlo.cz/wp-content/uploads/2026/09/Cenik-jizd-2026.pdf",
+  "tracks": [
+   {
+    "name": "Velký okruh",
+    "length_m": 950,
+    "width_m": null,
+    "use": "rental; covered 4-level track in former factory, 27 banked corners, 2 tunnels (length from Slevomat description)"
+   },
+   {
+    "name": "Dětský okruh",
+    "length_m": null,
+    "width_m": null,
+    "use": "kids"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.firmy.cz/?q=motok%C3%A1ry",
+   "https://www.slevomat.cz/podnik/110987-motokary-motobydlo",
+   "https://www.motokary-motobydlo.cz/",
+   "https://www.motokary-motobydlo.cz/wp-content/uploads/2026/09/Cenik-jizd-2026.pdf"
+  ],
+  "id": "node/656347223",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery D03 (2026-10-15)."
+ }
+]

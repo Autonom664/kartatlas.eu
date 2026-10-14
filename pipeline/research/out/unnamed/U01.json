@@ -1,0 +1,572 @@
+[
+ {
+  "id": "way/686206452",
+  "verdict": "not_kart",
+  "name": "Modellbuggy Dellach (RC model buggy track)",
+  "website": "http://www.mbg-dellach.at",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 377 m fine-gravel raceway sits beside the OSM sports_centre 'Modellbuggy Dellach' operated by the Verein Modell Buggy Gruppe Dellach/Gail, a radio-controlled model buggy club with its own race track; no full-size kart venue is known in Dellach.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1531675920",
+   "https://www.meinbezirk.at/tag/slowenien"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/874868038",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 172 m asphalt raceway in Eggenburg near the Landesberufsschule (vocational school for motor mechanics), a retail area and football pitches; no kart venue or club for this spot was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/874868038"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/716911856",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Customers-only karting pitch next to a playground and outdoor seating of Gasthaus Bergerbauer (Krottendorf, Kapfenberg), an inn advertising a children's playground and petting zoo; most likely a small children's kart area for guests, but the kart type is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/716911856",
+   "https://www.steiermark.com/en/Hochsteiermark/Plan-your-holiday/Excursion-destinations/Gasthof-Bergerbauer_isd_285629"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/102912644",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small asphalt karting pitch in Linz-Wegscheid beside a sports ground (ASKÖ ESV Westbahn) and the Infra Center mall; no kart venue at this location was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/102912644"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/463095468",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting pitch (plus a second karting raceway way/840465405) beside Sportzentrum Loosdorf; no kart track, club or rental in Loosdorf was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/463095468"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1103944247",
+  "verdict": "not_kart",
+  "name": "Gokart-Arena, IKUNA Naturerlebnispark",
+  "website": "https://www.ikuna.at/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Concrete karting pitches inside the IKUNA Naturerlebnispark family theme park in Natternbach, next to its playgrounds; tourism listings describe the 'Gokart-Arena' as one of the children's attractions, not a public kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/240795528",
+   "https://www.urlaubsguru.at/freizeitaktivitaeten/ikuna-naturerlebnispark/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/325759220",
+  "verdict": "uncertain",
+  "name": "Gokartbahn Familienpark Hinterglemm",
+  "website": "https://www.saalbach.com",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The track lies next to the Familienpark Hinterglemm recreation ground, which tourism listings say has a go-kart track available for a fee; the kart type (motor karts vs children's karts) and operator could not be confirmed.",
+  "sources": [
+   "https://familienausflug.info/ausflugsziel/familienpark-hinterglemm",
+   "https://www.openstreetmap.org/way/325753474"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/801526556",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting pitch beside the ABARENA all-weather children's leisure park (and the former Dorf der Tiere) at Abersee, St. Gilgen; Abarena's published attractions do not mention karts, so this is probably a children's attraction but unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/232886243",
+   "https://wolfgangsee.salzkammergut.at/en/oesterreich-poi/detail/401519/abarena-all-weather-theme-park.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/225023200",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags the area amenity=driver_training with driver_training:for=kids and sport=cycling;karting, i.e. a children's traffic-training playground (Verkehrsgarten) in Ternitz-Dunkelstein, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/225023200"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1097041085",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small asphalt raceway on the grounds of the Plättli Zoo in Frauenfeld next to its playground; the zoo website does not mention karts, so it is probably a children's ride-on track but this is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/54062664",
+   "https://www.plaettli-zoo.ch/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/106942439",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Small untagged karting pitch in the lakeside recreation area at Hauterive NE (beach, playground, beach-volley, marina); no kart venue exists there per web search, so it is likely a children's pedal-kart area but unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/106942439"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1339003084",
+  "verdict": "not_kart",
+  "name": "Landgasthof Rössli children's electric-car track",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceway sits next to the customers' playground of Landgasthof Rössli in Tufertschwil; a family guide says children there can ride a miniature train and drive electric cars, i.e. a children's ride-on attraction, not a kart track.",
+  "sources": [
+   "https://www.familienleben.ch/ausfluege/restaurant/restaurants-fuer-familien-in-der-ostschweiz-1709",
+   "https://www.myswitzerland.com/en/accommodations/hotel-roessli-tufertschwil/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1073569368",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 219 m raceway area in the Meyrin industrial zone near Meyrin station, with an RC-model shop (Promodélisme) nearby; no kart venue in Meyrin was found online (the nearest is Karting Club Genève in Carouge), so it may be an RC or private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1073569368"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/216393104",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 161 m karting area beside the Blansko sports grounds (baseball, skate park, RC buggy track, 'Bistro Okruh'); no full-size kart venue in Blansko was found, and Blansko is known for a small RC on-road racing track, so this may be an RC track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/712972500",
+   "https://redrc.net/?p=100624"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1471605096",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Recently mapped raceway segments (815 m) beside a village sports centre in Chotěbuz; no kart track, club or rental was found online for Chotěbuz.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1471605096"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1021660390",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Untagged karting area in the Excalibur City / Merlin's Camp leisure complex at Hatě (Chvalovice), next to a 'Dětská autoškola' children's driving-school attraction, a traffic playground and a motocross area; likely a children's attraction but no source confirms the kart type.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1021660390"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1374250838",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting-tagged sports_centre in an industrial area of Havířov-Šumbark near a traffic playground; no kart venue in Havířov was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1374250838"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/848634367",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 256 m asphalt raceway among meadows near Stifterův smrk outside Horní Planá with no associated facility in OSM; no kart venue near Horní Planá/Lipno was found online, possibly a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/848634367"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1239464809",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 972 m raceway with a ground (unpaved) surface between forest, meadows and an industrial area at Březhrad (Hradec Králové); the only Hradec Králové kart rental (Motokáry HK) is at Roudnice on the other side of the city, and no venue at Březhrad was found, so this may be an off-road/dirt track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1239464809",
+   "https://www.slevomat.cz/akce/1135759-zazitek-z-rychlosti-10-minut-jizdy-v-motokare"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1137646442",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Fee-charging karting sports_centre beside the Kutnohorská bobová dráha leisure park (summer bobsleigh, trampolines, children's quad bikes) and the Karlov swimming pool in Kutná Hora; the park's listing mentions children's quads but not karts, so this is probably a children's ride track, unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1137646442",
+   "https://en.firmy.cz/Trades-and-services/Sports-services/Sport-centers-and-facilities/Bobsleigh-tracks/kraj-stredocesky/kutna-hora/3824-semtes"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/200922128",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "An untagged area with only sport=karting in a residential district of Moravská Třebová next to a small park and playground; no kart venue or traffic playground was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/200922128"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1363273378",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Two short karting raceways (238 m) beside an industrial area and recreation ground at Mžany; no kart venue in Mžany was found online, possibly a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1363273378"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1305474871",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 218 m raceway in the Nová Paka sports area (stadium, Sportovní centrum, skate park, ice rink); the only motorsport venue found locally is the Štikovská rokle autocross track (930 m), which this does not match.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1305474871",
+   "https://www.autoklubnp.cz/en/autocross-nova-paka-track.php"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/507817684",
+  "verdict": "not_kart",
+  "name": "Dopravní hřiště Nový Jičín (Dlouhá)",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The raceway segments (including a 1.5 m wide roundabout) belong to the 'Dopravní hřiště' children's traffic playground mapped next to the ZŠ a MŠ Nový Jičín, Dlouhá school, not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/507817689",
+   "https://www.openstreetmap.org/way/507817686"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1040049653",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Several raceway segments (about 1,080 m) on farmland at the edge of the village Okřesaneč with no associated facility in OSM; no kart, motocross or pitbike venue there was found online, possibly a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1040049653"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1317594562",
+  "verdict": "not_kart",
+  "name": "modelářská dráha (model track), Padochov",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The two short raceways at Padochov (Oslavany) are mapped on a plot named 'modelářská dráha' (model-racing track) in OSM, i.e. an RC model car track; no kart venue in Oslavany was found online.",
+  "sources": [
+   "https://www.openstreetmap.org/node/12194617807",
+   "https://www.openstreetmap.org/way/1317594562"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1127732545",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 130 m karting raceway inside a cluster of motocross raceways on the Odra riverbank at Hošťálkovice (Ostrava); no kart venue there was found online, so it may be a small practice loop of the motocross area.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1127732545",
+   "https://www.openstreetmap.org/way/1002237855"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1389597361",
+  "verdict": "real",
+  "name": "Motopark Ostrava",
+  "website": null,
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The asphalt raceway and karting pitch sit next to the OSM shop 'MOTOPARK Ostrava' (Opavská 5637, Ostrava-Třebovice); business listings describe Motopark's 700 m x 7 m multifunctional circuit used for go-karts and say the company runs a go-kart rental.",
+  "sources": [
+   "https://www.openstreetmap.org/node/12862909873",
+   "https://www.zivefirmy.cz/motopark-ostrava_f1733044?cz=92",
+   "https://www.podnikatel.cz/rejstrik/motopark-ostrava-s-r-o-01643223/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1410089894",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 369 m raceway area (plus a second karting raceway) beside the FotbalPark Pavlíkov footgolf course and village sports pitches; neither FotbalPark nor any other Pavlíkov source mentions karts.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1410089894",
+   "https://www.openstreetmap.org/way/332429795"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1227154423",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Several short raceway segments (205 m) beside the sports grounds and playground of ZŠ J. A. Komenského in Přerov-Předmostí; the layout next to a school suggests a children's traffic playground, but no source confirms it.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1227154423"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/11210902125",
+  "verdict": "uncertain",
+  "name": "Monaco Complex",
+  "website": "https://monaco-complex.cz/",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM maps a fee-charging karting sports_centre operated by 'Monaco Compex' at the Monaco Complex resort (restaurant, accommodation, wellness) near Rakovník, but the resort's website lists no karting, only a children's playground, so kart activity is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/node/11210902125",
+   "https://monaco-complex.cz/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1056850452",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A network of karting raceway segments (797 m) in Praha-Motol beside STK Motol and a sports centre near the former Greyhound Park Motol, where press reports mention occasional kart and electric/pedal kart rides; the site is being converted into an athletics stadium, so no current public kart venue is confirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1056850452",
+   "https://www.novinky.cz/clanek/domaci-misto-chrtu-a-motokar-radeji-atletika-praha-se-chysta-postavit-mestsky-stadion-40498090"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1290080984",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Six short karting raceway segments (380 m) inside the Areál volného času Cihelna leisure area in Svitavy (minigolf, skate park, pumptrack, model airfield, speedway raceway); the venue's listings mention no karts, so the segments may be a pumptrack or children's track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1290080984",
+   "https://www.kudyznudy.cz/aktivity/areal-volneho-casu-cihelna-ve-svitavach"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1244235669",
+  "verdict": "not_kart",
+  "name": "Dopravní hřiště Uničov (city park)",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The nine short raceway segments (681 m in total) lie in the Uničov city park next to the mapped 'Dopravní hřiště' (children's traffic playground), minigolf and skate park; the street-like network is the traffic playground, and no kart venue in Uničov exists online.",
+  "sources": [
+   "https://www.openstreetmap.org/way/127095115",
+   "https://www.openstreetmap.org/way/1244235669"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1479858209",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 149 m raceway inside the Transkemp Hracholusky campsite next to its minigolf and tennis court; the campsite's listings mention no karts, so it is likely a small campsite attraction but unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/473854047",
+   "https://alanrogers.com/campsite/transkemp-hracholusky-west-bohemia"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1559395264",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 258 m raceway in meadows beside an isolated farmstead ('U Vlastníků') near Čejov with no facility in OSM and no web presence; possibly a private track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1559395264"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/96950749",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Karting pitch beside the Trifelsstadion sports grounds in Annweiler-Queichhambach; no kart track or kart-slalom club using this site was found (regional youth kart slalom is run by MSC Ramberg elsewhere).",
+  "sources": [
+   "https://www.openstreetmap.org/way/96950749",
+   "https://www.wochenblatt-reporter.de/annweiler/c-sport/auf-erfolgskurs_a25769"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/593928323",
+  "verdict": "club_or_private",
+  "name": "MAC Königsbrunn – Jugendsportanlage am Ilsesee",
+  "website": "https://www.mac-koenigsbrunn.de/",
+  "type": "outdoor",
+  "rental": "no",
+  "own_karts": null,
+  "evidence": "The asphalt karting area lies in the youth sports facility of the Motorrad- u. Autosportclub Königsbrunn e.V. im ADAC at the Ilsesee (OSM: 'BMX Racing, Jugend-Kartslalom und Moto Cross'); the club runs ADAC youth kart-slalom training and competitions there, not public rental.",
+  "sources": [
+   "https://www.openstreetmap.org/way/38157291",
+   "https://www.mac-koenigsbrunn.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/430206718",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A tiny lit karting pitch (about 20 x 15 m) on Alter Postweg in Bottrop-Grafenwald; far too small for a kart track and no venue was found online, so it is probably a play area or mis-tag, but unconfirmed (Overpass context could not be retrieved).",
+  "sources": [
+   "https://www.openstreetmap.org/way/430206718"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

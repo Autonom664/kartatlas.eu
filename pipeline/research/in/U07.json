@@ -1,0 +1,635 @@
+[
+ {
+  "id": "way/1561716712",
+  "guessed_name": null,
+  "nearby_hint": "Dukenburg",
+  "town": "Heumen",
+  "region": "Gelderland",
+  "country": "NL",
+  "lat": 51.7956,
+  "lon": 5.82467,
+  "type": "outdoor",
+  "osm_length_m": 202,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1495035422",
+  "guessed_name": null,
+  "nearby_hint": "Waddinxveen",
+  "town": "Zuidplas",
+  "region": "Zuid-Holland",
+  "country": "NL",
+  "lat": 52.01993,
+  "lon": 4.64992,
+  "type": "indoor",
+  "osm_length_m": 172,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "covered": "yes",
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "paved"
+  }
+ },
+ {
+  "id": "way/1388775118",
+  "guessed_name": null,
+  "nearby_hint": "Bartoszyce",
+  "town": "Bartoszyce",
+  "region": "województwo warmińsko-mazurskie",
+  "country": "PL",
+  "lat": 54.25198,
+  "lon": 20.82722,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "concrete"
+  }
+ },
+ {
+  "id": "way/1125210707",
+  "guessed_name": null,
+  "nearby_hint": "Białka Tatrzańska",
+  "town": "Białka Tatrzańska",
+  "region": "województwo małopolskie",
+  "country": "PL",
+  "lat": 49.39028,
+  "lon": 20.09956,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting",
+   "surface": "concrete"
+  }
+ },
+ {
+  "id": "way/643324411",
+  "guessed_name": null,
+  "nearby_hint": "Osiedle Piastów",
+  "town": "Bolesławiec",
+  "region": "województwo dolnośląskie",
+  "country": "PL",
+  "lat": 51.27462,
+  "lon": 15.58306,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/345803624",
+  "guessed_name": null,
+  "nearby_hint": "Borek",
+  "town": "Borek",
+  "region": "województwo małopolskie",
+  "country": "PL",
+  "lat": 50.02973,
+  "lon": 20.52318,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/654470290",
+  "guessed_name": null,
+  "nearby_hint": "Nieżychowice",
+  "town": "Chojnice",
+  "region": "województwo pomorskie",
+  "country": "PL",
+  "lat": 53.68167,
+  "lon": 17.5373,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "lit": "yes",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1127486983",
+  "guessed_name": null,
+  "nearby_hint": "Jałowe",
+  "town": "Jałowe",
+  "region": "województwo podkarpackie",
+  "country": "PL",
+  "lat": 49.41294,
+  "lon": 22.6385,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "access": "customers",
+   "leisure": "sports_centre",
+   "source": "survey",
+   "sport": "karting",
+   "survey:date": "2023-01-01"
+  }
+ },
+ {
+  "id": "way/1166210769",
+  "guessed_name": null,
+  "nearby_hint": "Dębniki",
+  "town": "Kraków",
+  "region": "województwo małopolskie",
+  "country": "PL",
+  "lat": 50.03434,
+  "lon": 19.90047,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1325491227",
+  "guessed_name": null,
+  "nearby_hint": "Ząbki",
+  "town": "Marki",
+  "region": "województwo mazowieckie",
+  "country": "PL",
+  "lat": 52.30662,
+  "lon": 21.09008,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "leisure": "track",
+   "lit": "yes",
+   "sport": "karting",
+   "surface": "paved"
+  }
+ },
+ {
+  "id": "relation/19020303",
+  "guessed_name": null,
+  "nearby_hint": "Rudnik nad Sanem",
+  "town": "Rudnik nad Sanem",
+  "region": "województwo podkarpackie",
+  "country": "PL",
+  "lat": 50.43811,
+  "lon": 22.2533,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/918036196",
+  "guessed_name": null,
+  "nearby_hint": "Sokolec",
+  "town": "Rzeczka",
+  "region": "województwo dolnośląskie",
+  "country": "PL",
+  "lat": 50.66377,
+  "lon": 16.46424,
+  "type": "outdoor",
+  "osm_length_m": 189,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1312646351",
+  "guessed_name": "Gokarty",
+  "nearby_hint": null,
+  "town": "Solec Kujawski",
+  "region": "województwo kujawsko-pomorskie",
+  "country": "PL",
+  "lat": 53.08103,
+  "lon": 18.235,
+  "type": "outdoor",
+  "osm_length_m": 159,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/194071643",
+  "guessed_name": null,
+  "nearby_hint": "Suwałki",
+  "town": "Suwałki",
+  "region": "województwo podlaskie",
+  "country": "PL",
+  "lat": 54.10275,
+  "lon": 22.91239,
+  "type": "outdoor",
+  "osm_length_m": 711,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "description": "Tor Kartingowy w Suwałkach",
+   "highway": "raceway",
+   "lanes": "1",
+   "lit": "no",
+   "oneway": "yes",
+   "sport": "karting;motor;motocross",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1156687776",
+  "guessed_name": null,
+  "nearby_hint": "Rubinkowo",
+  "town": "Toruń",
+  "region": "województwo kujawsko-pomorskie",
+  "country": "PL",
+  "lat": 53.03759,
+  "lon": 18.66293,
+  "type": "outdoor",
+  "osm_length_m": 240,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1162491249",
+  "guessed_name": null,
+  "nearby_hint": "Tylicz",
+  "town": "Tylicz",
+  "region": "województwo małopolskie",
+  "country": "PL",
+  "lat": 49.39893,
+  "lon": 21.02776,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/867476105",
+  "guessed_name": null,
+  "nearby_hint": "Ursus",
+  "town": "Warszawa",
+  "region": "województwo mazowieckie",
+  "country": "PL",
+  "lat": 52.19414,
+  "lon": 20.87502,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/761020964",
+  "guessed_name": "Tor kartingowy",
+  "nearby_hint": null,
+  "town": "Wasilków",
+  "region": "województwo podlaskie",
+  "country": "PL",
+  "lat": 53.18497,
+  "lon": 23.15041,
+  "type": "outdoor",
+  "osm_length_m": 332,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "concrete",
+   "width": "5"
+  }
+ },
+ {
+  "id": "way/1422551589",
+  "guessed_name": null,
+  "nearby_hint": "Tumiany",
+  "town": "gmina Barczewo",
+  "region": "województwo warmińsko-mazurskie",
+  "country": "PL",
+  "lat": 53.81343,
+  "lon": 20.795,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "node/13796539259",
+  "guessed_name": null,
+  "nearby_hint": "Hohenwutzen",
+  "town": "gmina Cedynia",
+  "region": "województwo zachodniopomorskie",
+  "country": "PL",
+  "lat": 52.84351,
+  "lon": 14.13068,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/823000123",
+  "guessed_name": null,
+  "nearby_hint": "Łaziska",
+  "town": "gmina Rogowo",
+  "region": "województwo kujawsko-pomorskie",
+  "country": "PL",
+  "lat": 52.74141,
+  "lon": 17.64972,
+  "type": "outdoor",
+  "osm_length_m": 615,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "fee": "yes",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/173523512",
+  "guessed_name": null,
+  "nearby_hint": "Mickelsmad",
+  "town": "Borgholms kommun",
+  "region": "Kalmar län",
+  "country": "SE",
+  "lat": 57.32783,
+  "lon": 17.05277,
+  "type": "outdoor",
+  "osm_length_m": 411,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "relation/11966326",
+  "guessed_name": null,
+  "nearby_hint": "Dansut",
+  "town": "Gnesta kommun",
+  "region": "Södermanlands län",
+  "country": "SE",
+  "lat": 59.02229,
+  "lon": 17.30954,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "area:highway": "raceway",
+   "leisure": "track",
+   "sport": "karting",
+   "surface": "asphalt",
+   "type": "multipolygon"
+  }
+ },
+ {
+  "id": "way/367162773",
+  "guessed_name": null,
+  "nearby_hint": "Sandtorp",
+  "town": "Götene kommun",
+  "region": "Västra Götalands län",
+  "country": "SE",
+  "lat": 58.54721,
+  "lon": 13.3913,
+  "type": "outdoor",
+  "osm_length_m": 466,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "contact:website": "http://hyrgokart.nu/",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/1414333573",
+  "guessed_name": null,
+  "nearby_hint": "Karlskrona",
+  "town": "Karlskrona kommun",
+  "region": "Blekinge län",
+  "country": "SE",
+  "lat": 56.1621,
+  "lon": 15.5649,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/341917056",
+  "guessed_name": null,
+  "nearby_hint": "Sollefteå",
+  "town": "Multrå distrikt",
+  "region": "Västernorrlands län",
+  "country": "SE",
+  "lat": 63.17377,
+  "lon": 17.28366,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1250293709",
+  "guessed_name": null,
+  "nearby_hint": "Himmelstalund",
+  "town": "Norrköpings kommun",
+  "region": "Östergötlands län",
+  "country": "SE",
+  "lat": 58.59298,
+  "lon": 16.1351,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "stadium",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/297339947",
+  "guessed_name": null,
+  "nearby_hint": "Eksund",
+  "town": "Norrköpings kommun",
+  "region": "Östergötlands län",
+  "country": "SE",
+  "lat": 58.56789,
+  "lon": 16.08133,
+  "type": "outdoor",
+  "osm_length_m": 776,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/518204339",
+  "guessed_name": null,
+  "nearby_hint": "Åkers styckebruk",
+  "town": "Strängnäs kommun",
+  "region": "Södermanlands län",
+  "country": "SE",
+  "lat": 59.27475,
+  "lon": 17.11731,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/5174043",
+  "guessed_name": null,
+  "nearby_hint": "Bollstanäs",
+  "town": "Upplands Väsby kommun",
+  "region": "Stockholms län",
+  "country": "SE",
+  "lat": 59.49513,
+  "lon": 17.98077,
+  "type": "outdoor",
+  "osm_length_m": 397,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/152640372",
+  "guessed_name": null,
+  "nearby_hint": "Hökåsen",
+  "town": "Västerås kommun",
+  "region": "Västmanlands län",
+  "country": "SE",
+  "lat": 59.6523,
+  "lon": 16.60014,
+  "type": "outdoor",
+  "osm_length_m": 251,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "landuse": "recreation_ground",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/322817680",
+  "guessed_name": null,
+  "nearby_hint": "Boglundsängen",
+  "town": "Örebro kommun",
+  "region": "Örebro län",
+  "country": "SE",
+  "lat": 59.30375,
+  "lon": 15.20932,
+  "type": "outdoor",
+  "osm_length_m": 292,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "node/14062544858",
+  "guessed_name": null,
+  "nearby_hint": "Aspholmen",
+  "town": "Örebro kommun",
+  "region": "Örebro län",
+  "country": "SE",
+  "lat": 59.25524,
+  "lon": 15.19029,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ }
+]

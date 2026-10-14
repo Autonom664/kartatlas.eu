@@ -1,0 +1,732 @@
+[
+ {
+  "id": "way/199780694",
+  "guessed_name": null,
+  "nearby_hint": "Villaggio Baffa",
+  "town": "Cotronei",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 39.1904,
+  "lon": 16.66974,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/596130286",
+  "guessed_name": null,
+  "nearby_hint": "Deximeputzu/Decimoputzu",
+  "town": "Deximeputzu/Decimoputzu",
+  "region": "Sardigna/Sardegna",
+  "country": "IT",
+  "lat": 39.33107,
+  "lon": 8.91762,
+  "type": "outdoor",
+  "osm_length_m": 168,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/177220042",
+  "guessed_name": null,
+  "nearby_hint": "Falconara Albanese",
+  "town": "Falconara Albanese",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 39.27516,
+  "lon": 16.05614,
+  "type": "outdoor",
+  "osm_length_m": 553,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/326835886",
+  "guessed_name": null,
+  "nearby_hint": "Torrette",
+  "town": "Fano",
+  "region": "Marche",
+  "country": "IT",
+  "lat": 43.79675,
+  "lon": 13.0966,
+  "type": "outdoor",
+  "osm_length_m": 328,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/171855334",
+  "guessed_name": null,
+  "nearby_hint": "Brolo",
+  "town": "Ficarra",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 38.14527,
+  "lon": 14.81949,
+  "type": "outdoor",
+  "osm_length_m": 891,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "no",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/32798128",
+  "guessed_name": null,
+  "nearby_hint": "Segezia",
+  "town": "Foggia",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 41.43533,
+  "lon": 15.48014,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/59826097",
+  "guessed_name": null,
+  "nearby_hint": "Fondi",
+  "town": "Fondi",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 41.34262,
+  "lon": 13.4128,
+  "type": "outdoor",
+  "osm_length_m": 620,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "barrier": "fence",
+   "leisure": "sports_centre",
+   "phone": "+39 334 3770027",
+   "ref:vatin": "IT01372660595",
+   "sport": "karting",
+   "website": "http://www.pistakartingfondi.com"
+  }
+ },
+ {
+  "id": "way/141611632",
+  "guessed_name": null,
+  "nearby_hint": "Frassinoro",
+  "town": "Frassinoro",
+  "region": "Emilia-Romagna",
+  "country": "IT",
+  "lat": 44.29409,
+  "lon": 10.57417,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "area": "yes",
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1388704251",
+  "guessed_name": null,
+  "nearby_hint": "Chianchitta",
+  "town": "Giardini-Naxos",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 37.81643,
+  "lon": 15.24989,
+  "type": "outdoor",
+  "osm_length_m": 245,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1289612226",
+  "guessed_name": null,
+  "nearby_hint": "Marina di Ginosa",
+  "town": "Ginosa",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 40.44821,
+  "lon": 16.85982,
+  "type": "outdoor",
+  "osm_length_m": 636,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/1195121477",
+  "guessed_name": null,
+  "nearby_hint": "Gravina in Puglia",
+  "town": "Gravina in Puglia",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 40.76652,
+  "lon": 16.40435,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/198091255",
+  "guessed_name": null,
+  "nearby_hint": "Bivio di Guidonia",
+  "town": "Guidonia Montecelio",
+  "region": "Lazio",
+  "country": "IT",
+  "lat": 41.96595,
+  "lon": 12.71389,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "note": "Not sure if it is for karts or modellism machines",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/184641695",
+  "guessed_name": null,
+  "nearby_hint": "Monte Figu",
+  "town": "Igrèsias/Iglesias",
+  "region": "Sardigna/Sardegna",
+  "country": "IT",
+  "lat": 39.30153,
+  "lon": 8.58031,
+  "type": "outdoor",
+  "osm_length_m": 333,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1469562147",
+  "guessed_name": null,
+  "nearby_hint": "Frigole",
+  "town": "Lecce",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 40.43304,
+  "lon": 18.2286,
+  "type": "outdoor",
+  "osm_length_m": 814,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1435688646",
+  "guessed_name": null,
+  "nearby_hint": "Leffe",
+  "town": "Leffe",
+  "region": "Lombardia",
+  "country": "IT",
+  "lat": 45.80061,
+  "lon": 9.881,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1317631741",
+  "guessed_name": null,
+  "nearby_hint": "Lignano Pineta",
+  "town": "Lignano Sabbiadoro",
+  "region": "Friuli-Venezia Giulia",
+  "country": "IT",
+  "lat": 45.67913,
+  "lon": 13.10939,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/460115149",
+  "guessed_name": null,
+  "nearby_hint": "Locorotondo",
+  "town": "Locorotondo",
+  "region": "Puglia",
+  "country": "IT",
+  "lat": 40.75663,
+  "lon": 17.34386,
+  "type": "outdoor",
+  "osm_length_m": 320,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/228121884",
+  "guessed_name": null,
+  "nearby_hint": "Moschetta",
+  "town": "Locri",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 38.24077,
+  "lon": 16.23122,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "disused:highway": "raceway",
+   "highway": "service",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/305333851",
+  "guessed_name": null,
+  "nearby_hint": "Chessa",
+  "town": "Locusantu/Luogosanto",
+  "region": "Sardigna/Sardegna",
+  "country": "IT",
+  "lat": 41.12445,
+  "lon": 9.20118,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "pitch",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1479613077",
+  "guessed_name": null,
+  "nearby_hint": "Sant'Elia a Pianisi",
+  "town": "Macchia Valfortore",
+  "region": "Molise",
+  "country": "IT",
+  "lat": 41.6114,
+  "lon": 14.87483,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting;multi"
+  }
+ },
+ {
+  "id": "way/732197609",
+  "guessed_name": null,
+  "nearby_hint": "Mariglianella",
+  "town": "Marigliano",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 40.94194,
+  "lon": 14.43892,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1089677812",
+  "guessed_name": null,
+  "nearby_hint": "Pergola",
+  "town": "Marsico Nuovo",
+  "region": "Basilicata",
+  "country": "IT",
+  "lat": 40.429,
+  "lon": 15.69093,
+  "type": "outdoor",
+  "osm_length_m": 418,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1396182326",
+  "guessed_name": null,
+  "nearby_hint": "Cerreto",
+  "town": "Massa",
+  "region": "Toscana",
+  "country": "IT",
+  "lat": 44.02358,
+  "lon": 10.15875,
+  "type": "outdoor",
+  "osm_length_m": 372,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "relation/3745641",
+  "guessed_name": null,
+  "nearby_hint": "Santa Lucia sopra Contesse",
+  "town": "Messina",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 38.16131,
+  "lon": 15.5196,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "colour:back": "white",
+   "colour:text": "black",
+   "destination": "Kartodromo",
+   "leisure": "sports_centre",
+   "sport": "karting",
+   "type": "destination_sign"
+  }
+ },
+ {
+  "id": "relation/3745642",
+  "guessed_name": null,
+  "nearby_hint": "Pistunina",
+  "town": "Messina",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 38.15039,
+  "lon": 15.52911,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "colour:back": "white",
+   "colour:text": "black",
+   "destination": "Kartodromo",
+   "leisure": "sports_centre",
+   "sport": "karting",
+   "type": "destination_sign"
+  }
+ },
+ {
+  "id": "way/348306772",
+  "guessed_name": null,
+  "nearby_hint": "Sant'Ubaldo",
+  "town": "Monsano",
+  "region": "Marche",
+  "country": "IT",
+  "lat": 43.56677,
+  "lon": 13.28803,
+  "type": "outdoor",
+  "osm_length_m": 351,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "racetrack",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/491948926",
+  "guessed_name": null,
+  "nearby_hint": "Casalbore",
+  "town": "Montecalvo Irpino",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 41.22993,
+  "lon": 15.04327,
+  "type": "outdoor",
+  "osm_length_m": 639,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/227703486",
+  "guessed_name": null,
+  "nearby_hint": "Oste",
+  "town": "Montemurlo",
+  "region": "Toscana",
+  "country": "IT",
+  "lat": 43.90389,
+  "lon": 11.02448,
+  "type": "outdoor",
+  "osm_length_m": 877,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "oneway": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "node/12395369765",
+  "guessed_name": null,
+  "nearby_hint": "Montese",
+  "town": "Montese",
+  "region": "Emilia-Romagna",
+  "country": "IT",
+  "lat": 44.28058,
+  "lon": 10.94873,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/896968292",
+  "guessed_name": null,
+  "nearby_hint": "Montesilvano",
+  "town": "Montesilvano",
+  "region": "Abruzzo",
+  "country": "IT",
+  "lat": 42.5237,
+  "lon": 14.15186,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "lit": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/300265611",
+  "guessed_name": null,
+  "nearby_hint": "Champdepraz",
+  "town": "Montjovet",
+  "region": "Valle d'Aosta / Vallée d'Aoste",
+  "country": "IT",
+  "lat": 45.69805,
+  "lon": 7.66869,
+  "type": "outdoor",
+  "osm_length_m": 184,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/1158140460",
+  "guessed_name": null,
+  "nearby_hint": "Montorio al Vomano",
+  "town": "Montorio al Vomano",
+  "region": "Abruzzo",
+  "country": "IT",
+  "lat": 42.58167,
+  "lon": 13.64872,
+  "type": "outdoor",
+  "osm_length_m": 268,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/24323666",
+  "guessed_name": null,
+  "nearby_hint": "Terranoa/Olbia",
+  "town": "Olbia",
+  "region": "Sardigna/Sardegna",
+  "country": "IT",
+  "lat": 40.9326,
+  "lon": 9.50978,
+  "type": "outdoor",
+  "osm_length_m": 260,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/371434965",
+  "guessed_name": null,
+  "nearby_hint": "Paternò",
+  "town": "Paternò",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 37.57348,
+  "lon": 14.8929,
+  "type": "outdoor",
+  "osm_length_m": 192,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ },
+ {
+  "id": "way/233149657",
+  "guessed_name": null,
+  "nearby_hint": "Patti",
+  "town": "Patti",
+  "region": "Sicilia",
+  "country": "IT",
+  "lat": 38.13643,
+  "lon": 14.97269,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "leisure": "track",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/517642335",
+  "guessed_name": null,
+  "nearby_hint": "Pedaso",
+  "town": "Pedaso",
+  "region": "Marche",
+  "country": "IT",
+  "lat": 43.08262,
+  "lon": 13.84089,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "sports_centre",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/385008203",
+  "guessed_name": null,
+  "nearby_hint": "Gerbido",
+  "town": "Piacenza",
+  "region": "Emilia-Romagna",
+  "country": "IT",
+  "lat": 45.0487,
+  "lon": 9.74325,
+  "type": "outdoor",
+  "osm_length_m": null,
+  "has_outline": false,
+  "website": null,
+  "osm_tags": {
+   "leisure": "racetrack",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/971265602",
+  "guessed_name": null,
+  "nearby_hint": "Primogenito",
+  "town": "Polistena",
+  "region": "Calabria",
+  "country": "IT",
+  "lat": 38.4212,
+  "lon": 16.0533,
+  "type": "outdoor",
+  "osm_length_m": 488,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "sport": "karting"
+  }
+ },
+ {
+  "id": "way/452900892",
+  "guessed_name": null,
+  "nearby_hint": "Pontecagnano",
+  "town": "Pontecagnano Faiano",
+  "region": "Campania",
+  "country": "IT",
+  "lat": 40.62325,
+  "lon": 14.84323,
+  "type": "outdoor",
+  "osm_length_m": 249,
+  "has_outline": true,
+  "website": null,
+  "osm_tags": {
+   "highway": "raceway",
+   "lit": "yes",
+   "sport": "karting",
+   "surface": "asphalt"
+  }
+ }
+]

@@ -1,0 +1,1644 @@
+{
+ "countries": [
+  "AT",
+  "CH",
+  "LI"
+ ],
+ "sources_used": [
+  {
+   "name": "ausflugsziele.jetzt - Kategorie Kartbahn (AT)",
+   "url": "https://www.ausflugsziele.jetzt/kategorie/kartbahn/",
+   "venues_listed": 11
+  },
+  {
+   "name": "freizeitmonster.de - Kartbahnen near Graz/Wels/Imst/Linz/Wien/Innsbruck/Salzburg/Klagenfurt/Bregenz/Villach/Dornbirn/St. Poelten",
+   "url": "https://freizeitmonster.de/blog/kartbahnen-graz",
+   "venues_listed": 50
+  },
+  {
+   "name": "freizeit.ch - Die besten Kartbahnen der Schweiz",
+   "url": "https://www.freizeit.ch/dossier/22549/die-besten-kartbahnen-der-schweiz",
+   "venues_listed": 14
+  },
+  {
+   "name": "freizeit.ch - Kategorie Go-Kart",
+   "url": "https://www.freizeit.ch/kategorie/36-go-kart",
+   "venues_listed": 12
+  },
+  {
+   "name": "torpille.ch - Karting Suisse romande (incl. German-speaking CH list)",
+   "url": "https://torpille.ch/karting-suisse-romande/",
+   "venues_listed": 15
+  },
+  {
+   "name": "herold.at - Kartbahnen in Wien und Umgebung",
+   "url": "https://www.herold.at/blog/?p=89962",
+   "venues_listed": 5
+  },
+  {
+   "name": "kartbahn.ch (Kartsport Schweiz portal)",
+   "url": "https://www.kartbahn.ch/",
+   "venues_listed": 5
+  },
+  {
+   "name": "switzerlanding.com - Go karting near Geneva",
+   "url": "https://switzerlanding.com/go-karting-geneva/",
+   "venues_listed": 3
+  },
+  {
+   "name": "steiermark.com tourism listings (Styria Karting, Indoorkart Spielberg)",
+   "url": "https://www.steiermark.com/de/Murtal/Aktivitaeten/Ausflugsziele/Indoorkart-Spielberg_isd_1914877",
+   "venues_listed": 2
+  },
+  {
+   "name": "Sodi World Series track list (blocked by reCAPTCHA, not used)",
+   "url": "https://www.sodiwseries.com/en-gb/tracks/",
+   "venues_listed": 0
+  }
+ ],
+ "new_venues": [
+  {
+   "name": "Kartbahn Wien (In & Outdoor Kartbahn Wien)",
+   "address": "Hosnedlgasse 18, 1220 Wien",
+   "town": "Wien",
+   "country": "AT",
+   "lat": 48.2581358,
+   "lon": 16.4640434,
+   "address_osm_id": "node/3861206615",
+   "type": "indoor",
+   "website": "https://www.kartbahn-wien.at/",
+   "phone": "+43 676 321 79 90",
+   "email": "info@kartbahn-wien.at",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "RiMO Sinus NEO",
+     "engine": "electric, 2 x 48 V motors (6-20 kW each)",
+     "hp": null,
+     "class": "rental single-seater"
+    },
+    {
+     "chassis": "RiMO double-seater",
+     "engine": "electric",
+     "hp": null,
+     "class": "double-seater"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 135,
+    "note": "Min 1.35 m to drive alone; children from 4 (under 1.35 m) as passenger in double-seater with adult; \"Gross\" race from 14; under-14 need guardian waiver"
+   },
+   "hours": "Mon-Thu 16:00-22:00; Fri-Sun & holidays 12:00-22:00; closed 24/25/31 Dec and 1 Jan",
+   "prices": [
+    {
+     "label": "Training 15 min",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 25,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 20 min",
+     "class": null,
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 33,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 30 min",
+     "class": null,
+     "type": "session",
+     "minutes": 30,
+     "laps": null,
+     "price": 45,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Rennen \"Klein\" (5 min qualifying + 13 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 18,
+     "laps": null,
+     "price": 33,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Rennen \"Gross\" (8 min qualifying + 20 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 28,
+     "laps": null,
+     "price": 45,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Exclusive track rental 30 min incl. 9 karts",
+     "class": null,
+     "type": "track_rental",
+     "minutes": 30,
+     "laps": null,
+     "price": 385,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "price per group"
+    },
+    {
+     "label": "Exclusive track rental 60 min incl. 9 karts",
+     "class": null,
+     "type": "track_rental",
+     "minutes": 60,
+     "laps": null,
+     "price": 700,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "price per group"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Double-seater surcharge",
+     "amount": 4,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": "added to booked package"
+    }
+   ],
+   "price_source": "https://www.kartbahn-wien.at/homepage.html#Preise",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.kartbahn-wien.at/",
+    "https://www.ausflugsziele.jetzt/kategorie/kartbahn/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Operator EKO KARTBAHN VIE GmbH (same group as Kartbahn Rosental). 300 m indoor + 105 m outdoor section (outdoor only in good weather); site also mentions \"450 Meter\" in places. Geocode is the address node; building is a shared industrial building (\"Robust Industry\", way/23094920). Track length not used: the site states both 405 m and 450 m."
+  },
+  {
+   "name": "BattleKart Wien",
+   "address": "Trabrennstrasse 5 (Halle C), 1020 Wien",
+   "town": "Wien",
+   "country": "AT",
+   "lat": 48.2138455,
+   "lon": 16.4133234,
+   "address_osm_id": "node/5327740200",
+   "type": "indoor",
+   "website": "https://www.battlekart.com/de/wien",
+   "phone": "+43 676 5255649",
+   "email": "info@wien.battlekart.com",
+   "rental": "yes",
+   "own_karts": "no",
+   "karts": [
+    {
+     "chassis": "RiMO",
+     "engine": "electric",
+     "hp": null,
+     "class": "BattleKart augmented-reality kart"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "No minimum age; height 1.45-2.00 m, max 120 kg"
+   },
+   "hours": "Mon-Thu 15:00-21:00; Fri 14:00-22:00; Sat 10:00-22:00; Sun 10:00-21:00 (may close for Messe Wien events)",
+   "prices": [
+    {
+     "label": "Adult - 1st game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 24,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Adult - 2nd game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 22,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Adult - each further game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 20,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Child under 16 - 1st game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 20,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Child under 16 - 2nd game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Child under 16 - each further game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://www.battlekart.com/de/wien",
+   "tracks": [
+    {
+     "name": "BattleKart track 1",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "BattleKart track 2 (added 2024)",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.battlekart.com/de/wien",
+    "https://www.ausflugsziele.jetzt/kategorie/kartbahn/",
+    "https://www.eap-magazin.de/Article/BattleKart-Vienna-Doubles-its-Racing-Capacity.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Electric karts with floor-projected augmented-reality games (BattleKart concept); 15 min per game incl. boarding. Located at Messe Wien (Halle C). Existing relation/3868005 \"Grand Prix Monza\" in the Prater nearby is a different (amusement-park) venue. Second track added 2024 per eap-magazin (trade press)."
+  },
+  {
+   "name": "Kartbahn Rosental",
+   "address": "Baerenindustriepark 2, 9181 Feistritz im Rosental",
+   "town": "Feistritz im Rosental",
+   "country": "AT",
+   "lat": 46.5184788,
+   "lon": 14.1715756,
+   "osm_id": "way/181416956",
+   "type": "indoor",
+   "website": "https://www.kartbahn-rosental.at/",
+   "phone": "+43 676 42 11 880",
+   "email": "info@kartbahn-rosental.at",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "RiMO SiNUS biSynchron",
+     "engine": "electric, 2 x 2.8 kW",
+     "hp": null,
+     "class": "rental"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "kids kart"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "double-seater"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 135,
+    "note": "Min 1.35 m; children from 4 as passenger in double-seater with adult; kids race package exists"
+   },
+   "hours": "Mon-Thu 16:00-22:00; Fri-Sun & holidays 12:00-22:00; Jul-Aug daily 12:00-22:00; closed 24/25/31 Dec and 1 Jan",
+   "prices": [
+    {
+     "label": "Training 10 min",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 20 min",
+     "class": null,
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 24,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 30 min",
+     "class": null,
+     "type": "session",
+     "minutes": 30,
+     "laps": null,
+     "price": 33,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Rennsituation (8 min training + 20 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 28,
+     "laps": null,
+     "price": 33,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kids racing package (4 min training + 10 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 14,
+     "laps": null,
+     "price": 19,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Exclusive track rental 30 min, up to 9 karts",
+     "class": null,
+     "type": "track_rental",
+     "minutes": 30,
+     "laps": null,
+     "price": 275,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "price per group"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Double-seater surcharge",
+     "amount": 2,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": "added to booked package"
+    }
+   ],
+   "price_source": "https://www.kartbahn-rosental.at/",
+   "tracks": [
+    {
+     "name": "Indoor track (4 hall areas, tunnels/ramps)",
+     "length_m": 450,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.kartbahn-rosental.at/",
+    "https://www.kaerntencard.at/sommer/en/betriebe/kartbahn-rosental-2",
+    "https://freizeitmonster.de/blog/kartbahnen-graz"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Operator EKO Kartbahn GmbH (sister of Kartbahn Wien). Up to 11 karts at once; track drivable both directions. OSM object is tagged tourism=attraction (not sport=karting), hence missing from the map. Kaernten Card discount 10%."
+  },
+  {
+   "name": "Styria Karting Outdoor (Zettling)",
+   "address": "Industriestrasse 39, 8141 Zettling (Premstaetten)",
+   "town": "Premstaetten",
+   "country": "AT",
+   "lat": 46.9659114,
+   "lon": 15.4445759,
+   "osm_id": "way/97712454",
+   "type": "outdoor",
+   "website": "https://www.styriakarting.at/",
+   "phone": "+43 3135 56876",
+   "email": "office@styriakarting.at",
+   "rental": "yes",
+   "own_karts": "yes",
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "200 ccm",
+     "hp": 6.5,
+     "class": "rental (Spielberg track)"
+    },
+    {
+     "chassis": null,
+     "engine": "390 ccm",
+     "hp": 13,
+     "class": "sport rental (Nordschleife / Le Mans)"
+    }
+   ],
+   "ages": {
+    "note": "Kids price up to 16 years; Nordschleife sport karts for experienced drivers 16+; kids karts and double-seater available"
+   },
+   "hours": "1 Mar - 30 Nov: Mon-Fri 12:00-22:00; Sat, Sun & holidays 09:00-22:00",
+   "prices": [
+    {
+     "label": "Spielberg training 10 min - child (up to 16)",
+     "class": "200ccm 6.5 PS",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 15,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 16,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Spielberg training 10 min - adult",
+     "class": "200ccm 6.5 PS",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Spielberg race (10 min quali + 10 min race) - child",
+     "class": "200ccm 6.5 PS",
+     "type": "race",
+     "minutes": 20,
+     "laps": null,
+     "price": 36,
+     "currency": "EUR",
+     "extras": "3 medals",
+     "member": null,
+     "min_age": null,
+     "max_age": 16,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Spielberg race (10 min quali + 10 min race) - adult",
+     "class": "200ccm 6.5 PS",
+     "type": "race",
+     "minutes": 20,
+     "laps": null,
+     "price": 40,
+     "currency": "EUR",
+     "extras": "3 medals",
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Spielberg race (10 min quali + 20 min race) - 5-7 persons",
+     "class": "200ccm 6.5 PS",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 51,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person"
+    },
+    {
+     "label": "Spielberg race (10 min quali + 20 min race) - 8-15 persons",
+     "class": "200ccm 6.5 PS",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 47,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per person"
+    },
+    {
+     "label": "Nordschleife training 20 min - adult",
+     "class": "390ccm 13 PS",
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 43,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Nordschleife race (10 min quali + 20 min race) - 5-7 persons",
+     "class": "390ccm 13 PS",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 61,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Nordschleife race (10 min quali + 20 min race) - 8-15 persons",
+     "class": "390ccm 13 PS",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 57,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Le Mans race (10 min quali + 20 min race), from 10 persons",
+     "class": "390ccm 13 PS",
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 68,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Le Mans race (10 min quali + 30 min race), from 10 persons",
+     "class": "390ccm 13 PS",
+     "type": "race",
+     "minutes": 40,
+     "laps": null,
+     "price": 86,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Double-seater 10 min (1 child + 1 adult)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 27,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "Indoor & Spielberg track"
+    },
+    {
+     "label": "Own race kart day ticket Nordschleife Tue-Thu - Bambini",
+     "class": "own race kart",
+     "type": "day_ticket",
+     "minutes": null,
+     "laps": null,
+     "price": 25,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Own race kart day ticket Nordschleife Tue-Thu - adult",
+     "class": "own race kart",
+     "type": "day_ticket",
+     "minutes": null,
+     "laps": null,
+     "price": 35,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Own race kart day ticket Nordschleife Sat, Sun & holiday - adult",
+     "class": "own race kart",
+     "type": "day_ticket",
+     "minutes": null,
+     "laps": null,
+     "price": 45,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "Fri and weekend Bambini rates in the PDF layout are ambiguous (25/35/30); not transcribed"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://37cdtx-gv12-dwsaxbge.worldsoft-wsw.com/files/preisliste-2026-neu.pdf",
+   "tracks": [
+    {
+     "name": "Spielberg",
+     "length_m": 370,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "Nordschleife",
+     "length_m": 950,
+     "width_m": null,
+     "use": "rental (sport karts) / own race karts"
+    },
+    {
+     "name": "Le Mans (Spielberg + Nordschleife combined)",
+     "length_m": 1275,
+     "width_m": null,
+     "use": "rental (sport karts)"
+    }
+   ],
+   "layout_page": "https://www.styriakarting.at/strecken/lemans",
+   "sources": [
+    "https://www.styriakarting.at/",
+    "https://37cdtx-gv12-dwsaxbge.worldsoft-wsw.com/files/preisliste-2026-neu.pdf",
+    "https://www.steiermark.com/de/Region-Graz/Urlaub-planen/Ausflugsziele/Styria-Karting_isd_26690229",
+    "https://freizeitmonster.de/blog/kartbahnen-graz"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Price list 2026 (Stand 25.02.2026). Website says Spielberg 380 m, PDF says 370 m. OSM object way/97712454 is leisure=pitch named \"Styria Karting GesmbH\" (not sport=karting). Own race karts allowed on Nordschleife with day ticket; associated club styriakarting-motorsportclub.at. Closed 01.11.2026."
+  },
+  {
+   "name": "Styria Karting Indoor (Kalsdorf)",
+   "address": "Feldkirchenstrasse 30, 8401 Kalsdorf bei Graz",
+   "town": "Kalsdorf bei Graz",
+   "country": "AT",
+   "lat": 46.9702642,
+   "lon": 15.4625319,
+   "osm_id": "way/109860440",
+   "type": "indoor",
+   "website": "https://www.styriakarting.at/indoor",
+   "phone": "+43 3135 57 890",
+   "email": "indoor@styriakarting.at",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "200 ccm",
+     "hp": 6.5,
+     "class": "rental"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "double-seater"
+    }
+   ],
+   "ages": {
+    "note": "Kids price up to 16 years; double-seater for 1 child + 1 adult"
+   },
+   "hours": "Mon, Wed, Thu, Fri 14:00-22:00; Sat, Sun & holidays 11:00-22:00; Tuesday closed",
+   "prices": [
+    {
+     "label": "Indoor training 10 min - child (up to 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 15,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 16,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Indoor training 10 min - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Indoor race (10 min quali + 10 min race) - child",
+     "class": null,
+     "type": "race",
+     "minutes": 20,
+     "laps": null,
+     "price": 36,
+     "currency": "EUR",
+     "extras": "3 medals",
+     "member": null,
+     "min_age": null,
+     "max_age": 16,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Indoor race (10 min quali + 10 min race) - adult",
+     "class": null,
+     "type": "race",
+     "minutes": 20,
+     "laps": null,
+     "price": 40,
+     "currency": "EUR",
+     "extras": "3 medals",
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Indoor race (10 min quali + 20 min race) - 5-7 persons",
+     "class": null,
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 51,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Indoor race (10 min quali + 20 min race) - 8-10 persons",
+     "class": null,
+     "type": "race",
+     "minutes": 30,
+     "laps": null,
+     "price": 47,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Double-seater 10 min (1 child + 1 adult)",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 27,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": null,
+   "price_source": "https://37cdtx-gv12-dwsaxbge.worldsoft-wsw.com/files/preisliste-2026-neu.pdf",
+   "tracks": [
+    {
+     "name": "Die Halle",
+     "length_m": 290,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": "https://www.styriakarting.at/strecken/indoor",
+   "sources": [
+    "https://www.styriakarting.at/",
+    "https://freizeitmonster.de/blog/kartbahnen-graz"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Second site of Styria Karting GesmbH, ~1.5 km from the outdoor track. OSM building way/109860440 is named \"Styria Karting GesmbH\" (building only). 12 corners; has a small outdoor area."
+  },
+  {
+   "name": "IndoorKart Spielberg",
+   "address": "Kartstrasse 1, 8724 Spielberg",
+   "town": "Spielberg",
+   "country": "AT",
+   "lat": 47.1992472,
+   "lon": 14.7860975,
+   "osm_id": "way/156621279",
+   "type": "indoor",
+   "website": "https://www.indoorkart.at/spielberg",
+   "phone": "+43 660 5253421",
+   "email": "info@indoorkart.at",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "rental"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "Mini Raze (kids 4-8)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "double-seater"
+    }
+   ],
+   "ages": {
+    "min_age": 6,
+    "min_height_cm": 125,
+    "note": "Tourism listing: children from 6 years and 1.25 m drive kids karts alone; own site: Mini Raze for children 4-8; smaller children in double-seater"
+   },
+   "hours": "Tue-Fri 16:00-22:00; Sat 10:00-23:00; Sun & holidays 10:00-21:00 (Mon closed) - per steiermark.com listing",
+   "prices": [
+    {
+     "label": "Training 8 min",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 19,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 20 min",
+     "class": null,
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 35,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Rennpaket (15 min training + 15 min qualifying + 15 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 45,
+     "laps": null,
+     "price": 65,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Rennpaket (20 min qualifying + 20 min race)",
+     "class": null,
+     "type": "race",
+     "minutes": 40,
+     "laps": null,
+     "price": 60,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mini Raze 1 x 8 min",
+     "class": null,
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 18,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 4,
+     "max_age": 8,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mini Raze 2 x 8 min",
+     "class": null,
+     "type": "session",
+     "minutes": 16,
+     "laps": null,
+     "price": 33,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 4,
+     "max_age": 8,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Mini Raze 3 x 8 min",
+     "class": null,
+     "type": "session",
+     "minutes": 24,
+     "laps": null,
+     "price": 47,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 4,
+     "max_age": 8,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    }
+   ],
+   "fees": [
+    {
+     "name": "Hygiene hood (with rental helmet)",
+     "amount": 4.9,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": null,
+     "note": null
+    },
+    {
+     "name": "Weight balancing (Gewichtsausgleich)",
+     "amount": 4,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": null
+    },
+    {
+     "name": "Boost",
+     "amount": 1,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": null
+    },
+    {
+     "name": "Grip gloves",
+     "amount": 6.9,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": null
+    },
+    {
+     "name": "Medal",
+     "amount": 4.9,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": false,
+     "note": null
+    }
+   ],
+   "price_source": "https://www.indoorkart.at/spielberg",
+   "tracks": [
+    {
+     "name": "Indoor track (~3000 m2 hall)",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.indoorkart.at/spielberg",
+    "https://www.steiermark.com/de/Murtal/Aktivitaeten/Ausflugsziele/Indoorkart-Spielberg_isd_1914877",
+    "https://freizeitmonster.de/blog/kartbahnen-graz"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Second location of the indoorkart.at operator (other site: Kartsport Friesacher, Wolfsberg, way/137166744). Tourism listing names Indoor Kart Enzinger KEG. OSM building way/156621279 named \"Indoor-Kart-Spielberg\" (building, not sport=karting). Hours from tourism listing, not on operator page."
+  },
+  {
+   "name": "Karting Bassecourt",
+   "address": "Rue St-Hubert 89, 2854 Bassecourt",
+   "town": "Bassecourt (Haute-Sorne)",
+   "country": "CH",
+   "lat": 47.3344641,
+   "lon": 7.2328542,
+   "address_osm_id": "node/12383381162",
+   "type": "indoor",
+   "website": "https://karting-bassecourt.ch/",
+   "phone": "+41 32 422 10 12",
+   "email": "info@kartingbassecourt.ch",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodi (image file \"Sodi RSX2\")",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult rental"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "mini-kart"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "double-seater (from 4 with adult)"
+    }
+   ],
+   "ages": {
+    "min_age": 8,
+    "note": "Jura Laser Game site: karting from 8 years; double-seater from 4 with an adult; third-party listings say min 1.30 m / from 7"
+   },
+   "hours": "Mon closed; Tue-Thu 16:00-22:00; Fri 16:00-23:00; Sat 14:00-23:00; Sun 14:00-19:00",
+   "prices": [
+    {
+     "label": "Tuesday endurance session 50 laps",
+     "class": null,
+     "type": "session",
+     "minutes": null,
+     "laps": 50,
+     "price": 50,
+     "currency": "CHF",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Tue",
+     "note": "adults or children with Junior Gold card"
+    }
+   ],
+   "fees": null,
+   "price_source": "https://karting-bassecourt.ch/horaires-2/",
+   "tracks": [
+    {
+     "name": "Indoor track (2 levels)",
+     "length_m": 350,
+     "width_m": null,
+     "use": "rental"
+    },
+    {
+     "name": "Outdoor track",
+     "length_m": 250,
+     "width_m": null,
+     "use": "rental (weather permitting)"
+    }
+   ],
+   "layout_page": "https://karting-bassecourt.ch/notre-piste/",
+   "sources": [
+    "https://karting-bassecourt.ch/karting-bassecourt/",
+    "https://karting-bassecourt.ch/horaires-2/",
+    "https://www.juralasergame.ch/",
+    "https://www.freizeit.ch/?p=5665",
+    "https://torpille.ch/karting-suisse-romande/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Only kart track in canton Jura; shares site with Jura Laser Game and restaurant. Standard session prices not on own site; third-party (freizeit.ch / j3l.ch) say 10 min CHF 25 adult, CHF 18 child. Address: own site says No. 89, freizeit.ch/famigros say No. 81. No. 89 is also OSM way/788200327 \"Didocentre\" (tourism=theme_park), possibly the same leisure complex; address node used."
+  },
+  {
+   "name": "Racestation Entertainment Center",
+   "address": "Gewerbepark Kirchberg 1/4 (Weilharterstrasse 1), 5120 St. Pantaleon",
+   "town": "St. Pantaleon",
+   "country": "AT",
+   "lat": 48.0032401,
+   "lon": 12.8709004,
+   "osm_id": "way/158778833",
+   "type": "indoor",
+   "website": "https://racestation.at/",
+   "phone": "+43 6277 7905",
+   "email": "office@racestation.at",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodi GT4",
+     "engine": "Honda GX 270 ccm",
+     "hp": 10,
+     "class": "rental"
+    }
+   ],
+   "ages": {
+    "min_height_cm": 145,
+    "note": "Kids 10 min training requires min 1.45 m; Junior Race for children up to 12; Kleines Rennen from 12"
+   },
+   "hours": "Tue-Fri 16:00-22:00; Sat, Sun & holidays 13:00-22:00; Monday closed",
+   "prices": [
+    {
+     "label": "Training 10 min - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 16,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 10 min - child from 1.45 m",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 13,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Training 10 min - 12-16 years",
+     "class": null,
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 14,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 12,
+     "max_age": 16,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Sprint (12 min training/quali + 30 lap race)",
+     "class": null,
+     "type": "race",
+     "minutes": 12,
+     "laps": 30,
+     "price": 40,
+     "currency": "EUR",
+     "extras": "podium ceremony from 8 persons",
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Double Sprint (12 min quali + 2 x 30 lap races)",
+     "class": null,
+     "type": "race",
+     "minutes": 12,
+     "laps": 60,
+     "price": 54,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Minirace (5 min quali + 20 lap race)",
+     "class": null,
+     "type": "race",
+     "minutes": 5,
+     "laps": 20,
+     "price": 25,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Kleines Rennen (12 min quali + 25 lap race)",
+     "class": null,
+     "type": "race",
+     "minutes": 12,
+     "laps": 25,
+     "price": 37,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": 12,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "50 Runden Race (12 min quali + 50 laps)",
+     "class": null,
+     "type": "race",
+     "minutes": 12,
+     "laps": 50,
+     "price": 47,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "100 Runden Race (15 min quali + 100 laps)",
+     "class": null,
+     "type": "race",
+     "minutes": 15,
+     "laps": 100,
+     "price": 71,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Junior Race (10 min quali + 20 lap race)",
+     "class": null,
+     "type": "race",
+     "minutes": 10,
+     "laps": 20,
+     "price": 31,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 12,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Team Race (12 min quali + 200 laps, driver changes)",
+     "class": null,
+     "type": "race",
+     "minutes": 12,
+     "laps": 200,
+     "price": 62,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Tuesday offer 2 x 10 min",
+     "class": null,
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 22,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "Tue",
+     "note": null
+    }
+   ],
+   "fees": [
+    {
+     "name": "Balaclava (Sturmhaube)",
+     "amount": 2.5,
+     "currency": "EUR",
+     "period": "per visit",
+     "mandatory": null,
+     "note": null
+    }
+   ],
+   "price_source": "https://racestation.at/preise/",
+   "tracks": [
+    {
+     "name": "Indoor track",
+     "length_m": 420,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": "https://racestation.at/strecke/",
+   "sources": [
+    "https://racestation.at/",
+    "https://racestation.at/preise/",
+    "https://racestation.at/karts/",
+    "https://freizeitmonster.de/blog/kartbahnen-wels",
+    "https://guide.oberoesterreich.at/en/oesterreich-poi/detail/430013889/racestation-entertainment-center.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Near Oberndorf bei Salzburg (Upper Austria). Max 10 karts on track. Thursday Ladies Day 50% off small race/sprint. OSM building way/158778833 named \"Racestation Indoor-Kartbahn\" (building, not sport=karting). HTTPS certificate expired at check time."
+  }
+ ],
+ "leads": [
+  {
+   "name": "Kartbahn Highspeed Montlingen",
+   "town": "Montlingen (Oberriet SG)",
+   "country": "CH",
+   "source": "https://www.freizeit.ch/freizeit/22547/kartbahn-highspeed-montlingen",
+   "why_unconfirmed": "Directory only (Kriessernstrasse 26, 9462 Montlingen; +41 71 761 09 09; 360 m indoor, Sodi karts, 8 min CHF 18; also freizeitmonster). No own website/Facebook found (guessed domains do not resolve). Strong lead."
+  },
+  {
+   "name": "Kart-Bahn Ruemlang",
+   "town": "Ruemlang ZH",
+   "country": "CH",
+   "source": "https://freizeitmonster.de/blog/kartbahnen-imst",
+   "why_unconfirmed": "Listed by freizeitmonster (Oberglatterstrasse) and torpille.ch; kartbahn.ch only points to Kart-Shop Carigiet (shop, no public track mentioned). Probably closed/historic."
+  },
+  {
+   "name": "Welser Kart Bahn",
+   "town": "Wels",
+   "country": "AT",
+   "source": "https://freizeitmonster.de/blog/kartbahnen-wels",
+   "why_unconfirmed": "Directory/tourism listing (Pollheimerstrasse / Messehalle 12-13, office@1welserkartbahn.at); domain 1welserkartbahn.at now 301-redirects to heroeskart.at (Regau, already on map) - probably closed or merged."
+  },
+  {
+   "name": "Karting Club Geneve",
+   "town": "Carouge GE",
+   "country": "CH",
+   "source": "https://www.koifaire.com/suisse/karting,club,gena,ve-116322.html",
+   "why_unconfirmed": "Single old classified listing (rue Louis-De-Montfalcon 6, 510 m indoor); no current website; likely closed."
+  },
+  {
+   "name": "Kinderkartbahn Grafenwoerth",
+   "town": "Grafenwoerth",
+   "country": "AT",
+   "source": "https://freizeitmonster.de/blog/kartbahnen-wels",
+   "why_unconfirmed": "Directory only; name suggests a children-only kart track (possibly an excluded category). Not verified."
+  },
+  {
+   "name": "Halligalli Tirol (electric go-kart track)",
+   "town": "Kirchbichl",
+   "country": "AT",
+   "source": "https://www.kitzbueheler-alpen.com/media/hohe-salve/veranstaltungen/BadWeatherProgram.pdf",
+   "why_unconfirmed": "Indoor family playground with an e-go-kart track; likely a children-only ride, not verified."
+  },
+  {
+   "name": "KARTgames",
+   "town": "Marthalen ZH",
+   "country": "CH",
+   "source": "https://www.freizeit.ch/freizeit/23671/kartschuur",
+   "why_unconfirmed": "AR kart games venue; listing says \"Betrieb vorerst eingestellt\" (suspended since 24.06.2024)."
+  },
+  {
+   "name": "Driving Village",
+   "town": "Tarrenz",
+   "country": "AT",
+   "source": "https://freizeitmonster.de/blog/kartbahnen-imst",
+   "why_unconfirmed": "Listed as outdoor kart track in a directory; unclear whether it is a driving-experience/training ground. Not checked."
+  }
+ ],
+ "already_present": [
+  {
+   "name": "Motorsport Arena Oetztal (Industriestrasse 29, Oetztal-Bahnhof)",
+   "existing_id": "node/11726784673",
+   "comment": "Same site as existing \"Freizeitarena Tirol\" (Industriestrasse 25, 6430 Oetztal-Bahnhof)."
+  },
+  {
+   "name": "Kartbahn Innsbruck (Valiergasse 15)",
+   "existing_id": "node/12805789828",
+   "comment": "Directory name for B1 GoKart Bahn Innsbruck; already present."
+  },
+  {
+   "name": "E-Kartbahn UNO Shopping Leonding",
+   "existing_id": "node/6968981892",
+   "comment": "Presumably the existing Chargers Racing (Leonding); tips.at calls it the longest kart track in Austria (>600 m, e-karts)."
+  },
+  {
+   "name": "Kartsport Friesacher / indoorkart.at",
+   "existing_id": "way/137166744",
+   "comment": "Website indoorkart.at also serves the new Spielberg location; https://www.indoorkart.at/wolfsberg may be the better venue page for Wolfsberg."
+  }
+ ],
+ "checked_at": "2026-10-15"
+}

@@ -1,0 +1,745 @@
+{
+ "positions": [
+  {
+   "name": "BattleKart Nantes",
+   "source": "D05",
+   "lat": 47.189392,
+   "lon": -1.487108,
+   "precision": "building",
+   "ref": "way/1177180995",
+   "ref_kind": "building",
+   "evidence": "Own centre page: 'Le centre BattleKart Nantes est a l'etage d'Eurobowl' (9 avenue Simone Veil); embedded coords 47.189701,-1.487024 lie 35 m from the Eurobowl building (OSM way/1177180995, leisure=bowling_alley, ~4100 m2). Position = Eurobowl building centroid. House number 9 is not in OSM (search only matched street way/765167644).",
+   "sources": [
+    "https://www.battlekart.com/fr/nantes",
+    "https://nominatim.openstreetmap.org/search?q=Eurobowl Saint-Sebastien-sur-Loire",
+    "https://api.openstreetmap.org/api/0.6/map.json?bbox=-1.488524,47.188201,-1.485524,47.191201"
+   ]
+  },
+  {
+   "name": "BattleKart Paris-Nord-Villepinte",
+   "source": "D05",
+   "lat": 48.975883,
+   "lon": 2.516462,
+   "precision": "address",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own centre page embeds 48.975883,2.516462 and says the centre is in a 'Parc d'exposition' (ZAC Paris Nord 2, no street number; operator SAS Kart City 2). Reverse geocode only gives a bridge on Allee des Impressionnistes; the point lies in an OSM landuse=construction area next to the Viparis parking E1 / Waterside buildings; no OSM building or object for the venue. Position is the operator's own pin, not verified against a building.",
+   "sources": [
+    "https://www.battlekart.com/fr/paris-nord-villepinte",
+    "https://nominatim.openstreetmap.org/reverse?lat=48.975883&lon=2.516462"
+   ]
+  },
+  {
+   "name": "BattleKart Valenciennes",
+   "source": "D05",
+   "lat": 50.37579,
+   "lon": 3.522342,
+   "precision": "building",
+   "ref": "way/538962656",
+   "ref_kind": "building",
+   "evidence": "Own page: 'Le nouveau spot loisirs ... a la Cite des Congres de Valenciennes (Anzin)', 1 Esplanade des Rives Creatives de l'Escaut (opened 14 Feb 2026). Embedded coords 50.37579,3.522342 fall inside OSM building way/538962656 'Cite des Congres' (building=public). Address not in Nominatim.",
+   "sources": [
+    "https://www.battlekart.com/fr/valenciennes",
+    "https://api.openstreetmap.org/api/0.6/map.json?bbox=3.520842,50.37429,3.523842,50.37729"
+   ]
+  },
+  {
+   "name": "SpeedPark Angers Beaucouze",
+   "source": "D05",
+   "lat": 47.4845032,
+   "lon": -0.6288744,
+   "precision": "building",
+   "ref": "node/11915648137",
+   "ref_kind": "own",
+   "evidence": "Own page: 'Le SpeedPark se trouve au sein du centre commercial ATOLL', Ecoparc du Buisson, 49073 Beaucouze (no street number). OSM node/11915648137 leisure=sports_centre name 'Speed Park' on Rue Eugene Vallin in L'Atoll (Nominatim search 'Speed Park, Beaucouze'; reverse at the node returns the same object).",
+   "sources": [
+    "https://speedpark.fr/angers-beaucouze/karting/",
+    "https://nominatim.openstreetmap.org/search?q=Speed Park, Beaucouze"
+   ]
+  },
+  {
+   "name": "SpeedPark Bordeaux",
+   "source": "D05",
+   "lat": 44.78738,
+   "lon": -0.5311,
+   "precision": "building",
+   "ref": "relation/19641804",
+   "ref_kind": "complex",
+   "evidence": "Own page address: Av. du 7eme art, 33140 Villenave-d'Ornon (complex Ortalissa). OSM relation/19641804 type=building name 'Ortalissa' (website ortalissa.fr), members ways 1432379519 and 1432379520 (new leisure/retail buildings at 5 Avenue du 7eme Art). Position = between the two member buildings; which hall holds the kart track is not stated.",
+   "sources": [
+    "https://speedpark.fr/bordeaux/karting/",
+    "https://api.openstreetmap.org/api/0.6/relation/19641804.json"
+   ]
+  },
+  {
+   "name": "SpeedPark Claye-Souilly",
+   "source": "D05",
+   "lat": 48.945156,
+   "lon": 2.659342,
+   "precision": "street",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own page: 3 rue Robert Schuman, 77410 Claye-Souilly (OSM spells it Rue Robert Schumann); its map embed is an address query only. No house number 3 and no SpeedPark object in OSM; nearest address object is Burger King at 5 Rue Robert Schumann (node/12367901901, not used as ref). Position is on the Rue Robert Schumann segment way/918594716 next to no. 5 (~1.4 km W of the old town-centroid position). Building not identifiable.",
+   "sources": [
+    "https://speedpark.fr/claye/karting/",
+    "https://nominatim.openstreetmap.org/search?q=3 Rue Robert Schumann, Claye-Souilly",
+    "https://api.openstreetmap.org/api/0.6/map.json?bbox=2.658,48.943,2.672,48.951"
+   ]
+  },
+  {
+   "name": "BattleKart Antwerpen",
+   "source": "D08",
+   "lat": 51.2338896,
+   "lon": 4.4020748,
+   "precision": "building",
+   "ref": "node/11104576517",
+   "ref_kind": "own",
+   "evidence": "Own page: Waagnatie - Expo & Events, Rijnkaai 150; embedded coords 51.233795,4.401996. Reverse geocode returns OSM node/11104576517 named 'battle kart' (mis-tagged amenity=car_rental) on Rijnkaai, inside the Rijnkaai event-hall building way/43071539.",
+   "sources": [
+    "https://www.battlekart.com/nl/antwerpen",
+    "https://nominatim.openstreetmap.org/reverse?lat=51.233795&lon=4.401996"
+   ]
+  },
+  {
+   "name": "BattleKart Liege-Verlaine",
+   "source": "D08",
+   "lat": 50.610531,
+   "lon": 5.318106,
+   "precision": "address",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own page: Grand Route 126, 4537 Verlaine; embedded coords 50.610531,5.318106. OSM has Grand Route 122/124/129/133/135 but no 126 and no BattleKart object; reverse gives building no. 129 (different number, not used). Largest nearby building is unnumbered way/933214833 (~1400 m2, 43 m SW) - plausible hall but unverified. Position = operator's own pin.",
+   "sources": [
+    "https://www.battlekart.com/en/verlaine",
+    "https://nominatim.openstreetmap.org/reverse?lat=50.610531&lon=5.318106"
+   ]
+  },
+  {
+   "name": "John Martin's Karting Namur (JM Karting Floreffe)",
+   "source": "D08",
+   "lat": 50.4356975,
+   "lon": 4.7397334,
+   "precision": "building",
+   "ref": "node/11085569991",
+   "ref_kind": "own",
+   "evidence": "Own Namur page: Rue de Saint-Gobain 1, 5150 Floreffe, embedded map lat 50.435378 lng 4.740038. OSM node/11085569991 'JMKarting' (leisure=amusement_arcade) 42 m from that pin, at the Glacerie de Franiere industrial building (way/732454751). The contact-page coords used before (50.433687,4.743143) are ~300 m off.",
+   "sources": [
+    "https://jmkarting.com/namur/",
+    "https://api.openstreetmap.org/api/0.6/map.json?bbox=4.738538,50.433878,4.741538,50.436878"
+   ]
+  },
+  {
+   "name": "Circuito del Sele",
+   "source": "D06",
+   "lat": 40.604806,
+   "lon": 14.947529,
+   "precision": "building",
+   "ref": "way/107801416",
+   "ref_kind": "own",
+   "evidence": "Own contact page: Via Fosso Pioppo (map query 'Via fosso pioppo 15'), 84091 Battipaglia. OSM way/107801416 leisure=sports_centre 'Circuit Sele' on Via Fosso Pioppo, containing closed raceway loop way/1235262406 (~1.85 km). Previous position (40.61068,14.96395) was ~1.4 km away on a street segment. OSM gives postcode 84092 there.",
+   "sources": [
+    "https://www.circuitodelsele.it/contatti/",
+    "https://nominatim.openstreetmap.org/reverse?lat=40.6049&lon=14.9486"
+   ]
+  },
+  {
+   "name": "7 Laghi Kart - Circuito Internazionale (Castelletto Circuit)",
+   "source": "D06",
+   "lat": 45.064608,
+   "lon": 9.100018,
+   "precision": "building",
+   "ref": "way/416255369",
+   "ref_kind": "own",
+   "evidence": "Own site: SP1 6/A Castelletto di Branduzzo (PV); its contact-page Google embed is centred on 45.0632,9.0904 for place '7 Laghi Kart'. OSM way/416255369 leisure=track name 'Circuito Internazionale 7 laghi' (with Pit Lane/Park Fermee raceways way/416255372, way/416255371) in Castelletto di Branduzzo; reverse at its centre returns raceway way/80905675 on the SP Bressana-Salice Terme. Not the Motodromo Castelletto (relation/14098605, ~0.7 km NE).",
+   "sources": [
+    "https://www.7laghikartitalia.it/contatti",
+    "https://overpass-api.de/api/interpreter (sport/raceway/name~Kart query)"
+   ]
+  },
+  {
+   "name": "Space Game Val Camonica - Kart (ex Planet Kart)",
+   "source": "D06",
+   "lat": 45.8457679,
+   "lon": 10.1377296,
+   "precision": "building",
+   "ref": "way/373544910",
+   "ref_kind": "building",
+   "evidence": "Own contact page: Via Saletti 20, Zona Industriale, 25050 Pian Camuno; Google embed place 'Planet Kart' at 45.8457679,10.1377296. That pin sits 3 m from the edge of OSM industrial building way/373544910 (~7550 m2, the only large building at the pin; next building 50 m away). Building has no name/address tags in OSM. Via Saletti is not in Nominatim (reverse gives way/388254624, locality Beata).",
+   "sources": [
+    "https://spacegamevallecamonica.it/contatti/",
+    "https://nominatim.openstreetmap.org/reverse?lat=45.8457679&lon=10.1377296"
+   ]
+  },
+  {
+   "name": "Torino Kart Indoor",
+   "source": "D06",
+   "lat": 45.114241,
+   "lon": 7.672981,
+   "precision": "building",
+   "ref": "way/1535838475",
+   "ref_kind": "building",
+   "evidence": "Own homepage Google Maps link: ll=45.114241,7.672981, q='Via Enrico Fermi, 11 10148 Torino TO'. Real address: Via Enrico Fermi 11, 10148 Torino (Madonna di Campagna); '10048' in the site footer is a typo, not Vinovo. The pin lies inside OSM industrial building way/1535838475 (~9170 m2, mapped 2026). The OSM address node 'Via Enrico Fermi 11' (node/4733915803, 10148) is ~85 m SE of the pin.",
+   "sources": [
+    "https://torinokartindoor.com/",
+    "https://nominatim.openstreetmap.org/search?q=Via Enrico Fermi 11, Torino"
+   ]
+  },
+  {
+   "name": "SKindoor - Sardinia Kart Indoor",
+   "source": "D06",
+   "lat": 39.34774,
+   "lon": 9.059878,
+   "precision": "building",
+   "ref": "way/249471138",
+   "ref_kind": "own",
+   "evidence": "Own site gives only 'Monastir (CA)'. OSM building way/249471138 named 'Kartodromo SKindoor' (found via Overpass name~Kart); reverse at it returns Monastir 09023. About 4 km S of the Monastir centroid used before and ~3.3 km W of SestuGO!.",
+   "sources": [
+    "https://sardegnakartindoor.com/",
+    "https://nominatim.openstreetmap.org/reverse?lat=39.347728&lon=9.059847"
+   ]
+  },
+  {
+   "name": "Kartring Oberberg (Oberbergischer Go-Kart-Ring Hahn-Wildbergerhuette)",
+   "source": "D04",
+   "lat": 50.970085,
+   "lon": 7.7621728,
+   "precision": "building",
+   "ref": "node/345882535",
+   "ref_kind": "own",
+   "evidence": "Own Anfahrt page: Google embed place 'Auf dem Menn, 51580 Reichshof' plus route target 50.9701274,7.764027. OSM node/345882535 leisure=sports_centre 'Kartbahn Oberberg' (reverse: Auf dem Menn 14, Hahn, Reichshof) next to raceway way/68531005 'Kartbahn'. Address should read Auf dem Menn (14), 51580 Reichshof, not Halbhustener Weg.",
+   "sources": [
+    "http://kartring-oberberg.de/anfahrt/",
+    "https://nominatim.openstreetmap.org/reverse?lat=50.970085&lon=7.762173"
+   ]
+  },
+  {
+   "name": "VM Kart Racing",
+   "source": "D04",
+   "lat": 47.6372332,
+   "lon": 7.7064972,
+   "precision": "building",
+   "ref": "way/88300368",
+   "ref_kind": "own",
+   "evidence": "Own site: Johann-Reiss-Strasse 1, D-79541 Loerrach-Brombach (house number not in OSM). OSM way/88300368 leisure=sports_centre name 'Kart Racing' (addr Alte Strasse 3, 79541 Loerrach) lies ~160 m from the Johann-Reiss-Strasse segment centre; it is the only kart object there. Its address tags differ from the site (Alte Strasse 3 vs Johann-Reiss-Strasse 1) - likely corner plot/entrance difference; flag if strict.",
+   "sources": [
+    "http://www.vm-kart-racing.de/",
+    "https://nominatim.openstreetmap.org/reverse?lat=47.637248&lon=7.706496"
+   ]
+  },
+  {
+   "name": "Motokary Masarykuv okruh (CREDITAS Autodrom Brno)",
+   "source": "D03",
+   "lat": 49.203128,
+   "lon": 16.44919,
+   "precision": "building",
+   "ref": "way/184267672",
+   "ref_kind": "own",
+   "evidence": "Own page: kart track 423 m long, a few tens of metres from the big circuit, inside the Masarykuv okruh 201 complex; the page links a mapy.cz panorama at 49.2027873,16.4487208. Reverse there returns OSM way/184267672 highway=raceway sport=motor, a closed loop of 422 m (matches 423 m) - this is the kart track, not the GP circuit way/8585805.",
+   "sources": [
+    "https://www.automotodrombrno.cz/motokary/",
+    "https://nominatim.openstreetmap.org/reverse?lat=49.2027873&lon=16.4487208"
+   ]
+  },
+  {
+   "name": "Gokartcentralen Kungalv",
+   "source": "D09",
+   "lat": 57.8965396,
+   "lon": 11.9320734,
+   "precision": "street",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own site: Arntorpsgatan 22, 442 45 Kungalv (map embeds are address queries only, no coordinates). OSM has no house numbers on Arntorpsgatan and no kart/raceway object; several unnamed 1200-1900 m2 buildings along the street, none identifiable. Position unchanged (street way/230405371, postcode 442 45).",
+   "sources": [
+    "https://gokartcentralen.se/info/hitta-till-oss/",
+    "https://gokartcentralen.se/kungalv/",
+    "https://nominatim.openstreetmap.org/search?q=Arntorpsgatan 22, Kungalv"
+   ]
+  },
+  {
+   "name": "Scandinavian Kartway",
+   "source": "D09",
+   "lat": 57.2686068,
+   "lon": 13.6155181,
+   "precision": "street",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own site: Nennesmovagen 21, 334 33 Anderstorp; no coordinates on home/kontakt pages. OSM map 13.605-13.625 / 57.262-57.274 has the Anderstorp Raceway objects but no kart track, raceway or house number 21 on Nennesmovagen. Position unchanged (street way/1274626538).",
+   "sources": [
+    "https://www.hyrkart.se/",
+    "https://www.hyrkart.se/kontakt",
+    "https://nominatim.openstreetmap.org/search?q=Nennesmovagen 21, Anderstorp"
+   ]
+  },
+  {
+   "name": "GoKartCity Helsingborg",
+   "source": "D09",
+   "lat": 56.035636,
+   "lon": 12.6973709,
+   "precision": "street",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own page: Sjogatan 5, 25225 Helsingborg; the page's JSON-LD coordinates are Malmo's (55.58,13.02), not Helsingborg. OSM has only Sjogatan 1 (node/4760534055, at the IKEA Sockerbruket building) and no no. 5 or kart object. Position unchanged (Sjogatan segment way/376569001, postcode 252 25).",
+   "sources": [
+    "https://www.gokartcity.club/gokartcity-helsingborg",
+    "https://nominatim.openstreetmap.org/search?q=Sjogatan 5, Helsingborg"
+   ]
+  },
+  {
+   "name": "Gokarthallen Halmstad",
+   "source": "D09",
+   "lat": 56.6832018,
+   "lon": 12.8619095,
+   "precision": "area",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own site says only 'Slottsmollan, 302 31 HALMSTAD', 'Magasinet pa Slottsmollan', on 'Slottsmollans Industriomrade ... precis vid norra infarten fran E6' - no street number (the 'Slottsmollan 10' in D09 is not on the site). Nominatim finds neither Slottsmollan in Halmstad nor the venue; OSM map around the postcode centroid shows no kart object. Position unchanged (postcode centroid) - needs manual placement.",
+   "sources": [
+    "http://www.gokarthallen.nu/",
+    "https://nominatim.openstreetmap.org/search?q=Slottsmollan"
+   ]
+  }
+ ],
+ "battlekart_new": [
+  {
+   "name": "BattleKart Bispingen",
+   "source": "battlekart_already_present",
+   "lat": 53.0982856,
+   "lon": 9.9815404,
+   "precision": "building",
+   "ref": "node/8331688445",
+   "ref_kind": "own",
+   "evidence": "Own page: Gaussscher Bogen 8, 29646 Bispingen; embedded 53.098354,9.982157. Nominatim search and reverse both return OSM node/8331688445 'Battle-Kart' (leisure=sports_centre, sport=karting, website bispingen.battlekart.com). Separate from existing way/856436751.",
+   "sources": [
+    "https://www.battlekart.com/de/bispingen",
+    "https://nominatim.openstreetmap.org/search?q=Gaussscher Bogen 8, 29646 Bispingen"
+   ],
+   "address": "Gaußscher Bogen 8, 29646 Bispingen",
+   "town": "Bispingen",
+   "country": "DE",
+   "website": "https://www.battlekart.com/de/bispingen",
+   "phone": "+49 5194 987950",
+   "email": "info@bispingen.battlekart.com",
+   "hours": "Mon-Sat 10-21 (Fri-Sat 21-23 by reservation only), Sun 10-20; Mondays open as normal in school holidays",
+   "prices": [
+    {
+     "label": "1st game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18.5,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 15.6,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 14.8,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - child (under 15)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 13.6,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 19.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    },
+    {
+     "label": "2nd game - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    },
+    {
+     "label": "following games - group (10+)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 15.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "per person, groups from 10"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "rental": "yes",
+   "own_karts": "no",
+   "type": "indoor"
+  },
+  {
+   "name": "BattleKart Köln",
+   "source": "battlekart_already_present",
+   "lat": 50.9813676,
+   "lon": 6.9004403,
+   "precision": "building",
+   "ref": "way/38446078",
+   "ref_kind": "building",
+   "evidence": "Own page: Butzweilerstrasse 35-39, Motorworld 4-Takt Hangar, 50829 Koeln. OSM way/38446078 is the building '4-Takt-Hangar' (Motorworld Koeln-Rheinland, addr 35-39) - Nominatim search hit. BattleKart's embedded pin (50.981995,6.899971) is ~60 m NW of the hangar over Bertha-Sander-Strasse housing, so the hangar position is used. ~700 m from existing node/3761972790.",
+   "sources": [
+    "https://www.battlekart.com/de/koeln",
+    "https://nominatim.openstreetmap.org/search?q=Butzweilerstrasse 35, 50829 Koeln"
+   ],
+   "address": "Butzweilerstraße 35-39 (Motorworld, 4-Takt Hangar), 50829 Köln",
+   "town": "Köln",
+   "country": "DE",
+   "website": "https://www.battlekart.com/de/koeln",
+   "phone": "+49 221 29246954",
+   "email": "info@koeln.battlekart.com",
+   "hours": "Mon-Thu 14-21, Fri 14-22, Sat 9-23, Sun 9-21",
+   "prices": [
+    {
+     "label": "1st game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 22.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - adult",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 16.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games - child (under 16)",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 14.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 15,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "rental": "yes",
+   "own_karts": "no",
+   "type": "indoor"
+  },
+  {
+   "name": "BattleKart Dankern",
+   "source": "battlekart_already_present",
+   "lat": 52.803493,
+   "lon": 7.163298,
+   "precision": "building",
+   "ref": null,
+   "ref_kind": null,
+   "evidence": "Own page: Am Flugplatz 1, 49733 Haren (Ems), ~1 km walk from Ferienzentrum Schloss Dankern; embedded 52.803493,7.163298. In OSM that address belongs to the Emslandring Dankern objects (way/92468697 = existing entry, way/683064337 Crossbahn); the BattleKart hall (opened 2023) is not mapped - the pin lies ~30 m W of the Crossbahn and ~105 m NW of the Emslandring centre. ref left null to avoid reusing the existing entry's id; complex fallback would be way/92468697.",
+   "sources": [
+    "https://www.battlekart.com/de/dankern",
+    "https://nominatim.openstreetmap.org/search?q=Am Flugplatz 1, 49733 Haren"
+   ],
+   "address": "Am Flugplatz 1, 49733 Haren (Ems)",
+   "town": "Haren (Ems)",
+   "country": "DE",
+   "website": "https://www.battlekart.com/de/dankern",
+   "phone": "+49 5932 9949400",
+   "email": "info@dankern.battlekart.com",
+   "hours": "Holiday-season hours (Ferienzeit NDS/NRW) currently shown: Mon-Thu 10-18, Fri-Sat 10-20, Sun 10-18; term-time hours not shown",
+   "prices": [
+    {
+     "label": "1st game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 24.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2nd game",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 21.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "following games",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 18.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "1st game - group",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 22.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "group rate"
+    },
+    {
+     "label": "2nd game - group",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 20.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "group rate"
+    },
+    {
+     "label": "following games - group",
+     "class": null,
+     "type": "session",
+     "minutes": 15,
+     "laps": null,
+     "price": 17.0,
+     "currency": "EUR",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 145,
+     "day": null,
+     "note": "group rate"
+    }
+   ],
+   "ages": {
+    "min_age": null,
+    "min_height_cm": 145,
+    "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+   },
+   "rental": "yes",
+   "own_karts": "no",
+   "type": "indoor"
+  }
+ ],
+ "nantes": {
+  "nantes_verdict": "separate",
+  "city_kart_id": "node/5607946169",
+  "evidence": "City Kart's own page (city-kart.fr/karting-indoor-de-nantes/) is live, sells 2026/2027 course dates and describes its own 500 m indoor petrol-kart track (17 Sodikart SR5 270cc, FFSA-approved) 'situe sur la Zone de Loisirs du Cineville, proche du Laser Game Evolution et de l'Eurobowl'. BattleKart Nantes is upstairs in the Eurobowl building (way/1177180995). OSM node/5607946169 'City Kart' (sport=karting) is at 47.19020,-1.48975, ~250 m W of Eurobowl. Two distinct operating venues; neither replaced the other.",
+  "sources": [
+   "https://www.city-kart.fr/karting-indoor-de-nantes/",
+   "https://www.city-kart.fr/",
+   "https://www.battlekart.com/fr/nantes",
+   "https://api.openstreetmap.org/api/0.6/node/5607946169.json"
+  ]
+ },
+ "checked_at": "2026-10-15"
+}

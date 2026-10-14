@@ -1,0 +1,578 @@
+[
+ {
+  "id": "way/761797608",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sport=karting pitch inside the Van der Valk Resort Linstow holiday park, next to a trampoline area, mini golf and playgrounds. It is probably a guests' or children's attraction, but no source describes karts there.",
+  "sources": [
+   "https://www.openstreetmap.org/way/761797608",
+   "https://www.openstreetmap.org/way/1157907266",
+   "https://www.off-to-mv.com/destinations/a-van-der-valk-resort-linstow"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/331597919",
+  "verdict": "club_or_private",
+  "name": "AMC Ettlingen e.V.",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 368 m asphalt kart raceway lies inside an OSM sports_centre named 'AMC Ettlingen e.V.', a local motor club, at the Karlsruhe-Rueppurr/Ettlingen boundary. No public rental operator was found, so this looks like club grounds.",
+  "sources": [
+   "https://www.openstreetmap.org/way/943546629",
+   "https://www.openstreetmap.org/way/331597919"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/202733188",
+  "verdict": "club_or_private",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags the dirt raceways access=private with sport=motor;karting;motocross, next to a building named 'Cartbahn' and the Chamaeleon Beach event site at Am Wickerbach, Floersheim-Wicker. No public kart operator was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/202733188",
+   "https://www.openstreetmap.org/way/202733205"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/235291205",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A bare sport=karting pitch among allotments, meadow and housing in Gelsenkirchen-Leithe, with no named kart business nearby in OSM. Web searches found no kart venue in Leithe.",
+  "sources": [
+   "https://www.openstreetmap.org/way/235291205"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/835366727",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The kart area is tagged access=customers with operator 'Tiererlebnispark Mueritz' and sits between that animal park's playgrounds. It is probably a children's ride-on attraction, but the park's website and listings do not mention karts.",
+  "sources": [
+   "https://www.openstreetmap.org/way/835366727",
+   "https://www.tiererlebnispark-mueritz.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/91915769",
+  "verdict": "club_or_private",
+  "name": "MSC Knetzgau (Kartslalom / Jugendverkehrsschule)",
+  "website": "https://www.msc-knetzgau.de/",
+  "type": "outdoor",
+  "rental": "no",
+  "own_karts": null,
+  "evidence": "The asphalt area is next to the building 'MSC Knetzgau / Jugendverkehrsschule Knetzgau' and an amenity=traffic_park. The MSC Knetzgau site describes youth and senior kart slalom on a pylon course on club grounds, with no public kart rental.",
+  "sources": [
+   "https://www.openstreetmap.org/way/91915769",
+   "https://www.openstreetmap.org/way/237653203",
+   "https://www.msc-knetzgau.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/206011236",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A short 134 m raceway in Marktredwitz-Doerflas beside the Auenpark (2006 garden-show park) and the Doerflaser Turnhalle. No kart venue or club was found; it may be a park or children's feature.",
+  "sources": [
+   "https://www.openstreetmap.org/way/206011236",
+   "https://www.openstreetmap.org/way/32664837"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1279684227",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A kart raceway in fields near Kindhofen/St. Lorenz, Neumarkt-Sankt Veit, next to a clubhouse building and an equestrian pitch. No club or operator was identified on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1279684227"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/223183532",
+  "verdict": "not_kart",
+  "name": "Jumicar Plauen (Freizeitanlage Syratal)",
+  "website": "https://www.freizeitanlage-plauen.de/",
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 294 m asphalt raceway sits in the Freizeitanlage Syratal next to an OSM node 'Jumicar' (tourism=theme_park). Jumicar is a children's mini-car traffic-course attraction, listed by Bahn as 'Minicars', not a kart track.",
+  "sources": [
+   "https://www.openstreetmap.org/node/1807221778",
+   "https://www.bahn.de/angebot/urlaub/staedtereisen/plauen"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/82208301",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sport=karting sports_centre in farmland near Reckershausen/Kirchberg (Hunsrueck), next to a raceway tagged sport=motor and the Kirchberg wind farm. No operator or club was found; the nearest known kart track is at Hahn airport, about 12 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/way/82208301",
+   "https://www.openstreetmap.org/way/82208296"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/894252551",
+  "verdict": "not_kart",
+  "name": "Wildpark Frankenhof (Kettcar track)",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 176 m track sits among the animal enclosures of Wildpark Frankenhof in Reken. A family guide to the park mentions Kettcar (pedal kart) racing among its children's activities, so it is a pedal-car attraction.",
+  "sources": [
+   "https://www.openstreetmap.org/way/894252551",
+   "https://www.familienhotels.de/de/infos/tiererlebnisse/wildpark-frankenhof/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/195781843",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Three sand-surfaced raceways tagged sport=karting in woodland near Loh (Saaldorf-Surheim), next to a dog-training club. There is no operator or web presence; it may be a private or hobby dirt track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/195781843"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/368351876",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 391 m asphalt one-way raceway next to the Campingplatz 'Bergsee Ratscher', with a nearby OSM area tagged disused:leisure=pitch, sport=karting, tourism=theme_park. This suggests a former campsite or leisure kart track; current operation was not found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/368351876",
+   "https://www.openstreetmap.org/way/421011493",
+   "https://www.bergseeratscher.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/24789697",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sport=karting sports_centre with an address on Falkenstrasse, Sonthofen, next to soccer and tennis pitches and the 'Freizeit- und Bildungsstaette der Falken' hostel. No kart venue or club in Sonthofen was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/24789697"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/954618039",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The OSM element's own description says it is a privately built area that looks like BMX bike terrain (leisure=track, surface=compacted) in farmland near Krenkingen. Nothing suggests karting.",
+  "sources": [
+   "https://www.openstreetmap.org/way/954618039"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1489525899",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 201 m asphalt kart raceway inside the Weissenhaeuser Strand holiday resort, beside Abenteuer Dschungelland and the water park. The resort's leisure page does not list karts, so whether it is an active guests' or children's track is unknown.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1489525899",
+   "https://weissenhaeuserstrand.de/en/attractions/leisure-time-activities"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/255820186",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Several buildings tagged building=sports_centre, club=sport, sport=karting, plus two kart raceways, in fields near Garbenheim (Wetzlar). This looks like club grounds, but no club or operator could be identified on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/255820186",
+   "https://www.openstreetmap.org/way/255820187"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/358492956",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "Several sport=karting raceways and a pitch in meadows near Wildflecken. No club, operator or web presence was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/358492956"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/456207370",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 332 m raceway tagged access=private, sport=karting in a residential and industrial area of Witten-Ruedinghausen, near the Ardex works and a former tank-test track. No kart club or operator was found; it may be a private or company track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/456207370"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "relation/6438498",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A leisure=track, sport=karting multipolygon near the Ecuries de Loubresse riding centre and housing at La Pounche (Allauch / Marseille 13e). No karting venue in Allauch or Plan-de-Cuques was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/6438498"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1173145680",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 207 m kart raceway next to housing and the EDF/RTE substation at Anould. No karting business in Anould was found; the nearest found is Manacha Kart at Col du Plafond, Gerbepal, several km away.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1173145680"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1362564733",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A kart raceway at the Plan d'eau de la Riaille leisure base in Apt (Gargas side), among tennis, padel, skate park and playground facilities. Descriptions of the leisure base do not mention karting.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1362564733",
+   "https://luberon.fr/page/parc-de-loisir-du-plan-d-eau-de-la-riaille-a-apt+176980.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/712430022",
+  "verdict": "real",
+  "name": "Circuit Pau-Arnos (piste karting)",
+  "website": "https://circuit-pau-arnos.fr/",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The karting sports_centre and raceways sit inside the Circuit Pau-Arnos motorsport complex. The circuit's own site lists a karting-homologated multi-activity track with individual and group karting sessions bookable by the public.",
+  "sources": [
+   "https://www.openstreetmap.org/way/253195295",
+   "https://circuit-pau-arnos.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/179466889",
+  "verdict": "real",
+  "name": "Laser Concept / Ball Concept Montplaisir (laser kart)",
+  "website": null,
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The karting pitch is on former tennis courts at the Montplaisir sporting club, route de Saint-Saturnin, Montfavet. Provenceguide lists Laser Concept / Ball Concept Montplaisir at 948 route de Saint-Saturnin offering karting and laser game with 'Laser Kart' packages.",
+  "sources": [
+   "https://www.openstreetmap.org/way/197171995",
+   "https://www.provenceguide.com/equipements/avignon/laser-concept/provence-4722224-1.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/136730900",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "indoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A building tagged leisure=pitch, sport=karting (cadastre source) in the industrial zone along the Route de Saint-Die at Aydoilles. No karting business in Aydoilles was found; the indoor 'Kart & Bowling' is in Saint-Gorgon, about 14 km away.",
+  "sources": [
+   "https://www.openstreetmap.org/way/136730900"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/463697523",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A leisure=track, sport=karting area by an industrial zone and forest in Bellignat. No kart club or venue in Bellignat or Oyonnax was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/463697523"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/934414055",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A 1212 m kart raceway in meadow and forest near Preguillac/Berneuil (Charente-Maritime), with no named facility in OSM. No karting venue at Berneuil or Preguillac was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/934414055"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/7345774782",
+  "verdict": "real",
+  "name": "Games Factory Besancon",
+  "website": "https://gamesfactory.fr/en/besancon/karting/",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "evidence": "The karting node is beside the Games Factory leisure centre (ZAC de Chateaufarine). Games Factory Besancon runs an indoor electric karting with 24 karts on a 400 m track.",
+  "sources": [
+   "https://www.openstreetmap.org/way/72367987",
+   "https://gamesfactory.fr/en/besancon/karting/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/659216733",
+  "verdict": "uncertain",
+  "name": "Speed Fun Karting",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM shows several kart raceways, customer parking, a paintball pitch and a building named 'Speed Fun Karting' at Bessines. A directory lists Speed Fun Karting at 140 route de La Rochelle, Bessines, but no current website, opening hours or activity was found, so the operating status is unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/way/185773997",
+   "https://www.koifaire.com/poitou-charentes/bocaspeed-30923.html"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1153189104",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A kart raceway next to a raceway tagged sport=motocross, beside the Stade des Alouettes football ground in Blanzy. No club or operator was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/1153189104",
+   "https://www.openstreetmap.org/way/1153189105"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/165379444",
+  "verdict": "club_or_private",
+  "name": "Karting Carpentras (ASK Karting Carpentras)",
+  "website": null,
+  "type": "outdoor",
+  "rental": "no",
+  "own_karts": "yes",
+  "evidence": "OSM maps a closed 1013 m asphalt kart circuit at the Hippodrome de Saint-Ponchon, Carpentras (sports-ministry data). Yumping's Karting Carpentras listing gives a 1010 m track with no rental karts, reserved for licence holders, and says it has hosted European, national and regional championships.",
+  "sources": [
+   "https://www.openstreetmap.org/way/165379446",
+   "https://www.yumping.com/en/karting/karting-carpentras--e19684580"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/535021797",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A leisure=track, sport=karting area inside the Center Parcs Le Lac d'Ailette resort, near its farm, high-ropes course and kids' club. It is probably a guests-only (likely children's) attraction; no description of karts there was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/535021797",
+   "https://www.openstreetmap.org/way/232530983"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/2485931748",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A leisure=track, sport=karting node and polygon in grassland near Charbogne. The Alentoor sports directory lists a 'Site de karting - Circuit de karting' in Charbogne, but gives no operator, website or status.",
+  "sources": [
+   "https://www.openstreetmap.org/relation/3250975",
+   "https://www.alentoor.fr/charbogne/sport"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/290061425",
+  "verdict": "not_kart",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM tags this as disused:leisure=track (sport=karting) next to a disused motor raceway at the Macon-Charnay aerodrome. It is a former track, and no current kart activity was found.",
+  "sources": [
+   "https://www.openstreetmap.org/way/290061425",
+   "https://www.openstreetmap.org/way/150489640"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/102674832",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sport=karting sports_centre with a 476 m asphalt raceway in farmland at Clave (Deux-Sevres). No club or operator was found on the web.",
+  "sources": [
+   "https://www.openstreetmap.org/way/102674832",
+   "https://www.openstreetmap.org/way/102573134"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/5922610411",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A sport=karting sports_centre node inside the Parc du Fort-Louis, among archery and boules facilities in Coudekerque-Branche. BattleKart Coudekerque (indoor) is on the Route de Furnes, about 3 km away, so it does not match.",
+  "sources": [
+   "https://www.openstreetmap.org/node/5922610411",
+   "https://www.battlekart.com/en/coudekerque"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/33995393",
+  "verdict": "uncertain",
+  "name": "Karting des Poudrières",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "OSM has a sports_centre named 'Karting des Poudrières' around this 818 m asphalt raceway, next to the Pontarlier shooting club and the 'Tir a l'arc des Poudrieres' archery ground. No web presence or operator was found, so whether it is public or club-only is unknown.",
+  "sources": [
+   "https://www.openstreetmap.org/way/672676482",
+   "https://www.openstreetmap.org/way/33995393"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/1315948290",
+  "verdict": "not_kart",
+  "name": "Labyrinthe les Hautes Herbes (pedal-kart track)",
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "The 144 m raceway is beside the 'Labyrinthe vegetal' attraction. Tourism listings for Labyrinthe les Hautes Herbes in Entraigues-sur-la-Sorgue say the site has wooden games and a pedal-kart track (piste de kart a pedales), not motor karts.",
+  "sources": [
+   "https://www.openstreetmap.org/way/254119045",
+   "https://provence-alpes-cotedazur.com/en/things-to-do/leisure-relaxation/all-relaxation-and-leisure-activities/les-hautes-herbes-maze-entraigues-sur-la-sorgue-en-3909291/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/339306511",
+  "verdict": "uncertain",
+  "name": null,
+  "website": null,
+  "type": "outdoor",
+  "rental": null,
+  "own_karts": null,
+  "evidence": "A bare sport=karting area in the commercial/industrial zone of Feytiat, near Burger King and the Kyriad hotel. No kart business at this spot was found; the nearest known venue, RMT Karting at 19 rue de Douai in Limoges, is about 2 km west.",
+  "sources": [
+   "https://www.openstreetmap.org/way/339306511",
+   "https://www.aleou.fr/team-building-seminaire/40081-rmt-karting"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]
