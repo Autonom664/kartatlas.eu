@@ -2791,5 +2791,110 @@
   "source": "https://www.automotodrombrno.cz/motokary/",
   "checked_at": "2026-10-15",
   "note": "Added by discovery H01; confirmed on the operator site. The stable ID is the venue's own OSM object; no driving geometry is inferred from it."
+ },
+ {
+  "name": "Cartmax",
+  "lat": 51.2647566,
+  "lon": 22.5706882,
+  "kind": "indoor",
+  "len": null,
+  "city": "Lublin",
+  "state": null,
+  "addr": "Galeria Olimp, poziom 0 (parking), Al. Spółdzielczości Pracy 32, 20-147 Lublin",
+  "web": "https://cartmax.pl/",
+  "phone": "+48 511 100 610",
+  "hours": "Mon-Fri 14:00-22:00; Sat-Sun 10:00-22:00",
+  "osm": [
+   "way/173185912"
+  ],
+  "geo": null,
+  "cc": "PL",
+  "source": "https://cartmax.pl/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery E_P; confirmed on the operator site. The stable ID is the address/building object at the venue address, not a karting feature; no driving geometry is inferred from it."
+ },
+ {
+  "name": "Tor Kartingowy Tor Poznań (Automobilklub Wielkopolski)",
+  "lat": 52.4182408,
+  "lon": 16.8069082,
+  "kind": "outdoor",
+  "len": null,
+  "city": "Przeźmierowo",
+  "state": null,
+  "addr": "ul. Wyścigowa 3, 62-081 Przeźmierowo",
+  "web": "https://aw.poznan.pl/sport-kartingowy",
+  "phone": "+48 667 700 882",
+  "hours": "No public sessions; club karting training days by announcement (2026: 05.06.2026 09:00-18:00)",
+  "osm": [
+   "node/6258902746"
+  ],
+  "geo": null,
+  "cc": "PL",
+  "source": "https://aw.poznan.pl/sport-kartingowy",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery E_P; confirmed on the operator site. The stable ID is the address/building object at the venue address, not a karting feature; no driving geometry is inferred from it."
+ },
+ {
+  "name": "Kart Aréna Litomyšl",
+  "lat": 49.8640563,
+  "lon": 16.328515,
+  "kind": "indoor",
+  "len": null,
+  "city": "Litomyšl",
+  "state": null,
+  "addr": "Moravská 1200, 570 01 Litomyšl",
+  "web": "https://www.a-kartarena.cz/",
+  "phone": "+420 731 587 944",
+  "hours": "Mon-Thu 13:00-22:00, Fri 13:00-24:00, Sat 10:00-24:00, Sun 10:00-22:00",
+  "osm": [
+   "node/1462350694"
+  ],
+  "geo": null,
+  "cc": "CZ",
+  "source": "https://www.a-kartarena.cz/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery E_C; confirmed on the operator site. The stable ID is the venue's own OSM object; no driving geometry is inferred from it."
+ },
+ {
+  "name": "MojeMotokáry Ostrava",
+  "lat": 49.8150855,
+  "lon": 18.2401582,
+  "kind": "outdoor",
+  "len": null,
+  "city": "Ostrava",
+  "state": null,
+  "addr": "U Cementárny 1173, 703 00 Ostrava-Vítkovice",
+  "web": "https://ostrava-motokary.cz/",
+  "phone": "+420 777 305 265",
+  "hours": "Mar: Fri 15-17, Sat-Sun 10-17; Apr: Tue-Fri 15-18, Sat-Sun 10-18; May-Jun: Tue-Fri 15-19, Sat-Sun 10-19; Jul-Aug: Tue-Fri 15-20, Sat-Sun 10-20; Sep: Tue-Fri 15-18, Sat-Sun 13-18; Oct-Nov: Thu-Fri 15-18, Sat-Sun 13-18; Mondays closed; dry weather only",
+  "osm": [
+   "node/2685112395"
+  ],
+  "geo": null,
+  "cc": "CZ",
+  "source": "https://ostrava-motokary.cz/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery E_C; confirmed on the operator site. The stable ID is the address/building object at the venue address, not a karting feature; no driving geometry is inferred from it."
+ },
+ {
+  "name": "SPEEDZONE - Motokáry Hradec Králové",
+  "lat": 50.2122234,
+  "lon": 15.8104404,
+  "kind": "indoor",
+  "len": null,
+  "city": "Hradec Králové",
+  "state": null,
+  "addr": "Parkovací dům Aupark (floor 4B), Zamenhofova, 500 02 Hradec Králové",
+  "web": "https://motokaryhradec.cz/",
+  "phone": "+420 735 112 232",
+  "hours": "Mon-Fri 14:00-22:00, Sat-Sun 10:00-22:00 (firmy.cz); open 365 days a year",
+  "osm": [
+   "way/918374621"
+  ],
+  "geo": null,
+  "cc": "CZ",
+  "source": "https://motokaryhradec.cz/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery E_C; confirmed on the operator site. The stable ID is the address/building object at the venue address, not a karting feature; no driving geometry is inferred from it."
  }
 ]

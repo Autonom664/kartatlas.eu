@@ -626,5 +626,17 @@
  "node/13432940206": {
   "name": "K1 Speed Milano-Bicocca (formerly Hollywood Kart)",
   "web": "https://www.k1speed.com/it/milano-bicocca.html"
+ },
+ "way/1164543364": {
+  "dropurl": "motoparktorun.pl"
+ },
+ "node/12836334870": {
+  "kind": "kids"
+ },
+ "way/1541010814": {
+  "kind": "kids"
+ },
+ "node/12108615161": {
+  "kind": "kids"
  }
 }

@@ -1,0 +1,810 @@
+{
+ "countries": [
+  "CZ"
+ ],
+ "new_venues": [
+  {
+   "name": "Kart Aréna Litomyšl",
+   "address": "Moravská 1200, 570 01 Litomyšl",
+   "town": "Litomyšl",
+   "lat": 49.8640563,
+   "lon": 16.328515,
+   "osm_id": "node/1462350694",
+   "website": "https://www.a-kartarena.cz/",
+   "websites": [
+    {
+     "url": "https://www.a-kartarena.cz/",
+     "role": "official",
+     "name": "KartAréna Litomyšl"
+    }
+   ],
+   "phone": "+420 731 587 944",
+   "email": "info@akartarena.cz",
+   "hours": "Mon-Thu 13:00-22:00, Fri 13:00-24:00, Sat 10:00-24:00, Sun 10:00-22:00",
+   "status": "open",
+   "type": "indoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [],
+   "ages": null,
+   "ages_source": null,
+   "family": [],
+   "group": [],
+   "prices": [
+    {
+     "label": "10-minute ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 230,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "weekday",
+     "note": "Mon-Thu outside summer holidays"
+    },
+    {
+     "label": "10-minute ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 270,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "weekend",
+     "note": "Fri-Sun; single price 270 CZK every day during summer holidays"
+    },
+    {
+     "label": "20-minute ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 20,
+     "laps": null,
+     "price": 450,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "all week"
+    },
+    {
+     "label": "30-minute ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 30,
+     "laps": null,
+     "price": 550,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "all week"
+    },
+    {
+     "label": "Group day ticket, 10 rides of 10 min",
+     "class": "adult",
+     "type": "package",
+     "minutes": 10,
+     "laps": null,
+     "price": 2400,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "20 rides 4,600 CZK, 30 rides 6,600 CZK; valid 12 months"
+    },
+    {
+     "label": "Gift package, 3 rides of 10 min",
+     "class": "adult",
+     "type": "package",
+     "minutes": 10,
+     "laps": null,
+     "price": 750,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "5 rides 1,300, 10 rides 2,600, 40 rides 7,800 CZK"
+    },
+    {
+     "label": "Group race, up to 5 drivers",
+     "class": "other",
+     "type": "package",
+     "minutes": 30,
+     "laps": null,
+     "price": 4800,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per group; up to 10 drivers 9,400, 15 13,880, 20 18,000 CZK; practice+qualifying+race, one trophy included"
+    },
+    {
+     "label": "Exclusive track hire incl. bar",
+     "class": "other",
+     "type": "package",
+     "minutes": 60,
+     "laps": null,
+     "price": 7200,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per hour, Mon-Tue, excl. VAT; Wed-Thu 8,600, Fri-Sun 9,600 CZK"
+    }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.a-kartarena.cz/",
+   "tracks": [
+    {
+     "name": "Kart Aréna Litomyšl",
+     "length_m": 295,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.a-kartarena.cz/",
+    "https://www.firmy.cz/detail/741930-kart-arena-litomysl-litomysl-mesto.html",
+    "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Moravská 1200, Litomyšl"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Operating since 2007; price list valid from 1 May 2025 (incl. VAT). Covered kart and minibike track, 295 m per the operator's firmy.cz description (own site gives no length); 70-seat facilities, pizzeria, night rides. Nominatim returns the venue's own OSM object 'Kart aréna' (leisure=sports_centre). Kart models and age limits not published."
+  },
+  {
+   "name": "E-KARTS Zlín",
+   "address": "Malotova 5656 (building 123, former Svit area, next to Albert), 760 01 Zlín",
+   "town": "Zlín",
+   "lat": 49.2221251,
+   "lon": 17.6456863,
+   "address_osm_id": "way/169772209",
+   "website": "https://www.e-kartszlin.cz/",
+   "websites": [
+    {
+     "url": "https://www.e-kartszlin.cz/",
+     "role": "official",
+     "name": "E-KARTS Zlín"
+    }
+   ],
+   "phone": "+420 603 294 529",
+   "email": "info@e-kartszlin.cz",
+   "hours": "Mon closed, Tue-Thu 14:00-21:00, Fri 14:00-22:00, Sat 10:00-22:00, Sun 10:00-20:00",
+   "status": "open",
+   "type": "indoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "SODI",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult"
+    }
+   ],
+   "ages": {
+    "kids_min_age": null,
+    "kids_min_height_cm": 140,
+    "adult_min_age": null,
+    "adult_min_height_cm": 140,
+    "twin_passenger_min_age": null
+   },
+   "ages_source": "https://www.e-kartszlin.cz/provozni-rad/",
+   "family": [],
+   "group": [],
+   "prices": [
+    {
+     "label": "Child ride",
+     "class": "kids",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 249,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": 14,
+     "min_height_cm": 140,
+     "day": null,
+     "note": "from 140 cm, up to 14 years"
+    },
+    {
+     "label": "Adult ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 299,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "max 120 kg"
+    },
+    {
+     "label": "Pro driver ride",
+     "class": "race",
+     "type": "session",
+     "minutes": 7,
+     "laps": null,
+     "price": 349,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "after achieving the reference lap time"
+    },
+    {
+     "label": "2 rides + lemonade/snack, adult",
+     "class": "adult",
+     "type": "package",
+     "minutes": 16,
+     "laps": null,
+     "price": 598,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "child 498, pro 698 CZK"
+    },
+    {
+     "label": "3 rides + soft drink/snack, adult",
+     "class": "adult",
+     "type": "package",
+     "minutes": 24,
+     "laps": null,
+     "price": 849,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "child 699, pro 999 CZK"
+    },
+    {
+     "label": "Track hire 1 hour",
+     "class": "other",
+     "type": "package",
+     "minutes": 60,
+     "laps": null,
+     "price": 9990,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": "weekday",
+     "note": "excl. VAT, Tue-Thu; Fri-Sun 11,990 CZK excl. VAT"
+    }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://www.e-kartszlin.cz/cenik/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.e-kartszlin.cz/",
+    "https://www.e-kartszlin.cz/cenik/",
+    "https://www.e-kartszlin.cz/trat/",
+    "https://www.e-kartszlin.cz/provozni-rad/",
+    "https://www.firmy.cz/detail/13225755-e-karts-zlin-zlin.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Covered electric-kart track (SODI karts) in a 2,000 m2 hall; track 'over 300 m' long (not exact, so no length recorded), up to 5.4 m wide. Operating rules forbid driving under 4 years or under 140 cm. Location: Nominatim found only the street Malotova (way/169772209), not the building, so coordinates are approximate (former Svit complex, building 123)."
+  },
+  {
+   "name": "MojeMotokáry Ostrava",
+   "address": "U Cementárny 1173, 703 00 Ostrava-Vítkovice",
+   "town": "Ostrava",
+   "lat": 49.8150855,
+   "lon": 18.2401582,
+   "address_osm_id": "node/2685112395",
+   "website": "https://ostrava-motokary.cz/",
+   "websites": [
+    {
+     "url": "https://ostrava-motokary.cz/",
+     "role": "official",
+     "name": "MojeMotokáry Ostrava"
+    }
+   ],
+   "phone": "+420 777 305 265",
+   "email": "info@ostrava-motokary.cz",
+   "hours": "Mar: Fri 15-17, Sat-Sun 10-17; Apr: Tue-Fri 15-18, Sat-Sun 10-18; May-Jun: Tue-Fri 15-19, Sat-Sun 10-19; Jul-Aug: Tue-Fri 15-20, Sat-Sun 10-20; Sep: Tue-Fri 15-18, Sat-Sun 13-18; Oct-Nov: Thu-Fri 15-18, Sat-Sun 13-18; Mondays closed; dry weather only",
+   "status": "open",
+   "type": "outdoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodi",
+     "engine": "Honda 200 cc",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi RT8",
+     "engine": "270 cc",
+     "hp": null,
+     "class": "race"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "ages": {
+    "kids_min_age": 6,
+    "kids_min_height_cm": null,
+    "adult_min_age": null,
+    "adult_min_height_cm": null,
+    "twin_passenger_min_age": null
+   },
+   "ages_source": "https://ostrava-motokary.cz/",
+   "family": [],
+   "group": [],
+   "prices": [
+    {
+     "label": "Kids kart",
+     "class": "kids",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 259,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": 8,
+     "max_age": 14,
+     "min_height_cm": null,
+     "day": null,
+     "note": "children 8-14 years"
+    },
+    {
+     "label": "Standard kart Sodi Honda 200 cc",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 299,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Race kart Sodi RT8 270 cc",
+     "class": "race",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 349,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "experienced drivers only"
+    },
+    {
+     "label": "Track hire",
+     "class": "other",
+     "type": "package",
+     "minutes": 60,
+     "laps": null,
+     "price": 5990,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "'from' price; per group, from 1 hour"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Hygienic balaclava",
+     "amount": 49,
+     "currency": "CZK",
+     "period": "once",
+     "mandatory": true,
+     "note": "mandatory; own balaclava allowed"
+    }
+   ],
+   "membership": null,
+   "price_source": "https://ostrava-motokary.cz/cenik-jizd/",
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://ostrava-motokary.cz/",
+    "https://ostrava-motokary.cz/cenik-jizd/",
+    "https://ostrava-motokary.cz/oteviraci-doba/",
+    "https://www.firmy.cz/detail/13359464-mojemotokary-ostrava-ostrava-vitkovice.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Outdoor asphalt track 'over 600 m' (not exact), up to 6 m wide, 16 corners and a tunnel, up to 70 km/h. Homepage mentions MS Kart petrol karts while the price page names Sodi karts (Honda 200 / Sodi RT8 270) - price page used. Kids kart for children over 6; standard kart recommended from 10. Every 10th ride free with club card. Not near any existing CZ entry (nearest E-motion Park and Motopark ~2 km)."
+  },
+  {
+   "name": "SPEEDZONE - Motokáry Hradec Králové",
+   "address": "Parkovací dům Aupark (floor 4B), Zamenhofova, 500 02 Hradec Králové",
+   "town": "Hradec Králové",
+   "lat": 50.2122234,
+   "lon": 15.8104404,
+   "address_osm_id": "way/918374621",
+   "website": "https://motokaryhradec.cz/",
+   "websites": [
+    {
+     "url": "https://motokaryhradec.cz/",
+     "role": "official",
+     "name": "SPEED ZONE Motokáry Hradec Králové"
+    }
+   ],
+   "phone": "+420 735 112 232",
+   "email": "recepce@speedzonehk.cz",
+   "hours": "Mon-Fri 14:00-22:00, Sat-Sun 10:00-22:00 (firmy.cz); open 365 days a year",
+   "status": "open",
+   "type": "indoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "SODI SR5",
+     "engine": "Honda 200",
+     "hp": null,
+     "class": "adult"
+    }
+   ],
+   "ages": {
+    "kids_min_age": null,
+    "kids_min_height_cm": 130,
+    "adult_min_age": 15,
+    "adult_min_height_cm": null,
+    "twin_passenger_min_age": null
+   },
+   "ages_source": "https://motokaryhradec.cz/provozni-rad/",
+   "family": [],
+   "group": [],
+   "prices": [
+    {
+     "label": "1 ride",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 350,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "2 rides",
+     "class": "adult",
+     "type": "package",
+     "minutes": 20,
+     "laps": null,
+     "price": 650,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "10 + 10 min"
+    },
+    {
+     "label": "3 rides",
+     "class": "adult",
+     "type": "package",
+     "minutes": 30,
+     "laps": null,
+     "price": 900,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "4 rides (family)",
+     "class": "adult",
+     "type": "package",
+     "minutes": 40,
+     "laps": null,
+     "price": 1180,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "5 rides (group)",
+     "class": "adult",
+     "type": "package",
+     "minutes": 50,
+     "laps": null,
+     "price": 1450,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Track hire 1 hour",
+     "class": "other",
+     "type": "package",
+     "minutes": 60,
+     "laps": null,
+     "price": 10500,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per group, up to 6-8 karts; with exclusive bar 14,500 CZK"
+    }
+   ],
+   "fees": [],
+   "membership": null,
+   "price_source": "https://motokaryhradec.cz/cenik/",
+   "tracks": [
+    {
+     "name": "SPEED ZONE two-level indoor track",
+     "length_m": 470,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://motokaryhradec.cz/",
+    "https://motokaryhradec.cz/cenik/",
+    "https://motokaryhradec.cz/provozni-rad/",
+    "https://www.firmy.cz/detail/14016944-speedzone-motokary-hradec-kralove.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Two-level indoor track in the Aupark multi-storey car park (site says floor 4B, firmy.cz floors 5A/5B); company address V Lukách 463/46 is not the track. Rules: adult karts only for drivers over 15, younger only with a responsible person over 18; children from 130 cm; max 120 kg. Not the unnamed OSM Hradec Králové entry way/1239464809 (that is ~4.5 km away)."
+  },
+  {
+   "name": "Motokáry Tábor",
+   "address": "Šafaříkova (garáže U Sladovny), 390 02 Tábor",
+   "town": "Tábor",
+   "lat": 49.4145056,
+   "lon": 14.6734802,
+   "address_osm_id": "way/15220273",
+   "website": "https://www.motokarytabor.cz/",
+   "websites": [
+    {
+     "url": "https://www.motokarytabor.cz/",
+     "role": "official",
+     "name": "Motokáry Tábor"
+    },
+    {
+     "url": "http://www.facebook.com/motokarytabor",
+     "role": "facebook",
+     "name": "Motokáry Tábor"
+    }
+   ],
+   "phone": "+420 602 456 819",
+   "email": "karytabor@seznam.cz",
+   "hours": "Fri-Sat 14:00-22:00, Sun 14:00-20:00, Mon-Thu closed (firmy.cz)",
+   "status": "open",
+   "type": "indoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "Honda GX 200 cc",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "ages": {
+    "kids_min_age": 12,
+    "kids_min_height_cm": null,
+    "adult_min_age": null,
+    "adult_min_height_cm": null,
+    "twin_passenger_min_age": null
+   },
+   "ages_source": "https://www.motokarytabor.cz/Cenik.html",
+   "family": [],
+   "group": [],
+   "prices": [
+    {
+     "label": "1 ride (approx. 10 min)",
+     "class": "adult",
+     "type": "session",
+     "minutes": 10,
+     "laps": null,
+     "price": 250,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "10-ride pass",
+     "class": "adult",
+     "type": "package",
+     "minutes": 10,
+     "laps": null,
+     "price": 2400,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "valid 3 months, one person"
+    },
+    {
+     "label": "Track + 4 karts, 1 hour",
+     "class": "other",
+     "type": "package",
+     "minutes": 60,
+     "laps": null,
+     "price": 6000,
+     "currency": "CZK",
+     "extras": null,
+     "member": null,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "per group; each additional kart 1,500 CZK/hour"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Hygienic balaclava",
+     "amount": 100,
+     "currency": "CZK",
+     "period": "once",
+     "mandatory": null,
+     "note": "sale price"
+    }
+   ],
+   "membership": null,
+   "price_source": "https://www.motokarytabor.cz/Cenik.html",
+   "tracks": [
+    {
+     "name": "Covered circuit",
+     "length_m": 300,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.motokarytabor.cz/",
+    "https://www.motokarytabor.cz/Cenik.html",
+    "https://www.firmy.cz/detail/13374115-motokary-tabor-tabor.html"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Own site describes a covered 300 m circuit, kids karts from 12 years, but its race-results pages stop at 2012 and the price list is undated - prices may be outdated. firmy.cz shows a current listing with weekend hours (rating 4.9). Location only geocoded to the street Šafaříkova (garages 'U Sladovny'), coordinates approximate."
+  }
+ ],
+ "leads_checked": [
+  {
+   "name": "Kart Arena Litomyšl",
+   "result": "Confirmed: own site a-kartarena.cz (price list from 1 May 2025, current hours); indoor 295 m track at Moravská 1200; added to new_venues with the venue's own OSM node/1462350694."
+  },
+  {
+   "name": "E-KARTS Zlín",
+   "result": "Confirmed: own site e-kartszlin.cz with current prices/hours; indoor SODI electric-kart hall at Malotova 5656 (former Svit, building 123); added to new_venues (address geocoded only to the street)."
+  },
+  {
+   "name": "Motokáry Tábor",
+   "result": "Confirmed with caveat: own site motokarytabor.cz (covered 300 m track, undated price list, results pages end 2012) plus a current firmy.cz listing with weekend hours; added to new_venues, coordinates approximate (street Šafaříkova)."
+  },
+  {
+   "name": "Motokary FM",
+   "result": "Not confirmed: firmy.cz describes a kart rental and track at Collo-louky, Frýdek-Místek, but its website motokaryfm.cz is a parked Active24 domain and firmy shows every day closed; no current own source."
+  },
+  {
+   "name": "MojeMotokáry Ostrava",
+   "result": "Confirmed: own site ostrava-motokary.cz (2026 hours, prices); outdoor 600+ m track at U Cementárny 1173, Ostrava-Vítkovice. Not the unnamed way/1127732545 (49.843,18.227, ~3.2 km away) nor Motopark; added to new_venues."
+  },
+  {
+   "name": "Motokáry Ostrava Motopark",
+   "result": "Same venue as existing way/1389597361 'Motopark Ostrava' (Opavská 5637 geocodes 80 m from it); website draha.motopark.cz and full data added to that Part A record. Not the unnamed way/1127732545."
+  },
+  {
+   "name": "Driving Camp Autodrom Sosnová",
+   "result": "Not confirmed as a kart venue: own site autodrom.cz offers driving courses, track days and circuit hire but no kart rental or kart track (only firmy.cz text mentions renting karts)."
+  },
+  {
+   "name": "Petr Zábranský - Motokáry",
+   "result": "Rejected: firmy.cz describes organising race weekends by renting karts and race service from Vejvanov 65 - a kart hire/service business, not a fixed track."
+  },
+  {
+   "name": "SPEEDZONE - motokáry",
+   "result": "Confirmed: own site motokaryhradec.cz; two-level 470 m indoor track in the Aupark car park, Hradec Králové; added to new_venues. It is NOT the unnamed OSM entry way/1239464809 (50.176,15.780), which is ~4.5 km away."
+  },
+  {
+   "name": "DOSS KART",
+   "result": "Rejected: firmy.cz describes a professional kart racing team (preparation, coaching, race-kart hire), a slot-car track and tyre service in Týniště nad Orlicí - no public kart track."
+  }
+ ],
+ "checked_at": "2026-10-15"
+}

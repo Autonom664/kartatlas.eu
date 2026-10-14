@@ -1,0 +1,1551 @@
+{
+ "venues": [
+  {
+   "id": "way/1548010030",
+   "name": "Lunapark Sowiński",
+   "town": "Władysławowo",
+   "lat": 54.79328,
+   "lon": 18.41236,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No own website found; directory listings (Wikivoyage) place a go-kart track inside the seasonal Lunapark Sowiński amusement park (Władysławowo), unverified."
+  },
+  {
+   "id": "way/1541010814",
+   "name": "Crossikowo",
+   "town": "Ustka",
+   "lat": 54.56607,
+   "lon": 16.88787,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/12197759323",
+   "name": "KartCenter Sopot",
+   "town": "Sopot",
+   "lat": 54.43397,
+   "lon": 18.56331,
+   "type": "outdoor",
+   "websites": [
+    "https://kartcenter.pl/sopot-outdoor/",
+    "https://kartcenter.pl/sopot-outdoor/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [],
+   "last_note": "Operator's Sopot page only announces an opening on 24 July (year not stated), with map 'coming soon'; the price list covers only the operator's indoor Gdańsk Morena track, so no Sopot prices are recor"
+  },
+  {
+   "id": "node/12108615161",
+   "name": "Crazy Carts",
+   "town": "Gdańsk",
+   "lat": 54.42518,
+   "lon": 18.49002,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/11503408936",
+   "name": "Crazy Carts",
+   "town": "Gdańsk",
+   "lat": 54.40426,
+   "lon": 18.58656,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/361609526",
+   "name": "Autodrom Pomorze (ODTJ PORD Pszczółki)",
+   "town": "Pszczółki",
+   "lat": 54.17808,
+   "lon": 18.71091,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Not a kart venue: driving-technique training centre (ODTJ Autodrom Pomorze) of the Pomeranian road traffic centre PORD Gdańsk, used for driver training and car events such as drifting; no karting foun"
+  },
+  {
+   "id": "node/5218801154",
+   "name": "GO-KARTS",
+   "town": "Kołobrzeg",
+   "lat": 54.16815,
+   "lon": 15.55452,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (phone from OSM only)."
+  },
+  {
+   "id": "way/194071643",
+   "name": "Tor Kartingowy Suwałki",
+   "town": "Suwałki",
+   "lat": 54.10275,
+   "lon": 22.91239,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/2378222100",
+   "name": "Tor kartingowy",
+   "town": "Ełk",
+   "lat": 53.8442,
+   "lon": 22.36999,
+   "type": "outdoor",
+   "websites": [
+    "https://www.mark-tor.elk.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Known website mark-tor.elk.pl only shows a 'technical break' maintenance page (expired certificate); no other online presence found."
+  },
+  {
+   "id": "way/1051800201",
+   "name": "Canpol Racing",
+   "town": "gmina Człuchów",
+   "lat": 53.6513,
+   "lon": 17.31662,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No own website found: the site linked by the regional tourism portal (odejewski.pl) is a parked domain; the portal (undated) describes a ~600 m outdoor track with 9 hp Corolla karts and kids' karts fo"
+  },
+  {
+   "id": "node/11903321405",
+   "name": "Tor Kartingowy DRIFT",
+   "town": "Grudziądz",
+   "lat": 53.49156,
+   "lon": 18.79504,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/9045475232",
+   "name": "Silver Gokart Center",
+   "town": "gmina Kołbaskowo",
+   "lat": 53.38993,
+   "lon": 14.49877,
+   "type": "indoor",
+   "websites": [
+    "https://silverhotel.pl/gokart-center/o-torze/",
+    "https://silverhotel.pl/gokart-center/o-torze/"
+   ],
+   "needs": [
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": null,
+     "hp": null,
+     "class": "adult (24 karts)"
+    },
+    {
+     "chassis": "RIMO EVO 6",
+     "engine": null,
+     "hp": null,
+     "class": "youth 8-15 (6 karts)"
+    },
+    {
+     "chassis": "RIMO Mini-Kart",
+     "engine": null,
+     "hp": null,
+     "class": "child (5 karts)"
+    },
+    {
+     "chassis": "RIMO Twinstructor",
+     "engine": null,
+     "hp": null,
+     "class": "tandem adult+child (2 karts)"
+    }
+   ],
+   "last_note": "Part of Silver Hotel & Gokart Center, Rondo Hermana Hakena, Szczecin (Ustowo, gmina Kołbaskowo). Indoor hall track (input says outdoor). Site says 'ponad 0,5 km' track length, so length_m 500 is a low"
+  },
+  {
+   "id": "way/845057578",
+   "name": "Kurpiowska Kraina",
+   "town": "Wydmusy",
+   "lat": 53.33684,
+   "lon": 21.41288,
+   "type": "outdoor",
+   "websites": [
+    "https://www.kurpiowskakraina.com.pl/",
+    "https://www.kurpiowskakraina.com.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found for a kart track: the Kurpiowska Kraina resort website (accommodation, beach, water sports, bikes) does not mention go-karts."
+  },
+  {
+   "id": "way/1155416602",
+   "name": "Tor Kartingowy",
+   "town": "Fasty",
+   "lat": 53.16165,
+   "lon": 23.0675,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found. Polish searches found nothing for karting in Fasty. Nearby FastPark (Szosa Knyszyńska 21, Fasty; fastpark.pl) is a family amusement/rope park, and its site does not mention g"
+  },
+  {
+   "id": "way/46237687",
+   "name": "Kartodrom Bydgoszcz",
+   "town": "Bydgoszcz",
+   "lat": 53.11994,
+   "lon": 18.06515,
+   "type": "outdoor",
+   "websites": [
+    "https://kartodrom.bydgoszcz.pl/",
+    "https://kartodrom.bydgoszcz.pl/"
+   ],
+   "needs": [
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "9",
+     "class": "rental single-seat"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "rental two-seat"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "36",
+     "class": "rental sport kart (unlocked after a lap under 60 s)"
+    }
+   ],
+   "last_note": "ul. Fordońska 116, Bydgoszcz. Track owned by PZM (PZM OZDG Sp. z o.o.); public rental run by KartGoo Sp. z o.o. (tel 667 887 301, kartgoobydgoszcz@gmail.com, reservation required). Track data: length "
+  },
+  {
+   "id": "way/1164543364",
+   "name": "MotoPark Toruń",
+   "town": "Toruń",
+   "lat": 53.04537,
+   "lon": 18.61371,
+   "type": "outdoor",
+   "websites": [
+    "https://www.motoparktorun.pl/",
+    "https://www.motoparktorun.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Driving-technique centre (ODTJ) with an asphalt racing/training track rented for events; its site mentions no kart rental, though a track database and the city site report Rotax/junior kart championsh"
+  },
+  {
+   "id": "way/1197167809",
+   "name": "MotoPark Toruń",
+   "town": "Toruń",
+   "lat": 53.02621,
+   "lon": 18.53968,
+   "type": "outdoor",
+   "websites": [
+    "https://www.motoparktorun.pl/",
+    "https://www.motoparktorun.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Within the MotoPark Toruń complex, a driver-training centre (ODTJ) with an asphalt training/race track and skid pads; its own site lists no public kart rental or kart prices."
+  },
+  {
+   "id": "way/1427663691",
+   "name": "Tor Toruń",
+   "town": "Toruń",
+   "lat": 53.02328,
+   "lon": 18.54984,
+   "type": "outdoor",
+   "websites": [
+    "https://www.motoparktorun.pl/",
+    "https://www.motoparktorun.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Within the MotoPark Toruń complex (Łukasiewicza 66), a driver-training centre (ODTJ) with an asphalt training/race track and skid pads; its own site lists no public kart rental or kart prices."
+  },
+  {
+   "id": "way/303296499",
+   "name": "AWIX Racing Arena",
+   "town": "Toruń",
+   "lat": 53.01895,
+   "lon": 18.54306,
+   "type": "outdoor",
+   "websites": [
+    "https://racingarena.pl/",
+    "https://racingarena.pl/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": "270 cc",
+     "hp": "9",
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi GT5",
+     "engine": "270 cc",
+     "hp": "9",
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi SR4",
+     "engine": "390 cc",
+     "hp": "13",
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi RX250",
+     "engine": "250 cc 4-stroke injection",
+     "hp": "28",
+     "class": "race"
+    },
+    {
+     "chassis": "Sodi 2Drive (Taxi)",
+     "engine": "390 cc",
+     "hp": "13",
+     "class": "twin"
+    }
+   ],
+   "last_note": "Homologated track (approx. 10 m wide, 5 configurations) hosting national karting and supermoto events; homepage teaser prices ('from 75 zł') are lower than the 2026 PDF price list."
+  },
+  {
+   "id": "node/12645898898",
+   "name": "Strzelce Racing Center",
+   "town": "gmina Strzelce Krajeńskie",
+   "lat": 52.8886,
+   "lon": 15.53518,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (strzelceracing.pl only shows an empty hosting placeholder page)."
+  },
+  {
+   "id": "way/823000123",
+   "name": "Gokarty Zaurolandia",
+   "town": "gmina Rogowo",
+   "lat": 52.74141,
+   "lon": 17.64972,
+   "type": "outdoor",
+   "websites": [
+    "https://www.zaurolandia.pl/",
+    "https://www.zaurolandia.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/13410245158",
+   "name": "Pole Position Bemowo",
+   "town": "Warszawa",
+   "lat": 52.26517,
+   "lon": 20.93152,
+   "type": "outdoor",
+   "websites": [
+    "https://www.pole-position.pl/?page_id=387",
+    "https://www.pole-position.pl/?page_id=387"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi",
+     "engine": "200cc",
+     "hp": "6.5",
+     "class": "adult"
+    },
+    {
+     "chassis": "Two-seater",
+     "engine": "270cc",
+     "hp": "9",
+     "class": "twin"
+    },
+    {
+     "chassis": "Dino",
+     "engine": "120cc",
+     "hp": "4",
+     "class": "kids"
+    }
+   ],
+   "last_note": "Outdoor track of roughly 1 km on a former car park; price list names the kids' kart SODI 4.5 hp while the track page lists Dino 4 hp (130-150 cm)."
+  },
+  {
+   "id": "way/1568043338",
+   "name": "KCR – Kartingowe Centrum Radol",
+   "town": "Stare Miasto",
+   "lat": 52.18772,
+   "lon": 18.2268,
+   "type": "outdoor",
+   "websites": [
+    "https://www.kcrkarting.pl/",
+    "https://www.kcrkarting.pl/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Caroli Hammerhead",
+     "engine": "270cc",
+     "hp": "9",
+     "class": "adult"
+    }
+   ],
+   "last_note": "Quick race duration not stated on the price list; seasonal track (April-October)."
+  },
+  {
+   "id": "way/1375092530",
+   "name": "KartRacingClub",
+   "town": "Guzów",
+   "lat": 52.12801,
+   "lon": 20.32804,
+   "type": "outdoor",
+   "websites": [
+    "https://kartracingclub.pl/",
+    "https://kartracingclub.pl/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "9",
+     "class": "other"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "5.5",
+     "class": "other"
+    }
+   ],
+   "last_note": "Paved (paving stone) track with 14 corners; max driver weight 100 kg; max 6 karts on track."
+  },
+  {
+   "id": "node/11081505298",
+   "name": "Top Kart Arena",
+   "town": "Piaseczno",
+   "lat": 52.08615,
+   "lon": 21.02721,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found. Only hotel/travel directory listings name 'Top Kart Arena' about 0.6 km from central Piaseczno. OSM tags it location=indoor. Not the same as 'Kart Arena' in Szymanów/Baniocha"
+  },
+  {
+   "id": "way/378900002",
+   "name": "WallraV Race Center",
+   "town": "Zielona Góra",
+   "lat": 51.93989,
+   "lon": 15.60089,
+   "type": "outdoor",
+   "websites": [
+    "https://www.wallravracecenter.com/",
+    "https://www.wallravracecenter.com/"
+   ],
+   "needs": [
+    "tracks",
+    "hours"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi Kids",
+     "engine": "Honda GX200",
+     "hp": "6.5",
+     "class": "kids"
+    },
+    {
+     "chassis": "Sodi SR5",
+     "engine": "Honda GX270",
+     "hp": "10",
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi RT10",
+     "engine": "Honda GX390",
+     "hp": "15",
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi 2Drive",
+     "engine": "Honda GX390",
+     "hp": "15",
+     "class": "twin"
+    },
+    {
+     "chassis": "Sodi SSport",
+     "engine": "SA250",
+     "hp": "28",
+     "class": "race"
+    }
+   ],
+   "last_note": "Race center with kart rental, motorcycle track days and track hire; opening hours and track length not stated."
+  },
+  {
+   "id": "node/6270147882",
+   "name": "Gokart Arena",
+   "town": "Łódź",
+   "lat": 51.78202,
+   "lon": 19.46654,
+   "type": "indoor",
+   "websites": [
+    "https://gokartarena.pl/",
+    "https://gokartarena.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": "Honda",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi LR5 Kids",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "Sodi 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": "Price list page shows several partly conflicting price tables; site describes it as indoor karting (OSM says outdoor)."
+  },
+  {
+   "id": "node/7716694252",
+   "name": "BS KARTING",
+   "town": "Radom",
+   "lat": 51.39836,
+   "lon": 21.1674,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (only a travel-directory listing of 'BS KARTING' in Radom)."
+  },
+  {
+   "id": "way/560383355",
+   "name": "Halowy Tor Kartingowy E1Gokart",
+   "town": "Kielce",
+   "lat": 50.89825,
+   "lon": 20.62062,
+   "type": "indoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No current kart operation found here: E1GOKART's site lists a single Kielce track, at Centrum Rozrywki Amfitoria, ul. Ściegiennego 511 in south Kielce, about 10 km from this mapped hall."
+  },
+  {
+   "id": "node/11107269281",
+   "name": "Tor Kartingowy M3Racing",
+   "town": "Świdnica",
+   "lat": 50.83485,
+   "lon": 16.50085,
+   "type": "indoor",
+   "websites": [
+    "https://m3racing.pl/",
+    "https://m3racing.pl/"
+   ],
+   "needs": [
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi",
+     "engine": "Honda GX270",
+     "hp": "9",
+     "class": "single-seat"
+    },
+    {
+     "chassis": null,
+     "engine": "Honda GX270",
+     "hp": "9",
+     "class": "two-seat tandem"
+    }
+   ],
+   "last_note": "Halowy tor kartingowy M3RACING, ul. Westerplatte 56, 58-100 Świdnica (operator M3 RACING Marcin Piątek). Site says indoor ('halowy'); input type was outdoor. Reservation by phone, e-mail (m3rteam@m3ra"
+  },
+  {
+   "id": "way/311074962",
+   "name": "Tor Wyrazów",
+   "town": "gmina Blachownia",
+   "lat": 50.78253,
+   "lon": 19.00123,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/1361546931",
+   "name": "Crazy Carts - Akademia Driftingu",
+   "town": "Wałbrzych",
+   "lat": 50.76665,
+   "lon": 16.26719,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/4692352892",
+   "name": "Cartway Kryty Tor Gokartowy",
+   "town": "Zamość",
+   "lat": 50.72484,
+   "lon": 23.26953,
+   "type": "indoor",
+   "websites": [
+    "https://www.cartway.pl/",
+    "https://www.cartway.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "9",
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "6",
+     "class": "kids"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": "1.5",
+     "class": "kids"
+    }
+   ],
+   "last_note": ""
+  },
+  {
+   "id": "node/5888661145",
+   "name": "Tor kartingowy DS Speed",
+   "town": "Zamość",
+   "lat": 50.71436,
+   "lon": 23.2304,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found: known domain dsspeed.pl no longer resolves and searches found only travel-directory listings."
+  },
+  {
+   "id": "node/11118813494",
+   "name": "Gokart Park",
+   "town": "Jędrzejów",
+   "lat": 50.63557,
+   "lon": 20.26371,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (only a travel-directory listing)."
+  },
+  {
+   "id": "way/1186493959",
+   "name": "Emotion Karting",
+   "town": "Bytom",
+   "lat": 50.3474,
+   "lon": 18.84788,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (only travel-directory listings)."
+  },
+  {
+   "id": "way/1186081737",
+   "name": "Tor24.pl Zabrze",
+   "town": "Zabrze",
+   "lat": 50.31842,
+   "lon": 18.75437,
+   "type": "outdoor",
+   "websites": [
+    "https://tor24.pl/",
+    "https://tor24.pl/"
+   ],
+   "needs": [
+    "prices"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Mach1",
+     "engine": "160 cm³",
+     "hp": null,
+     "class": null
+    },
+    {
+     "chassis": "Mach1",
+     "engine": "200 cm³",
+     "hp": null,
+     "class": null
+    },
+    {
+     "chassis": "Mach1",
+     "engine": "270 cm³",
+     "hp": null,
+     "class": null
+    },
+    {
+     "chassis": "Mach1",
+     "engine": "390 cm³",
+     "hp": null,
+     "class": "race"
+    }
+   ],
+   "last_note": "24 Mach1 karts in classes Mini (from 6), Junior, Profi and Racer with 160/200/270 cm³ engines, 390 cm³ only after qualification; prices only on Facebook (the cennik page links there)."
+  },
+  {
+   "id": "way/1090764881",
+   "name": "E1GOKART Chorzów",
+   "town": "Chorzów",
+   "lat": 50.31337,
+   "lon": 18.97213,
+   "type": "indoor",
+   "websites": [
+    "https://chorzow.e1gokart.pl/",
+    "https://chorzow.e1gokart.pl/"
+   ],
+   "needs": [
+    "hours"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi LR5",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "Sodi 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "twin"
+    },
+    {
+     "chassis": "Sodi KidRacer",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "last_note": "Two-level indoor track; max driver weight 120 kg."
+  },
+  {
+   "id": "way/216167772",
+   "name": "Tor Kartingowy AUTODROM (PitStop) Sosnowiec",
+   "town": "Sosnowiec",
+   "lat": 50.29508,
+   "lon": 19.11402,
+   "type": "indoor",
+   "websites": [
+    "https://gokarty.sosnowiec.pl/",
+    "https://gokarty.sosnowiec.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "13",
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": "6.5",
+     "class": "kids"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": ""
+  },
+  {
+   "id": "way/337167413",
+   "name": "ForzaKart",
+   "town": "Jaworzno",
+   "lat": 50.22094,
+   "lon": 19.24638,
+   "type": "outdoor",
+   "websites": [
+    "https://www.forzakart.pl/",
+    "https://www.forzakart.pl/"
+   ],
+   "needs": [
+    "karts",
+    "tracks"
+   ],
+   "known_fleet": [],
+   "last_note": "Minimum height 125 cm (no separate kids/adult classes stated), max weight 120 kg; under-18s need guardian consent."
+  },
+  {
+   "id": "node/11688436893",
+   "name": "WRT Karting",
+   "town": "Kraków",
+   "lat": 50.09038,
+   "lon": 20.03489,
+   "type": "outdoor",
+   "websites": [
+    "http://krakow.wrt-karting.pl/",
+    "http://krakow.wrt-karting.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi",
+     "engine": null,
+     "hp": "8",
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "last_note": "Site describes an indoor hall loop used in winter plus an outdoor section opened spring to autumn (indoor + outdoor); prices from the Nowa Huta price-list image."
+  },
+  {
+   "id": "node/12081703669",
+   "name": "Karting Arena Kraków",
+   "town": "Kraków",
+   "lat": 50.08947,
+   "lon": 19.95083,
+   "type": "outdoor",
+   "websites": [
+    "https://kartingarena.pl/",
+    "https://kartingarena.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi GT5-R",
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi LR5 Junior",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "Sodi 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": "Website brands the venue as 'ASY Arena Karting'; weekday promotions also offered."
+  },
+  {
+   "id": "node/11042993196",
+   "name": "Motodrom",
+   "town": "Kraków",
+   "lat": 50.03849,
+   "lon": 20.05732,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found: the motodromkrakow.pl domain named in an older city notice (driving-safety event at ul. Stella-Sawickiego) no longer exists; only directory listings remain."
+  },
+  {
+   "id": "node/13016721932",
+   "name": "WRT 2.0 Kapelanka",
+   "town": "Kraków",
+   "lat": 50.03231,
+   "lon": 19.92535,
+   "type": "outdoor",
+   "websites": [
+    "http://krakow.wrt-karting.pl/",
+    "http://krakow.wrt-karting.pl/"
+   ],
+   "needs": [
+    "karts",
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [],
+   "last_note": "Second WRT Kraków track (WRT 2.0 Kapelanka); the only price list on the site is labelled for WRT 1.0 Nowa Huta, so no prices are recorded for Kapelanka."
+  },
+  {
+   "id": "way/345803624",
+   "name": "Centrum Aktywnego Wypoczynku Borek",
+   "town": "Borek",
+   "lat": 50.02973,
+   "lon": 20.52318,
+   "type": "outdoor",
+   "websites": [
+    "https://www.centrumborek.pl/",
+    "https://www.centrumborek.pl/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/714617591",
+   "name": "Tor Sportowy Czyżoring",
+   "town": "Wodzisław Śląski",
+   "lat": 49.99031,
+   "lon": 18.43431,
+   "type": "outdoor",
+   "websites": [
+    "http://www.torkartingowy.wodzislaw.pl/",
+    "http://www.torkartingowy.wodzislaw.pl/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "160cc",
+     "hp": "5.5",
+     "class": "kids"
+    },
+    {
+     "chassis": null,
+     "engine": "270cc",
+     "hp": "9",
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": "420cc",
+     "hp": "15",
+     "class": "race"
+    },
+    {
+     "chassis": "DUO",
+     "engine": "160cc",
+     "hp": "5.5",
+     "class": "twin"
+    }
+   ],
+   "last_note": "Sports track also open to motorcycles and own karts (20 zł/15 min); site's opening notice ('from 12.04, Tuesday') suggests the page dates from 2022, so prices may be outdated."
+  },
+  {
+   "id": "node/12836334870",
+   "name": "Twister Mini Kart",
+   "town": "Inwałd",
+   "lat": 49.86922,
+   "lon": 19.41058,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found. Searches for 'Twister Mini Kart' Inwałd found nothing. Nearby Inwałd Park and Park Świat Marzeń sites do not mention karts or a 'Twister'. The name suggests a children's mini"
+  },
+  {
+   "id": "way/130406933",
+   "name": "ZygZak Karting",
+   "town": "Bielsko-Biała",
+   "lat": 49.82704,
+   "lon": 19.05622,
+   "type": "indoor",
+   "websites": [
+    "https://zygzak-karting.pl/",
+    "https://zygzak-karting.pl/"
+   ],
+   "needs": [
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "RIMO EVO 6",
+     "engine": "Honda 200cc",
+     "hp": "6.5",
+     "class": "standard (22 karts)"
+    },
+    {
+     "chassis": "RIMO EVO 6",
+     "engine": "Honda 270cc",
+     "hp": "9",
+     "class": "power (6 karts)"
+    },
+    {
+     "chassis": "Sodi LR5 junior",
+     "engine": null,
+     "hp": null,
+     "class": "junior (8 karts)"
+    },
+    {
+     "chassis": "RIMO Taxi",
+     "engine": null,
+     "hp": null,
+     "class": "two-seat (1 kart)"
+    }
+   ],
+   "last_note": "ul. Legionów 26-28, 43-300 Bielsko-Biała. Two-level indoor track, 500-600 m depending on configuration (site headline 600 m). Lap record 59.404 s (9 hp). Up to 15 drivers per session. Individual rides"
+  },
+  {
+   "id": "way/1232001720",
+   "name": "Kartingmania Zwardoń",
+   "town": "gmina Rajcza",
+   "lat": 49.50997,
+   "lon": 18.97566,
+   "type": "outdoor",
+   "websites": [
+    "http://kartingmania.pl/",
+    "http://kartingmania.pl/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Caroli",
+     "engine": null,
+     "hp": "9",
+     "class": "adult"
+    }
+   ],
+   "last_note": "Website's newest post is from 2020 and its HTTPS certificate has expired, so current operation and prices are unconfirmed."
+  },
+  {
+   "id": "way/526922862",
+   "name": "Pitlane Gokarty Wrocław",
+   "town": "Wrocław",
+   "lat": 51.0964161,
+   "lon": 17.034822,
+   "type": "indoor",
+   "websites": [
+    "https://www.gokartywroclaw.pl/",
+    "https://www.gokartywroclaw.pl/"
+   ],
+   "needs": [
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "RSX",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult 14+"
+    },
+    {
+     "chassis": "LRX",
+     "engine": "electric",
+     "hp": null,
+     "class": "junior 7+ (min 130 cm)"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "kids 3-6 (separate track)"
+    }
+   ],
+   "last_note": "Added by discovery D02 (2026-10-14); data from the operator site gokartywroclaw.pl."
+  },
+  {
+   "id": "way/180852476",
+   "name": "E1GOKART Lublin",
+   "town": "Lublin",
+   "lat": 51.24706,
+   "lon": 22.62624,
+   "type": "indoor",
+   "websites": [
+    "https://lublin.e1gokart.pl/",
+    "https://lublin.e1gokart.pl/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": null,
+     "hp": null,
+     "class": "senior (25 karts)"
+    },
+    {
+     "chassis": "Sodi LR5",
+     "engine": null,
+     "hp": null,
+     "class": "junior (12 karts)"
+    },
+    {
+     "chassis": "Sodi 2Drive",
+     "engine": null,
+     "hp": null,
+     "class": "double/tandem (3 karts)"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "way/212501809",
+   "name": "Racing Park Kraków (Galeria Bronowice)",
+   "town": "Kraków",
+   "lat": 50.09209,
+   "lon": 19.89828,
+   "type": "outdoor",
+   "websites": [
+    "https://racingpark.pl/krakow/",
+    "https://racingpark.pl/krakow/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi LR5",
+     "engine": null,
+     "hp": "5.5",
+     "class": "junior"
+    },
+    {
+     "chassis": "Sodi RT10",
+     "engine": null,
+     "hp": "6.5",
+     "class": "senior"
+    },
+    {
+     "chassis": "Sodi 2DRIVE",
+     "engine": null,
+     "hp": "9",
+     "class": "tandem"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "way/88386558",
+   "name": "KartCenter Gdańsk Morena (indoor)",
+   "town": "Gdańsk",
+   "lat": 54.35244,
+   "lon": 18.59296,
+   "type": "indoor",
+   "websites": [
+    "https://kartcenter.pl/nasz-tor/gdansk-morena-racing-track/",
+    "https://kartcenter.pl/nasz-tor/gdansk-morena-racing-track/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi RSX",
+     "engine": null,
+     "hp": null,
+     "class": "senior"
+    },
+    {
+     "chassis": "Sodi LRX2",
+     "engine": null,
+     "hp": null,
+     "class": "junior"
+    },
+    {
+     "chassis": "Sodi KidRacer",
+     "engine": null,
+     "hp": null,
+     "class": "kids 3+ (may ride with parent)"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "way/229326784",
+   "name": "Gokarty Daytona Tarnów",
+   "town": "Tarnów",
+   "lat": 50.00683,
+   "lon": 20.96366,
+   "type": "indoor",
+   "websites": [
+    "https://www.daytona-tarnow.eu/",
+    "https://www.daytona-tarnow.eu/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi LR5",
+     "engine": "160 ccm",
+     "hp": "4",
+     "class": "junior"
+    },
+    {
+     "chassis": "Sodi SR5",
+     "engine": "200 ccm",
+     "hp": "6.5",
+     "class": "basic"
+    },
+    {
+     "chassis": "Sodi RX8",
+     "engine": "270 ccm",
+     "hp": "9",
+     "class": "senior"
+    },
+    {
+     "chassis": "Sodi 2DRIVE",
+     "engine": "270 ccm",
+     "hp": "9",
+     "class": "tandem"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "way/227219991",
+   "name": "Autodrom Słomczyn (tor kartingowy)",
+   "town": "Słomczyn (gmina Grójec)",
+   "lat": 51.87862,
+   "lon": 20.92681,
+   "type": "outdoor",
+   "websites": [
+    "https://autodromslomczyn.pl/",
+    "https://autodromslomczyn.pl/"
+   ],
+   "needs": [
+    "prices",
+    "tracks"
+   ],
+   "known_fleet": [],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  }
+ ],
+ "leads": [
+  {
+   "name": "Wrocław Racing Center",
+   "town": "Wrocław",
+   "country": "PL",
+   "source": "previous pass (torkartingowy.eu)",
+   "why_unconfirmed": "Not re-checked this pass beyond previous SSL failure."
+  },
+  {
+   "name": "Kryty Tor Kartingowy Cartmax",
+   "town": "Lublin",
+   "country": "PL",
+   "source": "previous pass (Venuu listing)",
+   "why_unconfirmed": "No own site found; not mentioned in any list used this pass. Note: E1GOKART Lublin (Mełgiewska 34b) is a different, confirmed venue."
+  },
+  {
+   "name": "Autodrom (tor kartingowy) Tychy",
+   "town": "Tychy",
+   "country": "PL",
+   "source": "https://elektromobilni.pl/elektryczne-emocje-w-gokartowym-wydaniu/",
+   "why_unconfirmed": "Article quotes a manager of 'tyski tor Autodrom'; no own website or address found. Could be a mix-up with Autodrom Sosnowiec (on map)."
+  },
+  {
+   "name": "Tor kartingowy Będzin (first alkylate-fuel track, opened 2019)",
+   "town": "Będzin",
+   "country": "PL",
+   "source": "https://elektromobilni.pl/elektryczne-emocje-w-gokartowym-wydaniu/",
+   "why_unconfirmed": "Mentioned without name; not identified."
+  },
+  {
+   "name": "F1Karting",
+   "town": "Warszawa (Żerań, ul. Jagiellońska 82)",
+   "country": "PL",
+   "source": "auto-swiat.pl articles (search results)",
+   "why_unconfirmed": "Own site f1k.pl fails (SSL error); articles are old - probably closed or superseded by A1Karting (on map)."
+  },
+  {
+   "name": "Tor Kartingowy Koszalin",
+   "town": "Koszalin",
+   "country": "PL",
+   "source": "https://polskikarting.pl/tory/",
+   "why_unconfirmed": "Listed on polskikarting.pl track list; no own site found in one search."
+  },
+  {
+   "name": "Tor Kartingowy Poznań (Tor Poznań, Przeźmierowo)",
+   "town": "Przeźmierowo / Poznań",
+   "country": "PL",
+   "source": "https://polskikarting.pl/tory/",
+   "why_unconfirmed": "Kart circuit within Tor Poznań complex (licence/club racing); public access and own-kart sessions not verified; torpoznan.pl is now an unrelated classifieds portal."
+  }
+ ]
+}

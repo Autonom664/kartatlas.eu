@@ -2,7 +2,7 @@
 import json, re, glob, sys, os
 base = sys.argv[1]
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from price_rules import comparison_eligible
+from price_rules import comparison_eligible, normalize_offer
 BRANDS = [(r'sodi', 'Sodi'), (r'rimo', 'RiMO'), (r'\bbiz\b', 'BIZ'), (r'\bcrg\b', 'CRG'), (r'\botk\b|tony ?kart|kosmic|exprit|redspeed', 'OTK (Tony Kart group)'),
           (r'birel', 'Birel ART'), (r'praga', 'Praga'), (r'\bopc\b', 'OPC'), (r'\bdino\b', 'Dino'), (r'\bmar\b|mar karts?', 'MAR'),
           (r'kart republic|\bkr\b', 'Kart Republic'), (r'\bparolin\b', 'Parolin'), (r'\bintrepid\b', 'Intrepid'), (r'energy', 'Energy Corse'),
@@ -173,6 +173,8 @@ for t in tracks:
     P = []
     for q in (r or {}).get('prices') or []:
         if not isinstance(q, dict): continue  # malformed research entry
+        shown, shown_note = q.get('label'), q.get('note')  # visitors see the operator's own wording
+        q = normalize_offer(q)
         amt, cur = num(q.get('price')), (q.get('currency') or 'EUR').upper()
         if amt is None or amt <= 0 or cur not in rates: continue
         eur = round(amt / rates[cur], 2)
@@ -187,8 +189,8 @@ for t in tracks:
             and not re.search(r'non-member|non member|nicht.?mitglied', txt, re.I))
         ppm = round(eur / mins, 2) if mins and not extras and typ in ('session', 'per_minute') else None
         ppl = round(eur / laps, 2) if laps and not extras and typ in ('session', 'laps') else None
-        P.append([q.get('label'), q.get('class'), mins, laps, amt, cur, eur, ppm,
-                  q.get('min_age'), q.get('max_age'), q.get('min_height_cm'), typ, q.get('day'), q.get('note'), extras, ppl, member,
+        P.append([shown, q.get('class'), mins, laps, amt, cur, eur, ppm,
+                  q.get('min_age'), q.get('max_age'), q.get('min_height_cm'), typ, q.get('day'), shown_note, extras, ppl, member,
                   not comparison_eligible(q), comparison_eligible(q)])
     if P:
         t['P'] = P; t['Ps'] = r.get('price_source'); t['Pn'] = r.get('note')

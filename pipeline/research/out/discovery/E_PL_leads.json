@@ -1,0 +1,475 @@
+{
+ "countries": [
+  "PL"
+ ],
+ "new_venues": [
+  {
+   "id": null,
+   "name": "Cartmax",
+   "address": "Galeria Olimp, poziom 0 (parking), Al. Spółdzielczości Pracy 32, 20-147 Lublin",
+   "town": "Lublin",
+   "country": "PL",
+   "lat": 51.2647566,
+   "lon": 22.5706882,
+   "osm_id": null,
+   "address_osm_id": "way/173185912",
+   "website": "https://cartmax.pl/",
+   "websites": [
+    {
+     "url": "https://cartmax.pl/",
+     "role": "official",
+     "name": "Cartmax"
+    },
+    {
+     "url": "https://www.facebook.com/cartmax",
+     "role": "facebook",
+     "name": "Cartmax Facebook"
+    }
+   ],
+   "phone": "+48 511 100 610",
+   "email": "biuro@cartmax.pl",
+   "hours": "Mon-Fri 14:00-22:00; Sat-Sun 10:00-22:00",
+   "status": "open",
+   "type": "indoor",
+   "rental": "yes",
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodi SR5",
+     "engine": null,
+     "hp": 6.5,
+     "class": "adult"
+    },
+    {
+     "chassis": "Sodi LR5",
+     "engine": null,
+     "hp": 4.5,
+     "class": "kids"
+    },
+    {
+     "chassis": "Sodi (two-seater)",
+     "engine": null,
+     "hp": 9.5,
+     "class": "twin"
+    },
+    {
+     "chassis": "Kid Racer (electric)",
+     "engine": "electric",
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "ages": {
+    "kids_min_age": null,
+    "kids_min_height_cm": 130,
+    "adult_min_age": null,
+    "adult_min_height_cm": 150,
+    "twin_passenger_min_age": null
+   },
+   "ages_source": "https://cartmax.pl/nasz-tor/ (Senior from 150 cm; Junior 130-150 cm; tandem passenger from 100 cm; no ages stated)",
+   "family": [
+    "Junior karts (Sodi LR5) for drivers 130-150 cm; electric Kid Racer for the youngest (40 PLN per ride).",
+    "Birthday package Mon-Thu: 1 h exclusive track + 1.5 h VIP room, 2500 PLN, 9 karts incl. driver cards and balaclavas; birthday person gets 50% off rides on their birthday."
+   ],
+   "group": [
+    "'Znajomi Premium' 1 h exclusive track: 2200 PLN Mon-Thu / 4000 PLN Fri-Sun, 9 karts incl. cards and balaclavas, extra kart 250 PLN.",
+    "Track hire for rides: 8 min 650 PLN, 16 min 1250 PLN, exclusive track with timed qualifying, up to 8 karts (4.5 hp, 6.5 hp or tandem); cards and balaclavas extra.",
+    "Grand Prix formats per person: Mini Grand Prix 150 PLN, Grand Prix 200 PLN, Grand Prix Max 250 PLN.",
+    "Over 20 people: individual quote. Corporate events and stag parties offered; VIP room."
+   ],
+   "prices": [
+    {
+     "label": "Gokart jednoosobowy Senior - 1 przejazd",
+     "class": "adult",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 70,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 150,
+     "day": null,
+     "note": "driver card 15 PLN extra (one-off) and balaclava from 15 PLN"
+    },
+    {
+     "label": "Gokart jednoosobowy Junior - 1 przejazd",
+     "class": "kids",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 70,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": 130,
+     "day": null,
+     "note": null
+    },
+    {
+     "label": "Każdy kolejny przejazd",
+     "class": "other",
+     "type": "package",
+     "minutes": 8,
+     "laps": null,
+     "price": 65,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "follow-on ride; listed under the Junior line, unclear if it also applies to Senior"
+    },
+    {
+     "label": "Pakiet startowy - 2 przejazdy",
+     "class": "other",
+     "type": "package",
+     "minutes": 16,
+     "laps": null,
+     "price": 150,
+     "currency": "PLN",
+     "extras": "driver card and balaclava included",
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "2 x 8 min single-seat"
+    },
+    {
+     "label": "Pakiet startowy - tandem",
+     "class": "other",
+     "type": "package",
+     "minutes": null,
+     "laps": null,
+     "price": 170,
+     "currency": "PLN",
+     "extras": "driver card and balaclava included",
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "one 6.5 hp single-seat ride + one 9 hp tandem ride (8 min each)"
+    },
+    {
+     "label": "Gokart dwuosobowy (tandem) - 1 przejazd",
+     "class": "twin",
+     "type": "session",
+     "minutes": 8,
+     "laps": null,
+     "price": 80,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "first-time visitors must first complete one 8-min single-seat ride"
+    },
+    {
+     "label": "Tandem - każdy kolejny przejazd",
+     "class": "twin",
+     "type": "package",
+     "minutes": 8,
+     "laps": null,
+     "price": 75,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "follow-on ride"
+    },
+    {
+     "label": "Kid Racer (elektryczny) - 1 przejazd",
+     "class": "kids",
+     "type": "session",
+     "minutes": null,
+     "laps": null,
+     "price": 40,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "electric kids kart; duration not stated"
+    },
+    {
+     "label": "Karnet Junior 5 przejazdów",
+     "class": "kids",
+     "type": "package",
+     "minutes": 40,
+     "laps": null,
+     "price": 330,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Junior 10 przejazdów",
+     "class": "kids",
+     "type": "package",
+     "minutes": 80,
+     "laps": null,
+     "price": 630,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Junior 20 przejazdów",
+     "class": "kids",
+     "type": "package",
+     "minutes": 160,
+     "laps": null,
+     "price": 1120,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Senior 5 przejazdów",
+     "class": "adult",
+     "type": "package",
+     "minutes": 40,
+     "laps": null,
+     "price": 330,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Senior 10 przejazdów",
+     "class": "adult",
+     "type": "package",
+     "minutes": 80,
+     "laps": null,
+     "price": 630,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Senior 20 przejazdów",
+     "class": "adult",
+     "type": "package",
+     "minutes": 160,
+     "laps": null,
+     "price": 1120,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Tandem 5 przejazdów",
+     "class": "twin",
+     "type": "package",
+     "minutes": 40,
+     "laps": null,
+     "price": 380,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry"
+    },
+    {
+     "label": "Karnet Tandem 10 przejazdów",
+     "class": "twin",
+     "type": "package",
+     "minutes": 80,
+     "laps": null,
+     "price": 620,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "personal pass, no expiry; as listed (lower per-ride than 5-ride pass)"
+    }
+   ],
+   "fees": [
+    {
+     "name": "Karta kierowcy (driver card)",
+     "amount": 15,
+     "currency": "PLN",
+     "period": "one-off",
+     "mandatory": true,
+     "note": "listed as a basic item; included free in starter packages"
+    },
+    {
+     "name": "Kominiarka (balaclava)",
+     "amount": 15,
+     "currency": "PLN",
+     "period": "one-off",
+     "mandatory": null,
+     "note": "'from' price; included free in starter packages"
+    },
+    {
+     "name": "Przedłużenie vouchera (voucher extension, 1 month)",
+     "amount": 20,
+     "currency": "PLN",
+     "period": "per month",
+     "mandatory": false,
+     "note": null
+    }
+   ],
+   "membership": null,
+   "price_source": "https://cartmax.pl/cennik/",
+   "tracks": [
+    {
+     "name": "Cartmax indoor track",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental; 14 corners (8 left, 6 right), three pit lanes with lights; length not published"
+    }
+   ],
+   "layout_page": "https://cartmax.pl/nasz-tor/",
+   "sources": [
+    "https://cartmax.pl/",
+    "https://cartmax.pl/cennik/",
+    "https://cartmax.pl/nasz-tor/"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Indoor track on level 0 (car park) of Galeria Olimp, Lublin; different venue from E1GOKART Lublin (Mełgiewska 34b). Coordinates are the Olimp IV mall building at no. 32 (address object), not the track itself. Tandem power 9.5 hp per track page (cennik says 9 KM). Track length not published."
+  },
+  {
+   "id": null,
+   "name": "Tor Kartingowy Tor Poznań (Automobilklub Wielkopolski)",
+   "address": "ul. Wyścigowa 3, 62-081 Przeźmierowo",
+   "town": "Przeźmierowo",
+   "country": "PL",
+   "lat": 52.4182408,
+   "lon": 16.8069082,
+   "osm_id": null,
+   "address_osm_id": "node/6258902746",
+   "website": "https://aw.poznan.pl/sport-kartingowy",
+   "websites": [
+    {
+     "url": "https://aw.poznan.pl/sport-kartingowy",
+     "role": "official",
+     "name": "Automobilklub Wielkopolski - Sport kartingowy"
+    },
+    {
+     "url": "https://aw.poznan.pl/tor-poznan-1",
+     "role": "track",
+     "name": "Tor kartingowy - track data"
+    }
+   ],
+   "phone": "+48 667 700 882",
+   "email": "karting@aw.poznan.pl",
+   "hours": "No public sessions; club karting training days by announcement (2026: 05.06.2026 09:00-18:00)",
+   "status": "open",
+   "type": "outdoor",
+   "rental": "no",
+   "own_karts": "yes",
+   "karts": [],
+   "ages": null,
+   "ages_source": null,
+   "family": [],
+   "group": [],
+   "prices": [],
+   "fees": [],
+   "membership": "Karting licence via Automobilklub Wielkopolski / PZM (from age 8, 7 in special cases; exam with own kart)",
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Tor kartingowy Tor Poznań",
+     "length_m": 1509,
+     "width_m": 12.0,
+     "use": "race / own karts (PZM races, club training days); 21 corners, clockwise"
+    }
+   ],
+   "layout_page": "https://aw.poznan.pl/tor-poznan-1",
+   "sources": [
+    "https://aw.poznan.pl/tor-poznan-1",
+    "https://aw.poznan.pl/treningi-1",
+    "https://aw.poznan.pl/jak-zostac-zawodnikiem-1",
+    "https://aw.poznan.pl/sport-kartingowy",
+    "https://polskikarting.pl/tory/",
+    "https://www.auto-swiat.pl/wiadomosci/aktualnosci/tor-poznan-zamkniety-decyzja-gios-cios-dla-polskiego-motorsportu/7zhpl42",
+    "https://autoblog.spidersweb.pl/tor-poznan-wznawia-dzialalnosc-przelom-decyzja"
+   ],
+   "checked_at": "2026-10-15",
+   "note": "Kart circuit (opened 1980) inside the Tor Poznań complex, run by Automobilklub Wielkopolski. No rental karts found; club page tells beginners to try rental tracks elsewhere and the licence exam is with own kart; training days announced on aw.poznan.pl (no prices). polskikarting.pl lists 1495 m; club's own page says 1509 m (used). GIOŚ upheld a noise-based shutdown on 31.03.2026 but suspended its enforcement; the complex reopened 19.04.2026 pending a WSA court ruling - status may change. osm_id/coords are the whole Tor Poznań sports_centre complex (kart track's own OSM object not found; Overpass was unavailable). Phone/email are the club's karting contacts; track office +48 665 799 877, tor.poznan@aw.poznan.pl."
+  }
+ ],
+ "leads_checked": [
+  {
+   "name": "Wrocław Racing Center",
+   "result": "Not confirmed - likely closed. Only old travel-guide/city-portal mentions (ul. Buforowa 2, torkartingowy.eu, +48 662 701 300). torkartingowy.eu now redirects to a domain-for-sale page (domainname.de); no own site or Facebook found; no current activity found."
+  },
+  {
+   "name": "Kryty Tor Kartingowy Cartmax",
+   "result": "CONFIRMED and operating: own site cartmax.pl (hours, cennik, track/kart page). Indoor track in Galeria Olimp, Al. Spółdzielczości Pracy 32, Lublin. Added to new_venues."
+  },
+  {
+   "name": "Autodrom (tor kartingowy) Tychy",
+   "result": "Not confirmed. Source article (elektromobilni.pl, 9 June 2023) quotes Paweł Przybylik 'z tyskiego toru Autodrom', but no Autodrom/kart track in Tychy found in searches; no site, address or listing. Most likely a mix-up with Tor Kartingowy AUTODROM (PitStop) Sosnowiec, already on the map."
+  },
+  {
+   "name": "Tor kartingowy Będzin (first alkylate-fuel track, opened 2019)",
+   "result": "Not confirmed. Article only says the first Polish track with alkylate-fuel karts opened in Będzin in 2019, no name. No kart track in Będzin found; a rental listing places 'Autodrom Tor Kartingowy' near Będzin, i.e. probably Autodrom Sosnowiec (borders Będzin, already on map); its site does not mention alkylate fuel, so unproven."
+  },
+  {
+   "name": "F1Karting",
+   "result": "Not confirmed - closed/defunct. f1k.pl and www.f1k.pl fail (no SSL/connection) and http://f1k.pl redirects to formula1.com, i.e. the domain no longer belongs to the venue. Only ~2012-era articles (Jagiellońska 82, Żerań). Treat as closed."
+  },
+  {
+   "name": "Tor Kartingowy Koszalin",
+   "result": "Not confirmed. polskikarting.pl lists it (1050 m, no address/contacts) and states no competitions there this season or last. No own site/Facebook found. A possible match is 'Motopark Koszalin' (drift/motorsport venue with ~1 km asphalt loop; kart use mentioned only by a game-mod page) - no official source, so not added."
+  },
+  {
+   "name": "Tor Kartingowy Poznań (Tor Poznań, Przeźmierowo)",
+   "result": "CONFIRMED as own-kart/club race track: Automobilklub Wielkopolski pages (aw.poznan.pl) give kart track 1509 m x 12 m, karting training days 2026, licence exam with own kart; no rental. Complex reopened 19.04.2026 after GIOŚ suspended a noise shutdown. Added to new_venues (rental no, own_karts yes)."
+  }
+ ],
+ "checked_at": "2026-10-15"
+}

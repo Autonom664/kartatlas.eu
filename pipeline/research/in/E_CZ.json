@@ -1,0 +1,778 @@
+{
+ "venues": [
+  {
+   "id": "way/252520329",
+   "name": "motokárová dráha",
+   "town": "Rokytnice nad Jizerou",
+   "lat": 50.72942,
+   "lon": 15.47833,
+   "type": "outdoor",
+   "websites": [
+    "http://www.hotel-stary-mlyn.com/motokarova-draha/",
+    "http://www.hotel-stary-mlyn.com/motokarova-draha/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Hotel Starý mlýn kart track page returns HTTP 403 to automated requests, so content could not be verified; no other online presence found."
+  },
+  {
+   "id": "node/3222962495",
+   "name": "Motokáry Teplice (Metropole Teplice)",
+   "town": "Teplice",
+   "lat": 50.65169,
+   "lon": 13.83744,
+   "type": "outdoor",
+   "websites": [
+    "https://www.metropoleteplice.cz/motokary",
+    "https://www.metropoleteplice.cz/motokary",
+    "https://www.facebook.com/motokaryteplice"
+   ],
+   "needs": [
+    "karts",
+    "ages"
+   ],
+   "known_fleet": [],
+   "last_note": "Entertainment centre with karts, bowling and restaurant; prices only via Apex Timing booking widget, none readable on site."
+  },
+  {
+   "id": "node/6754045481",
+   "name": "Motokáry Javorník",
+   "town": "Javorník",
+   "lat": 50.42522,
+   "lon": 16.99607,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found; known link was a tourism directory (skion.cz) whose domain no longer resolves; phone from OSM."
+  },
+  {
+   "id": "way/1220362473",
+   "name": "FUN arena Cheb (Kart Arena Cheb)",
+   "town": "Odrava",
+   "lat": 50.08649,
+   "lon": 12.45141,
+   "type": "outdoor",
+   "websites": [
+    "https://www.funarenacheb.cz/",
+    "https://www.funarenacheb.cz/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "race"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": "Leisure centre with outdoor kart circuit and indoor kart hall at Odrava near Cheb."
+  },
+  {
+   "id": "way/1246288163",
+   "name": "Půjčovna motokár Autodrom Vysoké Mýto",
+   "town": "Vysoké Mýto",
+   "lat": 49.93998,
+   "lon": 16.17003,
+   "type": "outdoor",
+   "websites": [
+    "https://www.autodromvmyto.cz/autodrom/pujcovna-motokar/",
+    "https://www.autodromvmyto.cz/autodrom/pujcovna-motokar/"
+   ],
+   "needs": [
+    "karts",
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [],
+   "last_note": "Seasonal weekend kart rental at the Autodrom Vysoké Mýto (Autoklub Karosa)."
+  },
+  {
+   "id": "way/360164280",
+   "name": "Motokáry Hořovice",
+   "town": "Hořovice",
+   "lat": 49.84585,
+   "lon": 13.91157,
+   "type": "outdoor",
+   "websites": [
+    "https://motokaryhorovice.cz/",
+    "https://motokaryhorovice.cz/"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Website returns HTTP 403 to automated requests, so content could not be checked; phone from OSM; a voucher portal lists it as Motorsport Aréna Hořovice (not used)."
+  },
+  {
+   "id": "way/1389597361",
+   "name": "Motopark Ostrava",
+   "town": "Ostrava",
+   "lat": 49.8253,
+   "lon": 18.2174,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "node/6312874546",
+   "name": "E-motion Park Ostrava",
+   "town": "Ostrava",
+   "lat": 49.80044,
+   "lon": 18.22443,
+   "type": "indoor",
+   "websites": [
+    "https://e-kary.cz/",
+    "https://e-kary.cz/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": "Indoor electric kart hall; OSM tags outdoor."
+  },
+  {
+   "id": "node/12723301387",
+   "name": "KartArena Plzeň",
+   "town": "Plzeň",
+   "lat": 49.74166,
+   "lon": 13.38474,
+   "type": "outdoor",
+   "websites": [
+    "https://motokaryplzen.cz/",
+    "https://motokaryplzen.cz/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "SODI FUN",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "SODI RX7",
+     "engine": "270 cc",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "SODI RT8",
+     "engine": null,
+     "hp": null,
+     "class": "race"
+    }
+   ],
+   "last_note": "Main 2026 price list is an image on the contact page; only FAQ price recorded; RT8 for drivers under 38 s lap time."
+  },
+  {
+   "id": "way/304341132",
+   "name": "Motokáry Krmelín",
+   "town": "Krmelín",
+   "lat": 49.73373,
+   "lon": 18.24826,
+   "type": "outdoor",
+   "websites": [
+    "https://www.facebook.com/MotokaryKrmelin",
+    "https://www.facebook.com/MotokaryKrmelin"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Only a Facebook page exists; its content (hours, prices, activity) could not be read."
+  },
+  {
+   "id": "way/308784917",
+   "name": "PSKART - Půjčovna motokár Mošnov-Albrechtičky",
+   "town": "Albrechtičky",
+   "lat": 49.70943,
+   "lon": 18.11377,
+   "type": "outdoor",
+   "websites": [
+    "http://www.pskart.cz",
+    "http://www.pskart.cz"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "Honda 200",
+     "hp": "6.5",
+     "class": "other"
+    }
+   ],
+   "last_note": "Site states the track is 'over 600 m' and up to 6 karts run at once; the homepage shows older lower prices (7 min 130 CZK) than the price page; site looks dated, so current operation is unconfirmed."
+  },
+  {
+   "id": "way/293789996",
+   "name": "sportovní formule Bouzov",
+   "town": "Bouzov",
+   "lat": 49.69911,
+   "lon": 16.89055,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/550953358",
+   "name": "STEEL RING Třinec",
+   "town": "Třinec",
+   "lat": 49.69168,
+   "lon": 18.66804,
+   "type": "outdoor",
+   "websites": [
+    "https://www.steelring.cz/",
+    "https://www.steelring.cz/"
+   ],
+   "needs": [
+    "karts"
+   ],
+   "known_fleet": [],
+   "last_note": "Racing circuit with kart rental; rental ride prices are only in the online booking system, price list shows training-day and hire prices."
+  },
+  {
+   "id": "node/11181570558",
+   "name": "LAMBORGHINI KART ARENA Olomouc",
+   "town": "Olomouc",
+   "lat": 49.59741,
+   "lon": 17.25751,
+   "type": "indoor",
+   "websites": [
+    "http://www.motokary-olomouc.cz/",
+    "http://www.motokary-olomouc.cz/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "Kadet",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "Baby",
+     "engine": null,
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "last_note": "Covered two-level track on the 11th floor of a multi-storey car park; OSM tags outdoor."
+  },
+  {
+   "id": "node/12818688068",
+   "name": "Karting arena lipník",
+   "town": "Lipník nad Bečvou",
+   "lat": 49.53305,
+   "lon": 17.59276,
+   "type": "outdoor",
+   "websites": [
+    "https://www.kartingarena.cz",
+    "https://www.kartingarena.cz"
+   ],
+   "needs": [
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "Website shows only a bot-verification page, so content could not be checked; phone from OSM. Lead: motokary-olomouc.cz/lipnik lists an outdoor 350 m track at Loucska 503 (270 CZK/10 min) with differen"
+  },
+  {
+   "id": "way/119557712",
+   "name": "Motokáry",
+   "town": "Trojanovice",
+   "lat": 49.52377,
+   "lon": 18.20103,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (directory leads mention a 'Půjčovna motokár Frenštát pod Radhoštěm' just outside Frenštát, but no venue website was found)."
+  },
+  {
+   "id": "way/1305474888",
+   "name": "Starkar Motokárová dráha",
+   "town": "Jihlava",
+   "lat": 49.39321,
+   "lon": 15.60685,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found (only hotel/travel aggregator listings mention 'Starkar Motokárová dráha')."
+  },
+  {
+   "id": "way/186521896",
+   "name": "Autodrom Písek - Hradiště (AK Hradiště v AČR)",
+   "town": "Písek",
+   "lat": 49.30268,
+   "lon": 14.11442,
+   "type": "outdoor",
+   "websites": [
+    "https://www.autoklub-pisek.cz/",
+    "https://www.autoklub-pisek.cz/"
+   ],
+   "needs": [
+    "prices"
+   ],
+   "known_fleet": [],
+   "last_note": "Club kart circuit; the club states it does not operate kart rental, track days for own karts by online booking."
+  },
+  {
+   "id": "way/421326635",
+   "name": "Kart Arena Brno",
+   "town": "Brno",
+   "lat": 49.18397,
+   "lon": 16.58176,
+   "type": "indoor",
+   "websites": [
+    "https://www.motokary-brno.cz/",
+    "https://www.motokary-brno.cz/"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "OTL.it",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": "OTL.it",
+     "engine": "electric",
+     "hp": null,
+     "class": "kids"
+    },
+    {
+     "chassis": "OTL.it",
+     "engine": "electric",
+     "hp": null,
+     "class": "twin"
+    }
+   ],
+   "last_note": "Covered (indoor) electric kart track at BVV Brno; OSM tags outdoor."
+  },
+  {
+   "id": "way/630529478",
+   "name": "Motokáry",
+   "town": "Staré Město",
+   "lat": 49.07226,
+   "lon": 17.42029,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/209191545",
+   "name": "Motokáry Pánov",
+   "town": "Hodonín",
+   "lat": 48.88779,
+   "lon": 17.1442,
+   "type": "outdoor",
+   "websites": [],
+   "needs": [
+    "website",
+    "prices",
+    "karts",
+    "tracks",
+    "ages",
+    "hours",
+    "rental"
+   ],
+   "known_fleet": [],
+   "last_note": "No online presence found"
+  },
+  {
+   "id": "way/1284236708",
+   "name": "Motokáry Břeclav",
+   "town": "Břeclav",
+   "lat": 48.75429,
+   "lon": 16.86981,
+   "type": "outdoor",
+   "websites": [
+    "https://www.motokarybreclav.cz",
+    "https://www.motokarybreclav.cz"
+   ],
+   "needs": [
+    "tracks"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi RT8",
+     "engine": "Honda 270",
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": "Honda 200",
+     "hp": null,
+     "class": "kids"
+    }
+   ],
+   "last_note": ""
+  },
+  {
+   "id": "node/673590252",
+   "name": "PuJaMi - půjčovna motokár",
+   "town": "Rychnov nad Kněžnou",
+   "lat": 50.15043,
+   "lon": 16.27413,
+   "type": "outdoor",
+   "websites": [
+    "https://www.pujami.cz/",
+    "https://www.pujami.cz/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "MS Kart",
+     "engine": "Honda 200 ccm",
+     "hp": null,
+     "class": "200ccm (12 karts)"
+    },
+    {
+     "chassis": "MS Kart",
+     "engine": "Honda 390 ccm",
+     "hp": null,
+     "class": "390ccm (6 karts)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "junior/children (4 karts)"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "node/2650176849",
+   "name": "Motokár Centrum",
+   "town": "Hluboká nad Vltavou",
+   "lat": 49.03115,
+   "lon": 14.42881,
+   "type": "outdoor",
+   "websites": [
+    "https://motokarcentrum.cz/",
+    "https://motokarcentrum.cz/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "Honda 270 ccm",
+     "hp": null,
+     "class": "adult (8 karts)"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "two-seater adult+child (1 kart)"
+    },
+    {
+     "chassis": null,
+     "engine": "120-200 ccm",
+     "hp": null,
+     "class": "children (6 karts, 30-50 km/h)"
+    },
+    {
+     "chassis": null,
+     "engine": "390 ccm",
+     "hp": null,
+     "class": "experienced (2 karts; requires lap under 27.5 s on 270ccm)"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "node/1179282649",
+   "name": "Motokáry Rájec-Jestřebí",
+   "town": "Rájec-Jestřebí",
+   "lat": 49.40579,
+   "lon": 16.63209,
+   "type": "outdoor",
+   "websites": [
+    "https://www.motokaryrajec.com/",
+    "https://www.motokaryrajec.com/"
+   ],
+   "needs": [
+    "tracks",
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": "Sodi",
+     "engine": null,
+     "hp": null,
+     "class": "adult"
+    },
+    {
+     "chassis": null,
+     "engine": null,
+     "hp": null,
+     "class": "children"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "node/656347223",
+   "name": "Motokáry Motobydlo (Adrenalium Velký Dřevíč)",
+   "town": "Hronov (Velký Dřevíč)",
+   "lat": 50.4931,
+   "lon": 16.18203,
+   "type": "indoor",
+   "websites": [
+    "https://www.motokary-motobydlo.cz/",
+    "https://www.motokary-motobydlo.cz/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "200 ccm",
+     "hp": null,
+     "class": "kids (kids' circuit)"
+    },
+    {
+     "chassis": null,
+     "engine": "200 ccm",
+     "hp": null,
+     "class": "full track"
+    },
+    {
+     "chassis": null,
+     "engine": "200 ccm max power",
+     "hp": null,
+     "class": "full track, max power"
+    }
+   ],
+   "last_note": "Added by discovery D03 (2026-10-15)."
+  },
+  {
+   "id": "way/184267672",
+   "name": "Motokáry Masarykův okruh (CREDITAS Autodrom Brno)",
+   "town": "Ostrovačice / Brno",
+   "lat": 49.203128,
+   "lon": 16.44919,
+   "type": "outdoor",
+   "websites": [
+    "https://www.automotodrombrno.cz/motokary/",
+    "https://www.automotodrombrno.cz/motokary/"
+   ],
+   "needs": [
+    "ages"
+   ],
+   "known_fleet": [
+    {
+     "chassis": null,
+     "engine": "270 ccm",
+     "hp": null,
+     "class": "rental"
+    }
+   ],
+   "last_note": ""
+  }
+ ],
+ "leads": [
+  {
+   "name": "Kart Arena Litomyšl",
+   "town": "Litomyšl",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry ; https://www.slevomat.cz/podnik/83163-kart-arena-litomysl-s-r-o",
+   "why_unconfirmed": "Still listed on Firmy.cz (KART ARENA LITOMYŠL s.r.o., Moravská 1200) but no own website found; only expired vouchers. Carried over from previous pass."
+  },
+  {
+   "name": "E-KARTS Zlín",
+   "town": "Zlín",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=2",
+   "why_unconfirmed": "Directory listing only; no own website found in search."
+  },
+  {
+   "name": "Motokáry Tábor",
+   "town": "Tábor",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry",
+   "why_unconfirmed": "Directory listing (also offers services in Firmy.cz); no own website found."
+  },
+  {
+   "name": "Motokary FM",
+   "town": "Frýdek-Místek",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=4",
+   "why_unconfirmed": "Directory listing only; could be a dealer/workshop rather than a track."
+  },
+  {
+   "name": "MojeMotokáry Ostrava",
+   "town": "Ostrava-Vítkovice",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=3",
+   "why_unconfirmed": "Directory listing only; may match one of the unnamed Ostrava entries (way/1127732545, way/1389597361)."
+  },
+  {
+   "name": "Motokáry Ostrava Motopark",
+   "town": "Ostrava-Třebovice",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=4",
+   "why_unconfirmed": "Directory listing only; may match unnamed Ostrava entry way/1127732545 (49.843, 18.227)."
+  },
+  {
+   "name": "Driving Camp Autodrom Sosnová",
+   "town": "Sosnová (Česká Lípa)",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=4",
+   "why_unconfirmed": "Listed under motokáry in directory; driving-safety/circuit venue - kart rental not verified."
+  },
+  {
+   "name": "Petr Zábranský - Motokáry",
+   "town": "Vejvanov",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=3",
+   "why_unconfirmed": "Directory listing only; may be a private person/workshop."
+  },
+  {
+   "name": "SPEEDZONE - motokáry",
+   "town": "Hradec Králové",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=4",
+   "why_unconfirmed": "Directory listing only; may be the unnamed Hradec Králové entry way/1239464809 - name could be added if confirmed."
+  },
+  {
+   "name": "DOSS KART",
+   "town": "Týniště nad Orlicí",
+   "country": "CZ",
+   "source": "https://www.firmy.cz/?q=motok%C3%A1ry&page=2",
+   "why_unconfirmed": "Directory listing; probably a kart shop/team, not a track."
+  }
+ ]
+}
