@@ -91,7 +91,8 @@
   "noweb": true
  },
  "way/844535569": {
-  "name": "Kart track at Croix-en-Ternois"
+  "name": "Kart track at Croix-en-Ternois",
+  "dropurl": "circuitdecroix.com"
  },
  "way/973528117": {
   "kind": "kids"
@@ -169,10 +170,12 @@
   "kind": "kids"
  },
  "way/315475394": {
-  "dropurl": "karting-evasion.com"
+  "dropurl": "karting-evasion.com",
+  "web": "https://www.kartingrumilly.fr/"
  },
  "way/672536847": {
-  "noprice": true
+  "noprice": true,
+  "dropurl": "passionkart.fr"
  },
  "node/12886232964": {
   "noweb": true
@@ -236,5 +239,120 @@
   "noweb": true,
   "noprice": true,
   "name": "Kart track near Vias"
+ },
+ "relation/3868005": {
+  "dropurl": "pasara.at"
+ },
+ "way/55762296": {
+  "dropurl": "gokart-steyr.at"
+ },
+ "node/3703616077": {
+  "dropurl": "kartbahn-schneider.at"
+ },
+ "way/172406245": {
+  "dropurl": "actionkart.be"
+ },
+ "way/727712552": {
+  "dropurl": "seealm-ring.de"
+ },
+ "way/213207415": {
+  "dropurl": "svebollegokart.dk"
+ },
+ "way/89820377": {
+  "dropurl": "kartcompanyemsbueren.de"
+ },
+ "way/389007612": {
+  "dropurl": "kartcenter-schlotheim.de"
+ },
+ "node/60207296": {
+  "dropurl": "sportpark-umkirch.de"
+ },
+ "way/236541889": {
+  "name": "GoKartArena Neufinsing (now BattleKart München-Finsing)"
+ },
+ "way/1041609383": {
+  "dropurl": "kartbahnlohsa.wixsite.com"
+ },
+ "way/1444721703": {
+  "dropurl": "msc-osterhofen.jimdoweb.com"
+ },
+ "node/9889553396": {
+  "dropurl": "racingo.de",
+  "noprice": true
+ },
+ "way/30120851": {
+  "web": "https://www.funarena-ingolstadt.de/"
+ },
+ "way/187105722": {
+  "web": "https://www.kartbahn-straubing.de/"
+ },
+ "way/815858968": {
+  "dropurl": "brenne-decouverte.com"
+ },
+ "relation/3881729": {
+  "dropurl": "ledenon.com"
+ },
+ "way/481745432": {
+  "dropurl": "freekart88.fr"
+ },
+ "way/290679919": {
+  "dropurl": "aerodrome-eyguieres.fr"
+ },
+ "way/156358387": {
+  "dropurl": "newkartpoitiers.com"
+ },
+ "way/84129165": {
+  "closed": true
+ },
+ "way/590746258": {
+  "kind": "kids"
+ },
+ "way/787297100": {
+  "dropurl": "parc-loisir-cevennes.fr"
+ },
+ "way/183430322": {
+  "dropurl": "interracingkart.com"
+ },
+ "way/196085614": {
+  "dropurl": "distrakart.fr"
+ },
+ "way/158604014": {
+  "dropurl": "karting-montalivet.com"
+ },
+ "way/1003748937": {
+  "dropurl": "kartingdebeauvais.fr"
+ },
+ "node/12422844942": {
+  "dropurl": "k1speed.com"
+ },
+ "way/81731257": {
+  "dropurl": "k1speed.com"
+ },
+ "way/59826097": {
+  "dropurl": "pistakartingfondi.com"
+ },
+ "way/245463137": {
+  "dropurl": "kartodromofranciacorta.yolasite.com"
+ },
+ "node/4170263824": {
+  "dropurl": "kart1.it"
+ },
+ "way/452956087": {
+  "dropurl": "kartinglequerce.altervista.org"
+ },
+ "way/308086202": {
+  "dropurl": "pista2mari.com"
+ },
+ "way/474012393": {
+  "web": "https://www.kartclubulrum.nl/"
+ },
+ "way/367162773": {
+  "dropurl": "hyrgokart.nu"
+ },
+ "way/132148316": {
+  "dropurl": "hyrcart.se"
+ },
+ "way/828964156": {
+  "noprice": true
  }
 }

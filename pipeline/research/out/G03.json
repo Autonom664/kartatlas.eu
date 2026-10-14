@@ -1,0 +1,2245 @@
+[
+ {
+  "id": "way/313108048",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.indy-cart.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website shows only a notice 'Wir haben vorÃ¼bergehend geschlossen' (temporarily closed); no prices/karts/track info on site."
+ },
+ {
+  "id": "node/1649028239",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://kartbahn.com/",
+   "https://kartbahn.com/sicherheit",
+   "https://kartbahn.com/business"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/2687925947",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://www.kart-eventcenter.de/images/strecke-layout.webp",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kart-eventcenter.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/550349415",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kart-center-heiligenstadt.de/",
+   "https://www.kart-center-heiligenstadt.de/karts/",
+   "https://www.kart-center-heiligenstadt.de/monatsrennen/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/2791912346",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor",
+    "length_m": 450,
+    "width_m": null,
+    "use": "rental; approx. ('ca.')"
+   },
+   {
+    "name": "Outdoor",
+    "length_m": 250,
+    "width_m": null,
+    "use": "rental; approx. ('ca.'), weather dependent; combined In+Outdoor races offered"
+   }
+  ],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartcenter-landau.de/die-karts.html",
+   "https://www.kartcenter-landau.de/kartbahn.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/336869541",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 9,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbahn-willingen.de/",
+  "hours": "Oct 2026 schedule: Tue-Thu 14/15-21 (some Wed closed), Fri 14-21:30, Sat 10:30-21:30, Sun 12-18, Mon closed; groups by arrangement",
+  "prices": [
+   {
+    "label": "Einzelfahrt Leihkart 6,5 PS",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 9,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "Posted 2026 price list marked 'GÃ¼ltig bis 30.06.2026'; tickets valid only on day of purchase; price list marked valid until 30.06.2026",
+    "comparison_eligible": false
+   },
+   {
+    "label": "30 Minuten Rennen (Warmup+Qualifying 14 min, Rennen 16 min)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 49.1,
+    "currency": "EUR",
+    "extras": "trophies, sparkling wine, winner T-shirt, certificates",
+    "member": false,
+    "min_age": 9,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "per person, from 7 persons; list marked valid until 30.06.2026; price list marked valid until 30.06.2026",
+    "comparison_eligible": false
+   },
+   {
+    "label": "40 Minuten Rennen (Warmup+Qualifying 20 min, Rennen 20 min)",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 60.5,
+    "currency": "EUR",
+    "extras": "trophies, sparkling wine, winner T-shirt, certificates",
+    "member": false,
+    "min_age": 9,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "per person, from 7 persons; list marked valid until 30.06.2026; price list marked valid until 30.06.2026",
+    "comparison_eligible": false
+   },
+   {
+    "label": "45 Minuten Rennen (Warmup 15, Qualifying 15, Rennen 15 min)",
+    "class": "race",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 68.5,
+    "currency": "EUR",
+    "extras": "trophies, sparkling wine, winner T-shirt, certificates",
+    "member": false,
+    "min_age": 9,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "per person, from 7 persons; list marked valid until 30.06.2026; price list marked valid until 30.06.2026",
+    "comparison_eligible": false
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 3.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "mandatory when using rental helmets"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.kartbahn-willingen.de/images/Kartbahn-Einzelfahrt-Preise-2026.pdf",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-willingen.de/",
+   "https://www.kartbahn-willingen.de/images/Kartbahn-Einzelfahrt-Preise-2026.pdf",
+   "https://www.kartbahn-willingen.de/media/attachments/2026/10/07/oeffnungszeiten.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/241613190",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Kartbahn Dahlemer Binz",
+    "length_m": 1122,
+    "width_m": null,
+    "use": "rental and racing; homepage statistic 'StreckenlÃ¤nge 1122' (unit not printed)"
+   }
+  ],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-dahlemer-binz.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/446905417",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-teningen.de/leihkarts/",
+   "https://www.kartbahn-teningen.de/leihkarts/preise-leihkarts/",
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/5207433462",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://kart-stuttgart.de/wp-content/uploads/2019/10/strecke2011_weiss.png",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://kart-stuttgart.de/strecke/",
+   "https://kart-stuttgart.de/faq/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/30120851",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "200 ccm",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200 ccm",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://funarena-ingolstadt.de/freizeit-aktivitaten-ingolstadt/kartbahn",
+  "hours": null,
+  "prices": [
+   {
+    "label": "Leihkart Trainingsticket 10 Min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 17.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "9 minutes timed"
+   },
+   {
+    "label": "Leihkart 3er Ticket 3x10 Min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 49.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "3 x 10 min"
+   },
+   {
+    "label": "Rennen IMOLA 30 Minuten (10 Quali + 20 Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 55.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "per person, min. 8 participants; not on All U Can Wednesday"
+   },
+   {
+    "label": "Rennen MONACO 45 Minuten (5 WarmUp + 10 Quali + 30 Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 77.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "per person, min. 8 participants"
+   },
+   {
+    "label": "Rennen LE MANS 60 Minuten (10 WarmUp + 5 Quali + 45 Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 99.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "per person, min. 8 participants"
+   },
+   {
+    "label": "Juniorkart Ticketfahrt 10 Minuten",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 13.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": "Sat-Sun 10-15",
+    "note": "max height approx. 1.65 m"
+   },
+   {
+    "label": "Doppelsitzer Kart 10 Minuten",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Fahrerlizenz (driver licence)",
+    "amount": 3.0,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": "required for first-time drivers (insurance)"
+   },
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": null,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "mandatory with rental helmets; bring own or buy on site, price not stated"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://funarena-ingolstadt.de/freizeit-aktivitaten-ingolstadt/kartbahn",
+  "tracks": [
+   {
+    "name": "Indoor-Kartbahn",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://funarena-ingolstadt.de/freizeit-aktivitaten-ingolstadt/kartbahn",
+   "https://funarena-ingolstadt.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "https://www.kartarena-ingolstadt.de now shows a Plesk login page; http://www.kartarena-ingolstadt.de redirects to funarena-ingolstadt.de (venue now branded FunArena Ingolstadt, Manchingerstr. 128)."
+ },
+ {
+  "id": "way/303166461",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Apr-Oct: Wed-Fri 14-18 (from 11 in summer holidays), Sat-Sun 11-18, Mon-Tue closed; Mar & Nov by prior online booking only; Dec-Feb winter break; up to 22 with prior booking; closes early in bad weather",
+  "prices": [
+   {
+    "label": "15 Minuten Trainingslauf",
+    "class": "adult",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.5,
+    "currency": "EUR",
+    "extras": "rental helmet",
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "'ab' price in venue's online ticket shop (adult, kids or twin kart selectable; per-type prices only inside booking widget); kids kart from 8 y/1.35 m; twin: driver 18+, passenger 4+",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kart Rennen RP40 (10 Runden Quali + 30 Runden Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": 40,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per person, shared with other drivers, up to 15 karts"
+   },
+   {
+    "label": "Kart Rennen RP60 (10 Runden Quali + 50 Runden Rennen, exklusiv)",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": 60,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per person, exclusive track from 10 participants"
+   },
+   {
+    "label": "Team Kart Rennen TR90 (60 min Teamrennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 90,
+    "laps": null,
+    "price": 100.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per team (2-4 drivers per kart), from 16 participants"
+   },
+   {
+    "label": "Bahnmiete GP60 (4 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts; exclusive from 10 karts"
+   },
+   {
+    "label": "Bahnmiete GP120 (8 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 140.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   },
+   {
+    "label": "Bahnmiete GP180 (12 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 180,
+    "laps": null,
+    "price": 210.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 4.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "required with rental helmets"
+   },
+   {
+    "name": "RegistrierungsgebÃ¼hr (Rennlizenz)",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "one-time registration fee"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.kartbahn-mv.de/Dargelin/oeffnungszeiten.html",
+   "http://www.kartbahn-mv.de/Dargelin/media/images/dargelin-zeiten.jpg",
+   "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/93099535",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "http://kartbahn-herbertingen.de/index.php/preise/",
+  "hours": null,
+  "prices": [
+   {
+    "label": "Einzelkart 15 Minuten",
+    "class": "adult",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "walk-in tickets during opening hours"
+   },
+   {
+    "label": "Einzelkart 20 Minuten",
+    "class": "adult",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 29.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Doppelsitzerkart 15 Minuten",
+    "class": "twin",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 34.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Doppelsitzerkart 20 Minuten",
+    "class": "twin",
+    "type": "session",
+    "minutes": 20,
+    "laps": null,
+    "price": 44.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Rennpaket (5 min Warm-up, 5 min Qualifying, 18 Runden Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 18,
+    "price": 39.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per driver, from 5 drivers; +35 EUR per package on Sat, Sun, holidays and outside opening hours"
+   },
+   {
+    "label": "Rennpaket (5 min Warm-up, 5 min Qualifying, 25 Runden Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 25,
+    "price": 59.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per driver; +35 EUR per package on Sat, Sun, holidays and outside opening hours"
+   },
+   {
+    "label": "Bahnmiete 1/2 Stunde pro Kart",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 39.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart, min. 6 karts (max 8); outside business hours +60 EUR setup + 35 EUR per started 1/2 h"
+   },
+   {
+    "label": "Bahnmiete 1 Stunde pro Kart",
+    "class": "adult",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 69.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart, min. 6 karts"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "http://kartbahn-herbertingen.de/index.php/preise/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://kartbahn-herbertingen.de/index.php/preise/",
+   "http://kartbahn-herbertingen.de/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/9889553396",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: listed website is a directory page (racingo.de), not the venue's own site; no own website linked (only a Facebook page)."
+ },
+ {
+  "id": "way/1120780117",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": null,
+   "adult_min_age": 15,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://www.kartbahn-goerlitz-ring.de/preise",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-goerlitz-ring.de/preise",
+   "https://www.kartbahn-goerlitz-ring.de/unsere-leihkarts"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/254359849",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor",
+    "length_m": 350,
+    "width_m": null,
+    "use": "rental; indoor-only configuration (used when outdoor part is closed in bad weather)"
+   }
+  ],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahnjena.de/fragen-und-antworten",
+   "https://www.kartbahnjena.de/strecke"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/349532750",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.kartbahnliedolsheim.de/",
+   "https://www.kartbahnliedolsheim.de/leihkart",
+   "https://www.kartbahnliedolsheim.de/faq"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1041609383",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://kartbahnlohsa.wixsite.com/start"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: kartbahnlohsa.wixsite.com/start returns HTTP 404 (Wix site no longer exists)."
+ },
+ {
+  "id": "way/78364408",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 2.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "needed with rental helmets; own balaclava/helmet allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.kartbahn-lueneburg.de/fragen-/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-lueneburg.de/informationen/preise/",
+   "https://www.kartbahn-lueneburg.de/informationen/oeffnungszeiten/",
+   "https://www.kartbahn-lueneburg.de/fragen-/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/164688996",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Mitgliedsbeitrag Jugendliche unter 18",
+    "amount": 12.5,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": "club membership; members get track access and training"
+   },
+   {
+    "name": "Mitgliedsbeitrag Erwachsene",
+    "amount": 15.0,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Mitgliedsbeitrag Ehepaare",
+    "amount": 25.0,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Mitgliedsbeitrag Familie (2 Erwachsene + 1 Jugendlicher)",
+    "amount": 30.0,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": "as of 20.01.2026"
+   }
+  ],
+  "membership": "Club track (MSC Oberflockenbach im ADAC, Weinheim); use of the club ground and training for members. Annual fees: youth 12.50 EUR, adults 15 EUR, couples 25 EUR, family 30 EUR; plus material contribution/helper-hour rules. Kart slalom training from age 6 (48 V electric karts). No public rental prices stated.",
+  "price_source": "https://msc-oberflockenbach.de/verein/mitglied-werden",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://msc-oberflockenbach.de/",
+   "https://msc-oberflockenbach.de/kartslalom",
+   "https://msc-oberflockenbach.de/verein/mitglied-werden"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/89254346",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 270 ccm 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.motorsportarena.com/Kartbahn/Leihkart-und-eigene-Karts/Infos-und-Preise/Infos.html",
+  "hours": "Season Apr-Sep: daily 10-18 (rental and own karts) unless closed for events, check availability in advance; October on request; otherwise groups by prior arrangement",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.motorsportarena.com/Kartbahn/Leihkart-und-eigene-Karts/Infos-und-Preise/Infos.html",
+   "https://www.motorsportarena.com/Kartbahn/Informationen-/Informationen/Informationen.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/97901794",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [
+   {
+    "label": "15 Minuten Trainingslauf",
+    "class": "adult",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.5,
+    "currency": "EUR",
+    "extras": "rental helmet",
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "'ab' price in venue's online ticket shop (shown as -5% from 24.00); adult, kids or twin kart selectable, per-type prices only in booking widget; kids kart 8 y/1.35 m; twin driver 18+, passenger 4+",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kart Rennen RP40 (8 Runden Quali + 12 Runden Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": 20,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per person, shared, up to 15 karts"
+   },
+   {
+    "label": "Kart Rennen RP60 (8 Runden Quali + 20 Runden Rennen, exklusiv)",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": 28,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per person, exclusive track from 10 participants"
+   },
+   {
+    "label": "Team Kart Rennen TR90 (60 min Teamrennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 90,
+    "laps": null,
+    "price": 100.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per team (2-4 drivers per kart), from 16 participants"
+   },
+   {
+    "label": "Bahnmiete GP60 (4 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts; exclusive from 10 karts"
+   },
+   {
+    "label": "Bahnmiete GP120 (8 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 140.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   },
+   {
+    "label": "Bahnmiete GP180 (12 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 180,
+    "laps": null,
+    "price": 210.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 4.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "required with rental helmets"
+   },
+   {
+    "name": "RegistrierungsgebÃ¼hr (Rennlizenz)",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "one-time registration fee"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1",
+  "tracks": [],
+  "layout_page": "https://www.kartbahn-mv.de/neubrandenburg/media/images/nb-large.jpg",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-mv.de/neubrandenburg/die-kartbahn.html",
+   "https://kartbahn-stralsund.regiondo.de/15minuten-trainingslauf",
+   "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/128574048",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbahn-rheinfelden.de/kindergeburtstag/",
+  "hours": "Mon-Thu 15-22, Fri 15-23, Sat 13-23, Sun & holidays 10-21; school holidays (BW & CH AG/BS/BL) Mon-Fri from 14; other times by arrangement",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-rheinfelden.de/oeffnungszeiten/",
+   "https://www.kartbahn-rheinfelden.de/bahn/",
+   "https://www.kartbahn-rheinfelden.de/kindergeburtstag/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/72708524",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-schoenerlinde.de/index.html",
+   "https://www.kartbahn-schoenerlinde.de/fahrzeuge.html",
+   "https://www.kartbahn-schoenerlinde.de/documents/attachment_7_PrivatfahrerRegelnzumTicket2013.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/7961993497",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Year-round: Wed-Fri 15-21, Sat 12-21, Sun 12-20, Mon-Tue closed; school holidays mostly Tue-Fri from 12 (some holiday Mondays 12-18)",
+  "prices": [
+   {
+    "label": "15 Minuten Trainingslauf",
+    "class": "adult",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.5,
+    "currency": "EUR",
+    "extras": "rental helmet",
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "'ab' price in venue's online ticket shop; adult, kids or twin kart selectable, per-type prices only in booking widget; kids kart 8 y/1.35 m; twin driver 18+, passenger 4+",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Junior Drive - Sonntag (Kinderkart)",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 18.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": 11,
+    "min_height_cm": 135,
+    "day": "Sun",
+    "note": "'ab' price, shown as -20% from 22.50; height 1.35-1.54 m; duration not stated",
+    "comparison_eligible": false
+   },
+   {
+    "label": "LONG RUN (2 x 15 Minuten am StÃ¼ck)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 35.0,
+    "currency": "EUR",
+    "extras": "live timing analysis by e-mail",
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": "Thu",
+    "note": "'ab' price, shown as -20% from 45.00; online booking only; RiMO EVO6 LPG",
+    "comparison_eligible": false
+   },
+   {
+    "label": "A.Y.C.D. - Kart Flatrate",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 49.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri",
+    "note": "'ab' price, shown reduced from 75.00; details not read",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kart Rennen RP40 (15 Runden Quali + 65 Runden Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": 80,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per person, shared, up to 15 karts"
+   },
+   {
+    "label": "Kart Rennen RP60",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person per shop listing; exclusive race format"
+   },
+   {
+    "label": "Team Kart Rennen TR90 (10 Runden Quali je Fahrer + 60 min Teamrennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 90,
+    "laps": null,
+    "price": 100.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per team (2-4 drivers per kart), from 16 participants"
+   },
+   {
+    "label": "Bahnmiete GP60 (4 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 70.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts; exclusive from 10 karts"
+   },
+   {
+    "label": "Bahnmiete GP120 (8 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 140.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   },
+   {
+    "label": "Bahnmiete GP180 (12 x 15 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 180,
+    "laps": null,
+    "price": 210.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 155,
+    "day": null,
+    "note": "per kart, min. 7 karts"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 4.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "required with rental helmets"
+   },
+   {
+    "name": "RegistrierungsgebÃ¼hr (Rennlizenz)",
+    "amount": 2.5,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "one-time registration fee"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1",
+  "tracks": [],
+  "layout_page": "https://www.kartbahn-mv.de/stralsund/media/images/sreckehst.jpg",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-mv.de/stralsund/oeffnungszeiten.html",
+   "https://www.kartbahn-mv.de/stralsund/die-kartbahn.html",
+   "https://kartbahn-stralsund.regiondo.de/kategorien?frame=1&integrationTS=1"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12547718882",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/3761972788",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartcenter-cologne.de/angebot/tickets/",
+  "hours": "Mon, Wed, Thu 14-22; Tue closed (except NRW school holidays); Fri 13-23; Sat 11-21; Sun 10-21",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://kartcenter-cologne.de/wp-content/uploads/2025/11/Kartcenter-Cologne_racing-track-1024x472.webp",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://kartcenter-cologne.de/",
+   "https://kartcenter-cologne.de/angebot/tickets/",
+   "https://kartcenter-cologne.de/kartflotte/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/119129470",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartcity.de/",
+   "https://www.kartcity.de/faq"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/187105722",
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270 ccm",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160 ccm",
+    "hp": "5.5",
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbahn-straubing.de/regelwerk.html",
+  "hours": "Rental karts: Wed-Fri 13-20, Sun 13-20, Mon-Tue closed, Sat no rental; own race karts: mid-Jun to mid-Nov Wed-Fri 13-19, Sat 10-12 & 13-19 (mid-Mar to mid-Jun Fri 13-19, Sat 10-12 & 13-19), no racing karts Sun/holidays",
+  "prices": [
+   {
+    "label": "Sodi RT10 10 Minuten",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 15.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi RT10 30 Minuten (3 x 10 min)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 43.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gruppen ab 10 Personen: pro Kart und Stunde",
+    "class": "adult",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 65.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart per hour, groups from 10 persons"
+   },
+   {
+    "label": "Sodi LR5 Kinderkart 10 Minuten",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 12.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi LR5 Kinderkart 30 Minuten (3 x 10 min)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 33.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 3.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "mandatory with rental helmets; rules page elsewhere says 2 EUR"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartbahn-straubing.de/preise-leihkarts.html",
+  "tracks": [
+   {
+    "name": "Kartbahn Straubing",
+    "length_m": 840,
+    "width_m": 7.5,
+    "use": "rental and racing (DMSB-licensed); width 7.5-10 m"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://kartbahn-straubing.de/preise-leihkarts.html",
+   "https://kartbahn-straubing.de/rennstrecke.html",
+   "https://kartbahn-straubing.de/oeffnungszeiten.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "https://www.kartclub-straubing.de fails TLS; http:// version redirects to kartbahn-straubing.de (used)."
+ },
+ {
+  "id": "way/127169866",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "Honda GX 200",
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "http://www.kartfun-astenberg.de/firmen-gruppen/fahrzeuge/",
+  "hours": "Only Easter-holiday hours posted: Mon-Fri 11-21, Sat-Sun 11-22; regular hours not stated",
+  "prices": [
+   {
+    "label": "Erwachsene 10 Min. Ticketfahrt",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 13.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Happy Hour Wed & Sun from 17:00: 15 min for the price of 10 (not holidays/NRW school holidays)"
+   },
+   {
+    "label": "Kinder 10 Min. Ticketfahrt",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 11.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "children do not drive together with adults"
+   },
+   {
+    "label": "Doppelsitzer 10 Min. (Erwachsener vorne, Kind hinten)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Friends-Race-Cup 30 Min. (Warm-Up, Qualifying, Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, group offer"
+   },
+   {
+    "label": "45-Minuten-Rennen (Warm-Up, Qualifying, Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, from 6 persons, pre-registration required"
+   },
+   {
+    "label": "Sonntagsticket (min. 45 Min. garantierte Fahrzeit)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sun from 19:00",
+    "note": "adults only, registration required; not on holidays/NRW school holidays"
+   },
+   {
+    "label": "Montagsticket (min. 100 Min. garantierte Fahrzeit)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 65.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon from 16:00",
+    "note": "adults only, registration required; not on holidays/NRW school holidays"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 3.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "required under rental helmets; own helmet/balaclava allowed"
+   },
+   {
+    "name": "Kartfun-Stammkundenkarte",
+    "amount": 1.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": false,
+    "note": "regular-customer card: name on monitor, race eligibility, online account"
+   }
+  ],
+  "membership": "Kartfun-Stammkundenkarte for 1.00 EUR one-off (name on monitor, access to regular race events, online race database account).",
+  "price_source": "http://www.kartfun-astenberg.de/kartbahn/preisliste/",
+  "tracks": [
+   {
+    "name": "Kartfun Neuastenberg",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental (indoor, 5000 m2 hall)"
+   }
+  ],
+  "layout_page": "http://www.kartfun-astenberg.de/fileadmin/_processed_/csm_Strecke_Transparent_3d_bf2b202f95.png",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.kartfun-astenberg.de/kartbahn/preisliste/",
+   "http://www.kartfun-astenberg.de/kartbahn/",
+   "http://www.kartfun-astenberg.de/firmen-gruppen/fahrzeuge/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/43869473",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.karthalle-coswig.de/",
+   "https://www.karthalle-coswig.de/unsere-karts/",
+   "https://www.karthalle-coswig.de/fahrertipps/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/589950988",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://kac.kartland-sinn.de/",
+   "http://kac.kartland-sinn.de/mitgliedwerden.htm",
+   "http://kac.kartland-sinn.de/training.htm"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "kartland-sinn.de (and www.) redirects to kac.kartland-sinn.de, an outdated Kart-Aktiv-Club page (latest dates 2013/2014); no current venue site. It mentions 6.5 PS and 9 PS rental karts (9 PS needs Kartland licence), 10-min ticket 11 EUR (7 EUR for club members), club fee 40 EUR/quarter - prices not recorded because they are ~10+ years old. Venue status unverified."
+ },
+ {
+  "id": "node/13110958672",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartraceland.de/jugendkarttraining/",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://kartraceland.de/kartbahn/",
+   "https://kartraceland.de/jugendkarttraining/",
+   "https://kartraceland.de/ticketfahrer/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/883027662",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.limpark.de/kart/",
+  "hours": null,
+  "prices": [
+   {
+    "label": "10 Minuten Kart Session (Einzel- oder Doppelsitzer)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "twin kart: driver from 18"
+   },
+   {
+    "label": "All You Can Drive Flatrate (mind. 4 x 10 Min.)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 57.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed & Sun 18-22, special dates",
+    "note": "drive as much as operations allow, at least 4 x 10 min"
+   },
+   {
+    "label": "3fÃ¼r2 Kart Deal (3 x 10 Min.)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 37.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Thu & special dates",
+    "note": null
+   },
+   {
+    "label": "Kart Rennen (Qualifying + Rennen)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 55.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, 1-18 persons"
+   },
+   {
+    "label": "Kart Exklusivrennen (eigene Bahn)",
+    "class": "race",
+    "type": "package",
+    "minutes": 45,
+    "laps": null,
+    "price": 55.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, 11-18 persons, 30-45 minutes"
+   },
+   {
+    "label": "Teamrennen (2er/3er-Teams, 2 Std. Block, bis 100 Min. Fahrzeit)",
+    "class": "race",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 137.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per kart"
+   },
+   {
+    "label": "Kinderkart Session 1 x 15 Min.",
+    "class": "kids",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 16.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": 13,
+    "min_height_cm": 135,
+    "day": "every 2nd Thu, Sun, special dates",
+    "note": "requires LIMPARK Kinderkart licence"
+   },
+   {
+    "label": "Kinderkart Lizenz Basis Kurs (2,5 Std.)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 150,
+    "laps": null,
+    "price": 67.0,
+    "currency": "EUR",
+    "extras": "licence",
+    "member": false,
+    "min_age": 8,
+    "max_age": 13,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "one-time course required for kids sessions"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava, disposable)",
+    "amount": 3.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": false,
+    "note": "rental helmets included; balaclava buy or bring own"
+   },
+   {
+    "name": "Kinderkart-Lizenz (Basis Kurs)",
+    "amount": 67.0,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "required for kids aged 8-13 to join kids sessions"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.limpark.de/kart/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.limpark.de/kart/",
+   "https://www.limpark.de/kinder-kart/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1444721703",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://msc-osterhofen.jimdoweb.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: Jimdo returns HTTP 403 'This website is not available right now'."
+ },
+ {
+  "id": "way/1039053796",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.motodrom-schwerin.de"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: site behind a bot-protection challenge ('Just a moment...', HTTP 403) for automated fetches."
+ },
+ {
+  "id": "way/510877435",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.kartbahn-bueren.de",
+   "http://www.kartbahnbueren.com/offline/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website offline: kartbahn-bueren.de redirects to kartbahnbueren.com/offline/ showing only 'Wir arbeiten gerade an unserer Website ... BALD VERFÃœGBAR' (Motor Sport Weis, Westring 27, BÃ¼ren); no facts available."
+ },
+ {
+  "id": "way/89322197",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Motodrom Rathenow",
+    "length_m": 680,
+    "width_m": null,
+    "use": "club racing (kart circuit races, kart slalom, supermoto); homepage counter 'Kartbahn lÃ¤nge 680' (unit not printed)"
+   }
+  ],
+  "layout_page": "https://mcrathenow.de/wp-content/uploads/2024/11/GrundrissX.webp",
+  "rental": "no",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://mcrathenow.de/",
+   "https://mcrathenow.de/motorsport"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ }
+]

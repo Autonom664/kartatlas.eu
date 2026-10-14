@@ -1,0 +1,1486 @@
+[
+ {
+  "id": "node/12805789828",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [
+   {
+    "label": "10 Minuten GoKart Action",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "25 Minuten GoKart Action",
+    "class": "adult",
+    "type": "session",
+    "minutes": 25,
+    "laps": null,
+    "price": 37,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "40 Minuten GoKart Rennen",
+    "class": "race",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 57,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 10 persons; 10 min qualifying + 30 min race"
+   },
+   {
+    "label": "60 Minuten GoKart Rennen",
+    "class": "race",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 72,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 10 persons; 15 min qualifying + 45 min race"
+   },
+   {
+    "label": "10 Minuten exklusive GoKart Action",
+    "class": "other",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 260,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "exclusive track reservation, total price"
+   },
+   {
+    "label": "60 Minuten exklusive GoKart Action",
+    "class": "other",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 936,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "exclusive track reservation, total price; also 25/40/90/120 min at 481/741/1417/1872"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Leihhelm inkl. Sturmhaube",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": null,
+    "note": "rental helmet incl. balaclava"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.b1.at/preisrechner/",
+  "tracks": [],
+  "layout_page": "https://www.b1.at/wp-content/uploads/2026/04/gokart_strecke.pdf",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+   "https://www.b1.at/preisrechner/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/6968981892",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website https://www.chargersracing.at/ refused/timed out on both https and http (2026-10-14)"
+ },
+ {
+  "id": "way/472368623",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.daytona.at/strecke-inkl.-video,20,de.html",
+   "https://www.daytona.at/karts-und-strecke,4,de.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/11726784673",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.freizeitarena.tirol/gokart-racing/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1147658133",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.freizeitpark-stubenbergsee.at/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "relation/3868005",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: https://www.pasara.at/ shows only a default Apache/CentOS test page (HTTP 403), no venue content"
+ },
+ {
+  "id": "way/55762296",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Website gokart-steyr.at shows only a hosttech default/parked hosting page (no venue content)"
+ },
+ {
+  "id": "way/725892580",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-blindenmarkt.at/",
+   "https://www.kartbahn-blindenmarkt.at/preise/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/3703616077",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: domain kartbahn-schneider.at does not resolve (DNS ENOTFOUND, with and without www) - website dead"
+ },
+ {
+  "id": "node/1344908573",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [
+   {
+    "label": "Jugendliche 12-14 Jahre Einzelfahrt",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 12,
+    "max_age": 14,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "10 min incl. getting in/out and in/out laps; actual driving min. 8 min; ID required"
+   },
+   {
+    "label": "Erwachsene Einzelfahrt",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 min incl. getting in/out and in/out laps; actual driving min. 8 min"
+   },
+   {
+    "label": "Erwachsene Zehnerblock",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 160,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "block of 10 sessions; 2 extra sessions free when buying"
+   },
+   {
+    "label": "Kinder 8-11 Jahre Einzelfahrt",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": 11,
+    "min_height_cm": 130,
+    "day": "Tue 16-17, Wed 17-18 (not holidays), pre-booking required",
+    "note": null
+   },
+   {
+    "label": "25 Minuten Rennen",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 27,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per participant; 5 min qualifying + 25 min race; 10-12 participants"
+   },
+   {
+    "label": "Bahnmiete 30 Minuten",
+    "class": "other",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 270,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "track rental, group with 10 karts, total price; 40 min 360 EUR, 60 min 520 EUR; +10% of group price per extra kart up to 12"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.kartbahn-treff.com/?o=pricing",
+  "tracks": [],
+  "layout_page": "https://www.kartbahn-treff.com/data/images/track/track.jpg",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahn-treff.com/",
+   "https://www.kartbahn-treff.com/?o=pricing"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/8375040368",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://karthalle.at/streckenplan/",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.karthalle.at/",
+   "https://karthalle.at/streckenplan/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/137166744",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.indoorkart.at/",
+   "https://www.indoorkart.at/wolfsberg",
+   "https://www.indoorkart.at/spielberg"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/45494972",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartworld.at/",
+   "https://www.kartworld.at/preise/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/194361134",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452",
+   "https://www.oeamtc.at/fahrtechnik/trendsport/kart-experience-11005996"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/9602638604",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.rw-m.at/",
+   "https://rw-m.at/kart-fahren/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Site says the St. Poelten (indoor e-kart) track's opening is delayed ('Eroeffnung verzoegert', 'Oeffnungszeiten folgen'); not yet operating. Prices/hours/980 m track on the site belong to the operator's other venue, Kartbahn Stetteldorf."
+ },
+ {
+  "id": "way/868068820",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Track & Tunnel (two-level e-kart track)",
+    "length_m": 400,
+    "width_m": 8,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.rotaxmaxdome.com/linz/",
+   "https://www.rotaxmaxdome.com/linz/racing/track-tunnel"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/172406245",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: actionkart.be redirects to a domain-for-sale page (domeinwebshop.nl); https fails with TLS error"
+ },
+ {
+  "id": "way/1238425770",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/en/tour-taxis"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1345697611",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/en/genk"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12825338681",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/en/gent"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/13318880999",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/wex"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12676251167",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/en/mouscron"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/105251328",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.brusselskart.be/",
+   "https://www.brusselskart.be/karting",
+   "https://www.brusselskart.be/grandprix"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/46766217",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://burneys.be/",
+   "https://burneys.be/activiteit/karting/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/23031475",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Adults: Mon-Fri 18-23, Sat 13-23, Sun 13-22; juniors: Sat 13-14:15, Sun 13-15",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.cargo-karting.be/content/karting/contact.php",
+   "https://www.cargo-karting.be/content/karting/karten.php",
+   "https://www.cargo-karting.be/content/karting/juniors.php"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/131579725",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.bowlingdekegel.be/",
+   "https://www.bowlingdekegel.be/karting/informatie"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/264828644",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://fastlanebilzen.be/",
+   "https://fastlanebilzen.be/karting-bilzen/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/895692304",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.imagipark.be/services/karting/",
+   "https://www.imagipark.be/services/kart/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12752115882",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://indoorkartinglommel.be/",
+   "https://indoorkartinglommel.be/karts-circuit/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Homepage counter shows 500 m, but the site also says a new circuit was just built; length not adopted until confirmed."
+ },
+ {
+  "id": "node/9364985457",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://jmkarting.com/liege/materiel-infrastructures/",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://jmkarting.com/liege/",
+   "https://jmkarting.com/liege/materiel-infrastructures/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/34403881",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.francorchamps-karting.be/",
+   "https://www.francorchamps-karting.be/contact.html",
+   "https://www.francorchamps-karting.be/session-avec-nos-karts.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/112038987",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://thedistrict.be/",
+   "https://thedistrict.be/districts/karting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/472960694",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://poperinge.worldkarts.com/web/image/541-07c3bcc2/parcoursPop%20doublelines.svg",
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://poperinge.worldkarts.com/home",
+   "https://poperinge.worldkarts.com/en/over-worldkarts"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null,
+  "layout_diagram": {
+   "points": [
+    [
+     74.3,
+     108.1
+    ],
+    [
+     83.8,
+     106.2
+    ],
+    [
+     92.8,
+     102.6
+    ],
+    [
+     101.9,
+     98.9
+    ],
+    [
+     110.2,
+     94.1
+    ],
+    [
+     115.3,
+     85.9
+    ],
+    [
+     116.1,
+     76.2
+    ],
+    [
+     116.1,
+     66.5
+    ],
+    [
+     115.9,
+     56.8
+    ],
+    [
+     108.7,
+     51.6
+    ],
+    [
+     99,
+     51.6
+    ],
+    [
+     91.6,
+     56.7
+    ],
+    [
+     95,
+     65.2
+    ],
+    [
+     103.3,
+     70.2
+    ],
+    [
+     107.1,
+     78.9
+    ],
+    [
+     105.5,
+     88.4
+    ],
+    [
+     97.3,
+     91.5
+    ],
+    [
+     93.4,
+     83.2
+    ],
+    [
+     90.1,
+     74.3
+    ],
+    [
+     81.7,
+     69.6
+    ],
+    [
+     72.5,
+     71
+    ],
+    [
+     71.2,
+     80
+    ],
+    [
+     79.4,
+     85
+    ],
+    [
+     82,
+     93.9
+    ],
+    [
+     75.8,
+     100.2
+    ],
+    [
+     66,
+     100.4
+    ],
+    [
+     56.3,
+     100.4
+    ],
+    [
+     46.6,
+     100.4
+    ],
+    [
+     40.4,
+     94.2
+    ],
+    [
+     40.3,
+     84.5
+    ],
+    [
+     40.1,
+     74.8
+    ],
+    [
+     33.9,
+     67.8
+    ],
+    [
+     29.6,
+     59.6
+    ],
+    [
+     35.4,
+     52.8
+    ],
+    [
+     45,
+     51
+    ],
+    [
+     52.2,
+     55.6
+    ],
+    [
+     49,
+     64.7
+    ],
+    [
+     49.9,
+     74.2
+    ],
+    [
+     51.4,
+     83.8
+    ],
+    [
+     55.4,
+     91.7
+    ],
+    [
+     61.4,
+     86
+    ],
+    [
+     61.6,
+     76.3
+    ],
+    [
+     63.7,
+     66.9
+    ],
+    [
+     69.3,
+     58.9
+    ],
+    [
+     76.8,
+     52.7
+    ],
+    [
+     84.9,
+     47.4
+    ],
+    [
+     92.6,
+     41.5
+    ],
+    [
+     101,
+     36.6
+    ],
+    [
+     110.5,
+     35
+    ],
+    [
+     108.9,
+     27.5
+    ],
+    [
+     99.2,
+     26.3
+    ],
+    [
+     90,
+     23.3
+    ],
+    [
+     80.6,
+     20.6
+    ],
+    [
+     71.1,
+     21.8
+    ],
+    [
+     62.2,
+     25.8
+    ],
+    [
+     52.8,
+     25.7
+    ],
+    [
+     49.5,
+     17.3
+    ],
+    [
+     56.5,
+     11.4
+    ],
+    [
+     66.2,
+     10.8
+    ],
+    [
+     75.9,
+     11.5
+    ],
+    [
+     85.4,
+     13.5
+    ],
+    [
+     94.4,
+     17.2
+    ],
+    [
+     103.8,
+     19.2
+    ],
+    [
+     110.7,
+     13.1
+    ],
+    [
+     106.9,
+     4.9
+    ],
+    [
+     97.4,
+     3.5
+    ],
+    [
+     87.6,
+     3.5
+    ],
+    [
+     77.9,
+     3.5
+    ],
+    [
+     68.1,
+     3.5
+    ],
+    [
+     58.4,
+     3.5
+    ],
+    [
+     48.9,
+     5.1
+    ],
+    [
+     41.6,
+     11.3
+    ],
+    [
+     39.7,
+     20.7
+    ],
+    [
+     42.8,
+     29.8
+    ],
+    [
+     50.7,
+     35.1
+    ],
+    [
+     60.3,
+     35.1
+    ],
+    [
+     69.4,
+     31.5
+    ],
+    [
+     78.3,
+     27.9
+    ],
+    [
+     83.9,
+     34.5
+    ],
+    [
+     78.7,
+     42.4
+    ],
+    [
+     69.1,
+     43.5
+    ],
+    [
+     59.4,
+     43.5
+    ],
+    [
+     49.6,
+     43.5
+    ],
+    [
+     39.9,
+     43.5
+    ],
+    [
+     31.1,
+     40.3
+    ],
+    [
+     28.4,
+     31.1
+    ],
+    [
+     23.8,
+     22.6
+    ],
+    [
+     15,
+     18.8
+    ],
+    [
+     5.4,
+     19.9
+    ],
+    [
+     2,
+     27.8
+    ],
+    [
+     9.1,
+     34.2
+    ],
+    [
+     17.3,
+     39.3
+    ],
+    [
+     17.1,
+     48.5
+    ],
+    [
+     9.2,
+     53.9
+    ],
+    [
+     3.4,
+     61.4
+    ],
+    [
+     2.9,
+     71.1
+    ],
+    [
+     2.9,
+     80.8
+    ],
+    [
+     2.9,
+     90.6
+    ],
+    [
+     6.6,
+     99.1
+    ],
+    [
+     16,
+     99.2
+    ],
+    [
+     20,
+     90.7
+    ],
+    [
+     20.2,
+     80.9
+    ],
+    [
+     25.7,
+     74.1
+    ],
+    [
+     31.2,
+     80.9
+    ],
+    [
+     31.3,
+     90.6
+    ],
+    [
+     31.3,
+     100.4
+    ],
+    [
+     35.3,
+     107.7
+    ],
+    [
+     45.1,
+     107.8
+    ],
+    [
+     54.8,
+     107.9
+    ],
+    [
+     64.6,
+     108
+    ]
+   ],
+   "closed": true,
+   "source": "https://poperinge.worldkarts.com/web/image/541-07c3bcc2/parcoursPop%20doublelines.svg",
+   "note": "Centre line sampled from the track outline SVG on poperinge.worldkarts.com (2026-10-14)."
+  }
+ },
+ {
+  "id": "node/3724910749",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://sint-niklaas.worldkarts.com/en"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/182395864",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Yeti Member Card (digital, mandatory for every driver)",
+    "amount": 3.5,
+    "currency": "EUR",
+    "period": "first year",
+    "mandatory": true,
+    "note": "renewal 2.50 EUR per year"
+   },
+   {
+    "name": "Balaclava (helmmuts)",
+    "amount": 4,
+    "currency": "EUR",
+    "period": "one-off",
+    "mandatory": true,
+    "note": "mandatory when using a rental helmet"
+   }
+  ],
+  "membership": "Digital Yeti Member Card mandatory for every driver: 3.50 EUR first year, then 2.50 EUR per year",
+  "price_source": "https://yeti-eeklo.be/karting/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://yeti-eeklo.be/karting/",
+   "https://yeti-eeklo.be/contact/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/9350684614",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbasel.ch/",
+   "https://kartbasel.ch/angebot"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/163933505",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartbahnwohlen.ch/",
+   "https://www.kartbahnwohlen.ch/infos/",
+   "https://www.kartbahnwohlen.ch/renn-kart/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ }
+]

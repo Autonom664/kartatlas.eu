@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "way/138621802",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "Honda 270cc",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Superdoppelkart",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 3
+  },
+  "ages_source": "https://www.outdoorkartbahn.com/",
+  "hours": "Tue-Fri 12-20, Sat-Sun 10-20; Mon closed",
+  "prices": [
+   {
+    "label": "Schnupperticket, 10 Runden",
+    "class": "adult",
+    "type": "laps",
+    "minutes": null,
+    "laps": 10,
+    "price": 13,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "once per person"
+   },
+   {
+    "label": "Jugend- und Erwachsenenkart, 25 Runden",
+    "class": "adult",
+    "type": "laps",
+    "minutes": null,
+    "laps": 25,
+    "price": 29,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Jugend- und Erwachsenenkart, 40 Runden",
+    "class": "adult",
+    "type": "laps",
+    "minutes": null,
+    "laps": 40,
+    "price": 40,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kinderkart, 20 Runden",
+    "class": "kids",
+    "type": "laps",
+    "minutes": null,
+    "laps": 20,
+    "price": 24,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Superdoppelkart, 20 Runden",
+    "class": "twin",
+    "type": "laps",
+    "minutes": null,
+    "laps": 20,
+    "price": 29,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 3,
+    "max_age": 12,
+    "min_height_cm": null,
+    "day": null,
+    "note": "child 3-12 with accompanying adult"
+   },
+   {
+    "label": "A1 - Gruppenrennen, 10 + 30 Runden",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 40,
+    "price": 45,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 8 persons; 100 EUR deposit"
+   },
+   {
+    "label": "A2 - Doppelrennen, 10 + 2 x 25 Runden",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 60,
+    "price": 60,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 10 persons, from 19:00; 100 EUR deposit"
+   },
+   {
+    "label": "Flutlichtrennen, 10 + 30 Runden",
+    "class": "race",
+    "type": "package",
+    "minutes": null,
+    "laps": 40,
+    "price": 50,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 10 persons; 100 EUR deposit"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Tageskarte eigenes Kart (incl. paddock)",
+    "amount": 35,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": false,
+    "note": "own karts"
+   },
+   {
+    "name": "Box mit Jahreskarte",
+    "amount": 1000,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": false,
+    "note": "own karts; children and youth only"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.outdoorkartbahn.com/",
+  "tracks": [
+   {
+    "name": "Outdoorkartbahn",
+    "length_m": 520,
+    "width_m": null,
+    "use": "rental and own karts"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.outdoorkartbahn.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/2501649295",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kart-o-mania.de/pages/areas.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/59513188",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.gokart-online.de/rs-speedworld/strecke.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/388393542",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "race"
+   },
+   {
+    "chassis": "RiMO Alpha",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda GX390",
+    "hp": "16",
+    "class": "race"
+   },
+   {
+    "chassis": "Kidkart",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Doppelsitzer",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "http://raceland-karting.de/kkf.html",
+  "hours": "Mon-Thu 16-22, Fri 16-24, Sat 13-24, Sun 10-23; holidays from 14",
+  "prices": [
+   {
+    "label": "Trainingsfahrt 5,5 PS",
+    "class": "adult",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 10.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Trainingsfahrt 6,5 PS",
+    "class": "race",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 11.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "only with the corresponding in-house licence"
+   },
+   {
+    "label": "Trainingsfahrt 9 PS",
+    "class": "race",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 13.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "only with the corresponding in-house licence"
+   },
+   {
+    "label": "Trainingsfahrt 16 PS",
+    "class": "race",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 25.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "only with the corresponding in-house licence"
+   },
+   {
+    "label": "Trainingsfahrt Doppelsitzer",
+    "class": "twin",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 12.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "6er Karte fuer 5,5 PS",
+    "class": "adult",
+    "type": "package",
+    "minutes": 42,
+    "laps": null,
+    "price": 60.0,
+    "currency": "EUR",
+    "extras": "6 x 7 min",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "5er Karte fuer 6,5 PS (nicht uebertragbar)",
+    "class": "race",
+    "type": "package",
+    "minutes": 35,
+    "laps": null,
+    "price": 52.5,
+    "currency": "EUR",
+    "extras": "5 x 7 min",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "licence required"
+   },
+   {
+    "label": "5er Karte fuer 9 PS (nicht uebertragbar)",
+    "class": "race",
+    "type": "package",
+    "minutes": 35,
+    "laps": null,
+    "price": 62.5,
+    "currency": "EUR",
+    "extras": "5 x 7 min",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "licence required"
+   },
+   {
+    "label": "Familienkarte 6er fuer 5,5 PS",
+    "class": "adult",
+    "type": "package",
+    "minutes": 42,
+    "laps": null,
+    "price": 50.0,
+    "currency": "EUR",
+    "extras": "6 x 7 min",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 2 kids under 12"
+   },
+   {
+    "label": "30 Minuten Rennen 5,5 PS",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 35.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 6 persons"
+   },
+   {
+    "label": "30 Minuten Rennen 6,5 PS",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 40.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 5 persons"
+   },
+   {
+    "label": "30 Minuten Rennen 9 PS",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 45.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 4 persons"
+   },
+   {
+    "label": "Happy-Hour Fahrt 5,5 PS",
+    "class": "adult",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 8.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri 16-18 except holidays",
+    "note": null
+   },
+   {
+    "label": "1 Std. Eventbuchung (inkl. 8 Karts 5,5 PS)",
+    "class": "other",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 545.0,
+    "currency": "EUR",
+    "extras": "8 karts",
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price per booking, not per person"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Kinderkartfuehrerschein",
+    "amount": 35.0,
+    "currency": "EUR",
+    "period": "once",
+    "mandatory": true,
+    "note": "mandatory for children 6-11"
+   },
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": null,
+    "currency": "EUR",
+    "period": "once",
+    "mandatory": true,
+    "note": "rental helmets only with balaclava, sold in club cafe; price not stated"
+   }
+  ],
+  "membership": null,
+  "price_source": "http://raceland-karting.de/preise.html",
+  "tracks": [
+   {
+    "name": "Raceland indoor",
+    "length_m": 500,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "http://raceland-karting.de/strecke.html",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://raceland-karting.de/preise.html",
+   "http://raceland-karting.de/karts.html",
+   "http://raceland-karting.de/strecke.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/856436751",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Calendar-based (2026): typically Tue-Fri 15-21, Sat-Sun & holidays 10-21, most Mondays closed; school holidays 12-21 daily. Indoor all year, outdoor track 28 Mar-1 Nov",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://rs-kartcenter.de/kart-fahren/preise-oeffnungszeiten/",
+   "https://rs-kartcenter.de/files/dokumente/oeffnungszeiten2026_kartbahn.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/219979201",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://mc-touring-strasburg.com/",
+   "https://mc-touring-strasburg.com/rennbahn/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/87497403",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "Doppelsitzer",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 5,
+   "kids_min_height_cm": 115,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 170,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://sk-raceworld.de/packages/",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "no",
+  "status": null,
+  "sources": [
+   "https://sk-raceworld.de/packages/",
+   "https://sk-raceworld.de/regeln",
+   "https://sk-raceworld.de/standort-wildeshausen/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/165403103",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Tagesticket Rennkart (own kart) ab 10:00",
+    "amount": 35,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": false,
+    "note": "own karts; from 13:00 30 EUR; MSC members 5 EUR off"
+   },
+   {
+    "name": "Tagesticket Bambini / Honda bis 200 ccm (own kart) ab 10:00",
+    "amount": 30,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": false,
+    "note": "from 13:00 25 EUR; MSC members 5 EUR off"
+   },
+   {
+    "name": "Jeder weitere Fahrer auf einem Kart",
+    "amount": 10,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "MSC Uchtelfangen members get 5 EUR off day tickets",
+  "price_source": "https://www.saarlandring.de/?Rennkarts___Preise",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.saarlandring.de/",
+   "https://www.saarlandring.de/?Rennkarts___Preise",
+   "https://www.saarlandring.de/?Rennkarts___Bahnordnung"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/9594078422",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 6",
+    "engine": "200cc LPG",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO MiNi",
+    "engine": "160cc LPG",
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO TWiN",
+    "engine": "390cc",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indoor-Strecke (2.5 levels)",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://saus-braus.de/kartflotte/",
+   "https://saus-braus.de/streckenlayout/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/74481523",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Strecke 1",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Strecke 2",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Superbahn 1",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Superbahn 2",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://saxfreizeitcenter.de/kartbahn/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1220208796",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.saxoniaring-freiberg.de/preise/",
+   "https://www.saxoniaring-freiberg.de/bahnordnung/",
+   "https://www.saxoniaring-freiberg.de/downloads/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/727712552",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: domain seealm-ring.de does not resolve (DNS not found)"
+ },
+ {
+  "id": "node/997947153",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.sportkart-muenster.de"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1443336719",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.spreeflitzer.de/",
+   "https://www.spreeflitzer.de/standort.html",
+   "https://www.spreeflitzer.de/bahnordnung.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/1844036287",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/89820377",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Website parked: kartcompanyemsbueren.de shows a one.com \"Hosted by one.com\" placeholder (/de/ returns 404); no venue content"
+ },
+ {
+  "id": "way/392128609",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: msc-wittgenborn.de is in maintenance mode (\"Diese Seite ist bis auf Weiteres offline\"), no content"
+ },
+ {
+  "id": "way/537479732",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Tageskarte Kart (own kart)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": false,
+    "note": "own karts; cash only"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://msc-walldorf-astoria.de/preise",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://msc-walldorf-astoria.de/",
+   "https://msc-walldorf-astoria.de/preise",
+   "https://msc-walldorf-astoria.de/bahnordnung"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/3761972821",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/8124949048",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Indendørs gokartbane",
+    "length_m": 420,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://ballerupeventcenter.dk/gokart/",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://ballerupeventcenter.dk/",
+   "https://ballerupeventcenter.dk/gokart/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null,
+  "type": "indoor"
+ },
+ {
+  "id": "way/318606996",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Club training: Tue 17-20, Wed 17-20 (youth only), Thu 17-20, Sat 10-17",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Aarskort traening Senior (from the year turning 16)",
+    "amount": 1800,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "double price if SAK is not home club"
+   },
+   {
+    "name": "Aarskort traening Junior (up to the year turning 15)",
+    "amount": 1500,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "double price if SAK is not home club"
+   },
+   {
+    "name": "Aarskort traening Miniput (age 5-8)",
+    "amount": 750,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "double price if SAK is not home club"
+   },
+   {
+    "name": "Proevemedlemskab (3 months, allows basic/karting licence)",
+    "amount": 500,
+    "currency": "DKK",
+    "period": "3 months",
+    "mandatory": false,
+    "note": "licence via DASU extra"
+   }
+  ],
+  "membership": "SAK club membership required (per calendar year, licence and training fee extra): active adult 1225 DKK, 65+ 650 DKK, youth <18 650 DKK, miniput 525 DKK, training member (other home club) 525 DKK; DASU licence required",
+  "price_source": "http://www.sak-motorsport.dk/karting/bestil-aarskort",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane",
+   "http://www.sak-motorsport.dk/karting/traeningstider",
+   "http://www.sak-motorsport.dk/om-sak/medlemsskab-i-sak/kontingentforklaring"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/7548776479",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/547428233",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Club training Thu and Sat (times not stated)",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Aars traening (members)",
+    "amount": 600,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "from 15/7: 300 DKK"
+   },
+   {
+    "name": "Torsdag/Loerdags-traening (members)",
+    "amount": 100,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traening under proevemedlemskab",
+    "amount": 300,
+    "currency": "DKK",
+    "period": null,
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Aars traening (non-members)",
+    "amount": 850,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Torsdag/Loerdags-traening (non-members)",
+    "amount": 150,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "DMKA: active incl. basic licence 850 DKK, youth (<18) 400 DKK, 3-month trial 200 DKK (once), B-membership adult 300 / youth 200 DKK; DASU licence required",
+  "price_source": "https://www.dmka.dk/for-medlemmer/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.dmka.dk/karting/",
+   "https://www.dmka.dk/for-medlemmer/",
+   "https://www.dmka.dk/om-klubben/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/2216849378",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.grindstedgokartklub.dk/lejekart",
+   "http://www.grigoe.dk/event",
+   "http://www.grigoe.dk/tbkart"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/177039353",
+  "karts": [
+   {
+    "chassis": "Puslingekart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Voksenkart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://holbaek-gokart.dk/",
+   "https://holbaek-gokart.dk/priser/",
+   "https://holbaek-gokart.dk/tider/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1236943145",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.kgkk.dk/",
+   "https://www.kgkk.dk/kart-skole-2/",
+   "https://www.kgkk.dk/saadan-starter-du/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/139090965",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Banemedlemsskab (calendar year)",
+    "amount": 1833,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": true,
+    "note": "or single training; DASU licence required; min age 7"
+   },
+   {
+    "name": "Engangstraening Micro 60 / Rotax Micro",
+    "amount": 150,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Engangstraening andre klasser",
+    "amount": 175,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Boxleje (calendar year)",
+    "amount": 761,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "waiting list; requires track membership"
+   },
+   {
+    "name": "Fritidsklub FC Strand (Copenhagen municipality)",
+    "amount": 476,
+    "currency": "DKK",
+    "period": "month",
+    "mandatory": false,
+    "note": "July free"
+   }
+  ],
+  "membership": "Track membership 1833 DKK/year (or single training 150-175 DKK) plus DASU licence; own karts only",
+  "price_source": "https://kbh-gokart.dk/priser.html",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "no",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://kbh-gokart.dk/",
+   "https://kbh-gokart.dk/priser.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/380865250",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.gokart.dk/",
+   "https://www.gokart.dk/%C3%A5bningstider"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/532894308",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: midtjyskgokart.dk returns HTTP 403 Forbidden"
+ },
+ {
+  "id": "node/8162798833",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://racesyd.dk/",
+   "https://racesyd.dk/dropin/",
+   "https://fredericiagokartklub.dk/training"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/8158080464",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Gokartbane (two levels)",
+    "length_m": 250,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://silkeborg-gokart.dk/",
+   "https://silkeborg-gokart.dk/go-kart/",
+   "https://silkeborg-gokart.dk/priser/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/93851066",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Rental by booking (booking phone 10-16); own race-kart training Tue+Thu 16-20",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.kart.dk/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/213207415",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: domain svebollegokart.dk does not resolve (DNS not found)"
+ },
+ {
+  "id": "way/892633637",
+  "karts": [
+   {
+    "chassis": "Miniput 5 (Cadetti)",
+    "engine": "Raket 95",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Miniput 7 (Formel Mini)",
+    "engine": "Raket 95",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Micro 60",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Mini 60",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://gokartfyn.dk/",
+   "https://gokartfyn.dk/er-du-ny/lej-en-gokart/",
+   "https://gokartfyn.dk/udlejning-2/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/486318757",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Club training: Tue 14-20, Thu 14-20, Sat 9-15 (members and licensed drivers only)",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Traeningsafgift (daglig), over & under 18",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningsafgift aarlig, under 18 (member) / senior members",
+    "amount": 1200,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningsafgift aarlig, under 18 (non-member)",
+    "amount": 1850,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningsafgift aarlig, over 18 (member)",
+    "amount": 1900,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningsafgift aarlig, over 18 (non-member)",
+    "amount": 2400,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Traeningslicens",
+    "amount": 330,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": true,
+    "note": "DASU licence; junior/senior 330 DKK, international 2300 DKK"
+   },
+   {
+    "name": "1-dags licens inkl. forsikring (non-DASU)",
+    "amount": 250,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "Thy Motor Sport Klub: active with basic licence 900 DKK, youth with basic licence 600 DKK, ordinary 400 DKK, passive 300 DKK, trial 350 DKK, active senior 60+ 750 DKK; track only for members/licensed drivers, no rental",
+  "price_source": "https://thymotorsport.dk/priser/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "no",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://thymotorsport.dk/priser/",
+   "https://thymotorsport.dk/traening/",
+   "https://thymotorsport.dk/ingen-udlejning-af-kart-til-turister/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/567296895",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Season 1 Mar-31 Oct (weather permitting): Tue 15-20, Sat 9-16; Miniput Wed 16-18, Sat 15-17:30; winter Sat by arrangement",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Helaars traeningskontingent Senior (18+), MNJ member",
+    "amount": 1900,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "Junior 1300, Miniput 650"
+   },
+   {
+    "name": "Helaars traeningskontingent Senior (18+), non-member",
+    "amount": 2300,
+    "currency": "DKK",
+    "period": "year",
+    "mandatory": false,
+    "note": "Junior 1700, Miniput 900"
+   },
+   {
+    "name": "2. halvaar (1 Aug-31 Oct) Senior, MNJ member",
+    "amount": 1150,
+    "currency": "DKK",
+    "period": "half-year",
+    "mandatory": false,
+    "note": "Junior 800, Miniput 400"
+   },
+   {
+    "name": "2. halvaar (1 Aug-31 Oct) Senior, non-member",
+    "amount": 1150,
+    "currency": "DKK",
+    "period": "half-year",
+    "mandatory": false,
+    "note": "Junior 900, Miniput 500"
+   },
+   {
+    "name": "En dags gebyr, MNJ member",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": "Senior/Junior 300, Miniput 200"
+   },
+   {
+    "name": "En dags gebyr, non-member",
+    "amount": 350,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": "Senior/Junior 350, Miniput 250"
+   },
+   {
+    "name": "En dags DASU licens",
+    "amount": 300,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": "Membership of a DASU club required to train; MNJ members get reduced training fees",
+  "price_source": "https://mnj.dk/karting-traeningskontingent",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://mnj.dk/tr%C3%A6ningstider-karting",
+   "https://mnj.dk/karting-traeningskontingent",
+   "https://mnj.dk/Om-kartsporten"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/356759825",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Season 1 Apr-30 Nov: Mon-Tue 9-16, Wed-Sat 9-20, Sun 9-18; booking only",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.vandelgokart.dk/",
+   "https://vandelgokart.dk/gokart/booking/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ }
+]

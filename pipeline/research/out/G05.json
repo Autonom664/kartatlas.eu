@@ -1,0 +1,1341 @@
+[
+ {
+  "id": "way/466134641",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "1-day training licence (guest, DASU licence holders)",
+    "amount": 200,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": true,
+    "note": "for guest drivers training at Løvel"
+   },
+   {
+    "name": "1-day DASU licence (guest)",
+    "amount": 150,
+    "currency": "DKK",
+    "period": "day",
+    "mandatory": null,
+    "note": "paid to DASU"
+   },
+   {
+    "name": "Membership type 3 (fixed training at Løvel incl. karting training/race licence)",
+    "amount": 2100,
+    "currency": "DKK",
+    "period": null,
+    "mandatory": null,
+    "note": "period not stated"
+   },
+   {
+    "name": "Membership type 4 (under 18, fixed training incl. licence)",
+    "amount": 1600,
+    "currency": "DKK",
+    "period": null,
+    "mandatory": null,
+    "note": "period not stated"
+   }
+  ],
+  "membership": "Membership: supporter 300 DKK; basic licence 800 DKK; fixed training incl. karting licence 2100 DKK (under 18: 1600 DKK); change of type 100 DKK. Training Wed 16-19:30, Sat 9-14:30.",
+  "price_source": "https://viborgmotorklub.dk/klubben/bliv-medlem/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://viborgmotorklub.dk/gokartudlejning/",
+   "https://viborgmotorklub.dk/klubben/bliv-medlem/",
+   "https://viborgmotorklub.dk/karting-nybegynder/traening/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/174687955",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.karting-le-coteau.com"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: site returns HTTP 503/406 (server blocks requests)"
+ },
+ {
+  "id": "way/712568193",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Track fee (FFSA licence holder from another club) - morning",
+    "amount": 20,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee (other club) - afternoon",
+    "amount": 25,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee (other club) - day",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee (other club) - annual",
+    "amount": 220,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": null,
+    "note": null
+   },
+   {
+    "name": "Titre de participation entraînement karting (TPNEJK)",
+    "amount": 75,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": null,
+    "note": "FFSA 35 + ASK 40, valid 1 day"
+   },
+   {
+    "name": "Licence Entraînement Course Club Junior/Senior (NECCJSK) incl. ASK track membership",
+    "amount": 323,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": null,
+    "note": "FFSA 113 + LKHF 35 + ASK 175"
+   },
+   {
+    "name": "Licence Nationale karting (NCCK) incl. ASK membership",
+    "amount": 409,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": null,
+    "note": "FFSA 179 + LKHF 55 + ASK 175"
+   }
+  ],
+  "membership": "ASK club cotisation 175 EUR/year includes annual track fee (plus FFSA licence and league fee). No rental karts; own-kart club track.",
+  "price_source": "https://abbeville-somme-karting.fr/wp-content/uploads/2025/12/Tarif_licence_2026.pdf",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://abbeville-somme-karting.fr/",
+   "https://abbeville-somme-karting.fr/wp-content/uploads/2025/12/Tarif_licence_2026.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/290678826",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Track fee annual (ASKM member, FFSA licence)",
+    "amount": 180,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": "track rights only"
+   },
+   {
+    "name": "Track fee day (ASKM member)",
+    "amount": 35,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee half-day (ASKM member)",
+    "amount": 20,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee annual (non-member, FFSA licence)",
+    "amount": 220,
+    "currency": "EUR",
+    "period": "year",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee day (non-member)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee half-day (non-member)",
+    "amount": 25,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Private session supplement (non-member)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "free for members"
+   }
+  ],
+  "membership": "2026 track rights for FFSA licence holders only, working days; no kart loan or rental at the club.",
+  "price_source": "https://askmartigues.fr/nos-tarifs/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "no",
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://askmartigues.fr/nos-tarifs/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/216109369",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [
+   {
+    "label": "Kart électrique enfant - jeton 5 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 5,
+    "laps": null,
+    "price": 4,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 2,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 bought = 1 free"
+   },
+   {
+    "label": "Kart enfant - session 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 12,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": 11,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "single price, no degression"
+   },
+   {
+    "label": "Kart 270cc GTR5 - session 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kart 270cc GTR5 - 3 x 10 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kart 270cc GTR5 - 10 x 10 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 165,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Challenge karting en groupe",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 62,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per person, on reservation"
+   },
+   {
+    "label": "Karting drift - 10 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 10,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "electric drift kart"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.ardecheloisirsmecaniques.com/les-activites/karting/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.ardecheloisirsmecaniques.com/les-activites/karting/",
+   "https://www.ardecheloisirsmecaniques.com/les-activites/karting-drift/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1529016844",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.akskart.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/7965738226",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Circuit Aunis Karting",
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.auniskarting.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1540863442",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/paris-ouest-dreux"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1000270136",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/tours/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12089359841",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/lyon-mornant/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/11563955592",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/paris-sud-massy/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12595478788",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.battlekart.com/fr/rennes"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/815858968",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.brenne-decouverte.com/karting/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: domain redirects to an unrelated site (sgpianoteacher.com, piano teacher); no venue data"
+ },
+ {
+  "id": "way/128857901",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.capkarting.com/disponibilite-de-piste",
+   "https://www.capkarting.com/locations"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/95700263",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Track fee (pilot not licensed in Auvergne league)",
+    "amount": 50,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": "weekend training, FFSA licence required, no half-day rate"
+   },
+   {
+    "name": "Track fee (titre de participation holders)",
+    "amount": 50,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Track fee without reservation",
+    "amount": 80,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": "access may be refused"
+   }
+  ],
+  "membership": "Weekend training sessions only for FFSA licence/titre de participation holders, booked online; sessions 9-12 and 14-18. Some Mondays reserved for ASK Varennes licence holders.",
+  "price_source": "https://karting-varennes.fr/sites/default/files/2026-08/Informations%20roulages%20v2-2026_0.pdf",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://karting-varennes.fr/",
+   "https://karting-varennes.fr/sites/default/files/2026-08/Informations%20roulages%20v2-2026_0.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/201410942",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.circuitjurasud.com/horaires",
+   "https://www.circuitjurasud.com/complexe"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1061101289",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.anneau-du-rhin.com/produit/karting/",
+   "https://www.anneau-du-rhin.com/circuits/infrastructures/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/712430022",
+  "karts": [
+   {
+    "chassis": "Birel N35 YR",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc",
+    "hp": "4.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Birel N35 YR",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 13,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://circuit-pau-arnos.fr/piste-et-karts/",
+  "hours": "Open days per online calendar 10-12, 14-18 (reservation required)",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://circuit-pau-arnos.fr/piste-et-karts/",
+   "https://circuit-pau-arnos.fr/horaires/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/171449371",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [
+   {
+    "name": "Track fee half-day (driver owning the kart)",
+    "amount": 30,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": "plus FFSA participation title or licence"
+   },
+   {
+    "name": "Track fee full day (driver owning the kart)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Additional driver on same kart, half-day",
+    "amount": 10,
+    "currency": "EUR",
+    "period": "half-day",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Additional driver on same kart, full day",
+    "amount": 15,
+    "currency": "EUR",
+    "period": "day",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": "Annual club and track rights with FFSA licence (price grid in image/PDF only); track right 50% off from 1 September.",
+  "price_source": "https://www.ask-ancenis.fr/tarification-a-la-journee/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": "yes",
+  "status": null,
+  "sources": [
+   "https://www.ask-ancenis.fr/tarification-a-la-journee/",
+   "https://www.ask-ancenis.fr/tarifs-2/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/672536847",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: listed website is a directory (passionkart.fr) whose listing describes a different venue (outdoor circuit in Manosque, own site kartingmanosque.fr); no own website for Barcelonnette/Saint-Pons; nothing recorded"
+ },
+ {
+  "id": "way/296836943",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://circuit-caen.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "relation/3881729",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.ledenon.com/",
+   "https://www.ledenon.com/fr/informations/piste-2.awp"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website belongs to Circuit de Lédenon (car/motorbike circuit); site does not mention any karting track or kart rental, so nothing recorded"
+ },
+ {
+  "id": "way/346861663",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr",
+   "https://www.kartingmaraikart-bucylelong-soissons-aisne.fr/services"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/127256481",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.gtr-performance.fr/activites/karting-marcillat-en-combraille",
+   "https://www.gtr-performance.fr/contact"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/30744291",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.circuit-de-lindre.com/nos-horaires"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/533293229",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://vaisonpiste.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: site returns HTTP 403 behind a Cloudflare JavaScript challenge"
+ },
+ {
+  "id": "way/481745432",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.freekart88.fr"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website dead (domain does not resolve)"
+ },
+ {
+  "id": "way/290679919",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://aerodrome-eyguieres.fr/circuit-kart-auto-moto/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website dead (domain does not resolve)"
+ },
+ {
+  "id": "way/183755170",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.circuit-karting-perigord.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: site blocks requests (Cloudflare HTTP 403)"
+ },
+ {
+  "id": "way/183168423",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://pks-loisirs.fr/",
+   "https://pks-loisirs.fr/index.php/disponibilites-piste/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/218430826",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.clotkart.com",
+   "https://clotkart.com/tarifs/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/792891327",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "http://www.cosne-karting.com/karting.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/76329770",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [
+   {
+    "label": "Kids 160cc - 1 session 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kids 160cc - 2 sessions",
+    "class": "kids",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 36,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kids 160cc - 3 sessions",
+    "class": "kids",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 48,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "instead of 54 EUR, discount on site only; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Kids - 10 sessions x 10 min",
+    "class": "kids",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 165,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": "special offer, instead of 180 EUR; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Adult 270cc - 1 session 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 21,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Adult 270cc - 2 sessions",
+    "class": "adult",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 42,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Adult 270cc - 3 sessions",
+    "class": "adult",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "instead of 63 EUR, discount on site only; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Member special - 10 x 10 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 190,
+    "currency": "EUR",
+    "extras": null,
+    "member": true,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "special member offer, instead of 210 EUR; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Happy Kart - 2 x 10 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 31.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed 17-22",
+    "note": "Wednesday evening 25% discount; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Biplace",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 4,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "from 4 years (passenger); kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   },
+   {
+    "label": "2 places bought, 3rd free",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 42,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": "Fri 18:45-23:45",
+    "note": "special offer; kids/adult class inferred from the price-card grouping on the site",
+    "comparison_eligible": false
+   }
+  ],
+  "fees": [],
+  "membership": "Loyalty programme (programme de fidélité); member 10x10 min offer 190 EUR",
+  "price_source": "https://defikart.fr/tarifs/",
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://defikart.fr/tarifs/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/65283310",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.energykarting-stcyr.com",
+   "https://www.energykarting-stcyr.com/index.php?page=energykarting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/290681899",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Mar Sat-Sun 14-18; Apr-May 14-19; Jun Tue-Fri 15-19, Sat-Sun 14-19 (closed Mon); Jul 1-15 daily 15-23; Jul 16-Aug daily 10-24 (kids/twin karts 10-20); Sep to mid-Sep 14-19; Toussaint holidays 14-18",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.europkart.com/horaires-karting-marseillan-europ-kart"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/6799381818",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.family-fun-park-lagord.com/karting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Site refers to 'notre nouvelle piste de karting' (new track); no length stated, any older length may be outdated"
+ },
+ {
+  "id": "node/11111781069",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Fast & Green indoor track",
+    "length_m": 400,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "sources": [
+   "https://www.fast-and-green.fr/les-locaux-fast-green/",
+   "https://www.fast-and-green.fr/fast-green/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ }
+]

@@ -1,0 +1,1012 @@
+[
+ {
+  "id": "way/652859924",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.formulekart.com/circuit"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Circuit page counters: '1100' next to 'm de piste' (figure order on Wix page slightly ambiguous; 45 is likely kart count)."
+ },
+ {
+  "id": "way/787297100",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "http://parc-loisir-cevennes.fr"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: www host does not resolve; bare domain redirects to unrelated content blog hissez-o.fr (nautical/tourism articles), no karting info."
+ },
+ {
+  "id": "way/270319605",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 11,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.fun-karting.com/",
+  "hours": "Wed-Fri 9:30-18, Sat-Sun 9:30-19, Mon-Tue closed; school holidays daily 9:30-19",
+  "prices": [
+   {
+    "label": "Grande piste 1200m - Kart 13CV",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 44,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Experience required, no beginners; 36 EUR/session from 5 sessions"
+   },
+   {
+    "label": "Piste loisir 350m - Kart 9CV",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 11,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "17 EUR/session from 5 sessions"
+   },
+   {
+    "label": "Piste enfant 100m - Kart Enfant",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 8,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "6.50 EUR/session from 10 sessions"
+   },
+   {
+    "label": "Piste mini kart 90m - Mini Kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": 3,
+    "max_age": 7,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Children may be accompanied; 4 EUR/session from 10 sessions"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.fun-karting.com/",
+  "tracks": [
+   {
+    "name": "Grande piste",
+    "length_m": 1200,
+    "width_m": null,
+    "use": "rental (13CV, experienced)"
+   },
+   {
+    "name": "Piste loisir",
+    "length_m": 350,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Piste enfant",
+    "length_m": 100,
+    "width_m": null,
+    "use": "kids"
+   },
+   {
+    "name": "Piste mini kart",
+    "length_m": 90,
+    "width_m": null,
+    "use": "kids 3-7"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.fun-karting.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Site is a JS app; data read from its page bundles (karts/circuits page). Session duration not stated. Hours are the site's default schedule (live hours load from its API)."
+ },
+ {
+  "id": "way/34179469",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 800,
+    "width_m": null,
+    "use": "rental and competition (homologated cat. 1 and 2)"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.gp-circuit.fr/site/infrastructure",
+   "https://www.gp-circuit.fr/site/le-circuit-gp"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/109128724",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.itekkarting.com/orki/view/46/le-nbsp;circuit.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Multi-track site ('14 pistes diffÃ©rentes', oval with 4 banked corners); no track length stated on the venue's site."
+ },
+ {
+  "id": "way/183430322",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.interracingkart.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website dead - domain redirects (303) to google.com, no venue content."
+ },
+ {
+  "id": "node/12422844942",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.k1speed.com/fr/caen.html",
+   "https://www.k1speed.com/fr/centres.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Caen page no longer exists: URL redirects to the K1 Speed France homepage; the operator's centre list shows only Le Mans (and Paris coming soon) in France - no Caen location listed. Nothing recorded from other locations."
+ },
+ {
+  "id": "node/12792155555",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": "https://www.k1speed.com/wp-content/uploads/2025/05/le-mans-track-1.jpg",
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.k1speed.com/fr/le-mans.html",
+   "https://www.k1speed.com/fr/le-mans/piste.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/81731257",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.k1speed.com/fr/lyon.html",
+   "https://www.k1speed.com/fr/centres.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Lyon page no longer exists: URL redirects to the Le Mans page; the operator's centre list shows only Le Mans (and Paris coming soon) in France - no Lyon location listed. Nothing recorded from Le Mans."
+ },
+ {
+  "id": "node/11635025481",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://khub-arras.com/karting/",
+   "https://khub-arras.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/126711889",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kart71.com/",
+   "https://www.kart71.com/karts/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No track length stated; homepage announces 'NOUVEAUX TRACE EN PLACE' (new layouts), so any older length may be outdated."
+ },
+ {
+  "id": "way/1527270647",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kartescale.com/",
+   "https://www.kartescale.com/tarifs/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/39321555",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Sep-Nov: Wed 10-19, Thu 14-19, Fri 16-22, Sat-Sun 10-19, Mon-Tue closed; Toussaint school holidays daily 10-19; groups 8+ daily by reservation",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartorigins.fr/contact-2/",
+   "https://kartorigins.fr/wp-content/uploads/2026/09/Copie-de-Horaires-Hiver-Bleu-et-Blanc-Simple-Horaires-dHiver-A4-A4.jpg"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/187360772",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kart-quad-sensations.com/",
+   "https://www.kart-quad-sensations.com/karting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/844535569",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.circuitdecroix.com/",
+   "https://www.circuitdecroix.com/piste-et-structures/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website is the main Circuit de Croix-en-Ternois (car/motorbike) site; no karting content (no kart track, rental, prices or ages mentioned) on homepage, track/structures, rental or FAQ pages - site does not cover this kart track."
+ },
+ {
+  "id": "node/10871381994",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental (FFSA homologated)"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartup-vitrolles.com/karting/",
+   "https://kartup-vitrolles.com/karting-adultes/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/207905346",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.facebook.com/profile.php?id=61575141148355"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: only website is a Facebook page (title 'Circuit des RenardiÃ¨res | ChÃ¢lus'); content not readable without login."
+ },
+ {
+  "id": "way/706242692",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.arena45.fr/horaires-ouverture/",
+   "https://www.arena45.fr/changement-des-horaires-douverture-a-partir-du-19-juin/",
+   "https://www.arena45.fr/wp-content/uploads/2024/10/REGLEMENT_INTERIEUR_ARENA_45MAJ250223-1.pdf"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Hours not recorded: hours page is a live booking planning; rules PDF says daily except Tue/Thu 9-12:30 & 14-17:30, but a 2026 post sets summer hours (from 19 June Thu-Sat 9-22), so current schedule unclear. No rental age limits stated (school from 7). kartingvalence.com is the old ASK Valence club site (news up to 2019)."
+ },
+ {
+  "id": "way/189887727",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://bocaspeed.fr/infrastructure/",
+   "https://bocaspeed.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/675701556",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.karting-center-tours.fr/fr/c-karting-center-tours/materiel-karting-et-paintball-12157",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.karting-center-tours.fr/fr/c-karting-center-tours/materiel-karting-et-paintball-12157"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/242948675",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kartingcircuitpaulricard.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No fixed opening hours on site: rental 'selon agenda' (dates in an external online calendar)."
+ },
+ {
+  "id": "node/11066847282",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://kartingcityperigord.fr/reservation/",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartingcityperigord.fr/reservation/",
+   "https://kartingcityperigord.fr/infos-pratiques/",
+   "https://kartingcityperigord.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/290720400",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.karting-cotebasque.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Length stated as 'plus de 1200m de piste' (more than 1200 m)."
+ },
+ {
+  "id": "way/192260020",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.circuit-dijon-prenois.com/karting/",
+   "https://www.circuit-dijon-prenois.com/location-de-kartings/",
+   "https://www.circuit-dijon-prenois.com/disponibilite/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No fixed opening hours stated; availability by phone. Wednesday afternoons prioritised for kids sessions."
+ },
+ {
+  "id": "way/196085614",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "http://www.distrakart.fr"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website dead: distrakart.fr shows a redirect notice to youlead.fr (web agency homepage), no karting content."
+ },
+ {
+  "id": "way/26365237",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartingelceka.fr/",
+   "https://kartingelceka.fr/a-propos/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/13105619745",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.family-fun-park-meschers.com/karting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/10743412563",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kartinghirson.com/",
+   "https://www.kartinghirson.com/about-1"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No kart track length stated (the 1400 m figure on the site is for the motocross terrain, not the kart track)."
+ },
+ {
+  "id": "way/221575189",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": "Tue-Thu 10-18, Fri-Sun 10-20, Mon closed; school holidays daily 10-20; open all year",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartingdemonteux.fr/planning/",
+   "https://kartingdemonteux.fr/wp-content/uploads/2026/03/Horaires-Hors-Vacances-Scolaires2-771x1024.png",
+   "https://kartingdemonteux.fr/wp-content/uploads/2026/03/Horaires-Vacances-Scolaires2-768x1024.png"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "node/12584616596",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kartingmanosque.fr/fr/piste-de-karting",
+   "https://www.kartingmanosque.fr/fr/karting"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/158604014",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "http://www.karting-montalivet.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website dead - domain karting-montalivet.com does not exist (NXDOMAIN)."
+ },
+ {
+  "id": "node/13458676482",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.karting-paintball14.fr/",
+   "https://www.karting-paintball14.fr/tarifs.php"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/1003748937",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": null,
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kartingdebeauvais.fr/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not checked: website suspended (OVHcloud 'Website unavailable - this site is currently suspended' page)."
+ },
+ {
+  "id": "way/328170185",
+  "karts": [
+   {
+    "chassis": "Kart Fun",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   },
+   {
+    "chassis": "Kart Sport",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.bergerac-karting.com/tarifs/",
+   "https://www.bergerac-karting.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Fleet only described as two rental categories: Fun (from 7 yrs and 1.30 m) and Sport (from 15 yrs); no chassis/engine details stated."
+ },
+ {
+  "id": "way/324728989",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 805,
+    "width_m": 8,
+    "use": "rental and competition (homologated both directions)"
+   }
+  ],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://kerlabo-kart.com/le-circuit/",
+   "https://kerlabo-kart.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": null
+ },
+ {
+  "id": "way/233032193",
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.loudun-karting.com/planning/",
+   "https://www.loudun-karting.com/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No fixed opening hours in text; planning page embeds an external (Apex Timing) calendar only."
+ },
+ {
+  "id": "way/123559878",
+  "karts": [
+   {
+    "chassis": "Kart Kid (junior)",
+    "engine": null,
+    "hp": "5 CV",
+    "class": "kids"
+   },
+   {
+    "chassis": "Kart Sport",
+    "engine": null,
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": "Kart Super Sport (hyper sport)",
+    "engine": null,
+    "hp": "15 CV",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 13,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartingmuret.fr/club-karting/tarifs",
+  "hours": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "rental": "yes",
+  "own_karts": null,
+  "status": null,
+  "type": null,
+  "sources": [
+   "https://www.kartingmuret.fr/club-karting",
+   "https://www.kartingmuret.fr/club-karting/tarifs",
+   "https://www.kartingmuret.fr/club-karting/horaires"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Hours not recorded: published only as week-by-week schedule images; site asks to call before coming. Ages from tariff image (Kid 5CV from 7 yrs, min height 1.35 m; Sport 9CV from 13; Super Sport 15CV from 16). Sport fleet marked 'nouvelle flotte 2026'."
+ }
+]
