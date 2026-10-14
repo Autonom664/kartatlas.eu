@@ -1,41 +1,39 @@
 # Kart Atlas: handoff for a new session
 
-## Current status (9 October 2026)
+## Current status (14 October 2026)
 
-Country-discovery release is live: 1,201 venue entries/pages. Four supplements
-since the prior feature release: Pista Winner (R12/P12/FG02), then Rottal,
-Pista Azzurra Jesolo and Kartcentrum Lelystad (R13/P13/FG03).
-The supplemental mechanism in prep.py deduplicates all OSM aliases against
-country extracts. Lelystad's stable ID is its verified shared-site address
-node/2932410866, not a dedicated karting feature; deleted way/27999737 was
-rejected. No supplemental venue boundaries are published as driving geometry.
+Finder-redesign release `7391da0` is live on
+https://kartatlas.michaelbinger.dk. The uploaded artefacts were the existing
+local build (`kart-atlas.html`, `kart-atlas.json`, `public/`, `assets/`,
+`.dockerignore` and `deploy/`) with no rebuild before deployment. Local
+`kart-atlas.html` SHA-256 matched the intended release exactly:
+`d7d33485023a23a3053df3952254c8b2a31a372a60d3fae2e2db764855722579`, and the
+published HTML at the live hostname matches the same hash.
 
-R13/P13/FG03 also refresh Greinbach, Gokart World, Kalmar, Nendeln, Lyss,
-Fagnes and Haute Saintonge. Ten-country search terms, outcomes and failures
-are in nested research/out/discovery/D01.json. Bulk Overpass queries failed;
-this was a bounded official-source batch, not a comprehensive OSM scan.
-Rendered pages/tabs/images recovered hidden tariffs. Search-generated claims
-were verified independently. Lyss RSX2 electric is Coming soon, not available;
-its two pre-existing same-operator IDs remain. Jesolo's RACE/SUPERKART engines
-are explicitly 4T; unverified standard/performance tiers do not enter standard
-adult comparisons. Multi-heats/packages/visit times stay separate. Lelystad
-prices remain unknown; Fagnes retains previous tariffs and check dates after
-its embed failed, with only Pa updated for the latest attempt.
+Deployment followed the existing OVH Docker procedure: backup first, then
+upload/extract into `/home/ubuntu/kart-atlas-deploy`, then rebuild/recreate
+only the `kart-atlas` Compose project. Rollback for this release is
+`backups/before-finder-redesign-20261014/source.tar.gz` plus image
+`kart-atlas:before-finder-redesign-20261014`. Other server containers were not
+touched; container IDs for `co2-map`, `app-*` and `vandeltracking-*` stayed
+unchanged. The host TLS vhost and deferred `.eu` activation remain untouched.
 
-Validation: 26 Node cases, ten Python tests and all eleven Playwright cases
-pass against local Docker and the public site. The exact locally tested image
-was transferred to OVH, not rebuilt differently there. Published HTML SHA-256:
-7f50adf08c9232912b0ca900af16baf46580847becd35a0473402a5ee453273e.
-Public JSON confirms all four supplements and 1,201 entries. Health checks,
-TLS (89 days remaining), CSP and Nginx configuration pass. Only Kart Atlas
-was recreated; other server container IDs are unchanged.
-Rollback: backups/before-country-discovery-20261009/source.tar.gz and image
-kart-atlas:before-country-discovery-20261009. The older
-backups/before-discovery-20261009 already existed and was not overwritten.
-Pista Winner rollback remains before-pista-winner-20261009.
-Windows tar directory modes can become read-only on Linux: chmod only the
-task-owned public/assets directories owner-writable before/after extraction.
-The .eu domain, mailbox-dependent features and host TLS vhost remain untouched.
+Verification on the live site passed: `Cache-Control: no-cache` and CSP headers
+are present, `npm run health` passed, and all eleven Playwright browser tests
+passed against `https://kartatlas.michaelbinger.dk`. Spot-checks also passed:
+Pista Winner (`way/444163257`) shows the Karts-tab KZ 6-speed 45 hp rental
+kart and a Track-tab schematic layout diagram, and Vandel Gokart
+(`way/356759825`) shows a Track-tab diagram too. TLS had 85 days remaining at
+release time.
+
+Windows-created tar archives can still restore nested `public/` and `assets/`
+directories read-only on Linux. Before retrying extraction after a partial
+extract, restore write access only inside those task-owned directories; using
+tar's delayed directory restore / no-same-permissions behavior avoids the
+nested permission-denied failures. Earlier rollback archives remain preserved:
+`before-country-discovery-20261009`, `before-pista-winner-20261009`,
+`before-venue-pages-20261009`, `before-accessibility-20261009`,
+`before-planning-20261009` and `before-discovery-20261009`.
 
 Earlier feature release:
 
