@@ -1,0 +1,2837 @@
+[
+ {
+  "id": "node/1413233649",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 158,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.coronel.nl/",
+  "family": [
+   "Kids karts (from age 8 and 1.30 m) run 8-minute heats on weekends and in school holidays.",
+   "Kids-only karting runs Wednesday 15:00-18:00 and Saturday-Sunday 11:00-13:00, and daily mornings in school holidays.",
+   "A roughly monthly Papa/Mama & Kids karting session is held for children from age 6 and 1.30 m.",
+   "A cafe overlooks the activities so non-drivers can watch, and parking is free.",
+   "The venue also offers climbing, laser games, VR, glow mini golf, bowling and escape rooms."
+  ],
+  "group": [
+   "Company outings are arranged for 14 to 1,000 people.",
+   "Kids' parties are offered from 6 guests.",
+   "Group outings come with a weather guarantee since activities are indoors."
+  ],
+  "hours": "Karting: Mon-Thu 11:00-23:00, Fri 15:00-23:00, Sat 11:00-23:00, Sun 11:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.coronel.nl/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/2932410866",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "VT250 racekart",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartcentrumlelystad.nl/nl/faq",
+  "family": [
+   "Height, not age, decides: kids kart from 1.30 m, adult kart from 1.55 m, duo kart passenger from 1.15 m.",
+   "In the duo kart a child rides alongside a parent.",
+   "Kids karts (max 45 km/h) run on weekends and public holidays only until 11:00 (until 12:30 from November).",
+   "Sessions last 10 minutes; kids kart EUR 15.95, adult kart EUR 18.95.",
+   "A kids' kart school and kids' parties are offered."
+  ],
+  "group": [
+   "Groups of at least 12 people can rent the track exclusively.",
+   "Kids' birthday parties and group arrangements are offered."
+  ],
+  "hours": "Mon-Tue closed; Wed-Fri 10:00-18:00; Sat-Sun 09:00-18:00; weekdays until 17:00 from 12 November (check calendar, hours vary)",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.kartcentrumlelystad.nl/",
+   "https://www.kartcentrumlelystad.nl/nl/faq",
+   "https://www.kartcentrumlelystad.nl/nl/tickets"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/296815510",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda GX120",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbaanuden.nl/faq/",
+  "family": [
+   "Eligibility is by height only: kids karts from 1.25 m to 1.60 m, adult karts above 1.60 m.",
+   "Kids' heats run all day and are open to children, their siblings and parents, and kids and adults may share the track.",
+   "Heats last 10 minutes; adult kart from EUR 19.50, kids kart from EUR 18.00.",
+   "Laser game is also offered on site."
+  ],
+  "group": [
+   "Arrangements for company outings, family days, neighbourhood clubs, kids' parties and stag/hen parties.",
+   "Group arrangements are booked by email or the offer form.",
+   "A cafe and meeting room can be rented."
+  ],
+  "hours": "Mon-Thu 14:00-22:00; Fri 14:00-23:00; Sat 11:00-23:00; Sun 11:00-22:00 (school holidays from 12:00 on weekdays)",
+  "rental": "yes",
+  "own_karts": "no",
+  "sources": [
+   "https://www.kartbaanuden.nl",
+   "https://kartbaanuden.nl/faq/",
+   "https://kartbaanuden.nl/activiteiten-lijst/karten/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/2782845692",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartingemmen.nl/karten-met-huurkart",
+  "family": [
+   "Rental karts are open to anyone from 1.50 m tall; no driving experience is needed.",
+   "Helmet and rain suit can be borrowed free of charge.",
+   "A youth kart school trains every Wednesday evening.",
+   "The outdoor track is just over 1 km long and is where Max Verstappen won his first kart race."
+  ],
+  "group": [
+   "Company outings with racing, team building and drinks at one location.",
+   "Group outings, kids' birthday parties and kart clinics are offered.",
+   "Rental-kart races with qualifying and racing are available."
+  ],
+  "hours": "Mon-Tue closed; Wed-Fri 15:00-21:00; Sat 10:00-21:00; Sun 10:00-17:00 (17:00-21:00 unlimited karting); other times on request",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.kartingemmen.nl",
+   "https://www.kartingemmen.nl/karten-met-huurkart"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/2690461468",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": "32.7 PK",
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://planet-awesome.com/activiteiten/karten-nijmegen/",
+  "family": [
+   "Minimum height is 1.40 m for all drivers; staff also check arm and leg reach.",
+   "Children up to 13 drive together with their parents at a reduced safe speed; adult heats are from age 14.",
+   "The indoor track is 311 m over two levels; heats last 10 minutes (EUR 20.95).",
+   "Combination deals with laser game, bowling, karaoke and glow golf are offered, and parking is free."
+  ],
+  "group": [
+   "Group outings, birthdays, family parties, school trips, stag/hen parties and team outings are offered.",
+   "Company outings for groups of 10 to 1000 people, which can include an electric kart race."
+  ],
+  "hours": "Mon-Thu 14:30-22:00; Fri 14:30-00:00; Sat 11:30-00:00; Sun 11:30-20:00 (week of 10 Oct 2026)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://planet-awesome.com",
+   "https://planet-awesome.com/activiteiten/karten-nijmegen/",
+   "https://planet-awesome.com/veelgestelde-vragen/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/2663385135",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc (propane)",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartplaza.nl/indoor-karten/",
+  "family": [
+   "Kids karts are for ages 8-14 with a minimum height of 1.35 m; 10 minutes for EUR 18.50.",
+   "Kids karting runs Saturday and Sunday 13:00-13:30, other days subject to availability.",
+   "Laser game (from age 5), bowling and other activities are on site; helmets and race overalls are provided."
+  ],
+  "group": [
+   "Company outings, family days and stag/hen parties for 4 to 500 people.",
+   "Kart Challenge, endurance races and combined action packages are offered for groups.",
+   "Children's parties, birthdays and class outings are listed as event types."
+  ],
+  "hours": "Mon closed; Tue from 18:00; Wed from 14:00; Thu from 18:00; Fri 15:00-23:00; Sat 13:00-23:00; Sun 13:00-21:00 (autumn holiday from 14:00)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartplaza.nl/",
+   "https://www.kartplaza.nl/indoor-karten/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/278188018",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 11,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbaanoldenzaal.nl/karten/huurkarts/",
+  "family": [
+   "Junior karts (35 km/h) are for children from 8 years and 1.35 m; EUR 14.95 per 10-minute heat.",
+   "Two duo karts let an adult and a child ride together.",
+   "Standard karts are from 11 years and 1.55 m; SODI SR5 race karts (80 km/h) from 16 years and 1.55 m in separate heats.",
+   "An instructor briefs before each heat and lap-time printouts are available."
+  ],
+  "group": [
+   "Fully catered group arrangements for up to 250 people, also outside regular hours on request.",
+   "Packages include karting with barbecue or buffet, a kids' arrangement and a Grand Prix race with a grid start."
+  ],
+  "hours": "Rental karts Wed-Sun 10:30-17:00; adjusted hours on public holidays; arrangements on request",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://kartbaanoldenzaal.nl/",
+   "https://kartbaanoldenzaal.nl/karten/huurkarts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/4620552009",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.vanderende.com/karten/",
+  "family": [
+   "Special kids karts let children under 14 or under 1.50 m drive, with a minimum height of 1.40 m.",
+   "Adult karts are from age 14 and 1.50 m; heats last 10 minutes from EUR 17.50.",
+   "The indoor track is 1.2 km long with bridges, elevations and more than 25 corners.",
+   "Kids' parties, laser game and 3D golf are also offered."
+  ],
+  "group": [
+   "Groups of at least 12 people can book races (half-hour race, Mini Grand Prix, Grand Prix), parties and dinners.",
+   "Endurance races for at least 35 people; party rooms and company outings and team building are offered."
+  ],
+  "hours": "Mon 16:00-23:00; Tue closed; Wed 12:30-23:00; Thu 16:00-23:00; Fri 14:00-23:30; Sat 12:00-23:30; Sun 13:00-22:00 (autumn holiday 19-25 Oct: Mon-Thu 13:00-22:30, Fri 13:00-23:30, Sat 12:00-23:30, Sun 12:00-22:00)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.vanderende.com/",
+   "https://www.vanderende.com/karten/",
+   "https://www.vanderende.com/kids/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site footer lists Tuesday closed while also claiming open 7 days a week."
+ },
+ {
+  "id": "node/13897664495",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.playdome.nl/activiteiten/playkarten/",
+  "family": [
+   "Regular electric karting is from age 14 and 1.40 m.",
+   "In family sessions children up to 13 from 1.40 m drive together with adults at reduced speed.",
+   "Sessions last 12 minutes (about 10 minutes driving), two sessions from EUR 35.50 per person.",
+   "Kids' parties for ages 6-13 include one karting session per child from 1.40 m.",
+   "The karting is not wheelchair accessible, but spectators can watch from the hospitality area."
+  ],
+  "group": [
+   "Exclusive track hire for your own group of up to 12 drivers per session.",
+   "Game of Karts for 4 to 12 people, and arrangements with bowling and dinner for groups of 10 or more.",
+   "Company outings with capacity for 500+ people."
+  ],
+  "hours": "Karting by reservation: Mon-Tue on group request (Tue 15:00-22:00 in Q4); Wed 13:00-22:00; Thu 15:00-22:00; Fri 13:00-23:00; Sat 12:00-23:00; Sun 12:00-20:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.playdome.nl/",
+   "https://www.playdome.nl/activiteiten/playkarten/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Homepage FAQ says teens/adults can do Playkarten 'from 16 years', while the karting page says regular sessions are from 14 years and 1.40 m."
+ },
+ {
+  "id": "way/746760110",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "There is no kart rental; drivers ride their own karts.",
+   "A mini course for the youngest drivers runs on set dates in the winter months."
+  ],
+  "group": [],
+  "hours": "Own-kart free riding Sat-Sun 11:00-17:00 (beginners' hour 10:00-11:00), except race/event days; Wednesdays closed September to mid-April; closed 21 Dec 2026-8 Jan 2027",
+  "rental": "no",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.kartbaanstrijen.nl/",
+   "https://www.kartbaanstrijen.nl/openingstijden/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site states 'GEEN verhuur van karts' - own karts only, no rental."
+ },
+ {
+  "id": "node/7734829180",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.devoltage.nl/activiteiten/karten",
+  "family": [
+   "Drivers under 14 or between 1.30 m and 1.50 m ride adapted karts in family heats, from age 8.",
+   "Parents can ride with their children in the family heat.",
+   "A duo kart is offered (EUR 14.75); regular heats last 10 minutes for EUR 20.",
+   "The 450 m indoor track has a fly-over, and an indoor playground and 40+ activities are under the same roof.",
+   "The venue has no lift and is reachable only by stairs."
+  ],
+  "group": [
+   "Groups from 2 to 2,000 people; company outings, team building, company parties and Christmas drinks.",
+   "Exclusive heats for your own group (EUR 400 per heat) and a Grand Prix package; max 18 drivers per heat."
+  ],
+  "hours": "Mon closed; Tue 15:00-23:00; Wed 13:00-23:00; Thu-Fri 15:00-23:00; Sat 12:00-23:00; Sun 12:00-22:00 (week of 10 Oct 2026)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.devoltage.nl",
+   "https://www.devoltage.nl/activiteiten/karten"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site is inconsistent on the small-kart height: FAQ says small karts from 1.35 m, elsewhere family heats from 1.30 m."
+ },
+ {
+  "id": "node/3040205459",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Family heats are run when children under 14 take part, with the track limited to 15 drivers.",
+   "Fully catered kids' karting parties (EUR 30 per child) include a briefing, crew supervision, a diploma and a kids' menu.",
+   "A Kids Karting School is offered, plus Prison Island, laser game and sim racing on site."
+  ],
+  "group": [
+   "The track can be booked exclusively from 15 people, up to 22 drivers at once.",
+   "Pages for group outings, stag/hen parties, company outings, meetings and school trips; free cancellation."
+  ],
+  "hours": "Mon-Tue 15:30-23:00; Wed 14:00-23:00; Thu 15:30-23:00; Fri 15:30-00:00; Sat 09:30-00:00; Sun 09:30-23:00 (week of 5-11 Oct 2026)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartfabrique.nl/",
+   "https://www.kartfabrique.nl/karten/",
+   "https://www.kartfabrique.nl/kinderfeestje/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1360118353",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.teamsport-ekarting.nl/locaties/utrecht",
+  "family": [
+   "Children aged 8 to 12 drive a special kids' kart and need an inside leg length of at least 63.5 cm; adult karts are from age 12.",
+   "Mixed heats let parents and older siblings race alongside younger children.",
+   "The electric karts make no noise or exhaust on a 450 m two-level track with 14 corners.",
+   "A Race Academy offers structured kart training for ages 8 to 15."
+  ],
+  "group": [
+   "Business outings with catering on request and meeting rooms for meetings, launches and workshops.",
+   "Birthday parties can include food and drink packages, e.g. the Pitstop Deal with 2 heats, drinks and a burger."
+  ],
+  "hours": "Mon-Tue 15:00-21:30; Wed 13:40-21:30; Thu 15:00-21:30; Fri 12:30-22:00; Sat 09:30-22:00; Sun 09:30-21:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/446075802",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbaan.com/karten-prijzen/",
+  "family": [
+   "Minimum height for karting is 1.45 m.",
+   "Heats last just over 10 minutes: EUR 16 at 50 km/h or EUR 20 at 70 km/h.",
+   "The outdoor 750 m track runs in rain but not in snow, ice or severe storms."
+  ],
+  "group": [
+   "Company outings split colleagues into groups competing for the fastest lap.",
+   "A full BBQ is available for groups of more than 25 people, from EUR 31.95 per person.",
+   "Evening sessions after 18:00 are possible for larger groups by appointment."
+  ],
+  "hours": "February-December: Tue-Sun 10:00-18:00; Mon closed; evenings for larger groups by appointment",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbaan.com",
+   "https://www.kartbaan.com/karten-prijzen/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/274259545",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 15,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 6
+  },
+  "ages_source": "https://www.powerarea.nl/activiteiten/karten/",
+  "family": [
+   "Karting starts at age 6 and 1.20 m; kids sessions are for ages 6-9 and junior sessions for ages 10-14, as family sessions with supervisors.",
+   "A duo kart takes a passenger from 6 years and 1.20 m with a driver from 15 (EUR 29.50 per 10 minutes, one per session, book by email).",
+   "The electric two-level indoor track is part of a venue with 9 indoor activities, free Wi-Fi and free parking.",
+   "A Race Academy offers kart lessons for under-18s from 1.40 m."
+  ],
+  "group": [
+   "Dedicated packages for kids' parties, company events, schools, stag/hen parties and family parties.",
+   "Grand Prix formats, combi deals and unlimited karting are offered for adults."
+  ],
+  "hours": "Mon on request; Tue 15:00-23:00; Wed 13:00-23:00; Thu-Fri 15:00-23:00; Sat 12:00-23:00; Sun 12:00-22:00 (Tue-Fri 22:00-23:00 by reservation only)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.powerarea.nl",
+   "https://www.powerarea.nl/activiteiten/karten/",
+   "https://www.powerarea.nl/activiteiten/duokarten/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/13607854888",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbaanwinterswijk.nl/karten/",
+  "family": [
+   "Minimum height for karting is 1.50 m.",
+   "A kids' karting package (10 minutes, EUR 18) runs at adjusted speed with supervision present.",
+   "More than 19 activities under one roof, including laser game, F1 simulator and VR."
+  ],
+  "group": [
+   "Grand Prix and Monaco Race packages for groups of at least 8 include exclusive use of the track.",
+   "Kids' parties, company and family parties and stag/hen parties with buffets are offered."
+  ],
+  "hours": "Mon closed (14:00-22:00 on public holidays and school holidays); Tue-Thu 14:00-22:00; Fri 14:00-02:00; Sat 12:00-02:00; Sun 12:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kartbaanwinterswijk.nl",
+   "https://kartbaanwinterswijk.nl/karten/",
+   "https://kartbaanwinterswijk.nl/openingstijden/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/4614279439",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [
+   "https://www.silverstone.nl"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: site pages (home, /karten/, /openingstijden/) return only the page title to the fetcher (JavaScript-rendered); title confirms indoor karting, laser games and bowling."
+ },
+ {
+  "id": "node/2788019640",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartcentrumzwolle.nl/nl/faq",
+  "family": [
+   "Height, not age, decides: kids kart from 1.30 m, adult kart from 1.55 m, duo kart passenger from 1.15 m riding with a parent.",
+   "Kids and adults can ride on the track at the same time; on weekends kids karts run only until 11:00.",
+   "Sessions last 10 minutes; kids kart EUR 15.95, adult kart EUR 18.95.",
+   "Kids' parties and a kart school are offered at this outdoor track."
+  ],
+  "group": [
+   "Arrangements for karting with only your own group.",
+   "Races of 1 and 2 hours and company kart cups are run."
+  ],
+  "hours": "Mon-Tue closed; Wed-Sun 10:00-18:00; weekdays until 17:00 from November (check site calendar, hours vary)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartcentrumzwolle.nl",
+   "https://www.kartcentrumzwolle.nl/nl/faq"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "FAQ is shared with sister track Kartcentrum Lelystad (same operator)."
+ },
+ {
+  "id": "way/1350493948",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 13,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://racehall.com/en/booking-stockholm",
+  "family": [
+   "Training levels start from age 6 and 120 cm; regular races require all participants to be at least 13.",
+   "Twin karts are offered for the youngest drivers, and a wheelchair-accessible kart and the twin kart can be used by people with disabilities.",
+   "Family Race (for families with children under 15) includes a 30-minute longer safety briefing; SEK 570.",
+   "Drivers under 16 without a parent need a licence form signed by a guardian."
+  ],
+  "group": [
+   "Exclusive races have no age limit; Le Mans team endurance races suit larger teams and team building.",
+   "Company packages include Meet-Race-Dine, corporate kart training and venue hire for product launches.",
+   "Packages range from children's birthdays to corporate kick-offs."
+  ],
+  "hours": "Daily 10:00-22:00",
+  "rental": "yes",
+  "own_karts": "no",
+  "sources": [
+   "https://racehall.com/en/booking-stockholm",
+   "https://racehall.com/en/faq/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/234113309",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "The motor club's karting section says children can start training from age 6."
+  ],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [
+   "https://www.enkopingsmk.se/karting"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Club racing track (Enköpings MK); the karting page describes competition karting only and mentions no public kart rental."
+ },
+ {
+  "id": "way/343140372",
+  "karts": [
+   {
+    "chassis": "Junior-cart",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Indy-Cart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": null,
+   "adult_min_age": 13,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kneippbyn.se/utbud/gokart/",
+  "family": [
+   "Junior karts are for ages 7-12; Indy karts for ages 13-100 with a minimum height of 155 cm.",
+   "The go-kart track is an attraction inside the Kneippbyn Sommarland summer park, whose entrance ticket includes all ride attractions.",
+   "Sommarland's 2027 summer season opens on 4 June 2027."
+  ],
+  "group": [],
+  "hours": "Open daily during the Sommarland summer season (2027 season from 4 June); specific hours not stated",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kneippbyn.se/utbud/gokart/",
+   "https://kneippbyn.se/aktiviteter/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/14088543327",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Child karts are available for smaller children (5 minutes from SEK 120).",
+   "Dual-control karts are offered, and four karts with hand controls let people who cannot use pedals race on equal terms.",
+   "The site also has a relax area with sauna and hot tub, and ice karting is offered."
+  ],
+  "group": [
+   "Private bookings for birthdays, stag/hen parties and private parties.",
+   "Company bookings for kickoffs, conferences, staff parties and customer events, combining a kart race with food and the relax area.",
+   "Race packages from about 30 minutes to 1.5 hours with qualifying heats and finals."
+  ],
+  "hours": "May-September 12:00-20:00; Midsummer Eve closed; rest of year on request",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://grangeshyrkart.se",
+   "https://grangeshyrkart.se/?page_id=14",
+   "https://grangeshyrkart.se/?page_id=71"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "relation/10426245",
+  "karts": [
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Junior",
+    "engine": "Honda",
+    "hp": "4",
+    "class": "junior"
+   },
+   {
+    "chassis": "Caroli combi kart (hand controls)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://gokart.se/information/",
+  "family": [
+   "Caroli Junior karts (4 hp) on the indoor track are for drivers from 130 cm.",
+   "The 300 m indoor track is open to both adults and children; the outdoor track is 1,010 m with speeds near 80 km/h.",
+   "One combi kart with hand controls is available on the indoor track.",
+   "Helmets, gloves and overalls are included in the price."
+  ],
+  "group": [
+   "Racing packages for companies or groups of at least 6 people indoors or 8 outdoors.",
+   "Le Mans relay races for larger groups (indoor from 16 people), birthday party packages, and a conference room beside the track."
+  ],
+  "hours": "Daily; weeks 40-14 11:00-19:00, weeks 15-39 11:00-20:00; closed on major holidays (New Year, Easter Eve, Midsummer, Christmas)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://gokart.se/",
+   "https://gokart.se/information/",
+   "https://gokart.se/kontakt/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site conflicts on the outdoor fleet: homepage lists 20 Caroli Hammerhead 9 hp, the information page lists 20 SODI SR5 9 hp Honda for the outdoor track; both kept."
+ },
+ {
+  "id": "way/1005039103",
+  "karts": [
+   {
+    "chassis": "Downhill Car (purpose-built steel kart, about 150 kg)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 15,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.flottsbro.se/gora/downhill-cars/",
+  "family": [
+   "Drivers must be at least 15 years old, or 12 when accompanied by an adult, and at least 150 cm tall.",
+   "Each car holds one driver; 6 rides cost SEK 280 online.",
+   "Overalls, rain covers and helmets can be borrowed; the track closes in heavy rain or thunder."
+  ],
+  "group": [
+   "Groups can book all 8 cars for an hour (SEK 4,250) with any number of drivers, also outside opening hours.",
+   "Race formats include heats with a final or time attack, suited to team building; packages with cabin lodging from SEK 995."
+  ],
+  "hours": "Snow-free season only; specific hours not stated on the activity page",
+  "rental": "yes",
+  "own_karts": "no",
+  "sources": [
+   "https://www.flottsbro.se/gora/downhill-cars/",
+   "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Not a motor kart track: gravity downhill carts pulled up by a lift line and rolling down the ski slope. Site summary says 'min. age 12 & 150 cm' while the text says 15 (12 with an adult)."
+ },
+ {
+  "id": "way/132148316",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: domain hyrcart.se does not resolve (DNS ENOTFOUND for www and bare domain); website may be gone."
+ },
+ {
+  "id": "way/1307053280",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax Max 125",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax Max DD2 125",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://andreassenmotorsport.se/kart-park-bokning/",
+  "family": [
+   "No age limit for the single rental karts; drivers need to be 140 cm and reach the pedals.",
+   "Smaller children can drive a child kart or ride a twin kart with an adult; 10 minutes cost SEK 220.",
+   "Rotax Max race karts are from age 15 and the Rotax DD2 from 18 (pre-booking only).",
+   "Helmets, neck protectors and overalls are provided; the 1,078 m outdoor track may close in heavy rain."
+  ],
+  "group": [
+   "Packages for company races, birthdays, children's birthday parties and stag/hen parties; staff can run a full event.",
+   "Race formats (Minirace, Simple Race, Formula 1) for at least 8 people; max 10 karts on track at once."
+  ],
+  "hours": "Bookings 15 May-30 September daily 12:00-18:00; drop-in 27 June-2 August daily 12:00-18:00",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.vuollerimsmf.se/kartingringen",
+   "https://andreassenmotorsport.se/kart-park-bokning/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1418328888",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "125cc (Rotax Life racekart)",
+    "hp": "28",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.jarfallahyrkart.se/hyrkart-inomhus/drop-in-oppettider/",
+  "family": [
+   "Indoor junior karts are for drivers at least 8 years old and 130 cm tall; the large karts need 12 years and 150 cm.",
+   "The outdoor track requires drivers to be at least 12 and 150 cm; it is lit in the evenings and open year-round.",
+   "Indoor drop-in costs SEK 200 for 9 minutes; outdoor SEK 200 for 7 minutes.",
+   "A karting school trains on Mondays from beginner level up to race karts."
+  ],
+  "group": [
+   "Groups can book their own time indoors from 6 people and outdoors from 8 (10 at weekends).",
+   "Company events and team building, with cafe and conference facilities on site.",
+   "Grand Prix Open races against everyone are held every Sunday at 18:30 with pre-registration."
+  ],
+  "hours": "Indoor: Mon pre-booked groups only; Tue-Fri 12:00-20:00; Sat-Sun 10:00-19:00. Outdoor: Mon pre-booked only; Tue-Fri 12:00-20:00; Sat 10:00-19:00; Sun 15:00-19:00. Closed Midsummer, Christmas Eve/Day, New Year's Day; New Year's Eve 10:00-15:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.jarfallahyrkart.se/",
+   "https://www.jarfallahyrkart.se/hyrkart-inomhus/drop-in-oppettider/",
+   "https://www.jarfallahyrkart.se/hyrkart-utomhus/drop-in-oppettider/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/279571694",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 9,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://vroom.se/prislista/",
+  "family": [
+   "Sunday drop-in (12:00-16:00) is open from age 9 and 130 cm; SEK 200 per 7-minute session.",
+   "Kids' birthday parties on Sundays (min. 4 drivers) include two sessions plus a bun and drink for SEK 450 per child.",
+   "Torsvik has a 310 m indoor track for rainy days and a 720 m outdoor track."
+  ],
+  "group": [
+   "Grand Prix and Le Mans formats for groups up to 36-50 drivers, priced per package.",
+   "Private races with time trials, final and award ceremony from 6 drivers; stag/hen races from age 15.",
+   "Company events, sports-club sessions (from 13 years and 150 cm) and school/club arrangements."
+  ],
+  "hours": "Track bookings weekdays 12:00-20:00, Sat 08:00-19:00; drop-in Sun 12:00-16:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.vroom.se",
+   "https://vroom.se/vara-banor/",
+   "https://vroom.se/prislista/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Operator runs Torsvik (indoor and outdoor tracks, Jönköping) and Axamo Ring; kart rental at Axamo Ring is closed for the season. Facts above are for Torsvik; check which site this map entry is."
+ },
+ {
+  "id": "way/45484844",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 135,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://www.kalmargokart.se/priser/",
+  "family": [
+   "Drivers need to be at least 135 cm to drive the large kart alone.",
+   "Double karts take a passenger from age 5 with a driver aged 18 or over (8 minutes SEK 270).",
+   "Weekend drop-in sessions need no booking; large kart 8 minutes SEK 220.",
+   "The 1,200 m outdoor track is one of Sweden's longest."
+  ],
+  "group": [
+   "Race packages of one hour (Lilla Racet, Grand Prix, Formula 1) from SEK 499 per person.",
+   "Company events and kick-offs are promoted as team building; payment with Swedish wellness allowance (friskvardsbidrag) is possible."
+  ],
+  "hours": "Drop-in on weekends, typically Sat 11:00-13:00 and Sun 13:00-15:00 (late Aug-end Oct listed; closed on competition weekends); races bookable Mon, Wed, Fri, Sat, Sun",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kalmargokart.se/",
+   "https://www.kalmargokart.se/oppetider/",
+   "https://www.kalmargokart.se/priser/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/250247751",
+  "karts": [
+   {
+    "chassis": "Carolikart",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Mini-kart",
+    "engine": "Honda GX160",
+    "hp": "4.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Duokart",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.gellerasen.se/gokart/",
+  "family": [
+   "Adult Caroli karts are for ages 12+ and 150 cm; mini karts (about 50 km/h) from 130 cm.",
+   "The duo kart takes a passenger from age 4 and has its own detachable wheel and pedals so a parent can drive with a child.",
+   "Drop-in costs SEK 199 for 8 minutes (mini kart SEK 165); overalls, rain gear and helmets can be borrowed.",
+   "A three-day go-kart school runs in June."
+  ],
+  "group": [
+   "Group races (Mini Grand Prix, Grand Prix, Grand Prix XL) from 6 people, bookable daily 3 April-25 October.",
+   "Endurance races of 60-120 minutes for teams of 2-5 drivers, minimum 6 teams, from age 14."
+  ],
+  "hours": "2026: group bookings daily 3 Apr-25 Oct; drop-in 9 Jun-13 Aug Tue-Fri 12:00-19:00, Sat 11:00-18:00, Sun-Mon closed; closed 18-26 Jun",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.gellerasen.se/gokart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/486200449",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Rental is run at the track by Klippans Gokart: 10 minutes cost SEK 190.",
+   "A double kart (SEK 250 per 10 minutes) takes a passenger from 120 cm with a driver aged at least 20 holding a driving licence.",
+   "Club KS Klippan offers try-out karting at cost for children aged 6-13, usually Sunday mornings in season."
+  ],
+  "group": [
+   "Groups can book a private race.",
+   "Company kick-offs and customer events are offered."
+  ],
+  "hours": "Rental (Klippans Gokart): Wed, Fri, Sat, Sun; daily in July-August; outdoor seasonal track",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.svenskalag.se/ksklippan",
+   "https://klippansgokart.se/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Listed site is the club KS Klippan (racing, try-outs); public kart rental at Kart Ring Klippan is run by Klippans Gokart (klippansgokart.se), linked from the club site."
+ },
+ {
+  "id": "relation/10105432",
+  "karts": [
+   {
+    "chassis": "Caroli",
+    "engine": "Honda 270cc (Moto-Schuette tuned)",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.varmlandsgokartcenter.se/prislista-gokart-vi-tar-emot-epassi",
+  "family": [
+   "Child karts are for ages 7+ and about 140 cm (9 minutes SEK 180).",
+   "Six double karts take non-drivers and children from age 4 as passengers (9 minutes SEK 220).",
+   "Adult Caroli karts come in a speed-limited Standard and a free-revving Maxi version.",
+   "Rain does not cancel driving and rain gear can be borrowed."
+  ],
+  "group": [
+   "Race packages (Racet, Grand Prix, F1 Grand Prix) for groups up to 44 include briefing, driving tips and medals or a trophy.",
+   "Le Mans team relays from 30 to 180 minutes with up to 24 karts; catering is available."
+  ],
+  "hours": "Drop-in Saturdays 12:00-17:00 (last drop-in day of 2026 season 10 Oct); group races bookable daily in daylight",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.varmlandsgokartcenter.se/",
+   "https://www.varmlandsgokartcenter.se/prislista-gokart-vi-tar-emot-epassi"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1549065921",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate expired (https; http retry was upgraded to https and failed the same way)."
+ },
+ {
+  "id": "way/486577840",
+  "karts": [
+   {
+    "chassis": "Caroli",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://vaxjohyrkart.se/info/",
+  "family": [
+   "Child karts are allowed from the calendar year the child turns 6, if they can reach the pedals; otherwise they ride the duo kart.",
+   "Adult karts require reaching the pedals, roughly 120-130 cm; the two-seat duo kart takes passengers from about age 2.",
+   "Drop-in costs SEK 170 for 8 minutes on an 840 m outdoor track; rain gear can be borrowed."
+  ],
+  "group": [
+   "Race packages (Mini, Mellan, Stor, Maxi, Best Time) from 6-9 people; up to 13 karts on track.",
+   "Endurance races of 1-2 hours from 6 cars, plus catering; suited to summer parties, kick-offs and stag/hen parties.",
+   "Companies can be invoiced and free cancellation is possible up to 24 hours before."
+  ],
+  "hours": "Drop-in: Apr and Oct Sat 11-17; May-Sep Sat 11-17, Sun 14-17; weeks 26-32 daily 11-17. Bookings Thu-Fri 13:30-20, Sat 10-17, Sun 14-17 (Mon-Wed closed); season April-October",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://vaxjohyrkart.se/",
+   "https://vaxjohyrkart.se/info/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/95777914",
+  "karts": [
+   {
+    "chassis": "DINO",
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "ca 7",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 120,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://magpgokart.se/aktiviteter-och-priser/",
+  "family": [
+   "Kids' kart birthday parties are for children from 7 years and 120 cm, with a gold medal and prize ceremony for the birthday child.",
+   "After the party families can stay for fika and use the premises at no extra cost.",
+   "Drop-in costs SEK 195 for 6 minutes; the 600 m track is partly indoors and runs indoors only in winter.",
+   "A kart school runs over three Sundays, 2-3 times a year."
+  ],
+  "group": [
+   "Grand Prix, STCC and Formula 1 race formats from 5 participants.",
+   "Team endurance races of 1-6 hours for at least 5 teams of 3-8 drivers.",
+   "Conference rooms for 10-40 people can be combined with karting."
+  ],
+  "hours": "Bookable year-round; drop-in any time the track is free, safest Wed 15:00-20:00 and Sat-Sun 12:00-18:00 (call ahead)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://magpgokart.se",
+   "https://magpgokart.se/banan-och-bilarna/",
+   "https://magpgokart.se/aktiviteter-och-priser/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/95564957",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Standard karts are recommended from about age 12 and special child karts are available for younger drivers (the site gives varying minimums of about 8-10 years and 130-145 cm).",
+   "Children's birthday packages combine karting with sumo wrestling or gladiator duels, and every child gets a medal.",
+   "Helmets, overalls and rain gear are included at no extra cost on the 1,010 m outdoor track.",
+   "Kart school and summer daytime kart camps are offered."
+  ],
+  "group": [
+   "Group and company packages with qualifying heat, final and podium from SEK 645 per person; shorter friends and family races from SEK 595.",
+   "Beginner and stag/hen races from SEK 445; food options from buffet to fika, plus sumo, boxing and darts.",
+   "Competition karts can be rented, with competition packages from age 16."
+  ],
+  "hours": "Open every day for bookings (no clock times stated); drop-in by checking free slots via SMS; some summer weekend dates closed",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.hyrgokart.com/",
+   "https://www.hyrgokart.com/info-och-tider/",
+   "https://www.hyrgokart.com/bilar-och-banor/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site gives conflicting child age/height minimums (about 8 yrs/130 cm, 9-10 yrs/140-145 cm, 10 yrs/140 cm, 9 yrs/135-140 cm), so ages left null. Same venue as way/410895971 (duplicate map entry, same website)."
+ },
+ {
+  "id": "way/410895971",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Standard karts are recommended from about age 12 and special child karts are available for younger drivers (the site gives varying minimums of about 8-10 years and 130-145 cm).",
+   "Children's birthday packages combine karting with sumo wrestling or gladiator duels, and every child gets a medal.",
+   "Helmets, overalls and rain gear are included at no extra cost on the 1,010 m outdoor track.",
+   "Kart school and summer daytime kart camps are offered."
+  ],
+  "group": [
+   "Group and company packages with qualifying heat, final and podium from SEK 645 per person; shorter friends and family races from SEK 595.",
+   "Beginner and stag/hen races from SEK 445; food options from buffet to fika, plus sumo, boxing and darts.",
+   "Competition karts can be rented, with competition packages from age 16."
+  ],
+  "hours": "Open every day for bookings (no clock times stated); drop-in by checking free slots via SMS; some summer weekend dates closed",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.hyrgokart.com/",
+   "https://www.hyrgokart.com/info-och-tider/",
+   "https://www.hyrgokart.com/bilar-och-banor/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site gives conflicting child age/height minimums (about 8 yrs/130 cm, 9-10 yrs/140-145 cm, 10 yrs/140 cm, 9 yrs/135-140 cm), so ages left null. Same venue as way/95564957 (duplicate map entry, same website)."
+ },
+ {
+  "id": "way/1193992601",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartway.se/Lulea/",
+  "family": [
+   "There is no age limit; drivers need to be 140 cm and reach the pedals.",
+   "Smaller children can ride a double kart with an adult; up to 3 double karts run at once.",
+   "Summer drop-in costs SEK 220 for 8 minutes; the track may close in heavy rain."
+  ],
+  "group": [
+   "Competition bookings where the fastest driver wins are available, also outside regular opening hours."
+  ],
+  "hours": "Summer drop-in season only (2026: 20 Jun-9 Aug); currently closed for the season",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kartway.se/Lulea/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/828964156",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://lyckselemk.se/?p=hyrkart",
+  "family": [
+   "Drivers need to be about 140 cm tall and able to follow instructions.",
+   "A double kart lets two people ride together; standard and double karts both cost SEK 140 for 7 minutes."
+  ],
+  "group": [
+   "Group bookings are arranged by contacting the track."
+  ],
+  "hours": "Drop-in 22 Jun-16 Aug: Mon-Sat 13:00-19:00, Sun 15:00-19:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1091896435",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Junior karts (about 28 km/h, remote-controlled engine) are for children from about 5-6 years; SEK 150 for 7 minutes.",
+   "Double karts with two steering wheels suit small children or disabled riders who cannot or do not want to drive alone.",
+   "Small electric cars on a separate track are offered for children from about 2 years, plus bouncy castles in summer.",
+   "Junior paintball with smaller balls and lower pressure is also available."
+  ],
+  "group": [
+   "Groups can book Grand Prix formats with practice or qualifying and finals.",
+   "Paintball packages for groups of four or more are recommended for stag and hen parties."
+  ],
+  "hours": "Season April-November; drop-in hours published only as an image; bookings by email or phone outside drop-in",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.glabogokart.se",
+   "https://www.glabogokart.se/gokart"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1350495161",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.gokartcity.club/informationochregler-gokartcity",
+  "family": [
+   "Minimum height to drive is 150 cm; drivers under 16 may only drive with an adult on site.",
+   "Twin karts take passengers over 100 cm and run slower than the standard karts; SEK 220 for 8 minutes.",
+   "A Sunday kart school for children up to 15 runs at least 3 sessions per occasion with an adult present (SEK 500).",
+   "Kids' parties (min. 8 children) include a briefing, medals and an hour in a room for own food and cake."
+  ],
+  "group": [
+   "Race packages, team competitions and 2-hour team races for groups; track bookable daily 09:00-21:00.",
+   "Race dinners, a sauna and conference room are available; companies can pay by invoice."
+  ],
+  "hours": "Drop-in Wed-Fri 14:00-19:00, Sat 11:00-19:00, Sun 12:00-18:00; track bookings daily 09:00-21:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.gokartcity.club/",
+   "https://www.gokartcity.club/informationochregler-gokartcity",
+   "https://www.gokartcity.club/barn-malmö-helsingborg"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/229163499",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://lockarpsgokart.se/priser/",
+  "family": [
+   "Drivers must be at least 150 cm tall; double kart passengers at least 120 cm (SEK 250 per session).",
+   "Drivers under 16 need a guardian present at check-in and while driving.",
+   "Drop-in sessions last about 10 minutes (first SEK 190); Tuesdays have a drop-in discount.",
+   "Parking is free and a kart school (3 sessions, 18 driving sessions) is offered."
+  ],
+  "group": [
+   "Whole-track race bookings in sizes from small to Mega race, with prize giving at the podium.",
+   "A company Tuesday (FöretagsTisdag) offer is listed."
+  ],
+  "hours": "Drop-in on a published weekly schedule (autumn 2026 typically Tue 15:00-18:00, Fri 15:00-18:00, Sat 14:00-18:00, Sun 15:00-18:30; Mon/Wed/Thu bookings only); booked races Mon-Sun from 13:00 (Sat 09:00) until dark",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://lockarpsgokart.se/priser/",
+   "https://lockarpsgokart.se/oppettider/",
+   "https://lockarpsgokart.se/bra-att-veta/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/6183808285",
+  "karts": [
+   {
+    "chassis": "Seniorkart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Juniorkart",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.icekart.se/priser_icekart.html",
+  "family": [
+   "Ice karting on a frozen track in the Salen ski area; junior karts are for ages 7+ and 125 cm (SEK 125 per 7 minutes).",
+   "Senior karts cost SEK 175 per 7-minute session; gloves and a helmet are required.",
+   "Snowmobile rental and guided tours are offered by the same operator."
+  ],
+  "group": [
+   "Salen Grand Prix group competition for at least 10 participants at SEK 450 per person (minimum SEK 4,500).",
+   "The track is often booked for competitions, especially on Fridays and Saturdays."
+  ],
+  "hours": "Not published; call the track phone (070-645 48 85) for rental times",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.icekart.se/",
+   "https://www.icekart.se/priser_icekart.html",
+   "https://www.icekart.se/regler_icekart.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/321498514",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Drop-in karting costs SEK 210 for an 8-minute drive at Pite Havsbad.",
+   "Children can ride a mini ATV (SEK 160 for 8 minutes) or a kids' bicycle track, also marketed for birthday parties.",
+   "Paintball and simple food (pizza, slush, ice cream) are available on site."
+  ],
+  "group": [
+   "Competitions with warm-up, 8-minute qualifier and 10-minute final (SEK 645), suggested for friends or colleagues.",
+   "Le Mans races of 60 minutes (SEK 1,600 per kart, min. 3 karts, pre-booked) and combined kart and paintball packages.",
+   "In low season competitions and paintball need at least 6 participants."
+  ],
+  "hours": "Summer high season drop-in 12:00-21:00; other times by arrangement",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Same venue/operator as way/576906518 (Gocart Pitea at Pite Havsbad); likely duplicate map entry."
+ },
+ {
+  "id": "way/576906518",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Drop-in karting costs SEK 210 for an 8-minute drive at Pite Havsbad.",
+   "Children can ride a mini ATV (SEK 160 for 8 minutes) or a kids' bicycle track, also marketed for birthday parties.",
+   "Paintball and simple food (pizza, slush, ice cream) are available on site."
+  ],
+  "group": [
+   "Competitions with warm-up, 8-minute qualifier and 10-minute final (SEK 645), suggested for friends or colleagues.",
+   "Le Mans races of 60 minutes (SEK 1,600 per kart, min. 3 karts, pre-booked) and combined kart and paintball packages.",
+   "In low season competitions and paintball need at least 6 participants."
+  ],
+  "hours": "Summer high season drop-in 12:00-21:00; other times by arrangement",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Same venue/operator as way/321498514 (Gocart Pitea at Pite Havsbad); likely duplicate map entry."
+ },
+ {
+  "id": "way/34627720",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Kid-Racer",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc (hand controls)",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 122,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.gokartstadion.se/faq",
+  "family": [
+   "Senior karts are for drivers from 14 years and 140 cm; junior karts from age 7 and 122 cm, with staff assessing each child.",
+   "Electric Kid-Racers for ages 0-6 run at 1-10 km/h on a separate 125 m small track, where double karts are also used.",
+   "Pedal cars can be borrowed for children under 122 cm; juniors and adults may share the large track.",
+   "One senior kart has hand controls for drivers with reduced mobility; rain gear is available."
+  ],
+  "group": [
+   "Kids' kart parties for ages 3-6 and 7-13.",
+   "Company events, conference facilities and a cafe on site."
+  ],
+  "hours": "Season to 31 Oct: 5-25 Oct Sat-Sun 10:00-16:00 (weekdays bookings only); 26-31 Oct daily 10:00-15:00; closed for the season from 1 Nov",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.gokartstadion.se/",
+   "https://www.gokartstadion.se/faq",
+   "https://www.gokartstadion.se/familj-barn"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/433175801",
+  "karts": [
+   {
+    "chassis": "Formula Indycart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Imola 2000",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.sommarland.se/attraktioner",
+  "family": [
+   "Two go-kart attractions inside the Skara Sommarland theme park: Formula Indycart (min. 160 cm) and Imola 2000 (min. 135 cm).",
+   "Both go-kart rides require a separate ticket on top of park entry.",
+   "Imola 2000 is listed as temporarily closed."
+  ],
+  "group": [],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.sommarland.se/",
+   "https://www.sommarland.se/attraktioner"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/40076940",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartway.se/skelleftea",
+  "family": [
+   "There is no age limit; drivers need to be 140 cm and reach the pedals.",
+   "Smaller children can ride a duo kart with an adult; up to 3 duo karts run at once.",
+   "Summer drop-in costs SEK 220 for 8 minutes; the track may close in heavy rain."
+  ],
+  "group": [
+   "Timed races can be booked outside regular opening hours."
+  ],
+  "hours": "Summer drop-in season only (2026: 20 Jun-9 Aug); currently closed for the season",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kartway.se/skelleftea"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/446435270",
+  "karts": [
+   {
+    "chassis": "Cadetti",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Micro",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "J60",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.svenskalag.se/uddevallakarting",
+  "family": [
+   "The club rents out three try-out karts on selected Sundays 11:00-16:00 so newcomers can try karting before buying their own.",
+   "Try-out karts: Cadetti from age 6, Micro from age 8 and J60 from age 10."
+  ],
+  "group": [],
+  "hours": "Club training Tue and Thu 17:00-20:00, Sun 11:00-16:00, only when a training marshal is listed; try-out rental on selected Sundays 11:00-16:00",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.svenskalag.se/uddevallakarting"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Club's 'Hyrkart' link goes to motorstadion.se/uddevalla, a separate rental operator not confirmed at Glimminge; that page also contains embedded spam text, so nothing from it was used."
+ },
+ {
+  "id": "way/126230927",
+  "karts": [
+   {
+    "chassis": "Dino Kart",
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda GX200",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://raceforall.se/utomhus-gokart/",
+  "family": [
+   "There is no age limit; standard karts need 145 cm and junior karts (50 km/h) 125 cm.",
+   "Drop-in needs no booking: SEK 200 for 8 minutes on the shared outdoor track.",
+   "Race karts (120 km/h, dry weather only) are available in packages from age 15.",
+   "Birthday parties include a pizza buffet and fika."
+  ],
+  "group": [
+   "Bookings from 6 people get a guaranteed start time with qualifying and final, alone on the track.",
+   "Company events combine karting with multi-activity contests and food; stag/hen parties and Le Mans team races are offered.",
+   "Paintball is available nearby through a partner."
+  ],
+  "hours": "Outdoor drop-in Tue-Fri 12:00-18:00, Sat 14:00-18:00, Sun varies (see Facebook)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://raceforall.se/",
+   "https://raceforall.se/utomhus-gokart/",
+   "https://raceforall.se/racekart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/514034732",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.varbergsgokart.se/priser-bokning/drop-in/",
+  "family": [
+   "Drop-in costs SEK 200 per person for 8 minutes with a 140 cm height limit; it cannot be pre-booked.",
+   "Drop-in runs on Saturdays, weather permitting."
+  ],
+  "group": [
+   "Races and Le Mans team races can be booked any day of the week, at least one day ahead."
+  ],
+  "hours": "Drop-in Sat 11:00-18:00 weather permitting; other days bookings only; closes for the season 31 Oct",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.varbergsgokart.se/priser-bokning/drop-in/",
+   "https://www.varbergsgokart.se/oppettider/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/704291326",
+  "karts": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": "5-7 (speed-limited)",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi RX250",
+    "engine": null,
+    "hp": "15 / 22",
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 115,
+   "adult_min_age": 13,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://action-center.se/gokart/drop%20in.html",
+  "family": [
+   "Driving starts at age 6 and 115 cm on a mini kart with 4-point belts; speed levels step up by age and height (8-10 yrs/125 cm, 10-13 yrs/135 cm, 13+/150 cm).",
+   "Drop-in races give 8 timed minutes from SEK 130; family members may drive mixed speed levels in the same race.",
+   "RX250 performance karts (15/22 hp) are for drivers from 15 and 150 cm who first set a qualifying lap time.",
+   "Drivers under 18 may only drive with a parent or guardian present."
+  ],
+  "group": [
+   "Event and race bookings daily 10:00-22:00 from April to October, normally with a week's notice (same-day possible in high summer)."
+  ],
+  "hours": "Season Apr-Oct. Drop-in: Apr and Oct Sat-Sun 11:00-16:00; May and Sep Sat-Sun 11:00-18:00; Jun wks 23-25 and Aug wks 34-35 Sat-Sun 11:00-19:00; Jun wk 26, Jul and Aug wks 31-33 daily 11:00-20:00. Bookings daily 10:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://action-center.se",
+   "https://action-center.se/gokart/",
+   "https://action-center.se/gokart/drop%20in.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/95139054",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Two double karts with seatbelts let adults ride with children under 10 or people who cannot drive alone; staff check that the belt fits.",
+   "A single kart with hand controls is available.",
+   "Drop-in shares the track with others when it is not booked, with lap timing."
+  ],
+  "group": [
+   "Races give your group the track to yourselves and need at least 8 drivers; groups over 20 should call or email.",
+   "Club SMK Vasteras offers karting from the year a child turns 6 (racing from 8)."
+  ],
+  "hours": "Rental (Halla Gokart), week 41: Mon-Tue closed; Wed 12-17; Thu-Fri 12-18; Sat-Sun 14-18",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.smkvasteras.se/",
+   "https://www.smkvasteras.se/start/?ID=414647",
+   "https://www.hallagokart.se/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Listed site is the club SMK Vasteras; public rental at Halla Ring is run via hallagokart.se, linked from the club's Hyrkart page."
+ },
+ {
+  "id": "node/10444657637",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 135,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://multichallenge.se/aktiviteter/gokart/",
+  "family": [
+   "Electric karts (about 70 km/h) need drivers of at least 135 cm to reach the pedals; 8 minutes cost SEK 180.",
+   "The indoor track is about 160 m with 1-4 karts on track at once.",
+   "The venue also has Boda Borg, laser tag and a Mini Multi play area for the youngest children."
+  ],
+  "group": [
+   "Grand Prix for groups of at least 4 with qualifying heats, a final and medals (SEK 355 per person).",
+   "Packages for birthday parties, school and group trips, company events, conferences and stag/hen parties."
+  ],
+  "hours": "Mon-Tue closed; Wed-Thu 10:00-16:00; Fri-Sat 10:00-20:00; Sun 10:00-16:00 (may change in holidays)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://multichallenge.se",
+   "https://multichallenge.se/aktiviteter/gokart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/3005599187",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbahn-fimmelsberg.ch/karts",
+  "family": [
+   "Adult karts are from age 12 and 155 cm; kids' karts from 130 cm (10 minutes CHF 23).",
+   "A two-seater lets a child ride with an accompanying adult (CHF 35 per 10 minutes).",
+   "Five new Tony Kart kids' karts join the fleet from November 2026; a Kinder Driver Academy trains on Wednesdays and Saturdays.",
+   "The 420 m indoor track uses petrol karts; helmets and protective gear are provided."
+  ],
+  "group": [
+   "Exclusive hall rental from 30 minutes (CHF 750), also outside regular hours including Mondays and Tuesdays.",
+   "Lap races of 30-50 laps for up to ten drivers aged 16+, plus a public race on the first Wednesday of the month."
+  ],
+  "hours": "Wed-Sun (times via the 'Wann kann ich fahren?' booking page); Mon-Tue for exclusive group rental only",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kartbahn-fimmelsberg.ch/",
+   "https://kartbahn-fimmelsberg.ch/karts",
+   "https://kartbahn-fimmelsberg.ch/fahren"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/9350684614",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbasel.ch/angebot",
+  "family": [
+   "Ticket rides on the indoor electric track are possible from 1.40 m tall; 8 minutes cost CHF 24 including briefing, helmet and timing.",
+   "Kids' birthday package for children up to 14: 3 x 8 minutes for up to 6 children (CHF 360) with a drink, snacks and best-time ranking."
+  ],
+  "group": [
+   "Exclusive track rental of 30 minutes (CHF 720) or 60 minutes (CHF 1,200), with racing possible.",
+   "Larger groups and team events are arranged by email; medals and trophy sets can be added."
+  ],
+  "hours": "Mon-Fri 14:00-20:30; Sat-Sun 12:00-20:30",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbasel.ch/",
+   "https://www.kartbasel.ch/angebot",
+   "https://www.kartbasel.ch/wochenplan"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/996303265",
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": "600 W (as stated)",
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.outdoorkart.ch/",
+  "family": [
+   "Minimum height is 140 cm for the regular sessions; the 800 m Super Track Tuesday is from age 16.",
+   "Kleiner Mittwoch (8 minutes, CHF 20) is aimed at younger drivers.",
+   "Electric karts reach about 60 km/h on a 450 m outdoor sprint track.",
+   "Public transport travellers get 10% off with the RhB railway combined offer."
+  ],
+  "group": [
+   "Exclusive track rental and individual events for groups, best booked early via the contact form.",
+   "Race Thursday offers qualifying and race against other drivers (2 x 15 minutes, CHF 70)."
+  ],
+  "hours": "Season 27 Mar-31 Oct 2026: Mon-Tue 17:00-21:00; Wed 13:00-21:00; Thu-Fri 17:00-21:00; Sat 13:00-21:00; Sun 10:00-19:00 (may close early when quiet)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.outdoorkart.ch/",
+   "https://www.outdoorkart.ch/erlebnis/unsere-karts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Kart page states motor power as 600 W, which seems implausibly low for a 60 km/h kart; recorded as stated."
+ },
+ {
+  "id": "relation/7225161",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Petrol 200cc",
+    "hp": "5.5 PS",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: kartbahnlyss.ch (with and without www, and /preise) returns an empty page to the fetcher (likely JavaScript-rendered). Same website as way/163895648; probably the same venue."
+ },
+ {
+  "id": "way/1126111119",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Minikart",
+    "engine": "97cc",
+    "hp": "2.5",
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.karts.ch/",
+  "family": [
+   "Kids' minikarts (40 km/h) are for ages 8-13 from 130 cm, on Wednesdays and Sundays 14:00-15:00 (CHF 19 per 10 minutes).",
+   "Adult karts (9 hp, 70 km/h) are from age 14; 10 minutes CHF 25.",
+   "Helmet and balaclava are included in the price."
+  ],
+  "group": [
+   "Group packages for at least 8 adults from 14 years in morning or midday slots: Grand Prix (CHF 65 with cup), Oro and Argento."
+  ],
+  "hours": "Daily from 14:00 (Wed and Sun adults from 15:00): May-Aug 14:00-19:00; Mar-Apr and Sep-Oct 14:00-18:00; Nov and Feb 14:00-17:00; Dec-Jan closed",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.karts.ch/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/163895648",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Petrol 200cc",
+    "hp": "5.5 PS",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: kartbahnlyss.ch (with and without www, and /preise) returns an empty page to the fetcher (likely JavaScript-rendered). Same website as relation/7225161; probably the same venue."
+ },
+ {
+  "id": "way/346520170",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+  "family": [
+   "Drivers must be at least 8 years old and 1.30 m tall; 8 minutes cost CHF 25 for adults and CHF 19 for children up to 15.",
+   "18 quiet electric karts run on hydropower on an outdoor track that opens only when dry.",
+   "A karting school for ages 8-15 runs Mon and Wed mornings in the summer holidays (CHF 60, max 8 children)."
+  ],
+  "group": [
+   "Group race packages for 10+ people (Daytona, Imola, Hockenheim, CHF 70-90 per person) with qualifying, final and award ceremony.",
+   "Exclusive track rental for company events or private parties from CHF 800 for the first hour."
+  ],
+  "hours": "Main season (6 Jul-16 Aug, 26 Sep-25 Oct 2026, 21 Dec 2026-3 Jan 2027) daily 10:00-12:00 and 13:00-18:00; off-season Wed and Fri 13:00-18:00, Sat-Sun 10:00-12:00 and 13:00-18:00; seasonal break 4 Nov 2026-2 Apr 2027",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Page lists 21 Dec 2026-3 Jan 2027 as main season but also a seasonal closure 4 Nov 2026-2 Apr 2027 and 'winter closed'."
+ },
+ {
+  "id": "node/248875804",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RSX 2",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi RT8 (handicap kart)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.race-inn.ch/angebot-1/unsere-mietkarts/",
+  "family": [
+   "Sodi SR4 standard karts need 1.50 m; the Sodi RSX 2 electric kart is available from 1.30 m.",
+   "Price categories: children 1.30-1.50 m, youth from 1.50 m up to 16, adults from 17; each ride lasts 8 minutes incl. helmet, overall and lap-time printout.",
+   "A Sodi RT8 kart is offered for drivers with a handicap.",
+   "The site calls itself the largest indoor kart track in Switzerland and has a restaurant open daily."
+  ],
+  "group": [
+   "Group event packages, Grand Prix reservations, stag parties (Polterabend) and kids' birthday parties are offered.",
+   "Seminar rooms, brunch and event spaces are available."
+  ],
+  "hours": "Mon-Fri 09:00-00:00; Sat-Sun 08:00-00:00 (Mon from 15:00 two-wheelers only, Grand Prix group reservations possible)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.race-inn.ch/",
+   "https://www.race-inn.ch/angebot-1/unsere-mietkarts/",
+   "https://www.race-inn.ch/angebot-1/preise-mietkarts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/157919567",
+  "karts": [
+   {
+    "chassis": "Tomkart Swiss E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 130,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://spreitenbach.kart.ch/informationen-und-sicherheit",
+  "family": [
+   "Karting is from 1.30 m; Family rides for children, families and beginners cost CHF 23 for 8 minutes.",
+   "Race rides for experienced drivers are from 1.30 m or 14 years (CHF 26).",
+   "28 adjustable Tomkart electric karts run on a multilevel 320 m indoor and 100 m outdoor track.",
+   "Wednesday 3-for-2 Family offer and a 2-for-1 birthday ride with official ID; duckpin bowling and a bistro on site."
+  ],
+  "group": [
+   "Grand Prix, stag parties and group events from 8 people; 2-hour team races and exclusive track hire from 20.",
+   "Kids' birthday parties from 6 children.",
+   "After-work races on Tuesday and Thursday from 19:00."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://spreitenbach.kart.ch",
+   "https://spreitenbach.kart.ch/informationen-und-sicherheit"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/3166986261",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "petrol",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 16,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbahn-sulgen.ch/",
+  "family": [
+   "Junior karts (5.5 PS) are from 1.20 m, and all first-time guests start on them.",
+   "Unthrottled 9 PS Sodi SR5 karts require 1.50 m and age 16; the track manager decides.",
+   "Minors without parents need a signed consent form and their own ID.",
+   "Happy Day: 3 x 10 minutes for CHF 70 on Wednesdays, Fridays and Sundays."
+  ],
+  "group": [
+   "Group race arrangements with aperitif and food for company events, clubs, birthdays and weddings.",
+   "Kids' birthday parties are offered, and the track can open outside regular hours for groups on request."
+  ],
+  "hours": "Mon-Tue closed; Wed-Sat 14:00-22:00; Sun 10:00-12:00 and 13:00-20:00; holiday hours separate",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbahn-sulgen.ch/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/186105356",
+  "karts": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc boosted",
+    "hp": "13",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi Sport",
+    "engine": "270cc",
+    "hp": "13",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi RSX2",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi X2Drive",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 13,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 3
+  },
+  "ages_source": "https://payerneland.ch/karting/tarifs/",
+  "family": [
+   "Kids' 200cc karts are for ages 8-12 (CHF 15 per 10 minutes); other single karts from age 13.",
+   "The two-seater takes passengers from age 3 accompanied by an adult (CHF 40) and suits children and people with reduced mobility.",
+   "No booking is needed for individuals or groups under 10; the venue also has Laurapark for ages 2-10, a pool and an adventure tower.",
+   "Kids' birthday packages on weekdays for ages 8-12 (CHF 30) and 13-15 (CHF 45), birthday child free."
+  ],
+  "group": [
+   "Mini and Maxi Grand Prix from 10 people and team endurance races of 1-3 hours from 15 teams, booking required.",
+   "Company and group events, school races and an inter-company cup are organised."
+  ],
+  "hours": "Mon-Fri 13:00-23:00; Sat 11:00-23:00; Sun 09:00-23:00; school and public holidays Mon-Sat 11:00-23:00, Sun 09:00-23:00 (indoor or outdoor depending on weather)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://payerneland.ch/karting/circuits-kartings/",
+   "https://payerneland.ch/karting/tarifs/",
+   "https://payerneland.ch/horaires/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Boosted Sodi SR4 and Sodi Sport (13 hp) are used only for internal events such as the winter championship and inter-company cup."
+ }
+]

@@ -1,0 +1,1180 @@
+[
+ {
+  "id": "node/1413233649",
+  "name": "Coronel Kartracing",
+  "town": "Huizen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.coronel.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2932410866",
+  "name": "Kartcentrum Lelystad",
+  "town": "Lelystad",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartcentrumlelystad.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/296815510",
+  "name": "Kartbaan Uden",
+  "town": "Maashorst",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaanuden.nl"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2782845692",
+  "name": "Karting Emmen",
+  "town": "Nieuw-Weerdinge",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartingemmen.nl"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2690461468",
+  "name": "Planet Awesome",
+  "town": "Nijmegen",
+  "country": "Netherlands",
+  "websites": [
+   "https://planet-awesome.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2663385135",
+  "name": "Kartplaza Actionworld",
+  "town": "Nijverdal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartplaza.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/278188018",
+  "name": "Kartbaan Oldenzaal",
+  "town": "Oldenzaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://kartbaanoldenzaal.nl/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": "Tu-Su 11:00-17:00; Mo off",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4620552009",
+  "name": "Van der Ende Racing & Fun",
+  "town": "Poeldijk",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.vanderende.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo 13:00-23:00; Tu 13:00-23:00; We 13:00-23:00; Th 13:00-23:00; Fr 13:00-24:00; Sa 12:00-24:00; Su 13:30-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13897664495",
+  "name": "Playdome (Kart Centre Roosendaal)",
+  "town": "Roosendaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.playdome.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo-Tu 18:30-23:00; We 14:00-23:00; Th 18:30-23:00; Fr 15:00-23:00; Sa 13:00-23:00; Su 13:00-18:00",
+  "has_age_rules": true
+ },
+ {
+  "id": "way/746760110",
+  "name": "Kartbaan Strijen",
+  "town": "Strijen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaanstrijen.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/7734829180",
+  "name": "De Voltage",
+  "town": "Tilburg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.devoltage.nl"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/3040205459",
+  "name": "Kartfabrique",
+  "town": "Utrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartfabrique.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1360118353",
+  "name": "TeamSport Karten Utrecht The Wall",
+  "town": "Utrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo 16:00-23:00; Tu 15:30-23:00; We 13:30-23:00; Th 14:00-23:00; Fr 13:30-22:00; Sa 10:30-00:00; Su 08:30-21:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/446075802",
+  "name": "Kartcircuit Driebergen",
+  "town": "Utrechtse Heuvelrug",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaan.com"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/274259545",
+  "name": "Powerarea",
+  "town": "Vaals",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.powerarea.nl"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Tu-Fr 15:00-23:00; We 13:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13607854888",
+  "name": "Indoor Kartbaan Winterswijk",
+  "town": "Winterswijk",
+  "country": "Netherlands",
+  "websites": [
+   "https://kartbaanwinterswijk.nl"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo 18:00-23:00; Tu-Th 15:00-23:00; Fr 15:00-24:00; Sa 00:00-02:00,12:00-24:00; Su 00:00-02:00,12:00-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4614279439",
+  "name": "Silverstone Partycenter",
+  "town": "Zwanenburg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.silverstone.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2788019640",
+  "name": "Kartcentrum Zwolle",
+  "town": "Zwolle",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartcentrumzwolle.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1350493948",
+  "name": "Racehall Stockholm",
+  "town": "Botkyrka kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://racehall.com/en/booking-stockholm"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/234113309",
+  "name": "Kart",
+  "town": "Enköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.enkopingsmk.se/karting",
+   "https://www.enkopingsmk.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/343140372",
+  "name": "Kneippbyn gokart",
+  "town": "Gotlands kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.kneippbyn.se"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/14088543327",
+  "name": "Gränges Hyr-kart",
+  "town": "Grängesberg",
+  "country": "Sweden",
+  "websites": [
+   "https://grangeshyrkart.se"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/10426245",
+  "name": "Göteborgs Gokartcenter",
+  "town": "Göteborgs Stad",
+  "country": "Sweden",
+  "websites": [
+   "https://gokart.se/"
+  ],
+  "known_fleet": [
+   [
+    "Caroli Hammerhead",
+    "Honda",
+    "9",
+    "adult"
+   ],
+   [
+    "Caroli Hammerhead",
+    "Honda",
+    "6.5",
+    "adult"
+   ],
+   [
+    "Caroli Junior",
+    "Honda",
+    "4",
+    "junior"
+   ],
+   [
+    "Caroli combi kart (hand controls)",
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1005039103",
+  "name": "Flotsbro Downhill Cars",
+  "town": "Huddinge kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/132148316",
+  "name": "Hudiksvalls Hyrcart",
+  "town": "Hudiksvalls kommun",
+  "country": "Sweden",
+  "websites": [
+   "http://www.hyrcart.se"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1307053280",
+  "name": "Andreassen Motorsport Kart Park",
+  "town": "Jokkmokks kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.vuollerimsmf.se/kartingringen"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1418328888",
+  "name": "Järfälla Hyrkart",
+  "town": "Järfälla kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.jarfallahyrkart.se/",
+   "https://www.sodakart.se/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "125cc (Rotax Life racekart)",
+    "28",
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/279571694",
+  "name": "Vroom Gokart Jönköping",
+  "town": "Jönköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.vroom.se"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/45484844",
+  "name": "Kalmar Gokart / Skogstorps Motorarena",
+  "town": "Kalmar kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.kalmargokart.se/",
+   "https://www.kalmarmotorklubb.se/kalmarmotorklubb-bilsport-gokart"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/250247751",
+  "name": "Gelleråsen Arena kart tracks",
+  "town": "Karlskoga kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gellerasen.se/gokart/",
+   "https://www.gellerasen.se/kartingbanan/"
+  ],
+  "known_fleet": [
+   [
+    "Carolikart",
+    "Honda GX270",
+    "9",
+    "adult"
+   ],
+   [
+    "Mini-kart",
+    "Honda GX160",
+    "4.5",
+    "kids"
+   ],
+   [
+    "Duokart",
+    "Honda GX270",
+    "9",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/486200449",
+  "name": "Kart Ring Klippan (KS Klippan)",
+  "town": "Klippans kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.svenskalag.se/ksklippan"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/10105432",
+  "name": "Värmlands Gokartcenter",
+  "town": "Kristinehamns kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.varmlandsgokartcenter.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1549065921",
+  "name": "Blåkulla Gokart",
+  "town": "Laholm",
+  "country": "Sweden",
+  "websites": [
+   "http://www.blakullagokart.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/486577840",
+  "name": "Hagaslätt Karting / Växjö Hyrkart",
+  "town": "Lessebo kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://vaxjohyrkart.se/",
+   "https://hagaslattkarting.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/95777914",
+  "name": "Go-karthallen (MAGP Go-kart)",
+  "town": "Linköping",
+  "country": "Sweden",
+  "websites": [
+   "https://magpgokart.se"
+  ],
+  "known_fleet": [
+   [
+    "DINO",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/95564957",
+  "name": "Gokartuthyrningen i Linköping",
+  "town": "Linköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.hyrgokart.com/",
+   "https://en.wikipedia.org/wiki/Link%C3%B6ping_Motorstadion"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/410895971",
+  "name": "Gokartuthyrningen Linköping (Linköpings Motorstadion, Sviestad)",
+  "town": "Linköpings kommun",
+  "country": "Sweden",
+  "websites": [
+   "http://www.hyrgokart.com/",
+   "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1193992601",
+  "name": "Luleå Karting (Kartway)",
+  "town": "Luleå kommun",
+  "country": "Sweden",
+  "websites": [
+   "http://kartway.se/Lulea/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/828964156",
+  "name": "Trollringens kartingbana",
+  "town": "Lycksele kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "known_fleet": null,
+  "known_hours": "Jun 15-Aug 16 12:00-17:00; PH off",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1091896435",
+  "name": "Glabo Gokart & Paintball",
+  "town": "Löttorp",
+  "country": "Sweden",
+  "websites": [
+   "https://www.glabogokart.se"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1350495161",
+  "name": "Gokartcity Malmö",
+  "town": "Malmö",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gokartcity.club/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/229163499",
+  "name": "Lockarps Gokart",
+  "town": "Malmö kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.lockarpsgokart.se/",
+   "https://www.mak.nu/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/6183808285",
+  "name": "Icekart Sälen",
+  "town": "Malung-Sälens kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.icekart.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/321498514",
+  "name": "Gocart Piteå (Pite Havsbad)",
+  "town": "Piteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/576906518",
+  "name": "GoCart Piteå",
+  "town": "Piteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/34627720",
+  "name": "Gokart Stadion ÖS-WE Ring",
+  "town": "Rosersberg",
+  "country": "Sweden",
+  "websites": [
+   "https://www.gokartstadion.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/433175801",
+  "name": "Skara Sommarland go-kart",
+  "town": "Skara kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.sommarland.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/40076940",
+  "name": "Skellefteå Kart Arena (Kartway Skellefteå)",
+  "town": "Skellefteå kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://kartway.se/skelleftea"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/446435270",
+  "name": "Glimminge Motorstadion",
+  "town": "Uddevalla distrikt",
+  "country": "Sweden",
+  "websites": [
+   "https://www.svenskalag.se/uddevallakarting"
+  ],
+  "known_fleet": [
+   [
+    "Cadetti",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Micro",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "J60",
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/126230927",
+  "name": "Race4all (Rörken Motorstadion)",
+  "town": "Uppsala kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://raceforall.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/514034732",
+  "name": "Varbergs Gokart",
+  "town": "Varberg",
+  "country": "Sweden",
+  "websites": [
+   "https://www.varbergsgokart.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/704291326",
+  "name": "Action Center",
+  "town": "Västerviks kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://action-center.se"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/95139054",
+  "name": "SMK Västerås Karting",
+  "town": "Västerås kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://www.smkvasteras.se/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/10444657637",
+  "name": "Multi Challenge",
+  "town": "Östersunds kommun",
+  "country": "Sweden",
+  "websites": [
+   "https://multichallenge.se"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/3005599187",
+  "name": "Motorsportzentrum Fimmelsberg",
+  "town": "Amlikon-Bissegg",
+  "country": "Switzerland",
+  "websites": [
+   "https://kartbahn-fimmelsberg.ch/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "town": "Basel",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbasel.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Fr 14:00-22:00; Sa-Su,PH 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/996303265",
+  "name": "OutdoorKart Graubünden",
+  "town": "Cazis",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.outdoorkart.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/7225161",
+  "name": "Kartbahn Lyss",
+  "town": "Kappelen",
+  "country": "Switzerland",
+  "websites": [
+   "https://kartbahnlyss.ch/",
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Petrol 200cc",
+    "5.5 PS",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/1126111119",
+  "name": "Pista GOKART Locarno-Magadino",
+  "town": "Locarno",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.karts.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    "97cc",
+    "2.5",
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/163895648",
+  "name": "Kartbahn Lyss (Kartbahn Kappelen AG)",
+  "town": "Lyss",
+  "country": "Switzerland",
+  "websites": [
+   "https://kartbahnlyss.ch/",
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Petrol 200cc",
+    "5.5 PS",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/346520170",
+  "name": "Kartbahn Morschach (Swiss Holiday Park)",
+  "town": "Morschach",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+   "https://www.swissholidaypark.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/248875804",
+  "name": "Race-Inn",
+  "town": "Roggwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.race-inn.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/157919567",
+  "name": "Kartbahn Spreitenbach",
+  "town": "Spreitenbach",
+  "country": "Switzerland",
+  "websites": [
+   "https://spreitenbach.kart.ch"
+  ],
+  "known_fleet": [
+   [
+    "Tomkart Swiss E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/3166986261",
+  "name": "Kartbahn Sulgen",
+  "town": "Sulgen",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahn-sulgen.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "5.5",
+    "junior"
+   ],
+   [
+    "Sodi SR5",
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/186105356",
+  "name": "Karting de Payerne (Payerneland)",
+  "town": "Vers-chez-Perrin",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.payerneland.ch/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Tu 17:00-23:00; We 14:00-23:00; Th-Fr 17:00-23:00; Sa-Su 14:00-23:00",
+  "has_age_rules": false
+ }
+]

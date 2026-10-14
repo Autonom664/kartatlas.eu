@@ -1,0 +1,1653 @@
+[
+ {
+  "id": "way/290678826",
+  "name": "ASK Martigues - Piste de l'Oratoire",
+  "town": "Martigues",
+  "country": "France",
+  "websites": [
+   "https://askmartigues.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/4267416",
+  "name": "Karting Auto Meisenthal",
+  "town": "Meisenthal",
+  "country": "France",
+  "websites": [
+   "https://karting-meisenthal.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RX8",
+    "390cc 4-stroke",
+    "13 CV",
+    "adult"
+   ],
+   [
+    null,
+    "300cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/128857901",
+  "name": "Cap Karting - Circuit de Mer",
+  "town": "Mer",
+  "country": "France",
+  "websites": [
+   "https://www.capkarting.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "390cc",
+    null,
+    "adult"
+   ],
+   [
+    "Proto Max",
+    "Rotax Max J",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13105619745",
+  "name": "Karting Family Fun Park",
+  "town": "Meschers-sur-Gironde",
+  "country": "France",
+  "websites": [
+   "https://www.family-fun-park-meschers.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo-Th, Su 10:00-01:00; Fr, Sa 10:00-02:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/156358387",
+  "name": "New Kart Poitiers",
+  "town": "Migné-Auxances",
+  "country": "France",
+  "websites": [
+   "http://www.newkartpoitiers.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT8",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodi GT5",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/290680699",
+  "name": "Nîmes Karting",
+  "town": "Milhaud",
+  "country": "France",
+  "websites": [
+   "https://www.nimeskarting.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "Honda 270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Of-Course XLNEO",
+    "120cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/92793042",
+  "name": "Kartland Paris",
+  "town": "Moissy-Cramayel",
+  "country": "France",
+  "websites": [
+   "https://www.kartland.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/189887727",
+  "name": "Karting Bocaspeed",
+  "town": "Moncoutant-sur-Sèvre",
+  "country": "France",
+  "websites": [
+   "https://bocaspeed.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "bio-ethanol",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/221575189",
+  "name": "Karting Loisirs Monteux",
+  "town": "Monteux",
+  "country": "France",
+  "websites": [
+   "https://kartingdemonteux.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/594674045",
+  "name": "Circuit Maurice Tissandier (Circuit de La Châtre)",
+  "town": "Montgivray",
+  "country": "France",
+  "websites": [
+   "https://www.circuitdelachatre.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1531505783",
+  "name": "Karting du Nord Mayenne",
+  "town": "Montreuil-Poulay",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdunordmayenne.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/898168875",
+  "name": "Mistral Karting",
+  "town": "Montélimar",
+  "country": "France",
+  "websites": [
+   "http://www.mistralkart.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "120cc",
+    "4.5 hp",
+    "kids"
+   ],
+   [
+    null,
+    "200cc",
+    "6.5 hp",
+    "junior"
+   ],
+   [
+    null,
+    "270cc",
+    "8 hp",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "10 hp",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12089359841",
+  "name": "BattleKart Lyon-Mornant",
+  "town": "Mornant",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/lyon-mornant/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Th 16:00-22:00; Fr 16:00-00:00; Sa 12:00-00:00; Su 13:00-20:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/123559878",
+  "name": "Karting de Muret",
+  "town": "Muret",
+  "country": "France",
+  "websites": [
+   "https://www.kartingmuret.fr"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/290670811",
+  "name": "Karting 2 Noiron",
+  "town": "Noiron-sous-Gevrey",
+  "country": "France",
+  "websites": [
+   "https://www.karting2noiron.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "We-Fr 14:00-19:00; Sa-Su 10:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1000270136",
+  "name": "BattleKart",
+  "town": "Notre-Dame-d'Oé",
+  "country": "France",
+  "websites": [
+   "https://www.battlekart.com/fr/tours/"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo 14:00-19:00; Tu,We 14:00-19:30; Th 14:00-22:00; Fr 14:00-00:00; Sa 10:00-00:00; Su 11:00-19:30; SH Mo 10:30-19:00; SH Tu,We 10:30-19:30; SH Th 10:30-22:00; SH Fr 10:30-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/472062469",
+  "name": "Racing Kart JPR",
+  "town": "Ostricourt",
+  "country": "France",
+  "websites": [
+   "https://www.karting-lille-jpr.fr",
+   "https://www.facebook.com/RacingKartJPR"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "390cc",
+    "14",
+    "adult"
+   ],
+   [
+    null,
+    "GT Max",
+    null,
+    "other"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13247717402",
+  "name": "Circuit de Ouistreham",
+  "town": "Ouistreham",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-ouistreham/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Sa-Su 10:00-12:30, 14:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/482574017",
+  "name": "Astra Kart Ozan",
+  "town": "Ozan",
+  "country": "France",
+  "websites": [
+   "https://astrakartozan.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/95700263",
+  "name": "Circuit Jean Brun",
+  "town": "Paray-sous-Briailles",
+  "country": "France",
+  "websites": [
+   "https://karting-varennes.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/192506414",
+  "name": "Karting du Mont-Blanc",
+  "town": "Passy",
+  "country": "France",
+  "websites": [
+   "https://www.kartingdumontblanc.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/747859413",
+  "name": "Karting des 3 Lacs",
+  "town": "Piégut",
+  "country": "France",
+  "websites": [
+   "https://karting3lacs.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi LR5",
+    "Honda 200cc",
+    null,
+    "junior"
+   ],
+   [
+    "Sodi SR4",
+    "Honda 270cc",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/45104851",
+  "name": "Solokart",
+  "town": "Plessé",
+  "country": "France",
+  "websites": [
+   "https://www.solokart.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "390cc",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1528576088",
+  "name": "Kart 56",
+  "town": "Ploemel",
+  "country": "France",
+  "websites": [
+   "https://www.kart56.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1528558823",
+  "name": "Kart Ouest",
+  "town": "Ploumoguer",
+  "country": "France",
+  "websites": [
+   "https://www.kartouest29.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/681911933",
+  "name": "Kart Center Pluméliau",
+  "town": "Pluméliau-Bieuzy",
+  "country": "France",
+  "websites": [
+   "https://www.kartcenter56.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "Rotax 2-stroke",
+    "22",
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/192260020",
+  "name": "Karting Dijon-Prenois",
+  "town": "Prenois",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-dijon-prenois.com/karting/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi LR5",
+    "160cc 4-stroke",
+    "5",
+    "kids"
+   ],
+   [
+    "Sodi RX7",
+    "390cc 4-stroke",
+    "15",
+    "adult"
+   ],
+   [
+    "Sodi Duo Drive",
+    "390cc 4-stroke",
+    "15",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/502111524",
+  "name": "Loc'karting",
+  "town": "Pérols",
+  "country": "France",
+  "websites": [
+   "https://www.lockarting.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/635825967",
+  "name": "Circuit Sarron",
+  "town": "Riom",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-sarron.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "4.5 hp",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "9 hp",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "13 hp",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/174687955",
+  "name": "A.S. Karting Le Coteau",
+  "town": "Roanne",
+  "country": "France",
+  "websites": [
+   "http://www.karting-le-coteau.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1003748937",
+  "name": "Karting de Beauvais",
+  "town": "Rochy-Condé",
+  "country": "France",
+  "websites": [
+   "https://kartingdebeauvais.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Tu-Fr 10:00-18:00; Sa-Su 09:00-20:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12833306764",
+  "name": "Rouen Espace Loisirs",
+  "town": "Rouen",
+  "country": "France",
+  "websites": [
+   "https://www.rouenespaceloisirs.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1369658853",
+  "name": "DKS-Motors",
+  "town": "Rouvignies",
+  "country": "France",
+  "websites": [
+   "https://www.dks-motors.com/",
+   "https://www.facebook.com/profile.php?id=61554247027373"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "390cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/315475394",
+  "name": "Karting Évasion Rumilly",
+  "town": "Rumilly",
+  "country": "France",
+  "websites": [
+   "http://kartingderumilly.fr/index.html"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Tu off; We-Fr 09:00-12:00, 14:00-18:00; Sa-Su 09:00-12:00, 13:30-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1459789180",
+  "name": "Circuit de Deauville",
+  "town": "Saint-Arnoult",
+  "country": "France",
+  "websites": [
+   "https://www.teamactive.fr/nos-sites/grand-ouest/circuit-de-deauville/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "We 10:00-12:30, 14:00-17:30; Sa-Su 10:00-12:30, 14:00-17:30",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/9860088013",
+  "name": "Tours Kart Indoor",
+  "town": "Saint-Avertin",
+  "country": "France",
+  "websites": [
+   "https://www.tours-kart-indoor.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    "160cc",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": "Tu, Th, Fr 17:00-22:00; We 15:00-22:00; Sa 14:00-22:00; Su 14:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/169129661",
+  "name": "Karting 45",
+  "town": "Saint-Benoît-sur-Loire",
+  "country": "France",
+  "websites": [
+   "https://www.karting45.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": "We-Fr 14:00-18:00; Sa-Su 10:00-12:00,14:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/290715451",
+  "name": "Karting Saint Cyprien",
+  "town": "Saint-Cyprien",
+  "country": "France",
+  "websites": [
+   "https://kartingstcyprien.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "120cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Su 09:00-12:00,14:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/65283310",
+  "name": "Energy Karting Saint-Cyr",
+  "town": "Saint-Cyr",
+  "country": "France",
+  "websites": [
+   "https://www.energykarting-stcyr.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13377968137",
+  "name": "Passion Karting 17",
+  "town": "Saint-Jean-d'Angély",
+  "country": "France",
+  "websites": [
+   "https://www.passionkarting17.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "We-Su 10:00-12:00,14:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/700028361",
+  "name": "Actua Karting (Circuits de Lyon)",
+  "town": "Saint-Laurent-de-Mure",
+  "country": "France",
+  "websites": [
+   "https://www.actua-organisation.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Rotax",
+    null,
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/170360227",
+  "name": "Db Karting",
+  "town": "Saint-Lyé",
+  "country": "France",
+  "websites": [
+   "https://dbkarting.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "120cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/196775114",
+  "name": "Pôle Mécanique Karting",
+  "town": "Saint-Martin-de-Valgalgues",
+  "country": "France",
+  "websites": [
+   "https://pole-mecanique-karting.fr",
+   "https://www.pole-mecanique.fr/nos-circuits/circuit-karting/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13157094160",
+  "name": "Planet Karting",
+  "town": "Saint-Martin-lez-Tatinghem",
+  "country": "France",
+  "websites": [
+   "https://www.planet-karting.com/",
+   "https://www.facebook.com/PlanetKarting"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/235387321",
+  "name": "Racing Kart Jade (RKJ)",
+  "town": "Saint-Michel-Chef-Chef",
+  "country": "France",
+  "websites": [
+   "https://rkj.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1528584088",
+  "name": "Karting de Saint-Malo",
+  "town": "Saint-Méloir-des-Ondes",
+  "country": "France",
+  "websites": [
+   "https://www.karting-saint-malo.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/196085614",
+  "name": "Karting Distrakart",
+  "town": "Saint-Paulien",
+  "country": "France",
+  "websites": [
+   "http://www.distrakart.fr"
+  ],
+  "known_fleet": [
+   [
+    "Alpha",
+    "Honda 270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Comer",
+    "Comer 60cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/672536847",
+  "name": "Circuit de Barcelonnette",
+  "town": "Saint-Pons",
+  "country": "France",
+  "websites": [
+   "https://www.passionkart.fr/listings/karting-saint-pons-circuit-barcelonnette/"
+  ],
+  "known_fleet": null,
+  "known_hours": "14:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/5607946169",
+  "name": "City Kart Indoor",
+  "town": "Saint-Sébastien-sur-Loire",
+  "country": "France",
+  "websites": [
+   "https://www.city-kart.fr/karting-indoor-de-nantes/",
+   "https://www.city-kart.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart SR5",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    "160cc",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/11111781069",
+  "name": "Fast & Green",
+  "town": "Saint-Étienne",
+  "country": "France",
+  "websites": [
+   "https://www.fast-and-green.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/11635025481",
+  "name": "KHUB Arras",
+  "town": "Sainte-Catherine",
+  "country": "France",
+  "websites": [
+   "https://khub-arras.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "We,Su 14:00-20:00; Th 14:00-20:00; Fr,Sa 14:00-23:30",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/179620169",
+  "name": "Sologne Karting - Circuit International de Salbris",
+  "town": "Salbris",
+  "country": "France",
+  "websites": [
+   "https://www.sologne-karting.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1554844424",
+  "name": "Kart Racer",
+  "town": "Saran",
+  "country": "France",
+  "websites": [
+   "https://www.kartracer.fr/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo 16:00-22:30; Tu 17:00-22:30; We 15:00-22:30; Th 17:00-00:00; Fr 17:00-01:00; Sa 14:00-02:00; Su 14:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1326128880",
+  "name": "City Kart Outdoor",
+  "town": "Sautron",
+  "country": "France",
+  "websites": [
+   "https://www.city-kart.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "Rotax 125",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "120cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/154944821",
+  "name": "MK Circuit",
+  "town": "Scientrier",
+  "country": "France",
+  "websites": [
+   "http://www.mk-circuit.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "390cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi RX250",
+    "250cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/680299871",
+  "name": "Circuit de l'Enclos",
+  "town": "Septfontaines",
+  "country": "France",
+  "websites": [
+   "http://www.circuitdelenclos.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "09:00-12:00,14:00-19:00; Dec 21-Mar 20 10:00-12:00,14:00-17:00 \"Horaires d'hiver\"",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/201662702",
+  "name": "Circuit de l'Europe",
+  "town": "Sotteville-sous-le-Val",
+  "country": "France",
+  "websites": [
+   "https://www.circuit-europe.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "120cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "390cc",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/123072286",
+  "name": "Sens Espaces Karting (Circuit de Soucy)",
+  "town": "Soucy",
+  "country": "France",
+  "websites": [
+   "https://www.sek.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Minikart",
+    "200cc 4-stroke",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "Rotax Max 125cc 2-stroke",
+    null,
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/410308914",
+  "name": "Racing Kart du Mans",
+  "town": "Soulitré",
+  "country": "France",
+  "websites": [
+   "https://www.racingkartdumans.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/961590105",
+  "name": "Sun Karting",
+  "town": "Sérignan",
+  "country": "France",
+  "websites": [
+   "http://www.sunkarting.fr"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT8",
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/136274608",
+  "name": "Passion Karting 16",
+  "town": "Taponnat-Fleurignac",
+  "country": "France",
+  "websites": [
+   "https://www.passionkarting16.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": "We-Su 10:00-12:00, 14:00-17:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1078855429",
+  "name": "Karting de la Gravona",
+  "town": "Tavaco",
+  "country": "France",
+  "websites": [
+   "https://karting-gravona.corsica/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi GT4",
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi Fun-Kid",
+    "120cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/533293229",
+  "name": "Circuit de Vaison Piste",
+  "town": "Torcy",
+  "country": "France",
+  "websites": [
+   "https://vaisonpiste.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/290715452",
+  "name": "Karting de Torreilles",
+  "town": "Torreilles",
+  "country": "France",
+  "websites": [
+   "https://www.kartingtorreilles.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "120cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/76329770",
+  "name": "Défikart",
+  "town": "Toulouse",
+  "country": "France",
+  "websites": [
+   "https://www.defikart.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    "Praga",
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ }
+]

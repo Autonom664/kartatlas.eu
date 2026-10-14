@@ -140,7 +140,9 @@ test("broader discovery exposes verified venues, unknown prices and recovered Sw
     await page.goto(`/venues/${id.replace("/", "-")}/`);
     await expect(page.locator("h1")).toHaveText(name);
   }
-  await expect(page.getByText("No verified published prices in the atlas. This does not mean rental is unavailable.")).toBeVisible();
+  // Lelystad publishes package/group prices only: listed, never a standard comparison
+  await expect(page.getByText(/Not a public standard comparison; package\/group offer/).first()).toBeVisible();
+  await expect(page.getByText("Standard comparison", { exact: true })).toHaveCount(0);
   await page.goto("/#venue=way%2F130350436");
   await page.getByRole("tab", { name: "Prices", exact: true }).click();
   await expect(page.locator("#pane-prices").getByText("RACE 200cc 4T", { exact: false }).first()).toBeVisible();

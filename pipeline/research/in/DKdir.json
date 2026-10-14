@@ -1,0 +1,316 @@
+[
+ {
+  "id": "way/486318757",
+  "name": "Thy Karting Center",
+  "town": "Thisted Kommune",
+  "address": null,
+  "website": "https://thymotorsport.dk/",
+  "official_lengths": [
+   1248
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/4467077725",
+  "name": "Gokart World",
+  "town": "Aalborg Kommune",
+  "address": null,
+  "website": "https://www.gokartworld.dk/",
+  "official_lengths": [
+   400
+  ],
+  "kind": "indoor"
+ },
+ {
+  "id": "way/785838797",
+  "name": "Mou Gokart",
+  "town": "Aalborg Kommune",
+  "address": null,
+  "website": "https://mougokart.dk",
+  "official_lengths": [
+   640
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/567296895",
+  "name": "Tom K Karting Arena",
+  "town": "Rebild Kommune",
+  "address": null,
+  "website": null,
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/4477658831",
+  "name": "Skive Gokart og Paintball Center",
+  "town": "Skive Kommune",
+  "address": null,
+  "website": "https://www.skivegokart.dk",
+  "official_lengths": [
+   250
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/466134641",
+  "name": "Viborg Motor Klub",
+  "town": "Viborg Kommune",
+  "address": null,
+  "website": "https://viborgmotorklub.dk/",
+  "official_lengths": [
+   500
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/447780824",
+  "name": "Auning Kart Park",
+  "town": "Norddjurs Kommune",
+  "address": null,
+  "website": "https://auningkartpark.dk/",
+  "official_lengths": [
+   620
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "town": "Syddjurs Kommune",
+  "address": null,
+  "website": "https://www.dmka.dk/karting/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/532894308",
+  "name": "Midtjysk Karting Bane",
+  "town": "Ikast-Brande Kommune",
+  "address": null,
+  "website": "http://midtjyskgokart.dk",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/87330958",
+  "name": "Racehall Aarhus",
+  "town": "Aarhus Kommune",
+  "address": null,
+  "website": "https://racehall.com/",
+  "official_lengths": [
+   1000
+  ],
+  "kind": "indoor"
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "town": "Silkeborg Kommune",
+  "address": null,
+  "website": "https://silkeborg-gokart.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/2216849378",
+  "name": "Grindsted Gokart Klub",
+  "town": "Billund Kommune",
+  "address": null,
+  "website": "https://www.grindstedgokartklub.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "town": "Ballerup Kommune",
+  "address": null,
+  "website": "https://www.ballerupeventcenter.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/356759825",
+  "name": "Vandel Gokart",
+  "town": "Vejle Kommune",
+  "address": null,
+  "website": "https://www.vandelgokart.dk/",
+  "official_lengths": [
+   900
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/177039353",
+  "name": "Holbæk Gokartklub",
+  "town": "Holbæk Kommune",
+  "address": null,
+  "website": "https://holbaek-gokart.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/139090965",
+  "name": "Københavns Gokart Bane",
+  "town": "Københavns Kommune",
+  "address": null,
+  "website": "https://kbh-gokart.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/213207415",
+  "name": "Svebølle Go-Kart",
+  "town": "Kalundborg Kommune",
+  "address": null,
+  "website": null,
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/839020157",
+  "name": "Racehall København",
+  "town": "Høje-Taastrup Kommune",
+  "address": null,
+  "website": "https://racehall.com/",
+  "official_lengths": [
+   1250
+  ],
+  "kind": "indoor"
+ },
+ {
+  "id": "way/938791191",
+  "name": "Roskilde Racing Center",
+  "town": "Roskilde Kommune",
+  "address": null,
+  "website": "https://www.roskilderacingcenter.dk",
+  "official_lengths": [
+   1250
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "town": "Fredericia Kommune",
+  "address": null,
+  "website": "https://racesyd.dk/",
+  "official_lengths": null,
+  "kind": "indoor"
+ },
+ {
+  "id": "way/892633637",
+  "name": "Søndersø Karting Klub",
+  "town": "Nordfyns Kommune",
+  "address": null,
+  "website": "https://gokartfyn.dk/",
+  "official_lengths": [
+   733
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "town": "Esbjerg Kommune",
+  "address": null,
+  "website": "https://bowlnfun.dk/forlystelser/gokart/",
+  "official_lengths": null,
+  "kind": "indoor"
+ },
+ {
+  "id": "node/4467097590",
+  "name": "Odense Gokart Hal",
+  "town": "Odense Kommune",
+  "address": null,
+  "website": "https://odensegokart.dk",
+  "official_lengths": [
+   270
+  ],
+  "kind": "indoor"
+ },
+ {
+  "id": "way/712050506",
+  "name": "Gokartcenter Fyn",
+  "town": "Odense Kommune",
+  "address": null,
+  "website": "https://gokartcenterfyn.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/1236943145",
+  "name": "Korsør Kart Klub",
+  "town": "Slagelse Kommune",
+  "address": null,
+  "website": "https://www.kgkk.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/449265399",
+  "name": "Vojens Motorsport Arena",
+  "town": "Haderslev Kommune",
+  "address": null,
+  "website": "https://www.vma.dk/",
+  "official_lengths": [
+   700,
+   700,
+   1400
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/93851066",
+  "name": "Skærbæk Gocart Center",
+  "town": "Tønder Kommune",
+  "address": null,
+  "website": "https://www.kart.dk/",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "town": "Vordingborg Kommune",
+  "address": null,
+  "website": "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane",
+  "official_lengths": null,
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/94984580",
+  "name": "Als Gokart Klub",
+  "town": "Sønderborg Kommune",
+  "address": null,
+  "website": "https://alsgokartklub.dk/",
+  "official_lengths": [
+   760
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/380865250",
+  "name": "Marielyst Gokart & Paintball Center",
+  "town": "Guldborgsund Kommune",
+  "address": null,
+  "website": "https://gokart.dk/",
+  "official_lengths": [
+   370,
+   560
+  ],
+  "kind": "outdoor"
+ },
+ {
+  "id": "way/664573164",
+  "name": "Rødby Karting Ring",
+  "town": "Lolland Kommune",
+  "address": null,
+  "website": "http://www.rgkk.dk/rgkk",
+  "official_lengths": [
+   1246
+  ],
+  "kind": "outdoor"
+ }
+]

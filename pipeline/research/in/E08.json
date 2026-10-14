@@ -1,0 +1,1337 @@
+[
+ {
+  "id": "way/59826097",
+  "name": "Kart track near Fondi",
+  "town": "Fondi",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistakartingfondi.com"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/297850148",
+  "name": "Kartodromo Is Arenadas",
+  "town": "Gelisuli/Girasole",
+  "country": "Italy",
+  "websites": [
+   "https://kartodromoisarenadas.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/204940284",
+  "name": "Pista Gialla Giulianova",
+  "town": "Giulianova",
+  "country": "Italy",
+  "websites": [
+   "https://pistagialla.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Subaru 270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc 4-stroke",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "Subaru 270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Su 15:00-19:30,21:00-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1481640920",
+  "name": "Theway Experience Park Imola",
+  "town": "Imola",
+  "country": "Italy",
+  "websites": [
+   "https://www.thewaykart.com/le-nostre-piste/imola"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/507793994",
+  "name": "Circuito Vincenza Ispica",
+  "town": "Ispica",
+  "country": "Italy",
+  "websites": [
+   "https://circuitovincenzaispica.it/",
+   "https://www.facebook.com/circuitovincenzaispica/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "125cc 2-stroke",
+    null,
+    "race"
+   ],
+   [
+    "Sodi LR5",
+    "125cc 2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/130350436",
+  "name": "Pista Azzurra Jesolo",
+  "town": "Jesolo",
+  "country": "Italy",
+  "websites": [
+   "https://pista-azzurra.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "200cc 4T",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc 4T",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc 4T",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "50cc 4T",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/316423358",
+  "name": "Kartodromo di Lascari",
+  "town": "Lascari",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromolascari.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/75490936",
+  "name": "South Garda Karting",
+  "town": "Lonato del Garda",
+  "country": "Italy",
+  "websites": [
+   "https://www.southgardakarting.it/",
+   "https://rental.southgardakarting.it/",
+   "https://racing.southgardakarting.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/6810005042",
+  "name": "K1 Speed Udine (formerly Hollywood Kart)",
+  "town": "Martignacco",
+  "country": "Italy",
+  "websites": [
+   "https://www.k1speed.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/424121000",
+  "name": "Kartodromo Touch & Go",
+  "town": "Martina Franca",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromotouchandgo.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 4-stroke",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1426372819",
+  "name": "KZR Kart",
+  "town": "Martinsicuro",
+  "country": "Italy",
+  "websites": [
+   "https://www.kzrkart.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "Honda 270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    "Honda 160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13019575417",
+  "name": "PGK Karting Network Venezia",
+  "town": "Mestre",
+  "country": "Italy",
+  "websites": [
+   "https://pgkvenezia.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    "Sodikart",
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-Fr 16:00-24:00; Sa,PH-1 10:00-24:00; Su 10:00-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13432940206",
+  "name": "Hollywood Kart Milano Bicocca",
+  "town": "Milano",
+  "country": "Italy",
+  "websites": [
+   "https://hollywoodkart.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/243650238",
+  "name": "Go-Kart Pista Riviera Verde",
+  "town": "Misano Adriatico",
+  "country": "Italy",
+  "websites": [
+   "http://www.go-kartmisano.it"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "geared (kart a marce)",
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/79425610",
+  "name": "Kartodromo e Miniautodromo Kinisia",
+  "town": "Misiliscemi",
+  "country": "Italy",
+  "websites": [
+   "http://www.kinisia.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/520512730",
+  "name": "International Kart Indoor",
+  "town": "Moniga del Garda",
+  "country": "Italy",
+  "websites": [
+   "https://www.internationalkartindoormoniga.it/"
+  ],
+  "known_fleet": [
+   [
+    "OTK Viper",
+    "Honda 270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "OTK Viper Baby",
+    "Honda 160cc 4-stroke",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/80610278",
+  "name": "Kart&Go",
+  "town": "Montano Lucino",
+  "country": "Italy",
+  "websites": [
+   "https://kartandgo.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/242491459",
+  "name": "Pista Rioveggio (Coop. Karting Rioveggio)",
+  "town": "Monzuno",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistarioveggio.it",
+   "https://freedome.it/guida-sportiva/pista-di-rioveggio/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Briggs & Stratton LO206",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/13724135",
+  "name": "DBM Race - Pista Go-Kart e Minimoto",
+  "town": "Moscufo",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistamoscufo.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/277983619",
+  "name": "World Circuit La Conca",
+  "town": "Muro Leccese",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromolaconca.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "Honda 270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/444163257",
+  "name": "Pista Winner",
+  "town": "Nizza Monferrato",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistawinner.it/"
+  ],
+  "known_fleet": [
+   [
+    "Parolin",
+    "Honda 270cc 4T",
+    null,
+    "adult"
+   ],
+   [
+    "Parolin biposto",
+    "Honda 270cc 4T",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "Rotax 125cc 2T single-speed",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "Honda 200cc 4T",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "way/365007906",
+  "name": "Pista Mini Speed",
+  "town": "Ortona",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistaminispeed.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/752912659",
+  "name": "Circuito Internazionale d'Abruzzo",
+  "town": "Ortona",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitointernazionaledabruzzo.it/",
+   "https://www.topfuelracing.it/ortona-chieti/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/11047956346",
+  "name": "Bergamo Kart Indoor",
+  "town": "Osio Sopra",
+  "country": "Italy",
+  "websites": [
+   "https://www.bergamokartindoor.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": "Mo-Th 17:30-23:30; Fr 17:30-00:00; Sa 15:00-00:00; Su 15:00-23:30",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/388280270",
+  "name": "South Milano Karting (Pista South Milano)",
+  "town": "Ottobiano",
+  "country": "Italy",
+  "websites": [
+   "https://www.southmilanokarting.com/"
+  ],
+  "known_fleet": [
+   [
+    "Birel",
+    "4-stroke",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/179588941",
+  "name": "Pala Kart Parma",
+  "town": "Parma",
+  "country": "Italy",
+  "websites": [
+   "http://www.palakartparma.it"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/9837894989",
+  "name": "Kartodromo Pomezia",
+  "town": "Pomezia",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromopomezia.it"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RSX",
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    "Sodi LRX",
+    "electric",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1553175056",
+  "name": "Pista La Quercia 58",
+  "town": "Pontey (AO)",
+  "country": "Italy",
+  "websites": [
+   "https://laquercia58.com/"
+  ],
+  "known_fleet": [
+   [
+    "TB Kart",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "We,Fr 17:00-20:30,\nSa,Su 10:00-13:00,\n14:00-20:30",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/104579055",
+  "name": "Pista Kart Vittoria",
+  "town": "Pontinvrea",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistakartvittoria.it/"
+  ],
+  "known_fleet": [
+   [
+    "Best Kart",
+    "Honda 200cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Best Kart",
+    "Honda 270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/595881350",
+  "name": "Lignano Circuit",
+  "town": "Precenicco",
+  "country": "Italy",
+  "websites": [
+   "https://www.lignanocircuit.com"
+  ],
+  "known_fleet": [
+   [
+    "SR4",
+    "390cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "2Drive",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/47052547",
+  "name": "Pista Go Kart Riccione",
+  "town": "Riccione",
+  "country": "Italy",
+  "websites": [
+   "https://www.facebook.com/riccionekartemoto"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/228942875",
+  "name": "Pista Go-Kart Miramare (Rimini)",
+  "town": "Rimini",
+  "country": "Italy",
+  "websites": [
+   "http://www.go-kartrimini.it"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/366033331",
+  "name": "Kartodromo Orsoleo",
+  "town": "Roccanova",
+  "country": "Italy",
+  "websites": [
+   "http://kartodromorsoleo.altervista.org"
+  ],
+  "known_fleet": [
+   [
+    "TB Kart R15",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "CRG",
+    "200cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "120cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "35cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/442190451",
+  "name": "HolyKart Roma",
+  "town": "Roma",
+  "country": "Italy",
+  "websites": [
+   "http://www.holykartroma.it"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda GX270",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/493236628",
+  "name": "Torricola Team Racing",
+  "town": "Roma",
+  "country": "Italy",
+  "websites": [
+   "http://www.ttracing.it"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1314593043",
+  "name": "E-gokart Roma",
+  "town": "Roma",
+  "country": "Italy",
+  "websites": [
+   "https://www.e-gokart.it"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/183238858",
+  "name": "Pista di Ronco",
+  "town": "Ronco Scrivia",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistaronco.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT4",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "35cc",
+    null,
+    "kids"
+   ],
+   [
+    "Sodi",
+    "125cc 2-stroke",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/9330585649",
+  "name": "BI Karting",
+  "town": "San Giorgio in Bosco",
+  "country": "Italy",
+  "websites": [
+   "https://www.bikarting.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/179934334",
+  "name": "Pista Kart Alberone",
+  "town": "San Pietro al Natisone",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistakartalberone.it"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/347258997",
+  "name": "Kartodromo Pista Paradiso",
+  "town": "Santa Maria del Molise",
+  "country": "Italy",
+  "websites": [
+   "https://www.gokartmolise.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/20633491",
+  "name": "Circuito Internazionale Napoli",
+  "town": "Sarno",
+  "country": "Italy",
+  "websites": [
+   "https://circuitointernazionalenapoli.com/"
+  ],
+  "known_fleet": [
+   [
+    "IPK Praga",
+    "Honda 270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Birel ART N35-XR",
+    "Honda 390cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Birel ART N35-TWIN",
+    "Honda 390cc 4-stroke",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/284434726",
+  "name": "La Pista",
+  "town": "Taggia",
+  "country": "Italy",
+  "websites": [
+   "https://lapista.net/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13979020833",
+  "name": "Kartodromo Palazzo",
+  "town": "Trecchina",
+  "country": "Italy",
+  "websites": [
+   "http://kartodromopalazzo.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "35cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "120cc",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/208383998",
+  "name": "Frasnelli Karting Parc (Safety Park)",
+  "town": "Vadena - Pfatten",
+  "country": "Italy",
+  "websites": [
+   "https://www.frasnelli-kart.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/290766494",
+  "name": "Leopard Circuit Viterbo",
+  "town": "Viterbo",
+  "country": "Italy",
+  "websites": [
+   "https://www.viterbocircuit.com"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/312407341",
+  "name": "Viterbo Circuit (Circuito Internazionale Viterbo)",
+  "town": "Viterbo",
+  "country": "Italy",
+  "websites": [
+   "https://www.viterbocircuit.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/881600516",
+  "name": "Polenta & Motori - Circuito Riccardo Borile",
+  "town": "Vo'",
+  "country": "Italy",
+  "websites": [
+   "https://www.polentaemotori.it/"
+  ],
+  "known_fleet": [
+   [
+    "Righetti Ridolfi",
+    "Honda 270cc 4T",
+    null,
+    "adult"
+   ],
+   [
+    "Righetti Ridolfi",
+    "Honda 160cc",
+    null,
+    "junior"
+   ],
+   [
+    "CKR",
+    "Honda 35cc",
+    null,
+    "kids"
+   ],
+   [
+    "CKR",
+    "Briggs 4T",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1006250895",
+  "name": "Kartbahn Nendeln",
+  "town": "Eschen",
+  "country": "Liechtenstein",
+  "websites": [
+   "https://www.kartbahn.li/",
+   "https://www.kartbahn.li"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Electric twin motors, 2 x 2.8 kW nominal",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": true
+ },
+ {
+  "id": "node/7452547101",
+  "name": "ZERO55 Apeldoorn (INDOOR55)",
+  "town": "Apeldoorn",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.zero55.nl/apeldoorn/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/575350323",
+  "name": "Circuit Park Berghem",
+  "town": "Berghem",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.circuitparkberghem.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/217521987",
+  "name": "Linnaeushof",
+  "town": "Bloemendaal",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.linnaeushof.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1571226584",
+  "name": "Race Planet Delft",
+  "town": "Delft",
+  "country": "Netherlands",
+  "websites": [
+   "https://raceplanet.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2779183074",
+  "name": "Karting Texel",
+  "town": "Den Burg",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartingtexel.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/58821981",
+  "name": "De Uithof",
+  "town": "Den Haag",
+  "country": "Netherlands",
+  "websites": [
+   "https://deuithof.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/958029969",
+  "name": "Go Kart In Dordrecht",
+  "town": "Dordrecht",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kart.nl/",
+   "https://bowlmore.nl/dordrecht/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "petrol",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2848644350",
+  "name": "Kartbaan Duiven",
+  "town": "Duiven",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.kartbaanduiven.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/276563025",
+  "name": "All In Echt",
+  "town": "Echt",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.allinecht.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/6859713080",
+  "name": "Adventure Eefde (Karting Eefde)",
+  "town": "Eefde",
+  "country": "Netherlands",
+  "websites": [
+   "https://adventureeefde.nl/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Tu-Su 09:00-17:00",
+  "has_age_rules": true
+ },
+ {
+  "id": "node/8695377425",
+  "name": "Hezemans Karting",
+  "town": "Eindhoven",
+  "country": "Netherlands",
+  "websites": [
+   "https://hezemans.nl"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2732671760",
+  "name": "De Landsard Outdoor Kartcircuit",
+  "town": "Eindhoven",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.outdoorkarting.nl"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "4-stroke",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2756063118",
+  "name": "ZERO55",
+  "town": "Enschede",
+  "country": "Netherlands",
+  "websites": [
+   "https://zero55.nl/enschede/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1098017859",
+  "name": "A15 Karting",
+  "town": "Gorinchem",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.a15karting.nl/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/47490179",
+  "name": "TeamSport Groningen",
+  "town": "Groningen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/groningen"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-Tu 15:30-23:00; We 13:30-23:00; Th 15:30-23:00; Fr 13:00-01:00; Sa 10:00-01:00; Su 11:00-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2551684936",
+  "name": "Indoorkarting Heerenveen (De Vries Indoor Karting)",
+  "town": "Heerenveen",
+  "country": "Netherlands",
+  "websites": [
+   "https://www.indoorkartingheerenveen.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/474012393",
+  "name": "Kartbaan Ulrum",
+  "town": "Het Hogeland",
+  "country": "Netherlands",
+  "websites": [
+   "http://kartbaanulrum.nl"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ }
+]

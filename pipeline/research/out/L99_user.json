@@ -1,0 +1,28 @@
+[
+ {
+  "id": "way/449265399",
+  "tracks": [
+   {
+    "name": "Bane 1 (fast, few slow corners; lap ~42-45 s dry, 57-70 s wet)",
+    "length_m": 700,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Bane 2 (technical; lap ~41-44 s dry, 62-75 s wet)",
+    "length_m": 700,
+    "width_m": null,
+    "use": null
+   },
+   {
+    "name": "Fuld bane (full track, for larger events and groups)",
+    "length_m": 1400,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://vma.dk/baner-gokarter/",
+  "checked_at": "2026-10-10",
+  "note": "Approved for large international kart races."
+ }
+]

@@ -1,0 +1,2770 @@
+[
+ {
+  "id": "way/93901937",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.fahrwerk.de/kartfahren-indoor/",
+  "family": [
+   "Drivers aged 14-17 must be accompanied by an adult present at the appointment.",
+   "Rental helmets are available; a balaclava is required (3 EUR).",
+   "The indoor track is fully covered and runs year-round regardless of weather."
+  ],
+  "group": [
+   "The Formula Champ package (about 60 minutes, up to 15 people) gives your group exclusive use of the track.",
+   "Company events, private events, weddings and conferences are offered."
+  ],
+  "hours": "Jan-Dec: Fr-Su open; Mo-Th by appointment only; booking required",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.fahrwerk.de/kartfahren-indoor/",
+   "https://www.fahrwerk.de/oeffnungszeiten",
+   "https://www.fahrwerk.de/haeufige-fragen-kart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/29176372",
+  "karts": [
+   {
+    "chassis": "Dino Leisure",
+    "engine": "Honda GX390",
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Dino Hire Twin",
+    "engine": "Honda GX390",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 18,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartion.de/kartbahn/kartflotten/13ps",
+  "family": [
+   "Junior karts are available for younger drivers.",
+   "The two-seater kart is driven only by track staff, with the guest as passenger."
+  ],
+  "group": [
+   "Full event service with an event centre, bistro and catering is offered."
+  ],
+  "hours": "Mo closed (except public holidays); Tu-Fr 16:00-20:00 (bookings until 22:00); Sa 10:00-22:00; Su,PH 14:00-20:00 (bookings until 22:00)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartion.de",
+   "https://www.kartion.de/kartbahn/kartflotten/13ps",
+   "https://www.kartion.de/kartbahn/kartflotten/doppelsitzer"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Age 18 / 1.50 m stated for the 13 PS karts only; rules for 8 PS and junior karts not readable on the site. Site hours differ from known_hours."
+ },
+ {
+  "id": "way/1120780117",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "Parents decide whether their child is mature enough to drive and are liable for their children.",
+   "The track has 6 youth karts and one two-seater kart."
+  ],
+  "group": [],
+  "hours": "May-Aug: Mo 10:00-18:00, Tu-Su 10:00-19:30; Apr, Sep, Oct: daily 10:00-18:00; lunch break 13:00-13:30; closed Good Friday, Buss- und Bettag, Reformation Day and when the track is wet; reservation required",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbahn-goerlitz-ring.de/unsere-leihkarts",
+   "https://www.kartbahn-goerlitz-ring.de/öffnungszeiten",
+   "https://www.kartbahn-goerlitz-ring.de/nutzungsbedingungen"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/129879602",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://bavaria-kart.de/",
+  "family": [
+   "Children from 140 cm can drive; a kids' single ride (140-160 cm) costs 12 EUR, adults (from 160 cm) 15 EUR.",
+   "On Tuesdays you pay once and drive twice.",
+   "Free driving is not possible during private bookings, even within opening hours."
+  ],
+  "group": [
+   "Exclusive track hire is offered for companies, clubs, birthdays and groups of friends.",
+   "Minimum booking is 6 karts for 30 or 45 minutes, or 8 karts from 60 minutes.",
+   "Catering and a podium ceremony can be added."
+  ],
+  "hours": "Mo closed (rentals of 2+ hours on request); Tu-Th 18:00-23:00; Fr 18:00-24:00; Sa 14:00-24:00; Su 11:00-23:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://bavaria-kart.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site hours (Tu-Fr from 18:00) differ from known_hours (from 16:00)."
+ },
+ {
+  "id": "way/751984689",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.battlekart.com/de/halle-leipzig",
+  "family": [
+   "There is no minimum age; all drivers must be at least 1.45 m tall, measured without shoes.",
+   "Only single-seat karts are available, so children cannot ride as passengers.",
+   "Children under 16 pay a reduced price (18 EUR for the first game).",
+   "A game lasts 15 minutes."
+  ],
+  "group": [
+   "Birthday parties, school classes and youth groups can book, with 2-4 slots per person recommended.",
+   "Companies can book the whole arena exclusively (minimum 2 slots of 15 minutes, about 1,056 EUR per hour)."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 14:00-20:30; Sa 10:00-20:30; Su 10:00-19:30; other times on request",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.battlekart.com/de/halle-leipzig"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site gives conflicting maximum size limits (2 m / 120 kg in one place, 2.10 m / 160 kg in another). Hours differ from known_hours."
+ },
+ {
+  "id": "node/2673845362",
+  "karts": [
+   {
+    "chassis": "RiMO Sinus ION",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RiMO Sinus Twin",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartomania-hannover.de/informationen/bahnordnung/",
+  "family": [
+   "Minimum driver age is 12; children from 6 may drive with a Junior License from Laatzen.",
+   "Drivers under 18 need a signed parental consent form.",
+   "All drivers, including children, must bring a valid photo ID.",
+   "A twin kart is available for rides with children or people with disabilities."
+  ],
+  "group": [
+   "Group races can be booked from 6 people.",
+   "The event and lounge area seats up to 120 people, with a private karaoke room.",
+   "Kids' birthday parties and a school class special are offered."
+  ],
+  "hours": "Mo 17:00-22:00; Tu-Fr 17:00-23:00; Sa 11:00-24:00; Su 11:00-22:00; school holidays Mo-Fr from 14:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartomania-hannover.de/kartbahn-hannover-kart-o-mania/",
+   "https://www.kartomania-hannover.de/oeffnungszeiten/",
+   "https://www.kartomania-hannover.de/informationen/bahnordnung/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/92468697",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://emslandring.de/",
+  "family": [
+   "Children from 6 can drive on their own; younger children can ride in the double kart with a parent.",
+   "Children drive only in children's groups, separate from the faster karts, and parents can drive alongside them.",
+   "Spectators can watch from a raised, covered terrace, and free rain suits are provided.",
+   "Karts adapted for wheelchair users with full hand controls are available."
+  ],
+  "group": [
+   "More than 18 drivers can ride at the same time.",
+   "Race rentals include qualifying, a 12-minute race with standing start and an awards ceremony.",
+   "Company events can be combined with BattleKart and catering in an event room."
+  ],
+  "hours": "Season (start of Easter holidays to end of autumn holidays): daily 10:00-18:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://emslandring.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/51050374",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [
+   "The club's youth kart slalom group is open to ages 6-18 and provides the karts."
+  ],
+  "group": [],
+  "hours": "No regular public hours; own-kart training only on scheduled dates (e.g. Fridays 13:30-19:00)",
+  "rental": "no",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.msc-harsewinkel.de",
+   "https://msc-harsewinkel.de/kart-motorradsport/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Club track: site states no rental kart operation; only own race karts during scheduled sessions (40 EUR)."
+ },
+ {
+  "id": "way/765177897",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270 cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.ms-kartcenter-hattingen.de/",
+  "family": [
+   "Children from 6 can drive kids' karts; the site says height does not matter.",
+   "Kids' sessions alternate with adult sessions and end earlier in the evening (e.g. 19:00 Mo/We/Th).",
+   "A kids' birthday package (from 6 children) includes two 10-minute runs, a drink, a snack and soccer billiards.",
+   "A Junior Cup for ages 7-16 runs on Sodi SR5 karts."
+  ],
+  "group": [
+   "Exclusive group races are offered for 6-14 people, including bachelor parties.",
+   "Company events, team events and Christmas parties with catering are offered."
+  ],
+  "hours": "Mo,We,Th 16:00-22:00; Tu closed; Fr 15:00-22:00; Sa,Su,PH 11:00-22:00; may close from 21:00 when quiet; closed Dec 24, 25, 31 and Jan 1",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.ms-kartcenter-hattingen.de/",
+   "https://ms-kartcenter-hattingen.de/oeffnungszeiten-kontakt"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/550349415",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "13",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kart-center-heiligenstadt.de/karts/",
+  "family": [
+   "Track users must be at least 12; younger children need a licence from the kids' kart school (advance registration).",
+   "A two-seater kart lets anyone be driven, with the passenger able to steer.",
+   "A kids' and pupils' ticket is offered Thu and Fri 16:00-20:00.",
+   "A handicap kart is available."
+  ],
+  "group": [
+   "Race packages are offered from 8 people (Profi and Champion Race) or 10 people (Ultra Race).",
+   "Groups can book outside normal hours by arrangement.",
+   "Kids' birthday parties are offered."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 16:00-20:00; Sa 14:00-21:00; Su 14:00-20:00; closed Good Friday, Easter Sunday, Whit Sunday, Totensonntag, Volkstrauertag, Dec 25-26; advance booking required",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kart-center-heiligenstadt.de/",
+   "https://www.kart-center-heiligenstadt.de/karts/",
+   "https://www.kart-center-heiligenstadt.de/doppelsitzer-kart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "13 hp Sodi karts require a licence. Cash only (no card payment)."
+ },
+ {
+  "id": "way/1272597539",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [
+   "https://en.rimo-germany.com/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Website is the RiMO kart manufacturer's corporate site (Amerikastrasse 4, Hemer); it does not mention a test track or any public rental offering."
+ },
+ {
+  "id": "way/144460956",
+  "karts": [
+   {
+    "chassis": "Indoor Superkart RT4",
+    "engine": "Honda GX200 (LPG)",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.indoor-superkart.de/preise-buchung.html",
+  "family": [
+   "Children aged 7-15 can drive from 1.30 m; leg length and abilities are checked on site.",
+   "Adjustable karts let children and adults race together.",
+   "Kids' birthday races cover 7 children, the birthday child rides free, and guests may bring their own cake and pizza.",
+   "Helmets are provided; a balaclava is required (2 EUR)."
+  ],
+  "group": [
+   "Exclusive hourly hall hire with 6 karts is offered (360 EUR Mondays, 480 EUR other days).",
+   "Company outings from 6 people and school classes on request (minimum 50 tickets).",
+   "A VIP lounge and catering through partners are available."
+  ],
+  "hours": "Mo-Th 16:00-21:00; Fr 16:00-22:00; Sa 13:00-22:00; Su 10:00-21:00; group events earlier by arrangement; closed Jan 1, Good Friday, Dec 24, Dec 31",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.indoor-superkart.de/",
+   "https://www.indoor-superkart.de/das-kart.html",
+   "https://www.indoor-superkart.de/preise-buchung.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "In-house developed RT4 kart built by Mach 1 / Hetschel; class not stated on site (adult kept from known_fleet), driver height 1.30-1.90 m+."
+ },
+ {
+  "id": "way/93099535",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate error (certificate for win05.rw.serviceprovider.de), also over http."
+ },
+ {
+  "id": "node/7239416109",
+  "karts": [
+   {
+    "chassis": "RiMO Mini",
+    "engine": "Honda petrol",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Alpha2",
+    "engine": "Honda LPG",
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartcenterhildesheim.de/Kartbahn/",
+  "family": [
+   "Drivers must be at least 145 cm tall; from about 155 cm they can drive the Alpha2 karts.",
+   "Drivers under 18 need a liability waiver signed by a parent.",
+   "Kids' birthday packages (from 6 children) include exclusive track time, snacks, a drink and a balaclava; you may bring your own cake.",
+   "In school holidays there are cheap student tickets on weekdays from 12:00."
+  ],
+  "group": [
+   "Group races are offered from 6 people.",
+   "On Sundays a 2-hour all-you-can-drive session suits single drivers without a group.",
+   "Laser tag and a flight simulator are also on site."
+  ],
+  "hours": "Mo-Th 12:00-23:00; Fr 15:00-23:00; Sa 10:00-24:00; Su 10:00-22:00 (site marks these as changed opening hours)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartcenterhildesheim.de",
+   "https://www.kartcenterhildesheim.de/Kartbahn/",
+   "https://www.kartcenterhildesheim.de/Kindergeburtstage/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/9889553396",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": "Summer: Mo-Tu closed; We-Fr 17:00-19:00; Sa-Su 14:00-19:00; summer holidays daily from 15:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Listed website is a RacinGO directory page, not the venue's own site (venue only has a Facebook page); rental karts listed for adults only."
+ },
+ {
+  "id": "way/119610125",
+  "karts": [
+   {
+    "chassis": "Hubi Kart X19",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Hubi Kart HK7",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kartbahn-hungen.de/",
+  "family": [
+   "Children can drive alone from 8 years and 130 cm on nine kids' karts with adjustable seats, pedals and speed.",
+   "Children can earn a kids' kart licence.",
+   "The air-conditioned bistro serves snacks and pizza; dogs and small children may wait there.",
+   "Loan helmets and balaclavas are available; closed shoes are required."
+  ],
+  "group": [
+   "Tailored offers are available for larger groups, company events and bachelor parties.",
+   "Races can be booked."
+  ],
+  "hours": "Outside Hesse school holidays: Mo-Tu 15:00-19:00; We groups on request; Th closed; Fr 14:00-20:00; Sa 11:00-20:00; Su 11:00-19:00; PH 12:00-20:00. School holidays: Mo-We 13:00-19:00; Th on request; Fr 13:00-20:00; Sa 11:00-20:00; Su 11:00-19:00. Booking recommended",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kartbahn-hungen.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Electric karts also offered (Mo/Tu and group rides on request); model not named."
+ },
+ {
+  "id": "way/165403103",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": "no",
+  "own_karts": null,
+  "sources": [
+   "https://www.saarlandring.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site states 'Kein Leihkartbetrieb' (no rental karts); 716 m club/race kart track."
+ },
+ {
+  "id": "way/30120851",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate error (certificate for *.portformance.com), also over http."
+ },
+ {
+  "id": "way/254359849",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": null,
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbahnjena.de/fragen-und-antworten",
+  "family": [
+   "Children from 1.35 m drive special 5 hp kids' karts limited to 25 km/h.",
+   "A two-seater twin kart is available.",
+   "A kids' kart licence course (about 2 hours) is offered.",
+   "Kids' birthday packages are offered from 6 children, and youth parties for up to 16-year-olds."
+  ],
+  "group": [
+   "Race programmes with warm-up, qualifying, race with start lights and medals are offered, with group packages from 8 people."
+  ],
+  "hours": "Mo closed; Tu-Fr 13:00-19:00; Sa 12:00-20:00; Su 12:00-18:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbahnjena.de",
+   "https://www.kartbahnjena.de/fragen-und-antworten",
+   "https://www.kartbahnjena.de/preise"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Adult kart rule is stated as age 14 OR about 150 cm OR a kart licence."
+ },
+ {
+  "id": "way/59513188",
+  "karts": [
+   {
+    "chassis": "RSX E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RSX 2-Sitzer E-Kart (RS 2-Drive)",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "RS Kinder Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.gokart-online.de/",
+  "family": [
+   "During family times (Tu-Fr 15:00-17:00, Su/PH 12:00-14:00) children from 8 years and 140 cm can drive, with karts throttled to about 30 km/h.",
+   "Children under 13 may only drive in family times unless they hold an adult licence; no children on Saturdays.",
+   "The RS 2-Drive double kart takes children too small to drive themselves, or passengers with disabilities.",
+   "Drivers under 18 need a parental consent form."
+  ],
+  "group": [
+   "Company events for up to 12, 50 or (exclusive) 70 people, with catering from 10 people.",
+   "Kids' birthday packages are for groups of 8-10 children.",
+   "Bachelor party offers are available."
+  ],
+  "hours": "Mo on request; Tu-Fr 15:00-21:30; Sa 12:00-21:30; Su,PH 12:00-20:00; exclusive bookings any time by arrangement",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.gokart-online.de/",
+   "https://www.gokart-online.de/rs-speedworld/karts/rs-kinder-kart.html",
+   "https://www.gokart-online.de/rs-speedworld/karts/rs-2drive.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site also lists an 'RS Classic Kart' and says the fleet is moving to new e-karts. Hours differ from known_hours."
+ },
+ {
+  "id": "way/102538435",
+  "karts": [
+   {
+    "chassis": "RiMO Sinus Ion",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RiMO Sinus Twin",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://gokartbahn.net/",
+  "family": [
+   "Children from about 8 can drive the single kart, with seat adjustment, pedal extensions and digital speed limiting.",
+   "The twin kart takes one adult plus one child.",
+   "A family ticket covers 2 adults + 1 child or 1 adult + 2 children (ages 8-13).",
+   "No reservation is needed for individuals or small groups."
+  ],
+  "group": [
+   "Group reservations from 6 people; full track rental from 8 people, also outside opening hours.",
+   "Birthday packages for 7 children (8-13) or teens (14-17) require advance booking.",
+   "Event rooms hold up to 80 people with catering, DJ and race announcer options."
+  ],
+  "hours": "Mo-Th 16:00-22:00; Fr 15:00-24:00; Sa 13:00-24:00; Su,PH 11:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://gokartbahn.net/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site is inconsistent: kids' minimum height given as 1.35 m and 1.38 m; twin passenger minimum age given as 4 and 3 years."
+ },
+ {
+  "id": "node/2687925947",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kart-eventcenter.de/",
+  "family": [
+   "Children can drive from 8 years and 1.35 m.",
+   "Race packages and the bachelor package are for ages 16 and over.",
+   "Reservation in advance is required."
+  ],
+  "group": [
+   "Exclusive track hire costs 450 EUR per hour (350 EUR Mo-Fr) including 8 karts, up to 12.",
+   "Christmas party packages with qualifying and race are offered from 8 people (Tu-Fr).",
+   "Company team-building events and birthday packages are offered."
+  ],
+  "hours": "Mo only for exclusive hire (book 3 days ahead); Tu-Fr 15:00-21:00; Sa 10:00-21:00; Su 10:00-20:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kart-eventcenter.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site hours differ from known_hours."
+ },
+ {
+  "id": "node/5026773084",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270 cc, gas-powered",
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.all-kart.de/kartaction",
+  "family": [
+   "There is no age limit; children can drive alone from 1.40 m.",
+   "Smaller children ride in a double-seater 'taxi' with an adult driver.",
+   "Children up to 14 pay reduced prices.",
+   "Kids' birthday packages include two 8-minute races, balaclava, medal and a snack box; cake can be brought."
+  ],
+  "group": [
+   "An exclusive birthday or group package (qualifying, race, award ceremony) needs at least 8 drivers.",
+   "A company cup and single races are run; amateur races are from age 12."
+  ],
+  "hours": "Mo-Th 15:00-22:00; Fr-Sa 15:00-23:00; Su,PH 13:00-22:00; Bavarian school holidays and July weekdays from 14:00; Nov-Mar no normal karting Su and Mo evenings from 18:30; closed Dec 24 and Dec 31",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.all-kart.de",
+   "https://www.all-kart.de/kartaction",
+   "https://www.all-kart.de/oeffnungszeiten"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/12766527149",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": "7.3",
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 6
+  },
+  "ages_source": "https://www.cala-race.com/fragen-antworten/",
+  "family": [
+   "Drivers must be at least 8 years old and 1.45 m tall.",
+   "Children from 6 can ride as passengers in the two-seater kart (5.50 EUR extra).",
+   "A combo ticket covers the Sensapolis indoor play and climbing park next door."
+  ],
+  "group": [
+   "Birthday packages (guests up to 18, from 6 people) include a 15-minute exclusive ride, food and drinks; parents sign a consent form.",
+   "Private, company and club events are hosted, and the track can be booked exclusively outside opening hours."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 15:00-21:00; Sa 12:00-21:00; Su 12:00-20:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.cala-race.com/",
+   "https://www.cala-race.com/fragen-antworten/",
+   "https://www.cala-race.com/rennstrecke-karts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/352676165",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.battlekart.com/trier",
+  "family": [
+   "There is no minimum age, but every driver must be at least 1.45 m tall.",
+   "All karts are single-seaters, so children cannot ride as passengers.",
+   "Children under 15 have their own price category.",
+   "A game lasts 15 minutes for 2-12 players."
+  ],
+  "group": [
+   "Group discounts apply from 10 people booked online at least 48 hours ahead.",
+   "Company events and bachelor parties are arranged by quote; catering via partners."
+  ],
+  "hours": "Mo-Th 14:00-21:00; Fr 14:00-21:00 (to 24:00 by reservation); Sa 10:00-21:00 (to 24:00 by reservation); Su 10:00-18:00 (to 20:00 by reservation)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.battlekart.com/trier"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/319085809",
+  "karts": [
+   {
+    "chassis": "SiNUS Nano",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.ms-kartcenter.de/",
+  "family": [
+   "Children drive alone from 8 years and 140 cm; adult karts from 12 years and 155 cm.",
+   "Twin-kart drivers must be 18 and passengers at least 110 cm tall.",
+   "A kids' track with coin-operated SiNUS Nano e-karts suits young children in dry weather; birthday packages for ages 3-8 use a 100 m course.",
+   "Drivers under 18 must be registered in advance by a parent."
+  ],
+  "group": [
+   "Groups of 10-200 people can book 30- or 60-minute sessions.",
+   "Events for up to 60 people combine karting, dining and a business centre."
+  ],
+  "hours": "Mo closed (NRW summer holidays 10:00-22:00); Tu-Th 10:00-22:00; Fr-Sa 10:00-23:00; Su,PH 10:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.ms-kartcenter.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/9043533487",
+  "karts": [
+   {
+    "chassis": "OTK Viper E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://evokart-kiel.de/unsere-e-karts/",
+  "family": [
+   "Kart power can be adjusted by driver group, and there is a Family & Kids booking category.",
+   "Drivers under 16 must bring a liability waiver signed by a parent.",
+   "Rental helmets may only be used with a balaclava (bring one or buy on site).",
+   "The indoor track runs regardless of weather."
+  ],
+  "group": [
+   "Offers exist for birthdays, company events, bachelor parties and school classes.",
+   "Larger groups can request other dates and times."
+  ],
+  "hours": "From Oct 12, 2026, outside school holidays: Mo-Th 15:00-20:00; Fr 15:00-22:00; Sa 11:00-22:00; Su 11:00-20:00. School holidays: Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://evokart-kiel.de/",
+   "https://evokart-kiel.de/unsere-e-karts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site is inconsistent on minimum height: booking page says 1.25 m, FAQ says 1.35 m. Karts are OTK (Tony Kart) Viper e-karts."
+ },
+ {
+  "id": "node/3761972790",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.lemanskarting.de/kinder-und-jugendliche",
+  "family": [
+   "Youth training is for ages 7-14, on Sundays and holidays 10:00-15:00 and weekdays 12:00-17:00 on request.",
+   "A double kids' kart is available for younger children who cannot yet drive alone.",
+   "A holiday programme from age 7 and school class offers are available."
+  ],
+  "group": [
+   "Races are offered for groups of 4 or more, with race management and award ceremony.",
+   "The whole track or location (bistro, grandstand) can be hired for birthdays, bachelor, company or Christmas parties.",
+   "A mobile kart track is available for external events."
+  ],
+  "hours": "Mo-Sa 12:00-22:00; Su,PH 10:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.lemanskarting.de/",
+   "https://www.lemanskarting.de/kartbahn",
+   "https://www.lemanskarting.de/kinder-und-jugendliche"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/3761972788",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "7.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: self-signed TLS certificate, also over http."
+ },
+ {
+  "id": "way/1447721895",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha2",
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartomania-laatzen.de/informationen/bahnordnung/",
+  "family": [
+   "Minimum driver age is 12; children from 6 may drive with a Junior License.",
+   "The RiMO Mini kids' kart is used for the Junior Club (Saturday mornings) and kids' birthdays.",
+   "Drivers under 18 need a signed parental consent form, and all drivers must bring photo ID."
+  ],
+  "group": [
+   "Group races can be booked online for 6 or more people.",
+   "School classes, company and exclusive events and Christmas parties are offered."
+  ],
+  "hours": "Mo 17:00-22:00; Tu-Fr 17:00-23:00; Sa 09:00-24:00 (Junior Club 09:00-12:00); Su 11:00-22:00; school holidays Mo-Fr from 14:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartomania-laatzen.de/kartbahn-laatzen/",
+   "https://www.kartomania-laatzen.de/oeffnungszeiten/",
+   "https://www.kartomania-laatzen.de/informationen/bahnordnung/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Listed URL is the Hannover sister site; Laatzen has its own site kartomania-laatzen.de (Magdeburger Str. 9, 30880 Laatzen)."
+ },
+ {
+  "id": "node/2791912346",
+  "karts": [
+   {
+    "chassis": "RiMO EVO-Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "RiMO EVO6 Racingkart",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartcenter-landau.de/preise.html",
+  "family": [
+   "Children from about 1.30 m drive the RiMO EVO-Mini (Bambini) karts; pupil/student tickets need 1.40 m.",
+   "A Bambini kart licence course runs one Saturday a month, 10:00-12:00, with written registration.",
+   "Kids' birthday packages start from 4 children Mo-Th or 6 Fr-Su; you may bring your own cake."
+  ],
+  "group": [
+   "Group races are offered from 6 people in five race formats.",
+   "Company events are offered for parties, staff training or product presentations.",
+   "Booking ahead is recommended."
+  ],
+  "hours": "Mo-Th 16:00-22:00; Fr 15:00-01:00; Sa 10:00-01:00; Su 10:00-23:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartcenter-landau.de/",
+   "https://www.kartcenter-landau.de/die-karts.html",
+   "https://www.kartcenter-landau.de/preise.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/39775529",
+  "karts": [
+   {
+    "chassis": "Sodi GT3 / GT5",
+    "engine": "Honda 270 cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi GT3 / GT5",
+    "engine": "Honda 390 cc",
+    "hp": "13",
+    "class": null
+   },
+   {
+    "chassis": "Sodi Junior",
+    "engine": "Honda 160 cc",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 390 cc",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 15,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://www.erzgebirgsring.de/index.php/angebote",
+  "family": [
+   "The Sodi junior kart is for children up to 14 from 1.30-1.35 m tall.",
+   "The double kart takes passengers from 5 years and 1.00 m.",
+   "The outdoor venue has a barbecue area, food stall and camping."
+  ],
+  "group": [
+   "Company events, bachelor parties, kids' birthdays, product presentations and track rental are offered."
+  ],
+  "hours": "Rental karts on scheduled days only, mostly weekends (e.g. Sa-Su 09:00-18:00 in October); hours can change daily, check the calendar",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.erzgebirgsring.de",
+   "https://www.erzgebirgsring.de/index.php/angebote",
+   "https://www.erzgebirgsring.de/index.php/oeffnungszeiten"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "9 hp Sodi from age 15, 13 hp Sodi from age 18. Own race karts/motorcycles welcome after contacting the track. EC cards not accepted."
+ },
+ {
+  "id": "node/883027662",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: pages are JavaScript-rendered and return no readable text."
+ },
+ {
+  "id": "way/1041609383",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 404 (Wix site removed)."
+ },
+ {
+  "id": "node/6205111509",
+  "karts": [
+   {
+    "chassis": "Tomkart",
+    "engine": "electric (10 kW)",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 9,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 15,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://karthalle-mainz.de/faq/",
+  "family": [
+   "Children can drive from 9 years and 120 cm in a 35 km/h kids' mode; adult mode is from 15.",
+   "There are no two-seater karts; everyone drives their own kart.",
+   "Anyone up to 16 needs a liability waiver signed by a parent.",
+   "A kids' driving school and family offers are available; guests may bring their own food to kids' birthdays."
+  ],
+  "group": [
+   "Groups can race with qualifying and award ceremony.",
+   "Company and group events, track hire, club and school class offers and bachelor parties are available."
+  ],
+  "hours": "Mo closed; Tu-Th 16:00-21:00; Fr 15:00-22:00; Sa 11:00-22:00; Su 11:00-20:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://karthalle-mainz.de/",
+   "https://karthalle-mainz.de/karts/",
+   "https://karthalle-mainz.de/faq/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/13374883723",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 146,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.actionarena.de/kart-arena.asp",
+  "family": [
+   "The kids' kart is for heights 135-145 cm; the standard kart is from 146 cm.",
+   "A two-seater twin kart takes one adult and one child.",
+   "Drivers under 18 need a written consent form signed by a parent.",
+   "A kids' kart licence course (from 8 years and 135 cm) runs on set dates."
+  ],
+  "group": [
+   "Kids' birthday packages book the whole track, from 5 children plus the birthday child, with food included.",
+   "Exclusive track booking from 8 people; race formats and business events are offered.",
+   "Laser tag, bowling and a jump park are in the same venue."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 15:00-22:00; Sa 12:00-22:00; Su 12:00-18:00; PH 12:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.actionarena.de",
+   "https://www.actionarena.de/kart-arena.asp",
+   "https://www.actionarena.de/kindercartfuehrerschein.asp"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/14002285223",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.battlekart.com/de/marne",
+  "family": [
+   "There is no minimum age, but every driver must be at least 1.45 m tall.",
+   "Only single-seat karts are available, so children cannot ride with a parent.",
+   "Karts have an anti-collision braking system; a children's price category exists."
+  ],
+  "group": [
+   "Group prices start at 19 EUR per person for the first game.",
+   "Team-building events, seminars and company events are hosted."
+  ],
+  "hours": "Mo-Tu 08:00-20:00 (reservation needed); We-Fr 14:00-21:00; Sa 12:00-22:00; Su 12:00-18:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.battlekart.com/de/marne"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site hours differ from known_hours."
+ },
+ {
+  "id": "node/12806062014",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.battlekart.com/en/koblenz-mayen",
+  "family": [
+   "There is no minimum age, but every driver must be at least 1.45 m tall.",
+   "Only single-seat karts are available, so children cannot ride with an adult.",
+   "Drivers under 15 pay a reduced price.",
+   "A game lasts 15 minutes for 2-12 players."
+  ],
+  "group": [
+   "Company events, team building and seminars are offered, with a bar and meeting room on site."
+  ],
+  "hours": "Mo closed; Tu-Th 14:00-21:00; Fr 14:00-23:00; Sa 10:00-24:00; Su 10:00-20:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "node/822046091",
+  "karts": [
+   {
+    "chassis": "Sodi Leihkart",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": "Sodi Racekart 250",
+    "engine": "250 cc",
+    "hp": "28",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi ROTAX Racer",
+    "engine": "Rotax 125 MAX Evo",
+    "hp": "28",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi Kinderkart",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2-Sitzer",
+    "engine": "Honda GX390",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": 6
+  },
+  "ages_source": "https://www.kartshop-ampfing.de/pages/unsere-leihkarts",
+  "family": [
+   "Kids' karts are for ages 8-12; regular rental karts from 12 years and 1.50 m.",
+   "The two-seater takes passengers from 6 with a driver aged 18+.",
+   "A helmet is provided free if you have none; every rental driver needs a driver licence card (3 EUR one-time)."
+  ],
+  "group": [
+   "Group sessions start at 10 people; exclusive groups from 10 karts.",
+   "Company parties, open houses and bachelor parties are hosted.",
+   "Open group races, endurance races (2h, 12h) and after-work races are bookable."
+  ],
+  "hours": "Mo-Tu closed; We-Su 10:00-20:00; groups until 22:00 by appointment (regular rental karts only); holiday hours differ",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartshop-ampfing.de",
+   "https://www.kartshop-ampfing.de/pages/unsere-leihkarts",
+   "https://www.kartshop-ampfing.de/pages/contact"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Race karts (Sodi Racekart 250, Rotax Racer) and the two-seater require drivers 18+."
+ },
+ {
+  "id": "node/12497729617",
+  "karts": [
+   {
+    "chassis": "Gen7 E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://teamsport-ekarting.de/faqs",
+  "family": [
+   "Children can drive from 8 with at least 64 cm inseam; adult karts from 12 with 74 cm inseam.",
+   "Children and adults can ride together in family sessions from age 8.",
+   "There are no two-seater karts at this location.",
+   "Drivers under 18 need a parent-signed waiver if no parent is present."
+  ],
+  "group": [
+   "Private events (birthdays, bachelor parties, club meetings) and company events (conferences, Christmas parties, team building) are offered."
+  ],
+  "hours": "Outside school holidays: Mo on request; Tu-Th 14:45-22:30; Fr 14:15-23:00; Sa 10:00-23:00; Su 10:00-22:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/moenchengladbach",
+   "https://teamsport-ekarting.de/faqs"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Height rule is stated as inseam (leg length), not body height."
+ },
+ {
+  "id": "way/814876030",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "other"
+   },
+   {
+    "chassis": "RiMO Outdoorkart",
+    "engine": null,
+    "hp": "6.5",
+    "class": null
+   },
+   {
+    "chassis": "RiMO Outdoorkart",
+    "engine": null,
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Puffo-Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": "23",
+    "class": "race"
+   },
+   {
+    "chassis": "DD2 Schaltkart",
+    "engine": "2-stroke",
+    "hp": "35",
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 110,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://arena-e.de/outdoor-racing-2/",
+  "family": [
+   "Indoor e-karts and outdoor karts are for drivers from 1.40 m; the outdoor kids' kart from 1.25 m and the Puffo kart (small track) from 1.10 m.",
+   "A two-seater kart takes children, people with disabilities or nervous passengers.",
+   "An inclusion kart with hand throttle is available.",
+   "A kids' kart licence course (from 1.40 m) and kids' birthday packages are offered."
+  ],
+  "group": [
+   "Private parties and company events are hosted, with VIP lounge, seminar rooms and a 12,000 m2 open area.",
+   "Kart school, academy and cup programmes are offered."
+  ],
+  "hours": "Indoor/outdoor fun karting: Mo-Tu closed; We-Th 14:00-20:00; Fr 12:00-20:00; Sa-Su 10:00-20:00 (Oct 12-25, 2026: Tu-Su 10:00-20:00); motorsport track We-Su 09:00-18:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://arena-e.de",
+   "https://arena-e.de/racing-indoor/",
+   "https://arena-e.de/outdoor-racing-2/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Venue has both an indoor e-kart hall and outdoor petrol karts; 9 PS outdoor kart and Rotax race kart from 14, DD2 shifter kart from 16."
+ },
+ {
+  "id": "node/997947153",
+  "karts": [],
+  "ages": {
+   "kids_min_age": 10,
+   "kids_min_height_cm": null,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.sportkart-muenster.de",
+  "family": [
+   "Ticket rides are for ages 14 and up; children aged 10-12 drive in a safe children's speed setting.",
+   "Sunday is family day with ticket rides and no registration needed.",
+   "Kids' birthday parties (ages 12-15, 5-10 children) run on Fridays with a private track.",
+   "There is no height restriction; maximum weight is 125 kg."
+  ],
+  "group": [
+   "Bachelor party packages and exclusive bookings from 10 people (1 hour with 10 karts, 700 EUR) are offered.",
+   "Company events with racing and food can be arranged by phone."
+  ],
+  "hours": "Mo closed; Tu-Th events by arrangement only; Fr 15:00-~21:00; Sa 12:00-~21:00; Su 12:00-~18:00 (family day, ticket rides)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.sportkart-muenster.de"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Phone booking required except Sundays; card payment only from 100 EUR."
+ },
+ {
+  "id": "node/2587252307",
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "13",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "Honda",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kart-und-fun.de/kartbahn/regeln",
+  "family": [
+   "Junior karts with adjustable pedals and steering are for children up to 16 from 1.25 m.",
+   "Junior-Time runs Sundays 10:00-13:00, with turns limited to 10 minutes.",
+   "A two-seater takes people too small or unwilling to drive alone.",
+   "There is a bistro, beer garden and on-site parking."
+  ],
+  "group": [
+   "Company outings, company parties and Christmas parties can include a barbecue.",
+   "Children's birthdays and private group events are bookable by phone or email.",
+   "The 13 hp race fleet needs a racing licence issued by the venue."
+  ],
+  "hours": "Mo-Fr 14:30-23:00; Sa 13:00-23:00; Su 10:00-22:00 (Junior-Time Su 10:00-13:00)",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kart-und-fun.de/",
+   "https://www.kart-und-fun.de/kartbahn/regeln"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site states junior karts as 6.5 hp (known_fleet had 6)."
+ },
+ {
+  "id": "way/108799424",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 10,
+   "kids_min_height_cm": 145,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": 8
+  },
+  "ages_source": "https://ecodrom.de/",
+  "family": [
+   "Minimum height is 1.45 m; children from 10 may drive only after passing the Ecodrom kids' kart licence.",
+   "Children from 8 can ride as passengers in the two-seater kart.",
+   "Drivers from 14 drive without restriction with the Ecodrom race licence (4 EUR, includes balaclava and a year of accident insurance).",
+   "Kids' birthdays and school trips are offered."
+  ],
+  "group": [
+   "Event packages cover team events, company parties, Christmas parties and club outings.",
+   "A bachelor party package includes racing and a meal at the on-site restaurant."
+  ],
+  "hours": "Mo-Th 14:00-22:00; Fr 16:00-24:00; Sa 11:00-24:00; Su 12:00-22:00; closed Dec 24, 25, 31 and Jan 1",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://ecodrom.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/97901794",
+  "karts": [
+   {
+    "chassis": "RiMO Alpha 2 LPG",
+    "engine": "LPG",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini LPG",
+    "engine": "LPG",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": "LPG",
+    "hp": "2 x 6.5",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.kartbahn-mv.de/neubrandenburg/haeufig-gestellte-fragen.html",
+  "family": [
+   "Kids' karts are for ages 8+ and 1.35 m; adult karts from 12 and 1.55 m, measured with shoes.",
+   "Children from about 4 can ride along in the two-seater with a driver aged 18+ over 1.55 m.",
+   "Parents must register and sign for minor drivers."
+  ],
+  "group": [
+   "Groups can book outside regular hours online."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartbahn-mv.de/neubrandenburg/karts.html",
+   "https://www.kartbahn-mv.de/neubrandenburg/haeufig-gestellte-fragen.html",
+   "https://www.kartbahn-mv.de/neubrandenburg/oeffnungszeiten.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "2026 opening hours are only shown as an image (not read); site says visits after 18:00 need online booking and closing is 22:00 at latest. Operator also runs tracks in Dargelin and Stralsund."
+ },
+ {
+  "id": "way/1410399039",
+  "karts": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 145,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.battlekart.com/duesseldorf-neuss",
+  "family": [
+   "There is no minimum age, but every driver must be at least 1.45 m tall.",
+   "Only single-seat karts are available, so children cannot ride with an adult.",
+   "Children under 15 pay reduced prices.",
+   "Snacks such as birthday cake may be brought, but not drinks; parking is free."
+  ],
+  "group": [
+   "Kids' birthday groups (6+, all under 16) and school trips (12+) get discounts on weekdays.",
+   "Bachelor parties and adult birthdays of 10+ people get 10% off.",
+   "Exclusive company bookings are possible for groups over 100, with catering on request."
+  ],
+  "hours": "Mo-Fr 14:00-22:00; Sa-Su 10:00-22:00; other times on request",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/458296932",
+  "karts": [
+   {
+    "chassis": "Sodikart Rasselbande",
+    "engine": null,
+    "hp": "6.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodikart Energy",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart Pro",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodikart MAX",
+    "engine": null,
+    "hp": "30",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodikart Doppel",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": 6
+  },
+  "ages_source": "https://go102.de/karts/",
+  "family": [
+   "The Rasselbande junior karts are for ages 8-12 from 130 cm; Energy karts from 12 and 140 cm, Pro from 16, MAX from 18.",
+   "Children from 6 can ride with an adult in the two-seater.",
+   "Each child needs a parent-signed liability waiver; rental helmets and free parking are available."
+  ],
+  "group": [
+   "Bachelor parties, company events, birthdays and crew outings are offered.",
+   "Start spots are guaranteed only for online bookings, and the track is often full."
+  ],
+  "hours": "Mo-Tu closed; We-Sa 10:00-19:00; Su 10:00-18:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://go102.de/",
+   "https://go102.de/karts/",
+   "https://go102.de/oeffnungszeiten/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site hours (We-Sa, no season stated) differ from known_hours (Apr-Nov Tu-Sa)."
+ },
+ {
+  "id": "way/298258534",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "LPG",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": "LPG",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.inaction-oberwerrn.de/seite/341815/karts.html",
+  "family": [
+   "Junior karts (Caroli) are for heights of about 135-150 cm; RiMO karts from about 150 cm, throttled for under-14s.",
+   "The DUO kart takes passengers from about 3-4 years with an adult driver.",
+   "A laser tag arena (Laser Planet) is on the same site."
+  ],
+  "group": [
+   "Kids' birthdays, bachelor parties and other events are offered on request."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.inaction-oberwerrn.de/",
+   "https://www.inaction-oberwerrn.de/seite/341815/karts.html",
+   "https://www.inaction-oberwerrn.de/seite/341814/kartcenter.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "2026 opening hours shown only as an image (not read). 9 PS karts from 15 with prior qualification."
+ },
+ {
+  "id": "way/204316334",
+  "karts": [
+   {
+    "chassis": "Sodi GT5R",
+    "engine": "Honda 270 cc",
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 200 cc",
+    "hp": "6",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 390 cc",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://leihkart.msc-nussloch.de/unsere-karts/",
+  "family": [
+   "Children's karts are available, and children from 4 can ride in the two-seater.",
+   "Drivers under 18 need parental consent."
+  ],
+  "group": [
+   "2-hour and 4-hour team races, monthly races and a sprint cup are run.",
+   "Event dates can be requested via the booking inquiry page."
+  ],
+  "hours": "Ticket driving Fridays from 18:00, advance registration only; other dates on request",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://leihkart.msc-nussloch.de/",
+   "https://leihkart.msc-nussloch.de/unsere-karts/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Club-run rental operation (MSC Nussloch); site calls the 16 Sodi GT5R karts 'Rennkarts'."
+ },
+ {
+  "id": "node/3761972821",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://nuerburgring.de/experience/at-the-ring/ringkartbahn",
+  "family": [
+   "Children aged 8-11 pay a children's rate; youths and adults from 12.",
+   "The double kart is driven only by a staff member; parent-child rides are not possible.",
+   "The indoor electric track runs year-round with no exhaust fumes, and no booking is needed."
+  ],
+  "group": [
+   "A separate business offer exists for corporate use."
+  ],
+  "hours": "Varies; times can change at short notice (e.g. 10:00-13:30 and 19:00-20:00 listed on 2026-10-10); check nuerburgring.de/open-hours",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn",
+   "https://nuerburgring.de/open-hours"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site hours differ from known_hours."
+ },
+ {
+  "id": "way/89254346",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [
+   "Groups can book free driving with friends or an organised race."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.motorsportarena.com/Kartbahn/Leihkart-und-eigene-Karts/Infos-und-Preise",
+   "https://www.motorsportarena.com/Kartbahn/Informationen-/Informationen/Informationen.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site offers rental karts (10 karts, almost daily with advance registration) and own karts on a 1,018 m track, but kart models, age rules and hours were not readable."
+ },
+ {
+  "id": "way/480988747",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://teamsport-ekarting.de/faqs",
+  "family": [
+   "Children can drive from 8 with at least 64 cm inseam; adult karts from 12 with 74 cm inseam.",
+   "Two-seater karts are available at Osnabrueck.",
+   "Family sessions let children and adults ride together from 8; there is also a Kids Race.",
+   "Drivers under 18 need a parent-signed waiver if no parent is present."
+  ],
+  "group": [
+   "Private events (birthdays, bachelor parties, club meetings) include races, food and drinks.",
+   "Company events (conferences, Christmas parties, team building) have flexible rooms."
+  ],
+  "hours": "Outside school holidays: Mo closed; Tu 14:30-21:30; We-Fr 14:30-22:00; Sa 09:00-22:30; Su 10:00-21:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://teamsport-ekarting.de/standorte/osnabrueck",
+   "https://teamsport-ekarting.de/faqs"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Height rule is stated as inseam (leg length), not body height."
+ },
+ {
+  "id": "way/1444721703",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden."
+ },
+ {
+  "id": "way/582975406",
+  "karts": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 115,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.e-fun-park-pottenstein.de/faq/",
+  "family": [
+   "Children can drive from 1.15 m; the recommended minimum age is 7.",
+   "One double kart is available, mainly for small children riding with an adult.",
+   "Children up to 12 pay a reduced ticket price, and a family 10+1 ticket is offered.",
+   "Every ride includes warm-up and cool-down laps, a helmet and instruction; a balaclava is required (3 EUR)."
+  ],
+  "group": [
+   "Groups of 10 or more and kids' birthday parties must register in advance.",
+   "Company event packages start at 32 EUR per person with warm-up and an 8-minute race.",
+   "Segway tours and e-bike rental are also offered."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.e-fun-park-pottenstein.de/",
+   "https://www.e-fun-park-pottenstein.de/freizeitangebot/go-kart/",
+   "https://www.e-fun-park-pottenstein.de/faq/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "2026 opening hours are only shown as an image/PDF flyer (not read)."
+ },
+ {
+  "id": "way/223180179",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 128,
+   "adult_min_age": 12,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://kart-o-drom.de/",
+  "family": [
+   "Kids' karts are from 6 years and 1.28 m; large karts from 12 years and 1.50 m.",
+   "A helmet and briefing are included with every ride.",
+   "There is an 850 m outdoor track and a 450 m indoor track open year-round, plus a bistro.",
+   "Arrive 30 minutes early; online reservation is recommended."
+  ],
+  "group": [
+   "Exclusive group races are offered for 6+ or 8+ drivers (30-50 minutes).",
+   "Kids' birthdays, bachelor parties, company events and school classes are offered.",
+   "An open Flatrace runs on Sundays 18:00-20:00."
+  ],
+  "hours": "Mo-We closed; Th-Fr 15:00-20:30; Sa-Su 11:00-20:30; summer holidays daily from 11:00; Easter/autumn/Christmas holidays Mo-Fr from 15:00, Sa-Su from 11:00; closed Dec 24-26, Dec 31, Jan 1",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://kart-o-drom.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/89322197",
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": "no",
+  "own_karts": null,
+  "sources": [
+   "https://mcrathenow.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Club site states 'Wir bieten KEINEN Leihkartbetrieb' (no rental karts); club runs kart slalom, circuit races and a Youngster-Cup."
+ },
+ {
+  "id": "way/128574048",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 5",
+    "engine": "Honda 4-stroke",
+    "hp": "7",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: site is JavaScript-rendered and returns only its title (also over http)."
+ },
+ {
+  "id": "way/904546979",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "4",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "2 x 6.5",
+    "class": "twin"
+   },
+   {
+    "chassis": "Dreierkart",
+    "engine": null,
+    "hp": "9",
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 120,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.kart-am-alfsee.de/karts-preise.html",
+  "family": [
+   "Children from 6 and 1.20 m drive the 4 hp kids' kart; teens and adults from 1.60 m.",
+   "The double kart takes a child passenger from 4 years and 1 m, who can steer along; the second seat is wheelchair-accessible.",
+   "A three-seater kart takes one adult and two children (from 4, up to 1.40 m).",
+   "Spectators can watch from a grandstand or sun terrace; the bistro serves cake on weekends."
+  ],
+  "group": [
+   "A club room for up to 80 people can be booked for birthdays, company and club events, with catering on request.",
+   "Group buffets are offered from 7 or 10 people with reservation."
+  ],
+  "hours": "Mar 1-Oct 31: daily 10:00 until dusk, incl. public holidays; Nov 1-Feb 28: We-Su 11:00 until dusk, Mo-Tu closed; other times by arrangement; weather dependent",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kart-am-alfsee.de/",
+   "https://www.kart-am-alfsee.de/karts-preise.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "The 9 hp kart is for drivers with track experience."
+ },
+ {
+  "id": "way/33894329",
+  "karts": [
+   {
+    "chassis": "RiMO EVO 2",
+    "engine": "Honda",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha 2",
+    "engine": null,
+    "hp": "11",
+    "class": "race"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 9,
+   "kids_min_height_cm": 138,
+   "adult_min_age": 13,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://www.kartcenter-rostock.de/de/karts",
+  "family": [
+   "Kids' karts are for ages 9-17 from 1.38 m; ticket karts from 13 and 1.45 m; race karts from 16 and 1.50 m.",
+   "The two-seater takes passengers from 4 years with a driver aged 18+.",
+   "A supervised kids' kart school runs every Sunday from 12:30.",
+   "Drivers under 18 need a liability waiver signed by a guardian."
+  ],
+  "group": [
+   "Saturdays are reserved for group track rental with at least 7 drivers.",
+   "Company events with catering, award ceremony and meeting room, bachelor parties, kids' birthdays and Christmas parties are offered, for up to 100 guests."
+  ],
+  "hours": "Mo closed; Tu-Fr 15:00-22:00; Sa 13:00-22:00 (group rentals only); Su 12:30-20:00; special hours on public holidays",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartcenter-rostock.de/",
+   "https://www.kartcenter-rostock.de/de/karts",
+   "https://www.kartcenter-rostock.de/de/prices"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Race kart (Alpha 2) needs a proven lap under 42 s on the ticket kart; chassis names come from image descriptions on the karts page."
+ },
+ {
+  "id": "way/34410664",
+  "karts": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO EVO4",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": [],
+  "group": [],
+  "hours": null,
+  "rental": null,
+  "own_karts": null,
+  "sources": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate error (certificate for *.kasserver.com), also over http."
+ },
+ {
+  "id": "way/340141838",
+  "karts": [
+   {
+    "chassis": "Birel Outdoor 270cc",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartsport-zentrum.de/bahnordnung.html",
+  "family": [
+   "Drivers must be at least 12 years old.",
+   "Walk-in riding without registration is possible 13:00-18:00; otherwise call ahead."
+  ],
+  "group": [
+   "Group rides and track rental can be booked by phone or email, e.g. Tu-Sa from 19:00."
+  ],
+  "hours": "Rental karts: Mo closed; Tu-Fr 13:00-~21:00; Sa-Su and PH 10:00-~21:00; race karts Tu-Sa 13:30-19:00 alternating in half-hour blocks",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.kartsport-zentrum.de/leihkarts.html",
+   "https://www.kartsport-zentrum.de/oeffnungszeiten.html",
+   "https://www.kartsport-zentrum.de/bahnordnung.html"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Site also runs race-kart sessions (Rennkartbetrieb) alternating with rental karts."
+ },
+ {
+  "id": "node/4144064752",
+  "karts": [
+   {
+    "chassis": "Hubi HK7",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Hubi X19",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "race"
+   },
+   {
+    "chassis": "Biposto",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Hubi HK7 (hand controls)",
+    "engine": null,
+    "hp": "9",
+    "class": "other"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": null,
+   "adult_min_age": 14,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.indykart.de/",
+  "family": [
+   "Free training is from 14, or from 8 with a kids' kart licence.",
+   "Kids' pedals and seats can be fitted to the rental karts.",
+   "A two-seater (Biposto) and a hand-controlled handicap kart are available."
+  ],
+  "group": [
+   "The track can be booked exclusively for clubs, companies and private groups.",
+   "Bookings outside opening hours need at least 10 karts and 60 minutes."
+  ],
+  "hours": "Mo closed (except PH); Tu-Fr 16:00-22:00 (Tu 18:00-20:30 club training); Sa 11:00-22:00; Su,PH 11:00-21:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.indykart.de/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Credit and debit cards currently not accepted. Sunday closing (21:00) differs from known_hours."
+ },
+ {
+  "id": "way/38305241",
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi 2-Drive",
+    "engine": "Honda 390cc 4-stroke",
+    "hp": "13.5",
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": 14,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": 6
+  },
+  "ages_source": "https://www.fahrwerk.de/kartfahren-outdoor/",
+  "family": [
+   "Drivers must be at least 14 and 1.50 m; under-18s need an adult present.",
+   "Children from 6 and 1.25 m can ride as passengers in the twin kart.",
+   "If weather stops outdoor karting, bookings may move to the indoor track, be rescheduled or cancelled.",
+   "Rental helmets are available; a balaclava is required (3 EUR)."
+  ],
+  "group": [
+   "The Grand-Prix package (qualifying, grid and race, up to 20 or 24 drivers) gives exclusive track use.",
+   "Company events, private events and weddings are offered."
+  ],
+  "hours": "Mar-Oct: Fr-Su open; Mo-Th by appointment only; booking required",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://www.fahrwerk.de/kartfahren-outdoor/",
+   "https://www.fahrwerk.de/oeffnungszeiten",
+   "https://www.fahrwerk.de/haeufige-fragen-kart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/74481523",
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://saxfreizeitcenter.de/kindergeburtstag/",
+  "family": [
+   "Children must be at least 8 and 1.30 m to drive; kids' tickets are up to 13, adult tickets from 14.",
+   "Passengers in the Sodi 2Drive two-seater must be at least 1.20 m.",
+   "Kids' birthday packages (6-13 years, from 6 children) include awards and sweets; own food and drinks are not allowed.",
+   "Ticket rides can be limited during club and cup events."
+  ],
+  "group": [
+   "Company events and monthly hobby races open to all levels are offered.",
+   "Combo tickets with laser tag are available."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 15:00-23:00; Sa 10:00-24:00; Su 10:00-22:00; Saxony/Saxony-Anhalt school holidays Tu-Fr from 12:00, Sa-Su from 10:00",
+  "rental": "yes",
+  "own_karts": null,
+  "sources": [
+   "https://saxfreizeitcenter.de/",
+   "https://saxfreizeitcenter.de/kartbahn/",
+   "https://saxfreizeitcenter.de/kindergeburtstag/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/87439125",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.kartbahn-schleswig.de/faq/",
+  "family": [
+   "Kids' karts need at least 140 cm and adult karts 160 cm, and these limits are not negotiable.",
+   "Some children over 140 cm still cannot reach the pedals safely.",
+   "Children under 16 may not take part in races."
+  ],
+  "group": [
+   "Group and company events are run on the large karts only (from 160 cm).",
+   "An After Work Race runs on Wednesdays from 18:00."
+  ],
+  "hours": "Mo-Tu closed; We-Fr 14:00-18:00; Sa 13:00-18:00; Su 12:00-18:00",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": [
+   "https://www.kartbahn-schleswig.de/",
+   "https://www.kartbahn-schleswig.de/faq/",
+   "https://www.kartbahn-schleswig.de/motorsport-in-schleswig/privatkart/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Own karts allowed during opening hours (max 93 dB, clutch, rear bumper; rental karts have priority). EC card only, no credit cards."
+ }
+]

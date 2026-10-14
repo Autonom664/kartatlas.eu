@@ -68,7 +68,7 @@ def generate(base: Path, origin: str) -> None:
             f"{'; ' + html.escape(p[12]) if p[12] else ''}<br>{html.escape(p[13] or '')}</td></tr>"
             for p in prices
         )
-        fees = "".join(f"<li>{html.escape(f[0] or 'Fee')}: EUR {f[3]:.2f}; "
+        fees = "".join(f"<li>{html.escape(f[0] or 'Fee')}: {'price not stated' if f[3] is None else f'EUR {f[3]:.2f}'}; "
                        f"{'mandatory' if f[5] else 'optional'}; {html.escape(f[4] or '')}. {html.escape(f[6] or '')}</li>"
                        for f in (t.get("F") or []))
         layouts = "".join(f"<li>{html.escape(l[0] or 'Track')}: {l[1]} m</li>" for l in (t.get("T") or []))
@@ -113,8 +113,11 @@ No booking or correction submission is collected by this page.</footer></main></
     current = {p.split("/")[2] for p, _, _ in links}
     for directory in pages.iterdir():
         if directory.is_dir() and re.fullmatch(r"(way|node|relation)-\d+", directory.name) and directory.name not in current:
-            (directory / "index.html").unlink()
-            directory.rmdir()
+            (directory / "index.html").unlink(missing_ok=True)
+            try:
+                directory.rmdir()
+            except OSError:  # cloud-synced folders can lag; a leftover empty folder is harmless
+                pass
     print("generated", len(links), "venue pages for", origin)
 
 

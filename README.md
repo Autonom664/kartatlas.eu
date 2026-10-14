@@ -18,6 +18,16 @@ From the project root, run `node --test tests\site.test.cjs` after rebuilding.
 These dependency-free tests check generated script syntax, data invariants,
 the price regression, intent predicates, session costs and location privacy.
 
+For a release while research batches are still running, leave the unfinished
+or unreviewed batches out with `KART_SKIP=W08,W09,W10 python -I build.py`.
+
+User-confirmed facts live in `pipeline/research/out/*_user.json` and always
+merge last, so they override older research. A record may carry
+`layout_page` (link to the operator's track map) and `layout_diagram`
+(`points`, `closed`, `source`): a centre line traced from an operator's
+track graphic, drawn as a schematic (not to scale, orientation unknown) when
+OpenStreetMap has no outline. The operator's image itself is never copied.
+
 Edit `pipeline/template.html`, not the generated `kart-atlas.html`. The build
 also regenerates `kart-atlas.json`. Research inputs, results and manual
 corrections are preserved in `pipeline/`.

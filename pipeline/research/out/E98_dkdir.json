@@ -1,0 +1,268 @@
+[
+ {
+  "id": "way/94984580",
+  "address": "Pilehavevej 10, 6440 Augustenborg",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/soenderborg-racing-center/",
+  "sources": [
+   "https://gokartbaner.dk/soenderborg-racing-center/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Directory lists the track as Sønderborg Racing Center, 765 m (we have 760 m), with website www.sonderborg-racing-center.dk instead of alsgokartklub.dk.",
+  "layout_page": "https://gokartbaner.dk/soenderborg-racing-center/"
+ },
+ {
+  "id": "way/449265399",
+  "address": "Tingvejen 27, 6500 Vojens",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/vojens-karting-center/",
+  "sources": [
+   "https://gokartbaner.dk/vojens-karting-center/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/vojens-karting-center/"
+ },
+ {
+  "id": "way/93851066",
+  "address": "Astrupvej 40, 6780 Skærbæk",
+  "website": null,
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 920,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/gokart-center-skaerbaek-banen/",
+  "sources": [
+   "https://gokartbaner.dk/gokart-center-skaerbaek-banen/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Directory links http://m-s-s.dk/ as the official website, not www.kart.dk.",
+  "layout_page": "https://gokartbaner.dk/gokart-center-skaerbaek-banen/"
+ },
+ {
+  "id": "node/2216849378",
+  "address": "Vesterhedevej 7, 7200 Grindsted",
+  "website": null,
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 840,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/grindsted-motor-ring/",
+  "sources": [
+   "https://gokartbaner.dk/grindsted-motor-ring/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/grindsted-motor-ring/"
+ },
+ {
+  "id": "way/532894308",
+  "address": "Ringstrupvej 14, 7430 Ikast",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/midtjysk-karting-bane/",
+  "sources": [
+   "https://gokartbaner.dk/midtjysk-karting-bane/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Directory names the club Midtjysk Karting Klub with website https://midtjydskkartingklub.dk/, not midtjyskgokart.dk.",
+  "layout_page": "https://gokartbaner.dk/midtjysk-karting-bane/"
+ },
+ {
+  "id": "way/466134641",
+  "address": "Havrisvej 10, 8830 Tjele",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/loevelbanen/",
+  "sources": [
+   "https://gokartbaner.dk/loevelbanen/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/loevelbanen/"
+ },
+ {
+  "id": "way/486318757",
+  "address": "Lufthavnsvej 9, 7730 Hanstholm",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/thy-karting-center/",
+  "sources": [
+   "https://gokartbaner.dk/thy-karting-center/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/thy-karting-center/"
+ },
+ {
+  "id": "way/567296895",
+  "address": "Nysumgaardvej 6, 9610 Nørager",
+  "website": "http://www.mnj.dk/",
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/tom-k-karting-arena/",
+  "sources": [
+   "https://gokartbaner.dk/tom-k-karting-arena/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/tom-k-karting-arena/"
+ },
+ {
+  "id": "way/547428233",
+  "address": "Amu-Centervej 2, 8560 Kolind",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/dmka-kartingbane/",
+  "sources": [
+   "https://gokartbaner.dk/dmka-kartingbane/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Directory names the venue DMKA Kartingbane at Kolind, not Djursland Gokart Ring.",
+  "layout_page": null
+ },
+ {
+  "id": "way/892633637",
+  "address": "Ejlbyvej 94, 5471 Søndersø",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/fyns-karting-center/",
+  "sources": [
+   "https://gokartbaner.dk/fyns-karting-center/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/fyns-karting-center/"
+ },
+ {
+  "id": "way/712050506",
+  "address": "Kærbygårdevej 25, 5220 Odense SØ",
+  "website": null,
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1150,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/gokartcenter-fyn/",
+  "sources": [
+   "https://gokartbaner.dk/gokartcenter-fyn/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/gokartcenter-fyn/"
+ },
+ {
+  "id": "way/1236943145",
+  "address": "Ørnumvej 25, 4220 Korsør",
+  "website": null,
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 630,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/korsoer-kartbane/",
+  "sources": [
+   "https://gokartbaner.dk/korsoer-kartbane/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/korsoer-kartbane/"
+ },
+ {
+  "id": "way/938791191",
+  "address": "Abildgårdsvej 1, 4000 Roskilde",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/roskilde-racing-center-banen/",
+  "sources": [
+   "https://gokartbaner.dk/roskilde-racing-center-banen/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/roskilde-racing-center-banen/"
+ },
+ {
+  "id": "way/139090965",
+  "address": "Kraftværksvej 10, 2300 København",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/koebenhavns-gokartbane/",
+  "sources": [
+   "https://gokartbaner.dk/koebenhavns-gokartbane/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/koebenhavns-gokartbane/"
+ },
+ {
+  "id": "way/664573164",
+  "address": "Færgevej 26, 4970 Rødby",
+  "website": null,
+  "websites": [],
+  "tracks": [],
+  "source": "https://gokartbaner.dk/roedby-karting-ring/",
+  "sources": [
+   "https://gokartbaner.dk/roedby-karting-ring/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/roedby-karting-ring/"
+ },
+ {
+  "id": "way/318606996",
+  "address": "Mosegårdsvej 20B, 4760 Vordingborg",
+  "website": null,
+  "websites": [],
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 811,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/barmosens-gokart-center/",
+  "sources": [
+   "https://gokartbaner.dk/barmosens-gokart-center/"
+  ],
+  "checked_at": "2026-10-10",
+  "note": null,
+  "layout_page": "https://gokartbaner.dk/barmosens-gokart-center/"
+ }
+]

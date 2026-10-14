@@ -1,0 +1,83 @@
+[
+ {
+  "id": "relation/4298937",
+  "karts": [
+   {"chassis": "200cc kart", "engine": "200cc", "hp": 6, "class": "kids"},
+   {"chassis": "270cc kart", "engine": "270cc", "hp": 9, "class": "adult"},
+   {"chassis": "Biplace kart", "engine": null, "hp": null, "class": "twin"},
+   {"chassis": "RX 250", "engine": null, "hp": 28, "class": "race"},
+   {"chassis": "Praga", "engine": null, "hp": 40, "class": "race"}
+  ],
+  "ages": {"kids_min_age": 8, "kids_min_height_cm": null, "adult_min_age": 14, "adult_min_height_cm": null, "twin_passenger_min_age": 3},
+  "ages_source": "https://www.kartingvuiteboeuf.ch/tarifs/",
+  "family": [
+   "Family sessions run every day, using two-seater, 200cc and 270cc karts.",
+   "Children aged 3 to 10 can ride as passengers in a two-seater kart with an adult.",
+   "Juniors aged 8 to 13 drive their own 200cc kart.",
+   "A kart with steering-wheel hand controls is available for people with reduced mobility.",
+   "A karting academy for ages 7 to 13 runs on Wednesday afternoons and Sunday mornings."
+  ],
+  "group": [
+   "Groups can book Grand Prix races, challenges and private sessions; online booking is for groups of 8 or more.",
+   "Birthday parties are offered for ages 8 to 16.",
+   "Company team building, seminars and after-work events are offered, as are stag/hen parties and school outings (Tuesday to Friday, by reservation)."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": ["https://www.kartingvuiteboeuf.ch/tarifs/", "https://www.kartingvuiteboeuf.ch/faq/", "https://www.kartingvuiteboeuf.ch/infos-pratiques/"],
+  "checked_at": "2026-10-10",
+  "note": "Opening hours are loaded dynamically and could not be read; phone 024 459 19 22. Kart brands are not named, except a Sodikart LR6 200cc 6hp used in the academy. Two-stroke karts are not allowed; owners of four-stroke karts are asked to call."
+ },
+ {
+  "id": "way/163933505",
+  "karts": [
+   {"chassis": "Kinder-Kart", "engine": null, "hp": null, "class": "kids"},
+   {"chassis": "Spezial-Kart", "engine": "200cc", "hp": 6.5, "class": "adult"},
+   {"chassis": "Turbo-Kart", "engine": "270cc", "hp": 9, "class": "adult"}
+  ],
+  "ages": {"kids_min_age": 8, "kids_min_height_cm": 140, "adult_min_age": 14, "adult_min_height_cm": null, "twin_passenger_min_age": null},
+  "ages_source": "https://www.kartbahnwohlen.ch/kids/",
+  "family": [
+   "Children may drive the kids' rental karts from age 8 and 1.40 m tall, and both conditions must be met.",
+   "Kids' karts share the track with the adult rental karts, and the site suggests mornings for parents with concerns.",
+   "Under-16s must show parental permission or come with an accompanying adult.",
+   "Rotax Micro training for children's race karts is allowed from age 6."
+  ],
+  "group": [
+   "Bookings for parties, company outings and corporate events are made by phone.",
+   "Fun races and Turbo-Kart races are held; the track is closed to rental driving from 10:00 to 14:30 on Turbo-Kart race days."
+  ],
+  "hours": "Rental karts usually Mon-Thu 9:00-19:00, Sun 10:00-19:00; the schedule is published weekly and the track can be closed for championship days (e.g. Fri-Sat 9-10 Oct 2026, no rental).",
+  "rental": "yes",
+  "own_karts": "yes",
+  "sources": ["https://www.kartbahnwohlen.ch/infos/", "https://www.kartbahnwohlen.ch/kids/", "https://www.kartbahnwohlen.ch/karts/spezial-kart/"],
+  "checked_at": "2026-10-10",
+  "note": "The Turbo-Kart has a minimum age of 16, is for experienced drivers only and runs only on a dry track. Hours are published week by week, so Saturday rental hours were not visible this week."
+ },
+ {
+  "id": "node/4952008713",
+  "karts": [
+   {"chassis": "Tomkart Swiss E-Kart", "engine": "electric", "hp": null, "class": "electric"}
+  ],
+  "ages": {"kids_min_age": null, "kids_min_height_cm": 130, "adult_min_age": 14, "adult_min_height_cm": 130, "twin_passenger_min_age": null},
+  "ages_source": "https://winterthur.kart.ch/karting",
+  "family": [
+   "Family sessions with controlled speed are for children, families and beginners, from 1.30 m tall.",
+   "Each family ride lasts 8 minutes.",
+   "On Wednesdays there is a family discount of three rides for the price of two.",
+   "Helmets, sturdy shoes and suitable clothing are required."
+  ],
+  "group": [
+   "Group events start at 8 people and can be booked up to 3 days ahead, with Grand Prix and stag/hen party packages.",
+   "A 2-hour team race and exclusive hire of the whole track are available from 20 people.",
+   "Children's birthday parties are for 6 to 10 children (from 1.30 m), with an 8-minute training run and an 8-minute final."
+  ],
+  "hours": null,
+  "rental": "yes",
+  "own_karts": null,
+  "sources": ["https://winterthur.kart.ch", "https://winterthur.kart.ch/karting", "https://winterthur.kart.ch/kindergeburtstag"],
+  "checked_at": "2026-10-10",
+  "note": "The fleet is 24 Tomkart Swiss E-Karts. The outdoor track opens in good weather; opening hours were not shown in the fetched page text."
+ }
+]

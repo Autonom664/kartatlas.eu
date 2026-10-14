@@ -1,0 +1,1348 @@
+[
+ {
+  "id": "way/138621802",
+  "name": "Outdoorkartbahn Niederkrüchten (Kartbahn Schwalmtal)",
+  "town": "Schwalmtal",
+  "country": "Germany",
+  "websites": [
+   "http://www.outdoorkartbahn.com"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "town": "Schwerin",
+  "country": "Germany",
+  "websites": [
+   "https://www.motodrom-schwerin.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/727712552",
+  "name": "Seealm-Ring",
+  "town": "Schönau am Königssee",
+  "country": "Germany",
+  "websites": [
+   "http://www.seealm-ring.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/110163356",
+  "name": "Spreewaldring Kartcenter",
+  "town": "Schönwald",
+  "country": "Germany",
+  "websites": [
+   "https://kart-center.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/257074018",
+  "name": "Sensadrom Indoor E-Kartbahn",
+  "town": "Sindelfingen",
+  "country": "Germany",
+  "websites": [
+   "https://sensadrom.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Th 17:30-22:00; Fr,Sa 17:30-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/121599004",
+  "name": "KARTBAHN Alemannenring",
+  "town": "Singen (Hohentwiel)",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-alemannenring.com"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Honda GX270",
+    "9",
+    "adult"
+   ],
+   [
+    "RiMO",
+    "Honda GX160",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "town": "Sinn",
+  "country": "Germany",
+  "websites": [
+   "http://kartland-sinn.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/61560044",
+  "name": "BattleKart St-Leon-Rot",
+  "town": "St. Leon-Rot",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/st-leon-rot"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Th 14:00-20:00; Fr 14:00-22:00; Sa 10:00-22:00; Su 10:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "town": "Stralsund",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-mv.de/Stralsund/home.html"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "LPG",
+    "8",
+    "adult"
+   ],
+   [
+    null,
+    "LPG",
+    "5.5",
+    "kids"
+   ],
+   [
+    null,
+    "electric (2 x 2.8 kW)",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "town": "Strasburg (Uckermark)",
+  "country": "Germany",
+  "websites": [
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "town": "Straubing",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartclub-straubing.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/5207433462",
+  "name": "Kart-o-Mania",
+  "town": "Stuttgart",
+  "country": "Germany",
+  "websites": [
+   "https://kart-stuttgart.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 200cc",
+    "7",
+    "race"
+   ],
+   [
+    null,
+    "Honda 270cc",
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    "Honda 160cc",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-Fr 14:30-23:00; Sa-Su 11:00-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "town": "Sulz am Neckar",
+  "country": "Germany",
+  "websites": [
+   "http://www.hallenkartbahn-sulz.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT5R",
+    "200cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    "5.5",
+    "junior"
+   ],
+   [
+    null,
+    "390cc",
+    "13",
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Tu off; We-Fr 16:00-22:00; Sa 12:00-22:00; Su 14:00-20:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/377273485",
+  "name": "Kart-Bahn Templiner Ring",
+  "town": "Templin",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-templin.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/446905417",
+  "name": "Kart-Bahn Teningen",
+  "town": "Teningen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/60207296",
+  "name": "Indoor Karting Umkirch",
+  "town": "Umkirch",
+  "country": "Germany",
+  "websites": [
+   "https://www.sportpark-umkirch.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "town": "Unna",
+  "country": "Germany",
+  "websites": [
+   "https://battlekart.com/unna"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/174962870",
+  "name": "Kartbahn Brookmerland",
+  "town": "Upgant-Schott",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-ostfriesland.de/",
+   "https://kartbahn-ostfriesland.de/de/Kartsportverein/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    "9.5",
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    "6.5",
+    "junior"
+   ],
+   [
+    "Sodikart",
+    null,
+    "3.5",
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/328666276",
+  "name": "Karting-Paradies Vilsbiburg",
+  "town": "Vilsbiburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.karting-paradies.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "9 PS",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "6.5 PS",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "6.5 PS",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "13 PS",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/27658112",
+  "name": "ProKart Raceland",
+  "town": "Wackersdorf",
+  "country": "Germany",
+  "websites": [
+   "https://www.prokart-raceland.com/home/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Rotax",
+    "23",
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "town": "Walldorf",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-walldorf-astoria.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/72708524",
+  "name": "Kartbahn Schönerlinde",
+  "town": "Wandlitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-schoenerlinde.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Alpha",
+    "390 ccm",
+    "13",
+    "adult"
+   ],
+   [
+    "RiMO Alpha",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "Arisco",
+    "Honda (2x)",
+    "9",
+    "twin"
+   ],
+   [
+    "Combi kart",
+    "390 ccm",
+    "13",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/143901665",
+  "name": "GPN Grand-Prix-Niederrhein",
+  "town": "Weeze",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-weeze.de",
+   "https://www.grand-prix-niederrhein.com/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO 6",
+    "270 cc",
+    "9",
+    "race"
+   ],
+   [
+    "RiMO EVO 5",
+    "200 cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    "RiMO Alpha Kart",
+    "200 cc",
+    "6.5",
+    "other"
+   ],
+   [
+    "RiMO Twinstructor",
+    "2x 200 cc",
+    "2x 6.5",
+    "twin"
+   ],
+   [
+    "RiMO Mini",
+    "160 cc",
+    "5.5",
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "town": "Weil am Rhein",
+  "country": "Germany",
+  "websites": [
+   "https://kartraceland.de/"
+  ],
+  "known_fleet": [
+   [
+    "Hubi",
+    "200cc",
+    "8.5",
+    "race"
+   ],
+   [
+    "Hubi",
+    "200cc",
+    "8.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/164688996",
+  "name": "Kartbahn MSC-Oberflockenbach",
+  "town": "Weinheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.msc-oberflockenbach.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/33529699",
+  "name": "F1 motodrom",
+  "town": "Wernau (Neckar)",
+  "country": "Germany",
+  "websites": [
+   "https://f1-motodrom.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Fr 16:00-23:00, Sa 12:00-23:00, Su 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/587974059",
+  "name": "Kartbahn Werther",
+  "town": "Werther (Westf.)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-werther.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-Th 15:00-22:00; Fr 15:00-24:00; Sa 12:00-24:00; Su 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/87497403",
+  "name": "SK Raceworld",
+  "town": "Wildeshausen",
+  "country": "Germany",
+  "websites": [
+   "https://sk-raceworld.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo-Th off;Fr 15:00-18:00; Sa,Su 14:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/336869541",
+  "name": "Kart- & Bowlingcenter Willingen",
+  "town": "Willingen (Upland)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-willingen.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "Honda (gas)",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "town": "Winterberg",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartfun-astenberg.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12547718882",
+  "name": "Kartbahn Wittenburg im Alpincenter",
+  "town": "Wittenburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/837980941",
+  "name": "FöhrRing Kartbahn",
+  "town": "Wyk auf Föhr",
+  "country": "Germany",
+  "websites": [
+   "https://www.foehrring.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric (2 x 2.8 kW)",
+    null,
+    "electric"
+   ],
+   [
+    "RiMO",
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/392128609",
+  "name": "Vogelsbergring",
+  "town": "Wächtersbach",
+  "country": "Germany",
+  "websites": [
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/89670854",
+  "name": "Mainfranken Motodrom",
+  "town": "Würzburg",
+  "country": "Germany",
+  "websites": [
+   "https://www.ekart-center.de"
+  ],
+  "known_fleet": [
+   [
+    "EKC",
+    "electric",
+    "8",
+    "adult"
+   ],
+   [
+    "Sodi",
+    "electric",
+    "10",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/655238957",
+  "name": "Karthaus Zweibrücken",
+  "town": "Zweibrücken",
+  "country": "Germany",
+  "websites": [
+   "https://karthaus.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "We, Th 15:00-21:00; Fr, Sa 15:00-00:00; Su 12:00-21:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/798432703",
+  "name": "Adria Karting Raceway",
+  "town": "Adria",
+  "country": "Italy",
+  "websites": [
+   "https://www.adriaraceway.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/2625023",
+  "name": "Ala Karting Circuit",
+  "town": "Ala",
+  "country": "Italy",
+  "websites": [
+   "https://www.alakarting.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/674711953",
+  "name": "The Way Kart Vicenza",
+  "town": "Altavilla Vicentina",
+  "country": "Italy",
+  "websites": [
+   "https://www.thewaykart.com/",
+   "https://www.vki.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1546897978",
+  "name": "Kartodromo Pista dei Campioni",
+  "town": "Alzachèna/Arzachena",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistadeicampioni.com/",
+   "https://www.facebook.com/www.pistadeicampioni.it"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/186119706",
+  "name": "Pista Go Kart Artena",
+  "town": "Artena",
+  "country": "Italy",
+  "websites": [
+   "http://www.gokartena.it"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12296957472",
+  "name": "House of Karts",
+  "town": "Bagnolo San Vito",
+  "country": "Italy",
+  "websites": [
+   "https://www.houseofkarts.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo 18:00-23:00, Tu off, We 18:00-23:00, Th 18:00-24:00, Fr 17:00-24:00, Sa 11:00-24:00, Su 10:00-21:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/416497419",
+  "name": "Kartodromo Barimax",
+  "town": "Bari",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromobarimax.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RSX",
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    "Sodi LRX",
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12383157724",
+  "name": "K1 Speed Torino",
+  "town": "Beinasco",
+  "country": "Italy",
+  "websites": [
+   "https://www.k1speed.com/it/torino.html"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Fr 13:00-01:00; Sa 11:00-02:00; Su 11:00-01:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1270623433",
+  "name": "MiniMoto San Mauro Mare",
+  "town": "Bellaria-Igea Marina",
+  "country": "Italy",
+  "websites": [
+   "https://www.minimotoitalia.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/238454074",
+  "name": "Pista Azzurra",
+  "town": "Borgo Ticino",
+  "country": "Italy",
+  "websites": [
+   "http://www.pistazzurra.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "2-stroke",
+    null,
+    "race"
+   ],
+   [
+    null,
+    "Honda 200cc 4-stroke",
+    "6.5",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/683379720",
+  "name": "Cerrina Race Track",
+  "town": "Bruino",
+  "country": "Italy",
+  "websites": [
+   "https://www.cerrinaracetrack.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "Honda 200cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/60136442",
+  "name": "Dromokart",
+  "town": "Buccinasco",
+  "country": "Italy",
+  "websites": [
+   "https://www.dromokart.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT4",
+    "Honda 270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1078429098",
+  "name": "Vallelunga Karting",
+  "town": "Campagnano di Roma",
+  "country": "Italy",
+  "websites": [
+   "https://www.vallelunga.it"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/185017673",
+  "name": "Kart Elba",
+  "town": "Campo nell'Elba",
+  "country": "Italy",
+  "websites": [
+   "https://kartelba.it"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Su 18:00-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/12721481",
+  "name": "Pista dell'Adriatico",
+  "town": "Cappelle sul Tavo",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistadelladriatico.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Tu-Fr 15:00-18:30; Sa,Su 09:00-12:30,15:00-18:30; Jun-Aug Mo-Fr 15:00-19:00,21:00-00:00; Jun-Aug Sa 09:00-12:30,15:00-19:00,21:00-00:00; Jun-Aug Su 09:00-12:30,15:00-19:00,21:00-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4170263824",
+  "name": "Kart1",
+  "town": "Cassano Magnago",
+  "country": "Italy",
+  "websites": [
+   "http://kart1.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-We 19:00-24:00; Th 16:00-24:00; Fr 16:00-01:00; Sa 10:00-13:00,15:00-01:00; Su 14:00-22:30",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1316505007",
+  "name": "Kartodromo Rastellino",
+  "town": "Castelfranco Emilia",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromorastellino.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/133611214",
+  "name": "Circuito di Siena",
+  "town": "Castelnuovo Berardenga",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitodisiena.it/"
+  ],
+  "known_fleet": [
+   [
+    "TB Kart R25",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "TB Kart",
+    "390cc",
+    null,
+    "race"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/245463137",
+  "name": "Franciacorta Karting Track",
+  "town": "Castrezzato",
+  "country": "Italy",
+  "websites": [
+   "http://kartodromofranciacorta.yolasite.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Th 19:00-00:00; Fr 19:00-01:00; Sa 15:00-01:00; Su 15:00-20:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/423697503",
+  "name": "Jeepers Kart",
+  "town": "Cattolica",
+  "country": "Italy",
+  "websites": [
+   "https://www.pistadicattolica.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12127526846",
+  "name": "E-Motion Karting Pescara",
+  "town": "Cepagatti",
+  "country": "Italy",
+  "websites": [
+   "https://emotionkartingpescara.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "junior"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Fr 18:00-24:00; Sa-Su 16:00-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/75928127",
+  "name": "Happy Valley Kart",
+  "town": "Cervia",
+  "country": "Italy",
+  "websites": [
+   "https://www.happyvalleykart.com/"
+  ],
+  "known_fleet": [
+   [
+    "Birel",
+    "Honda 4-stroke",
+    "11",
+    "adult"
+   ],
+   [
+    "Birel",
+    "Honda 4-stroke",
+    "6",
+    "junior"
+   ],
+   [
+    "Birel",
+    "Honda 4-stroke",
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "relation/18655290",
+  "name": "Circuito internazionale \"Le Colline\"",
+  "town": "Chignolo Po",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitointernazionalelecolline.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/645437188",
+  "name": "Lario Motorsport",
+  "town": "Colico",
+  "country": "Italy",
+  "websites": [
+   "https://lariomotorsport.it/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc 4-stroke",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/354900178",
+  "name": "Circuito di Pomposa",
+  "town": "Comacchio",
+  "country": "Italy",
+  "websites": [
+   "https://www.circuitodipomposa.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT4",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi SR4",
+    "390cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "270cc",
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/159352783",
+  "name": "CogisKart",
+  "town": "Corridonia",
+  "country": "Italy",
+  "websites": [
+   "https://www.cogiskart.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/31531331",
+  "name": "OrobiKart",
+  "town": "Curno",
+  "country": "Italy",
+  "websites": [
+   "https://www.kartodromo.it/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR4",
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi",
+    "160cc 4-stroke",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/6401336548",
+  "name": "Hollywood Kart Erba",
+  "town": "Erba",
+  "country": "Italy",
+  "websites": [
+   "https://hollywoodkart.it/erba/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RSX",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Fr 17:00-00:00; Fr 17:00-01:00; Sa 12:00-01:00; Su 12:00-00:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/449757913",
+  "name": "Kartodromo Dino Ferrari",
+  "town": "Fermo",
+  "country": "Italy",
+  "websites": [
+   "http://www.kart-ferrari.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/208976251",
+  "name": "Extrema Kart",
+  "town": "Finale Emilia",
+  "country": "Italy",
+  "websites": [
+   "https://extremakart.it/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ }
+]

@@ -195,6 +195,67 @@ details > summary { cursor: pointer; padding: 8px 0; }
   header { padding-block: 6px; gap: 6px 12px; }
   .controls { max-height: 25dvh; }
 }
+/* short or narrow screens: the rail scrolls as one, so the search area never squeezes the list */
+@media (max-width: 820px), (max-height: 600px) {
+  aside { overflow-y: auto !important; overscroll-behavior: contain; }
+  aside .list { flex: none !important; max-height: none !important; overflow: visible !important; min-height: 60vh; }
+  aside .finder, aside .filter-panel { flex-shrink: 0; }
+  aside .resultbar { position: sticky; top: 0; z-index: 5; background: var(--panel); }
+  .app[data-detail="true"] aside .list { min-height: 0; }
+}
+/* finder: one search box, intents, active-filter pills, then a grouped filter panel */
+.finder { padding: 12px 16px 8px; display: flex; flex-direction: column; gap: 8px; border-bottom: 1px solid var(--line); flex-shrink: 0; }
+.searchbox { position: relative; display: flex; gap: 6px; }
+.searchbox input { flex: 1; min-width: 0; font: 15px var(--body); padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--fg); min-height: 44px; }
+.searchbox input:focus-visible { outline: 2px solid var(--focus); outline-offset: 0; }
+.iconbtn { flex-shrink: 0; font: 600 13px var(--body); color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 0 12px; min-height: 44px; cursor: pointer; white-space: nowrap; }
+.iconbtn:hover { background: var(--bg); }
+.suggest { position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 30; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 10px 28px rgb(0 0 0 / .28); max-height: min(60vh, 420px); overflow-y: auto; padding: 4px; }
+.suggest .grp { font: 600 11px var(--body); text-transform: uppercase; letter-spacing: .07em; color: var(--muted); padding: 8px 10px 3px; }
+.suggest [role="option"] { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; padding: 8px 10px; border-radius: 6px; cursor: pointer; font-size: 14px; }
+.suggest [role="option"] .sub { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.suggest [role="option"][aria-selected="true"], .suggest [role="option"]:hover { background: var(--bg); }
+.suggest .hint { padding: 8px 10px; font-size: 12px; color: var(--muted); }
+.intentrow { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: thin; padding-bottom: 2px; }
+.intentrow button { flex-shrink: 0; min-height: 36px; border-radius: 999px; }
+.activerow { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.activerow:has(.pills:empty) { display: none; }
+.pills { display: flex; flex-wrap: wrap; gap: 6px; }
+.pill { display: inline-flex; align-items: center; gap: 6px; font: 500 12.5px var(--body); color: var(--panel); background: var(--fg); border: 0; border-radius: 999px; padding: 4px 8px 4px 11px; cursor: pointer; max-width: 100%; }
+.pill .x { font-size: 14px; line-height: 1; opacity: .75; }
+.pill:hover .x { opacity: 1; }
+.linkbtn { background: none; border: 0; padding: 2px 4px; color: var(--indoor); font: 600 12.5px var(--body); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+#location-status:empty { display: none; }
+.filter-panel > summary { display: flex; align-items: center; gap: 8px; list-style: none; }
+.filter-panel > summary::-webkit-details-marker { display: none; }
+.filter-panel > summary::before { content: "▸"; color: var(--muted); transition: transform .15s; }
+.filter-panel[open] > summary::before { transform: rotate(90deg); }
+.badge { font: 600 11px var(--body); color: var(--panel); background: var(--fg); border-radius: 999px; padding: 1px 7px; }
+.badge:empty { display: none; }
+.controls section { display: flex; flex-direction: column; gap: 6px; }
+.controls h3 { margin: 0; font: 600 11px var(--body); text-transform: uppercase; letter-spacing: .07em; color: var(--muted); }
+.minirow { display: flex; gap: 10px; }
+.ccgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(128px, 1fr)); }
+.ccgrid .chip { justify-content: space-between; }
+label.inline { display: flex; align-items: center; justify-content: space-between; gap: 8px; font-size: 13px; color: var(--muted); }
+label.inline select, .sortlbl select { font: 13px var(--body); color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 6px; }
+.primary { font: 600 14px var(--body); color: var(--panel); background: var(--fg); border: 0; border-radius: 8px; padding: 11px; cursor: pointer; position: sticky; bottom: 0; }
+.resultbar { display: flex; align-items: center; gap: 8px; padding: 8px 16px; border-bottom: 1px solid var(--line); flex-shrink: 0; font-size: 13px; }
+#result-count { font-weight: 600; margin-right: auto; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.resultbar .chip, .sortlbl { white-space: nowrap; }
+.nearradius { display: inline-flex; align-items: center; gap: 5px; font-size: 12.5px; color: var(--muted); }
+.nearradius select { font: 12.5px var(--body); color: var(--fg); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 3px 4px; }
+.activerow:has(.pills:empty) { display: none; }
+.sortlbl { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12px; }
+.resultbar .chip { padding: 5px 9px; font-size: 12.5px; }
+.app[data-detail="true"] .finder, .app[data-detail="true"] .resultbar { display: none; }
+@media (max-width: 820px) {
+  .app[data-view="map"][data-detail="true"] .finder, .app[data-view="map"][data-detail="true"] .resultbar { display: none; }
+  .finder { padding: 8px 12px 6px; gap: 6px; }
+  .resultbar { padding: 6px 12px; }
+  .resultbar .chip, .sortlbl select { min-height: 40px; }
+  .intentrow button { min-height: 40px; }
+}
 </style>
 
 <div class="app" data-view="list" data-detail="false">
@@ -224,10 +285,13 @@ details > summary { cursor: pointer; padding: 8px 0; }
     <div class="tip" id="tip" hidden></div>
   </div>
   <aside>
-    <details class="filter-panel" id="filters">
-    <summary>Search and filters</summary>
-    <div class="controls">
-      <div class="intentrow" aria-label="What would you like to do?">
+    <div class="finder">
+      <div class="searchbox">
+        <input id="q" type="search" placeholder="Search venue, town or country" aria-label="Search venues, towns and countries" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="suggest">
+        <button class="iconbtn" id="locate" type="button" title="Use my location" aria-label="Use my location"><span aria-hidden="true">◎</span> Near me</button>
+        <div class="suggest" id="suggest" role="listbox" aria-label="Suggestions" hidden></div>
+      </div>
+      <div class="intentrow" role="group" aria-label="What would you like to do?">
         <button class="chip" data-intent="" aria-pressed="true">Explore all</button>
         <button class="chip" data-intent="rent" aria-pressed="false">Go karting</button>
         <button class="chip" data-intent="family" aria-pressed="false">Family outing</button>
@@ -235,40 +299,53 @@ details > summary { cursor: pointer; padding: 8px 0; }
         <button class="chip" data-intent="race" aria-pressed="false">Race-kart rental</button>
         <button class="chip" data-intent="group" aria-pressed="false">Group event</button>
       </div>
-      <form id="location-form" class="locationrow">
-        <input id="place" list="places" placeholder="Find around an atlas town" aria-label="Atlas town">
-        <datalist id="places"></datalist>
-        <button class="chip" type="submit">Find nearby</button>
-        <button class="chip" id="locate" type="button">Use my location</button>
-        <select id="radius" aria-label="Search radius"><option value="25">25 km</option><option value="50" selected>50 km</option><option value="100">100 km</option><option value="250">250 km</option></select>
-        <button class="chip" id="clear-location" type="button">Clear location / area</button>
-      </form>
-      <span id="location-status" class="status" role="status">Town centres are estimated from mapped venues. Your device location is never put in share links.</span>
-      <div class="searchrow">
-        <input id="q" type="search" placeholder="Search name, town, region or kart…" aria-label="Search tracks">
-        <button id="reset" class="resetbtn" type="button">Reset filters</button>
+      <div class="activerow">
+        <div class="pills" id="pills" aria-label="Active filters"></div>
+        <label class="nearradius" id="near-radius" hidden>Within <select id="radius" aria-label="Search radius"><option value="25">25 km</option><option value="50" selected>50 km</option><option value="100">100 km</option><option value="250">250 km</option></select></label>
+        <button id="reset" class="linkbtn" type="button" hidden>Clear all</button>
       </div>
-      <details id="advanced"><summary>More filters: countries, track types and karts</summary>
-      <div class="chips" id="cchips"></div>
-      <div class="chips" id="chips"></div>
-      <div class="selrow">
-        <label>Driving<select id="f-drive"><option value="">Any</option><option value="rent">Rental karts</option><option value="own">Own karts allowed</option><option value="race">Race karts for rent</option></select></label>
-        <label>Chassis<select id="f-chassis"></select></label>
-        <label>Engine<select id="f-engine"></select></label>
-      </div>
-      </details>
-      <div class="sortrow">Sort
-        <button class="sortbtn" data-sort="n" aria-pressed="true">A–Z</button>
-        <button class="sortbtn" data-sort="cc" aria-pressed="false">Country</button>
-        <button class="sortbtn" data-sort="len" aria-pressed="false">Longest</button>
-        <button class="sortbtn" data-sort="ppm" aria-pressed="false">Cheapest €/min</button>
-        <button class="sortbtn" data-sort="ppl" aria-pressed="false">Cheapest €/lap</button>
-        <button class="sortbtn" data-sort="distance" aria-pressed="false">Nearest</button>
-      </div>
-      <button class="chip" id="share-search" type="button">Copy search link</button>
+      <span id="location-status" class="status" role="status"></span>
+    </div>
+    <details class="filter-panel" id="filters">
+    <summary><span class="sumlabel">Filters</span><span class="badge" id="filter-count"></span></summary>
+    <div class="controls">
+      <section aria-labelledby="h-where">
+        <h3 id="h-where">Where</h3>
+        <div class="minirow"><button class="linkbtn" id="cc-all" type="button">All countries</button><button class="linkbtn" id="cc-none" type="button">No countries</button></div>
+        <div class="chips ccgrid" id="cchips"></div>
+      </section>
+      <section aria-labelledby="h-track">
+        <h3 id="h-track">Track</h3>
+        <div class="chips" id="chips"></div>
+      </section>
+      <section aria-labelledby="h-karts">
+        <h3 id="h-karts">Karts</h3>
+        <div class="selrow">
+          <label>Driving<select id="f-drive"><option value="">Any</option><option value="rent">Rental karts</option><option value="own">Own karts allowed</option><option value="race">Race karts for rent</option></select></label>
+          <label>Chassis<select id="f-chassis"></select></label>
+          <label>Engine<select id="f-engine"></select></label>
+        </div>
+      </section>
+      <section aria-labelledby="h-more">
+        <h3 id="h-more">Prices and status</h3>
+        <div class="chips" id="chips-more"></div>
+      </section>
+      <button class="primary" id="apply-filters" type="button">Show results</button>
       <span class="status language-note" id="language-note">Venue names, tariff wording and research notes retain their source language.</span>
     </div>
     </details>
+    <div class="resultbar">
+      <span id="result-count" aria-hidden="true"></span>
+      <label class="sortlbl">Sort <select id="sort" aria-label="Sort venues">
+        <option value="n">Name (A–Z)</option>
+        <option value="distance">Nearest</option>
+        <option value="ppm">Cheapest €/min</option>
+        <option value="ppl">Cheapest €/lap</option>
+        <option value="len">Longest track</option>
+        <option value="cc">Country</option>
+      </select></label>
+      <button class="chip" id="share-search" type="button">Copy search link</button>
+    </div>
     <span id="share-status" class="status" role="status"></span>
     <div class="detail" id="detail" hidden></div>
     <div class="list" id="list"></div>
@@ -298,7 +375,6 @@ const state = { on: { outdoor: true, indoor: true, kids: false }, cc: Object.fro
 const CCID = Object.fromEntries(Object.entries(COUNTRIES).map(([c, v]) => [v.id, c]));
 document.getElementById("covered").textContent = Object.values(COUNTRIES).map(c => c.name).join(", ");
 TRACKS.forEach((t, i) => t.id = i);
-document.getElementById("filters").open = !matchMedia("(max-width: 820px), (max-height: 600px)").matches;
 const venueIds = new Set(TRACKS.map(t => t.o));
 let favouriteIds = [], compareIds = [], sharedIds = [], plannerMode = "saved", plannerReturnFocus = null;
 const planner = document.getElementById("planner");
@@ -323,7 +399,6 @@ TRACKS.filter(t => t.c).forEach(t => {
   towns.set(label, town);
 });
 towns.forEach(t => { t.lo /= t.count; t.la /= t.count; });
-document.getElementById("places").innerHTML = [...towns.keys()].sort().map(t => `<option value="${esc(t)}"></option>`).join("");
 const distance = t => state.origin ? d3.geoDistance([state.origin.lo, state.origin.la], [t.lo, t.la]) * 6371 : null;
 function matchesIntent(t) {
   if (!state.intent) return true;
@@ -649,8 +724,21 @@ function sessionSummary(t) {
   const fees = (t.F || []).filter(f => f[5]);
   return `From €${p[6].toFixed(2)} for ${p[2]} min${p[16] ? " (members)" : ""}${p[5] !== "EUR" ? ` (${p[4]} ${p[5]})` : ""}${fees.length ? ` · Known mandatory fees: €${fees.reduce((sum, f) => sum + f[3], 0).toFixed(2)}; see conditions` : ""}`;
 }
+function diagramSvg(t) {
+  if (!t.Ld) return "";
+  const W = 340, H = 200, pad = 16, pts = t.Ld.p;
+  const xs = pts.map(p => p[0]), ys = pts.map(p => p[1]);
+  const x0 = Math.min(...xs), x1 = Math.max(...xs), y0 = Math.min(...ys), y1 = Math.max(...ys);
+  const sc = Math.min((W - 2 * pad) / Math.max(x1 - x0, 1), (H - 2 * pad) / Math.max(y1 - y0, 1));
+  const ox = (W - (x1 - x0) * sc) / 2, oy = (H - (y1 - y0) * sc) / 2;
+  const d = "M" + pts.map(p => `${((p[0] - x0) * sc + ox).toFixed(1)},${((p[1] - y0) * sc + oy).toFixed(1)}`).join("L") + (t.Ld.z ? "Z" : "");
+  const host = new URL(t.Ld.s).hostname.replace(/^www\./, "");
+  return `<div class="layout"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Track layout diagram">
+    <path class="trk" d="${d}"></path><path class="trk-in" d="${d}"></path></svg>
+    <span class="cap">Schematic traced from the track graphic on ${externalLink(t.Ld.s, host)}. Not to scale; orientation unknown.</span></div>`;
+}
 function layoutSvg(t) {
-  if (!t.g) return "";
+  if (!t.g) return diagramSvg(t);
   const W = 340, H = 200, pad = 16;
   const kx = 111320 * Math.cos(t.la * Math.PI / 180), ky = 110540;
   const lines = t.g.map(l => l.map(p => [(p[1] - t.lo) * kx, -(p[0] - t.la) * ky]));
@@ -698,7 +786,7 @@ function layoutTable(t) {
 function feeLine(t) {
   if (!t.F && !t.mem) return "";
   const eur = v => "€" + (v >= 100 ? Math.round(v) : v.toFixed(2));
-  const items = (t.F || []).map(f => `<li><b>${esc(f[0] || "Fee")}</b>: ${f[3] ? eur(f[3]) : "free"}${f[2] !== "EUR" ? ` (${esc(f[1] + " " + f[2])})` : ""}${f[4] ? " " + esc(f[4]) : ""}${f[5] ? ' <span class="lay-tag">mandatory</span>' : ' <span class="lay-tag">optional</span>'}${f[6] ? ` <span class="note">${esc(f[6])}</span>` : ""}</li>`);
+  const items = (t.F || []).map(f => `<li><b>${esc(f[0] || "Fee")}</b>: ${f[1] == null ? "price not stated" : f[3] ? eur(f[3]) : "free"}${f[1] != null && f[2] !== "EUR" ? ` (${esc(f[1] + " " + f[2])})` : ""}${f[4] ? " " + esc(f[4]) : ""}${f[5] ? ' <span class="lay-tag">mandatory</span>' : ' <span class="lay-tag">optional</span>'}${f[6] ? ` <span class="note">${esc(f[6])}</span>` : ""}</li>`);
   if (t.mem && !(t.F || []).some(f => /member|medlem|club|klub/i.test(f[0] || ""))) items.unshift(`<li><b>Club membership</b>: ${esc(t.mem)} <span class="lay-tag">for member prices</span></li>`);
   return `<div class="fees"><span class="fees-h">Extra fees on top of the driving price</span><ul>${items.join("")}</ul></div>`;
 }
@@ -722,11 +810,18 @@ function fleetTable(t) {
     ${t.K.map(m => `<tr><td>${esc(m[0] || "–")}</td><td>${esc(m[1] || "–")}</td><td class="num">${esc(m[2] || "–")}</td><td>${esc(m[3] || "–")}</td></tr>`).join("")}
     </tbody></table></div>`;
 }
+function ageText(t) {
+  const a = t.ag; if (!a) return null;
+  const part = (age, h) => [age != null ? `${age}+ years` : null, h != null ? `${h} cm` : null].filter(Boolean).join(", ");
+  return [a.kids_min_age != null || a.kids_min_height_cm != null ? `Kids from ${part(a.kids_min_age, a.kids_min_height_cm)}` : null,
+          a.adult_min_age != null || a.adult_min_height_cm != null ? `Adult karts from ${part(a.adult_min_age, a.adult_min_height_cm)}` : null,
+          a.twin_passenger_min_age != null ? `Twin-kart passenger from ${a.twin_passenger_min_age}+ years` : null].filter(Boolean).join(" · ") || null;
+}
 function renderDetail(t) {
   const el = document.getElementById("detail");
   const facts = [
     ["Town", t.c], ["Region", t.st], ["Country", COUNTRIES[t.cc].name], ["Address", t.a],
-    ["Phone", t.p], ["Email", t.e], ["Hours", t.h],
+    ["Ages", ageText(t)], ["Phone", t.p], ["Email", t.e], ["Hours", t.h],
   ].filter(f => f && f[1]);
   const web = t.w;
   const [typ, oid] = t.o.split("/");
@@ -750,7 +845,8 @@ function renderDetail(t) {
       <a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>
       ${(t.src || []).map((u, i) => externalLink(u, `Source ${i + 1}`)).join("")}
     </div>`;
-  const track = (t.g || t.T || t.lm) ? `${layoutTable(t)}${layoutSvg(t)}${!t.T && t.lm ? `<p class="note">≈ ${t.lm.toLocaleString("en")} m measured from the map. May include several layouts or pit lanes. The venue does not publish a length.</p>` : ""}` : "";
+  const mapLink = t.Lu ? `<p class="note">${externalLink(t.Lu, "Track map on " + new URL(t.Lu).hostname.replace(/^www\./, "") + " ↗")}</p>` : "";
+  const track = (t.g || t.Ld || t.T || t.lm || t.Lu) ? `${layoutTable(t)}${mapLink}${layoutSvg(t)}${!t.T && t.lm ? `<p class="note">≈ ${t.lm.toLocaleString("en")} m measured from the map. May include several layouts or pit lanes. The venue does not publish a length.</p>` : ""}` : "";
   const prices = priceTable(t);
   const tabs = [["overview", "Overview", ov], ["track", "Track", track], ["karts", "Karts", karts], ["prices", "Prices", prices]].filter(x => x[2]);
   if (!tabs.some(x => x[0] === state.tab)) state.tab = "overview";
@@ -787,6 +883,8 @@ function renderList() {
     || `<div class="item"><span></span><span class="loc">No tracks match these filters. Use Reset filters to start over.</span></div>`;
   const c = { outdoor: 0, indoor: 0 };
   v.forEach(t => { if (t.k in c) c[t.k]++; });
+  document.getElementById("result-count").textContent = `${v.length} ${v.length === 1 ? "venue" : "venues"}`;
+  document.getElementById("apply-filters").textContent = `Show ${v.length} ${v.length === 1 ? "venue" : "venues"}`;
   document.getElementById("stats").innerHTML =
     `<span><b>${v.length}</b>shown</span><span><b>${c.outdoor}</b>outdoor</span><span><b>${c.indoor}</b>indoor</span>`;
 }
@@ -799,7 +897,13 @@ Object.entries(COUNTRIES).forEach(([cc, cv]) => {
   b.className = "chip"; b.id = "cchip-" + cc;
   b.setAttribute("aria-pressed", true);
   b.innerHTML = `<i style="background:var(--fg)"></i>${cv.name} <span class="n">${TRACKS.filter(t => t.cc === cc && t.k !== "kids").length}</span>`;
-  b.onclick = () => { state.cc[cc] = !state.cc[cc]; b.setAttribute("aria-pressed", state.cc[cc]); refresh(); };
+  b.onclick = () => {
+    const all = Object.keys(state.cc);
+    if (all.every(c => state.cc[c])) all.forEach(c => state.cc[c] = c === cc);  // from "all", a click means "only this one"
+    else state.cc[cc] = !state.cc[cc];
+    if (!all.some(c => state.cc[c])) all.forEach(c => state.cc[c] = true);     // never leave zero countries selected
+    refresh();
+  };
   cchips.appendChild(b);
 });
 const chips = document.getElementById("chips");
@@ -824,7 +928,7 @@ Object.entries(KINDS).forEach(([key, kd]) => {
   b.title = "Use club/member prices (membership required) in €/min and €/lap";
   b.innerHTML = `<i style="background:transparent;outline:1.5px solid var(--fg)"></i>Include member prices <span class="n">${TRACKS.filter(t => t.ppmM || t.pplM).length}</span>`;
   b.onclick = () => { state.member = !state.member; b.setAttribute("aria-pressed", state.member); refresh(); };
-  setTimeout(() => chips.appendChild(b));
+  document.getElementById("chips-more").appendChild(b);
 }
 const ppmOf = t => state.member && t.ppmM ? t.ppmM : t.ppm;
 const pplOf = t => state.member && t.pplM ? t.pplM : t.ppl;
@@ -833,7 +937,7 @@ if (TRACKS.some(t => t.cl)) {
   b.className = "chip"; b.id = "chip-closed"; b.setAttribute("aria-pressed", false);
   b.innerHTML = `<i style="background:var(--muted)"></i>Show closed <span class="n">${TRACKS.filter(t => t.cl).length}</span>`;
   b.onclick = () => { state.closed = !state.closed; b.setAttribute("aria-pressed", state.closed); refresh(); };
-  setTimeout(() => chips.appendChild(b));
+  document.getElementById("chips-more").appendChild(b);
 }
 function fillSelect(id, idx, label) {
   const cnt = {};
@@ -851,7 +955,7 @@ function refresh(replaceUrl = false) {
   drawDots(); renderList();
   syncControls();
   saveUrl(replaceUrl);
-  document.getElementById("reset").disabled = snap() === DEFAULTS;
+  document.getElementById("reset").hidden = snap() === DEFAULTS;
   [["f-drive", state.drive], ["f-chassis", state.chassis], ["f-engine", state.engine]].forEach(([id, v]) => document.getElementById(id).classList.toggle("active", !!v));
   document.getElementById("q").classList.toggle("active", !!state.q);
 }
@@ -868,13 +972,12 @@ document.getElementById("reset").onclick = () => {
   refresh();
 };
 document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; refresh(true); });
-document.querySelectorAll(".sortbtn").forEach(b => b.onclick = () => {
-  state.sort = b.dataset.sort;
+document.getElementById("sort").onchange = e => {
+  state.sort = e.target.value;
   if (state.sel != null) closeDetail(false);
-  document.querySelectorAll(".sortbtn").forEach(x => x.setAttribute("aria-pressed", x === b));
   renderList();
   saveUrl();
-});
+};
 
 let restoring = false;
 function resetMap() {
@@ -886,20 +989,19 @@ function resetMap() {
 }
 function syncControls() {
   document.getElementById("q").value = state.q;
-  document.getElementById("place").value = state.origin?.label || "";
   document.getElementById("radius").value = state.radius;
   document.querySelectorAll("[data-intent]").forEach(b => b.setAttribute("aria-pressed", b.dataset.intent === state.intent));
-  document.querySelectorAll(".sortbtn").forEach(b => {
-    b.setAttribute("aria-pressed", b.dataset.sort === state.sort);
-    if (b.dataset.sort === "distance") b.disabled = !state.origin;
-  });
+  const sortEl = document.getElementById("sort");
+  sortEl.querySelector('option[value="distance"]').disabled = !state.origin;
+  sortEl.value = state.sort;
   document.querySelectorAll("#cchips .chip").forEach(b => b.setAttribute("aria-pressed", state.cc[b.id.slice(6)]));
   Object.keys(KINDS).forEach(key => document.getElementById("chip-" + key).setAttribute("aria-pressed", state.on[key]));
   [["chip-layout", "layOnly"], ["chip-closed", "closed"], ["chip-member", "member"]].forEach(([id, key]) => document.getElementById(id)?.setAttribute("aria-pressed", state[key]));
   [["f-drive", "drive"], ["f-chassis", "chassis"], ["f-engine", "engine"]].forEach(([id, key]) => document.getElementById(id).value = state[key]);
   document.querySelector(".app").dataset.view = state.view;
   document.querySelectorAll("button[data-view]").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === state.view));
-  document.getElementById("location-status").textContent = state.origin ? `${state.origin.label || "Your device location (private)"} · within ${state.radius} km straight-line${state.origin.label ? " · approximate town centre" : ""}` : state.bounds ? "Results limited to the selected map area." : "Town centres are estimated from mapped venues. Device location is never put in share links.";
+  document.getElementById("location-status").textContent = state.origin ? (state.origin.label ? "Straight-line distances from the approximate town centre." : "Your device location (private) · straight-line distances · never put in share links") : "";
+  renderPills();
 }
 function saveUrl(replace = false) {
   if (restoring) return;
@@ -969,7 +1071,7 @@ function restoreUrl() {
     updatePlanning();
     if (p.has("compare") && compareIds.length && !venue) openPlanner("compare");
     else if (sharedIds.length && !venue) openPlanner("shared");
-    document.getElementById("reset").disabled = snap() === DEFAULTS;
+    document.getElementById("reset").hidden = snap() === DEFAULTS;
   } finally { restoring = false; }
 }
 window.addEventListener("popstate", restoreUrl);
@@ -990,13 +1092,6 @@ function setOrigin(origin) {
   state.origin = origin; state.bounds = null; state.sort = "distance";
   refresh(); flyTo(origin);
 }
-document.getElementById("location-form").onsubmit = e => {
-  e.preventDefault();
-  const input = document.getElementById("place").value.trim();
-  const town = towns.get(input);
-  if (!town) { document.getElementById("location-status").textContent = "Choose a town from the suggestions. Only towns already in the atlas are searchable."; return; }
-  setOrigin({ lo: town.lo, la: town.la, label: town.label });
-};
 document.getElementById("locate").onclick = () => {
   if (!navigator.geolocation) { document.getElementById("location-status").textContent = "Location is not supported by this browser. Choose an atlas town instead."; return; }
   document.getElementById("location-status").textContent = "Requesting location permission…";
@@ -1005,11 +1100,6 @@ document.getElementById("locate").onclick = () => {
   }, { timeout: 10000, maximumAge: 60000 });
 };
 document.getElementById("radius").onchange = e => { state.radius = Number(e.target.value); refresh(); };
-document.getElementById("clear-location").onclick = () => {
-  state.origin = null; state.bounds = null;
-  resetMap();
-  if (state.sort === "distance") state.sort = "n"; refresh();
-};
 document.getElementById("area").onclick = () => {
   const el = document.getElementById("mapwrap"), transform = d3.zoomTransform(svg.node());
   const a = proj.invert(transform.invert([0, el.clientHeight])), b = proj.invert(transform.invert([el.clientWidth, 0]));
@@ -1036,6 +1126,105 @@ async function copyLink(venueOnly = false) {
 }
 document.getElementById("share-search").onclick = () => copyLink();
 document.getElementById("detail").addEventListener("click", e => { if (e.target.closest("[data-share-venue]")) copyLink(true); });
+function kindLabel() {
+  const def = { outdoor: true, indoor: true, kids: state.intent === "family" };
+  if (Object.keys(def).every(k => state.on[k] === def[k])) return null;
+  const on = Object.keys(KINDS).filter(k => state.on[k]);
+  if (!on.length) return "No track types";
+  return on.map(k => KINDS[k].label).join(" + ");
+}
+function activeFilters() {
+  const f = [];
+  const all = Object.keys(state.cc), onCc = all.filter(c => state.cc[c]);
+  if (state.q) f.push({ label: `“${state.q}”`, clear: () => { state.q = ""; }, search: true });
+  if (state.origin) f.push({ label: state.origin.label ? `Near ${state.origin.label.replace(/ Kommune(?=,)| kommun(?=,)/, "")}` : "Near your location", clear: () => { state.origin = null; if (state.sort === "distance") state.sort = "n"; resetMap(); }, search: true });
+  if (state.bounds) f.push({ label: "Selected map area", clear: () => { state.bounds = null; }, search: true });
+  if (onCc.length < all.length) f.push({ label: onCc.length ? onCc.map(c => COUNTRIES[c].name).join(", ") : "No countries", clear: () => all.forEach(c => state.cc[c] = true) });
+  const kl = kindLabel(); if (kl) f.push({ label: kl, clear: () => { state.on = { outdoor: true, indoor: true, kids: state.intent === "family" }; } });
+  if (state.layOnly) f.push({ label: "Only with layout", clear: () => { state.layOnly = false; } });
+  if (state.drive) f.push({ label: document.querySelector(`#f-drive option[value="${state.drive}"]`).textContent, clear: () => { state.drive = ""; } });
+  if (state.chassis) f.push({ label: state.chassis, clear: () => { state.chassis = ""; } });
+  if (state.engine) f.push({ label: state.engine, clear: () => { state.engine = ""; } });
+  if (state.member) f.push({ label: "Include member prices", clear: () => { state.member = false; } });
+  if (state.closed) f.push({ label: "Show closed", clear: () => { state.closed = false; } });
+  return f;
+}
+function renderPills() {
+  const f = activeFilters();
+  const box = document.getElementById("pills");
+  box.innerHTML = f.map((x, i) => `<button class="pill" type="button" data-pill="${i}" aria-label="Remove filter: ${esc(x.label)}"><span>${esc(x.label)}</span><span class="x" aria-hidden="true">×</span></button>`).join("");
+  box._filters = f;
+  document.getElementById("near-radius").hidden = !state.origin;
+  const n = f.filter(x => !x.search).length;
+  document.getElementById("filter-count").textContent = n ? String(n) : "";
+}
+document.getElementById("pills").addEventListener("click", e => {
+  const b = e.target.closest("[data-pill]"); if (!b) return;
+  const f = document.getElementById("pills")._filters[+b.dataset.pill];
+  if (f) { f.clear(); refresh(); }
+});
+document.getElementById("cc-all").onclick = () => { Object.keys(state.cc).forEach(c => state.cc[c] = true); refresh(); };
+document.getElementById("cc-none").onclick = () => { Object.keys(state.cc).forEach(c => state.cc[c] = false); refresh(); };
+document.getElementById("apply-filters").onclick = () => {
+  document.getElementById("filters").open = false;
+  document.getElementById("list").scrollTop = 0;
+  document.querySelector(".resultbar #sort").focus({ preventScroll: true });
+};
+// unified search: venues, atlas towns and countries in one box
+const qEl = document.getElementById("q"), sugEl = document.getElementById("suggest");
+let sugItems = [], sugIndex = -1;
+const fold = v => (v || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+function buildSuggestions(text) {
+  const q = fold(text.trim());
+  if (q.length < 2) return [];
+  const starts = v => fold(v).startsWith(q) || fold(v).includes(" " + q) || fold(v).includes("-" + q);
+  const cc = Object.entries(COUNTRIES).filter(([c, v]) => starts(v.name) || c.toLowerCase() === q)
+    .map(([c, v]) => ({ type: "country", cc: c, label: v.name, sub: `${TRACKS.filter(t => t.cc === c && t.k !== "kids").length} venues` }));
+  const tw = [...towns.values()].filter(t => starts(t.label.split(",")[0]))
+    .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label)).slice(0, 5)
+    .map(t => ({ type: "town", town: t, label: t.label, sub: "venues nearby" }));
+  const vn = TRACKS.filter(t => (state.closed || !t.cl) && (state.on.kids || t.k !== "kids") && fold(title(t)).includes(q))
+    .sort((a, b) => (fold(title(a)).startsWith(q) ? 0 : 1) - (fold(title(b)).startsWith(q) ? 0 : 1) || title(a).localeCompare(title(b)))
+    .slice(0, 6).map(t => ({ type: "venue", id: t.id, label: title(t), sub: [t.c, t.cc].filter(Boolean).join(", ") }));
+  return [...cc.slice(0, 2), ...tw, ...vn];
+}
+function renderSuggestions() {
+  sugItems = buildSuggestions(qEl.value);
+  if (!sugItems.length || document.activeElement !== qEl) { sugEl.hidden = true; qEl.setAttribute("aria-expanded", "false"); qEl.removeAttribute("aria-activedescendant"); return; }
+  const groups = { country: "Countries", town: "Near a town", venue: "Venues" };
+  let last = "", html = "";
+  sugItems.forEach((it, i) => {
+    if (it.type !== last) { html += `<div class="grp" role="presentation">${groups[it.type]}</div>`; last = it.type; }
+    html += `<div role="option" id="sug-${i}" data-sug="${i}" aria-selected="${i === sugIndex}"><span data-source-text>${esc(it.label)}</span><span class="sub">${esc(it.sub)}</span></div>`;
+  });
+  html += `<div class="hint" role="presentation">Enter keeps “${esc(qEl.value.trim())}” as a text filter</div>`;
+  sugEl.innerHTML = html; sugEl.hidden = false; qEl.setAttribute("aria-expanded", "true");
+  if (sugIndex >= 0) qEl.setAttribute("aria-activedescendant", "sug-" + sugIndex); else qEl.removeAttribute("aria-activedescendant");
+}
+function chooseSuggestion(it) {
+  sugEl.hidden = true; qEl.setAttribute("aria-expanded", "false"); sugIndex = -1;
+  state.q = ""; qEl.value = "";
+  if (it.type === "country") { Object.keys(state.cc).forEach(c => state.cc[c] = c === it.cc); state.origin = null; state.bounds = null; if (state.sort === "distance") state.sort = "n"; refresh(); }
+  else if (it.type === "town") setOrigin({ lo: it.town.lo, la: it.town.la, label: it.town.label });
+  else { refresh(); select(it.id); }
+}
+qEl.addEventListener("input", () => { sugIndex = -1; renderSuggestions(); });
+qEl.addEventListener("focus", renderSuggestions);
+qEl.addEventListener("blur", () => setTimeout(() => { sugEl.hidden = true; qEl.setAttribute("aria-expanded", "false"); }, 120));
+qEl.addEventListener("keydown", e => {
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    if (!sugItems.length) return;
+    e.preventDefault();
+    sugIndex = (sugIndex + (e.key === "ArrowDown" ? 1 : -1) + sugItems.length + 1) % (sugItems.length + 1) - (0);
+    if (sugIndex === sugItems.length) sugIndex = -1;
+    renderSuggestions();
+  } else if (e.key === "Enter") {
+    if (sugIndex >= 0 && sugItems[sugIndex]) { e.preventDefault(); chooseSuggestion(sugItems[sugIndex]); }
+    else { sugEl.hidden = true; qEl.setAttribute("aria-expanded", "false"); }
+  } else if (e.key === "Escape" && !sugEl.hidden) { e.stopPropagation(); sugEl.hidden = true; qEl.setAttribute("aria-expanded", "false"); }
+});
+sugEl.addEventListener("mousedown", e => e.preventDefault());
+sugEl.addEventListener("click", e => { const o = e.target.closest("[data-sug]"); if (o) chooseSuggestion(sugItems[+o.dataset.sug]); });
 restoreUrl();
 new ResizeObserver(() => layout()).observe(document.getElementById("mapwrap"));
 </script>

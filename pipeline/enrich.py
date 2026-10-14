@@ -26,8 +26,11 @@ def hp(v):
     v = str(v).strip()
     return v or None
 OVR = json.load(open(base + '/overrides.json', encoding='utf-8'))
+# KART_SKIP=W08,W09 leaves unreviewed or in-progress research batches out of a release build
+SKIP = {b.strip() + '.json' for b in os.environ.get('KART_SKIP', '').split(',') if b.strip()}
 res = {}
-for f in sorted(glob.glob(base + '/research/out/*.json'), key=lambda f: (os.path.basename(f).startswith('R'), f)):
+for f in sorted(glob.glob(base + '/research/out/*.json'), key=lambda f: ('_user' in os.path.basename(f), os.path.basename(f)[0] in 'REW', f)):  # user-confirmed facts win
+    if os.path.basename(f) in SKIP: continue
     if os.path.basename(f)[0] in 'LP': continue  # length / price files, handled below
     try:
         rows = json.load(open(f, encoding='utf-8'))
@@ -54,6 +57,14 @@ for t in tracks:
     if r.get('website'): t['w'] = r['website']
     elif re.search(r'for sale|for-sale|placeholder|casino|no longer resolves|does not resolve|parked|unrelated|hijack|suspicious|domain-sale|sale page|domain sale|does not resolve|no longer exists', r.get('note') or '', re.I): t['w'] = None
     if r.get('phone'): t['p'] = r['phone']
+    if r.get('hours'): t['h'] = r['hours']
+    if r.get('address'): t['a'] = r['address']
+    if isinstance(r.get('layout_page'), str) and r['layout_page'].startswith('https://'): t['Lu'] = r['layout_page']
+    ld = r.get('layout_diagram')
+    if isinstance(ld, dict) and isinstance(ld.get('points'), list) and len(ld['points']) >= 3 and str(ld.get('source', '')).startswith('https://'):
+        t['Ld'] = {'p': [[round(float(a), 1), round(float(b), 1)] for a, b in ld['points']], 'z': bool(ld.get('closed')), 's': ld['source']}
+    ag = {k: r['ages'][k] for k in ('kids_min_age', 'kids_min_height_cm', 'adult_min_age', 'adult_min_height_cm', 'twin_passenger_min_age') if isinstance(r.get('ages'), dict) and isinstance(r['ages'].get(k), (int, float))}
+    if ag: t['ag'] = ag
     t['e'] = r.get('email')
     t['r'] = r.get('rental') if r.get('rental') in ('yes', 'no') else None
     t['ow'] = r.get('own_karts') if r.get('own_karts') in ('yes', 'no') else None
@@ -74,7 +85,8 @@ for t in tracks:
     t['ws'] = ws or None
 # official layouts and lengths from venue websites (research/out/L*.json)
 lens = {}
-for f in sorted(glob.glob(base + '/research/out/L*.json')) + sorted(glob.glob(base + '/research/out/P*.json')):
+for f in sorted(glob.glob(base + '/research/out/L*.json')) + sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')):
+    if os.path.basename(f) in SKIP: continue
     try:
         for r in json.load(open(f, encoding='utf-8')):
             if r.get('tracks') or r['id'] not in lens: lens[r['id']] = r
@@ -107,10 +119,11 @@ except Exception as e:
     print('ECB fetch failed, using cached rates:', e)
     rates = json.load(open(RATES_FILE)) if os.path.exists(RATES_FILE) else {'date': None, 'EUR': 1.0}
 prices, attempts = {}, {}
-for f in sorted(glob.glob(base + '/research/out/P*.json')):
+for f in sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')):
+    if os.path.basename(f) in SKIP: continue
     try:
         for r in json.load(open(f, encoding='utf-8')):
-            if r.get('checked_at'): attempts[r['id']] = r['checked_at']
+            if r.get('checked_at') and (r.get('prices') or os.path.basename(f)[0] == 'P'): attempts[r['id']] = r['checked_at']
             if r.get('prices') or r['id'] not in prices: prices[r['id']] = r
     except ValueError:
         print('skipped (being written):', f)
@@ -170,8 +183,9 @@ for t in tracks:
     F = []
     for fz in r.get('fees') or []:
         amt, cur = num(fz.get('amount')), (fz.get('currency') or 'EUR').upper()
-        if amt is None or cur not in rates: continue
-        F.append([fz.get('name'), amt, cur, round(amt / rates[cur], 2), fz.get('period'), bool(fz.get('mandatory')), fz.get('note')])
+        if cur not in rates: continue
+        if amt is None and not fz.get('mandatory'): continue  # unpriced optional extras add nothing
+        F.append([fz.get('name'), amt, cur, round(amt / rates[cur], 2) if amt is not None else None, fz.get('period'), bool(fz.get('mandatory')), fz.get('note')])
     ov = OVR.get(t['o'], {})
     for fz in ov.get('fees') or []:
         amt, cur = num(fz.get('amount')), (fz.get('currency') or 'EUR').upper()
@@ -187,6 +201,12 @@ for f in sorted(glob.glob(base + '/research/out/family/*.json')):
 for t in tracks:
     if t['o'] in family:
         t['FG'] = family[t['o']]
+    else:
+        r = res.get(t['o']) or {}
+        fam = [x for x in (r.get('family') or []) if isinstance(x, str) and x.strip()]
+        grp = [x for x in (r.get('group') or []) if isinstance(x, str) and x.strip()]
+        if fam or grp:
+            t['FG'] = {'id': t['o'], 'checked_at': r.get('checked_at'), 'source': r.get('ages_source') or (r.get('sources') or [None])[0], 'family': fam, 'group': grp}
 json.dump({'date': RATES_DATE, 'used': sorted({x[5] for t in tracks for x in (t.get('P') or [])})}, open(base + '/rates_meta.json', 'w'))
 for t in tracks:
     d = OVR.get(t['o'], {}).get('dropurl')
@@ -195,6 +215,14 @@ for t in tracks:
         if t.get('ws'): t['ws'] = [w for w in t['ws'] if d not in w[0]] or None
     if OVR.get(t['o'], {}).get('noweb'):
         t['w'] = None; t['ws'] = None
+    if OVR.get(t['o'], {}).get('closed'): t['cl'] = True
+    on = OVR.get(t['o'], {}).get('name')
+    if on:  # a manual name correction always wins over research
+        t['n'] = on; t['gs'] = None; t['near'] = None
+    ow = OVR.get(t['o'], {}).get('web')
+    if ow:  # a manual website correction always wins over research
+        t['w'] = ow
+        t['ws'] = [[ow, 'venue', None]] + [w for w in (t.get('ws') or []) if w[1] == 'club' and w[0].rstrip('/') != ow.rstrip('/')]
 json.dump(tracks, open(base + '/tracks.json', 'w', encoding='utf-8'), ensure_ascii=False, separators=(',', ':'))
 print('enriched', used, 'of', len(tracks), '| rental yes', sum(1 for t in tracks if t.get('r') == 'yes'),
       '| with fleet', sum(1 for t in tracks if t.get('K')), '| closed', sum(1 for t in tracks if t.get('cl')))

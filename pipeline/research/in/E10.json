@@ -1,0 +1,64 @@
+[
+ {
+  "id": "relation/4298937",
+  "name": "Karting de Vuiteboeuf (Good Kart Indoor Sàrl)",
+  "town": "Vuiteboeuf",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartingvuiteboeuf.ch/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/163933505",
+  "name": "Kart-Bahn Wohlen",
+  "town": "Waltenschwil",
+  "country": "Switzerland",
+  "websites": [
+   "https://www.kartbahnwohlen.ch/"
+  ],
+  "known_fleet": [
+   [
+    "Kinder-Kart",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Spezial-Kart",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Turbo-Kart",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "town": "Winterthur",
+  "country": "Switzerland",
+  "websites": [
+   "https://winterthur.kart.ch"
+  ],
+  "known_fleet": [
+   [
+    "Tomkart Swiss E-Kart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ }
+]

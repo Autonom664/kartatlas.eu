@@ -1,0 +1,1167 @@
+[
+ {
+  "id": "way/303166461",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Prices only in booking system on 'Online Buchen & Preise' page (not readable); FAQ: kids from 8 y/135 cm, adults from 12 y/155 cm."
+ },
+ {
+  "id": "way/78364408",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Price page /informationen/preise/ renders no readable prices (likely JS-loaded or empty); no price PDF in downloads."
+ },
+ {
+  "id": "way/89820377",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate mismatch (one.com hosting cert), site could not be fetched."
+ },
+ {
+  "id": "way/27615820",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Price pages (Preise/Traningsfahrten, Preise/Rennen) exist but their content does not render in fetched text (likely image or script-loaded)."
+ },
+ {
+  "id": "way/1147384934",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Training day (Trainingstag) track fee",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "Track use for own karts on training days; no rental karts mentioned."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://mtc-fassberg.de/?page_id=2348",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Club track; no rental kart prices published, only a 40 EUR training-day fee."
+ },
+ {
+  "id": "way/236541889",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR), site could not be fetched."
+ },
+ {
+  "id": "node/1581708612",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR), site could not be fetched."
+ },
+ {
+  "id": "way/92468697",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Balaclava",
+    "amount": null,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": true,
+    "note": "Must be purchased (or own hood); price not stated. Helmets, rain suits and gloves free."
+   }
+  ],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "No published prices; price list only sent by email after newsletter sign-up. Sessions 10 min driving; kids from 6 y."
+ },
+ {
+  "id": "way/51050374",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Private kart training (track use, own kart)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "35 EUR for club members; for kart owners only."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://msc-harsewinkel.de/kart-motorradsport/",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Club track for private karts and kart slalom; no rental karts or rental prices."
+ },
+ {
+  "id": "way/1272597539",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Manufacturer website (RiMO); no public rental or prices for the Hemer test track."
+ },
+ {
+  "id": "way/93099535",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate mismatch, site could not be fetched."
+ },
+ {
+  "id": "way/30120851",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate mismatch (portformance.com cert), site could not be fetched."
+ },
+ {
+  "id": "node/883027662",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Two indoor halls (combined)",
+    "length_m": 1000,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Kart prices only in booking widget (not readable); adults from 14 y. Optional add-ons: medal 6 EUR, podium medal set 15 EUR, cup set 55 EUR. Length stated as approx. 1000 m over two halls."
+ },
+ {
+  "id": "way/1041609383",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 404 (Wix site removed)."
+ },
+ {
+  "id": "way/97901794",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Prices only in booking system behind 'Online Buchen & Preise' (not readable); FAQ: kids from 8 y/135 cm, adults from 12 y/155 cm."
+ },
+ {
+  "id": "way/458296932",
+  "prices": [
+   {
+    "label": "Junior-Race 1 (Rasselbande 6.5 PS)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 35,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": 8,
+    "max_age": 12,
+    "min_height_cm": null,
+    "day": null,
+    "note": "12 min briefing + 12 min race; incl. cake, one drink, balaclava, certificate."
+   },
+   {
+    "label": "Junior-Race 2 (Energy Kart 9 PS)",
+    "class": "junior",
+    "type": "package",
+    "minutes": 12,
+    "laps": null,
+    "price": 43,
+    "currency": "EUR",
+    "extras": true,
+    "member": false,
+    "min_age": 12,
+    "max_age": 16,
+    "min_height_cm": null,
+    "day": null,
+    "note": "12 min briefing + 12 min race; incl. cake, one drink, balaclava, certificate; not exclusive use."
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": "Bring own or buy on site; helmets free."
+   },
+   {
+    "name": "Rain overall",
+    "amount": 15,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "Optional purchase."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://go102.de/unsere-junior-races/",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Adult session prices only in Apex Timing booking widget (not readable); solo driving from 8 y and 130 cm."
+ },
+ {
+  "id": "way/1444721703",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden."
+ },
+ {
+  "id": "way/128574048",
+  "prices": [
+   {
+    "label": "Trainingsfahrt",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 11.5,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Trainingspaket (pay 10, drive 11)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 115,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "11 sessions, transferable."
+   },
+   {
+    "label": "Triple-Ticket",
+    "class": "adult",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 31,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions, not transferable, valid on purchase day only."
+   },
+   {
+    "label": "Doppelsitzer Rot (1 adult + 1 child)",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 15,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Price per twin kart; subject to operations."
+   },
+   {
+    "label": "Doppelsitzer Blau (2 adults)",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 17,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Price per twin kart; subject to operations."
+   },
+   {
+    "label": "1/2-Stunden-Rennen (qualifying + race)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 35,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "weekday",
+    "note": "Mon-Thu: 175 EUR up to 5 persons, each extra driver +35 EUR."
+   },
+   {
+    "label": "1/2-Stunden-Rennen (qualifying + race)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 40,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "weekend",
+    "note": "Fri-Sun and holidays: 200 EUR up to 5 persons, each extra driver +40 EUR."
+   },
+   {
+    "label": "SchÃ¼ler-Trainingsfahrt",
+    "class": "junior",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 10,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "off-peak",
+    "note": "Valid student ID; Mon-Thu until 18:00, Sun/holidays until 13:00."
+   },
+   {
+    "label": "SchÃ¼ler-Trainingspaket (pay 10, drive 11)",
+    "class": "junior",
+    "type": "package",
+    "minutes": 8,
+    "laps": null,
+    "price": 100,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "off-peak",
+    "note": "Valid student ID; same times as student session."
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.kartbahn-rheinfelden.de/preise/",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Exclusive hire (1 h, 7-10 karts): Mon-Thu 420 EUR for 7 karts +55 EUR per extra kart; Fri-Sun 490 EUR +65 EUR. Kids from approx. 130 cm. Track length not stated."
+ },
+ {
+  "id": "way/34410664",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate mismatch (kasserver.com cert), site could not be fetched."
+ },
+ {
+  "id": "way/74481523",
+  "prices": [
+   {
+    "label": "Kinder Einzelticket",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kinder 3er Ticket",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 42,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "3 sessions, not transferable"
+   },
+   {
+    "label": "Kinder 10er Ticket",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 140,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "10 sessions, transferable"
+   },
+   {
+    "label": "Erwachsene Einzelticket",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 19,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Erwachsene 3er Ticket",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 51,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 sessions, not transferable"
+   },
+   {
+    "label": "Erwachsene 10er Ticket",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 170,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 sessions, transferable"
+   },
+   {
+    "label": "Kombi Kinder Einzelkombiticket (1 kart + 1 laser tag)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kombi Kinder Doppelkombiticket (2 kart + 1 laser tag)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 36,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": 13,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kombi Erwachsene Einzelkombiticket (1 kart + 1 laser tag)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 26,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Kombi Erwachsene Doppelkombiticket (2 kart + 1 laser tag)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 42,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Doppelsitzer Einzelticket",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Sodi 2Drive; passenger min 120 cm"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (Kopfhaube)",
+    "amount": 4,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "Required when using centre helmets; or bring own."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://saxfreizeitcenter.de/kartbahn/",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Two covered tracks with 4 layouts; length not stated."
+ },
+ {
+  "id": "way/138621802",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Site is fully script-rendered (only page title readable); no prices found."
+ },
+ {
+  "id": "way/1039053796",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden."
+ },
+ {
+  "id": "way/727712552",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: domain does not resolve (DNS ENOTFOUND)."
+ },
+ {
+  "id": "way/589950988",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR), site could not be fetched."
+ },
+ {
+  "id": "node/7961993497",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Prices only in booking system behind 'Online Buchen & Preise' (not readable); FAQ: kids from 8 y/135 cm, adults from 12 y/155 cm."
+ },
+ {
+  "id": "way/219979201",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Club website (MC Touring Strasburg); no rental or track-use prices published."
+ },
+ {
+  "id": "way/187105722",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR), site could not be fetched."
+ },
+ {
+  "id": "node/4477661634",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR; fetcher forces HTTPS), site could not be fetched."
+ },
+ {
+  "id": "node/60207296",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate chain error (unable to get local issuer certificate)."
+ },
+ {
+  "id": "way/537479732",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Tageskarte Kart (day ticket, own kart)",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "Track use; cash only."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://msc-walldorf-astoria.de/preise",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Club track for own karts; no rental karts listed. Track length not stated."
+ },
+ {
+  "id": "way/33529699",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden (bot protection)."
+ },
+ {
+  "id": "way/87497403",
+  "prices": [
+   {
+    "label": "6.5 PS kart, approx. 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 14,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "6.5 PS 10er Karte",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 130,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": null,
+    "note": "10 x 10 min; valid on purchase day only"
+   },
+   {
+    "label": "Doppelsitzer, approx. 10 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "11 PS kart, approx. 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 170,
+    "day": null,
+    "note": "Proof of age may be required"
+   },
+   {
+    "label": "11 PS 10er Karte",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 190,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 170,
+    "day": null,
+    "note": "10 x 10 min; valid on purchase day only"
+   },
+   {
+    "label": "Group offer 11 PS (from 8 persons)",
+    "class": "race",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 55,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": 170,
+    "day": null,
+    "note": "10 min qualifying + 20 min race with grid start"
+   },
+   {
+    "label": "Group offer 6.5 PS per child (from 8 persons)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 38,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 5,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": null,
+    "note": "3 x 10 min"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Sturmhaube (balaclava)",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://sk-raceworld.de/wp-content/uploads/2026/07/sk-raceworld-preise-730x1024.jpeg",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Prices read from price-list image on /packages/; all tickets valid only on purchase day. Track dimensions not stated."
+ },
+ {
+  "id": "way/336869541",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate chain error (unable to verify the first certificate)."
+ },
+ {
+  "id": "way/127169866",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR; fetcher forces HTTPS), site could not be fetched."
+ },
+ {
+  "id": "way/392128609",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS error (TLSV1_ALERT_INTERNAL_ERROR; fetcher forces HTTPS), site could not be fetched."
+ },
+ {
+  "id": "way/798432703",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden."
+ },
+ {
+  "id": "way/1546897978",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "No prices published on website (contact for booking); Facebook not fetched."
+ },
+ {
+  "id": "way/1078429098",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Vallelunga sites (main, motorsport, Vallelunghino) list no kart rental prices; Vallelunghino price list covers only minimoto rental/school."
+ },
+ {
+  "id": "node/4170263824",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate has expired."
+ },
+ {
+  "id": "way/245463137",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: website returns HTTP 403 Forbidden."
+ },
+ {
+  "id": "relation/18655290",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Track use, own kart 100/125 cc (day or half day)",
+    "amount": 35,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "Tariffe mezzi privati; same price full or half day."
+   },
+   {
+    "name": "Track use, own kart 50/60 cc (day or half day)",
+    "amount": 30,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": true,
+    "note": "Tariffe mezzi privati; same price full or half day."
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.circuitointernazionalelecolline.it/kartdromo/orari-e-prezzi.html",
+  "tracks": [
+   {
+    "name": "Kartdromo",
+    "length_m": 1150,
+    "width_m": null,
+    "use": "karts, minimoto, minimotard, scooter"
+   }
+  ],
+  "checked_at": "2026-10-10",
+  "note": "Only private-vehicle track-use fees published; no rental karts listed. Width stated as 8-10 m."
+ },
+ {
+  "id": "way/159352783",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Rental page (noleggio) publishes no prices; booking mandatory, contact by phone/email."
+ },
+ {
+  "id": "way/208976251",
+  "prices": [
+   {
+    "label": "Noleggio CRG 270cc, 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 13,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Includes helmet, disposable balaclava, membership card (tesseramento), timing, rib protector."
+   },
+   {
+    "label": "Noleggio CRG 120cc, 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": false,
+    "member": false,
+    "min_age": 7,
+    "max_age": 12,
+    "min_height_cm": 130,
+    "day": "weekday",
+    "note": "Wed-Fri 14:00-18:00 only; includes helmet, disposable balaclava, tesseramento, timing."
+   }
+  ],
+  "fees": [
+   {
+    "name": "Gloves",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": "Optional equipment"
+   },
+   {
+    "name": "Disposable suit",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": "Optional equipment"
+   },
+   {
+    "name": "Fabric balaclava",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": "Optional; disposable balaclava included"
+   },
+   {
+    "name": "Ballast weights",
+    "amount": 3,
+    "currency": "EUR",
+    "period": "per visit",
+    "mandatory": false,
+    "note": "Optional equipment"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://extremakart.it/pista-go-kart/noleggio-go-kart-modena/",
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Prices read from price images NOLEGGIO-ADULTI-7.jpg and NOLEGGIO-BIMBI-4.jpg."
+ },
+ {
+  "id": "way/59826097",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: domain does not resolve (DNS ENOTFOUND)."
+ },
+ {
+  "id": "way/297850148",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Website appears compromised: homepage contains spam (escort advertising); nothing used. No prices found."
+ },
+ {
+  "id": "way/365007906",
+  "prices": [],
+  "fees": [
+   {
+    "name": "Damage liability",
+    "amount": 30,
+    "currency": "EUR",
+    "period": null,
+    "mandatory": false,
+    "note": "Negligent damage above 30 EUR charged at manufacturer list price."
+   }
+  ],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "No rental prices published (contact by phone/email); Sodi RT8 270cc from 8 y/140 cm."
+ },
+ {
+  "id": "way/179588941",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Venue temporarily closed (notice dated March 2025: closed, looking for a new building); only an outdated 2022 price list (image/PDF) online, not used."
+ },
+ {
+  "id": "way/104579055",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "No prices published on website (home and opening-hours pages checked); contact by phone/email."
+ },
+ {
+  "id": "way/47052547",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Only a Facebook page; content not readable without login, no prices found."
+ },
+ {
+  "id": "way/366033331",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "No prices published (home and hours pages checked); karts 270cc from 14 y, 200cc from 12 y, 120cc from 8 y, 35cc from 5 y."
+ },
+ {
+  "id": "way/179934334",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Not checked: TLS certificate mismatch (OVH hosting cert), site could not be fetched."
+ },
+ {
+  "id": "way/347258997",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "checked_at": "2026-10-10",
+  "note": "Website no longer shows the kart track: only an '18+ Access' age-gate splash page (likely expired domain with adult/gambling content); nothing used."
+ }
+]

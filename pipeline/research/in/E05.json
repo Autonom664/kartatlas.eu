@@ -1,0 +1,1431 @@
+[
+ {
+  "id": "way/290715520",
+  "name": "Karting Toulouse Montaudran",
+  "town": "Toulouse",
+  "country": "France",
+  "websites": [
+   "https://kartingtoulouse.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Fr 14:00-02:00; Sa, Su 10:00-02:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1198636134",
+  "name": "Karting du Grand Arc",
+  "town": "Tournon",
+  "country": "France",
+  "websites": [
+   "https://kartingdugrandarc.fr/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "200cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "250cc",
+    null,
+    "race"
+   ],
+   [
+    "Sodi Fun Kid",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Sodi 2Drive",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1700260286",
+  "name": "SpeedPark Vannes",
+  "town": "Vannes",
+  "country": "France",
+  "websites": [
+   "https://www.karting-bowling.fr/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/218430826",
+  "name": "ClotKart",
+  "town": "Vaudoy-en-Brie",
+  "country": "France",
+  "websites": [
+   "https://www.clotkart.com"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "Rotax 2-stroke",
+    null,
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "We-Su 11:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/158604014",
+  "name": "Karting Montalivet",
+  "town": "Vendays-Montalivet",
+  "country": "France",
+  "websites": [
+   "http://www.karting-montalivet.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/51983875",
+  "name": "Technikart",
+  "town": "Vendeuvre",
+  "country": "France",
+  "websites": [
+   "https://www.technikart.fr/",
+   "https://www.facebook.com/technikart.karting"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13410549388",
+  "name": "Karting 55",
+  "town": "Verdun",
+  "country": "France",
+  "websites": [
+   "https://k55.fr/accueil-karting/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/926799067",
+  "name": "MegaKart",
+  "town": "Vias",
+  "country": "France",
+  "websites": [
+   "https://www.megakart.fr"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "160cc 4-stroke",
+    null,
+    "kids"
+   ],
+   [
+    "Sodi RT10",
+    "390cc 4-stroke",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "250cc injection",
+    "30 hp",
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/601839513",
+  "name": "AS Karting Villars",
+  "town": "Villars",
+  "country": "France",
+  "websites": [
+   "http://www.askarting-villars42.fr"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/152130584",
+  "name": "Dunois Kart",
+  "town": "Villemaury",
+  "country": "France",
+  "websites": [
+   "https://www.dunoiskart.com/",
+   "https://www.dunoiskart.com/tarifs-proprietaires-kart-ask-pays-dunois-eure-loire-28"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "120cc 4-stroke",
+    "4.5",
+    "kids"
+   ],
+   [
+    "Kid Racer",
+    "electric",
+    null,
+    "kids"
+   ],
+   [
+    "GT1",
+    "270cc 4-stroke",
+    "9",
+    "junior"
+   ],
+   [
+    "SR4",
+    "390cc 4-stroke",
+    "13",
+    "adult"
+   ],
+   [
+    null,
+    "Rotax 125 2-stroke",
+    "22",
+    "race"
+   ],
+   [
+    null,
+    "390cc 4-stroke",
+    "13",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/652859924",
+  "name": "Formule Kart",
+  "town": "Villeperdue",
+  "country": "France",
+  "websites": [
+   "https://www.formulekart.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "390cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12020240069",
+  "name": "On'Kart Viry",
+  "town": "Viry",
+  "country": "France",
+  "websites": [
+   "https://on-kart.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Tu, Th-Fr 14:00-23:00; We 10:00-23:00; Sa 10:00-00:00; Su 10:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/10871381994",
+  "name": "Kart'Up Vitrolles",
+  "town": "Vitrolles",
+  "country": "France",
+  "websites": [
+   "https://www.kartup-vitrolles.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR6",
+    null,
+    null,
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/11163525017",
+  "name": "Park Events Lyon",
+  "town": "Vénissieux",
+  "country": "France",
+  "websites": [
+   "https://www.park-events.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc bioethanol",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo-Fr 17:45-23:00; Sa,Su 09:45-21:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/395457394",
+  "name": "Kart'Race",
+  "town": "Witry-lès-Reims",
+  "country": "France",
+  "websites": [
+   "https://www.kartrace.org/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    null,
+    "160cc",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/81060002",
+  "name": "Green Kart",
+  "town": "Échirolles",
+  "country": "France",
+  "websites": [
+   "https://green-kart.com/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "270cc",
+    null,
+    "adult"
+   ],
+   [
+    "Sodi",
+    "160cc",
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12388424111",
+  "name": "Base US Karting",
+  "town": "Étrechet",
+  "country": "France",
+  "websites": [
+   "https://baseuskarting.com/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "8",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13651711458",
+  "name": "MOBIKART Fun Racing",
+  "town": null,
+  "country": "Germany",
+  "websites": [
+   "https://www.mobi-kart.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ],
+   [
+    null,
+    "electric",
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": "Mo,Tu off; We,Th 13:00-20:00; Fr 13:00-22:00; Sa 10:00-22:00; Su 10:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/388393542",
+  "name": "Raceland Karting",
+  "town": "Arnsberg",
+  "country": "Germany",
+  "websites": [
+   "http://raceland-karting.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/211012168",
+  "name": "Kartodrom Asbach",
+  "town": "Asbach",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartodrom-asbach.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Sa,Su 11:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "town": "Backnang",
+  "country": "Germany",
+  "websites": [
+   "https://www.indy-cart.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Tu 17:00-23:00, We-Fr 15:00-23:00, Sa 12:00-23:00, Su 10:00-21:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13456963144",
+  "name": "BattleKart Bad-Hersfeld",
+  "town": "Bad Hersfeld",
+  "country": "Germany",
+  "websites": [
+   "https://www.battlekart.com/de/bad-hersfeld"
+  ],
+  "known_fleet": [
+   [
+    "BattleKart",
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/7567389572",
+  "name": "Burgpark Ring Kart-Bahn",
+  "town": "Bad Mergentheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-mgh.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "6.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1649028239",
+  "name": "KART'N Curves Bad Rappenau",
+  "town": "Bad Rappenau",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn.com/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Tu-Fr 16:00-22:00; Sa,Su 10:00-22:00; PH 14:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1443336719",
+  "name": "Spreeflitzer",
+  "town": "Bad Saarow",
+  "country": "Germany",
+  "websites": [
+   "http://www.spreeflitzer.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "SH Mo-Su 10:00-18:00; Tu-Su 10:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/868429925",
+  "name": "DWA Racing",
+  "town": "Bassum",
+  "country": "Germany",
+  "websites": [
+   "https://www.dwa-racing.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/286457460",
+  "name": "Go-Kart und Quad Bahn Bergen",
+  "town": "Bergen auf Rügen",
+  "country": "Germany",
+  "websites": [
+   "https://www.ruegenkartbahn.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1844036287",
+  "name": "TeamSport E-Karting Kart Palast Funpark",
+  "town": "Bergkirchen",
+  "country": "Germany",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo-Th 09:30-21:30; Fr,Sa,PH 09:30-01:00; Su 08:30-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1111632078",
+  "name": "Berlin Kart",
+  "town": "Berlin",
+  "country": "Germany",
+  "websites": [
+   "https://www.berlin-kart.de/"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "4-stroke",
+    "6.5",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/856436751",
+  "name": "Ralf Schumacher Kartcenter",
+  "town": "Bispingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.rs-kartcenter.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    "13",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/13894638060",
+  "name": "BattleKart Bochum",
+  "town": "Bochum",
+  "country": "Germany",
+  "websites": [
+   "https://battlekart.com/bochum"
+  ],
+  "known_fleet": [
+   [
+    null,
+    "electric",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/213124246",
+  "name": "Breitwangbahn (MSC Ipf Bopfingen)",
+  "town": "Bopfingen",
+  "country": "Germany",
+  "websites": [
+   "https://www.msc-ipf.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/27057471",
+  "name": "Indoor Kart Stahlwerk Bous",
+  "town": "Bous",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn-bous.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/119129470",
+  "name": "Kartcity",
+  "town": "Braunschweig",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcity.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1212578881",
+  "name": "BB-Kartcenter Bremen",
+  "town": "Bremen",
+  "country": "Germany",
+  "websites": [
+   "https://www.bb-kart.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo-Th 15:00-23:00; Fr 15:00-24:00; Sa 10:00-24:00; Su 10:00-22:00; SH 10:00-23:00; Dec 24-25,Jan 01 off",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/12513908020",
+  "name": "Kartodrom Elles",
+  "town": "Buchholz (Westerwald)",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartodrom-elles.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/124785648",
+  "name": "Motorsportarena Stefan Bellof (Kartbahn Oppenrod)",
+  "town": "Buseck",
+  "country": "Germany",
+  "websites": [
+   "https://kv-oppenrod.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi GT5R",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "Sodi 2Drive",
+    null,
+    "9",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/510877435",
+  "name": "Motor Sport Weis - Kartbahn Büren",
+  "town": "Büren",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-bueren.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/138713437",
+  "name": "Nordseering",
+  "town": "Büsum",
+  "country": "Germany",
+  "websites": [
+   "https://www.nordseering.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Alpha 2",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    null,
+    "200 cc",
+    "5.5",
+    "junior"
+   ],
+   [
+    null,
+    null,
+    "9",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/6550773226",
+  "name": "Burnout Celler Kartbahn",
+  "town": "Celle",
+  "country": "Germany",
+  "websites": [
+   "https://www.celler-kartbahn.com/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Evo5",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/98118626",
+  "name": "POWERhall Chemnitz",
+  "town": "Chemnitz",
+  "country": "Germany",
+  "websites": [
+   "https://www.powerhall.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    "Honda 200 cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    "Sodi LR5 Kids",
+    "Honda 160 cc",
+    "5",
+    "kids"
+   ],
+   [
+    "Sodi 2 Drive",
+    "Honda 270 cc",
+    "9",
+    "twin"
+   ]
+  ],
+  "known_hours": "Tu-Fr 16:00-22:00; Sa-Su 10:00-22:00; Mo off",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/43869473",
+  "name": "Karthalle Coswig",
+  "town": "Coswig",
+  "country": "Germany",
+  "websites": [
+   "https://www.karthalle-coswig.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Tu-Fr 17:00-22:00, Sa 15:00-23:00, Su 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/241613190",
+  "name": "Kart-Bahn Dahlemer Binz",
+  "town": "Dahlem",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-dahlemer-binz.de"
+  ],
+  "known_fleet": [
+   [
+    "R25",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "SixPointFive",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "R13",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "TwinKart",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Tu-Su 11:00-19:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/303166461",
+  "name": "Kartbahn Dargelin",
+  "town": "Dargelin",
+  "country": "Germany",
+  "websites": [
+   "http://www.kartbahn-mv.de/Dargelin/home.html"
+  ],
+  "known_fleet": [
+   [
+    "RiMO Alpha 2 LPG",
+    "LPG",
+    "11",
+    "adult"
+   ],
+   [
+    "RiMO Mini",
+    null,
+    "5.5",
+    "kids"
+   ],
+   [
+    "RiMO Twin",
+    null,
+    "2 x 6.5",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/349532750",
+  "name": "Kartbahn Liedolsheim",
+  "town": "Dettenheim",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahnliedolsheim.de/"
+  ],
+  "known_fleet": [
+   [
+    "Tony Kart Viper",
+    "Honda GX270",
+    "9.5",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/804847045",
+  "name": "Kartarena",
+  "town": "Dinslaken",
+  "country": "Germany",
+  "websites": [
+   "https://kartarena-dinslaken.de"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT8",
+    "200 cc",
+    "6.5",
+    "adult"
+   ],
+   [
+    "Sodi Junior",
+    null,
+    null,
+    "junior"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/58739117",
+  "name": "Kartbahn Freizeitpark Löschen",
+  "town": "Drebkau",
+  "country": "Germany",
+  "websites": [
+   "https://www.gokart-cottbus.de/",
+   "http://www.freizeitparkloeschen.de"
+  ],
+  "known_fleet": [
+   [
+    "Sodikart Fun Kid",
+    null,
+    "4",
+    "kids"
+   ],
+   [
+    "Sodikart Fun-Kart",
+    null,
+    "6",
+    "junior"
+   ],
+   [
+    "Sodikart",
+    null,
+    "9",
+    "adult"
+   ],
+   [
+    "Sodikart",
+    null,
+    "18",
+    "adult"
+   ],
+   [
+    "Sodi-Race",
+    null,
+    "22",
+    "race"
+   ],
+   [
+    "Sodi 2 Drive",
+    null,
+    "9",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/4340422756",
+  "name": "AMC Ehingen Kartbahn Wolfsgurgel",
+  "town": "Ehingen (Donau)",
+  "country": "Germany",
+  "websites": [
+   "https://www.amc-ehingen.com/",
+   "https://www.amc-ehingen.com/leihkart"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    "4-stroke petrol",
+    "7",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "20",
+    "race"
+   ]
+  ],
+  "known_hours": "We 16:00-19:30; Sa 15:00-19:00; Su 11:00-13:00,15:00-18:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/181920581",
+  "name": "Kart2000",
+  "town": "Eiselfing",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart2000-wasserburg.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "junior"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "We-Fr 16:00-23:00, Sa 13:00-23:00; Su 11:00-23:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/78364408",
+  "name": "Kartbahn Lüneburg",
+  "town": "Embsen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartbahn-lueneburg.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    "Honda GX270",
+    "9",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/89820377",
+  "name": "The Kart Company Emsbüren",
+  "town": "Emsbüren",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartcompanyemsbueren.de/de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/8183988855",
+  "name": "Kart-Center Erfurt",
+  "town": "Erfurt",
+  "country": "Germany",
+  "websites": [
+   "http://www.kart-center-erfurt.de"
+  ],
+  "known_fleet": [
+   [
+    "Hubi-Karts HK7",
+    null,
+    "6.5",
+    "adult"
+   ],
+   [
+    null,
+    null,
+    "5.5",
+    "kids"
+   ],
+   [
+    null,
+    null,
+    "9",
+    "race"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ],
+   [
+    null,
+    null,
+    null,
+    "other"
+   ]
+  ],
+  "known_hours": "Tu 14:00-20:00; We,Th 14:00-22:00; Fr 14:00-24:00; Sa 11:00-24:00; Su 11:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/27615820",
+  "name": "Daytona Kart-Center",
+  "town": "Essen",
+  "country": "Germany",
+  "websites": [
+   "https://www.daytona-kartbahn.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1147384934",
+  "name": "Fliegerhorst Faßberg Karting",
+  "town": "Faßberg",
+  "country": "Germany",
+  "websites": [
+   "https://mtc-fassberg.de/?page_id=812"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/236541889",
+  "name": "GoKartArena und Familienpark Neufinsing",
+  "town": "Finsing",
+  "country": "Germany",
+  "websites": [
+   "https://www.gokartarena.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": "Mo-Su 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/620133302",
+  "name": "Eco-Kart",
+  "town": "Frankfurt am Main",
+  "country": "Germany",
+  "websites": [
+   "https://www.eco-kart.de"
+  ],
+  "known_fleet": [
+   [
+    "RiMO",
+    "electric (2 x 2.8 kW)",
+    null,
+    "electric"
+   ]
+  ],
+  "known_hours": "Mo 18:00-22:00; Tu-Th 17:00-22:00; Fr 17:00-24:00; Sa 13:00-24:00; Su 11:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1175484382",
+  "name": "GO-Kart Racinghall Fraureuth",
+  "town": "Fraureuth",
+  "country": "Germany",
+  "websites": [
+   "http://www.karthalle.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "kids"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": "Mo-Fr 16:00-24:00; Sa 13:00-24:00; Su 10:00-24:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1220208796",
+  "name": "Saxoniaring Kartclub Freiberg e.V.",
+  "town": "Freiberg",
+  "country": "Germany",
+  "websites": [
+   "https://www.saxoniaring-freiberg.de"
+  ],
+  "known_fleet": [
+   [
+    null,
+    null,
+    null,
+    "adult"
+   ],
+   [
+    null,
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/5324743781",
+  "name": "NOlimit Kartbahn Fulda",
+  "town": "Fulda",
+  "country": "Germany",
+  "websites": [
+   "https://www.nolimitkartbahn.de/"
+  ],
+  "known_fleet": [
+   [
+    "DINO Junior",
+    "Honda 4-stroke",
+    "5.5",
+    "junior"
+   ],
+   [
+    "TTM Brandy 1",
+    "Honda 4-stroke (gas)",
+    "7",
+    "adult"
+   ],
+   [
+    "TTM Brandy 1",
+    "Honda 4-stroke",
+    "10",
+    "race"
+   ]
+  ],
+  "known_hours": "Mo,We,Th 13:00-22:00; Tu,Fr 13:00-23:00; Sa 13:00-24:00; Su 10:00-22:00",
+  "has_age_rules": false
+ },
+ {
+  "id": "node/2501649295",
+  "name": "Planet KART-O-MANIA",
+  "town": "Geiersthal",
+  "country": "Germany",
+  "websites": [
+   "https://www.kart-o-mania.de/"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/89990949",
+  "name": "Steigerwald-Motodrom Gerolzhofen",
+  "town": "Gerolzhofen",
+  "country": "Germany",
+  "websites": [
+   "https://kartbahn-gerolzhofen.de/",
+   "http://www.msvgeo.de/"
+  ],
+  "known_fleet": [
+   [
+    "Sodi RT10",
+    null,
+    "9",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/1581708612",
+  "name": "Cool Runners Kart",
+  "town": "Gevelsberg",
+  "country": "Germany",
+  "websites": [
+   "http://www.coolrunning.de"
+  ],
+  "known_fleet": null,
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "way/1163615563",
+  "name": "Kart Motorsport Arena (Stucks-Kart-Center)",
+  "town": "Gollhofen",
+  "country": "Germany",
+  "websites": [
+   "https://www.kartmotorsport.de"
+  ],
+  "known_fleet": [
+   [
+    "Sodi",
+    null,
+    "9 PS",
+    "adult"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/3761972789",
+  "name": "Knatterdrom",
+  "town": "Greven",
+  "country": "Germany",
+  "websites": [
+   "https://www.knatterdrom.de/"
+  ],
+  "known_fleet": [
+   [
+    "RiMO EVO6",
+    "Honda GX200",
+    "6.5",
+    "adult"
+   ],
+   [
+    "RiMO Mini",
+    "Honda GX160",
+    "5.5",
+    "kids"
+   ],
+   [
+    "RiMO Twinstructor",
+    "2x Honda GX200",
+    "6.5",
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ },
+ {
+  "id": "node/392851670",
+  "name": "Kartcenter Grimma",
+  "town": "Grimma",
+  "country": "Germany",
+  "websites": [
+   "https://kartcenter-grimma.de"
+  ],
+  "known_fleet": [
+   [
+    "Sodi SR5",
+    null,
+    null,
+    "adult"
+   ],
+   [
+    "Sodi LR5",
+    null,
+    null,
+    "kids"
+   ],
+   [
+    "Sodi 2-Drive",
+    null,
+    null,
+    "twin"
+   ]
+  ],
+  "known_hours": null,
+  "has_age_rules": false
+ }
+]

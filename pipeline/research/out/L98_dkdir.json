@@ -1,0 +1,86 @@
+[
+ {
+  "id": "way/93851066",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 920,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/gokart-center-skaerbaek-banen/",
+  "checked_at": "2026-10-10",
+  "note": "Directory links http://m-s-s.dk/ as the official website, not www.kart.dk."
+ },
+ {
+  "id": "node/2216849378",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 840,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/grindsted-motor-ring/",
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/567296895",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1000,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/tom-k-karting-arena/",
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/712050506",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 1150,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/gokartcenter-fyn/",
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/1236943145",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 630,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/korsoer-kartbane/",
+  "checked_at": "2026-10-10",
+  "note": null
+ },
+ {
+  "id": "way/318606996",
+  "tracks": [
+   {
+    "name": null,
+    "length_m": 811,
+    "width_m": null,
+    "use": null
+   }
+  ],
+  "source": "https://gokartbaner.dk/barmosens-gokart-center/",
+  "checked_at": "2026-10-10",
+  "note": null
+ }
+]

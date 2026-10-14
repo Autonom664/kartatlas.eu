@@ -128,15 +128,15 @@ test("recent verified operator replacements and source dates survive the build",
     const t = tracks.find(t => t.o === id);
     assert.equal(t.w, website);
     assert.equal(t.ws[0][0], website);
-    assert.equal(t.Pc, "2026-10-09");
+    assert.ok(t.Pc >= "2026-10-09", `price check date ${t.Pc}`);
     assert.equal(t.r, "yes");
-    if (t.T) { assert.equal(t.Tc, "2026-10-09"); assert.ok(t.Ts); }
+    if (t.T) { assert.ok(t.Tc >= "2026-10-09"); assert.ok(t.Ts); }
   }
   assert.equal(tracks.find(t => t.o === "way/388280270").ppm, null);
   for (const id of ["way/245463137", "way/59826097", "way/347258997"]) {
     const t = tracks.find(t => t.o === id);
     assert.equal(t.Pc, undefined);
-    assert.equal(t.Pa, "2026-10-09");
+    assert.ok(t.Pa >= "2026-10-09", `price attempt date ${t.Pa}`);
   }
 });
 
@@ -377,7 +377,8 @@ test("broad discovery adds only verified missing venues without fabricated layou
   assert.ok(jesolo.K.every(k => !k[1] || /4T/.test(k[1])));
   assert.ok(jesolo.K.every(k => k[4] === null), "marketing tier labels are not chassis manufacturers");
   const dutch = tracks.find(t => t.o === additions[2][0]);
-  assert.ok(!dutch.P?.length, "no guessed rental price");
+  assert.ok(!(dutch.P || []).some(p => p[18]), "published packages only; no standard rental price is assumed");
+  assert.ok((dutch.P || []).every(p => p[11] === "package"), "Lelystad publishes package prices only");
   assert.equal(dutch.F[0][1], 1.5);
   assert.match(dutch.F[0][6], /Own helmet permitted/);
   assert.match(dutch.note, /shared-site address node/);
