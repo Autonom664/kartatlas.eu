@@ -1,0 +1,918 @@
+[
+ {
+  "id": "node/12805789828",
+  "name": "B1 GoKart Bahn Innsbruck",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270 ccm",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "LR5",
+    "engine": "160 ccm",
+    "hp": "4.5",
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/6968981892",
+  "name": "Chargers Racing",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.chargersracing.at/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/472368623",
+  "name": "Daytona Raceways",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.daytona.at/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "Honda GX200",
+    "hp": "9.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Kinderkart Mini",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Renntaxi",
+    "engine": "2x Honda GX200",
+    "hp": "6.5",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/11726784673",
+  "name": "Freizeitarena Tirol",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.freizeitarena.tirol/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1147658133",
+  "name": "Freizeitpark Stubenbergsee",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.freizeitpark-stubenbergsee.at"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "relation/3868005",
+  "name": "Grand Prix Monza",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.pasara.at/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/55762296",
+  "name": "KART-N-FUN",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "http://www.gokart-steyr.at/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/725892580",
+  "name": "Kartbahn Blindenmarkt",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-blindenmarkt.at/"
+  ],
+  "needs": [
+   "karts",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/3703616077",
+  "name": "Kartbahn Schneider",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "http://www.kartbahn-schneider.at"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "propane (LPG)",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/1344908573",
+  "name": "Kartbahn-Treff (Vorarlberg Ring)",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbahn-treff.com/"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Mach 1",
+    "engine": "Honda 200 cc 4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/8375040368",
+  "name": "Karthalle Ebensee (Kartworld Ebensee)",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.karthalle.at/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "200 ccm 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270 ccm",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/137166744",
+  "name": "Kartsport Friesacher",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.indoorkart.at/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Mini Raze",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/45494972",
+  "name": "Kartworld Salzburg",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartworld.at"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/194361134",
+  "name": "OeAMTC Fahrtechnik Zentrum Melk/Wachauring",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.oeamtc.at/fahrtechnik/fahrtechnik-zentren/zentrum-melk-wachauring-11004452"
+  ],
+  "needs": [
+   "prices",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270 cm3",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "country": "AT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.rw-m.at/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/868068820",
+  "name": "Rotax MAX Dome",
+  "country": "AT",
+  "type": "indoor",
+  "websites": [
+   "https://www.rotaxmaxdome.com/linz/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Rotax SONIC E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/172406245",
+  "name": "Action Kart",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.actionkart.be/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1238425770",
+  "name": "BattleKart Brussels (Tour & Taxis)",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1345697611",
+  "name": "BattleKart Genk",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/en/genk"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/12825338681",
+  "name": "BattleKart Gent",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/nl/gent"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13318880999",
+  "name": "BattleKart WEX",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://battlekart.com/fr/wex"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/12676251167",
+  "name": "Battlekart Mouscron",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/en/mouscron/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "BattleKart Family",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/105251328",
+  "name": "Brussels Kart",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.brusselskart.be/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RSX2",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "LRX2",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/46766217",
+  "name": "Burney's Mechelen",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://burneys.be"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/23031475",
+  "name": "Cargo-Karting",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.cargo-karting.be/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/131579725",
+  "name": "De Kegel X-treme",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://www.bowlingdekegel.be/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": "15",
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/264828644",
+  "name": "Fastlane Karting Bilzen",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://fastlanebilzen.be/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/895692304",
+  "name": "ImagiPark",
+  "country": "BE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.imagipark.be/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/12752115882",
+  "name": "Indoorkarting Lommel",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "http://www.indoorkartinglommel.be"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/9364985457",
+  "name": "JM Karting Liège",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://jmkarting.com/liege/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/34403881",
+  "name": "Karting Spa-Francorchamps (RACB)",
+  "country": "BE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.francorchamps-karting.be/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/112038987",
+  "name": "The District (formerly Factory Kart)",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://thedistrict.be/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/472960694",
+  "name": "Worldkarts Poperinge",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://poperinge.worldkarts.com/home"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Alpha Carbon K",
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Alpha Carbon K",
+    "engine": "270cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Alpha Mini-K",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/3724910749",
+  "name": "Worldkarts Sint-Niklaas",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://sint-niklaas.worldkarts.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR6",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "270cc",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "country": "BE",
+  "type": "indoor",
+  "websites": [
+   "https://yeti-eeklo.be/"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "country": "CH",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbasel.ch/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/163933505",
+  "name": "Kart-Bahn Wohlen",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahnwohlen.ch/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Kinder-Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Spezial-Kart",
+    "engine": "200cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Turbo-Kart",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ }
+]

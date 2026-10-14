@@ -1,0 +1,1047 @@
+[
+ {
+  "id": "way/1270623433",
+  "name": "MiniMoto San Mauro Mare",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.minimotoitalia.com/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270cc",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/31531331",
+  "name": "OrobiKart",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartodromo.it/"
+  ],
+  "needs": [
+   "tracks",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi KID",
+    "engine": "160cc 4-stroke",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13019575417",
+  "name": "PGK Karting Network Venezia",
+  "country": "IT",
+  "type": "indoor",
+  "websites": [
+   "https://pgkvenezia.com/"
+  ],
+  "needs": [
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LRX",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/238454074",
+  "name": "Pista Azzurra",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.pistazzurra.it/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi Sport",
+    "engine": "Rotax 125cc 2-stroke",
+    "hp": "23",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi RX200",
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "IAME X30",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Mini ROK",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/130350436",
+  "name": "Pista Azzurra Jesolo",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://pista-azzurra.com/"
+  ],
+  "needs": [
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "200cc 4T",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc 4T",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc 4T",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "50cc 4T",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "way/308086202",
+  "name": "Pista Due Mari",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.pista2mari.com/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/204940284",
+  "name": "Pista Gialla Giulianova",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://pistagialla.it/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "Subaru 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc 4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "Subaru 270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/186119706",
+  "name": "Pista Go Kart Artena",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.gokartena.it"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/47052547",
+  "name": "Pista Go Kart Riccione",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.facebook.com/riccionekartemoto"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/179934334",
+  "name": "Pista Kart Alberone",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.pistakartalberone.it"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1192608927",
+  "name": "Pista Kart Bosco",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://pistakartbosco.it/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "TB Kart Biposto",
+    "engine": "Honda GX 270cc 4-stroke",
+    "hp": "9",
+    "class": "two-seater"
+   },
+   {
+    "chassis": "TB Kart RB13",
+    "engine": "Honda GX 160cc 4-stroke",
+    "hp": "6",
+    "class": "160cc"
+   },
+   {
+    "chassis": "Sodi GT4",
+    "engine": "Honda GX 270cc 4-stroke",
+    "hp": "9",
+    "class": "270cc"
+   },
+   {
+    "chassis": "Sodi Sport",
+    "engine": "Rotax Max Evo 125cc 2-stroke",
+    "hp": "29",
+    "class": "125cc 2-stroke (experienced drivers)"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/104579055",
+  "name": "Pista Kart Vittoria",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.pistakartvittoria.it/"
+  ],
+  "needs": [
+   "prices",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Best Kart",
+    "engine": "Honda 200cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Best Kart",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1553175056",
+  "name": "Pista La Quercia 58",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://laquercia58.com/"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "TB Kart",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/365007906",
+  "name": "Pista Mini Speed",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.pistaminispeed.it/"
+  ],
+  "needs": [
+   "prices",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "270cc",
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "TB Kart R15",
+    "engine": "Speed MX 500cc",
+    "hp": "20",
+    "class": null
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/242491459",
+  "name": "Pista Rioveggio (Coop. Karting Rioveggio)",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.pistarioveggio.it",
+   "https://freedome.it/guida-sportiva/pista-di-rioveggio/"
+  ],
+  "needs": [
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "Briggs & Stratton LO206",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/444163257",
+  "name": "Pista Winner",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.pistawinner.it/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Parolin XT40",
+    "engine": "Honda 270cc 4T single-speed",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Parolin biposto",
+    "engine": "Honda 270cc 4T",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax 125cc 2T single-speed",
+    "hp": "24",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "KZ 125cc 2T 6-speed gearbox",
+    "hp": "45",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 200cc 4T",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "relation/12721481",
+  "name": "Pista dell'Adriatico",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.pistadelladriatico.it/"
+  ],
+  "needs": [
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/75490936",
+  "name": "South Garda Karting",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.southgardakarting.it/",
+   "https://rental.southgardakarting.it/",
+   "https://racing.southgardakarting.it/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Mini Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Go-kart",
+    "engine": "200cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Kart Sport",
+    "engine": "400cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Kart Biposto",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/388280270",
+  "name": "South Milano Karting (Pista South Milano)",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.southmilanokarting.com/"
+  ],
+  "needs": [
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Birel",
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "way/674711953",
+  "name": "The Way Kart Vicenza",
+  "country": "IT",
+  "type": "indoor",
+  "websites": [
+   "https://www.thewaykart.com/",
+   "https://www.vki.it/"
+  ],
+  "needs": [
+   "tracks",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1481640920",
+  "name": "Theway Experience Park Imola",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "https://www.thewaykart.com/le-nostre-piste/imola"
+  ],
+  "needs": [
+   "karts",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/250190342",
+  "name": "Topfuel Racing Kart Arena",
+  "country": "IT",
+  "type": "indoor",
+  "websites": [
+   "https://www.topfuelracing.it/milano/"
+  ],
+  "needs": [
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "TB Kart",
+    "engine": "Honda 270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "TB Kart Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids 8-13"
+   },
+   {
+    "chassis": "TB Kart biposto",
+    "engine": null,
+    "hp": null,
+    "class": "two-seater"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "RX-250 competition kart (lap under 37 s only)"
+   }
+  ],
+  "last_price_attempt": "2026-10-14"
+ },
+ {
+  "id": "way/493236628",
+  "name": "Torricola Team Racing",
+  "country": "IT",
+  "type": "outdoor",
+  "websites": [
+   "http://www.ttracing.it"
+  ],
+  "needs": [
+   "karts",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/6859713080",
+  "name": "Adventure Eefde (Karting Eefde)",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://adventureeefde.nl/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "way/276563025",
+  "name": "All In Echt",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.allinecht.nl/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO Evo 6",
+    "engine": "Honda 200cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/58821981",
+  "name": "De Uithof",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://deuithof.nl/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/290232085",
+  "name": "Euro Indoorkarting & Bowling Swalmen",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://kartcentrum.nl/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi",
+    "engine": "200 cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "duo"
+   }
+  ],
+  "last_price_attempt": "2026-10-14"
+ },
+ {
+  "id": "node/958029969",
+  "name": "Go Kart In Dordrecht",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.kart.nl/",
+   "https://bowlmore.nl/dordrecht/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "petrol",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13607854888",
+  "name": "Indoor Kartbaan Winterswijk",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://kartbaanwinterswijk.nl"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/2848644350",
+  "name": "Kartbaan Duiven",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbaanduiven.nl"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "The Grid I-kart",
+    "engine": "Honda GX270",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "The Grid Butterfly Jr.",
+    "engine": "Honda GX120",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/278188018",
+  "name": "Kartbaan Oldenzaal",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://kartbaanoldenzaal.nl/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/746760110",
+  "name": "Kartbaan Strijen",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbaanstrijen.nl/"
+  ],
+  "needs": [
+   "prices"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/296815510",
+  "name": "Kartbaan Uden",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbaanuden.nl"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/474012393",
+  "name": "Kartbaan Ulrum",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "http://kartbaanulrum.nl"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/2932410866",
+  "name": "Kartcentrum Lelystad",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartcentrumlelystad.nl/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/446075802",
+  "name": "Kartcircuit Driebergen",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbaan.com"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/3040205459",
+  "name": "Kartfabrique",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartfabrique.nl/"
+  ],
+  "needs": [
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": null
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ }
+]

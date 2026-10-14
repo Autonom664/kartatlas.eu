@@ -1,0 +1,790 @@
+[
+ {
+  "id": "way/138621802",
+  "name": "Outdoorkartbahn Niederkrüchten (Kartbahn Schwalmtal)",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.outdoorkartbahn.com"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/2501649295",
+  "name": "Planet KART-O-MANIA",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kart-o-mania.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SRS",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RT8",
+    "engine": "Honda GX270",
+    "hp": "9.5",
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX270",
+    "hp": "9.5",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/59513188",
+  "name": "RS Speedworld",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.gokart-online.de/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RSX E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "RSX 2-Sitzer E-Kart (RS 2-Drive)",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "RS Kinder Kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/388393542",
+  "name": "Raceland Karting",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://raceland-karting.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/856436751",
+  "name": "Ralf Schumacher Kartcenter",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.rs-kartcenter.de"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "Honda GX200 (LPG)",
+    "hp": "8.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha 2",
+    "engine": null,
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Sinus Mini",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Sinus Twin",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/219979201",
+  "name": "Rennstrecke MC Touring Strasburg",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.mc-touring-strasburg.com/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/87497403",
+  "name": "SK Raceworld",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://sk-raceworld.de/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/165403103",
+  "name": "Saarlandring Uchtelfangen",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.saarlandring.de/"
+  ],
+  "needs": [
+   "prices",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/9594078422",
+  "name": "Saus & Braus Landsberg",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.saus-braus.de/"
+  ],
+  "needs": [
+   "karts",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/74481523",
+  "name": "Sax Freizeit Center (Saxracing)",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://saxfreizeitcenter.de/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1220208796",
+  "name": "Saxoniaring Kartclub Freiberg e.V.",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.saxoniaring-freiberg.de"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/727712552",
+  "name": "Seealm-Ring",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.seealm-ring.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/997947153",
+  "name": "Sport Kart Münster",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.sportkart-muenster.de"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1443336719",
+  "name": "Spreeflitzer",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.spreeflitzer.de"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/1844036287",
+  "name": "TeamSport E-Karting Kart Palast Funpark",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Nanokart",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/89820377",
+  "name": "The Kart Company Emsbüren",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartcompanyemsbueren.de/de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/392128609",
+  "name": "Vogelsbergring",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.msc-wittgenborn.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/537479732",
+  "name": "Waldparkring Walldorf",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.msc-walldorf-astoria.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/3761972821",
+  "name": "ring°kartbahn",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.ballerupeventcenter.dk/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/318606996",
+  "name": "Barmosen Gokart Bane",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "http://www.sak-motorsport.dk/karting/barmosen-gokart-bane"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "country": "DK",
+  "type": "indoor",
+  "websites": [
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.dmka.dk/karting/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/2216849378",
+  "name": "Grindsted Gokart Klub",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.grindstedgokartklub.dk/",
+   "https://grigoe.dk"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/177039353",
+  "name": "Holbæk Gokartklub",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://holbaek-gokart.dk/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1236943145",
+  "name": "Korsør Kart Klub",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kgkk.dk/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/139090965",
+  "name": "Københavns Gokart Bane",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://kbh-gokart.dk/",
+   "https://www.kk.dk/index%2ephp/nyheder/orientering-koebenhavns-gokart-bane-lukker-til-sommeren-2028"
+  ],
+  "needs": [
+   "prices",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/380865250",
+  "name": "Marielyst Gokart & Paintball Center",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://gokart.dk/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/532894308",
+  "name": "Midtjysk Karting Bane",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "http://midtjyskgokart.dk"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "country": "DK",
+  "type": "indoor",
+  "websites": [
+   "https://racesyd.dk/",
+   "https://fredericiagokartklub.dk/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://silkeborg-gokart.dk/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Dino",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Kids kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/93851066",
+  "name": "Skærbæk Gocart Center",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kart.dk/"
+  ],
+  "needs": [
+   "karts",
+   "hours"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/213207415",
+  "name": "Svebølle Go-Kart",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "http://www.svebollegokart.dk/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/892633637",
+  "name": "Søndersø Karting Klub",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://gokartfyn.dk/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/486318757",
+  "name": "Thy Karting Center",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://thymotorsport.dk/"
+  ],
+  "needs": [
+   "prices",
+   "hours"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/567296895",
+  "name": "Tom K Karting Arena",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://mnj.dk"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/356759825",
+  "name": "Vandel Gokart",
+  "country": "DK",
+  "type": "outdoor",
+  "websites": [
+   "https://www.vandelgokart.dk/",
+   "https://vandelgokart.dk/klub/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "OTK Viper",
+    "engine": "Honda GX270 (tuned)",
+    "hp": "13",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ }
+]

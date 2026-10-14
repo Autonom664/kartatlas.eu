@@ -1,0 +1,963 @@
+[
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.indy-cart.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/1649028239",
+  "name": "KART'N Curves Bad Rappenau",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://kartbahn.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "2 Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/2687925947",
+  "name": "Kart & Eventcenter Stupferich",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kart-eventcenter.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/550349415",
+  "name": "Kart Center Heiligenstadt",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.kart-center-heiligenstadt.de/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": "13",
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/2791912346",
+  "name": "Kart Center Landau",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartcenter-landau.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO-Mini",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "RiMO EVO6 Racingkart",
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/336869541",
+  "name": "Kart- & Bowlingcenter Willingen",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbahn-willingen.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO",
+    "engine": "Honda (gas)",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/241613190",
+  "name": "Kart-Bahn Dahlemer Binz",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-dahlemer-binz.de"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "R25",
+    "engine": "Honda GX390",
+    "hp": "12",
+    "class": "adult"
+   },
+   {
+    "chassis": "SixPointFive",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "TB R13",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Evo 5",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX390",
+    "hp": "12",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/446905417",
+  "name": "Kart-Bahn Teningen",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-teningen.de/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/5207433462",
+  "name": "Kart-o-Mania",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://kart-stuttgart.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "Honda 200cc 4-stroke",
+    "hp": "7",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "Honda 160cc 4-stroke",
+    "hp": "5.5",
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/30120851",
+  "name": "KartArena Ingolstadt",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartarena-ingolstadt.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/303166461",
+  "name": "Kartbahn Dargelin",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.kartbahn-mv.de/Dargelin/home.html"
+  ],
+  "needs": [
+   "prices",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO Alpha 2 LPG",
+    "engine": "LPG",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini",
+    "engine": null,
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": null,
+    "hp": "2 x 6.5",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/93099535",
+  "name": "Kartbahn GRIP",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://kartbahn-herbertingen.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/9889553396",
+  "name": "Kartbahn Gramkow",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.racingo.de/kartbahnen/de/kartbahn-gramkow/"
+  ],
+  "needs": [
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1120780117",
+  "name": "Kartbahn Görlitz-Ring",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-goerlitz-ring.de"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": "Honda GX160",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/254359849",
+  "name": "Kartbahn Jena",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.kartbahnjena.de"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": null,
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/349532750",
+  "name": "Kartbahn Liedolsheim",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahnliedolsheim.de/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Tony Kart Viper",
+    "engine": "Honda GX270",
+    "hp": "9.5",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1041609383",
+  "name": "Kartbahn Lohsa",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://kartbahnlohsa.wixsite.com/start"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/78364408",
+  "name": "Kartbahn Lüneburg",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-lueneburg.de/"
+  ],
+  "needs": [
+   "prices",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "Honda GX270",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX390",
+    "hp": "18",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/164688996",
+  "name": "Kartbahn MSC-Oberflockenbach",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.msc-oberflockenbach.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/89254346",
+  "name": "Kartbahn Motorsport Arena Oschersleben",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.motorsportarena.com/"
+  ],
+  "needs": [
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/97901794",
+  "name": "Kartbahn Neubrandenburg",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-mv.de/"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO Alpha 2 LPG",
+    "engine": "LPG",
+    "hp": "11",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Mini LPG",
+    "engine": "LPG",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO Twin",
+    "engine": "LPG",
+    "hp": "2 x 6.5",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/128574048",
+  "name": "Kartbahn Rheinfelden",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbahn-rheinfelden.de/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO 5",
+    "engine": "Honda 4-stroke",
+    "hp": "7",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "RiMO",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/72708524",
+  "name": "Kartbahn Schönerlinde",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartbahn-schoenerlinde.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO Alpha",
+    "engine": "390 ccm",
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO Alpha 2",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Arisco",
+    "engine": "2x Honda 270",
+    "hp": "2x9",
+    "class": "twin"
+   },
+   {
+    "chassis": "Combi kart",
+    "engine": "390 ccm",
+    "hp": "13",
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6",
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://www.kartbahn-mv.de/Stralsund/home.html"
+  ],
+  "needs": [
+   "prices",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "LPG",
+    "hp": "8",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "LPG",
+    "hp": "5.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/12547718882",
+  "name": "Kartbahn Wittenburg im Alpincenter",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.alpincenter.com/hamburg-wittenburg/de/firmen-und-gruppen/teambuilding/kart"
+  ],
+  "needs": [
+   "karts",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/3761972788",
+  "name": "Kartcenter Cologne",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartcenter-cologne.de"
+  ],
+  "needs": [
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "7.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/119129470",
+  "name": "Kartcity",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartcity.de/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/187105722",
+  "name": "Kartclub Straubing",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartclub-straubing.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://www.kartfun-astenberg.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/43869473",
+  "name": "Karthalle Coswig",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.karthalle-coswig.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO-6",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://kartland-sinn.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://kartraceland.de/"
+  ],
+  "needs": [
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Hubi",
+    "engine": "220 ccm",
+    "hp": "8.5",
+    "class": "race"
+   },
+   {
+    "chassis": "Hubi",
+    "engine": "220 ccm",
+    "hp": "8.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/883027662",
+  "name": "LimPark",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.limpark.de/",
+   "https://www.limpark.de/kart/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1444721703",
+  "name": "MSC Osterhofen",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://msc-osterhofen.jimdoweb.com/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1039053796",
+  "name": "Motodrom Schwerin",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.motodrom-schwerin.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/510877435",
+  "name": "Motor Sport Weis - Kartbahn Büren",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.kartbahn-bueren.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/89322197",
+  "name": "Motor Sportclub Rathenow e.V. im ADAC",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://mcrathenow.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ }
+]

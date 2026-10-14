@@ -1,0 +1,888 @@
+[
+ {
+  "id": "relation/7225161",
+  "name": "Kartbahn Lyss",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://kartbahnlyss.ch/",
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Petrol 200cc",
+    "hp": "5.5 PS",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "way/163895648",
+  "name": "Kartbahn Lyss (Kartbahn Kappelen AG)",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://kartbahnlyss.ch/",
+   "https://www.kartbahnlyss.ch/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Petrol 200cc",
+    "hp": "5.5 PS",
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-09"
+ },
+ {
+  "id": "way/346520170",
+  "name": "Kartbahn Morschach (Swiss Holiday Park)",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://www.swissholidaypark.ch/aktivitaeten/abenteuer-action/kartbahn",
+   "https://www.swissholidaypark.ch/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/157919567",
+  "name": "Kartbahn Spreitenbach",
+  "country": "CH",
+  "type": "indoor",
+  "websites": [
+   "https://spreitenbach.kart.ch"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Tomkart Swiss E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "relation/4298937",
+  "name": "Karting de Vuiteboeuf (Good Kart Indoor Sàrl)",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartingvuiteboeuf.ch/"
+  ],
+  "needs": [
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "200cc kart",
+    "engine": "200cc",
+    "hp": "6",
+    "class": "kids"
+   },
+   {
+    "chassis": "270cc kart",
+    "engine": "270cc",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Biplace kart",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "RX 250",
+    "engine": null,
+    "hp": "28",
+    "class": "race"
+   },
+   {
+    "chassis": "Praga",
+    "engine": null,
+    "hp": "40",
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1126111119",
+  "name": "Pista GOKART Locarno-Magadino",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://www.karts.ch/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc 4-stroke",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Minikart",
+    "engine": "97cc",
+    "hp": "2.5",
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "country": "CH",
+  "type": "outdoor",
+  "websites": [
+   "https://winterthur.kart.ch"
+  ],
+  "needs": [
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Tomkart Swiss E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/389007612",
+  "name": "ABR Kart-Center Schlotheim",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "www.kartcenter-schlotheim.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/102467584",
+  "name": "AMC Memmingen e.V. Motorsportgelaende",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.amc-memmingen.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1212578881",
+  "name": "BB-Kartcenter Bremen",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.bb-kart.de/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1410399039",
+  "name": "Battle Kart Düsseldorf-Neuss",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13456963144",
+  "name": "BattleKart Bad-Hersfeld",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/de/bad-hersfeld"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13894638060",
+  "name": "BattleKart Bochum",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://battlekart.com/bochum"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/751984689",
+  "name": "BattleKart Halle-Leipzig",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/de/halle-leipzig"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/12806062014",
+  "name": "BattleKart Koblenz-Mayen",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/14002285223",
+  "name": "BattleKart Marne",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/de/marne"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/61560044",
+  "name": "BattleKart St-Leon-Rot",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/de/st-leon-rot"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/352676165",
+  "name": "BattleKart Trier",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.battlekart.com/trier"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "BattleKart electric kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://battlekart.com/unna"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/129879602",
+  "name": "Bavaria Kart",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://bavaria-kart.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/213124246",
+  "name": "Breitwangbahn (MSC Ipf Bopfingen)",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.msc-ipf.de/"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/7567389572",
+  "name": "Burgpark Ring Kart-Bahn",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartbahn-mgh.de/"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/6550773226",
+  "name": "Burnout Celler Kartbahn",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.celler-kartbahn.com/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270 (LPG)",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": "Honda GX200",
+    "hp": "6.5",
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/1581708612",
+  "name": "Cool Runners Kart",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://www.coolrunning.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/27615820",
+  "name": "Daytona Kart-Center",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.daytona-kartbahn.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/582975406",
+  "name": "E-Fun-Park-Pottenstein",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.e-fun-park-pottenstein.de/"
+  ],
+  "needs": [
+   "tracks",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO",
+    "engine": "electric (2 x 2.8 kW)",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/9043533487",
+  "name": "EVOKART Kiel",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://evokart-kiel.de/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "OTK Viper E-Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/108799424",
+  "name": "Ecodrom Kartbahn Neu-Ulm",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://ecodrom.de/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/92468697",
+  "name": "Emslandring Dankern",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://emslandring.de/"
+  ],
+  "needs": [
+   "prices"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/51050374",
+  "name": "Emstalstadion (MSC Harsewinkel)",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.msc-harsewinkel.de"
+  ],
+  "needs": [
+   "prices",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/33529699",
+  "name": "F1 motodrom",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://f1-motodrom.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1147384934",
+  "name": "Fliegerhorst Faßberg Karting",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://mtc-fassberg.de/?page_id=812"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/286457460",
+  "name": "Go-Kart und Quad Bahn Bergen",
+  "country": "DE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.ruegenkartbahn.de/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/236541889",
+  "name": "GoKartArena und Familienpark Neufinsing",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.gokartarena.de/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://www.hallenkartbahn-sulz.de/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi GT5R",
+    "engine": "200cc",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": "5.5",
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": "13",
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/34410664",
+  "name": "Hanse Gokart Racing",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "http://www.hansegokart.de"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO EVO6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "RiMO EVO4",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/60207296",
+  "name": "Indoor Karting Umkirch",
+  "country": "DE",
+  "type": "indoor",
+  "websites": [
+   "https://www.sportpark-umkirch.de"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ }
+]

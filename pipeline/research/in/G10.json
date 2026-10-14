@@ -1,0 +1,828 @@
+[
+ {
+  "id": "node/2779183074",
+  "name": "Karting Texel",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartingtexel.nl/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/217521987",
+  "name": "Linnaeushof",
+  "country": "NL",
+  "type": "outdoor",
+  "websites": [
+   "https://www.linnaeushof.nl/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/1571226584",
+  "name": "Race Planet Delft",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://raceplanet.nl/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/4614279439",
+  "name": "Silverstone Partycenter",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.silverstone.nl"
+  ],
+  "needs": [
+   "karts",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/47490179",
+  "name": "TeamSport Groningen",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/groningen"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1360118353",
+  "name": "TeamSport Karten Utrecht The Wall",
+  "country": "NL",
+  "type": "indoor",
+  "websites": [
+   "https://www.teamsport-ekarting.nl/locaties/utrecht"
+  ],
+  "needs": [
+   "prices",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/367162773",
+  "name": null,
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "http://hyrgokart.nu/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/704291326",
+  "name": "Action Center",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://action-center.se"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RT8",
+    "engine": null,
+    "hp": "5-7 (speed-limited)",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi RX250",
+    "engine": null,
+    "hp": "15 / 22",
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1549065921",
+  "name": "Blåkulla Gokart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.blakullagokart.se/"
+  ],
+  "needs": [
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1005039103",
+  "name": "Flotsbro Downhill Cars",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://flottsbro.skiperformance.com/en/products/flottsbro-downhill-cars/5736"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Downhill Car (purpose-built steel kart, about 150 kg)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1091896435",
+  "name": "Glabo Gokart & Paintball",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.glabogokart.se"
+  ],
+  "needs": [
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/576906518",
+  "name": "GoCart Piteå",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/321498514",
+  "name": "Gocart Piteå (Pite Havsbad)",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://gocartpitea.se/",
+   "https://pitehavsbad.se/en/activities/gokart/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/1350495161",
+  "name": "Gokartcity Malmö",
+  "country": "SE",
+  "type": "indoor",
+  "websites": [
+   "https://www.gokartcity.club/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/410895971",
+  "name": "Gokartuthyrningen Linköping (Linköpings Motorstadion, Sviestad)",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.hyrgokart.com/",
+   "https://visitlinkoping.se/en/see-do/karting-rentals-motorstadion/"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/95564957",
+  "name": "Gokartuthyrningen i Linköping",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.hyrgokart.com/",
+   "https://en.wikipedia.org/wiki/Link%C3%B6ping_Motorstadion"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/14088543327",
+  "name": "Gränges Hyr-kart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://grangeshyrkart.se"
+  ],
+  "needs": [
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RiMO",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "relation/10426245",
+  "name": "Göteborgs Gokartcenter",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://gokart.se/"
+  ],
+  "needs": [
+   "prices"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda",
+    "hp": "9",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": "6.5",
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Junior",
+    "engine": "Honda",
+    "hp": "4",
+    "class": "junior"
+   },
+   {
+    "chassis": "Caroli combi kart (hand controls)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/132148316",
+  "name": "Hudiksvalls Hyrcart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "http://www.hyrcart.se"
+  ],
+  "needs": [
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/6183808285",
+  "name": "Icekart Sälen",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.icekart.se/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Seniorkart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Juniorkart",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/234113309",
+  "name": "Kart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.enkopingsmk.se/karting",
+   "https://www.enkopingsmk.se/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/486200449",
+  "name": "Kart Ring Klippan (KS Klippan)",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.svenskalag.se/ksklippan"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/343140372",
+  "name": "Kneippbyn gokart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kneippbyn.se"
+  ],
+  "needs": [
+   "prices",
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Junior-cart",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Indy-Cart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/229163499",
+  "name": "Lockarps Gokart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.lockarpsgokart.se/",
+   "https://www.mak.nu/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1193992601",
+  "name": "Luleå Karting (Kartway)",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "http://kartway.se/Lulea/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/95139054",
+  "name": "SMK Västerås Karting",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.smkvasteras.se/"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/433175801",
+  "name": "Skara Sommarland go-kart",
+  "country": "SE",
+  "type": "indoor",
+  "websites": [
+   "https://www.sommarland.se/"
+  ],
+  "needs": [
+   "tracks",
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Formula Indycart",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Imola 2000",
+    "engine": null,
+    "hp": null,
+    "class": null
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/40076940",
+  "name": "Skellefteå Kart Arena (Kartway Skellefteå)",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://kartway.se/skelleftea"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/828964156",
+  "name": "Trollringens kartingbana",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://lyckselemk.se/?p=hyrkart"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/514034732",
+  "name": "Varbergs Gokart",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.varbergsgokart.se/"
+  ],
+  "needs": [
+   "karts",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/279571694",
+  "name": "Vroom Gokart Jönköping",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.vroom.se"
+  ],
+  "needs": [
+   "karts",
+   "tracks"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "relation/10105432",
+  "name": "Värmlands Gokartcenter",
+  "country": "SE",
+  "type": "outdoor",
+  "websites": [
+   "https://www.varmlandsgokartcenter.se/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Caroli",
+    "engine": "Honda 270cc (Moto-Schuette tuned)",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ }
+]

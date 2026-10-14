@@ -1,0 +1,1221 @@
+[
+ {
+  "id": "way/652859924",
+  "name": "Formule Kart",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.formulekart.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Kart Loisir",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Kart Sport",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Handikart",
+    "engine": "390cc",
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/787297100",
+  "name": "Fun Kart Brissac (Parc Sports & Loisirs Gorges de l'Hérault)",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.parc-loisir-cevennes.fr"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/270319605",
+  "name": "Fun-Kart",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.fun-karting.com/",
+   "https://www.facebook.com/funkart06"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/34179469",
+  "name": "GP Circuit",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.gp-circuit.fr/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "RS Kart",
+    "engine": "270cc",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": "Fun Kart",
+    "engine": "200cc",
+    "hp": "4.5 CV",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sport Rotax 16",
+    "engine": "Rotax",
+    "hp": "16 CV",
+    "class": "race"
+   },
+   {
+    "chassis": "Sport Rotax 22",
+    "engine": "Rotax",
+    "hp": "22 CV",
+    "class": "race"
+   },
+   {
+    "chassis": "Sport Rotax 22 Racing",
+    "engine": "Rotax",
+    "hp": "22 CV",
+    "class": "race"
+   },
+   {
+    "chassis": "Sport Rotax DD2",
+    "engine": "Rotax DD2",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "Rotax",
+    "hp": "30",
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/109128724",
+  "name": "I.TEKKARTING",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.itekkarting.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodikart school kart",
+    "engine": "electric / biofuel",
+    "hp": null,
+    "class": null
+   },
+   {
+    "chassis": "Prokart RT8",
+    "engine": "390cc 4-stroke",
+    "hp": "15",
+    "class": null
+   },
+   {
+    "chassis": "Sodikart DD2",
+    "engine": "125cc 2-stroke",
+    "hp": "28",
+    "class": null
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/183430322",
+  "name": "Inter Racing Kart",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.interracingkart.com/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/12422844942",
+  "name": "K1 Speed",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://www.k1speed.com/fr/caen.html"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/12792155555",
+  "name": "K1 Speed",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://www.k1speed.com/fr/le-mans.html"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/81731257",
+  "name": "K1 Speed Lyon",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://www.k1speed.com/fr/lyon.html"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/11635025481",
+  "name": "KHUB Arras",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://khub-arras.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": "Kart enfant et famille",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Kart biplace",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Baby kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/126711889",
+  "name": "Kart 71",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://www.kart71.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1527270647",
+  "name": "Kart Escale",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartescale.com/",
+   "https://boutique.kartescale.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Babykart",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "160cc kart",
+    "engine": "160cc",
+    "hp": "4.5",
+    "class": "kids"
+   },
+   {
+    "chassis": "270cc kart",
+    "engine": "270cc",
+    "hp": "9",
+    "class": null
+   },
+   {
+    "chassis": "390cc kart",
+    "engine": "390cc",
+    "hp": "13",
+    "class": "adult"
+   },
+   {
+    "chassis": "Rotax kart",
+    "engine": "Rotax 125 2-stroke",
+    "hp": "22",
+    "class": null
+   },
+   {
+    "chassis": "Two-seater kart",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/39321555",
+  "name": "Kart Origins",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kartorigins.fr/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "Honda 270cc",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc",
+    "hp": "4.5 CV",
+    "class": "junior"
+   },
+   {
+    "chassis": "Baby Kart",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/187360772",
+  "name": "Kart Sensation",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kart-quad-sensations.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "Honda 160cc",
+    "hp": "4.5",
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodikart SR5",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "GT"
+   },
+   {
+    "chassis": "Sodikart SR5",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "Sprint"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/844535569",
+  "name": "Kart track at Croix-en-Ternois",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.circuitdecroix.com/"
+  ],
+  "needs": [
+   "prices",
+   "karts",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/10871381994",
+  "name": "Kart'Up Vitrolles",
+  "country": "FR",
+  "type": "indoor",
+  "websites": [
+   "https://www.kartup-vitrolles.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR6",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/207905346",
+  "name": "Kart-Circuit des Renardières",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.facebook.com/profile.php?id=61575141148355"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi GT4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi GT4",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Fun Kid",
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/706242692",
+  "name": "Karting Arena 45 (Circuit de Valence)",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.arena45.fr/",
+   "http://www.kartingvalence.com/"
+  ],
+  "needs": [
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "390cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "2-stroke",
+    "hp": null,
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/189887727",
+  "name": "Karting Bocaspeed",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://bocaspeed.fr/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270cc 4-stroke bio-ethanol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc 4-stroke bio-ethanol",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi Bi Place",
+    "engine": "bio-ethanol",
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi Sport",
+    "engine": "Rotax 125cc 2-stroke",
+    "hp": "24 cv",
+    "class": "race"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/675701556",
+  "name": "Karting Center Tours",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://karting-center-tours.fr/"
+  ],
+  "needs": [
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/242948675",
+  "name": "Karting Circuit Paul Ricard",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartingcircuitpaulricard.com/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi SR5 Loisir",
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/11066847282",
+  "name": "Karting City Périgord",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kartingcityperigord.fr/",
+   "https://univerland.eu",
+   "https://www.facebook.com/Kartingcity"
+  ],
+  "needs": [
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/290720400",
+  "name": "Karting Côte Basque",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.karting-cotebasque.com"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Adult kart",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Junior kart",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/192260020",
+  "name": "Karting Dijon-Prenois",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.circuit-dijon-prenois.com/karting/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi LR5",
+    "engine": "160cc 4-stroke",
+    "hp": "5",
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi RX7",
+    "engine": "390cc 4-stroke",
+    "hp": "15",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Duo Drive",
+    "engine": "390cc 4-stroke",
+    "hp": "15",
+    "class": "twin"
+   },
+   {
+    "chassis": "PMR kart (steering-wheel controls)",
+    "engine": null,
+    "hp": null,
+    "class": "other"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/196085614",
+  "name": "Karting Distrakart",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "http://www.distrakart.fr"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Alpha",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Comer",
+    "engine": "Comer 60cc",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/26365237",
+  "name": "Karting Elceka",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kartingelceka.fr"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "4-stroke",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "IAME KA100 2-stroke",
+    "hp": null,
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/13105619745",
+  "name": "Karting Family Fun Park",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.family-fun-park-meschers.com/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "electric"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Mini kart",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/10743412563",
+  "name": "Karting Hirson (Pit-Bike Factory)",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartinghirson.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi",
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/221575189",
+  "name": "Karting Loisirs Monteux",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kartingdemonteux.fr/"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200cc",
+    "hp": null,
+    "class": "other"
+   },
+   {
+    "chassis": null,
+    "engine": "120cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "node/12584616596",
+  "name": "Karting Manosque",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartingmanosque.fr/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT8",
+    "engine": "270cc",
+    "hp": "9 CV",
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi Fun Kart",
+    "engine": "120cc-160cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi Biplace",
+    "engine": "Honda 270cc 4-stroke",
+    "hp": "9 CV",
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi Kart Competition",
+    "engine": "Rotax 125 2-stroke",
+    "hp": "28 CV",
+    "class": "race"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/158604014",
+  "name": "Karting Montalivet",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "http://www.karting-montalivet.com/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "node/13458676482",
+  "name": "Karting PaintBall 14 (KPB14)",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.karting-paintball14.fr/",
+   "https://www.facebook.com/p/Karting-Paintball-14-61561339271231/"
+  ],
+  "needs": [
+   "tracks",
+   "layout_page"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi Funkid",
+    "engine": "120cc",
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/1003748937",
+  "name": "Karting de Beauvais",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kartingdebeauvais.fr/"
+  ],
+  "needs": [
+   "prices",
+   "tracks",
+   "ages"
+  ],
+  "known_fleet": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/328170185",
+  "name": "Karting de Bergerac",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.bergerac-karting.com/"
+  ],
+  "needs": [
+   "karts"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ },
+ {
+  "id": "way/324728989",
+  "name": "Karting de Kerlabo",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://kerlabo-kart.com/"
+  ],
+  "needs": [
+   "tracks"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "270cc 4-stroke",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR6",
+    "engine": null,
+    "hp": null,
+    "class": "junior"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Birel ART E-Kart",
+    "engine": "electric",
+    "hp": "17 CV (12 kW) or 24 CV (18 kW)",
+    "class": "electric"
+   },
+   {
+    "chassis": "Sodi Kid Racer",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/233032193",
+  "name": "Karting de Loudun",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.loudun-karting.com/",
+   "https://www.facebook.com/kartingdeloudun"
+  ],
+  "needs": [
+   "hours"
+  ],
+  "known_fleet": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": "bioethanol",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi Sport",
+    "engine": "2-stroke",
+    "hp": "22",
+    "class": null
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "bioethanol",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "last_price_attempt": null
+ },
+ {
+  "id": "way/123559878",
+  "name": "Karting de Muret",
+  "country": "FR",
+  "type": "outdoor",
+  "websites": [
+   "https://www.kartingmuret.fr"
+  ],
+  "needs": [
+   "karts",
+   "hours",
+   "ages"
+  ],
+  "known_fleet": [],
+  "last_price_attempt": "2026-10-10"
+ }
+]

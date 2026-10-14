@@ -29,7 +29,7 @@ OVR = json.load(open(base + '/overrides.json', encoding='utf-8'))
 # KART_SKIP=W08,W09 leaves unreviewed or in-progress research batches out of a release build
 SKIP = {b.strip() + '.json' for b in os.environ.get('KART_SKIP', '').split(',') if b.strip()}
 res = {}
-for f in sorted(glob.glob(base + '/research/out/*.json'), key=lambda f: ('_user' in os.path.basename(f), os.path.basename(f)[0] in 'REW', f)):  # user-confirmed facts win
+for f in sorted(glob.glob(base + '/research/out/*.json'), key=lambda f: ('_user' in os.path.basename(f), os.path.basename(f)[0] in 'REWG', f)):  # user-confirmed facts win
     if os.path.basename(f) in SKIP: continue
     if os.path.basename(f)[0] in 'LP': continue  # length / price files, handled below
     try:
@@ -85,7 +85,7 @@ for t in tracks:
     t['ws'] = ws or None
 # official layouts and lengths from venue websites (research/out/L*.json)
 lens = {}
-for f in sorted(glob.glob(base + '/research/out/L*.json')) + sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')):
+for f in sorted(glob.glob(base + '/research/out/L*.json')) + sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')) + sorted(glob.glob(base + '/research/out/G*.json')):
     if os.path.basename(f) in SKIP: continue
     try:
         for r in json.load(open(f, encoding='utf-8')):
@@ -119,7 +119,7 @@ except Exception as e:
     print('ECB fetch failed, using cached rates:', e)
     rates = json.load(open(RATES_FILE)) if os.path.exists(RATES_FILE) else {'date': None, 'EUR': 1.0}
 prices, attempts = {}, {}
-for f in sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')):
+for f in sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')) + sorted(glob.glob(base + '/research/out/G*.json')):
     if os.path.basename(f) in SKIP: continue
     try:
         for r in json.load(open(f, encoding='utf-8')):
