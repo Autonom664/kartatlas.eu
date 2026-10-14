@@ -2,35 +2,36 @@
 
 ## Current status (14 October 2026)
 
-Finder-redesign release `7391da0` is live on
-https://kartatlas.michaelbinger.dk. The uploaded artefacts were the existing
-local build (`kart-atlas.html`, `kart-atlas.json`, `public/`, `assets/`,
-`.dockerignore` and `deploy/`) with no rebuild before deployment. Local
-`kart-atlas.html` SHA-256 matched the intended release exactly:
-`d7d33485023a23a3053df3952254c8b2a31a372a60d3fae2e2db764855722579`, and the
-published HTML at the live hostname matches the same hash.
+Trackmaps release `4fa5577` is live on https://kartatlas.michaelbinger.dk.
+Its history includes gap-fill release `50b878d`. The existing local release
+artefacts (`kart-atlas.html`, `kart-atlas.json`, `public/`, `assets/`,
+`.dockerignore` and `deploy/`) were uploaded without a local rebuild. The local
+HTML SHA-256 matched the requested value,
+`1e42ad2c998e3125615a3b834f1942048197cddad72da32890127b5970220863`, and the
+published HTML matches it.
 
-Deployment followed the existing OVH Docker procedure: backup first, then
-upload/extract into `/home/ubuntu/kart-atlas-deploy`, then rebuild/recreate
-only the `kart-atlas` Compose project. Rollback for this release is
-`backups/before-finder-redesign-20261014/source.tar.gz` plus image
-`kart-atlas:before-finder-redesign-20261014`. Other server containers were not
-touched; container IDs for `co2-map`, `app-*` and `vandeltracking-*` stayed
-unchanged. The host TLS vhost and deferred `.eu` activation remain untouched.
+Deployment followed the OVH Docker procedure: source backup and image tag
+first, then upload/extract into `/home/ubuntu/kart-atlas-deploy`, then
+rebuild/recreate only the `kart-atlas` Compose project. Rollback for this
+release is `backups/before-trackmaps-20261014/source.tar.gz` plus image
+`kart-atlas:before-trackmaps-20261014`. Other server containers were not
+touched; the host TLS vhost and deferred `.eu` configuration remain
+untouched.
 
-Verification on the live site passed: `Cache-Control: no-cache` and CSP headers
-are present, `npm run health` passed, and all eleven Playwright browser tests
-passed against `https://kartatlas.michaelbinger.dk`. Spot-checks also passed:
-Pista Winner (`way/444163257`) shows the Karts-tab KZ 6-speed 45 hp rental
-kart and a Track-tab schematic layout diagram, and Vandel Gokart
-(`way/356759825`) shows a Track-tab diagram too. TLS had 85 days remaining at
-release time.
+Live verification passed: `Cache-Control: no-cache` and CSP headers are
+present, `npm run health` passed, and all eleven Playwright browser tests
+passed against the live site. Powerarea Vaals (`way/274259545`) shows a
+schematic Track-tab diagram credited to powerarea.nl. Pista Azzurra Jesolo
+(`way/130350436`) shows its OpenStreetMap layout in the Track tab. The
+“Only with layout” count increased from 751 before deployment to 817 after.
+TLS had 84 days remaining at verification.
 
-Windows-created tar archives can still restore nested `public/` and `assets/`
-directories read-only on Linux. Before retrying extraction after a partial
-extract, restore write access only inside those task-owned directories; using
-tar's delayed directory restore / no-same-permissions behavior avoids the
-nested permission-denied failures. Earlier rollback archives remain preserved:
+Windows-created tar archives can restore nested `public/` and `assets/`
+directories read-only on Linux. Before extraction, make the existing
+task-owned directories owner-writable; use tar's delayed directory restore
+and no-same-permissions behavior, then make extracted directories
+owner-writable too. Earlier rollback archives remain preserved:
+`before-trackmaps-20261014`, `before-finder-redesign-20261014`,
 `before-country-discovery-20261009`, `before-pista-winner-20261009`,
 `before-venue-pages-20261009`, `before-accessibility-20261009`,
 `before-planning-20261009` and `before-discovery-20261009`.
