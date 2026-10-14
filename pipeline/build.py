@@ -1,7 +1,7 @@
 # One-step rebuild: prep -> enrich -> inject into the page. usage: python -I build.py (run from pipeline/)
 import subprocess, sys, os, shutil
 here = os.path.dirname(os.path.abspath(__file__))
-CCS = ['DE', 'AT', 'IT', 'CH', 'LI', 'DK', 'SE', 'NL', 'BE', 'FR']
+CCS = ['DE', 'AT', 'IT', 'CH', 'LI', 'DK', 'SE', 'NL', 'BE', 'FR', 'LU', 'PL', 'CZ']
 py = sys.executable
 subprocess.run([py, '-I', os.path.join(here, 'prep.py'), here, *CCS], check=True)
 subprocess.run([py, '-I', os.path.join(here, 'enrich.py'), here], check=True)

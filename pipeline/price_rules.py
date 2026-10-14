@@ -10,7 +10,10 @@ PROMO = re.compile(
     r"\d+\s*(tickets|sessions|rides|heats)|\b(mon|tue|wed|thu|fri|mo|di|mi|do|fr|lun|mar|mer|jeu|ven)\b\s*[-–]"
 , re.I)
 PERFORMANCE = re.compile(r"\b(2\s*t|2\s*temps|2.?stroke|race\s*kart|rotax|125\s*cc)\b", re.I)
-CHILD = re.compile(r"baby|kid|kinder|enfant|junior|jugend|bambin|mini|child|barn|børn", re.I)
+CHILD = re.compile(r"baby|kid|kinder|enfant|junior|jugend|bambin|mini|child|barn|børn|dzieci|dziec|dětsk|dětí", re.I)
+# track time with the driver's own kart or exclusive track hire: not a rental-kart price
+OWN_KART = re.compile(r"own (kart|equipment|vehicle)|track (hire|rental)|private kart|eigene[nmrs]? kart|bahnmiete|"
+                      r"location (de )?(la )?piste|noleggio (della )?pista|kart (di )?propriet|własn|vlastní|banleje|banhyra", re.I)
 
 
 def comparison_eligible(offer: dict) -> bool:
@@ -22,6 +25,7 @@ def comparison_eligible(offer: dict) -> bool:
         or offer.get("type", "session") not in ("session", "per_minute", "laps")
         or CHILD.search(label)
         or PERFORMANCE.search(label)
+        or OWN_KART.search(label)
     ):
         return False
     explicit = offer.get("comparison_eligible")

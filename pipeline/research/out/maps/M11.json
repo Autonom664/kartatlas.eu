@@ -1,0 +1,114 @@
+[
+ {
+  "id": "node/9045475232",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "silverhotel.pl has only photos and logos; WP media search (tor, mapa) and the track regulations PDF (small icons only) contain no track plan"
+ },
+ {
+  "id": "way/1155416602",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ },
+ {
+  "id": "way/46237687",
+  "layout_page": "https://kartodrom.bydgoszcz.pl/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartodrom.bydgoszcz.pl/wp-content/uploads/2025/05/opis-toru-Kartodrom-Bydgoszcz.webp",
+    "kind": "aerial_photo",
+    "used": false,
+    "why": "drone photo straight down, not a drawn outline"
+   },
+   {
+    "url": "https://kartodrom.bydgoszcz.pl/wp-content/uploads/2025/05/Kartodrom-tor.webp",
+    "kind": "aerial_photo",
+    "used": false,
+    "why": "drone photo"
+   },
+   {
+    "url": "https://www.kartgoobydgoszcz.pl/images/tor-z-lotu-ptaka.webp",
+    "kind": "aerial_photo",
+    "used": false,
+    "why": "oblique drone photo (rental operator site)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only drone photos of the track on the owner and rental sites; no drawn plan. The track is clearly visible in them, so OSM geometry could be checked against them"
+ },
+ {
+  "id": "way/867476105",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ },
+ {
+  "id": "node/11081505298",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ },
+ {
+  "id": "node/11107269281",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://m3racing.pl/wp-content/uploads/2015/07/tor.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "top-down drawing of track edges with grey infields and a start flag, titled 'tor' in the site media library but not used on any current page. Its provenance and currency are unclear (2015 upload folder). The trace (outside filled, --light) covered the corridor but came out open: a parallel lane along the top divider creates a branch/junction, so the circuit is ambiguous. Rejected."
+   },
+   {
+    "url": "https://m3racing.pl/wp-content/uploads/2018/09/M3Racing-Track.png",
+    "kind": "outline",
+    "used": false,
+    "why": "listed in WP media JSON as 'M3Racing-Track' but the file and all resized versions return 404; no Wayback copy"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no usable track plan; a 'M3Racing-Track' image existed in the media library but has been deleted"
+ },
+ {
+  "id": "relation/19020303",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ },
+ {
+  "id": "node/12836334870",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ },
+ {
+  "id": "way/130406933",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "zygzak-karting.pl: WP media search (tor, uklad, mapa, konfiguracja, schemat, plan) only returned Facebook icon SVGs; no track plan. Two-level track, so a 2D plan would be ambiguous anyway"
+ },
+ {
+  "id": "way/1162491249",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no online presence found"
+ }
+]

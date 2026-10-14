@@ -1,0 +1,29 @@
+[
+ {
+  "id": "way/752734871",
+  "name": "Pit Lane",
+  "town": "Luxembourg",
+  "country": "LU",
+  "lat": 49.58094,
+  "lon": 6.1298,
+  "known_website": null
+ },
+ {
+  "id": "way/460847946",
+  "name": "Karting Mondercange",
+  "town": "Mondercange",
+  "country": "LU",
+  "lat": 49.54676,
+  "lon": 5.97559,
+  "known_website": null
+ },
+ {
+  "id": "way/433818623",
+  "name": "Minicars",
+  "town": "Bettembourg",
+  "country": "LU",
+  "lat": 49.51128,
+  "lon": 6.11947,
+  "known_website": null
+ }
+]

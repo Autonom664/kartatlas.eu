@@ -418,7 +418,7 @@ let k = 1;
 const covered = countries.features.filter(f => CCID[f.id]);
 g.append("g").selectAll("path").data(countries.features)
   .join("path").attr("class", d => "country" + (CCID[d.id] ? " on" : ""));
-const labels = g.append("g").selectAll("text").data(covered.filter(d => CCID[d.id] !== "LI")).join("text").attr("class", "clabel").text(d => COUNTRIES[CCID[d.id]].name);
+const labels = g.append("g").selectAll("text").data(covered.filter(d => !["LI", "LU"].includes(CCID[d.id]))).join("text").attr("class", "clabel").text(d => COUNTRIES[CCID[d.id]].name);
 const dotsG = g.append("g");
 
 function layout() {

@@ -1,0 +1,122 @@
+[
+ {
+  "id": "node/9045475232",
+  "name": "Silver Gokart Center",
+  "town": "gmina Kołbaskowo",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.38993,
+  "lon": 14.49877,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1155416602",
+  "name": "Tor Kartingowy",
+  "town": "Fasty",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.16165,
+  "lon": 23.0675,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/46237687",
+  "name": "Tor kartingowy - Kartodrom",
+  "town": "Bydgoszcz",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.11994,
+  "lon": 18.06515,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/867476105",
+  "name": null,
+  "town": "Warszawa",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.19414,
+  "lon": 20.87502,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11081505298",
+  "name": "Top Kart Arena",
+  "town": "Piaseczno",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.08615,
+  "lon": 21.02721,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11107269281",
+  "name": "Tor Kartingowy M3Racing",
+  "town": "Świdnica",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.83485,
+  "lon": 16.50085,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "relation/19020303",
+  "name": null,
+  "town": "Rudnik nad Sanem",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.43811,
+  "lon": 22.2533,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12836334870",
+  "name": "Twister Mini Kart",
+  "town": "Inwałd",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.86922,
+  "lon": 19.41058,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/130406933",
+  "name": "Tor kartingowy ZygZak Karting",
+  "town": "Bielsko-Biała",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 49.82704,
+  "lon": 19.05622,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1162491249",
+  "name": null,
+  "town": "Tylicz",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.39893,
+  "lon": 21.02776,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ }
+]

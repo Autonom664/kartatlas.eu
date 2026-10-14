@@ -1,0 +1,215 @@
+[
+ {
+  "website": "https://www.gokartywroclaw.pl/",
+  "phone": "+48 789 000 388",
+  "email": "kontakt@gokartywroclaw.pl",
+  "hours": "Daily 10:00-22:00",
+  "type": "indoor",
+  "rental": true,
+  "own_karts": false,
+  "karts": [
+   {
+    "chassis": "RSX",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult 14+"
+   },
+   {
+    "chassis": "LRX",
+    "engine": "electric",
+    "hp": null,
+    "class": "junior 7+ (min 130 cm)"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "kids 3-6 (separate track)"
+   }
+  ],
+  "ages": {
+   "adult_min": 14,
+   "junior_min": 7,
+   "junior_min_height_cm": 130,
+   "kids": "3-6 (separate track, alone or with guardian)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Gokarty dla dorosłych 14+ RSX",
+    "class": "adult",
+    "type": "rental",
+    "minutes": 8,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "79 zł when bought online; 178 zł also shown (apparently crossed out)"
+   },
+   {
+    "label": "Gokarty dla dorosłych 14+ RSX (online)",
+    "class": "adult",
+    "type": "rental",
+    "minutes": 8,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "przy zakupie online"
+   },
+   {
+    "label": "Gokarty dla dorosłych 14+ RSX 2 x 8 min",
+    "class": "adult",
+    "type": "rental",
+    "minutes": 16,
+    "laps": null,
+    "price": 149,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 14,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min; 178 zł also shown (apparently crossed out)"
+   },
+   {
+    "label": "Gokart juniorski LRX",
+    "class": "junior",
+    "type": "rental",
+    "minutes": 8,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "groups 1-6"
+   },
+   {
+    "label": "Gokart juniorski LRX 2 x 8 min",
+    "class": "junior",
+    "type": "rental",
+    "minutes": 16,
+    "laps": null,
+    "price": 149,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 7,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "2 x 8 min"
+   },
+   {
+    "label": "Gokart 3-6 lat",
+    "class": "kids",
+    "type": "rental",
+    "minutes": 5,
+    "laps": null,
+    "price": 30,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": 3,
+    "max_age": 6,
+    "min_height_cm": null,
+    "day": null,
+    "note": "separate track; purchase only at trackside reception"
+   },
+   {
+    "label": "Karnet 5 x 8 min",
+    "class": "adult/junior",
+    "type": "pass",
+    "minutes": 40,
+    "laps": null,
+    "price": 345,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "RSX/LRX, valid 1 year, one person, in person only"
+   },
+   {
+    "label": "Karnet 10 x 8 min",
+    "class": "adult/junior",
+    "type": "pass",
+    "minutes": 80,
+    "laps": null,
+    "price": 590,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "RSX/LRX, valid 1 year, one person, in person only"
+   },
+   {
+    "label": "Karnet 20 x 8 min",
+    "class": "adult/junior",
+    "type": "pass",
+    "minutes": 160,
+    "laps": null,
+    "price": 980,
+    "currency": "PLN",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "RSX/LRX, valid 1 year, one person, in person only"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.gokartywroclaw.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Pitlane",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental electric karts"
+   },
+   {
+    "name": "Kid Racer track",
+    "length_m": null,
+    "width_m": null,
+    "use": "kids 3-6"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokartywroclaw.pl/",
+   "https://www.gokartywroclaw.pl/cennik/",
+   "https://www.westfield.com/pl/poland/wroclavia/sklepy/pitlane-tor-gokartowy/78205",
+   "https://www.wroclaw.pl/dla-mieszkanca/tor-kartingowy-gokarty-elektryczne-wroclaw"
+  ],
+  "checked_at": "2026-10-14",
+  "id": "way/526922862",
+  "name": null,
+  "status": "open",
+  "note": "Added by discovery D02 (2026-10-14); data from the operator site gokartywroclaw.pl."
+ }
+]

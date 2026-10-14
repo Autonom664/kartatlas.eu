@@ -1,0 +1,2258 @@
+[
+ {
+  "id": "node/4968398122",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.cmkarting.cz/cz/trat",
+    "kind": "photo",
+    "used": false,
+    "why": "track page has only photos (DSC* gallery), no plan"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Indoor multi-level 690 m track in a former factory hall (Zličín); no track map found on site or web."
+ },
+ {
+  "id": "way/421326635",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.motokary-brno.cz/images/sablona/motokary/moto_draha_01.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of indoor track (moto_draha_01-03 all photos)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Indoor 320 m track on the roof floor of the BVV Expoparking garage; no track map found."
+ },
+ {
+  "id": "node/11181570558",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.motokary-olomouc.cz/images/Dráha-motokáry-101.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "Dráha-motokáry-* images are photos of the track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Two-level 240 m track in a parking garage (11th floor); no track map found."
+ },
+ {
+  "id": "way/304341132",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Only a Facebook page; web search found no track map."
+ },
+ {
+  "id": "way/242996795",
+  "layout_page": "https://pragaarena.cz/cz/trate/",
+  "layout_diagram": {
+   "points": [
+    [
+     270.5,
+     807.8
+    ],
+    [
+     226.4,
+     808.0
+    ],
+    [
+     182.3,
+     808.0
+    ],
+    [
+     138.2,
+     808.0
+    ],
+    [
+     96.7,
+     796.3
+    ],
+    [
+     78.0,
+     757.8
+    ],
+    [
+     79.0,
+     714.0
+    ],
+    [
+     102.3,
+     678.6
+    ],
+    [
+     144.9,
+     671.7
+    ],
+    [
+     186.6,
+     684.2
+    ],
+    [
+     218.1,
+     714.5
+    ],
+    [
+     255.5,
+     737.0
+    ],
+    [
+     299.4,
+     738.9
+    ],
+    [
+     338.8,
+     722.6
+    ],
+    [
+     353.0,
+     682.1
+    ],
+    [
+     349.8,
+     638.4
+    ],
+    [
+     322.0,
+     606.3
+    ],
+    [
+     278.6,
+     601.0
+    ],
+    [
+     236.4,
+     591.6
+    ],
+    [
+     216.2,
+     554.2
+    ],
+    [
+     214.0,
+     510.3
+    ],
+    [
+     199.3,
+     471.5
+    ],
+    [
+     157.0,
+     474.3
+    ],
+    [
+     147.0,
+     516.7
+    ],
+    [
+     143.8,
+     560.5
+    ],
+    [
+     119.7,
+     591.2
+    ],
+    [
+     83.5,
+     576.1
+    ],
+    [
+     77.0,
+     532.6
+    ],
+    [
+     77.0,
+     488.5
+    ],
+    [
+     80.4,
+     444.8
+    ],
+    [
+     105.1,
+     409.4
+    ],
+    [
+     145.9,
+     395.0
+    ],
+    [
+     190.0,
+     395.0
+    ],
+    [
+     233.8,
+     397.5
+    ],
+    [
+     269.5,
+     422.1
+    ],
+    [
+     283.0,
+     463.0
+    ],
+    [
+     283.7,
+     507.0
+    ],
+    [
+     310.7,
+     532.7
+    ],
+    [
+     350.5,
+     522.2
+    ],
+    [
+     353.0,
+     478.4
+    ],
+    [
+     353.0,
+     434.3
+    ],
+    [
+     352.6,
+     390.2
+    ],
+    [
+     335.8,
+     350.3
+    ],
+    [
+     298.8,
+     328.2
+    ],
+    [
+     254.9,
+     326.0
+    ],
+    [
+     210.8,
+     326.0
+    ],
+    [
+     166.7,
+     326.0
+    ],
+    [
+     122.6,
+     324.9
+    ],
+    [
+     84.4,
+     309.3
+    ],
+    [
+     88.4,
+     267.5
+    ],
+    [
+     131.0,
+     257.9
+    ],
+    [
+     175.0,
+     257.0
+    ],
+    [
+     219.1,
+     257.0
+    ],
+    [
+     263.2,
+     257.0
+    ],
+    [
+     307.3,
+     257.0
+    ],
+    [
+     351.4,
+     257.0
+    ],
+    [
+     395.4,
+     258.6
+    ],
+    [
+     431.4,
+     281.3
+    ],
+    [
+     439.0,
+     324.0
+    ],
+    [
+     444.7,
+     367.6
+    ],
+    [
+     478.4,
+     387.2
+    ],
+    [
+     505.4,
+     359.5
+    ],
+    [
+     508.6,
+     315.8
+    ],
+    [
+     521.9,
+     274.9
+    ],
+    [
+     561.0,
+     258.0
+    ],
+    [
+     605.1,
+     257.0
+    ],
+    [
+     649.2,
+     257.0
+    ],
+    [
+     691.6,
+     266.3
+    ],
+    [
+     713.9,
+     302.5
+    ],
+    [
+     715.0,
+     346.5
+    ],
+    [
+     715.0,
+     390.6
+    ],
+    [
+     715.0,
+     434.7
+    ],
+    [
+     714.0,
+     478.7
+    ],
+    [
+     701.7,
+     519.7
+    ],
+    [
+     659.0,
+     519.5
+    ],
+    [
+     647.0,
+     478.3
+    ],
+    [
+     646.0,
+     434.3
+    ],
+    [
+     646.0,
+     390.2
+    ],
+    [
+     645.6,
+     346.1
+    ],
+    [
+     613.0,
+     327.0
+    ],
+    [
+     578.5,
+     343.7
+    ],
+    [
+     577.0,
+     387.7
+    ],
+    [
+     577.0,
+     431.8
+    ],
+    [
+     577.0,
+     475.9
+    ],
+    [
+     569.4,
+     519.1
+    ],
+    [
+     528.7,
+     526.2
+    ],
+    [
+     505.8,
+     491.9
+    ],
+    [
+     474.4,
+     468.0
+    ],
+    [
+     443.9,
+     492.2
+    ],
+    [
+     439.0,
+     535.9
+    ],
+    [
+     439.0,
+     580.0
+    ],
+    [
+     440.6,
+     623.9
+    ],
+    [
+     461.7,
+     660.8
+    ],
+    [
+     504.1,
+     670.0
+    ],
+    [
+     547.2,
+     664.3
+    ],
+    [
+     582.3,
+     638.3
+    ],
+    [
+     615.3,
+     609.9
+    ],
+    [
+     658.3,
+     601.7
+    ],
+    [
+     698.7,
+     616.1
+    ],
+    [
+     714.7,
+     655.6
+    ],
+    [
+     713.2,
+     699.6
+    ],
+    [
+     702.5,
+     742.1
+    ],
+    [
+     669.5,
+     768.5
+    ],
+    [
+     626.6,
+     778.1
+    ],
+    [
+     582.5,
+     779.0
+    ],
+    [
+     539.4,
+     787.2
+    ],
+    [
+     496.9,
+     798.3
+    ],
+    [
+     453.5,
+     805.2
+    ],
+    [
+     409.6,
+     808.0
+    ],
+    [
+     365.5,
+     808.0
+    ]
+   ],
+   "closed": true,
+   "source": "https://files.pragaarena.cz/i1p88rrbtr06/trat1.png",
+   "source_page": "https://pragaarena.cz/cz/trate/",
+   "method": "raster",
+   "params": "flattened alpha onto grey 120, upscaled x3 (cv2 cubic); --light --open 2 --close 0",
+   "note": "Traced 'Trať 1 - Monza' (672 m), first of the variable indoor layouts listed (layout changes every ~3 months); open at the start/finish chequers.; closed after trimming 0 start / 0 end points (pit stub or gap)"
+  },
+  "candidates": [
+   {
+    "url": "https://files.pragaarena.cz/i1p88rrbtr06/trat1.png",
+    "kind": "outline",
+    "used": true,
+    "why": "official layout drawing Trať 1 Monza 672 m"
+   },
+   {
+    "url": "https://files.pragaarena.cz/pa69yzlb5w06/trat3.png",
+    "kind": "outline",
+    "used": false,
+    "why": "alternate layout (Silverstone 658 m)"
+   },
+   {
+    "url": "https://files.pragaarena.cz/q1w56jhcfz06/46329051_2091149107572983_1645444216395923456_n.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "Circuit de Catalunya 984 m incl. outdoor section; phone screenshot with yellow/white mixed fill, not traced"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Variable indoor layouts (changed every ~3 months), outdoor extension gives ~990 m; site shows three layout drawings."
+ },
+ {
+  "id": "node/3384106901",
+  "layout_page": "https://nitrokarting.pl/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://nitrokarting.pl/wp-content/uploads/2021/04/nitka.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique 3D render of the circuit (perspective), not traceable top-down"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Venue homepage shows a 3D perspective render of the layout ('nitka.png')."
+ },
+ {
+  "id": "way/216167772",
+  "layout_page": "https://gokarty.sosnowiec.pl/wp-content/uploads/2022/09/mapa-toru-AUTODROM.jpg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://gokarty.sosnowiec.pl/wp-content/uploads/2022/09/mapa-toru-AUTODROM.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "official 'Mapa toru' drawing but in oblique perspective view (foreshortened); track is a solid black area with thin white separators, not a clean top-down outline"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Official perspective track map (Mapa toru Autodrom Sosnowiec) with direction arrows, timing line and pit exit."
+ },
+ {
+  "id": "way/198291405",
+  "layout_page": "https://racingpark.pl/chrzanow/uklad-toru/",
+  "layout_diagram": {
+   "points": [
+    [
+     104.5,
+     42.0
+    ],
+    [
+     135.8,
+     42.0
+    ],
+    [
+     167.1,
+     42.0
+    ],
+    [
+     198.4,
+     42.0
+    ],
+    [
+     229.6,
+     42.0
+    ],
+    [
+     260.9,
+     42.0
+    ],
+    [
+     292.2,
+     42.0
+    ],
+    [
+     323.5,
+     42.0
+    ],
+    [
+     354.7,
+     43.0
+    ],
+    [
+     385.7,
+     46.2
+    ],
+    [
+     411.2,
+     61.1
+    ],
+    [
+     417.5,
+     91.6
+    ],
+    [
+     419.0,
+     122.8
+    ],
+    [
+     419.0,
+     154.1
+    ],
+    [
+     422.9,
+     185.0
+    ],
+    [
+     441.0,
+     206.6
+    ],
+    [
+     471.2,
+     204.5
+    ],
+    [
+     481.7,
+     176.1
+    ],
+    [
+     484.0,
+     144.9
+    ],
+    [
+     484.0,
+     113.7
+    ],
+    [
+     485.0,
+     82.4
+    ],
+    [
+     491.6,
+     52.0
+    ],
+    [
+     519.9,
+     43.1
+    ],
+    [
+     543.0,
+     59.7
+    ],
+    [
+     548.2,
+     90.4
+    ],
+    [
+     549.0,
+     121.6
+    ],
+    [
+     550.0,
+     152.9
+    ],
+    [
+     553.8,
+     183.8
+    ],
+    [
+     570.8,
+     207.5
+    ],
+    [
+     601.5,
+     212.9
+    ],
+    [
+     632.7,
+     214.0
+    ],
+    [
+     664.0,
+     214.0
+    ],
+    [
+     695.3,
+     214.0
+    ],
+    [
+     726.6,
+     214.0
+    ],
+    [
+     757.6,
+     211.1
+    ],
+    [
+     782.5,
+     196.6
+    ],
+    [
+     788.0,
+     165.9
+    ],
+    [
+     781.9,
+     135.3
+    ],
+    [
+     755.9,
+     121.3
+    ],
+    [
+     724.9,
+     118.0
+    ],
+    [
+     693.6,
+     118.0
+    ],
+    [
+     662.4,
+     115.9
+    ],
+    [
+     633.5,
+     106.3
+    ],
+    [
+     630.6,
+     76.1
+    ],
+    [
+     652.0,
+     57.6
+    ],
+    [
+     683.0,
+     53.7
+    ],
+    [
+     714.2,
+     53.0
+    ],
+    [
+     745.5,
+     53.0
+    ],
+    [
+     776.8,
+     53.0
+    ],
+    [
+     808.0,
+     54.1
+    ],
+    [
+     838.7,
+     59.5
+    ],
+    [
+     857.2,
+     82.0
+    ],
+    [
+     861.4,
+     113.0
+    ],
+    [
+     862.0,
+     144.2
+    ],
+    [
+     862.0,
+     175.5
+    ],
+    [
+     862.0,
+     206.8
+    ],
+    [
+     861.0,
+     238.0
+    ],
+    [
+     856.4,
+     268.9
+    ],
+    [
+     835.4,
+     288.7
+    ],
+    [
+     804.5,
+     293.4
+    ],
+    [
+     773.3,
+     294.0
+    ],
+    [
+     742.0,
+     294.0
+    ],
+    [
+     710.7,
+     294.0
+    ],
+    [
+     679.4,
+     294.0
+    ],
+    [
+     648.1,
+     294.0
+    ],
+    [
+     616.9,
+     294.0
+    ],
+    [
+     585.6,
+     294.0
+    ],
+    [
+     554.3,
+     294.0
+    ],
+    [
+     523.0,
+     294.0
+    ],
+    [
+     491.7,
+     294.0
+    ],
+    [
+     460.4,
+     294.0
+    ],
+    [
+     429.1,
+     294.0
+    ],
+    [
+     398.0,
+     292.4
+    ],
+    [
+     367.4,
+     286.5
+    ],
+    [
+     348.2,
+     263.8
+    ],
+    [
+     343.1,
+     233.0
+    ],
+    [
+     342.0,
+     201.8
+    ],
+    [
+     339.4,
+     170.7
+    ],
+    [
+     330.0,
+     141.3
+    ],
+    [
+     300.6,
+     131.9
+    ],
+    [
+     269.6,
+     129.0
+    ],
+    [
+     238.3,
+     129.0
+    ],
+    [
+     207.0,
+     129.0
+    ],
+    [
+     175.7,
+     129.0
+    ],
+    [
+     144.6,
+     131.3
+    ],
+    [
+     115.0,
+     140.1
+    ],
+    [
+     108.5,
+     169.6
+    ],
+    [
+     128.4,
+     189.5
+    ],
+    [
+     159.3,
+     194.0
+    ],
+    [
+     190.6,
+     194.0
+    ],
+    [
+     221.8,
+     195.0
+    ],
+    [
+     252.6,
+     199.7
+    ],
+    [
+     272.7,
+     220.3
+    ],
+    [
+     274.3,
+     251.1
+    ],
+    [
+     261.2,
+     278.4
+    ],
+    [
+     231.4,
+     286.7
+    ],
+    [
+     200.2,
+     289.0
+    ],
+    [
+     169.0,
+     288.0
+    ],
+    [
+     137.7,
+     288.0
+    ],
+    [
+     106.4,
+     288.0
+    ],
+    [
+     75.4,
+     285.1
+    ],
+    [
+     47.1,
+     274.0
+    ],
+    [
+     38.9,
+     244.1
+    ],
+    [
+     37.0,
+     212.9
+    ],
+    [
+     37.0,
+     181.6
+    ],
+    [
+     37.0,
+     150.3
+    ],
+    [
+     37.0,
+     119.1
+    ],
+    [
+     38.4,
+     87.9
+    ],
+    [
+     45.9,
+     57.7
+    ],
+    [
+     73.5,
+     45.5
+    ]
+   ],
+   "closed": true,
+   "source": "https://racingpark.pl/wp-content/uploads/2026/08/Racing-Park-Chrzanow-mapa-toru.png",
+   "source_page": "https://racingpark.pl/chrzanow/",
+   "method": "raster",
+   "params": "flattened onto white, padded 20 px, blue centre dashes (44,154,212 tol 110) recoloured to track black; --dark --open 3",
+   "note": "Official simplified track line ('Uproszczona nitka toru'); full closed loop."
+  },
+  "candidates": [
+   {
+    "url": "https://racingpark.pl/wp-content/uploads/2026/08/Racing-Park-Chrzanow-mapa-toru.png",
+    "kind": "outline",
+    "used": true,
+    "why": "official top-down track ribbon"
+   },
+   {
+    "url": "https://racingpark.pl/wp-content/uploads/2026/07/Racing-Park-Chrzanow-mapa-toru.svg",
+    "kind": "outline",
+    "used": false,
+    "why": "SVG is a filled ribbon split into many fragments (longest path is a ribbon outline), raster PNG traced instead"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "way/340462059",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://gokarting.com.pl/wp-content/uploads/2019/05/tor1.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "all 'tor*' media items are hall photos"
+   },
+   {
+    "url": "https://gokarting.com.pl/wp-content/uploads/2026/08/Tor-Gokartowy-Krakow.webp",
+    "kind": "photo",
+    "used": false,
+    "why": "oblique photo of the indoor track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Indoor track; only photos on site, no drawn track map found."
+ },
+ {
+  "id": "node/12463495441",
+  "layout_page": "https://gokartextreme.pl/wp-content/uploads/2025/06/tor_10-2.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://gokartextreme.pl/wp-content/uploads/2025/06/tor_10-2.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "top-down plan of current layout 'tor 10', but the track is only delineated by rows of individual tyre symbols; the driving corridor is open background connected to infield/outside, so no clean line can be traced"
+   },
+   {
+    "url": "https://gokartextreme.pl/wp-content/uploads/2024/01/tor9.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "older layout (tor 9), same tyre-wall style"
+   },
+   {
+    "url": "https://gokartextreme.pl/wp-content/uploads/2023/02/tor8.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "older layout (tor 8), same tyre-wall style"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Venue publishes numbered tyre-wall layouts (tor 7-10, changed periodically); current is tor_10 on the homepage."
+ },
+ {
+  "id": "node/12081703669",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://files.clickweb.home.pl/b2/23/b223cbb2-2bfd-4121-ba8a-78f0938ab66f.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "homepage images are photos, sponsor logos and promo banners only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "ASY Arena Karting (ul. Legnicka 5): indoor tyre-wall track, configuration changed once a year; no track map published."
+ },
+ {
+  "id": "way/155151329",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.olsztyn.torkormoran.pl/files/2025-08/tor-asfaltowy.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the indoor track (tor asfaltowy page)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Indoor ~300 m asphalt loop, 12 corners; no track map found on site or web."
+ },
+ {
+  "id": "way/1272521465",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://poznan.lemans.pl/wp-content/uploads/2019/05/plantoru.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "2019 tyre-wall plan, predates the current 550 m asphalt hall with kerb barriers (2024 'o torze' page); also tyres and driving line share white colour"
+   },
+   {
+    "url": "https://poznan.lemans.pl/wp-content/uploads/2024/03/tor.webp",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the current indoor track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Current track: 550 m indoor, 60 m longest straight (o-torze page); only an outdated 2019 plan found."
+ },
+ {
+  "id": "node/13410245158",
+  "layout_page": "https://www.pole-position.pl/?page_id=387",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.pole-position.pl/wp-content/uploads/2023/02/konfiguracja-bemowo.png",
+    "kind": "outline",
+    "used": false,
+    "why": "official Bemowo configuration drawing, but corridors are drawn as a maze of single red wall lines with open ends and an apparent crossover/bridge; trace (--light --open 2 after flood-filling the outside) could not be verified to take the right branches, rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Venue shows the Bemowo track configuration drawing (2023) on its page."
+ },
+ {
+  "id": "way/1374849199",
+  "layout_page": "https://rcw.pl/specyfikacja-toru/124",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://rcw.pl/uploads/mapka.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "official 'Układ toru RCW18' plan, but the track is defined only by yellow/black tyre-wall lines with open ends (maze-like corridors, part inside a hall); no single traceable line"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Official top-down layout plan 'Układ toru RCW18' (tyre walls, pit stop, park maszyn)."
+ },
+ {
+  "id": "node/6334079729",
+  "layout_page": "https://racingpark.pl/wp-content/uploads/2026/07/racing-park-skawina-uklad-toru-mapa-toru.jpg",
+  "layout_diagram": {
+   "points": [
+    [
+     143.5,
+     64.0
+    ],
+    [
+     176.8,
+     64.0
+    ],
+    [
+     210.0,
+     64.0
+    ],
+    [
+     243.3,
+     64.0
+    ],
+    [
+     276.5,
+     65.0
+    ],
+    [
+     309.7,
+     65.2
+    ],
+    [
+     342.6,
+     69.8
+    ],
+    [
+     372.4,
+     82.9
+    ],
+    [
+     384.7,
+     113.1
+    ],
+    [
+     388.9,
+     146.0
+    ],
+    [
+     389.0,
+     179.3
+    ],
+    [
+     388.0,
+     212.5
+    ],
+    [
+     388.0,
+     245.7
+    ],
+    [
+     390.7,
+     278.8
+    ],
+    [
+     397.6,
+     311.2
+    ],
+    [
+     418.6,
+     336.0
+    ],
+    [
+     450.4,
+     344.9
+    ],
+    [
+     483.5,
+     348.0
+    ],
+    [
+     516.8,
+     348.0
+    ],
+    [
+     550.0,
+     348.0
+    ],
+    [
+     583.3,
+     348.0
+    ],
+    [
+     616.6,
+     348.0
+    ],
+    [
+     649.8,
+     348.0
+    ],
+    [
+     683.0,
+     346.1
+    ],
+    [
+     715.3,
+     339.3
+    ],
+    [
+     735.4,
+     315.1
+    ],
+    [
+     740.1,
+     282.3
+    ],
+    [
+     740.4,
+     249.1
+    ],
+    [
+     739.6,
+     215.9
+    ],
+    [
+     733.1,
+     183.4
+    ],
+    [
+     702.7,
+     172.7
+    ],
+    [
+     670.2,
+     178.5
+    ],
+    [
+     654.0,
+     206.5
+    ],
+    [
+     630.4,
+     225.5
+    ],
+    [
+     597.4,
+     229.0
+    ],
+    [
+     564.3,
+     226.0
+    ],
+    [
+     532.7,
+     216.7
+    ],
+    [
+     517.4,
+     188.5
+    ],
+    [
+     513.0,
+     155.6
+    ],
+    [
+     516.6,
+     122.6
+    ],
+    [
+     528.7,
+     92.0
+    ],
+    [
+     558.1,
+     78.0
+    ],
+    [
+     591.0,
+     74.0
+    ],
+    [
+     624.2,
+     73.0
+    ],
+    [
+     657.5,
+     73.0
+    ],
+    [
+     690.7,
+     73.0
+    ],
+    [
+     724.0,
+     73.0
+    ],
+    [
+     757.2,
+     74.0
+    ],
+    [
+     790.1,
+     78.6
+    ],
+    [
+     818.6,
+     93.8
+    ],
+    [
+     829.4,
+     124.8
+    ],
+    [
+     833.0,
+     157.8
+    ],
+    [
+     833.0,
+     191.1
+    ],
+    [
+     833.0,
+     224.3
+    ],
+    [
+     833.0,
+     257.6
+    ],
+    [
+     833.0,
+     290.9
+    ],
+    [
+     833.0,
+     324.1
+    ],
+    [
+     833.0,
+     357.4
+    ],
+    [
+     830.9,
+     390.5
+    ],
+    [
+     824.3,
+     423.0
+    ],
+    [
+     802.8,
+     447.0
+    ],
+    [
+     770.7,
+     455.2
+    ],
+    [
+     737.6,
+     458.0
+    ],
+    [
+     704.4,
+     458.0
+    ],
+    [
+     671.1,
+     458.0
+    ],
+    [
+     637.8,
+     458.0
+    ],
+    [
+     604.6,
+     458.0
+    ],
+    [
+     571.3,
+     458.0
+    ],
+    [
+     538.0,
+     458.0
+    ],
+    [
+     504.8,
+     458.0
+    ],
+    [
+     471.5,
+     458.0
+    ],
+    [
+     438.2,
+     458.0
+    ],
+    [
+     405.0,
+     458.0
+    ],
+    [
+     371.7,
+     458.0
+    ],
+    [
+     338.7,
+     454.2
+    ],
+    [
+     307.5,
+     443.6
+    ],
+    [
+     291.6,
+     415.5
+    ],
+    [
+     287.0,
+     382.6
+    ],
+    [
+     286.0,
+     349.4
+    ],
+    [
+     286.0,
+     316.2
+    ],
+    [
+     285.0,
+     283.0
+    ],
+    [
+     285.0,
+     249.7
+    ],
+    [
+     284.0,
+     216.5
+    ],
+    [
+     278.4,
+     183.8
+    ],
+    [
+     255.5,
+     162.1
+    ],
+    [
+     222.8,
+     158.0
+    ],
+    [
+     190.8,
+     166.1
+    ],
+    [
+     175.1,
+     193.8
+    ],
+    [
+     170.8,
+     226.7
+    ],
+    [
+     171.0,
+     259.9
+    ],
+    [
+     171.0,
+     293.1
+    ],
+    [
+     171.0,
+     326.4
+    ],
+    [
+     172.0,
+     359.6
+    ],
+    [
+     170.0,
+     392.7
+    ],
+    [
+     163.3,
+     425.1
+    ],
+    [
+     139.3,
+     445.8
+    ],
+    [
+     106.6,
+     450.1
+    ],
+    [
+     74.6,
+     442.0
+    ],
+    [
+     65.0,
+     410.9
+    ],
+    [
+     63.0,
+     377.8
+    ],
+    [
+     63.0,
+     344.5
+    ],
+    [
+     63.0,
+     311.3
+    ],
+    [
+     63.0,
+     278.0
+    ],
+    [
+     63.0,
+     244.7
+    ],
+    [
+     63.0,
+     211.5
+    ],
+    [
+     63.0,
+     178.2
+    ],
+    [
+     64.0,
+     145.0
+    ],
+    [
+     67.9,
+     112.0
+    ],
+    [
+     81.2,
+     82.4
+    ],
+    [
+     110.6,
+     68.4
+    ]
+   ],
+   "closed": true,
+   "source": "https://racingpark.pl/wp-content/uploads/2026/07/Racing-Park-Skawina-mapa-toru.svg",
+   "source_page": "https://racingpark.pl/skawina/",
+   "method": "raster",
+   "params": "SVG is a filled ribbon (outline path), so rendered to 900 px PNG on black with headless Chromium, padded 20 px black; --light --close 5 --open 3",
+   "note": "Official Skawina track map (skw-racingpark.pl redirects to racingpark.pl/skawina/); centre line follows the dashed middle line; closed loop. Matches the 'Uklad toru' plan with pit lane."
+  },
+  "candidates": [
+   {
+    "url": "https://racingpark.pl/wp-content/uploads/2026/07/Racing-Park-Skawina-mapa-toru.svg",
+    "kind": "outline",
+    "used": true,
+    "why": "official vector track ribbon"
+   },
+   {
+    "url": "https://racingpark.pl/wp-content/uploads/2026/07/Racing-Park-Skawina-mapa-toru-zolta.svg",
+    "kind": "outline",
+    "used": false,
+    "why": "same map in yellow"
+   },
+   {
+    "url": "https://racingpark.pl/wp-content/uploads/2026/07/racing-park-skawina-uklad-toru-mapa-toru.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "same layout as edge lines with pit lane and flag legend; used as confirmation"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/9067756270",
+  "layout_page": "https://wroclaw.lemans.pl/o-torze/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://wroclaw.lemans.pl/wp-content/uploads/2023/11/mapa-bez-tla.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "official 'Plan toru' (900 m) but a 3D render with raised kerbs; 3 trace attempts (grey --color 148,147,154 tol 22/30, with close 3, and with start-straight grid lines repainted) either broke at the start straight, detoured into the pit area or cut the top-right hairpin; rejected"
+   },
+   {
+    "url": "https://wroclaw.lemans.pl/wp-content/uploads/2025/05/mapa.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "same plan in portrait format"
+   },
+   {
+    "url": "https://wroclaw.lemans.pl/wp-content/uploads/2023/11/Rzut-1-Wizualizacja-toru.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "same render without labels"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Official track plan: 900 m, longest straight 85 m, 8000 m2 (render on 'o torze' page)."
+ },
+ {
+  "id": "node/5888661145",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Website dsspeed.pl does not resolve (DNS); web search found no track map."
+ },
+ {
+  "id": "way/378900002",
+  "layout_page": "https://www.wallravracecenter.com/",
+  "layout_diagram": {
+   "points": [
+    [
+     728.5,
+     53.0
+    ],
+    [
+     752.0,
+     54.4
+    ],
+    [
+     774.0,
+     62.7
+    ],
+    [
+     792.5,
+     77.0
+    ],
+    [
+     804.8,
+     96.9
+    ],
+    [
+     809.3,
+     120.0
+    ],
+    [
+     807.2,
+     143.4
+    ],
+    [
+     797.8,
+     164.9
+    ],
+    [
+     782.2,
+     182.4
+    ],
+    [
+     761.4,
+     193.1
+    ],
+    [
+     738.1,
+     196.0
+    ],
+    [
+     714.9,
+     191.7
+    ],
+    [
+     692.1,
+     185.6
+    ],
+    [
+     669.2,
+     180.2
+    ],
+    [
+     646.0,
+     176.4
+    ],
+    [
+     622.6,
+     178.2
+    ],
+    [
+     599.4,
+     182.7
+    ],
+    [
+     576.3,
+     187.2
+    ],
+    [
+     553.2,
+     191.8
+    ],
+    [
+     531.9,
+     201.3
+    ],
+    [
+     522.7,
+     222.1
+    ],
+    [
+     530.1,
+     243.9
+    ],
+    [
+     551.9,
+     251.0
+    ],
+    [
+     575.4,
+     248.7
+    ],
+    [
+     598.5,
+     244.4
+    ],
+    [
+     621.7,
+     239.8
+    ],
+    [
+     645.0,
+     237.1
+    ],
+    [
+     668.0,
+     242.1
+    ],
+    [
+     686.7,
+     255.9
+    ],
+    [
+     694.8,
+     277.8
+    ],
+    [
+     693.4,
+     301.2
+    ],
+    [
+     682.0,
+     321.4
+    ],
+    [
+     661.6,
+     332.7
+    ],
+    [
+     639.0,
+     339.6
+    ],
+    [
+     616.3,
+     346.1
+    ],
+    [
+     593.7,
+     352.7
+    ],
+    [
+     571.0,
+     359.1
+    ],
+    [
+     548.3,
+     365.8
+    ],
+    [
+     525.7,
+     372.2
+    ],
+    [
+     503.0,
+     378.7
+    ],
+    [
+     479.9,
+     383.0
+    ],
+    [
+     456.8,
+     379.2
+    ],
+    [
+     439.1,
+     364.5
+    ],
+    [
+     432.6,
+     342.1
+    ],
+    [
+     434.3,
+     318.6
+    ],
+    [
+     435.6,
+     295.2
+    ],
+    [
+     427.0,
+     273.6
+    ],
+    [
+     407.6,
+     260.7
+    ],
+    [
+     384.3,
+     259.7
+    ],
+    [
+     362.6,
+     268.6
+    ],
+    [
+     344.1,
+     283.2
+    ],
+    [
+     326.8,
+     299.1
+    ],
+    [
+     309.3,
+     314.9
+    ],
+    [
+     291.8,
+     330.7
+    ],
+    [
+     274.2,
+     346.5
+    ],
+    [
+     256.7,
+     362.2
+    ],
+    [
+     239.2,
+     378.0
+    ],
+    [
+     219.5,
+     390.7
+    ],
+    [
+     196.6,
+     396.0
+    ],
+    [
+     173.1,
+     394.0
+    ],
+    [
+     151.7,
+     384.5
+    ],
+    [
+     135.3,
+     367.7
+    ],
+    [
+     124.0,
+     347.0
+    ],
+    [
+     112.6,
+     326.3
+    ],
+    [
+     101.2,
+     305.6
+    ],
+    [
+     89.7,
+     285.0
+    ],
+    [
+     79.3,
+     263.9
+    ],
+    [
+     77.3,
+     240.6
+    ],
+    [
+     86.0,
+     219.0
+    ],
+    [
+     104.5,
+     204.8
+    ],
+    [
+     126.0,
+     195.5
+    ],
+    [
+     147.6,
+     186.1
+    ],
+    [
+     169.3,
+     176.8
+    ],
+    [
+     190.9,
+     167.3
+    ],
+    [
+     212.5,
+     158.1
+    ],
+    [
+     235.7,
+     157.3
+    ],
+    [
+     249.8,
+     174.3
+    ],
+    [
+     247.1,
+     197.1
+    ],
+    [
+     227.8,
+     209.9
+    ],
+    [
+     206.0,
+     219.0
+    ],
+    [
+     184.2,
+     228.0
+    ],
+    [
+     164.6,
+     240.7
+    ],
+    [
+     156.9,
+     262.3
+    ],
+    [
+     162.7,
+     284.9
+    ],
+    [
+     178.5,
+     301.7
+    ],
+    [
+     201.6,
+     304.1
+    ],
+    [
+     223.0,
+     295.0
+    ],
+    [
+     241.4,
+     280.2
+    ],
+    [
+     259.4,
+     264.9
+    ],
+    [
+     277.5,
+     249.9
+    ],
+    [
+     295.5,
+     234.7
+    ],
+    [
+     313.7,
+     219.8
+    ],
+    [
+     333.4,
+     206.9
+    ],
+    [
+     354.7,
+     196.9
+    ],
+    [
+     376.5,
+     187.9
+    ],
+    [
+     398.4,
+     179.3
+    ],
+    [
+     420.4,
+     170.8
+    ],
+    [
+     442.3,
+     162.0
+    ],
+    [
+     464.2,
+     153.2
+    ],
+    [
+     486.2,
+     144.8
+    ],
+    [
+     508.1,
+     136.0
+    ],
+    [
+     530.1,
+     127.4
+    ],
+    [
+     552.0,
+     118.8
+    ],
+    [
+     573.9,
+     110.0
+    ],
+    [
+     596.0,
+     101.6
+    ],
+    [
+     617.8,
+     92.8
+    ],
+    [
+     639.7,
+     84.1
+    ],
+    [
+     661.7,
+     75.5
+    ],
+    [
+     683.7,
+     66.9
+    ],
+    [
+     705.6,
+     58.3
+    ]
+   ],
+   "closed": true,
+   "source": "https://wallravracecenter.com/wp-content/uploads/2025/03/tor_main.png",
+   "source_page": "https://www.wallravracecenter.com/",
+   "method": "raster",
+   "params": "alpha flattened onto black (drop shadow stays grey); --light --open 3",
+   "note": "White track ribbon graphic from the venue homepage (stylised, with drop shadow); full closed loop."
+  },
+  "candidates": [
+   {
+    "url": "https://wallravracecenter.com/wp-content/uploads/2025/03/tor_main.png",
+    "kind": "outline",
+    "used": true,
+    "why": "top-down white track ribbon on the venue homepage"
+   },
+   {
+    "url": "https://wallravracecenter.com/wp-content/uploads/2025/03/wallraw_tor.png",
+    "kind": "other",
+    "used": false,
+    "why": "'Poznaj nasz tor' promo tile with aerial photo, not a map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/11688436893",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://krakow.wrt-karting.pl/wp-content/uploads/2013/03/NOWA-KONFIRGURACJA-TORU-WRT-KARTING-KRAKOW-GOKARTY-EDYCJA-2013_n.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "2013 configuration (wall lines with open ends, outdated)"
+   },
+   {
+    "url": "http://krakow.wrt-karting.pl/wp-content/uploads/2010/04/NOWY-TOR_KRK1.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "2010 tyre-wall configuration, outdated; driving line not a single drawn line"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Only outdated layout configurations (2010, 2013) found in the site's media library."
+ },
+ {
+  "id": "node/11210902125",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Rakovník without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "way/1374250838",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Havířov without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "way/1021660390",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Chvalovice without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "way/209191545",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website; web search found only travel listings, no track map."
+ },
+ {
+  "id": "way/654470290",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Chojnice without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "way/643324411",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Bolesławiec without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "way/1127486983",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "Unnamed OSM raceway near Jałowe without website; nothing identifies the venue, skipped."
+ },
+ {
+  "id": "node/7716694252",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website; web search found only travel listings and race reports, no track map."
+ },
+ {
+  "id": "node/12108615161",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website (drift-cart venue in Osowa); web search found no track map."
+ },
+ {
+  "id": "way/1361546931",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website (Crazy Carts drift academy); skipped after search hits for the Gdańsk venue showed only listings."
+ },
+ {
+  "id": "node/11118813494",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website; web search found only travel listings, no track map."
+ },
+ {
+  "id": "node/11042993196",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "No website; web search found no track map (only listings)."
+ }
+]

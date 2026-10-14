@@ -2,15 +2,15 @@
 import json, re, math, sys, os
 base, ccs = sys.argv[1], sys.argv[2:]
 # ISO numeric ids in world-atlas, used to highlight covered countries and draw neighbours
-ISO = {'DE': '276', 'AT': '040', 'IT': '380', 'DK': '208', 'SE': '752', 'FR': '250', 'CH': '756', 'NL': '528', 'BE': '056', 'LI': '438'}
+ISO = {'DE': '276', 'AT': '040', 'IT': '380', 'DK': '208', 'SE': '752', 'FR': '250', 'CH': '756', 'NL': '528', 'BE': '056', 'LI': '438', 'LU': '442', 'PL': '616', 'CZ': '203'}
 NAMES = {'DE': 'Germany', 'AT': 'Austria', 'IT': 'Italy', 'DK': 'Denmark', 'SE': 'Sweden', 'FR': 'France',
-         'CH': 'Switzerland', 'NL': 'Netherlands', 'BE': 'Belgium', 'LI': 'Liechtenstein'}
+         'CH': 'Switzerland', 'NL': 'Netherlands', 'BE': 'Belgium', 'LI': 'Liechtenstein', 'LU': 'Luxembourg', 'PL': 'Poland', 'CZ': 'Czech Republic'}
 OTHER = re.compile(r'biathlon|shapeup|rc-cart|rcr\b|automodell|modellauto|modellismo|carrera|traktor|tret|kinderquad|skate-|rollende|knax|'
                    r'fahrtraining|spiel-preis|riedblick|sportpark weyersberg|hardtschachen|verkehrs|buggy|nano-kart|offroad kids|kinder|'
-                   r'jumicar|jugendcart|jugendkart|mini-lausitz|minicars|bambini|macchinine|bici kart|bike-kart|iscooter|minimoto|enfant|børne|barnbana|barn ?bil|trampbil|pedal|modelbil|radiocommand|rc ?track|rc-bane|rc-bana|rc-baan|mini-? ?auto|skelter|modelautoclub|bmx', re.I)
+                   r'jumicar|jugendcart|jugendkart|mini-lausitz|minicars|bambini|macchinine|bici kart|bike-kart|iscooter|minimoto|enfant|børne|barnbana|barn ?bil|trampbil|pedal|modelbil|radiocommand|rc ?track|rc-bane|rc-bana|rc-baan|mini-? ?auto|skelter|modelautoclub|bmx|dětsk|dopravn[ií] hřišt|miasteczko ruchu|dla dzieci|dziecię', re.I)
 INDOOR = re.compile(r'battle ?kart|teamsport|indoor|halle|hall\b|palast|karthaus|powerhall|sensadrom|cartion|kart-o-mania|eco-?kart|'
-                    r'kartland|e-karting|dome\b|holykart|palakart|dromokart|mokart', re.I)
-CLUB = re.compile(r'\b(e\. ?v\.|msc|amc|adac|kartclub|klubb?|gokartklub|motorklub|motorsportclub|motor sportclub|club|a\.?s\.?d\.?)\b', re.I)
+                    r'kartland|e-karting|dome\b|holykart|palakart|dromokart|mokart|\bhala\b|halowy|halov', re.I)
+CLUB = re.compile(r'\b(e\. ?v\.|msc|amc|adac|kartclub|klubb?|gokartklub|motorklub|motorsportclub|motor sportclub|club|a\.?s\.?d\.?|automobilklub|automotoklub|amk)\b', re.I)
 def hav(a, b, c, d):
     R = 6371; p = math.radians
     h = math.sin(p(c-a)/2)**2 + math.cos(p(a))*math.cos(p(c))*math.sin(p(d-b)/2)**2

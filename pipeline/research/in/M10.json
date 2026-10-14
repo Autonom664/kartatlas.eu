@@ -1,0 +1,426 @@
+[
+ {
+  "id": "node/6312874546",
+  "name": "E-motion Park Ostrava",
+  "town": "Ostrava",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.80044,
+  "lon": 18.22443,
+  "websites": [
+   "https://e-kary.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12723301387",
+  "name": "KartArena Plzeň",
+  "town": "Plzeň",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.74166,
+  "lon": 13.38474,
+  "websites": [
+   "https://www.motokaryplzen.cz/cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/3222962495",
+  "name": "Metropoleteplice",
+  "town": "Teplice",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 50.65169,
+  "lon": 13.83744,
+  "websites": [
+   "https://www.metropoleteplice.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/3958863483",
+  "name": "Motokáry Liberec",
+  "town": "Liberec",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 50.76478,
+  "lon": 15.05534,
+  "websites": [
+   "https://www.motokary-liberec.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/252520329",
+  "name": "motokárová dráha",
+  "town": "Rokytnice nad Jizerou",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 50.72942,
+  "lon": 15.47833,
+  "websites": [
+   "http://www.hotel-stary-mlyn.com/motokarova-draha/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11033970860",
+  "name": "A1Karting",
+  "town": "Warszawa",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.31536,
+  "lon": 21.0152,
+  "websites": [
+   "https://a1karting.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/4692352892",
+  "name": "CartWay Tor kartingowy",
+  "town": "Zamość",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.72484,
+  "lon": 23.26953,
+  "websites": [
+   "https://www.cartway.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1090764881",
+  "name": "E1Gokart Chorzów",
+  "town": "Chorzów",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.31337,
+  "lon": 18.97213,
+  "websites": [
+   "https://chorzow.e1gokart.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/6270147882",
+  "name": "Gokart Arena",
+  "town": "Łódź",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 51.78202,
+  "lon": 19.46654,
+  "websites": [
+   "https://gokartarena.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12197759323",
+  "name": "KartCenter Sopot",
+  "town": "Sopot",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 54.43397,
+  "lon": 18.56331,
+  "websites": [
+   "https://kartcenter.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1232001720",
+  "name": "Kartingmania",
+  "town": "gmina Rajcza",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.50997,
+  "lon": 18.97566,
+  "websites": [
+   "http://kartingmania.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/845057578",
+  "name": "Kurpiowska Kraina",
+  "town": "Wydmusy",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.33684,
+  "lon": 21.41288,
+  "websites": [
+   "https://www.kurpiowskakraina.com.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/526922862",
+  "name": "Pitlane Gokarty Wrocław",
+  "town": "Wrocław",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 51.0964161,
+  "lon": 17.034822,
+  "websites": [
+   "https://www.gokartywroclaw.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/691243123",
+  "name": "Pole Position",
+  "town": "Sękocin Stary",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 52.12255,
+  "lon": 20.88934,
+  "websites": [
+   "https://www.pole-position.pl"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/8815465640",
+  "name": "S-Kart",
+  "town": "Bytom",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.351,
+  "lon": 18.87919,
+  "websites": [
+   "https://www.s-kart.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1172858393",
+  "name": "Top1 Karting",
+  "town": "Wrocław",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 51.09721,
+  "lon": 16.93019,
+  "websites": [
+   "https://top1karting.pl"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/2378222100",
+  "name": "Tor kartingowy",
+  "town": "Ełk",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.8442,
+  "lon": 22.36999,
+  "websites": [
+   "https://www.mark-tor.elk.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1415714770",
+  "name": "Tor kartingowy E1GOKART Poznań Rabowice",
+  "town": "Rabowice",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 52.37502,
+  "lon": 17.1138,
+  "websites": [
+   "https://poznan-rabowice.e1gokart.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13016721932",
+  "name": "WRT 2.0 Kapelanka",
+  "town": "Kraków",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.03231,
+  "lon": 19.92535,
+  "websites": [
+   "http://krakow.wrt-karting.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1186081737",
+  "name": "tor24.pl",
+  "town": "Zabrze",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.31842,
+  "lon": 18.75437,
+  "websites": [
+   "https://tor24.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1137646442",
+  "name": null,
+  "town": "Kutná Hora",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.94575,
+  "lon": 15.27914,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/200922128",
+  "name": null,
+  "town": "Moravská Třebová",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.76286,
+  "lon": 16.6568,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/119557712",
+  "name": "Motokáry",
+  "town": "Trojanovice",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.52377,
+  "lon": 18.20103,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/460847946",
+  "name": "Karting Mondercange",
+  "town": "Mondercange",
+  "country": "LU",
+  "type": "outdoor",
+  "lat": 49.54676,
+  "lon": 5.97559,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13796539259",
+  "name": null,
+  "town": "gmina Cedynia",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.84351,
+  "lon": 14.13068,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/345803624",
+  "name": null,
+  "town": "Borek",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.02973,
+  "lon": 20.52318,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1125210707",
+  "name": null,
+  "town": "Białka Tatrzańska",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.39028,
+  "lon": 20.09956,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1051800201",
+  "name": "Canpol Racing",
+  "town": "gmina Człuchów",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.6513,
+  "lon": 17.31662,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11503408936",
+  "name": "Crazy Carts",
+  "town": "Gdańsk",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 54.40426,
+  "lon": 18.58656,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1104820795",
+  "name": "E1 Gokart: halowy tor kartingowy",
+  "town": "Skórzewo",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 52.39242,
+  "lon": 16.80543,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/560383355",
+  "name": "Halowy Tor Kartingowy E1Gokart",
+  "town": "Kielce",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.89825,
+  "lon": 20.62062,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/203268457",
+  "name": "Reskart",
+  "town": "Rzeszów",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.03618,
+  "lon": 21.99057,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ }
+]

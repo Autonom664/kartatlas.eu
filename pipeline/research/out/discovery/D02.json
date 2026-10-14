@@ -1,0 +1,434 @@
+{
+ "countries": [
+  "PL",
+  "CZ"
+ ],
+ "searches": [
+  "tor kartingowy Lublin gokarty",
+  "motokáry České Budějovice motokárová dráha",
+  "gokarty Katowice tor kartingowy halowy",
+  "gokarty Gdynia tor kartingowy",
+  "cartmax Lublin kryty tor kartingowy cennik",
+  "motokárová hala Pardubice Zlín Karlovy Vary motokáry pronájem",
+  "gokarty Wrocław tor halowy",
+  "tor kartingowy Łódź gokarty halowe",
+  "\"Monaco Grand Prix\" motokárová hala",
+  "Kart Aréna Litomyšl motokáry ceník",
+  "motokáry Zlín motokárová dráha pronájem motokár",
+  "motokáry Karlovy Vary Ústí nad Labem Pardubice motokárová dráha",
+  "Masarykův okruh motokárová dráha ceník půjčovna motokár",
+  "Pitlane Wroclavia gokarty cennik",
+  "lista torów kartingowych w Polsce wypożyczalnia gokartów",
+  "Le Mans Bielany Wrocławskie Czekoladowa tor kartingowy",
+  "Wrocław Racing Center Buforowa gokarty",
+  "cartmax.pl Lublin gokarty Spółdzielczości Pracy",
+  "motokáry Masarykův okruh 2026 otevírací doba",
+  "kartarena Litomyšl Moravská 1200 motokáry 2026"
+ ],
+ "new_venues": [
+  {
+   "name": "Pitlane Gokarty Wrocław",
+   "address": "Westfield Wroclavia, poziom -2, ul. Sucha 1, 50-086 Wrocław",
+   "town": "Wrocław",
+   "country": "PL",
+   "lat": 51.0964161,
+   "lon": 17.034822,
+   "osm_id": null,
+   "type": "indoor",
+   "website": "https://www.gokartywroclaw.pl/",
+   "phone": "+48 789 000 388",
+   "email": "kontakt@gokartywroclaw.pl",
+   "rental": true,
+   "own_karts": false,
+   "karts": [
+    {
+     "chassis": "RSX",
+     "engine": "electric",
+     "hp": null,
+     "class": "adult 14+"
+    },
+    {
+     "chassis": "LRX",
+     "engine": "electric",
+     "hp": null,
+     "class": "junior 7+ (min 130 cm)"
+    },
+    {
+     "chassis": null,
+     "engine": "electric",
+     "hp": null,
+     "class": "kids 3-6 (separate track)"
+    }
+   ],
+   "ages": {
+    "adult_min": 14,
+    "junior_min": 7,
+    "junior_min_height_cm": 130,
+    "kids": "3-6 (separate track, alone or with guardian)"
+   },
+   "hours": "Daily 10:00-22:00",
+   "prices": [
+    {
+     "label": "Gokarty dla dorosłych 14+ RSX",
+     "class": "adult",
+     "type": "rental",
+     "minutes": 8,
+     "laps": null,
+     "price": 89,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "79 zł when bought online; 178 zł also shown (apparently crossed out)"
+    },
+    {
+     "label": "Gokarty dla dorosłych 14+ RSX (online)",
+     "class": "adult",
+     "type": "rental",
+     "minutes": 8,
+     "laps": null,
+     "price": 79,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "przy zakupie online"
+    },
+    {
+     "label": "Gokarty dla dorosłych 14+ RSX 2 x 8 min",
+     "class": "adult",
+     "type": "rental",
+     "minutes": 16,
+     "laps": null,
+     "price": 149,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 14,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "2 x 8 min; 178 zł also shown (apparently crossed out)"
+    },
+    {
+     "label": "Gokart juniorski LRX",
+     "class": "junior",
+     "type": "rental",
+     "minutes": 8,
+     "laps": null,
+     "price": 79,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 7,
+     "max_age": null,
+     "min_height_cm": 130,
+     "day": null,
+     "note": "groups 1-6"
+    },
+    {
+     "label": "Gokart juniorski LRX 2 x 8 min",
+     "class": "junior",
+     "type": "rental",
+     "minutes": 16,
+     "laps": null,
+     "price": 149,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 7,
+     "max_age": null,
+     "min_height_cm": 130,
+     "day": null,
+     "note": "2 x 8 min"
+    },
+    {
+     "label": "Gokart 3-6 lat",
+     "class": "kids",
+     "type": "rental",
+     "minutes": 5,
+     "laps": null,
+     "price": 30,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": 3,
+     "max_age": 6,
+     "min_height_cm": null,
+     "day": null,
+     "note": "separate track; purchase only at trackside reception"
+    },
+    {
+     "label": "Karnet 5 x 8 min",
+     "class": "adult/junior",
+     "type": "pass",
+     "minutes": 40,
+     "laps": null,
+     "price": 345,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "RSX/LRX, valid 1 year, one person, in person only"
+    },
+    {
+     "label": "Karnet 10 x 8 min",
+     "class": "adult/junior",
+     "type": "pass",
+     "minutes": 80,
+     "laps": null,
+     "price": 590,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "RSX/LRX, valid 1 year, one person, in person only"
+    },
+    {
+     "label": "Karnet 20 x 8 min",
+     "class": "adult/junior",
+     "type": "pass",
+     "minutes": 160,
+     "laps": null,
+     "price": 980,
+     "currency": "PLN",
+     "extras": null,
+     "member": false,
+     "min_age": null,
+     "max_age": null,
+     "min_height_cm": null,
+     "day": null,
+     "note": "RSX/LRX, valid 1 year, one person, in person only"
+    }
+   ],
+   "fees": [],
+   "price_source": "https://www.gokartywroclaw.pl/cennik/",
+   "tracks": [
+    {
+     "name": "Pitlane",
+     "length_m": null,
+     "width_m": null,
+     "use": "rental electric karts"
+    },
+    {
+     "name": "Kid Racer track",
+     "length_m": null,
+     "width_m": null,
+     "use": "kids 3-6"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.gokartywroclaw.pl/",
+    "https://www.gokartywroclaw.pl/cennik/",
+    "https://www.westfield.com/pl/poland/wroclavia/sklepy/pitlane-tor-gokartowy/78205",
+    "https://www.wroclaw.pl/dla-mieszkanca/tor-kartingowy-gokarty-elektryczne-wroclaw"
+   ],
+   "checked_at": "2026-10-14",
+   "note": "Indoor electric karting on car-park level -2 of Westfield Wroclavia (16 adult + 6 kids karts per wroclaw.pl). Site mentions a temporary closure for renovation in Sept 2026 and shows a reopening banner; header call link uses a different number (732125601). Coordinates are the mall (way/526922862), not the track, so osm_id is null."
+  },
+  {
+   "name": "Wrocław Racing Center",
+   "address": "ul. Buforowa 2, 52-131 Wrocław",
+   "town": "Wrocław",
+   "country": "PL",
+   "lat": 51.0699244,
+   "lon": 17.0545981,
+   "osm_id": null,
+   "type": "indoor",
+   "website": "http://www.torkartingowy.eu",
+   "phone": "+48 662 701 300",
+   "email": "biuro@torkartingowy.eu",
+   "rental": true,
+   "own_karts": null,
+   "karts": [],
+   "ages": {},
+   "hours": "Mon-Fri 15:00-23:00, Sat-Sun 11:00-23:00 (per travel guide, unverified)",
+   "prices": [],
+   "fees": [],
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Wrocław Racing Center",
+     "length_m": 650,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.arrivalguides.com/en/Travelguide/WROCLAW/doandsee/wroclaw-racing-center-31352",
+    "https://www.wroclaw.pl/dla-mieszkanca/tor-kartingowy-gokarty-elektryczne-wroclaw"
+   ],
+   "checked_at": "2026-10-14",
+   "note": "LEAD ONLY - own site torkartingowy.eu failed to load (SSL error); current operation not verified. Coordinates are the house-number geocode of ul. Buforowa 2 (node/1200346323 is a plain address, not the venue)."
+  },
+  {
+   "name": "Kryty Tor Kartingowy Cartmax",
+   "address": "Al. Spółdzielczości Pracy 32, 20-147 Lublin",
+   "town": "Lublin",
+   "country": "PL",
+   "lat": 51.2647566,
+   "lon": 22.5706882,
+   "osm_id": null,
+   "type": "indoor",
+   "website": null,
+   "phone": null,
+   "email": null,
+   "rental": true,
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": "Sodi",
+     "engine": null,
+     "hp": null,
+     "class": "rental (10 karts)"
+    }
+   ],
+   "ages": {},
+   "hours": null,
+   "prices": [],
+   "fees": [],
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://venuu.com/pl/en/venues/kryty-tor-kartingowy-cartmax"
+   ],
+   "checked_at": "2026-10-14",
+   "note": "LEAD ONLY - single directory listing (Venuu, which is closing in Poland); no own website found; current operation not verified; listing is event/corporate-focused. Coordinates are the Olimp shopping centre at that address (way/173185912), not the track."
+  },
+  {
+   "name": "Kart Aréna Litomyšl",
+   "address": "Moravská 1200, 570 01 Litomyšl",
+   "town": "Litomyšl",
+   "country": "CZ",
+   "lat": 49.8640563,
+   "lon": 16.328515,
+   "osm_id": "node/1462350694",
+   "type": "indoor",
+   "website": null,
+   "phone": "+420 731 587 944; +420 603 496 056",
+   "email": null,
+   "rental": true,
+   "own_karts": null,
+   "karts": [],
+   "ages": {},
+   "hours": null,
+   "prices": [],
+   "fees": [],
+   "price_source": null,
+   "tracks": [
+    {
+     "name": "Kart Aréna Litomyšl",
+     "length_m": 295,
+     "width_m": null,
+     "use": "rental"
+    }
+   ],
+   "layout_page": null,
+   "sources": [
+    "https://www.slevomat.cz/podnik/83163-kart-arena-litomysl-s-r-o",
+    "https://www.slevomat.cz/akce/1611234-20-min-jizdy-ve-zbrusu-nove-motokare-pro-jednoho",
+    "https://www.kudyznudy.cz/aktivity/rychla-kola"
+   ],
+   "checked_at": "2026-10-14",
+   "note": "LEAD ONLY - own website not found; current operation not verified. Data from an expired voucher listing: 295 m track, karts up to 70 km/h. A guide mentions both indoor and outdoor tracks - type to verify. Nominatim returns node/1462350694 'Kart aréna' (leisure=sports_centre, not tagged sport=karting)."
+  },
+  {
+   "name": "Motokáry Masarykův okruh (Creditas Autodrom Brno)",
+   "address": "Ostrovačice 201, 664 81 (contact address AMK Masarykův okruh)",
+   "town": "Ostrovačice / Brno",
+   "country": "CZ",
+   "lat": 49.2039897,
+   "lon": 16.4429027,
+   "osm_id": null,
+   "type": "outdoor",
+   "website": "https://www.automotodrombrno.cz/motokary",
+   "phone": "+420 602 727 025; +420 546 123 323",
+   "email": "motokary@brno-circuit.com",
+   "rental": true,
+   "own_karts": null,
+   "karts": [
+    {
+     "chassis": null,
+     "engine": "270 cc",
+     "hp": null,
+     "class": "rental"
+    },
+    {
+     "chassis": null,
+     "engine": "200 cc",
+     "hp": null,
+     "class": "beginner"
+    }
+   ],
+   "ages": {
+    "min_age": 12,
+    "min_height_cm": 160
+   },
+   "hours": null,
+   "prices": [],
+   "fees": [],
+   "price_source": null,
+   "tracks": [],
+   "layout_page": null,
+   "sources": [
+    "https://www.kudyznudy.cz/aktivity/motokary-masarykuv-okruh",
+    "https://www.slevomat.cz/akce/2293288-1-2-i-6-jizd-na-motokare-na-masarykove-okruhu"
+   ],
+   "checked_at": "2026-10-14",
+   "note": "LEAD ONLY - own page not fetched; 2026 operation and prices not verified (only old vouchers). Outdoor kart track beside the Brno circuit (renamed Creditas Autodrom Brno in April 2026). Coordinates are the geocoded contact address (plain house node), not the track. Website URL from Kudy z nudy, unverified. Ages/height from voucher listings."
+  }
+ ],
+ "already_present": [
+  {
+   "name": "Tor Kartingowy Le Mans Wrocław (Stadion)",
+   "existing_id": "node/9067756270",
+   "comment": "Present. Existing name has typo 'Kartnigowy'; better website is https://wroclaw.lemans.pl/ (indoor, >1000 m, 40+ Sodi karts 6.5 hp; adults 16+ 59/65 zł per 10 min Mon-Thu/Fri-Sun; kids 135 cm-16 y 49/55 zł; registration 10 zł; balaclava 12 zł). A seasonal outdoor Le Mans track at ul. Czekoladowa, Bielany Wrocławskie (450 m) appears in older listings but is not on lemans.pl or wroclaw.lemans.pl - not added."
+  },
+  {
+   "name": "Kartcenter Galeria Morena, Gdańsk",
+   "existing_id": "node/12197759323",
+   "comment": "A 2018 article places KartCenter in Galeria Morena, Gdańsk (parking level -2); the existing KartCenter entry is in Sopot (kartcenter.pl). Possibly relocated or a second site - not verified, not added."
+  },
+  {
+   "name": "Autodrom Tor Kartingowy Sosnowiec",
+   "existing_id": "way/216167772",
+   "comment": "Present."
+  },
+  {
+   "name": "E1Gokart Gdańsk (ul. Rakietowa 11)",
+   "existing_id": "way/1320181897",
+   "comment": "Present."
+  },
+  {
+   "name": "Lamborghini Kart Arena Olomouc",
+   "existing_id": "node/11181570558",
+   "comment": "Present."
+  },
+  {
+   "name": "Kart Centrum Radotín",
+   "existing_id": "way/34420693",
+   "comment": "Present (town shown as 'SO Praha 16')."
+  },
+  {
+   "name": "Boby motokáry (Bobycentrum Brno)",
+   "existing_id": "way/421326635",
+   "comment": "May be the same as existing 'Kart Arena Brno' (motokary-brno.cz), but the existing coordinates are ~3 km from Bobycentrum; not verified, not added."
+  }
+ ],
+ "checked_at": "2026-10-14"
+}

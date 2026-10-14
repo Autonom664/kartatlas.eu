@@ -1,0 +1,5481 @@
+[
+ {
+  "id": "way/1090764881",
+  "name": "E1GOKART Chorzów",
+  "website": "https://chorzow.e1gokart.pl/",
+  "websites": [
+   {
+    "url": "https://chorzow.e1gokart.pl/",
+    "role": "rental",
+    "name": "E1GOKART Chorzów"
+   }
+  ],
+  "phone": "+48 785 111 140",
+  "email": "chorzow@e1gokart.pl",
+  "address": "ul. Gabriela Narutowicza 9, 41-503 Chorzów",
+  "hours": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi KidRacer",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://chorzow.e1gokart.pl/cennik/",
+  "family": "Junior karts for children over 130 cm, a KidRacer kart for the youngest on a separate track, and double karts with an adult driver and child passenger from about 5 years / 110 cm.",
+  "group": "Group rides (6-15 drivers Mon-Thu, 10-15 Fri-Sun), Grand Prix formats and corporate events with catering on request.",
+  "prices": [
+   {
+    "label": "Single kart, 1 ride",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 60 zł"
+   },
+   {
+    "label": "Single kart, 2 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 125,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 3 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 185,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 10 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 600,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 x 8 min pass, valid 365 days"
+   },
+   {
+    "label": "Double kart, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 70 zł"
+   },
+   {
+    "label": "Double kart, 2 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 145,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min"
+   },
+   {
+    "label": "Double kart, 3 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 215,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min"
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 150,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, reservation required"
+   },
+   {
+    "label": "Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 200,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, reservation required"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Membership card / registration",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "One-time registration and system access"
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": false,
+    "note": "Required for hygiene; own balaclava allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://chorzow.e1gokart.pl/cennik/",
+  "tracks": [
+   {
+    "name": "E1GOKART Chorzów two-level track",
+    "length_m": 630,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://chorzow.e1gokart.pl/",
+   "https://chorzow.e1gokart.pl/cennik/",
+   "https://chorzow.e1gokart.pl/o-torze/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Two-level indoor track; max driver weight 120 kg."
+ },
+ {
+  "id": "way/1320181897",
+  "name": "E1GOKART Gdańsk",
+  "website": "https://gdansk.e1gokart.pl/",
+  "websites": [
+   {
+    "url": "https://gdansk.e1gokart.pl/",
+    "role": "rental",
+    "name": "E1GOKART Gdańsk"
+   }
+  ],
+  "phone": "+48 608 111 708",
+  "email": "gdansk@e1gokart.pl",
+  "address": "ul. Rakietowa 11, 80-298 Gdańsk",
+  "hours": "Mon-Fri 14:00-22:00 (school holidays from 11:00); Sat 9:00-22:00; Sun 9:00-21:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://gdansk.e1gokart.pl/cennik/",
+  "family": "Weekend family sessions 9:00-11:00 for children, teens and their guardians; junior karts from 130 cm and double karts with child passengers from about 5 years / 110 cm.",
+  "group": "Group packages for 6-15 drivers (Mon-Thu) or 10-15 (Fri-Sun) plus Grand Prix race formats.",
+  "prices": [
+   {
+    "label": "Single kart, 1 ride",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 70 zł"
+   },
+   {
+    "label": "Single kart, 2 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 145,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 3 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 215,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 10 rides pass",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 700,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 x 8 min, valid 365 days"
+   },
+   {
+    "label": "Double kart, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 80 zł"
+   },
+   {
+    "label": "Double kart, 2 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 165,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Double kart, 3 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 245,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 180,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person incl. 8-min training; reservation required"
+   },
+   {
+    "label": "Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person incl. 8-min training; reservation required"
+   },
+   {
+    "label": "Grand Prix max",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 290,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person incl. 8-min training; reservation required"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Membership card / registration",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Mandatory unless you bring your own"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://gdansk.e1gokart.pl/cennik/",
+  "tracks": [
+   {
+    "name": "E1GOKART Gdańsk two-level track",
+    "length_m": 680,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://gdansk.e1gokart.pl/cennik/",
+   "https://gdansk.e1gokart.pl/o-torze/",
+   "https://gdansk.e1gokart.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Two-level indoor track; max driver weight 120 kg."
+ },
+ {
+  "id": "way/337167413",
+  "name": "ForzaKart",
+  "website": "https://www.forzakart.pl/",
+  "websites": [
+   {
+    "url": "https://www.forzakart.pl/",
+    "role": "rental",
+    "name": "ForzaKart"
+   },
+   {
+    "url": "https://www.facebook.com/ForzaKartJaworzno/",
+    "role": "other",
+    "name": "ForzaKart Facebook"
+   }
+  ],
+  "phone": "+48 794 222 835",
+  "email": "forzakart.torkartingowy@gmail.com",
+  "address": "ul. Grunwaldzka 263, 43-600 Jaworzno",
+  "hours": "Mon-Fri 15:00-20:00; Sat-Sun 12:00-20:00",
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": 125,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.forzakart.pl/",
+  "family": null,
+  "group": "Group rides and exclusive track hire for birthdays and company events.",
+  "prices": [
+   {
+    "label": "8 minutes",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": "helmet",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "16 minutes",
+    "class": "other",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 80,
+    "currency": "PLN",
+    "extras": "helmet",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "24 minutes",
+    "class": "other",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 105,
+    "currency": "PLN",
+    "extras": "helmet, lap timing",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pakiet Startowy",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": "balaclava and helmet included",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Mandatory; own balaclava allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.forzakart.pl/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.forzakart.pl/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Minimum height 125 cm (no separate kids/adult classes stated), max weight 120 kg; under-18s need guardian consent."
+ },
+ {
+  "id": "way/1341655197",
+  "name": null,
+  "website": "https://gokartpoznan.pl",
+  "websites": [
+   {
+    "url": "https://gokartpoznan.pl",
+    "role": "rental",
+    "name": "GoKart Poznań"
+   }
+  ],
+  "phone": "+48 508 689 332",
+  "email": "biuro@gokartpoznan.pl",
+  "address": "ul. Bolesława Krzywoustego 72, Poznań (car park in front of Kinepolis)",
+  "hours": "Mon-Fri 14:00-21:00; Sat-Sun 10:00-21:00; groups also after 21:00 by booking",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Caroli Shark",
+    "engine": "Honda GX270",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Shark (double)",
+    "engine": "Honda GX270",
+    "hp": 9,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://gokartpoznan.pl",
+  "family": "Children's karts available; children under 130 cm ride in a double kart with an adult.",
+  "group": "GP group packages from 6 people with exclusive track and timing, plus corporate, stag/hen and night group sessions.",
+  "prices": [
+   {
+    "label": "Single-seat kart, first 10 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each additional 10 min 40 zł"
+   },
+   {
+    "label": "Double kart, first 10 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 50,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each additional 10 min 45 zł"
+   },
+   {
+    "label": "Pakiet GP",
+    "class": "other",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 100,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, min. 6 people; 10 min warm-up + 10 min race, exclusive track"
+   },
+   {
+    "label": "Pakiet GP+",
+    "class": "other",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 150,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, min. 6 people; warm-up, qualifying and race of 10 min each"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": null,
+    "note": "Helmet included in ride price"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://gokartpoznan.pl/cennik/",
+  "tracks": [
+   {
+    "name": "GoKart Poznań",
+    "length_m": 420,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://gokartpoznan.pl",
+   "https://gokartpoznan.pl/cennik/",
+   "https://gokartpoznan.pl/regulamin-toru/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Outdoor asphalt track with lighting on the Kinepolis car park; 12 corners; site states 420 m."
+ },
+ {
+  "id": "way/340462059",
+  "name": null,
+  "website": "https://gokarting.com.pl/",
+  "websites": [
+   {
+    "url": "https://gokarting.com.pl/",
+    "role": "rental",
+    "name": "GoKarting Center"
+   }
+  ],
+  "phone": "+48 500 440 750; +48 12 653 02 56",
+  "email": "info@gokarting.com.pl",
+  "address": "ul. Domagały 25, 30-741 Kraków",
+  "hours": "Mon-Thu 14:00-22:00; Fri 14:00-23:00; Sat 10:00-22:00; Sun 10:00-21:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Rimo Mini",
+    "engine": "Honda GX200 (LPG)",
+    "hp": 6.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270 (LPG)",
+    "hp": 9,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": 155,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://gokarting.com.pl/tor-gokartowy/",
+  "family": "Kids' karts (Rimo Mini, 125-145 cm), tandem rides and a children's karting academy split by height (105-125 and 125-155 cm).",
+  "group": "Corporate events and stag/hen evenings on request; on-site restaurant.",
+  "prices": [
+   {
+    "label": "1 ride",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "1 tandem ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "1 ride (licence holder)",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 50,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "1 tandem ride (licence holder)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "5 rides (licence holder)",
+    "class": "other",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 240,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "10 rides (licence holder)",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 435,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "20 rides (licence holder)",
+    "class": "other",
+    "type": "package",
+    "minutes": 160,
+    "laps": null,
+    "price": 800,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Individual lesson with trainer",
+    "class": "other",
+    "type": "package",
+    "minutes": 32,
+    "laps": null,
+    "price": 320,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Includes 4 rides of 8 min"
+   },
+   {
+    "label": "Akademia Kartingowa (4 lessons)",
+    "class": "kids",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 900,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Monthly kids' academy, 4 lessons"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Racing licence card",
+    "amount": 25,
+    "currency": "PLN",
+    "period": "year",
+    "mandatory": false,
+    "note": "Gives discounted rides and competition entry"
+   }
+  ],
+  "membership": "Racing licence 25 PLN/year: discounted rides, multi-ride packs, competitions and a free ride on your birthday.",
+  "price_source": "https://gokarting.com.pl/cennik/",
+  "tracks": [
+   {
+    "name": "GoKarting Center",
+    "length_m": 360,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://gokarting.com.pl/",
+   "https://gokarting.com.pl/cennik/",
+   "https://gokarting.com.pl/tor-gokartowy/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Heated indoor hall; site states track width 'at least 7 m'."
+ },
+ {
+  "id": "node/6270147882",
+  "name": null,
+  "website": "https://gokartarena.pl/",
+  "websites": [
+   {
+    "url": "https://gokartarena.pl/",
+    "role": "rental",
+    "name": "Gokart Arena"
+   }
+  ],
+  "phone": "+48 515 515 715",
+  "email": "kontakt@gokartarena.pl",
+  "address": "ul. Smugowa 19, 91-433 Łódź",
+  "hours": "Mon-Fri 15:00-22:00; Sat 12:00-22:00; Sun 12:00-21:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5 Kids",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://gokartarena.pl/cennik/",
+  "family": "Kids LR5 karts from 135 cm and tandem karts with an adult driver and passenger from 100 cm (also adapted for people with disabilities).",
+  "group": "Group events offered on request.",
+  "prices": [
+   {
+    "label": "SODI SR5, 1 ride",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Without customer card; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SODI SR5, 1 ride (customer card)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "Site also shows a 50 zł figure, apparently a promotion; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SODI Kids LR5, 1 ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "Without customer card; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SODI Kids LR5, 1 ride (customer card)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SODI Tandem, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Without customer card; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SODI Tandem, 1 ride (customer card)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "Pakiet Start SR5 / Kids LR5",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 110,
+    "currency": "PLN",
+    "extras": "balaclava and customer card",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min, one person, same day; regular price 140 zł; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   },
+   {
+    "label": "SR5 pass, 10 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 540,
+    "currency": "PLN",
+    "extras": null,
+    "member": true,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "MEGA PROMO price 460 zł; no expiry; price page shows several partly conflicting tables",
+    "comparison_eligible": false
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Required for hygiene unless you bring your own helmet"
+   },
+   {
+    "name": "Customer card (karta klienta)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": false,
+    "note": "Unlocks card prices and passes"
+   }
+  ],
+  "membership": "Optional customer card (10 PLN) for lower per-ride prices and multi-ride passes.",
+  "price_source": "https://gokartarena.pl/cennik/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://gokartarena.pl/",
+   "https://gokartarena.pl/cennik/",
+   "https://gokartarena.pl/regulamin-toru/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Price list page shows several partly conflicting price tables; site describes it as indoor karting (OSM says outdoor)."
+ },
+ {
+  "id": "node/12463495441",
+  "name": "Gokart Extreme - Pilski Tor Kartingowy",
+  "website": "https://gokartextreme.pl/",
+  "websites": [
+   {
+    "url": "https://gokartextreme.pl/",
+    "role": "rental",
+    "name": "Gokart Extreme"
+   }
+  ],
+  "phone": "+48 67 307 04 04",
+  "email": "rezerwacje@gokartextreme.pl",
+  "address": "ul. Warsztatowa 8, 64-920 Piła",
+  "hours": "Mon-Fri 15:00-22:00; Sat-Sun 12:00-22:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Caroli Stinger",
+    "engine": "Honda GX200",
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Mini Hammer",
+    "engine": "Honda GX120",
+    "hp": 4,
+    "class": "kids"
+   },
+   {
+    "chassis": "Tandem two-seater",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 7,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": 3
+  },
+  "ages_source": "https://gokartextreme.pl/cennik/",
+  "family": "Mini Hammer kids' karts from 140 cm (from age 7) and tandem karts with child passengers from age 3.",
+  "group": "Sprinter group races from 4 people and exclusive track hire with 8 karts (1850 PLN net/hour).",
+  "prices": [
+   {
+    "label": "STINGER Quick Race",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 55,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "MINI HAMMER Quick Race",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 40,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Wyścig Sprinter",
+    "class": "other",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 135,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, min. 4 people; 5 min qualifying + 15 min race"
+   },
+   {
+    "label": "Karnet 5 (STINGER)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 x 8 min, valid 1 month"
+   },
+   {
+    "label": "Karnet Junior 15 (MINI HAMMER)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 120,
+    "laps": null,
+    "price": 450,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "15 x 8 min, valid 3 months"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 8,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Premium 12 PLN; own allowed"
+   },
+   {
+    "name": "Protective gloves",
+    "amount": 4,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Own allowed"
+   },
+   {
+    "name": "Driver card (karta kierowcy)",
+    "amount": 8,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "Valid at other GokartSystem tracks"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://gokartextreme.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Pilski Tor Kartingowy",
+    "length_m": 380,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://gokartextreme.pl/",
+   "https://gokartextreme.pl/cennik/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Indoor hall track of about 2,500 m²."
+ },
+ {
+  "id": "way/338074045",
+  "name": null,
+  "website": "https://icfkarting.pl/",
+  "websites": [
+   {
+    "url": "https://icfkarting.pl/",
+    "role": "rental",
+    "name": "ICF Karting"
+   }
+  ],
+  "phone": "+48 888 444 557",
+  "email": "biuro@icfkarting.pl",
+  "address": "ul. Mikołaja Reja 12, 35-211 Rzeszów",
+  "hours": "Mon-Fri 16:00-22:00; Sat-Sun and holidays 12:00-22:00",
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": 10,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": 6.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Tandem",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 125,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://icfkarting.pl/tor-i-flota/",
+  "family": "6.5 hp kids' karts for 125-140 cm and a tandem kart for an adult driver (18+) with a child from 100 cm.",
+  "group": "Sprinter group races and exclusive 'Le Mans' track hire with 10 karts (from 2,400 PLN/hour), plus corporate and school packages.",
+  "prices": [
+   {
+    "label": "Single ride, 10 KM kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Single ride, 6.5 KM kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 50,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 125,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Card of 5 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 270,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Card of 10 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 500,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sprinter",
+    "class": "other",
+    "type": "package",
+    "minutes": 35,
+    "laps": null,
+    "price": 170,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "'from' price; per person, group format with qualifying and race"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Driver card",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": null,
+    "note": "Balaclava, helmet and overalls provided"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://icfkarting.pl/",
+  "tracks": [
+   {
+    "name": "ICF Karting hybrid track",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://icfkarting.pl/",
+   "https://icfkarting.pl/tor-i-flota/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Hybrid track (2,000 m² hall plus 1,600 m² outdoor section), about 600 m; new outdoor layout planned from September 2026."
+ },
+ {
+  "id": "way/1568043338",
+  "name": null,
+  "website": "https://www.kcrkarting.pl/",
+  "websites": [
+   {
+    "url": "https://www.kcrkarting.pl/",
+    "role": "rental",
+    "name": "KCR - Kartingowe Centrum Radol"
+   },
+   {
+    "url": "https://www.facebook.com/KartingKCR/",
+    "role": "other",
+    "name": "KCR Facebook"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "address": "ul. Ogrodowa 34 D, 62-571 Stare Miasto",
+  "hours": "Season April-October: Wed-Fri 14:00-20:00; Sat, Sun and holidays 12:00-20:00; reservation required",
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "adult"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "family": "Small karts for children and double karts available.",
+  "group": "Sprinter races from 5 people and 'Le Mans' whole-track hire with 10 karts (from 1,600 PLN/hour).",
+  "prices": [
+   {
+    "label": "Quick race, large kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 55,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed-Fri",
+    "note": null
+   },
+   {
+    "label": "Quick race, large kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Quick race, small kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed-Fri",
+    "note": null
+   },
+   {
+    "label": "Quick race, small kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 50,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Quick race, double kart",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 80,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed-Fri",
+    "note": null
+   },
+   {
+    "label": "Quick race, double kart",
+    "class": "twin",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 90,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": null
+   },
+   {
+    "label": "Sprinter 25 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 140,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed-Fri",
+    "note": "Per person, min. 5 people, incl. 5 min qualifying"
+   },
+   {
+    "label": "Sprinter 25 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 25,
+    "laps": null,
+    "price": 160,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": "Per person, min. 5 people, incl. 5 min qualifying"
+   },
+   {
+    "label": "Pass, 6 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 280,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wed-Fri",
+    "note": "Up to two people may share a pass"
+   },
+   {
+    "label": "Pass, 6 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 320,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Sat-Sun",
+    "note": "Up to two people may share a pass"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": null,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.kcrkarting.pl/ceny/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.kcrkarting.pl/",
+   "https://www.kcrkarting.pl/ceny/",
+   "https://www.kcrkarting.pl/o-torze-i-gokartach/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Quick race duration not stated on the price list; seasonal track (April-October)."
+ },
+ {
+  "id": "way/1375092530",
+  "name": "KartRacingClub",
+  "website": "https://kartracingclub.pl/",
+  "websites": [
+   {
+    "url": "https://kartracingclub.pl/",
+    "role": "rental",
+    "name": "KartRacingClub"
+   }
+  ],
+  "phone": "+48 606 619 599",
+  "email": null,
+  "address": "Guzów 10A (Żyrardów-Sochaczew road; entrance via TIR parking next to Orlen station)",
+  "hours": "May-October: Mon, Tue, Thu, Fri 15:00-19:00; Wed closed; Sat 12:00-19:00; Sun 12:00-16:00; closed on rainy days; call ahead",
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": 9,
+    "class": "other"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": 5.5,
+    "class": "other"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "family": "Open to children, youth and adults; a 5.5 hp kart is offered alongside 9 hp karts.",
+  "group": null,
+  "prices": [
+   {
+    "label": "Gokart 9 KM",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart 5.5 KM",
+    "class": "other",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 55,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://kartracingclub.pl/cennik",
+  "tracks": [
+   {
+    "name": "KartRacingClub Guzów",
+    "length_m": 550,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://kartracingclub.pl/",
+   "https://kartracingclub.pl/cennik",
+   "https://kartracingclub.pl/tor-2"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Paved (paving stone) track with 14 corners; max driver weight 100 kg; max 6 karts on track."
+ },
+ {
+  "id": "node/12197759323",
+  "name": "KartCenter Sopot",
+  "website": "https://kartcenter.pl/sopot-outdoor/",
+  "websites": [
+   {
+    "url": "https://kartcenter.pl/sopot-outdoor/",
+    "role": "rental",
+    "name": "KartCenter Sopot (Outdoor)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "address": null,
+  "hours": null,
+  "status": "unknown",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "family": null,
+  "group": "Two-level guest area with space for groups and events.",
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://kartcenter.pl/sopot-outdoor/",
+   "https://kartcenter.pl/cennik/",
+   "https://kartcenter.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Operator's Sopot page only announces an opening on 24 July (year not stated), with map 'coming soon'; the price list covers only the operator's indoor Gdańsk Morena track, so no Sopot prices are recorded."
+ },
+ {
+  "id": "node/12081703669",
+  "name": null,
+  "website": "https://kartingarena.pl/",
+  "websites": [
+   {
+    "url": "https://kartingarena.pl/",
+    "role": "rental",
+    "name": "ASY Arena Karting"
+   }
+  ],
+  "phone": "+48 789 035 269",
+  "email": "biuro@kartingarena.pl",
+  "address": "ul. Legnicka 5, 31-216 Kraków",
+  "hours": "Open 7 days a week (times not stated)",
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi GT5-R",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5 Junior",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://kartingarena.pl/cennik-indywidualny",
+  "family": "LR5 Junior karts from 130 cm, 2Drive tandem karts with passengers from 5 years, a kids' karting academy and birthday parties.",
+  "group": "Racing packages, exclusive track hire, corporate events, stag/hen parties and a conference room for about 30 people.",
+  "prices": [
+   {
+    "label": "SODI GT5-R, 8 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI GT5-R, 16 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI GT5-R, 24 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 95,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Starter package SODI GT5-R",
+    "class": "adult",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 86,
+    "currency": "PLN",
+    "extras": "balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Student ticket SODI GT5-R",
+    "class": "adult",
+    "type": "session",
+    "minutes": null,
+    "laps": null,
+    "price": 30,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Fri",
+    "note": "Students only"
+   },
+   {
+    "label": "SODI LR5 Junior, 8 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5 Junior, 16 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5 Junior, 24 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 95,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Starter package SODI LR5 Junior",
+    "class": "kids",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 86,
+    "currency": "PLN",
+    "extras": "balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI 2Drive, 8 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 60,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Akademia Kartingowa group training",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 180,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 12,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Own balaclava or own helmet allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://kartingarena.pl/cennik-indywidualny",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://kartingarena.pl/",
+   "https://kartingarena.pl/cennik-indywidualny"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website brands the venue as 'ASY Arena Karting'; weekday promotions also offered."
+ },
+ {
+  "id": "way/1232001720",
+  "name": "Kartingmania Zwardoń",
+  "website": "http://kartingmania.pl/",
+  "websites": [
+   {
+    "url": "http://kartingmania.pl/",
+    "role": "rental",
+    "name": "Kartingmania Zwardoń"
+   }
+  ],
+  "phone": "+48 790 331 002; +48 607 600 203",
+  "email": "zwardon@kartingmania.pl",
+  "address": "Zwardoń 120, 34-373 Zwardoń",
+  "hours": "Mon-Fri 15:00-20:00; Sat-Sun 12:00-20:00",
+  "status": "unknown",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Caroli",
+    "engine": null,
+    "hp": 9,
+    "class": "adult"
+   }
+  ],
+  "ages": null,
+  "ages_source": null,
+  "family": null,
+  "group": "Company outings, events and stag/hen parties; exclusive track hire with 4-7 karts (from 480 PLN per 30 min); on-site bistro.",
+  "prices": [
+   {
+    "label": "8 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 40,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "16 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 68,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "24 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 98,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "8 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 9.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "16 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 16,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "24 min",
+    "class": "other",
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 23,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "GokartSystem driver card",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "http://kartingmania.pl/cennik/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "http://kartingmania.pl/",
+   "http://kartingmania.pl/cennik/",
+   "http://kartingmania.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Website's newest post is from 2020 and its HTTPS certificate has expired, so current operation and prices are unconfirmed."
+ },
+ {
+  "id": "way/155151329",
+  "name": "Tor Kartingowy Kormoran Olsztyn",
+  "website": "https://www.olsztyn.torkormoran.pl",
+  "websites": [
+   {
+    "url": "https://www.olsztyn.torkormoran.pl",
+    "role": "rental",
+    "name": "Tor Kormoran Olsztyn"
+   },
+   {
+    "url": "https://torkormoran.pl/",
+    "role": "other",
+    "name": "Tor Kormoran (Elbląg & Olsztyn portal)"
+   }
+  ],
+  "phone": "+48 504 476 171",
+  "email": "biuro@torkormoran.pl",
+  "address": "ul. Sprzętowa 6, 10-467 Olsztyn",
+  "hours": "Mon-Thu 15:00-21:00; Fri 15:00-22:00; Sat 11:00-22:00; Sun 11:00-21:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Puffo",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "TWIN two-seater",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 4,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.olsztyn.torkormoran.pl/dla-dzieci",
+  "family": "Mini karts for children from 135 cm, a double kart for smaller children with a guardian, and a Puffo kart for solo riding from age 4 in reserved sessions.",
+  "group": "Birthdays, stag/hen parties, conferences and corporate events; also drift track, simulator and paintball on site.",
+  "prices": [],
+  "fees": [],
+  "membership": "Golden membership card (Złota Karta Członkowska) with discounts for regular customers; terms not stated.",
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Tor asfaltowy (indoor)",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.olsztyn.torkormoran.pl",
+   "https://www.olsztyn.torkormoran.pl/tor-asfaltowy",
+   "https://www.olsztyn.torkormoran.pl/dla-dzieci"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Indoor asphalt track of about 300 m, width 4-8 m; over 20 karts; prices only in the online booking system."
+ },
+ {
+  "id": "way/845057578",
+  "name": null,
+  "website": null,
+  "websites": [
+   {
+    "url": "https://www.kurpiowskakraina.com.pl/",
+    "role": "venue",
+    "name": "Kurpiowska Kraina (recreation resort)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "address": null,
+  "hours": null,
+  "status": "unknown",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.kurpiowskakraina.com.pl/",
+   "https://kurpiowskakraina.com.pl/atrakcje/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No online presence found for a kart track: the Kurpiowska Kraina resort website (accommodation, beach, water sports, bikes) does not mention go-karts."
+ },
+ {
+  "id": "way/1272521465",
+  "name": "Le Mans Poznań",
+  "website": "https://poznan.lemans.pl/",
+  "websites": [
+   {
+    "url": "https://poznan.lemans.pl/",
+    "role": "rental",
+    "name": "Le Mans Poznań"
+   }
+  ],
+  "phone": "+48 61 670 42 00",
+  "email": "poznan@lemans.pl",
+  "address": "Jaryszki 15, 62-023 Jaryszki (entrance from ul. Ostrowska)",
+  "hours": "Mon-Thu 14:00-22:00; Fri 12:00-22:00; Sat 10:00-22:00; Sun 10:00-20:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": null,
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": 5.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": 9,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 16,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://poznan.lemans.pl/cennik/",
+  "family": "LR5 karts for children from 135 cm up to age 16 and 2Drive tandems for an adult with a child; Junior Cup competitions for kids.",
+  "group": "Group and corporate offers on request; individual lessons (300 PLN, 3 x 10 min).",
+  "prices": [
+   {
+    "label": "SR4 ride",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "LR5 ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 70,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 16,
+    "min_height_cm": 135,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2DRIVE ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 adults or adult with child"
+   },
+   {
+    "label": "Racepass adults, 5 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 50,
+    "laps": null,
+    "price": 355,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Racepass adults, 10 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 675,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Racepass kids, 5 rides",
+    "class": "kids",
+    "type": "package",
+    "minutes": 50,
+    "laps": null,
+    "price": 330,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Racepass kids, 10 rides",
+    "class": "kids",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 630,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "Online registration",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Mandatory; own allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://poznan.lemans.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Le Mans Poznań",
+    "length_m": 550,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://poznan.lemans.pl/cennik/",
+   "https://poznan.lemans.pl/o-torze/",
+   "https://poznan.lemans.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Air-conditioned indoor hall; 28 karts."
+ },
+ {
+  "id": "way/366889241",
+  "name": "PitStop Gdańsk",
+  "website": "https://pitstop-gdansk.pl/",
+  "websites": [
+   {
+    "url": "https://pitstop-gdansk.pl/",
+    "role": "rental",
+    "name": "PitStop Gdańsk"
+   }
+  ],
+  "phone": "+48 731 38 38 38; +48 781 433 833",
+  "email": "recepcja@pitstop-gdansk.pl",
+  "address": "ul. Pokoleń Lechii Gdańsk 1, 80-560 Gdańsk (Polsat Plus Arena Gdańsk)",
+  "hours": "Mar-Jun and Sep-Oct: Mon-Fri 12:00-20:00, Sat-Sun 10:00-20:00; Jul-Aug: Mon-Thu 10:00-20:00, Fri-Sun 9:00-21:00; Nov-Feb weather permitting",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "HammerHead",
+    "engine": null,
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "TB Kart",
+    "engine": null,
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Stinger",
+    "engine": null,
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Tandem",
+    "engine": null,
+    "hp": 9,
+    "class": "twin"
+   },
+   {
+    "chassis": "Junior",
+    "engine": null,
+    "hp": 4,
+    "class": "kids"
+   },
+   {
+    "chassis": "XXS",
+    "engine": null,
+    "hp": 3,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 5,
+   "kids_min_height_cm": 90,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://pitstop-gdansk.pl/",
+  "family": "Junior karts (about 8+, 115-140 cm), XXS karts (about 5+, 90-115 cm) and tandems with passengers from 90 cm; birthday packages from 6 children.",
+  "group": "Grand Prix packages from 6 people, exclusive track hire with up to 12 karts (from 1,400 PLN net) and a CHILL zone for events.",
+  "prices": [
+   {
+    "label": "HammerHead (new) 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "HammerHead (new) 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 99,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "TB Kart (new) 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "TB Kart (new) 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 99,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Stinger 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 69,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Stinger 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 140,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Junior 4 KM",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 69,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Junior 4 KM",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 115,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Mini XXS 2 KM",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 69,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 90,
+    "day": "Mon-Thu",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Mini XXS 2 KM",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 90,
+    "day": "Fri-Sun and holidays",
+    "note": "Shown as reduced from a higher crossed price"
+   },
+   {
+    "label": "Pakiet GP (Stinger)",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 169,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": "Per person, min. 6 people; 12-min qualifying + 12-min final"
+   },
+   {
+    "label": "Pakiet GP (Stinger)",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 189,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun and holidays",
+    "note": "Per person, min. 6 people"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 16,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://pitstop-gdansk.pl/#cennik",
+  "tracks": [
+   {
+    "name": "PitStop Gdańsk",
+    "length_m": 830,
+    "width_m": 9,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://pitstop-gdansk.pl/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Outdoor asphalt track by Polsat Plus Arena; max rider weight 120 kg; XXS power listed as 3 hp in fleet and 2 hp in price list."
+ },
+ {
+  "id": "node/13410245158",
+  "name": "Pole Position Bemowo",
+  "website": "https://www.pole-position.pl/?page_id=387",
+  "websites": [
+   {
+    "url": "https://www.pole-position.pl/?page_id=387",
+    "role": "rental",
+    "name": "Pole Position - Tor Bemowo"
+   }
+  ],
+  "phone": "+48 512 597 587",
+  "email": "bemowo@pole-position.pl",
+  "address": "ul. Powstańców Śląskich 126a, Warszawa (Galeria Bemowo)",
+  "hours": "Mon 15:00-22:00; Tue-Fri 12:00-22:00; Sat-Sun 11:00-22:00; autumn/winter weather-dependent, call ahead",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "200cc",
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Two-seater",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "twin"
+   },
+   {
+    "chassis": "Dino",
+    "engine": "120cc",
+    "hp": 4,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.pole-position.pl/?page_id=387",
+  "family": "Kids' karts for children about 130/135-150 cm and two-seaters for young children with an adult; birthday child rides free.",
+  "group": "Pole Position Cup for 8-15 people and exclusive track hire with 12 karts (3,500 PLN/hour).",
+  "prices": [
+   {
+    "label": "SODI 6.5 KM kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": "10 zł cheaper Mon-Fri until 17:00"
+   },
+   {
+    "label": "SODI 4.5 KM kart (children)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "Children 135-150 cm"
+   },
+   {
+    "label": "SODI 9.5 KM two-seater",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 90,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Adult with a child"
+   },
+   {
+    "label": "Pole Position Cup",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, 8-15 people, promo price (regular 280 zł)"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://pole-position.pl/?page_id=747",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.pole-position.pl/?page_id=387",
+   "https://pole-position.pl/?page_id=747",
+   "https://pole-position.pl/?page_id=15"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Outdoor track of roughly 1 km on a former car park; price list names the kids' kart SODI 4.5 hp while the track page lists Dino 4 hp (130-150 cm)."
+ },
+ {
+  "id": "way/691243123",
+  "name": "Pole Position Janki",
+  "website": "https://www.pole-position.pl/?page_id=413",
+  "websites": [
+   {
+    "url": "https://www.pole-position.pl/?page_id=413",
+    "role": "rental",
+    "name": "Pole Position - Tor Janki"
+   }
+  ],
+  "phone": "+48 606 339 338",
+  "email": "janki@pole-position.pl",
+  "address": "ul. Graniczna 15, Sękocin Stary",
+  "hours": "Mon-Fri 15:00-22:00; Sat-Sun 11:00-22:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi",
+    "engine": "200cc",
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Two-seater",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "twin"
+   },
+   {
+    "chassis": "Dino",
+    "engine": "120cc",
+    "hp": 4,
+    "class": "kids"
+   },
+   {
+    "chassis": "CRG Puffo",
+    "engine": "35cc",
+    "hp": 1.5,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.pole-position.pl/?page_id=413",
+  "family": "Dino kids' karts for 135-150 cm, CRG Puffo for 105-130 cm in academy classes or lessons only, and two-seaters for young children with an adult.",
+  "group": "Pole Position Cup for 8-12 people and exclusive track hire with 10 karts (3,500 PLN/hour).",
+  "prices": [
+   {
+    "label": "SODI 6.5 KM kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI 4.5 KM kart (children)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "Children 135-150 cm"
+   },
+   {
+    "label": "SODI 9.5 KM two-seater",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 90,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Adult with a child"
+   },
+   {
+    "label": "Pole Position Cup",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 280,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, 8-12 people, advance booking"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://pole-position.pl/?page_id=747",
+  "tracks": [
+   {
+    "name": "Tor Janki (standard layout)",
+    "length_m": 350,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.pole-position.pl/?page_id=413",
+   "https://pole-position.pl/?page_id=747",
+   "https://pole-position.pl/?page_id=15"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Heated indoor hall of about 3,000 m² with part of the track outdoors in summer."
+ },
+ {
+  "id": "way/1374849199",
+  "name": "Racing Center Warsaw",
+  "website": "https://rcw.pl/",
+  "websites": [
+   {
+    "url": "https://rcw.pl/",
+    "role": "rental",
+    "name": "Racing Center Warsaw (RCW)"
+   }
+  ],
+  "phone": "+48 509 760 600; +48 882 760 600",
+  "email": null,
+  "address": "ul. Grodziska 58, Stara Wieś",
+  "hours": "Not stated; call to check track availability",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi RSX",
+    "engine": "electric",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": 6.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi Kid Racer",
+    "engine": null,
+    "hp": 1.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Electric tandem",
+    "engine": "electric",
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 4,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 160,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://rcw.pl/cennik/122",
+  "family": "Kid Racer karts for 4-5 year-olds on a 25 m mini track, LR5 youth karts for 135-160 cm and an electric tandem with passengers from 110 cm; large-family card accepted.",
+  "group": "Company and group events offered; vouchers available.",
+  "prices": [
+   {
+    "label": "SODI RSX electric 9 KM, 1 ride",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 160,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI RSX, pass 5 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 420,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI RSX, pass 10 rides",
+    "class": "adult",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 810,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Tandem, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 109,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Passenger from 110 cm; driver must be adult and have done one RSX ride"
+   },
+   {
+    "label": "SODI KID RACER 1.5 KM, 1 ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 6,
+    "laps": null,
+    "price": 45,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 4,
+    "max_age": 5,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5 6.5 KM, 1 ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI LR5, pass 5 rides",
+    "class": "kids",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 370,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pakiet startowy SODI RSX",
+    "class": "adult",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 189,
+    "currency": "PLN",
+    "extras": "driver account and balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "New customers only; 2 x 8 min"
+   },
+   {
+    "label": "Pakiet startowy SODI LR5",
+    "class": "kids",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 169,
+    "currency": "PLN",
+    "extras": "driver account and balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "New customers only; 2 x 8 min"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": null,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Required; price not stated"
+   },
+   {
+    "name": "Driver account",
+    "amount": null,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "Price not stated; valid at 20+ tracks"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://rcw.pl/cennik/122",
+  "tracks": [
+   {
+    "name": "RCW18",
+    "length_m": 700,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Kid Racer mini track",
+    "length_m": 25,
+    "width_m": null,
+    "use": "kids"
+   }
+  ],
+  "layout_page": "https://rcw.pl/uploads/thumb/mapka.png",
+  "sources": [
+   "https://rcw.pl/",
+   "https://rcw.pl/cennik/122",
+   "https://rcw.pl/specyfikacja-toru/124"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Heated indoor hall with electric adult karts; track about 700 m with four surface types."
+ },
+ {
+  "id": "node/8815465640",
+  "name": "S-Kart Bytom",
+  "website": "https://www.s-kart.pl/",
+  "websites": [
+   {
+    "url": "https://www.s-kart.pl/",
+    "role": "rental",
+    "name": "S-Kart Bytom"
+   }
+  ],
+  "phone": "+48 570 570 766",
+  "email": "kontakt@s-kart.pl",
+  "address": "ul. Popiełuszki 1, 41-906 Bytom",
+  "hours": "Mon-Thu 12:00-22:00; Fri 12:00-23:00; Sat-Sun 10:00-22:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Caroli Hammerhead",
+    "engine": "Honda",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Caroli Stinger",
+    "engine": "Honda",
+    "hp": 13,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RT8",
+    "engine": "Honda 400cc",
+    "hp": 19,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi Junior",
+    "engine": "Honda GX160",
+    "hp": 5.5,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": 1.5,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 100,
+   "adult_min_age": null,
+   "adult_min_height_cm": 145,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.s-kart.pl/",
+  "family": "Children's 1.5 hp karts from 100 cm and Junior 5.5 hp karts from 130/135 cm; karting academy with instructor.",
+  "group": "Exclusive track hire (from 810 PLN per 30 min for 6 karts), tournaments, corporate and stag/hen events with catering.",
+  "prices": [
+   {
+    "label": "1.5 KM kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 59,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 100,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "5.5 KM junior kart",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 59,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "9 KM kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 59,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "13 KM kart",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SODI 19 KM racing kart",
+    "class": "race",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pass 5 x 8 min (9 KM / 5.5 KM)",
+    "class": "other",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 255,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Personal, valid one month"
+   },
+   {
+    "label": "Pass 10 x 8 min (9 KM / 5.5 KM)",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 430,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Personal, valid one month"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://s-kart.pl/cennik/",
+  "tracks": [
+   {
+    "name": "S-Kart Bytom (current configuration)",
+    "length_m": 750,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.s-kart.pl/",
+   "https://s-kart.pl/cennik/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Indoor hall of 3,400 m²; site says the current layout is 'nearly 750 m'; reservations by phone."
+ },
+ {
+  "id": "node/6334079729",
+  "name": null,
+  "website": "https://racingpark.pl/skawina/",
+  "websites": [
+   {
+    "url": "https://racingpark.pl/skawina/",
+    "role": "rental",
+    "name": "SKW Racing Park Skawina"
+   }
+  ],
+  "phone": "+48 513 827 301",
+  "email": "rezerwacje@skw-racingpark.pl",
+  "address": "ul. Fieldorfa Nila 7, 32-050 Skawina (Strefa Ekonomiczna)",
+  "hours": "Mon 15:00-22:30; Tue-Fri 15:00-22:00; Sat 10:00-22:00; Sun 10:00-21:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi RT10",
+    "engine": null,
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": 5.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": 9,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 120,
+   "adult_min_age": 15,
+   "adult_min_height_cm": 135,
+   "twin_passenger_min_age": 4
+  },
+  "ages_source": "https://racingpark.pl/skawina/",
+  "family": "Junior karts from age 8 / 120 cm, tandems with child passengers from 4 years / 110 cm, birthday parties, school trips and a karting academy.",
+  "group": "Exclusive track hire with 6 karts (from 654 PLN per 30 min), stag/hen parties, company events and school groups.",
+  "prices": [
+   {
+    "label": "Senior 6.5 KM, 1 ride",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 54,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Junior 5.5 KM, 1 ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 54,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Tandem 9 KM, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 82,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SKW Starter (Senior/Junior)",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 119,
+    "currency": "PLN",
+    "extras": "balaclava and driver card",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SKW Starter (Tandem)",
+    "class": "twin",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 159,
+    "currency": "PLN",
+    "extras": "balaclava and driver card",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pass 5 rides Junior/Senior",
+    "class": "other",
+    "type": "package",
+    "minutes": 40,
+    "laps": null,
+    "price": 255,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pass 10 rides Junior/Senior",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 485,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Tania Środa Junior/Senior 2x8 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 89,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Wednesday",
+    "note": "Promotion; not on public holidays"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Driver card (gokartsystem.pl)",
+    "amount": 12,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 12,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://racingpark.pl/skawina/cennik/",
+  "tracks": [
+   {
+    "name": "SKW Racing Park Skawina",
+    "length_m": 200,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://racingpark.pl/skawina/uklad-toru/",
+  "sources": [
+   "https://racingpark.pl/skawina/",
+   "https://racingpark.pl/skawina/cennik/",
+   "https://racingpark.pl/skawina/uklad-toru/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Indoor hall track (1,680 m²); old domain skw-racingpark.pl redirects to racingpark.pl/skawina; pit bike rental also offered."
+ },
+ {
+  "id": "way/1172858393",
+  "name": "TOP1 KARTING",
+  "website": "https://top1karting.pl",
+  "websites": [
+   {
+    "url": "https://top1karting.pl",
+    "role": "rental",
+    "name": "TOP1 KARTING"
+   }
+  ],
+  "phone": "+48 730 44 44 11",
+  "email": null,
+  "address": "ul. Rakietowa 44, 54-615 Wrocław",
+  "hours": "Mon-Wed 14:00-22:00; Thu-Sun 12:00-22:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": 150,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://top1karting.pl/cennik/bilety",
+  "family": "Junior LR5 karts from 135 cm, tandems with an adult driver and passenger from 115 cm, birthday packages and a karting school.",
+  "group": "Event GP packages with exclusive track hire, company integration races and tournaments.",
+  "prices": [
+   {
+    "label": "Gokart seniorski (SODI SR5)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 78,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 150,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart juniorski (SODI LR5)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 73,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 135,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart podwójny tandem (SODI 2Drive)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 90,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Price per kart; passenger from 115 cm"
+   },
+   {
+    "label": "Individual training",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Plus the cost of kart rides"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Membership card (karta członkowska)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 12,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": null,
+    "note": "Helmet loan free"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://top1karting.pl/cennik/bilety",
+  "tracks": [
+   {
+    "name": "TOP1 KARTING indoor/outdoor two-level track",
+    "length_m": 850,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://top1karting.pl",
+   "https://top1karting.pl/cennik/bilety",
+   "https://top1karting.pl/kontakt"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Two-level track: 650 m indoor plus about 200-250 m outdoor section, stated as 'over 850 m' in total."
+ },
+ {
+  "id": "relation/17868808",
+  "name": "Sadkarting",
+  "website": "https://www.sadkarting.pl/",
+  "websites": [
+   {
+    "url": "https://www.sadkarting.pl/",
+    "role": "rental",
+    "name": "Sadkarting"
+   }
+  ],
+  "phone": "+48 606 625 043",
+  "email": "biuro@sadkarting.pl",
+  "address": "ul. Gen. Nikodema Sulika 3, 15-199 Białystok",
+  "hours": "Mon-Fri 13:00-22:00; Sat-Sun 10:00-22:00 (weather permitting)",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi RT10 Prestige",
+    "engine": "Honda 270cc",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda 200cc",
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "Honda 160cc",
+    "hp": 5.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda 270cc",
+    "hp": 9,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi KidRacer",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 3,
+   "kids_min_height_cm": 135,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.sadkarting.pl/cennik/",
+  "family": "Electric KidRacer on a separate track for ages 3-6, solo driving from 135 cm, and 2Drive tandems for a parent with a smaller child; birthday parties.",
+  "group": "Exclusive track hire, Grand Prix corporate events and stag/hen parties.",
+  "prices": [
+   {
+    "label": "Single ride (RT10/SR5/LR5)",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Package 2x8 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 165,
+    "currency": "PLN",
+    "extras": "GokartSystem card and balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Package 3x8 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 220,
+    "currency": "PLN",
+    "extras": "GokartSystem card and balaclava",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Season pass 10x8 min",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 675,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Personal, valid one season"
+   },
+   {
+    "label": "Sodi 2Drive single ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi 2Drive package 2x8 min",
+    "class": "twin",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 195,
+    "currency": "PLN",
+    "extras": "GokartSystem card and two balaclavas",
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "KidRacer single ticket",
+    "class": "kids",
+    "type": "session",
+    "minutes": 6,
+    "laps": null,
+    "price": 35,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 3,
+    "max_age": 6,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [
+   {
+    "name": "GokartSystem card",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": "Includes insurance; included in packages"
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Included in packages"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.sadkarting.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Sadkarting large track",
+    "length_m": 750,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.sadkarting.pl/",
+   "https://www.sadkarting.pl/cennik/",
+   "https://www.sadkarting.pl/flota/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Outdoor track, about 750 m per the site; individual rides are first come, first served."
+ },
+ {
+  "id": "node/9067756270",
+  "name": "Le Mans Wrocław (Tarczyński Arena)",
+  "website": "https://wroclaw.lemans.pl/",
+  "websites": [
+   {
+    "url": "https://wroclaw.lemans.pl/",
+    "role": "rental",
+    "name": "Le Mans Wrocław"
+   }
+  ],
+  "phone": "+48 71 71 60 400",
+  "email": "rezerwacja@lemans.pl",
+  "address": "Aleja Śląska 1, 54-118 Wrocław (Tarczyński Arena, gate C or D)",
+  "hours": "Mon-Thu 14:00-22:00; Fri 12:00-22:00; Sat 10:00-22:00 (under-16 rides until 14:00); Sun 10:00-20:00",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "200cc",
+    "hp": 6.5,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi GT4",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Tandem",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 135,
+   "adult_min_age": 16,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://wroclaw.lemans.pl/cennik/",
+  "family": "Children's rides from 135 cm up to age 16, a separate children's track for the youngest, tandems for small children with a parent and summer karting day camps.",
+  "group": "Individual trainer sessions and racepasses; group bookings via the operator.",
+  "prices": [
+   {
+    "label": "Adults and youth 16+",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 59,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": null
+   },
+   {
+    "label": "Adults and youth 16+",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun and holidays",
+    "note": null
+   },
+   {
+    "label": "Children 135 cm to under 16",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 49,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": 135,
+    "day": "Mon-Thu",
+    "note": null
+   },
+   {
+    "label": "Children 135 cm to under 16",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 55,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 15,
+    "min_height_cm": 135,
+    "day": "Fri-Sun and holidays",
+    "note": null
+   },
+   {
+    "label": "GT4 9 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Requires a qualifying lap record"
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 69,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Mon-Thu",
+    "note": null
+   },
+   {
+    "label": "Tandem",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 79,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "Fri-Sun and holidays",
+    "note": null
+   },
+   {
+    "label": "Racepass adults 10 x 10 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 585,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Racepass children 10 x 10 min",
+    "class": "kids",
+    "type": "package",
+    "minutes": 100,
+    "laps": null,
+    "price": 495,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Individual trainer session",
+    "class": "other",
+    "type": "package",
+    "minutes": 30,
+    "laps": null,
+    "price": 299,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 10 min, about 1.5 h"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Registration",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 12,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Own allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://wroclaw.lemans.pl/cennik/",
+  "tracks": [
+   {
+    "name": "Le Mans Wrocław",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": "https://wroclaw.lemans.pl/wp-content/uploads/2023/11/mapa-bez-tla.png",
+  "sources": [
+   "https://wroclaw.lemans.pl/cennik/",
+   "https://wroclaw.lemans.pl/o-torze/",
+   "https://wroclaw.lemans.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Indoor track inside Tarczyński Arena (OSM says outdoor); track map states 900 m while the price page says over 1,000 m."
+ },
+ {
+  "id": "way/235991206",
+  "name": "Tor Gokartowy Szczecin",
+  "website": "https://www.gokart.pl/",
+  "websites": [
+   {
+    "url": "https://www.gokart.pl/",
+    "role": "rental",
+    "name": "Tor Gokartowy Szczecin"
+   }
+  ],
+  "phone": "+48 601 972 076; +48 604 511 508",
+  "email": "info@gokart.pl",
+  "address": "al. Wojska Polskiego 237a, Szczecin",
+  "hours": "Daily 12:00-20:00 (also in winter, 1 Oct-30 Apr)",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR4",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "390cc",
+    "hp": 13,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RX250",
+    "engine": "250cc",
+    "hp": 28,
+    "class": "race"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": "200cc",
+    "hp": 6.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "270cc",
+    "hp": 9,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 2
+  },
+  "ages_source": "https://www.gokart.pl/",
+  "family": "LR5 karts for children and 2Drive tandems with an adult and passengers from age 2; 50% off one ride on your birthday.",
+  "group": "Private track hire with 10 karts (2,400 PLN per 30 min), custom layouts, tournaments and 10% off rides for groups over 10.",
+  "prices": [
+   {
+    "label": "Sodi SR4, 8 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi SR4, 16 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 145,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi SR4, 30 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 30,
+    "laps": null,
+    "price": 265,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi SR5, 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 100,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Requires driver card and 9 hp qualification"
+   },
+   {
+    "label": "Sodi RX250, 15 min",
+    "class": "race",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 275,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Requires 13 hp qualification"
+   },
+   {
+    "label": "Sodi LR5, 8 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi LR5, 16 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 145,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi 2DRIVE, 8 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 90,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Sodi 2DRIVE, 16 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 175,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Pass 11 x 8 min (SR4/LR5)",
+    "class": "other",
+    "type": "package",
+    "minutes": 88,
+    "laps": null,
+    "price": 750,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "One person, valid 6 months"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Gloves rental",
+    "amount": 8,
+    "currency": "PLN",
+    "period": "per visit",
+    "mandatory": false,
+    "note": null
+   },
+   {
+    "name": "Driver card (karta kierowcy)",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "year",
+    "mandatory": null,
+    "note": "Required for SR5"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.gokart.pl/cennik.html",
+  "tracks": [
+   {
+    "name": "Tor Gokartowy Szczecin",
+    "length_m": 900,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokart.pl/",
+   "https://www.gokart.pl/cennik.html",
+   "https://www.gokart.pl/regulamin.html"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Lit outdoor track of about 900 m, 8-12 m wide; up to 30 karts on track."
+ },
+ {
+  "id": "node/2378222100",
+  "name": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "address": null,
+  "hours": null,
+  "status": "unknown",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.mark-tor.elk.pl/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Known website mark-tor.elk.pl only shows a 'technical break' maintenance page (expired certificate); no other online presence found."
+ },
+ {
+  "id": "way/714617591",
+  "name": "Tor Sportowy Czyżoring",
+  "website": "http://www.torkartingowy.wodzislaw.pl/",
+  "websites": [
+   {
+    "url": "http://www.torkartingowy.wodzislaw.pl/",
+    "role": "rental",
+    "name": "Tor Kartingowy Czyżoring"
+   }
+  ],
+  "phone": "+48 604 497 926",
+  "email": "torsportowyczyzoring@gmail.com",
+  "address": "ul. Czyżowicka 79a, 44-300 Wodzisław Śląski",
+  "hours": "Tue-Sun (times via Google or phone); groups of 3+ must book",
+  "status": "unknown",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "160cc",
+    "hp": 5.5,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": "270cc",
+    "hp": 9,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "420cc",
+    "hp": 15,
+    "class": "race"
+   },
+   {
+    "chassis": "DUO",
+    "engine": "160cc",
+    "hp": 5.5,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 6,
+   "kids_min_height_cm": 140,
+   "adult_min_age": 16,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 3
+  },
+  "ages_source": "http://www.torkartingowy.wodzislaw.pl/",
+  "family": "5.5 hp karts for ages 6-16 (min. 140 cm) and a DUO kart for an adult with a child aged 3-7.",
+  "group": null,
+  "prices": [
+   {
+    "label": "Gokart 5.5 KM, 8 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 47,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 6,
+    "max_age": 16,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart 5.5 KM, 10 min",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 57,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 6,
+    "max_age": 16,
+    "min_height_cm": 140,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart 5.5 KM, 2 x 8 min",
+    "class": "kids",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Promotion, one participant"
+   },
+   {
+    "label": "Gokart 9 KM, 8 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 52,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart 9 KM, 10 min",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 62,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Gokart 9 KM, 2 x 8 min",
+    "class": "adult",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 94,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Promotion, one participant"
+   },
+   {
+    "label": "Gokart 15 KM, 10 min",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 73,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Only after reaching a set lap time on the 9 KM kart"
+   },
+   {
+    "label": "Gokart DUO, 8 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 62,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Adult with child aged 3-7"
+   },
+   {
+    "label": "Gokart DUO, 10 min",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 72,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "http://www.torkartingowy.wodzislaw.pl/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "http://www.torkartingowy.wodzislaw.pl/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Sports track also open to motorcycles and own karts (20 zł/15 min); site's opening notice ('from 12.04, Tuesday') suggests the page dates from 2022, so prices may be outdated."
+ },
+ {
+  "id": "node/5888661145",
+  "name": null,
+  "website": null,
+  "websites": [],
+  "phone": null,
+  "email": null,
+  "address": null,
+  "hours": null,
+  "status": "unknown",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "karts": [],
+  "ages": null,
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://dsspeed.pl"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "No online presence found: known domain dsspeed.pl no longer resolves and searches found only travel-directory listings."
+ },
+ {
+  "id": "way/1415714770",
+  "name": "E1GOKART Poznań Rabowice",
+  "website": "https://poznan-rabowice.e1gokart.pl/",
+  "websites": [
+   {
+    "url": "https://poznan-rabowice.e1gokart.pl/",
+    "role": "rental",
+    "name": "E1GOKART Poznań Rabowice"
+   }
+  ],
+  "phone": "+48 607 111 959",
+  "email": "rabowice@e1gokart.pl",
+  "address": "ul. Średzka 2AB, 62-020 Rabowice",
+  "hours": "Mon-Thu 14:00-22:00; Fri 14:00-23:00; Sat 9:00-23:00; Sun 9:00-21:00 (weekends 9-11 family sessions; school holidays weekdays from 11:00)",
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi SR5",
+    "engine": null,
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi LR5",
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi KidRacer",
+    "engine": "electric",
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 130,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://poznan-rabowice.e1gokart.pl/cennik/",
+  "family": "Weekend family sessions 9:00-11:00, junior karts from 130 cm, electric KidRacer for the youngest and tandems with child passengers from about 5 years / 110 cm.",
+  "group": "Group packages for 6-14 drivers (Mon-Thu) or 10-14 (Fri-Sun) and Grand Prix race formats.",
+  "prices": [
+   {
+    "label": "Single kart, 1 ride",
+    "class": "other",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 65,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 60 zł"
+   },
+   {
+    "label": "Single kart, 2 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 125,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 3 rides",
+    "class": "other",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 185,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, one driver, one day"
+   },
+   {
+    "label": "Single kart, 10 rides card",
+    "class": "other",
+    "type": "package",
+    "minutes": 80,
+    "laps": null,
+    "price": 600,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Valid 365 days"
+   },
+   {
+    "label": "Double kart, 1 ride",
+    "class": "twin",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Each further ride the same day 70 zł"
+   },
+   {
+    "label": "Double kart, 2 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 145,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Double kart, 3 rides",
+    "class": "twin",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 215,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Mini Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 150,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, reservation required"
+   },
+   {
+    "label": "Grand Prix",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 200,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, reservation required"
+   },
+   {
+    "label": "Grand Prix max",
+    "class": "other",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 250,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, reservation required"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Membership card / registration",
+    "amount": 10,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": "Own allowed"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://poznan-rabowice.e1gokart.pl/cennik/",
+  "tracks": [
+   {
+    "name": "E1GOKART Rabowice three-level track",
+    "length_m": 600,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://poznan-rabowice.e1gokart.pl/cennik/",
+   "https://poznan-rabowice.e1gokart.pl/o-torze/",
+   "https://poznan-rabowice.e1gokart.pl/kontakt/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Three-level indoor track in a 2,800 m² hall; 40 Sodi karts; max driver weight 120 kg."
+ },
+ {
+  "id": "way/378900002",
+  "name": "WallraV Race Center",
+  "website": "https://www.wallravracecenter.com/",
+  "websites": [
+   {
+    "url": "https://www.wallravracecenter.com/",
+    "role": "rental",
+    "name": "WallraV Race Center"
+   }
+  ],
+  "phone": "+48 602 125 089",
+  "email": "tor@wallrav.com",
+  "address": "Stary Kisielin - Zatorze 100, 66-002 Zielona Góra",
+  "hours": null,
+  "status": "open",
+  "type": null,
+  "rental": "yes",
+  "own_karts": null,
+  "karts": [
+   {
+    "chassis": "Sodi Kids",
+    "engine": "Honda GX200",
+    "hp": 6.5,
+    "class": "kids"
+   },
+   {
+    "chassis": "Sodi SR5",
+    "engine": "Honda GX270",
+    "hp": 10,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi RT10",
+    "engine": "Honda GX390",
+    "hp": 15,
+    "class": "adult"
+   },
+   {
+    "chassis": "Sodi 2Drive",
+    "engine": "Honda GX390",
+    "hp": 15,
+    "class": "twin"
+   },
+   {
+    "chassis": "Sodi SSport",
+    "engine": "SA250",
+    "hp": 28,
+    "class": "race"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 110,
+   "adult_min_age": 12,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://wallravracecenter.com/wypozyczalnia/",
+  "family": "Kids' karts for ages 8-12 (over 110 cm); SR5 karts from age 12.",
+  "group": "Mini Cup and GP race formats for groups of 10+ aged 16 or older (from 240 PLN per person) and exclusive track reservations; corporate events.",
+  "prices": [
+   {
+    "label": "KIDS GX200 6.5 KM",
+    "class": "kids",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 75,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": 12,
+    "min_height_cm": 110,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "SR5 GX270 10 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 85,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 12,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "RT10 GX390 15 KM",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 95,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 16,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2DRIVE GX390 15 KM",
+    "class": "twin",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 100,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Driver from 18 years"
+   },
+   {
+    "label": "SSPORT SA250 28 KM",
+    "class": "race",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 180,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": 18,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Mini Cup (SR5)",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 240,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, groups of 10+ aged 16+"
+   },
+   {
+    "label": "GP (SR5)",
+    "class": "adult",
+    "type": "package",
+    "minutes": null,
+    "laps": null,
+    "price": 320,
+    "currency": "PLN",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Per person, groups of 10+ aged 16+"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Timing system login card",
+    "amount": 15,
+    "currency": "PLN",
+    "period": "one-time",
+    "mandatory": true,
+    "note": null
+   },
+   {
+    "name": "Balaclava (kominiarka)",
+    "amount": 20,
+    "currency": "PLN",
+    "period": "once",
+    "mandatory": true,
+    "note": null
+   }
+  ],
+  "membership": null,
+  "price_source": "https://wallravracecenter.com/wypozyczalnia/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.wallravracecenter.com/",
+   "https://wallravracecenter.com/wypozyczalnia/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Race center with kart rental, motorcycle track days and track hire; opening hours and track length not stated."
+ }
+]

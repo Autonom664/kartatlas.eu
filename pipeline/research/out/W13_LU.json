@@ -1,0 +1,382 @@
+[
+ {
+  "name": "Mini Circuit Ville de Luxembourg (Luxembourg Modell Car Club)",
+  "website": "https://www.lmcc.lu",
+  "websites": [
+   {
+    "url": "https://www.lmcc.lu",
+    "role": "club",
+    "name": "Luxembourg Modell Car Club (LMCC)"
+   }
+  ],
+  "phone": null,
+  "email": null,
+  "address": "Rue In Bouler, Gasperich, L-1488 Luxembourg (per OSM)",
+  "hours": null,
+  "status": "unknown",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.lmcc.lu",
+   "https://www.openstreetmap.org/way/777454468",
+   "https://www.openstreetmap.org/way/752734871"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not a kart venue: 'Pit Lane' is a mapped segment inside the Mini Circuit Ville de Luxembourg (OSM way 777454468, sport=rc_car), the radio-controlled model car circuit of the Luxembourg Modell Car Club.",
+  "id": "way/752734871"
+ },
+ {
+  "name": "ACL Karting Mondercange",
+  "website": "https://www.acl.lu/en/leisures/karting/",
+  "websites": [
+   {
+    "url": "https://www.acl.lu/en/leisures/karting/",
+    "role": "venue",
+    "name": "ACL Karting (Automobile Club Luxembourg)"
+   },
+   {
+    "url": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=882&category=304",
+    "role": "rental",
+    "name": "ACL Karting online booking (Apex Timing)"
+   }
+  ],
+  "phone": "+352 37 90 01",
+  "email": "karting@acl.lu",
+  "address": "152, rue de Limpach, L-3932 Mondercange",
+  "hours": "Track Wed-Sun 9:00-16:30 (winter schedule, Nov-Feb); bar 9:00-19:00; closed Mon-Tue to public; closed 17 Dec 2026 - 5 Jan 2027",
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": "yes",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "270 cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": "200 cc",
+    "hp": null,
+    "class": "kids"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "twin"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 8,
+   "kids_min_height_cm": 130,
+   "adult_min_age": 15,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": 5
+  },
+  "ages_source": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=882&category=304",
+  "family": "Juniors aged 8-14 (min. 1.30 m) drive 200 cc karts, and two-seater sessions take passengers from age 5 with an adult driver.",
+  "group": "Grand Prix packages (practice/qualifying plus race) for groups of 8-12+, children's birthday package and corporate events are offered.",
+  "prices": [
+   {
+    "label": "1 Session 200CC (Sessions Junior)",
+    "class": "kids",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 24,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2 Session 200CC (Sessions Junior)",
+    "class": "kids",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 46,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": 14,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "2 x 12 minutes; struck-through price 48 EUR"
+   },
+   {
+    "label": "1 Session 270CC (Sessions Adultes)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 28,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2 Sessions 270CC (Sessions Adultes)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 52,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 12 minutes; struck-through price 56 EUR"
+   },
+   {
+    "label": "3 Session 270CC (Sessions Adultes)",
+    "class": "adult",
+    "type": "package",
+    "minutes": 36,
+    "laps": null,
+    "price": 74,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 12 minutes; struck-through price 84 EUR"
+   },
+   {
+    "label": "1 Session Biplace (in adult or children's sessions)",
+    "class": "twin",
+    "type": "session",
+    "minutes": 12,
+    "laps": null,
+    "price": 28,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "Passenger from age 5, adult driver only"
+   },
+   {
+    "label": "2 Sessions Biplace",
+    "class": "twin",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 52,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 12 minutes; passenger from age 5, adult driver only; in adult sessions struck-through price 56 EUR"
+   },
+   {
+    "label": "3 Sessions Biplace",
+    "class": "twin",
+    "type": "package",
+    "minutes": 36,
+    "laps": null,
+    "price": 74,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 12 minutes; passenger from age 5, adult driver only; in adult sessions struck-through price 84 EUR"
+   },
+   {
+    "label": "Grand Prix Adultes S 270cc",
+    "class": "adult",
+    "type": "package",
+    "minutes": 28,
+    "laps": null,
+    "price": 56,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "8 people minimum; 8 min practice and qualifying + 20 min race"
+   },
+   {
+    "label": "Grand Prix Adultes M 270cc",
+    "class": "adult",
+    "type": "package",
+    "minutes": 42,
+    "laps": null,
+    "price": 75,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 15,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "12 people minimum; 12 min practice and qualifying + 30 min race"
+   },
+   {
+    "label": "Grand Prix Enfants S 200cc",
+    "class": "kids",
+    "type": "package",
+    "minutes": 28,
+    "laps": null,
+    "price": 50,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": 8,
+    "max_age": null,
+    "min_height_cm": 130,
+    "day": null,
+    "note": "8 people minimum; 8 min practice and qualifying + 20 min race"
+   },
+   {
+    "label": "Formule anniversaire enfants 20 Min 200cc",
+    "class": "kids",
+    "type": "package",
+    "minutes": 20,
+    "laps": null,
+    "price": 37,
+    "currency": "EUR",
+    "extras": "soft drink, medals",
+    "member": null,
+    "min_age": 8,
+    "max_age": 14,
+    "min_height_cm": 135,
+    "day": null,
+    "note": "8 people minimum; 1 soft drink per driver; podium with medals for top 3"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Overall hire",
+    "amount": 5,
+    "currency": "EUR",
+    "period": "per use",
+    "mandatory": false,
+    "note": "Overalls can be hired"
+   },
+   {
+    "name": "Private kart track rental",
+    "amount": 175.5,
+    "currency": "EUR",
+    "period": "per hour",
+    "mandatory": false,
+    "note": "Own karts when track closed to public; ACL Loisir licence required"
+   },
+   {
+    "name": "Private kart Saturday session",
+    "amount": 40,
+    "currency": "EUR",
+    "period": "per Saturday",
+    "mandatory": false,
+    "note": "4.5 h driving between 9:00 and 17:00 with own kart; ACL Sport Loisir licence required"
+   }
+  ],
+  "membership": "ACL Sport Loisir licence required to drive own (private) karts.",
+  "price_source": "https://www.apex-timing.com/gokarts/sessions_booking.php?center=882&category=304",
+  "tracks": [
+   {
+    "name": "ACL Karting Mondercange",
+    "length_m": 867,
+    "width_m": 8,
+    "use": "rental and private karts"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.acl.lu/en/leisures/karting/",
+   "https://www.apex-timing.com/gokarts/sessions_booking.php?center=882&category=304",
+   "https://www.acl.lu/en/magazine/news/mondercange-karting-track-open-all-year-round/"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "ACL-run outdoor track open since 1974; 20% off Wed-Fri sessions Nov-Feb; booking opens up to 3 weeks ahead.",
+  "id": "way/460847946"
+ },
+ {
+  "name": "Mini-Cars (Parc Merveilleux)",
+  "website": "https://www.parc-merveilleux.lu/dein-parkbesuch/attraktionen/fahrgeschaefte",
+  "websites": [
+   {
+    "url": "https://www.parc-merveilleux.lu",
+    "role": "other",
+    "name": "Parc Merveilleux Bettembourg"
+   }
+  ],
+  "phone": "+352 51 10 48 1",
+  "email": null,
+  "address": null,
+  "hours": null,
+  "status": "unknown",
+  "type": null,
+  "rental": null,
+  "own_karts": null,
+  "karts": [],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.parc-merveilleux.lu/dein-parkbesuch/attraktionen/fahrgeschaefte",
+   "https://www.parc-merveilleux.lu"
+  ],
+  "checked_at": "2026-10-14",
+  "note": "Not a kart venue: Mini-Cars is a children's token ride (1.50 EUR per token) in the Parc Merveilleux amusement park, alongside its mini train and pony ride.",
+  "id": "way/433818623"
+ }
+]

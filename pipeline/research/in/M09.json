@@ -1,0 +1,426 @@
+[
+ {
+  "id": "node/4968398122",
+  "name": "CMKarting",
+  "town": "Praha",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 50.05877,
+  "lon": 14.29514,
+  "websites": [
+   "https://www.cmkarting.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/421326635",
+  "name": "Kart Arena Brno",
+  "town": "Brno",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.18397,
+  "lon": 16.58176,
+  "websites": [
+   "https://www.motokary-brno.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11181570558",
+  "name": "Lamborghini kart arena",
+  "town": "Olomouc",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.59741,
+  "lon": 17.25751,
+  "websites": [
+   "http://www.motokary-olomouc.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/304341132",
+  "name": "Motokáry Krmelín",
+  "town": "Krmelín",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.73373,
+  "lon": 18.24826,
+  "websites": [
+   "https://cs-cz.facebook.com/pg/MotokaryKrmelin"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/242996795",
+  "name": "Praga Arena",
+  "town": "SO Praha 20",
+  "country": "CZ",
+  "type": "indoor",
+  "lat": 50.11654,
+  "lon": 14.60684,
+  "websites": [
+   "https://pragaarena.cz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/3384106901",
+  "name": "\"Nitro Karting\"Tor Kartingowy",
+  "town": "Nowy Sącz",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.58564,
+  "lon": 20.67199,
+  "websites": [
+   "https://nitrokarting.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/216167772",
+  "name": "Autodrom Tor Kartingowy",
+  "town": "Sosnowiec",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.29508,
+  "lon": 19.11402,
+  "websites": [
+   "https://gokarty.sosnowiec.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/198291405",
+  "name": "Chrzanów Racing Park",
+  "town": "Chrzanów",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.12653,
+  "lon": 19.3671,
+  "websites": [
+   "https://racingpark.pl/chrzanow/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/340462059",
+  "name": "GoKarting Center",
+  "town": "Kraków",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 50.0273,
+  "lon": 20.04956,
+  "websites": [
+   "https://gokarting.com.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12463495441",
+  "name": "Gokart Extreme - Pilski Tor Kartingowy",
+  "town": "Piła",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.14247,
+  "lon": 16.7267,
+  "websites": [
+   "https://gokartextreme.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12081703669",
+  "name": "Karting Arena Kraków",
+  "town": "Kraków",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.08947,
+  "lon": 19.95083,
+  "websites": [
+   "https://kartingarena.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/155151329",
+  "name": "Kormoran Tor Kartingowy",
+  "town": "Olsztyn",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 53.77531,
+  "lon": 20.53045,
+  "websites": [
+   "https://torkormoran.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1272521465",
+  "name": "Le Mans Poznań Tor Kartingowy",
+  "town": "Jaryszki",
+  "country": "PL",
+  "type": "indoor",
+  "lat": 52.33642,
+  "lon": 17.01234,
+  "websites": [
+   "https://poznan.lemans.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13410245158",
+  "name": "Pole Position",
+  "town": "Warszawa",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.26517,
+  "lon": 20.93152,
+  "websites": [
+   "https://www.pole-position.pl/?page_id=387"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1374849199",
+  "name": "Racing Center Warszawa",
+  "town": "Stara Wieś",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 52.08266,
+  "lon": 20.77719,
+  "websites": [
+   "https://rcw.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/6334079729",
+  "name": "SKW Racing Park",
+  "town": "Skawina",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.97384,
+  "lon": 19.78694,
+  "websites": [
+   "https://skw-racingpark.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/9067756270",
+  "name": "Tor Kartingowy Le Mans Wrocław",
+  "town": "Wrocław",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 51.14287,
+  "lon": 16.94387,
+  "websites": [
+   "https://wroclaw.lemans.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/5888661145",
+  "name": "Tor kartingowy DS Speed",
+  "town": "Zamość",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.71436,
+  "lon": 23.2304,
+  "websites": [
+   "https://dsspeed.pl"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/378900002",
+  "name": "Tor kartingowy WallraV Race Center",
+  "town": "Zielona Góra",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 51.93989,
+  "lon": 15.60089,
+  "websites": [
+   "https://www.wallravracecenter.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11688436893",
+  "name": "WRT Karting",
+  "town": "Kraków",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.09038,
+  "lon": 20.03489,
+  "websites": [
+   "http://krakow.wrt-karting.pl/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11210902125",
+  "name": null,
+  "town": "Rakovník",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 50.11384,
+  "lon": 13.73558,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1374250838",
+  "name": null,
+  "town": "Havířov",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 49.7892,
+  "lon": 18.40275,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1021660390",
+  "name": null,
+  "town": "Chvalovice",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 48.76641,
+  "lon": 16.06169,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/209191545",
+  "name": "Motokáry Pánov",
+  "town": "Hodonín",
+  "country": "CZ",
+  "type": "outdoor",
+  "lat": 48.88779,
+  "lon": 17.1442,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/654470290",
+  "name": null,
+  "town": "Chojnice",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 53.68167,
+  "lon": 17.5373,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/643324411",
+  "name": null,
+  "town": "Bolesławiec",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 51.27462,
+  "lon": 15.58306,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1127486983",
+  "name": null,
+  "town": "Jałowe",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 49.41294,
+  "lon": 22.6385,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/7716694252",
+  "name": "BS KARTING",
+  "town": "Radom",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 51.39836,
+  "lon": 21.1674,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12108615161",
+  "name": "Crazy Carts",
+  "town": "Gdańsk",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 54.42518,
+  "lon": 18.49002,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1361546931",
+  "name": "Crazy Carts - Akademia Driftingu",
+  "town": "Wałbrzych",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.76665,
+  "lon": 16.26719,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11118813494",
+  "name": "Gokart Park",
+  "town": "Jędrzejów",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.63557,
+  "lon": 20.26371,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11042993196",
+  "name": "Motodrom",
+  "town": "Kraków",
+  "country": "PL",
+  "type": "outdoor",
+  "lat": 50.03849,
+  "lon": 20.05732,
+  "websites": [],
+  "known_layout_link": null,
+  "official_lengths": []
+ }
+]

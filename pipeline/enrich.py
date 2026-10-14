@@ -97,7 +97,12 @@ for f in sorted(glob.glob(base + '/research/geometry/*.json')):
             t['lm'] = t.get('lm') or round(max(sum(_m(p, q) for p, q in zip(l, l[1:])) for l in x['lines']))
 # track-map search results (research/out/maps/M*.json): only layout links and traced diagrams
 for f in sorted(glob.glob(base + '/research/out/maps/*.json')):
-    for r in json.load(open(f, encoding='utf-8')):
+    if os.path.basename(f) in SKIP: continue
+    try:
+        maps = json.load(open(f, encoding='utf-8'))
+    except ValueError:
+        print('skipped (being written):', f); continue
+    for r in maps:
         t = next((x for x in tracks if x['o'] == r['id']), None)
         if not t: continue
         if isinstance(r.get('layout_page'), str) and r['layout_page'].startswith('https://') and not t.get('Lu'): t['Lu'] = r['layout_page']
@@ -224,8 +229,9 @@ for t in tracks:
         t['FG'] = family[t['o']]
     else:
         r = res.get(t['o']) or {}
-        fam = [x for x in (r.get('family') or []) if isinstance(x, str) and x.strip()]
-        grp = [x for x in (r.get('group') or []) if isinstance(x, str) and x.strip()]
+        facts = lambda v: [v] if isinstance(v, str) else v if isinstance(v, list) else []  # one sentence or a list; flags ignored
+        fam = [x for x in facts(r.get('family')) if isinstance(x, str) and x.strip()]
+        grp = [x for x in facts(r.get('group')) if isinstance(x, str) and x.strip()]
         if fam or grp:
             t['FG'] = {'id': t['o'], 'checked_at': r.get('checked_at'), 'source': r.get('ages_source') or (r.get('sources') or [None])[0], 'family': fam, 'group': grp}
 json.dump({'date': RATES_DATE, 'used': sorted({x[5] for t in tracks for x in (t.get('P') or [])})}, open(base + '/rates_meta.json', 'w'))

@@ -363,5 +363,54 @@
  },
  "node/2756063118": {
   "kind": "indoor"
+ },
+ "way/752734871": {
+  "kind": "kids"
+ },
+ "way/224063895": {
+  "kind": "kids"
+ },
+ "node/13257241232": {
+  "kind": "kids"
+ },
+ "node/10706887712": {
+  "kind": "kids"
+ },
+ "node/2574756529": {
+  "kind": "kids"
+ },
+ "way/1124992595": {
+  "kind": "kids"
+ },
+ "way/361609526": {
+  "kind": "kids"
+ },
+ "node/6754045481": {
+  "dropurl": "skion.cz"
+ },
+ "way/433110600": {
+  "kind": "kids"
+ },
+ "way/704385231": {
+  "kind": "kids"
+ },
+ "node/12617704650": {
+  "kind": "kids"
+ },
+ "node/14057139363": {
+  "kind": "kids"
+ },
+ "node/9067756270": {
+  "name": "Tor Kartingowy Le Mans Wrocław",
+  "web": "https://wroclaw.lemans.pl/"
+ },
+ "node/5888661145": {
+  "dropurl": "dsspeed.pl"
+ },
+ "relation/14629604": {
+  "kind": "kids"
+ },
+ "node/7276301134": {
+  "kind": "kids"
  }
 }
