@@ -1,0 +1,1906 @@
+[
+ {
+  "id": "way/33894329",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (site pages: prices, karts, championship; search found nothing)"
+ },
+ {
+  "id": "way/127169866",
+  "layout_page": "http://www.kartfun-astenberg.de/kartbahn/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.kartfun-astenberg.de/fileadmin/_processed_/csm_Strecke_Transparent_3d_bf2b202f95.png",
+    "kind": "outline",
+    "used": false,
+    "why": "3D-style orange ribbon where adjacent track sections touch; 3 traces each shortcut the start/finish hairpin or took the pit lane"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "track map on venue site; automatic trace failed (touching ribbons)"
+ },
+ {
+  "id": "way/43869473",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (WordPress media library has only photos/logo)"
+ },
+ {
+  "id": "node/6205111509",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://karthalle-mainz.de/wp-content/uploads/2026/08/Strecke_Layout.png",
+    "kind": "other",
+    "used": false,
+    "why": "AI-generated 3D perspective rendering (labelled Made with AI); track sections merge into one dark surface, perspective-distorted, not traceable reliably"
+   },
+   {
+    "url": "https://karthalle-mainz.de/wp-content/uploads/2026/08/Vorstellung_Strecke.png",
+    "kind": "other",
+    "used": false,
+    "why": "text graphic only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "venue shows a 3D AI-rendered track illustration only; link removed: AI-generated or unverified layout image"
+ },
+ {
+  "id": "way/655238957",
+  "layout_page": "https://karthaus.de/wp-content/uploads/2024/05/Karthaus-Zweibruecken-Strecke.jpeg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://karthaus.de/wp-content/uploads/2024/05/Karthaus-Zweibruecken-Strecke.jpeg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "top-view rendering of hall; lanes only separated by thin barrier lines and asphalt shading varies; 3 traces gave open/partial paths missing the inner spiral and right-side connections"
+   },
+   {
+    "url": "https://karthaus.de/wp-content/uploads/2024/04/Kartstrecke.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "top-view site plan rendering in WordPress media library; trace failed"
+ },
+ {
+  "id": "way/29176372",
+  "layout_page": "http://www.kartion.de/kartbahn/strecke/streckenplan",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.kartion.de/sites/default/files/streckenverlauf1.gif",
+    "kind": "site_plan",
+    "used": false,
+    "why": "barrier plan (black barrier lines, track is the white space between them, open to outside); no drawn racing line, corridor trace not possible with the tools"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "Streckenplan page shows barrier layout only"
+ },
+ {
+  "id": "way/589950988",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (kartland-sinn.de is the Kart-Aktiv-Club site with only banner graphics and a kart photo)"
+ },
+ {
+  "id": "node/12513908020",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (site and media library show kart photos only)"
+ },
+ {
+  "id": "node/13110958672",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartraceland.de/wp-content/uploads/2020/02/Strecke-01.png",
+    "kind": "other",
+    "used": false,
+    "why": "generic route icon, not the track"
+   },
+   {
+    "url": "https://kartraceland.de/wp-content/uploads/2020/04/Icon-Strecke-NEU.svg",
+    "kind": "other",
+    "used": false,
+    "why": "45x45 generic track icon, not this layout"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (only photos and generic icons)"
+ },
+ {
+  "id": "way/340141838",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartsport-zentrum.de/fileadmin/user_upload/images/strecke/Kartsportzentrum_Rottal__5_-bw.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique aerial photo"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos found (strecke.html)"
+ },
+ {
+  "id": "node/3761972790",
+  "layout_page": "https://www.lemanskarting.de/kartbahn/die-strecke",
+  "layout_diagram": {
+   "points": [
+    [
+     130.5,
+     38.0
+    ],
+    [
+     164.6,
+     38.0
+    ],
+    [
+     198.7,
+     38.0
+    ],
+    [
+     232.7,
+     39.4
+    ],
+    [
+     265.2,
+     48.8
+    ],
+    [
+     291.1,
+     69.5
+    ],
+    [
+     299.0,
+     102.3
+    ],
+    [
+     301.0,
+     136.3
+    ],
+    [
+     296.7,
+     169.9
+    ],
+    [
+     276.2,
+     195.8
+    ],
+    [
+     249.4,
+     216.9
+    ],
+    [
+     223.0,
+     238.3
+    ],
+    [
+     196.7,
+     260.0
+    ],
+    [
+     170.3,
+     281.5
+    ],
+    [
+     146.9,
+     306.0
+    ],
+    [
+     137.0,
+     338.3
+    ],
+    [
+     144.8,
+     371.2
+    ],
+    [
+     169.4,
+     393.4
+    ],
+    [
+     202.7,
+     400.0
+    ],
+    [
+     236.7,
+     401.0
+    ],
+    [
+     270.8,
+     401.0
+    ],
+    [
+     304.9,
+     401.0
+    ],
+    [
+     338.9,
+     400.0
+    ],
+    [
+     371.2,
+     391.1
+    ],
+    [
+     388.1,
+     362.2
+    ],
+    [
+     397.0,
+     329.3
+    ],
+    [
+     410.4,
+     298.7
+    ],
+    [
+     429.1,
+     270.6
+    ],
+    [
+     439.9,
+     238.5
+    ],
+    [
+     450.1,
+     206.6
+    ],
+    [
+     478.9,
+     192.0
+    ],
+    [
+     507.8,
+     177.1
+    ],
+    [
+     526.8,
+     150.2
+    ],
+    [
+     556.5,
+     134.2
+    ],
+    [
+     583.9,
+     115.5
+    ],
+    [
+     605.6,
+     89.5
+    ],
+    [
+     628.3,
+     64.2
+    ],
+    [
+     655.7,
+     45.1
+    ],
+    [
+     689.2,
+     39.7
+    ],
+    [
+     723.2,
+     38.0
+    ],
+    [
+     757.3,
+     38.0
+    ],
+    [
+     791.4,
+     38.0
+    ],
+    [
+     825.5,
+     38.0
+    ],
+    [
+     859.1,
+     42.7
+    ],
+    [
+     886.2,
+     62.2
+    ],
+    [
+     895.8,
+     94.3
+    ],
+    [
+     885.5,
+     126.4
+    ],
+    [
+     858.4,
+     145.5
+    ],
+    [
+     824.5,
+     147.0
+    ],
+    [
+     790.6,
+     143.1
+    ],
+    [
+     756.8,
+     140.0
+    ],
+    [
+     722.9,
+     137.1
+    ],
+    [
+     688.9,
+     136.0
+    ],
+    [
+     655.0,
+     138.6
+    ],
+    [
+     626.1,
+     155.4
+    ],
+    [
+     614.3,
+     186.9
+    ],
+    [
+     612.0,
+     220.8
+    ],
+    [
+     617.2,
+     254.4
+    ],
+    [
+     640.8,
+     276.7
+    ],
+    [
+     674.5,
+     278.6
+    ],
+    [
+     706.8,
+     268.3
+    ],
+    [
+     738.5,
+     255.9
+    ],
+    [
+     769.8,
+     242.6
+    ],
+    [
+     800.9,
+     229.1
+    ],
+    [
+     831.5,
+     214.1
+    ],
+    [
+     865.0,
+     211.0
+    ],
+    [
+     892.7,
+     226.7
+    ],
+    [
+     899.8,
+     259.8
+    ],
+    [
+     900.0,
+     293.9
+    ],
+    [
+     898.7,
+     327.9
+    ],
+    [
+     884.0,
+     357.0
+    ],
+    [
+     850.7,
+     363.6
+    ],
+    [
+     816.7,
+     365.0
+    ],
+    [
+     782.6,
+     365.0
+    ],
+    [
+     748.6,
+     365.0
+    ],
+    [
+     714.5,
+     365.0
+    ],
+    [
+     680.4,
+     365.0
+    ],
+    [
+     646.3,
+     365.0
+    ],
+    [
+     612.2,
+     365.0
+    ],
+    [
+     578.1,
+     365.0
+    ],
+    [
+     544.0,
+     365.0
+    ],
+    [
+     510.1,
+     367.3
+    ],
+    [
+     479.0,
+     380.0
+    ],
+    [
+     466.6,
+     411.0
+    ],
+    [
+     462.1,
+     444.7
+    ],
+    [
+     447.9,
+     475.1
+    ],
+    [
+     417.4,
+     488.7
+    ],
+    [
+     383.6,
+     492.0
+    ],
+    [
+     349.5,
+     493.0
+    ],
+    [
+     315.4,
+     493.0
+    ],
+    [
+     281.4,
+     493.0
+    ],
+    [
+     247.3,
+     493.0
+    ],
+    [
+     213.2,
+     493.0
+    ],
+    [
+     179.1,
+     493.0
+    ],
+    [
+     145.1,
+     492.0
+    ],
+    [
+     111.7,
+     486.1
+    ],
+    [
+     83.7,
+     467.3
+    ],
+    [
+     65.8,
+     438.8
+    ],
+    [
+     60.0,
+     405.4
+    ],
+    [
+     60.0,
+     371.3
+    ],
+    [
+     60.0,
+     337.2
+    ],
+    [
+     60.0,
+     303.1
+    ],
+    [
+     59.0,
+     269.1
+    ],
+    [
+     59.0,
+     235.0
+    ],
+    [
+     59.0,
+     200.9
+    ],
+    [
+     58.0,
+     166.9
+    ],
+    [
+     58.0,
+     132.8
+    ],
+    [
+     59.8,
+     98.8
+    ],
+    [
+     71.9,
+     67.6
+    ],
+    [
+     97.6,
+     45.6
+    ]
+   ],
+   "closed": true,
+   "source": "https://www.lemanskarting.de/x.php?ODcvMTUwOTUyMTUxNjFkMDlkYzEzZjRmY2FiZjM1OWI3MWYzYWMzODFjNmI5",
+   "source_page": "https://www.lemanskarting.de/kartbahn/die-strecke",
+   "method": "raster",
+   "params": "--dark --close 3 --open 5 --maxside 960",
+   "note": "traced from drawn black road graphic; along the start/finish diagonal the line follows the double-lane section (main/pit lanes run side by side)"
+  },
+  "candidates": [
+   {
+    "url": "https://www.lemanskarting.de/x.php?ODcvMTUwOTUyMTUxNjFkMDlkYzEzZjRmY2FiZjM1OWI3MWYzYWMzODFjNmI5",
+    "kind": "outline",
+    "used": true,
+    "why": "drawn track graphic on the Die Strecke page"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/883027662",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.limpark.de/wp-content/uploads/2023/08/LIMPARK_DRONE_MB_1.jpeg",
+    "kind": "aerial",
+    "used": false,
+    "why": "drone photo"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only photos and drone images found"
+ },
+ {
+  "id": "node/13651711458",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.mobi-kart.de/images/home/kart-dualtrack.webp",
+    "kind": "other",
+    "used": false,
+    "why": "cartoon illustration, not a map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online"
+ },
+ {
+  "id": "way/89670854",
+  "layout_page": "https://www.ekart-center.de/location-karts/bahn-halle",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.ekart-center.de/images/StreckenPlan_UE_1.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "barrier plan of lower level only (black barrier lines, no centre line); track spans two levels"
+   },
+   {
+    "url": "https://www.ekart-center.de/images/StreckenPlan_OE_1.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "barrier plan of upper level only"
+   },
+   {
+    "url": "https://www.ekart-center.de/images/location/bahn01.jpg",
+    "kind": "other",
+    "used": false,
+    "why": "3D perspective rendering of two-level track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "two-level track; site has barrier plans per level (Obergeschoss/Untergeschoss) and a 3D rendering, not traceable as one circuit"
+ },
+ {
+  "id": "way/89322197",
+  "layout_page": "https://mcrathenow.de/wp-content/uploads/2024/11/GrundrissX.webp",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://mcrathenow.de/wp-content/uploads/2024/11/GrundrissX.webp",
+    "kind": "site_plan",
+    "used": false,
+    "why": "scanned 1:500 plan drawn as thin edge lines with curbs, sand track and labels; 2 traces latched onto the outer Sandbahn/legend instead of the circuit"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "scanned edge-line plan on club site; automatic trace failed"
+ },
+ {
+  "id": "node/5324743781",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (media library has photos/logos only)"
+ },
+ {
+  "id": "way/98118626",
+  "layout_page": "https://www.powerhall.de/wp-content/uploads/2022/01/track.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.powerhall.de/wp-content/uploads/2022/01/track.png",
+    "kind": "other",
+    "used": false,
+    "why": "3D perspective rendering of the track board; strongly perspective-distorted, not a plan view"
+   },
+   {
+    "url": "https://www.powerhall.de/wp-content/uploads/2022/02/background_track.jpg",
+    "kind": "other",
+    "used": false,
+    "why": "same 3D rendering as background"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a perspective 3D rendering of the layout found"
+ },
+ {
+  "id": "node/2501649295",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (areas page has photos only)"
+ },
+ {
+  "id": "node/388393542",
+  "layout_page": "http://raceland-karting.de/strecke.html",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://raceland-karting.de/pics/streckenverlauf.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "white ribbon graphic with a crossover (figure-eight) and adjacent touching sections; 2 traces cut across at the crossover and skipped the outer loop/start-finish section"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "clear Streckenverlauf graphic on venue site but the crossover defeats the automatic trace"
+ },
+ {
+  "id": "node/997947153",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (one-page site with logo only)"
+ },
+ {
+  "id": "way/480988747",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (two-level indoor track; operator page shows photos and a location map only)"
+ },
+ {
+  "id": "node/12497729617",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (operator page shows photos and a location map only)"
+ },
+ {
+  "id": "node/1844036287",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://images.prismic.io/teamsport/ZgPnjLLRO5ile6ue_DE-Go-Karting-KP-Multi-Level-Track-View.png",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the multi-level track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (multi-level tracks, photos only)"
+ },
+ {
+  "id": "node/4144064752",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (Halle & Bahn page has photos only; layout reportedly rebuilt every two years)"
+ },
+ {
+  "id": "node/3761972821",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (Nuerburgring page has photos only)"
+ },
+ {
+  "id": "node/8124949048",
+  "layout_page": "https://ballerupeventcenter.dk/gokart/",
+  "layout_diagram": {
+   "points": [
+    [
+     1175.5,
+     134.0
+    ],
+    [
+     1226.8,
+     138.9
+    ],
+    [
+     1274.9,
+     157.2
+    ],
+    [
+     1294.7,
+     203.6
+    ],
+    [
+     1304.3,
+     254.4
+    ],
+    [
+     1309.0,
+     305.8
+    ],
+    [
+     1312.0,
+     357.4
+    ],
+    [
+     1312.0,
+     409.2
+    ],
+    [
+     1308.0,
+     460.7
+    ],
+    [
+     1301.3,
+     512.0
+    ],
+    [
+     1286.1,
+     561.2
+    ],
+    [
+     1261.6,
+     606.0
+    ],
+    [
+     1223.5,
+     640.3
+    ],
+    [
+     1179.4,
+     667.2
+    ],
+    [
+     1133.1,
+     689.8
+    ],
+    [
+     1085.0,
+     708.3
+    ],
+    [
+     1035.4,
+     723.0
+    ],
+    [
+     985.1,
+     735.2
+    ],
+    [
+     934.5,
+     745.4
+    ],
+    [
+     883.4,
+     753.8
+    ],
+    [
+     832.2,
+     761.0
+    ],
+    [
+     780.8,
+     766.9
+    ],
+    [
+     729.3,
+     771.0
+    ],
+    [
+     678.7,
+     766.6
+    ],
+    [
+     634.0,
+     741.0
+    ],
+    [
+     591.2,
+     712.3
+    ],
+    [
+     551.8,
+     679.1
+    ],
+    [
+     515.9,
+     642.4
+    ],
+    [
+     482.1,
+     603.5
+    ],
+    [
+     462.0,
+     556.9
+    ],
+    [
+     490.0,
+     516.6
+    ],
+    [
+     537.2,
+     496.2
+    ],
+    [
+     587.1,
+     482.6
+    ],
+    [
+     637.9,
+     473.2
+    ],
+    [
+     687.2,
+     464.7
+    ],
+    [
+     690.4,
+     414.1
+    ],
+    [
+     677.2,
+     364.2
+    ],
+    [
+     656.9,
+     316.8
+    ],
+    [
+     619.7,
+     287.2
+    ],
+    [
+     568.0,
+     286.0
+    ],
+    [
+     516.3,
+     287.5
+    ],
+    [
+     464.9,
+     292.7
+    ],
+    [
+     415.8,
+     308.1
+    ],
+    [
+     371.6,
+     334.2
+    ],
+    [
+     344.1,
+     376.6
+    ],
+    [
+     327.4,
+     425.5
+    ],
+    [
+     315.5,
+     475.7
+    ],
+    [
+     317.0,
+     527.1
+    ],
+    [
+     334.7,
+     575.3
+    ],
+    [
+     373.0,
+     609.2
+    ],
+    [
+     415.0,
+     639.2
+    ],
+    [
+     457.0,
+     669.1
+    ],
+    [
+     497.5,
+     700.8
+    ],
+    [
+     496.8,
+     748.0
+    ],
+    [
+     472.0,
+     793.1
+    ],
+    [
+     438.7,
+     832.2
+    ],
+    [
+     397.5,
+     862.9
+    ],
+    [
+     349.6,
+     881.7
+    ],
+    [
+     298.5,
+     889.0
+    ],
+    [
+     247.7,
+     881.0
+    ],
+    [
+     201.2,
+     859.1
+    ],
+    [
+     162.5,
+     825.0
+    ],
+    [
+     134.9,
+     781.8
+    ],
+    [
+     123.2,
+     731.7
+    ],
+    [
+     117.0,
+     680.3
+    ],
+    [
+     113.0,
+     628.8
+    ],
+    [
+     110.0,
+     577.2
+    ],
+    [
+     107.5,
+     525.6
+    ],
+    [
+     102.2,
+     474.2
+    ],
+    [
+     93.9,
+     423.2
+    ],
+    [
+     89.0,
+     371.7
+    ],
+    [
+     88.0,
+     320.0
+    ],
+    [
+     106.2,
+     275.9
+    ],
+    [
+     150.8,
+     250.1
+    ],
+    [
+     196.8,
+     227.1
+    ],
+    [
+     244.0,
+     206.5
+    ],
+    [
+     292.3,
+     188.1
+    ],
+    [
+     341.7,
+     173.0
+    ],
+    [
+     391.8,
+     160.5
+    ],
+    [
+     442.9,
+     152.3
+    ],
+    [
+     494.3,
+     147.0
+    ],
+    [
+     546.1,
+     146.0
+    ],
+    [
+     597.7,
+     148.0
+    ],
+    [
+     649.3,
+     151.0
+    ],
+    [
+     700.8,
+     155.0
+    ],
+    [
+     752.0,
+     161.6
+    ],
+    [
+     794.9,
+     186.9
+    ],
+    [
+     822.2,
+     230.6
+    ],
+    [
+     837.1,
+     279.9
+    ],
+    [
+     839.0,
+     331.4
+    ],
+    [
+     825.4,
+     381.1
+    ],
+    [
+     809.7,
+     430.3
+    ],
+    [
+     790.9,
+     478.3
+    ],
+    [
+     773.1,
+     526.5
+    ],
+    [
+     809.1,
+     560.6
+    ],
+    [
+     855.3,
+     583.4
+    ],
+    [
+     905.0,
+     597.0
+    ],
+    [
+     956.6,
+     599.0
+    ],
+    [
+     1007.8,
+     591.8
+    ],
+    [
+     1055.0,
+     572.5
+    ],
+    [
+     1089.4,
+     534.3
+    ],
+    [
+     1117.0,
+     491.0
+    ],
+    [
+     1119.9,
+     441.8
+    ],
+    [
+     1102.0,
+     393.3
+    ],
+    [
+     1084.1,
+     344.9
+    ],
+    [
+     1066.0,
+     296.5
+    ],
+    [
+     1048.8,
+     247.7
+    ],
+    [
+     1038.3,
+     197.4
+    ],
+    [
+     1078.8,
+     166.7
+    ],
+    [
+     1125.1,
+     144.3
+    ]
+   ],
+   "closed": true,
+   "source": "https://ballerupeventcenter.dk/wp-content/uploads/2026/06/Ballerup-gokart-bane-billede-scaled-1-scaled.jpg",
+   "source_page": "https://ballerupeventcenter.dk/gokart/",
+   "method": "raster",
+   "params": "--color 240,240,40 --tol 80 --open 0 --close 3 --maxside 1400",
+   "note": "traced the yellow driving line drawn on the venue track plan (racing line, follows all corners)"
+  },
+  "candidates": [
+   {
+    "url": "https://ballerupeventcenter.dk/wp-content/uploads/2026/06/Ballerup-gokart-bane-billede-scaled-1-scaled.jpg",
+    "kind": "site_plan",
+    "used": true,
+    "why": "top-view track plan with tyre barriers and a yellow driving line"
+   },
+   {
+    "url": "https://ballerupeventcenter.dk/wp-content/uploads/2026/06/Ballerup-gokart-bane-billede-1-scaled-1-scaled.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "duplicate of the same plan"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/7548776479",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://cdn.bowlnfun.dk/wp-content/uploads/2021/02/the_track_gokart3_neg.svg",
+    "kind": "other",
+    "used": false,
+    "why": "The Track attraction logo badge, not a map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online"
+ },
+ {
+  "id": "way/547428233",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.dmka.dk/wp-content/uploads/2015/03/Gammel-og-ny-bane.png",
+    "kind": "aerial",
+    "used": false,
+    "why": "annotated satellite image marking old and new kart track positions"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only an annotated aerial image found (DMKA club site)"
+ },
+ {
+  "id": "node/4467077725",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.gokartworld.dk/assets/images/Track.png?v=14d4341b83",
+    "kind": "other",
+    "used": false,
+    "why": "stylised layout illustration (alt Banelayout for Gokart World; looks AI-generated, e.g. misspelt FIINSH); trace wandered across adjacent sections on the right half, rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "layout illustration on venue site (HTML pages block curl with HTTP 455, image downloadable); trace failed and illustration fidelity is doubtful; link removed: AI-generated or unverified layout image"
+ },
+ {
+  "id": "node/4467097590",
+  "layout_page": "https://odensegokart.dk/banen/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://odensegokart.dk/wp-content/uploads/2024/10/odense-gokart-hal-tracklayout-2023-01.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "clean 2023 layout drawing, but adjacent sections are separated only by thin black lines that merge in the mask; 2 traces gave open paths missing the outer loop and start/finish"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "good layout drawing on venue site; automatic trace failed (merged adjacent sections) - a good candidate for manual tracing"
+ },
+ {
+  "id": "node/8162798833",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (racesyd.dk HTML blocks curl with HTTP 455; club site has photos only; SWS track page behind reCAPTCHA, not accessed)"
+ },
+ {
+  "id": "way/87330958",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://racehall.com/wp-content/uploads/2024/11/Racehall_Baneplakat_Aarhus.png",
+    "kind": "other",
+    "used": false,
+    "why": "course-overview poster reported by search (filename Racehall_Baneplakat_Aarhus); URL guessed from search snippet and blocked (HTTP 403 Cloudflare), not inspected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "site blocked (Cloudflare challenge/403 for pages, media API and images); a course-overview poster is reported on the Aarhus booking page; link removed: AI-generated or unverified layout image"
+ },
+ {
+  "id": "way/839020157",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "site blocked (Cloudflare challenge/403); no map found via search"
+ },
+ {
+  "id": "node/8158080464",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (media library has photos and icons only)"
+ },
+ {
+  "id": "node/4477658831",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online (gokart page has photos only; WordPress media search found nothing)"
+ },
+ {
+  "id": "way/236927018",
+  "layout_page": "https://aerokart.com/karting",
+  "layout_diagram": {
+   "points": [
+    [
+     769.5,
+     34.0
+    ],
+    [
+     804.8,
+     35.1
+    ],
+    [
+     834.8,
+     52.3
+    ],
+    [
+     842.0,
+     86.1
+    ],
+    [
+     834.8,
+     120.5
+    ],
+    [
+     820.3,
+     152.6
+    ],
+    [
+     795.4,
+     176.5
+    ],
+    [
+     767.5,
+     161.4
+    ],
+    [
+     754.7,
+     128.7
+    ],
+    [
+     733.5,
+     101.0
+    ],
+    [
+     703.2,
+     83.2
+    ],
+    [
+     668.5,
+     77.4
+    ],
+    [
+     633.2,
+     79.0
+    ],
+    [
+     598.0,
+     82.2
+    ],
+    [
+     587.7,
+     109.2
+    ],
+    [
+     611.8,
+     133.6
+    ],
+    [
+     627.7,
+     158.3
+    ],
+    [
+     600.2,
+     179.1
+    ],
+    [
+     565.6,
+     186.0
+    ],
+    [
+     530.6,
+     190.0
+    ],
+    [
+     495.4,
+     193.0
+    ],
+    [
+     468.9,
+     214.8
+    ],
+    [
+     450.9,
+     245.1
+    ],
+    [
+     434.0,
+     276.1
+    ],
+    [
+     413.2,
+     304.5
+    ],
+    [
+     388.9,
+     330.1
+    ],
+    [
+     360.9,
+     351.7
+    ],
+    [
+     329.0,
+     366.6
+    ],
+    [
+     296.7,
+     360.5
+    ],
+    [
+     288.0,
+     326.7
+    ],
+    [
+     305.9,
+     298.1
+    ],
+    [
+     338.9,
+     285.7
+    ],
+    [
+     372.8,
+     275.9
+    ],
+    [
+     405.8,
+     263.7
+    ],
+    [
+     401.0,
+     235.8
+    ],
+    [
+     369.8,
+     220.1
+    ],
+    [
+     335.4,
+     226.0
+    ],
+    [
+     303.8,
+     241.5
+    ],
+    [
+     275.1,
+     261.8
+    ],
+    [
+     248.3,
+     284.9
+    ],
+    [
+     230.2,
+     315.0
+    ],
+    [
+     218.2,
+     348.1
+    ],
+    [
+     192.6,
+     371.7
+    ],
+    [
+     159.4,
+     382.9
+    ],
+    [
+     124.2,
+     382.6
+    ],
+    [
+     91.2,
+     370.4
+    ],
+    [
+     67.9,
+     344.3
+    ],
+    [
+     53.6,
+     312.2
+    ],
+    [
+     52.0,
+     276.9
+    ],
+    [
+     50.0,
+     241.7
+    ],
+    [
+     50.0,
+     206.3
+    ],
+    [
+     50.0,
+     170.9
+    ],
+    [
+     50.0,
+     135.4
+    ],
+    [
+     51.0,
+     100.1
+    ],
+    [
+     69.6,
+     71.9
+    ],
+    [
+     103.5,
+     73.3
+    ],
+    [
+     124.3,
+     100.5
+    ],
+    [
+     117.9,
+     134.6
+    ],
+    [
+     117.9,
+     167.3
+    ],
+    [
+     151.7,
+     168.3
+    ],
+    [
+     174.9,
+     143.4
+    ],
+    [
+     171.3,
+     108.8
+    ],
+    [
+     173.8,
+     74.9
+    ],
+    [
+     204.6,
+     61.5
+    ],
+    [
+     235.7,
+     77.1
+    ],
+    [
+     250.0,
+     108.7
+    ],
+    [
+     242.9,
+     142.9
+    ],
+    [
+     224.6,
+     172.9
+    ],
+    [
+     198.4,
+     196.4
+    ],
+    [
+     170.1,
+     217.3
+    ],
+    [
+     141.6,
+     238.2
+    ],
+    [
+     115.5,
+     261.9
+    ],
+    [
+     106.0,
+     295.2
+    ],
+    [
+     119.4,
+     327.0
+    ],
+    [
+     152.4,
+     329.3
+    ],
+    [
+     171.0,
+     299.4
+    ],
+    [
+     188.6,
+     268.8
+    ],
+    [
+     219.5,
+     252.4
+    ],
+    [
+     252.0,
+     238.6
+    ],
+    [
+     284.7,
+     225.4
+    ],
+    [
+     317.4,
+     212.0
+    ],
+    [
+     350.0,
+     198.6
+    ],
+    [
+     382.8,
+     185.5
+    ],
+    [
+     415.5,
+     171.9
+    ],
+    [
+     448.0,
+     158.3
+    ],
+    [
+     480.5,
+     144.7
+    ],
+    [
+     508.4,
+     124.9
+    ],
+    [
+     498.0,
+     93.5
+    ],
+    [
+     466.5,
+     80.5
+    ],
+    [
+     435.1,
+     95.3
+    ],
+    [
+     410.0,
+     120.0
+    ],
+    [
+     382.3,
+     141.8
+    ],
+    [
+     351.3,
+     158.5
+    ],
+    [
+     317.0,
+     158.6
+    ],
+    [
+     288.2,
+     139.1
+    ],
+    [
+     274.0,
+     107.3
+    ],
+    [
+     280.3,
+     73.4
+    ],
+    [
+     311.9,
+     61.0
+    ],
+    [
+     347.2,
+     63.2
+    ],
+    [
+     382.5,
+     64.0
+    ],
+    [
+     417.6,
+     60.1
+    ],
+    [
+     452.6,
+     55.5
+    ],
+    [
+     487.9,
+     53.0
+    ],
+    [
+     523.0,
+     50.0
+    ],
+    [
+     558.3,
+     48.0
+    ],
+    [
+     593.5,
+     45.0
+    ],
+    [
+     628.7,
+     43.0
+    ],
+    [
+     663.9,
+     40.4
+    ],
+    [
+     699.3,
+     39.0
+    ],
+    [
+     734.5,
+     36.2
+    ]
+   ],
+   "closed": true,
+   "source": "https://irp.cdn-website.com/19887a24/dms3rep/multi/opt/GrdPisteTraj2024-1920w.png",
+   "source_page": "https://aerokart.com/karting",
+   "method": "raster",
+   "params": "pre-mask: coloured (green/blue/red) racing-line pixels adjacent to the black track surface, 2x upscale, border/small blobs removed; then --light --open 0 --close 2 --maxside 900",
+   "note": "traced the drawn trajectory line (green/blue/red) on the 2024 Grande Piste plan; follows all 21 numbered corners"
+  },
+  "candidates": [
+   {
+    "url": "https://irp.cdn-website.com/19887a24/dms3rep/multi/opt/GrdPisteTraj2024-1920w.png",
+    "kind": "site_plan",
+    "used": true,
+    "why": "top-view plan of the big track (GrdPisteTraj2024) with coloured driving line"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "way/796566900",
+  "layout_page": "https://ardenneskarting.fr/karting-indoor-2/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://ardenneskarting.fr/wp-content/uploads/2024/02/2024-02-23-piste-ardennes-karting.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "current (2024, 435 m) layout but drawn as blue barrier lines on a tilted 3D board - perspective-distorted, no centre line"
+   },
+   {
+    "url": "https://ardenneskarting.fr/wp-content/uploads/2023/06/piste-AK1.png",
+    "kind": "other",
+    "used": false,
+    "why": "older 2023 layout, perspective glow outline"
+   },
+   {
+    "url": "https://ardenneskarting.fr/wp-content/uploads/2020/04/Piste-vecto.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "2020 layout, outdated"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "current layout shown only as perspective barrier plan; not traced"
+ },
+ {
+  "id": "node/12388424111",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://baseuskarting.com/wp-content/uploads/2024/09/imagecircuit.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique aerial photo of the outdoor circuit"
+   },
+   {
+    "url": "https://baseuskarting.com/wp-content/uploads/2024/11/VUE-LOGO-PISTE-OUT.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "close-up drone shot of track surface"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos found"
+ },
+ {
+  "id": "way/1540863442",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart arena: the circuit is video-projected onto an open floor and changes with each game mode, so there is no fixed track map; location page shows game-mode images only"
+ },
+ {
+  "id": "way/1000270136",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart arena: the circuit is video-projected onto an open floor and changes with each game mode, so there is no fixed track map; location page shows game-mode images only"
+ },
+ {
+  "id": "node/12089359841",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart arena: the circuit is video-projected onto an open floor and changes with each game mode, so there is no fixed track map; location page shows game-mode images only"
+ },
+ {
+  "id": "node/11563955592",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart arena: the circuit is video-projected onto an open floor and changes with each game mode, so there is no fixed track map; location page shows game-mode images only"
+ }
+]

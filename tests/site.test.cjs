@@ -362,7 +362,9 @@ test("broad discovery adds only verified missing venues without fabricated layou
     assert.equal(found.length, 1);
     assert.equal(found[0].cc, cc);
     assert.equal(found[0].n, name);
-    assert.equal(found[0].g, null);
+    // no outline inferred from a sports-centre boundary: only reviewed OSM raceway lines may appear
+    const raceways = JSON.parse(fs.readFileSync(path.join(root, "pipeline", "research", "geometry", "osm_raceways.json"), "utf8"));
+    if (found[0].g !== null) assert.deepEqual(found[0].g, raceways[id].lines);
     assert.equal(found[0].r, "yes");
     assert.ok(found[0].FG.source && found[0].FG.checked_at);
   }

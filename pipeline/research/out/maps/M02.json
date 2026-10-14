@@ -1,0 +1,2782 @@
+[
+ {
+  "id": "node/13894638060",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/bochum)"
+ },
+ {
+  "id": "way/751984689",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/halle-leipzig)"
+ },
+ {
+  "id": "node/12806062014",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/koblenz-mayen)"
+ },
+ {
+  "id": "node/14002285223",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/marne)"
+ },
+ {
+  "id": "way/61560044",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/st-leon-rot)"
+ },
+ {
+  "id": "way/88029071",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "BattleKart: track lines are projected onto a plain floor and change per game mode; no fixed track map published (https://www.battlekart.com/de/unna)"
+ },
+ {
+  "id": "way/129879602",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site (bavaria-kart.de) shows only track photos"
+ },
+ {
+  "id": "node/1111632078",
+  "layout_page": "https://www.berlin-kart.de/karts-rennstrecke",
+  "layout_diagram": {
+   "points": [
+    [
+     430.5,
+     73.0
+    ],
+    [
+     482.4,
+     74.0
+    ],
+    [
+     534.0,
+     79.0
+    ],
+    [
+     559.5,
+     116.6
+    ],
+    [
+     530.0,
+     154.3
+    ],
+    [
+     478.3,
+     157.0
+    ],
+    [
+     426.3,
+     156.0
+    ],
+    [
+     387.8,
+     178.2
+    ],
+    [
+     405.1,
+     220.0
+    ],
+    [
+     457.0,
+     221.0
+    ],
+    [
+     508.9,
+     220.0
+    ],
+    [
+     560.6,
+     216.2
+    ],
+    [
+     604.4,
+     191.0
+    ],
+    [
+     637.0,
+     150.8
+    ],
+    [
+     672.2,
+     112.9
+    ],
+    [
+     720.3,
+     96.4
+    ],
+    [
+     772.2,
+     95.0
+    ],
+    [
+     823.7,
+     99.5
+    ],
+    [
+     854.5,
+     136.3
+    ],
+    [
+     856.0,
+     188.2
+    ],
+    [
+     855.0,
+     240.1
+    ],
+    [
+     852.7,
+     291.9
+    ],
+    [
+     846.5,
+     343.1
+    ],
+    [
+     806.3,
+     333.2
+    ],
+    [
+     806.0,
+     281.2
+    ],
+    [
+     805.0,
+     229.4
+    ],
+    [
+     800.9,
+     177.8
+    ],
+    [
+     761.6,
+     153.2
+    ],
+    [
+     716.0,
+     173.0
+    ],
+    [
+     695.0,
+     218.6
+    ],
+    [
+     705.2,
+     268.9
+    ],
+    [
+     694.4,
+     302.1
+    ],
+    [
+     642.7,
+     299.0
+    ],
+    [
+     590.7,
+     299.0
+    ],
+    [
+     538.7,
+     299.0
+    ],
+    [
+     486.8,
+     300.0
+    ],
+    [
+     434.9,
+     300.7
+    ],
+    [
+     383.8,
+     307.3
+    ],
+    [
+     374.6,
+     355.2
+    ],
+    [
+     422.1,
+     367.0
+    ],
+    [
+     474.0,
+     365.9
+    ],
+    [
+     525.9,
+     365.0
+    ],
+    [
+     577.8,
+     364.0
+    ],
+    [
+     629.7,
+     365.0
+    ],
+    [
+     673.9,
+     385.6
+    ],
+    [
+     670.6,
+     435.7
+    ],
+    [
+     627.4,
+     463.2
+    ],
+    [
+     576.9,
+     473.0
+    ],
+    [
+     525.0,
+     474.0
+    ],
+    [
+     473.1,
+     474.9
+    ],
+    [
+     421.1,
+     474.0
+    ],
+    [
+     369.9,
+     469.8
+    ],
+    [
+     324.6,
+     486.9
+    ],
+    [
+     341.9,
+     530.6
+    ],
+    [
+     391.1,
+     543.0
+    ],
+    [
+     443.0,
+     544.0
+    ],
+    [
+     495.0,
+     544.0
+    ],
+    [
+     547.0,
+     544.0
+    ],
+    [
+     598.8,
+     542.0
+    ],
+    [
+     650.3,
+     535.8
+    ],
+    [
+     701.9,
+     530.7
+    ],
+    [
+     745.8,
+     555.1
+    ],
+    [
+     751.9,
+     604.9
+    ],
+    [
+     714.3,
+     637.8
+    ],
+    [
+     663.1,
+     644.0
+    ],
+    [
+     613.0,
+     634.7
+    ],
+    [
+     569.7,
+     606.3
+    ],
+    [
+     518.3,
+     602.0
+    ],
+    [
+     466.3,
+     602.0
+    ],
+    [
+     414.4,
+     603.0
+    ],
+    [
+     362.8,
+     607.0
+    ],
+    [
+     318.2,
+     632.7
+    ],
+    [
+     284.7,
+     672.0
+    ],
+    [
+     274.1,
+     721.5
+    ],
+    [
+     303.8,
+     758.6
+    ],
+    [
+     355.0,
+     756.7
+    ],
+    [
+     384.9,
+     715.4
+    ],
+    [
+     421.2,
+     683.6
+    ],
+    [
+     447.3,
+     723.6
+    ],
+    [
+     446.7,
+     775.2
+    ],
+    [
+     410.2,
+     808.9
+    ],
+    [
+     358.5,
+     812.0
+    ],
+    [
+     306.6,
+     813.0
+    ],
+    [
+     254.7,
+     812.8
+    ],
+    [
+     207.5,
+     793.2
+    ],
+    [
+     198.0,
+     744.3
+    ],
+    [
+     211.0,
+     694.3
+    ],
+    [
+     229.6,
+     645.9
+    ],
+    [
+     241.0,
+     595.4
+    ],
+    [
+     220.3,
+     555.5
+    ],
+    [
+     173.4,
+     569.9
+    ],
+    [
+     143.0,
+     611.8
+    ],
+    [
+     110.2,
+     651.2
+    ],
+    [
+     65.4,
+     635.4
+    ],
+    [
+     53.0,
+     585.2
+    ],
+    [
+     58.2,
+     534.8
+    ],
+    [
+     85.1,
+     492.2
+    ],
+    [
+     135.6,
+     484.0
+    ],
+    [
+     186.5,
+     482.0
+    ],
+    [
+     238.5,
+     481.0
+    ],
+    [
+     288.7,
+     474.7
+    ],
+    [
+     304.4,
+     446.1
+    ],
+    [
+     298.7,
+     401.9
+    ],
+    [
+     289.0,
+     351.2
+    ],
+    [
+     288.0,
+     299.3
+    ],
+    [
+     294.0,
+     249.1
+    ],
+    [
+     296.0,
+     197.3
+    ],
+    [
+     303.0,
+     146.1
+    ],
+    [
+     334.5,
+     106.4
+    ],
+    [
+     381.9,
+     86.3
+    ]
+   ],
+   "closed": true,
+   "source": "https://cdn7.site-media.eu/images/1024x1113/761380/Strecke.png",
+   "source_page": "https://www.berlin-kart.de/karts-rennstrecke",
+   "method": "raster",
+   "params": "transparent PNG composited on grey; ribbon interior filled (scripts/ribbon.py --r 6 --thr 120 --keep 0.5); trace_raster --dark --open 5",
+   "note": "traced from white outlined-ribbon track graphic (Strecke.png); figure-eight crossing in the middle, pit-lane stubs ignored"
+  },
+  "candidates": [
+   {
+    "url": "https://cdn7.site-media.eu/images/1024x1113/761380/Strecke.png",
+    "kind": "outline",
+    "used": true,
+    "why": "venue track graphic on Karts & Rennstrecke page"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/7567389572",
+  "layout_page": "https://www.kartbahn-mgh.de/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://le-cdn.website-editor.net/s/d74abd6525aa4021abdf8aa225111af3/dms3rep/multi/opt/Strecke+2018-Basis-1920w.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "clean grey-ribbon track plan on venue homepage, but the wide start/paddock area with pit lane and start-line checker makes the skeleton detour through the pit lane; 3 trace variations rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "track plan (Strecke 2018 Basis) on homepage; signed CDN URL may expire"
+ },
+ {
+  "id": "node/6550773226",
+  "layout_page": "https://www.celler-kartbahn.com/website/die-strecke-2/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.celler-kartbahn.com/website/wp-content/uploads/2024/08/2024-e1723891129630-1536x1097.png",
+    "kind": "outline",
+    "used": false,
+    "why": "2024 track plan shows a variable layout with overlapping ribbons and red-dashed optional sections; no single unambiguous circuit, trace took shortcuts"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "variable multi-option layout plan on venue site"
+ },
+ {
+  "id": "node/1581708612",
+  "layout_page": "http://www.coolrunning.de/strecke.html",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.coolrunning.de/images/strecke_overview.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "small (573px) hall plan where lanes are only defined by tyre-wall dots on a grey floor; trace leaked through tyre gaps and broke into pieces"
+   },
+   {
+    "url": "http://www.coolrunning.de/images/strecke.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "hall plan with tyre walls on venue track page; not traceable"
+ },
+ {
+  "id": "node/9043533487",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site and WP media library contain only photos"
+ },
+ {
+  "id": "way/620133302",
+  "layout_page": "https://www.eco-kart.de",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.eco-kart.de/wp-content/uploads/2021/10/Kartstrecke-Eco-Kart.png",
+    "kind": "other",
+    "used": false,
+    "why": "3D perspective render of the multi-level track; not a plan view, cannot be traced"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a 3D perspective render of the multi-level track on venue site"
+ },
+ {
+  "id": "way/93901937",
+  "layout_page": "https://www.fahrwerk.de/kartfahren-indoor/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.fahrwerk.de/wp-content/uploads/2022/02/22-fahrwerk-Indoor-Streckenlayout-Pikto.png",
+    "kind": "outline",
+    "used": false,
+    "why": "clean light-grey ribbon pictogram with a bridge crossing; adjacent ribbons are only ~4px apart so closing merged them (false X), without closing the bridge lines cut off the inner loop; 3 variations rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "track pictogram on venue indoor page (bridge crossover makes auto-trace fail)"
+ },
+ {
+  "id": "node/1175484382",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site shows only photos"
+ },
+ {
+  "id": "way/143901665",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; grand-prix-niederrhein.com redirects to kartbahn-weeze.de, which has only photo sliders"
+ },
+ {
+  "id": "way/102538435",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://gokartbahn.net/wp-content/uploads/2019/02/Rennstrecke01.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the hall track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site has only photos"
+ },
+ {
+  "id": "way/236541889",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "gokartarena.de now redirects to battlekart.com/de/muenchen-finsing; BattleKart uses projected game tracks, no fixed track map"
+ },
+ {
+  "id": "node/4477661634",
+  "layout_page": "http://www.hallenkartbahn-sulz.de/ueber_uns.html",
+  "layout_diagram": {
+   "points": [
+    [
+     238.5,
+     128.0
+    ],
+    [
+     276.7,
+     128.0
+    ],
+    [
+     314.9,
+     128.0
+    ],
+    [
+     353.1,
+     128.0
+    ],
+    [
+     389.8,
+     137.2
+    ],
+    [
+     417.0,
+     163.3
+    ],
+    [
+     436.9,
+     195.8
+    ],
+    [
+     437.0,
+     233.7
+    ],
+    [
+     441.0,
+     271.6
+    ],
+    [
+     432.1,
+     307.7
+    ],
+    [
+     411.0,
+     339.4
+    ],
+    [
+     387.3,
+     369.2
+    ],
+    [
+     363.6,
+     398.9
+    ],
+    [
+     352.2,
+     435.2
+    ],
+    [
+     361.0,
+     471.8
+    ],
+    [
+     392.0,
+     491.4
+    ],
+    [
+     429.7,
+     497.0
+    ],
+    [
+     467.7,
+     499.0
+    ],
+    [
+     506.0,
+     499.0
+    ],
+    [
+     544.2,
+     499.0
+    ],
+    [
+     582.4,
+     499.0
+    ],
+    [
+     620.6,
+     498.8
+    ],
+    [
+     658.7,
+     497.8
+    ],
+    [
+     696.7,
+     495.0
+    ],
+    [
+     734.4,
+     489.6
+    ],
+    [
+     762.8,
+     466.4
+    ],
+    [
+     768.0,
+     428.9
+    ],
+    [
+     763.6,
+     391.3
+    ],
+    [
+     740.1,
+     361.7
+    ],
+    [
+     706.6,
+     345.5
+    ],
+    [
+     675.3,
+     325.1
+    ],
+    [
+     651.2,
+     295.7
+    ],
+    [
+     642.5,
+     258.7
+    ],
+    [
+     649.4,
+     221.5
+    ],
+    [
+     672.6,
+     191.7
+    ],
+    [
+     707.2,
+     176.8
+    ],
+    [
+     745.2,
+     173.5
+    ],
+    [
+     782.8,
+     178.2
+    ],
+    [
+     813.6,
+     199.7
+    ],
+    [
+     826.0,
+     235.2
+    ],
+    [
+     827.0,
+     273.3
+    ],
+    [
+     827.0,
+     311.6
+    ],
+    [
+     827.0,
+     349.8
+    ],
+    [
+     827.0,
+     388.0
+    ],
+    [
+     826.0,
+     426.1
+    ],
+    [
+     826.0,
+     464.3
+    ],
+    [
+     822.9,
+     502.3
+    ],
+    [
+     804.4,
+     534.3
+    ],
+    [
+     768.8,
+     546.9
+    ],
+    [
+     730.8,
+     549.0
+    ],
+    [
+     692.6,
+     550.0
+    ],
+    [
+     654.4,
+     550.0
+    ],
+    [
+     616.2,
+     550.0
+    ],
+    [
+     578.1,
+     551.0
+    ],
+    [
+     539.9,
+     551.0
+    ],
+    [
+     501.7,
+     551.0
+    ],
+    [
+     463.5,
+     551.0
+    ],
+    [
+     425.3,
+     551.0
+    ],
+    [
+     387.1,
+     551.0
+    ],
+    [
+     349.3,
+     547.4
+    ],
+    [
+     319.2,
+     525.0
+    ],
+    [
+     300.1,
+     492.1
+    ],
+    [
+     280.8,
+     459.3
+    ],
+    [
+     256.9,
+     429.7
+    ],
+    [
+     224.6,
+     409.8
+    ],
+    [
+     188.4,
+     398.2
+    ],
+    [
+     150.7,
+     401.2
+    ],
+    [
+     123.8,
+     424.4
+    ],
+    [
+     120.0,
+     462.3
+    ],
+    [
+     140.9,
+     490.0
+    ],
+    [
+     178.9,
+     492.7
+    ],
+    [
+     216.8,
+     496.3
+    ],
+    [
+     236.5,
+     523.5
+    ],
+    [
+     218.5,
+     552.3
+    ],
+    [
+     180.6,
+     556.0
+    ],
+    [
+     142.4,
+     555.5
+    ],
+    [
+     104.3,
+     554.5
+    ],
+    [
+     72.3,
+     536.5
+    ],
+    [
+     64.0,
+     499.8
+    ],
+    [
+     64.0,
+     461.6
+    ],
+    [
+     66.9,
+     423.6
+    ],
+    [
+     76.7,
+     386.9
+    ],
+    [
+     100.4,
+     357.7
+    ],
+    [
+     135.9,
+     344.4
+    ],
+    [
+     173.7,
+     339.6
+    ],
+    [
+     211.7,
+     338.8
+    ],
+    [
+     249.6,
+     343.0
+    ],
+    [
+     287.5,
+     346.6
+    ],
+    [
+     325.3,
+     344.8
+    ],
+    [
+     358.3,
+     326.7
+    ],
+    [
+     378.0,
+     294.5
+    ],
+    [
+     383.7,
+     257.1
+    ],
+    [
+     377.9,
+     219.5
+    ],
+    [
+     353.9,
+     191.4
+    ],
+    [
+     317.6,
+     180.2
+    ],
+    [
+     279.7,
+     177.0
+    ],
+    [
+     241.6,
+     179.0
+    ],
+    [
+     204.3,
+     186.2
+    ],
+    [
+     172.2,
+     206.1
+    ],
+    [
+     154.5,
+     239.3
+    ],
+    [
+     143.3,
+     275.8
+    ],
+    [
+     113.6,
+     295.2
+    ],
+    [
+     77.8,
+     290.2
+    ],
+    [
+     72.0,
+     252.9
+    ],
+    [
+     72.0,
+     214.7
+    ],
+    [
+     73.2,
+     176.5
+    ],
+    [
+     88.5,
+     143.0
+    ],
+    [
+     124.2,
+     131.0
+    ],
+    [
+     162.3,
+     130.0
+    ],
+    [
+     200.4,
+     129.0
+    ]
+   ],
+   "closed": true,
+   "source": "http://www.hallenkartbahn-sulz.de/images/verlauf_2x.png",
+   "source_page": "http://www.hallenkartbahn-sulz.de/ueber_uns.html",
+   "method": "raster",
+   "params": "--color 187,187,187 --tol 12 --open 3",
+   "note": "traced from light-grey ribbon track graphic (verlauf) on the STRECKE page"
+  },
+  "candidates": [
+   {
+    "url": "http://www.hallenkartbahn-sulz.de/images/verlauf_2x.png",
+    "kind": "outline",
+    "used": true,
+    "why": "clean ribbon track graphic on venue track page"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "way/34410664",
+  "layout_page": "http://www.hansegokart.de/strecke.html",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.hansegokart.de/bilder/strecke_250px.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "188x250 thumbnail of the hall plan (blue outlined lanes, labels); too small to trace reliably"
+   },
+   {
+    "url": "http://www.hansegokart.de/bilder/strecke.pdf",
+    "kind": "site_plan",
+    "used": false,
+    "why": "full plan is a PDF (not an image file), not downloaded"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "hall plan on venue track page (full version only as PDF)"
+ },
+ {
+  "id": "way/27057471",
+  "layout_page": "https://kartbahn-bous.de/de/indoor-kart-stahlwerk-bous/",
+  "layout_diagram": {
+   "points": [
+    [
+     183.5,
+     22.0
+    ],
+    [
+     196.0,
+     23.0
+    ],
+    [
+     207.7,
+     27.5
+    ],
+    [
+     219.8,
+     30.8
+    ],
+    [
+     232.2,
+     32.9
+    ],
+    [
+     244.7,
+     34.0
+    ],
+    [
+     257.2,
+     33.3
+    ],
+    [
+     269.8,
+     33.1
+    ],
+    [
+     282.3,
+     34.0
+    ],
+    [
+     294.8,
+     34.5
+    ],
+    [
+     307.2,
+     36.3
+    ],
+    [
+     319.4,
+     39.3
+    ],
+    [
+     331.6,
+     42.3
+    ],
+    [
+     343.8,
+     45.5
+    ],
+    [
+     355.8,
+     49.2
+    ],
+    [
+     367.4,
+     53.9
+    ],
+    [
+     378.4,
+     59.9
+    ],
+    [
+     388.5,
+     67.3
+    ],
+    [
+     397.7,
+     75.8
+    ],
+    [
+     406.0,
+     85.3
+    ],
+    [
+     413.1,
+     95.5
+    ],
+    [
+     418.3,
+     106.9
+    ],
+    [
+     421.4,
+     119.0
+    ],
+    [
+     423.2,
+     131.5
+    ],
+    [
+     424.1,
+     144.0
+    ],
+    [
+     423.9,
+     156.5
+    ],
+    [
+     422.0,
+     169.0
+    ],
+    [
+     418.7,
+     181.1
+    ],
+    [
+     413.2,
+     192.3
+    ],
+    [
+     406.0,
+     202.6
+    ],
+    [
+     397.9,
+     212.1
+    ],
+    [
+     388.9,
+     220.9
+    ],
+    [
+     379.4,
+     229.1
+    ],
+    [
+     369.3,
+     236.6
+    ],
+    [
+     359.0,
+     243.6
+    ],
+    [
+     347.8,
+     249.3
+    ],
+    [
+     335.7,
+     252.6
+    ],
+    [
+     323.3,
+     254.2
+    ],
+    [
+     310.8,
+     254.0
+    ],
+    [
+     298.4,
+     252.3
+    ],
+    [
+     286.4,
+     248.9
+    ],
+    [
+     275.1,
+     243.5
+    ],
+    [
+     264.5,
+     236.9
+    ],
+    [
+     255.7,
+     228.0
+    ],
+    [
+     252.0,
+     216.2
+    ],
+    [
+     254.3,
+     203.9
+    ],
+    [
+     259.8,
+     192.7
+    ],
+    [
+     269.2,
+     184.5
+    ],
+    [
+     280.8,
+     179.8
+    ],
+    [
+     292.9,
+     176.4
+    ],
+    [
+     305.0,
+     173.2
+    ],
+    [
+     315.9,
+     167.2
+    ],
+    [
+     323.6,
+     157.4
+    ],
+    [
+     326.9,
+     145.4
+    ],
+    [
+     327.0,
+     132.8
+    ],
+    [
+     324.1,
+     120.6
+    ],
+    [
+     317.5,
+     110.1
+    ],
+    [
+     307.7,
+     102.3
+    ],
+    [
+     296.2,
+     97.4
+    ],
+    [
+     283.8,
+     96.0
+    ],
+    [
+     271.4,
+     97.2
+    ],
+    [
+     260.1,
+     102.5
+    ],
+    [
+     250.5,
+     110.5
+    ],
+    [
+     242.2,
+     120.0
+    ],
+    [
+     234.7,
+     130.1
+    ],
+    [
+     227.1,
+     140.0
+    ],
+    [
+     219.5,
+     150.0
+    ],
+    [
+     211.8,
+     160.0
+    ],
+    [
+     204.1,
+     169.9
+    ],
+    [
+     196.2,
+     179.7
+    ],
+    [
+     188.4,
+     189.6
+    ],
+    [
+     180.5,
+     199.3
+    ],
+    [
+     172.6,
+     209.1
+    ],
+    [
+     164.7,
+     218.8
+    ],
+    [
+     156.6,
+     228.4
+    ],
+    [
+     148.0,
+     237.5
+    ],
+    [
+     138.6,
+     245.6
+    ],
+    [
+     128.1,
+     252.4
+    ],
+    [
+     116.5,
+     257.3
+    ],
+    [
+     104.2,
+     259.8
+    ],
+    [
+     91.8,
+     261.0
+    ],
+    [
+     79.2,
+     260.7
+    ],
+    [
+     66.8,
+     258.7
+    ],
+    [
+     54.8,
+     254.9
+    ],
+    [
+     44.0,
+     248.8
+    ],
+    [
+     35.0,
+     240.0
+    ],
+    [
+     29.2,
+     229.0
+    ],
+    [
+     27.2,
+     216.8
+    ],
+    [
+     30.1,
+     204.6
+    ],
+    [
+     35.1,
+     193.1
+    ],
+    [
+     43.6,
+     184.0
+    ],
+    [
+     54.9,
+     178.7
+    ],
+    [
+     67.4,
+     178.3
+    ],
+    [
+     79.8,
+     180.1
+    ],
+    [
+     92.3,
+     179.8
+    ],
+    [
+     104.7,
+     177.6
+    ],
+    [
+     116.1,
+     172.5
+    ],
+    [
+     125.6,
+     164.3
+    ],
+    [
+     132.5,
+     153.9
+    ],
+    [
+     136.7,
+     142.1
+    ],
+    [
+     138.7,
+     129.8
+    ],
+    [
+     140.0,
+     117.3
+    ],
+    [
+     140.0,
+     104.7
+    ],
+    [
+     140.8,
+     92.2
+    ],
+    [
+     141.5,
+     79.7
+    ],
+    [
+     144.3,
+     67.4
+    ],
+    [
+     148.7,
+     55.7
+    ],
+    [
+     154.6,
+     44.7
+    ],
+    [
+     162.3,
+     34.8
+    ],
+    [
+     172.0,
+     26.8
+    ]
+   ],
+   "closed": true,
+   "source": "https://kartbahn-bous.de/web/pix/map.jpg",
+   "source_page": "https://kartbahn-bous.de/de/indoor-kart-stahlwerk-bous/",
+   "method": "raster",
+   "params": "--color 200,20,25 --tol 70 --open 1",
+   "note": "traced from red track line drawn on the hall-plan graphic (map.jpg, 437x276)"
+  },
+  "candidates": [
+   {
+    "url": "https://kartbahn-bous.de/web/pix/map.jpg",
+    "kind": "outline",
+    "used": true,
+    "why": "red circuit line on simple hall plan on venue page"
+   },
+   {
+    "url": "https://kartbahn-bous.de/web/pix/about/birdview.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "fisheye photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "way/144460956",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site has only photos"
+ },
+ {
+  "id": "way/313108048",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site only says \"Wir haben vorübergehend geschlossen\" (temporarily closed), media library has photos only"
+ },
+ {
+  "id": "node/1649028239",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site kartbahn.com has photos only"
+ },
+ {
+  "id": "way/121599004",
+  "layout_page": "http://www.kartbahn-alemannenring.com/kartbahn/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "http://www.kartbahn-alemannenring.com/.cm4all/uproc.php/0/.Strecke%20Aktuell.jpg/picture-1600",
+    "kind": "site_plan",
+    "used": false,
+    "why": "current track plan drawn only as white barrier lines with open ends on black; no drawn circuit line or ribbon, auto-trace wandered through open space"
+   },
+   {
+    "url": "http://www.kartbahn-alemannenring.com/.cm4all/uproc.php/0/.Strecke.jpg/picture-1600",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "barrier-line track plan (Strecke Aktuell) on venue Kartbahn page"
+ },
+ {
+  "id": "node/2687925947",
+  "layout_page": "https://www.kart-eventcenter.de/images/strecke-layout.webp",
+  "layout_diagram": {
+   "points": [
+    [
+     598.0,
+     77.5
+    ],
+    [
+     607.5,
+     94.0
+    ],
+    [
+     639.8,
+     86.9
+    ],
+    [
+     671.7,
+     80.0
+    ],
+    [
+     703.5,
+     87.0
+    ],
+    [
+     737.5,
+     87.0
+    ],
+    [
+     771.3,
+     89.2
+    ],
+    [
+     803.2,
+     99.7
+    ],
+    [
+     817.3,
+     129.0
+    ],
+    [
+     814.7,
+     162.8
+    ],
+    [
+     812.0,
+     196.6
+    ],
+    [
+     813.0,
+     229.9
+    ],
+    [
+     810.5,
+     263.7
+    ],
+    [
+     793.8,
+     291.2
+    ],
+    [
+     760.2,
+     294.7
+    ],
+    [
+     736.7,
+     275.6
+    ],
+    [
+     734.0,
+     241.8
+    ],
+    [
+     737.1,
+     208.2
+    ],
+    [
+     737.1,
+     174.3
+    ],
+    [
+     727.8,
+     142.3
+    ],
+    [
+     697.9,
+     128.0
+    ],
+    [
+     664.1,
+     126.0
+    ],
+    [
+     630.1,
+     126.0
+    ],
+    [
+     596.1,
+     126.0
+    ],
+    [
+     562.2,
+     126.0
+    ],
+    [
+     528.2,
+     126.0
+    ],
+    [
+     494.2,
+     126.0
+    ],
+    [
+     460.3,
+     126.0
+    ],
+    [
+     426.3,
+     126.0
+    ],
+    [
+     392.4,
+     126.0
+    ],
+    [
+     358.4,
+     126.0
+    ],
+    [
+     324.4,
+     126.0
+    ],
+    [
+     290.5,
+     126.0
+    ],
+    [
+     256.5,
+     126.0
+    ],
+    [
+     222.5,
+     126.0
+    ],
+    [
+     188.9,
+     129.4
+    ],
+    [
+     159.4,
+     145.2
+    ],
+    [
+     142.9,
+     174.4
+    ],
+    [
+     134.1,
+     207.1
+    ],
+    [
+     126.0,
+     240.0
+    ],
+    [
+     117.4,
+     272.7
+    ],
+    [
+     106.6,
+     304.4
+    ],
+    [
+     100.0,
+     337.2
+    ],
+    [
+     118.2,
+     360.6
+    ],
+    [
+     151.9,
+     360.0
+    ],
+    [
+     170.2,
+     333.3
+    ],
+    [
+     185.7,
+     303.1
+    ],
+    [
+     200.5,
+     272.7
+    ],
+    [
+     215.3,
+     242.2
+    ],
+    [
+     230.4,
+     211.9
+    ],
+    [
+     252.5,
+     186.7
+    ],
+    [
+     283.6,
+     174.1
+    ],
+    [
+     317.2,
+     170.0
+    ],
+    [
+     351.1,
+     170.0
+    ],
+    [
+     385.1,
+     170.0
+    ],
+    [
+     419.0,
+     170.0
+    ],
+    [
+     453.0,
+     170.0
+    ],
+    [
+     487.0,
+     170.0
+    ],
+    [
+     520.9,
+     170.0
+    ],
+    [
+     554.9,
+     170.0
+    ],
+    [
+     588.9,
+     170.0
+    ],
+    [
+     622.3,
+     166.0
+    ],
+    [
+     656.1,
+     168.1
+    ],
+    [
+     669.7,
+     197.6
+    ],
+    [
+     667.9,
+     231.0
+    ],
+    [
+     645.2,
+     254.6
+    ],
+    [
+     612.8,
+     254.6
+    ],
+    [
+     586.5,
+     234.3
+    ],
+    [
+     555.5,
+     222.0
+    ],
+    [
+     521.8,
+     219.0
+    ],
+    [
+     487.9,
+     219.0
+    ],
+    [
+     453.9,
+     219.0
+    ],
+    [
+     419.9,
+     219.0
+    ],
+    [
+     386.0,
+     219.0
+    ],
+    [
+     352.1,
+     220.3
+    ],
+    [
+     321.4,
+     233.5
+    ],
+    [
+     300.1,
+     259.5
+    ],
+    [
+     281.6,
+     285.7
+    ],
+    [
+     261.8,
+     313.3
+    ],
+    [
+     242.3,
+     340.8
+    ],
+    [
+     222.0,
+     367.9
+    ],
+    [
+     199.9,
+     393.3
+    ],
+    [
+     168.9,
+     405.3
+    ],
+    [
+     135.1,
+     408.0
+    ],
+    [
+     101.1,
+     408.3
+    ],
+    [
+     69.5,
+     397.9
+    ],
+    [
+     50.9,
+     370.6
+    ],
+    [
+     47.5,
+     338.6
+    ],
+    [
+     52.1,
+     305.0
+    ],
+    [
+     58.4,
+     271.8
+    ],
+    [
+     64.5,
+     238.5
+    ],
+    [
+     69.0,
+     205.0
+    ],
+    [
+     74.9,
+     171.7
+    ],
+    [
+     80.7,
+     138.3
+    ],
+    [
+     93.7,
+     107.7
+    ],
+    [
+     122.0,
+     97.4
+    ],
+    [
+     155.3,
+     92.2
+    ],
+    [
+     185.6,
+     80.0
+    ],
+    [
+     217.5,
+     86.9
+    ],
+    [
+     249.4,
+     94.0
+    ],
+    [
+     281.7,
+     87.6
+    ],
+    [
+     313.6,
+     80.0
+    ],
+    [
+     345.4,
+     87.0
+    ],
+    [
+     377.5,
+     94.0
+    ],
+    [
+     409.2,
+     84.9
+    ],
+    [
+     441.4,
+     80.6
+    ],
+    [
+     472.7,
+     89.9
+    ],
+    [
+     505.4,
+     93.4
+    ],
+    [
+     535.6,
+     80.1
+    ],
+    [
+     567.5,
+     86.4
+    ]
+   ],
+   "closed": true,
+   "source": "https://www.kart-eventcenter.de/images/strecke-layout.webp",
+   "source_page": "https://www.kart-eventcenter.de/",
+   "method": "raster",
+   "params": "transparent webp composited on grey; start-line checker block painted asphalt grey; --color 190,190,190 --tol 40 --open 3",
+   "note": "traced asphalt lanes between red/white barrier lines of the venue track-layout graphic; small zig-zag on the start straight from grid markings"
+  },
+  "candidates": [
+   {
+    "url": "https://www.kart-eventcenter.de/images/strecke-layout.webp",
+    "kind": "outline",
+    "used": true,
+    "why": "venue top-view track layout graphic (known layout link)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "layout image not referenced in the static homepage HTML (likely loaded by script)"
+ },
+ {
+  "id": "node/2587252307",
+  "layout_page": "https://www.kart-und-fun.de/kartbahn/strecke",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kart-und-fun.de/upload/large/large_64085a6d18ad2ee2816e8a2c_e92aba939556d69c7494e58291929fa31c2c0510d6ddbc60cdf6959cfd7cacca_64085a89.png",
+    "kind": "other",
+    "used": false,
+    "why": "small oblique 3D infographic of the multi-level track with callout lines; not a plan view"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only an oblique 3D track infographic on venue track page"
+ },
+ {
+  "id": "node/13374883723",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue kart page has photos only"
+ },
+ {
+  "id": "node/2791912346",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue Kartbahn page has only background photos"
+ },
+ {
+  "id": "way/336869541",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartbahn-willingen.de/images/2019/01/23/kartbahn_panorama.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "panorama photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site has photos only"
+ },
+ {
+  "id": "node/2673845362",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartomania-hannover.de/wp-content/uploads/2020/08/hannover-strecke.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of karts on track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site and WP media library have photos only"
+ },
+ {
+  "id": "way/1447721895",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartomania-laatzen.de/wp-content/uploads/2020/08/laatzen-strecke.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of karts on track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site and WP media library have photos only"
+ },
+ {
+  "id": "node/5207433462",
+  "layout_page": "https://kart-stuttgart.de/strecke/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kart-stuttgart.de/wp-content/uploads/2019/10/strecke2011_weiss.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "hall plan (2011) where the circuit is drawn only as dotted barrier lines with open ends, plus kart icons and labels; no circuit line or ribbon to trace"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "dotted barrier-line hall plan on venue Strecke page"
+ },
+ {
+  "id": "node/7239416109",
+  "layout_page": "https://www.kartcenterhildesheim.de/Kartbahn/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartcenterhildesheim.de/.cm4all/uproc.php/0/Kartcenterhildesheimimages/.Strecke2020.png/picture-1600",
+    "kind": "outline",
+    "used": false,
+    "why": "clean top-view plan (Strecke 2020) with lanes separated by barrier lines; trace (3 variations, start marker/arrows painted out) shortcut the S-section after the start straight against the direction arrow and left a gap; rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "good track plan on venue Kartbahn page, but auto-trace not reliable"
+ },
+ {
+  "id": "node/12766527149",
+  "layout_page": "https://www.cala-race.com/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.cala-race.com/wp-content/themes/yootheme/cache/1d/CalaRace-Plan_1920px-1536x1019-1-1dcb963d.png",
+    "kind": "other",
+    "used": false,
+    "why": "isometric 3D illustration of the hall and multi-level track (with bridge); not a plan view"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only an isometric 3D track illustration on venue homepage"
+ },
+ {
+  "id": "way/119610125",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; venue site and WP media library have photos only"
+ },
+ {
+  "id": "way/128574048",
+  "layout_page": "https://www.kartbahn-rheinfelden.de/bahn/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartbahn-rheinfelden.de/wp-content/uploads/2014/07/i_piste.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "small (388x476) hall plan drawn only as red/white tyre-wall dots on a uniform grey floor, with diagonal crossing walls; no circuit line or ribbon to trace"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "tyre-wall hall plan on venue Bahn page"
+ },
+ {
+  "id": "way/72708524",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartbahn-schoenerlinde.de/images/Screenshot-2025-07-16-160140.webp",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique drone photo of the circuit"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial/drone photos found"
+ },
+ {
+  "id": "node/7961993497",
+  "layout_page": "https://www.kartbahn-mv.de/stralsund/media/images/sreckehst.jpg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartbahn-mv.de/stralsund/media/images/sreckehst.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "plan with blue floor and white barrier lines (open-ended walls), wide open start/pit area; trace skipped the start straight and ran through the pit lane (2 variations), rejected"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "barrier-line hall plan (known layout link) not traceable automatically"
+ },
+ {
+  "id": "way/39772680",
+  "layout_page": "https://www.rmsv-urloffen.de/strecke-urloffen",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://static.rmsv-urloffen.de/srv/static/cms/content/Eigene-Uploads/Bahn/skizze_kartbahn.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "small (540x331) engineering site plan (Ortenauring Streckenskizze) with pale track fill, kerb markings, trees and annotations; colour mask either covered only part of the circuit or leaked into the surroundings (2 variations)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "track sketch on club Strecke page; too busy/low-res to trace"
+ },
+ {
+  "id": "node/587974059",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartbahn-werther.de/wp-content/uploads/2022/09/3_Strecke_m.jpeg",
+    "kind": "aerial",
+    "used": false,
+    "why": "small top-down photo crop of one track section, not a full map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no track map online; only photos on venue site"
+ },
+ {
+  "id": "node/3761972788",
+  "layout_page": "https://www.kartcenter-cologne.de",
+  "layout_diagram": {
+   "points": [
+    [
+     277.5,
+     57.0
+    ],
+    [
+     302.9,
+     57.0
+    ],
+    [
+     328.3,
+     57.0
+    ],
+    [
+     353.6,
+     57.0
+    ],
+    [
+     379.0,
+     57.0
+    ],
+    [
+     404.4,
+     57.0
+    ],
+    [
+     429.8,
+     57.0
+    ],
+    [
+     455.1,
+     57.0
+    ],
+    [
+     480.5,
+     57.0
+    ],
+    [
+     505.9,
+     57.0
+    ],
+    [
+     531.3,
+     57.0
+    ],
+    [
+     556.6,
+     57.0
+    ],
+    [
+     582.0,
+     57.0
+    ],
+    [
+     607.4,
+     57.0
+    ],
+    [
+     632.8,
+     57.0
+    ],
+    [
+     658.1,
+     57.0
+    ],
+    [
+     683.5,
+     57.0
+    ],
+    [
+     708.9,
+     57.0
+    ],
+    [
+     734.3,
+     57.0
+    ],
+    [
+     759.6,
+     57.0
+    ],
+    [
+     785.0,
+     57.0
+    ],
+    [
+     809.3,
+     62.7
+    ],
+    [
+     822.5,
+     83.3
+    ],
+    [
+     825.0,
+     108.5
+    ],
+    [
+     815.3,
+     131.1
+    ],
+    [
+     791.9,
+     139.9
+    ],
+    [
+     766.5,
+     140.0
+    ],
+    [
+     743.4,
+     146.1
+    ],
+    [
+     722.2,
+     140.3
+    ],
+    [
+     706.8,
+     144.0
+    ],
+    [
+     686.5,
+     137.5
+    ],
+    [
+     671.6,
+     145.5
+    ],
+    [
+     650.6,
+     136.5
+    ],
+    [
+     637.0,
+     141.4
+    ],
+    [
+     614.5,
+     133.7
+    ],
+    [
+     593.5,
+     120.4
+    ],
+    [
+     572.3,
+     107.3
+    ],
+    [
+     564.8,
+     105.1
+    ],
+    [
+     559.2,
+     116.3
+    ],
+    [
+     536.8,
+     126.7
+    ],
+    [
+     524.4,
+     143.0
+    ],
+    [
+     525.0,
+     168.2
+    ],
+    [
+     525.0,
+     193.6
+    ],
+    [
+     528.7,
+     218.5
+    ],
+    [
+     534.0,
+     241.4
+    ],
+    [
+     526.1,
+     265.3
+    ],
+    [
+     506.3,
+     277.7
+    ],
+    [
+     481.0,
+     277.4
+    ],
+    [
+     455.6,
+     277.0
+    ],
+    [
+     430.2,
+     277.0
+    ],
+    [
+     404.9,
+     276.7
+    ],
+    [
+     382.2,
+     265.8
+    ],
+    [
+     359.8,
+     254.1
+    ],
+    [
+     336.0,
+     245.7
+    ],
+    [
+     310.9,
+     243.0
+    ],
+    [
+     285.6,
+     243.0
+    ],
+    [
+     260.2,
+     243.0
+    ],
+    [
+     234.9,
+     243.9
+    ],
+    [
+     210.6,
+     238.4
+    ],
+    [
+     194.7,
+     219.3
+    ],
+    [
+     189.0,
+     195.0
+    ],
+    [
+     191.6,
+     170.0
+    ],
+    [
+     215.3,
+     162.0
+    ],
+    [
+     240.6,
+     161.0
+    ],
+    [
+     266.0,
+     161.0
+    ],
+    [
+     291.4,
+     161.0
+    ],
+    [
+     316.8,
+     161.0
+    ],
+    [
+     342.1,
+     162.0
+    ],
+    [
+     367.4,
+     161.9
+    ],
+    [
+     383.2,
+     144.2
+    ],
+    [
+     379.9,
+     120.4
+    ],
+    [
+     359.6,
+     108.8
+    ],
+    [
+     334.3,
+     108.8
+    ],
+    [
+     309.1,
+     111.0
+    ],
+    [
+     283.7,
+     111.0
+    ],
+    [
+     258.4,
+     111.0
+    ],
+    [
+     233.0,
+     111.4
+    ],
+    [
+     207.7,
+     112.0
+    ],
+    [
+     182.3,
+     112.0
+    ],
+    [
+     157.0,
+     112.4
+    ],
+    [
+     135.3,
+     123.8
+    ],
+    [
+     129.0,
+     147.9
+    ],
+    [
+     128.0,
+     173.2
+    ],
+    [
+     128.0,
+     198.6
+    ],
+    [
+     128.0,
+     223.9
+    ],
+    [
+     132.9,
+     248.8
+    ],
+    [
+     143.9,
+     271.5
+    ],
+    [
+     149.6,
+     296.2
+    ],
+    [
+     150.9,
+     321.0
+    ],
+    [
+     135.0,
+     339.9
+    ],
+    [
+     109.9,
+     342.0
+    ],
+    [
+     84.7,
+     340.1
+    ],
+    [
+     67.4,
+     323.9
+    ],
+    [
+     66.0,
+     298.7
+    ],
+    [
+     66.0,
+     273.3
+    ],
+    [
+     66.9,
+     248.0
+    ],
+    [
+     67.0,
+     222.6
+    ],
+    [
+     67.0,
+     197.2
+    ],
+    [
+     68.0,
+     171.9
+    ],
+    [
+     68.0,
+     146.5
+    ],
+    [
+     69.0,
+     121.2
+    ],
+    [
+     69.9,
+     95.9
+    ],
+    [
+     78.7,
+     72.6
+    ],
+    [
+     100.1,
+     59.7
+    ],
+    [
+     125.4,
+     58.0
+    ],
+    [
+     150.7,
+     58.0
+    ],
+    [
+     176.1,
+     58.0
+    ],
+    [
+     201.5,
+     58.0
+    ],
+    [
+     226.9,
+     58.0
+    ],
+    [
+     252.2,
+     58.0
+    ]
+   ],
+   "closed": true,
+   "source": "https://kartcenter-cologne.de/wp-content/uploads/2025/11/Kartcenter-Cologne_racing-track.webp",
+   "source_page": "https://www.kartcenter-cologne.de",
+   "method": "raster",
+   "params": "transparent webp composited on white; start-line checker painted track colour; --color 6,36,52 --tol 30 --open 3",
+   "note": "traced from navy ribbon track graphic with red edges (Turn 1-6, Steilkurve); slight zig-zag on the start grid; pit lane ignored"
+  },
+  "candidates": [
+   {
+    "url": "https://kartcenter-cologne.de/wp-content/uploads/2025/11/Kartcenter-Cologne_racing-track.webp",
+    "kind": "outline",
+    "used": true,
+    "why": "venue track-layout graphic (full size of the known layout link)"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ }
+]

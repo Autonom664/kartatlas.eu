@@ -1,0 +1,694 @@
+[
+ {
+  "id": "way/33894329",
+  "name": "Kartcenter Rostock",
+  "town": "Rostock",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 54.1314,
+  "lon": 12.08033,
+  "websites": [
+   "http://www.kartcenter-rostock.de/",
+   "http://www.kartcenter-rostock.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/127169866",
+  "name": "Kartfun Neuastenberg",
+  "town": "Winterberg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.16891,
+  "lon": 8.4871,
+  "websites": [
+   "http://www.kartfun-astenberg.de",
+   "http://www.kartfun-astenberg.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   550
+  ]
+ },
+ {
+  "id": "way/43869473",
+  "name": "Karthalle Coswig",
+  "town": "Coswig",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.14783,
+  "lon": 13.53977,
+  "websites": [
+   "https://www.karthalle-coswig.de/",
+   "https://www.karthalle-coswig.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/6205111509",
+  "name": "Karthalle Mainz",
+  "town": "Mainz",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.95949,
+  "lon": 8.25637,
+  "websites": [
+   "https://karthalle-mainz.de/",
+   "https://karthalle-mainz.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   280
+  ]
+ },
+ {
+  "id": "way/655238957",
+  "name": "Karthaus Zweibrücken",
+  "town": "Zweibrücken",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.22887,
+  "lon": 7.40842,
+  "websites": [
+   "https://karthaus.de/",
+   "https://karthaus.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   420
+  ]
+ },
+ {
+  "id": "way/29176372",
+  "name": "Kartion - Karting & More",
+  "town": "Gärtringen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.63768,
+  "lon": 8.909,
+  "websites": [
+   "http://www.kartion.de",
+   "http://www.kartion.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "town": "Sinn",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.65524,
+  "lon": 8.32603,
+  "websites": [
+   "http://kartland-sinn.de/",
+   "http://kartland-sinn.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12513908020",
+  "name": "Kartodrom Elles",
+  "town": "Buchholz (Westerwald)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.69428,
+  "lon": 7.44727,
+  "websites": [
+   "https://www.kartodrom-elles.de",
+   "https://www.kartodrom-elles.de",
+   "https://www.kartbahn-deutschland.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   385
+  ]
+ },
+ {
+  "id": "node/13110958672",
+  "name": "Kartraceland Weil am Rhein",
+  "town": "Weil am Rhein",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 47.6078,
+  "lon": 7.59612,
+  "websites": [
+   "https://kartraceland.de/",
+   "https://kartraceland.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "way/340141838",
+  "name": "Kartsportzentrum Rottal",
+  "town": "Rotthalmuenster",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 48.378571,
+  "lon": 13.229397,
+  "websites": [
+   "https://www.kartsport-zentrum.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   851
+  ]
+ },
+ {
+  "id": "node/3761972790",
+  "name": "Le Mans Karting",
+  "town": "Köln",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.97576,
+  "lon": 6.89567,
+  "websites": [
+   "https://www.lemanskarting.de/",
+   "https://www.lemanskarting.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/883027662",
+  "name": "LimPark",
+  "town": "Limburg",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 50.40204,
+  "lon": 8.04899,
+  "websites": [
+   "https://www.limpark.de/",
+   "https://www.limpark.de/kart/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1000
+  ]
+ },
+ {
+  "id": "node/13651711458",
+  "name": "MOBIKART Fun Racing",
+  "town": null,
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.52006,
+  "lon": 13.4974,
+  "websites": [
+   "https://www.mobi-kart.de/",
+   "https://www.mobi-kart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   280,
+   150
+  ]
+ },
+ {
+  "id": "way/89670854",
+  "name": "Mainfranken Motodrom",
+  "town": "Würzburg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.81185,
+  "lon": 9.89145,
+  "websites": [
+   "https://www.ekart-center.de",
+   "https://www.ekart-center.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   330
+  ]
+ },
+ {
+  "id": "way/89322197",
+  "name": "Motor Sportclub Rathenow e.V. im ADAC",
+  "town": "Rathenow",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 52.60087,
+  "lon": 12.37614,
+  "websites": [
+   "https://mcrathenow.de/",
+   "https://mcrathenow.de/"
+  ],
+  "known_layout_link": "https://mcrathenow.de/wp-content/uploads/2024/11/GrundrissX.webp",
+  "official_lengths": [
+   680
+  ]
+ },
+ {
+  "id": "node/5324743781",
+  "name": "NOlimit Kartbahn Fulda",
+  "town": "Fulda",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 50.52739,
+  "lon": 9.67711,
+  "websites": [
+   "https://www.nolimitkartbahn.de/",
+   "https://www.nolimitkartbahn.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "way/98118626",
+  "name": "POWERhall Chemnitz",
+  "town": "Chemnitz",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.86413,
+  "lon": 12.85768,
+  "websites": [
+   "https://www.powerhall.de/",
+   "https://www.powerhall.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/2501649295",
+  "name": "Planet KART-O-MANIA",
+  "town": "Geiersthal",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.02829,
+  "lon": 12.98855,
+  "websites": [
+   "https://www.kart-o-mania.de/",
+   "https://www.kart-o-mania.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/388393542",
+  "name": "Raceland Karting",
+  "town": "Arnsberg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.46141,
+  "lon": 7.94303,
+  "websites": [
+   "http://raceland-karting.de",
+   "http://raceland-karting.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/997947153",
+  "name": "Sport Kart Münster",
+  "town": "Münster",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.99458,
+  "lon": 7.66143,
+  "websites": [
+   "https://www.sportkart-muenster.de",
+   "https://www.sportkart-muenster.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/480988747",
+  "name": "TeamSport E-Karting",
+  "town": "Osnabrück",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.30124,
+  "lon": 8.04954,
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/osnabrueck",
+   "https://teamsport-ekarting.de/standorte/osnabrueck"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   470
+  ]
+ },
+ {
+  "id": "node/12497729617",
+  "name": "TeamSport E-Karting",
+  "town": "Mönchengladbach",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.21531,
+  "lon": 6.46864,
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/moenchengladbach",
+   "https://teamsport-ekarting.de/standorte/moenchengladbach"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/1844036287",
+  "name": "TeamSport E-Karting Kart Palast Funpark",
+  "town": "Bergkirchen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.23604,
+  "lon": 11.35098,
+  "websites": [
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast",
+   "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/4144064752",
+  "name": "indyKart Rottweil",
+  "town": "Rottweil",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.177,
+  "lon": 8.61457,
+  "websites": [
+   "http://www.indykart.de/",
+   "http://www.indykart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   550
+  ]
+ },
+ {
+  "id": "node/3761972821",
+  "name": "ring°kartbahn",
+  "town": "Nürburg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.3344,
+  "lon": 6.94764,
+  "websites": [
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn",
+   "https://nuerburgring.de/experience/at-the-ring/ringkartbahn"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/8124949048",
+  "name": "Ballerup Event Center",
+  "town": "Ballerup Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 55.72323,
+  "lon": 12.37375,
+  "websites": [
+   "https://www.ballerupeventcenter.dk/",
+   "https://www.ballerupeventcenter.dk/"
+  ],
+  "known_layout_link": "https://ballerupeventcenter.dk/gokart/",
+  "official_lengths": [
+   420
+  ]
+ },
+ {
+  "id": "node/7548776479",
+  "name": "Bowl'n'Fun Esbjerg",
+  "town": "Esbjerg Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 55.51164,
+  "lon": 8.40668,
+  "websites": [
+   "https://bowlnfun.dk/forlystelser/gokart/",
+   "https://bowlnfun.dk/forlystelser/gokart/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/547428233",
+  "name": "Djursland Gokart Ring",
+  "town": "Syddjurs Kommune",
+  "country": "DK",
+  "type": "outdoor",
+  "lat": 56.29737,
+  "lon": 10.63679,
+  "websites": [
+   "https://www.dmka.dk/karting/",
+   "https://www.dmka.dk/karting/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/4467077725",
+  "name": "Gokart World",
+  "town": "Aalborg Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 56.98223,
+  "lon": 9.85593,
+  "websites": [
+   "https://www.gokartworld.dk/",
+   "https://gokartworld.dk"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/4467097590",
+  "name": "Odense Gokart Hal",
+  "town": "Odense Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 55.39247,
+  "lon": 10.44234,
+  "websites": [
+   "https://odensegokart.dk",
+   "https://odensegokart.dk"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   270
+  ]
+ },
+ {
+  "id": "node/8162798833",
+  "name": "RaceSyd",
+  "town": "Fredericia Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 55.58763,
+  "lon": 9.75973,
+  "websites": [
+   "https://racesyd.dk/",
+   "https://racesyd.dk/",
+   "https://fredericiagokartklub.dk/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/87330958",
+  "name": "Racehall Aarhus",
+  "town": "Aarhus Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 56.11736,
+  "lon": 10.1215,
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1000
+  ]
+ },
+ {
+  "id": "way/839020157",
+  "name": "Racehall København",
+  "town": "Høje-Taastrup Kommune",
+  "country": "DK",
+  "type": "indoor",
+  "lat": 55.65526,
+  "lon": 12.25137,
+  "websites": [
+   "https://racehall.com/",
+   "https://racehall.com/",
+   "https://racehall.com/en/boernenes-gokart-klub/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1250
+  ]
+ },
+ {
+  "id": "node/8158080464",
+  "name": "Silkeborg GoKart Center",
+  "town": "Silkeborg Kommune",
+  "country": "DK",
+  "type": "outdoor",
+  "lat": 56.09665,
+  "lon": 9.57623,
+  "websites": [
+   "https://silkeborg-gokart.dk/",
+   "https://silkeborg-gokart.dk/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   250
+  ]
+ },
+ {
+  "id": "node/4477658831",
+  "name": "Skive Gokart og Paintball Center",
+  "town": "Skive Kommune",
+  "country": "DK",
+  "type": "outdoor",
+  "lat": 56.56081,
+  "lon": 8.97677,
+  "websites": [
+   "https://www.skivegokart.dk",
+   "https://www.skivegokart.dk"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   250
+  ]
+ },
+ {
+  "id": "way/236927018",
+  "name": "Aerokart",
+  "town": "Argenteuil",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.9569,
+  "lon": 2.20445,
+  "websites": [
+   "https://aerokart.com/",
+   "https://aerokart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   605
+  ]
+ },
+ {
+  "id": "way/796566900",
+  "name": "Ardennes Karting",
+  "town": "Douzy",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 49.66262,
+  "lon": 5.04522,
+  "websites": [
+   "https://ardenneskarting.fr/",
+   "https://ardenneskarting.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   435
+  ]
+ },
+ {
+  "id": "node/12388424111",
+  "name": "Base US Karting",
+  "town": "Étrechet",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 46.8135,
+  "lon": 1.77943,
+  "websites": [
+   "https://baseuskarting.com/",
+   "https://baseuskarting.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "way/1540863442",
+  "name": "BattleKart",
+  "town": "Dreux",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.74697,
+  "lon": 1.3605,
+  "websites": [
+   "https://www.battlekart.com/fr/paris-ouest-dreux",
+   "https://www.battlekart.com/fr/paris-ouest-dreux"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1000270136",
+  "name": "BattleKart",
+  "town": "Notre-Dame-d'Oé",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.44157,
+  "lon": 0.69753,
+  "websites": [
+   "https://www.battlekart.com/fr/tours/",
+   "https://www.battlekart.com/fr/tours/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12089359841",
+  "name": "BattleKart Lyon-Mornant",
+  "town": "Mornant",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.6243,
+  "lon": 4.70298,
+  "websites": [
+   "https://www.battlekart.com/fr/lyon-mornant/",
+   "https://www.battlekart.com/fr/lyon-mornant/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11563955592",
+  "name": "BattleKart Paris-Sud-Massy",
+  "town": "Champlan",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.70589,
+  "lon": 2.29307,
+  "websites": [
+   "https://www.battlekart.com/fr/paris-sud-massy/",
+   "https://www.battlekart.com/fr/paris-sud-massy/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ }
+]

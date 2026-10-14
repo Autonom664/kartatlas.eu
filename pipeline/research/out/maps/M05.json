@@ -1,0 +1,1163 @@
+[
+ {
+  "id": "node/13432940206",
+  "layout_page": "https://hollywoodkart.it/wp-content/uploads/2023/12/Bicocca-Kart.jpeg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://hollywoodkart.it/wp-content/uploads/2023/12/Bicocca-Kart.jpeg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique perspective 3D render of the track, not top-down"
+   },
+   {
+    "url": "https://hollywoodkart.it/wp-content/uploads/2023/12/BicoccaKart2.jpeg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "second oblique 3D render, not top-down"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only perspective 3D renders on operator site (WP media)"
+ },
+ {
+  "id": "way/442190451",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; circuit page (il-circuito.html) shows only videos and photos"
+ },
+ {
+  "id": "node/12296957472",
+  "layout_page": "https://www.houseofkarts.it/pista/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.houseofkarts.it/wp-content/uploads/2025/02/Circuito-nuovo-25.png",
+    "kind": "outline",
+    "used": false,
+    "why": "2025 layout, white double-edge outline; same artwork as anteprima-track (traced that one) - adjacent sections too close"
+   },
+   {
+    "url": "https://www.houseofkarts.it/wp-content/uploads/2025/04/anteprima-track_house-of-karts.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "traced --light --close 6 and --close 3: ribbon edges of neighbouring sections merge / walk only covers 19-48% (pit lane and double start straight create junctions)"
+   },
+   {
+    "url": "https://www.houseofkarts.it/wp-content/uploads/2025/01/NEW-CIRCUITO-GENNAIO-25_house-of-karts.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "grey-filled ribbon plan with box; --color 230,230,230 trace took shortcut via pit area (coverage 41%)"
+   },
+   {
+    "url": "https://www.houseofkarts.it/wp-content/uploads/2021/04/circuito-hok-2021.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "superseded 2021 layout poster"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "clear 2025 layout drawing on operator site, but automatic trace failed (pit-lane junctions, touching sections)"
+ },
+ {
+  "id": "way/520512730",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; operator site has photos only, WP media search empty"
+ },
+ {
+  "id": "node/12383157724",
+  "layout_page": "https://www.k1speed.com/wp-content/uploads/2026/06/pista-torino.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.k1speed.com/wp-content/uploads/2026/06/pista-torino.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "cropped oblique 3D render of multi-level track; not top-down"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a cropped 3D render (multi-level track); k1speed.com pages behind Cloudflare challenge"
+ },
+ {
+  "id": "node/6810005042",
+  "layout_page": "https://hollywoodkart.it/wp-content/uploads/2023/12/pista-Udine.jpeg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://hollywoodkart.it/wp-content/uploads/2023/12/pista-Udine.jpeg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique 3D render of the multi-level (3-floor) track from former Hollywood Kart site; not top-down"
+   },
+   {
+    "url": "https://www.k1speed.com/it/udine.html",
+    "kind": "photo",
+    "used": false,
+    "why": "K1 Speed page only shows kart photos"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a 3D render of the multi-level track"
+ },
+ {
+  "id": "way/80610278",
+  "layout_page": "https://kartandgo.it/circuiti/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartandgo.it/wp-content/uploads/2024/01/SUZUKA-CIRCUITO-1024x576.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "layout icons (Las Vegas, Suzuka, Monza, Spa, Le Mans variants) drawn as tilted perspective 3D ribbons over a photo; not top-down"
+   },
+   {
+    "url": "https://kartandgo.it/wp-content/uploads/2020/10/Tavola-disegno-2-copia-2.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "same style, Monza variant"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "several named layouts shown only as perspective 3D ribbon graphics"
+ },
+ {
+  "id": "way/416497419",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartodromobarimax.it/wp-content/uploads/2020/09/pista.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique perspective 3D render of the (multi-level) track; not top-down; byte-identical file also on kartodromopomezia.it (shared site template), attribution uncertain"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a perspective 3D render on operator site"
+ },
+ {
+  "id": "node/9837894989",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartodromopomezia.it/wp-content/uploads/2020/09/pista.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique 3D render of a two-level track; byte-identical to the image on kartodromobarimax.it (shared site template), so venue attribution uncertain"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a perspective 3D render, identical file also on the Barimax site"
+ },
+ {
+  "id": "way/645437188",
+  "layout_page": "https://lariomotorsport.it/kartodromo/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://lariomotorsport.it/assets/images/kartodromo/varianti-pista.jpg?v=2022",
+    "kind": "render_3d",
+    "used": false,
+    "why": "perspective 3D render of the whole multi-level circuit"
+   },
+   {
+    "url": "https://lariomotorsport.it/assets/images/kartodromo/variante-senna.png",
+    "kind": "outline",
+    "used": false,
+    "why": "top-down drawing of only the variable lower section (Senna/Lauda/Fangio/Villeneuve variants); track runs off the top edge to the rest of the multi-level circuit, so tracing would give a partial layout"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "multi-level circuit; full layout only as 3D render, top-down drawings cover only the variant section"
+ },
+ {
+  "id": "way/290766494",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://static.wixstatic.com/media/94d910_81c2a8da772b42c1beda9b5aa100c22e~mv2.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "aerial photo of the circuit"
+   },
+   {
+    "url": "https://static.wixstatic.com/media/94d910_34b8e0e0c6214294ac4d43d2ff81eed6~mv2.png",
+    "kind": "other",
+    "used": false,
+    "why": "logo with stylised track motif, not the real layout"
+   },
+   {
+    "url": "https://tkart.it/en/news/features/discovering-the-viterbo-circuit",
+    "kind": "other",
+    "used": false,
+    "why": "article may contain a map but site returns 403 to fetches"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos on operator site; TKART feature page blocked (403)"
+ },
+ {
+  "id": "node/13019575417",
+  "layout_page": "https://www.pgkvenezia.com/wp-content/uploads/pista-pgk-venezia.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.pgkvenezia.com/wp-content/uploads/pista-pgk-venezia.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique 3D render of multi-level track"
+   },
+   {
+    "url": "https://www.pgkvenezia.com/wp-content/uploads/pista-stilizzata-pgk-venezia-1024x654.png",
+    "kind": "other",
+    "used": false,
+    "why": "stylised line drawn in the same oblique perspective as the 3D render, with fading gradient and ghost/shadow duplicates; not top-down, not traceable"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only perspective 3D render and a stylised perspective line graphic"
+ },
+ {
+  "id": "way/186119706",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.gokartena.it/pista-artena.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique aerial photo of the track"
+   },
+   {
+    "url": "http://www.gokartena.it/_astro/mappa-artena.Cg7tLGp8_Z1mQ8M3.webp",
+    "kind": "other",
+    "used": false,
+    "why": "road location map, not a track map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos found"
+ },
+ {
+  "id": "way/47052547",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only a Facebook page; no map online"
+ },
+ {
+  "id": "way/1481640920",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://framerusercontent.com/images/6r8lAVaaLQk5UCnxz4ccqdyLY0g.webp",
+    "kind": "aerial",
+    "used": false,
+    "why": "aerial photo of the outdoor track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos found; three configurations (900/750/1250 m) not shown as drawings"
+ },
+ {
+  "id": "way/250190342",
+  "layout_page": "https://www.topfuelracing.it/wp-content/uploads/2025/06/tracciato-original.jpg",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.topfuelracing.it/wp-content/uploads/2025/06/tracciato-original.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "black line drawing of Original layout with pit lane; --dark --open 1 trace detours through the pit-lane loop and skips the start/finish straight (red finish mark breaks the line)"
+   },
+   {
+    "url": "https://www.topfuelracing.it/wp-content/uploads/2021/10/pista_original.png",
+    "kind": "outline",
+    "used": false,
+    "why": "grey ribbon on dark background; --color 128,128,128 trace locked onto label text, pit lane merges with ribbon"
+   },
+   {
+    "url": "https://www.topfuelracing.it/wp-content/uploads/2025/06/tracciato-fast.jpg",
+    "kind": "outline",
+    "used": false,
+    "why": "Fast (450 m) variant, same drawing style and pit-lane problem"
+   },
+   {
+    "url": "https://www.topfuelracing.it/wp-content/uploads/2026/02/tracciato-noleggio_1080x.webp",
+    "kind": "site_plan",
+    "used": false,
+    "why": "shows Circuito Internazionale d'Abruzzo, a different venue"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "clear top-down layout drawings (Original 485 m, Fast 450 m) on operator site; automatic trace failed because pit lane is drawn joined to the circuit"
+ },
+ {
+  "id": "way/493236628",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "site ttracing.it returns server error; no map found via search"
+ },
+ {
+  "id": "node/1098017859",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://a15karting.nl/wp-content/uploads/2013/10/kartbaan2.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photos of karts/drivers only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; site media has photos only"
+ },
+ {
+  "id": "node/1413233649",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://coronel.nl/wp-content/uploads/2025/12/kartbaan2025.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the indoor track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "way/58821981",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; karting pages on deuithof.nl now redirect to the home page (karting may have closed)"
+ },
+ {
+  "id": "node/7734829180",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://devoltage.b-cdn.net/wp-content/uploads/2023/04/Voltage-116-HR-1200x800.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photos of the indoor track only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "way/290232085",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartcentrum.nl/wp-content/uploads/2026/06/PP_EIK_Karting_VOLWASSEN_018-1-768x512.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "karting photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; site blocks curl (403), karten page shows photos only"
+ },
+ {
+  "id": "node/958029969",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kart.nl/wp-content/uploads/2024/04/Go-Kart-In-februari-10-karten-op-de-baan-web.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "track photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "node/8695377425",
+  "layout_page": "https://hezemans.nl/wp-content/uploads/2025/08/Circuit-engels-scaled.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://hezemans.nl/wp-content/uploads/2025/08/Circuit-engels-scaled.png",
+    "kind": "outline",
+    "used": false,
+    "why": "two-level track drawn as two separate top-down floor plans (level one / level zero), each an open section ending at the ramps; no single continuous circuit to trace and the relative position of the floors is not given"
+   },
+   {
+    "url": "https://hezemans.nl/wp-content/uploads/2025/05/Middel-3-scaled.png",
+    "kind": "outline",
+    "used": false,
+    "why": "same two-floor drawing, Dutch version"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "clear official drawing, but multi-level track split into two floor plans; not traceable as one circuit"
+ },
+ {
+  "id": "node/13607854888",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; karten page only has a banner photo"
+ },
+ {
+  "id": "node/2551684936",
+  "layout_page": "https://www.indoorkartingheerenveen.nl/het-circuit",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.indoorkartingheerenveen.nl/assets/img/karbaan-heerenveen.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "ground-floor plan with red driving line; only one of two floors (open section ending at the bridge), so not a full circuit"
+   },
+   {
+    "url": "https://www.indoorkartingheerenveen.nl/assets/img/karbaan-heerenveen-2.png",
+    "kind": "site_plan",
+    "used": false,
+    "why": "upper-floor plan with red driving line (Brug op/Brug af); the two floor plans cannot be joined reliably into one trace"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "two-floor track shown as two separate floor plans; not traceable as one circuit"
+ },
+ {
+  "id": "node/2848644350",
+  "layout_page": "https://kartbaanduiven.nl/plattegrond-kartbaan/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartbaanduiven.nl/wp-content/uploads/2026/10/V13-beneden-1024x724.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "isometric 3D render of the ground floor (benedenverdieping) with green racing line"
+   },
+   {
+    "url": "https://kartbaanduiven.nl/wp-content/uploads/2026/10/V13-boven-1024x724.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "isometric 3D render of the upper floor (bovenverdieping); two-level track split over two images"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "two-floor track shown only as isometric 3D renders per floor"
+ },
+ {
+  "id": "way/296815510",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://kartbaanuden.nl/wp-content/uploads/2021/09/kartbaan-uden.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "studio photo of a kart"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online"
+ },
+ {
+  "id": "node/2932410866",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartcentrumlelystad.nl/assets/Uploads/Kartcentrum-Lelystad-v2.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique aerial photo"
+   },
+   {
+    "url": "https://www.knaf.nl/assets/knaf/media/Downloads/20251115-Bijz.-Regl.-NK-Huurkarten-Lelystad.pdf",
+    "kind": "other",
+    "used": false,
+    "why": "KNAF race regulations PDF (may contain a track plan); PDFs are not downloaded/traced"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only aerial photos; operator social post says the track is being extended from 735 m to 900 m, so older layouts may be outdated"
+ },
+ {
+  "id": "node/3040205459",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartfabrique.nl/app/uploads/2024/05/Karten-Jongeren-Volwassenen-Kartbaan-Bedrijfsuitje-Vrijgezellenfeest-Groepsuitje.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "track photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; WP media holds photos only"
+ },
+ {
+  "id": "node/2663385135",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.kartplaza.nl/wp-content/uploads/2025/05/c49be7c8-70ab-428b-8f12-60aa2c1d6c09_out-3360x1888-scaled-1-1-1-1-1.webp",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the indoor track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "node/13897664495",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.playdome.nl/app/uploads/2022/04/KARTEN-12-1.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "karting photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; WP media holds photos only"
+ },
+ {
+  "id": "way/274259545",
+  "layout_page": "https://www.powerarea.nl/karten/",
+  "layout_diagram": {
+   "points": [
+    [
+     424.5,
+     378.0
+    ],
+    [
+     362.5,
+     378.0
+    ],
+    [
+     300.4,
+     378.0
+    ],
+    [
+     238.4,
+     378.0
+    ],
+    [
+     176.4,
+     378.0
+    ],
+    [
+     120.2,
+     355.6
+    ],
+    [
+     94.3,
+     301.1
+    ],
+    [
+     90.0,
+     239.4
+    ],
+    [
+     85.0,
+     177.7
+    ],
+    [
+     90.8,
+     116.6
+    ],
+    [
+     141.6,
+     98.4
+    ],
+    [
+     158.0,
+     153.9
+    ],
+    [
+     158.0,
+     215.9
+    ],
+    [
+     163.6,
+     277.2
+    ],
+    [
+     213.1,
+     308.3
+    ],
+    [
+     275.0,
+     309.0
+    ],
+    [
+     337.0,
+     308.0
+    ],
+    [
+     389.2,
+     280.1
+    ],
+    [
+     399.0,
+     219.6
+    ],
+    [
+     378.8,
+     168.5
+    ],
+    [
+     334.2,
+     194.3
+    ],
+    [
+     288.5,
+     225.9
+    ],
+    [
+     235.3,
+     211.3
+    ],
+    [
+     227.0,
+     150.2
+    ],
+    [
+     240.8,
+     94.3
+    ],
+    [
+     301.6,
+     88.0
+    ],
+    [
+     363.7,
+     88.0
+    ],
+    [
+     425.3,
+     92.0
+    ],
+    [
+     471.6,
+     129.8
+    ],
+    [
+     478.0,
+     190.8
+    ],
+    [
+     478.0,
+     252.9
+    ],
+    [
+     478.0,
+     314.9
+    ],
+    [
+     478.0,
+     376.9
+    ],
+    [
+     478.0,
+     439.0
+    ],
+    [
+     478.0,
+     501.0
+    ],
+    [
+     463.7,
+     559.1
+    ],
+    [
+     405.1,
+     574.0
+    ],
+    [
+     359.2,
+     537.8
+    ],
+    [
+     322.6,
+     489.3
+    ],
+    [
+     262.3,
+     476.9
+    ],
+    [
+     200.3,
+     476.0
+    ],
+    [
+     138.4,
+     477.2
+    ],
+    [
+     104.9,
+     521.4
+    ],
+    [
+     117.3,
+     582.0
+    ],
+    [
+     152.5,
+     631.0
+    ],
+    [
+     208.4,
+     637.1
+    ],
+    [
+     251.7,
+     658.5
+    ],
+    [
+     290.9,
+     641.5
+    ],
+    [
+     322.5,
+     633.0
+    ],
+    [
+     364.2,
+     654.2
+    ],
+    [
+     392.6,
+     655.1
+    ],
+    [
+     435.5,
+     632.0
+    ],
+    [
+     492.9,
+     646.0
+    ],
+    [
+     546.3,
+     617.1
+    ],
+    [
+     600.7,
+     591.0
+    ],
+    [
+     660.2,
+     604.9
+    ],
+    [
+     702.6,
+     649.5
+    ],
+    [
+     758.4,
+     672.3
+    ],
+    [
+     820.1,
+     677.0
+    ],
+    [
+     882.2,
+     677.0
+    ],
+    [
+     942.5,
+     665.9
+    ],
+    [
+     991.9,
+     629.4
+    ],
+    [
+     1019.8,
+     574.9
+    ],
+    [
+     1022.0,
+     513.4
+    ],
+    [
+     983.3,
+     467.7
+    ],
+    [
+     922.0,
+     465.0
+    ],
+    [
+     860.4,
+     469.9
+    ],
+    [
+     800.0,
+     483.3
+    ],
+    [
+     790.0,
+     533.9
+    ],
+    [
+     843.8,
+     549.0
+    ],
+    [
+     903.8,
+     534.6
+    ],
+    [
+     947.4,
+     558.1
+    ],
+    [
+     921.0,
+     610.2
+    ],
+    [
+     861.7,
+     627.3
+    ],
+    [
+     800.2,
+     624.7
+    ],
+    [
+     745.3,
+     597.7
+    ],
+    [
+     699.4,
+     556.5
+    ],
+    [
+     644.3,
+     529.5
+    ],
+    [
+     583.4,
+     520.4
+    ],
+    [
+     552.0,
+     471.2
+    ],
+    [
+     551.0,
+     409.3
+    ],
+    [
+     551.0,
+     347.2
+    ],
+    [
+     551.0,
+     285.2
+    ],
+    [
+     552.0,
+     223.2
+    ],
+    [
+     552.7,
+     161.2
+    ],
+    [
+     577.3,
+     107.0
+    ],
+    [
+     636.1,
+     92.0
+    ],
+    [
+     698.1,
+     91.0
+    ],
+    [
+     760.1,
+     91.0
+    ],
+    [
+     822.2,
+     91.0
+    ],
+    [
+     883.0,
+     98.4
+    ],
+    [
+     877.4,
+     154.2
+    ],
+    [
+     815.7,
+     158.0
+    ],
+    [
+     753.7,
+     158.0
+    ],
+    [
+     691.7,
+     159.0
+    ],
+    [
+     634.9,
+     177.8
+    ],
+    [
+     619.0,
+     236.6
+    ],
+    [
+     630.0,
+     296.2
+    ],
+    [
+     687.8,
+     304.2
+    ],
+    [
+     728.0,
+     261.8
+    ],
+    [
+     773.4,
+     221.7
+    ],
+    [
+     834.5,
+     215.0
+    ],
+    [
+     891.9,
+     233.5
+    ],
+    [
+     918.6,
+     287.5
+    ],
+    [
+     909.4,
+     347.0
+    ],
+    [
+     857.6,
+     376.9
+    ],
+    [
+     795.6,
+     378.0
+    ],
+    [
+     733.6,
+     378.0
+    ],
+    [
+     671.5,
+     378.0
+    ],
+    [
+     609.5,
+     378.0
+    ]
+   ],
+   "closed": true,
+   "source": "https://powerarea.nl/wp-content/uploads/2023/01/pa-track-web-2022-v2-01.png",
+   "source_page": "https://www.powerarea.nl/karten/",
+   "method": "raster",
+   "params": "flattened transparent PNG onto white, padded 20 px, upscaled x2 (cv2); --color 45,45,45 --tol 40 --open 3 --maxside 1100",
+   "note": "traced from top-down ribbon graphic (pa-track 2022); open ends meet at the central fly-over crossing; closed through the fly-over crossing, where the two trace ends meet"
+  },
+  "candidates": [
+   {
+    "url": "https://powerarea.nl/wp-content/uploads/2023/01/pa-track-web-2022-v2-01.png",
+    "kind": "outline",
+    "used": true,
+    "why": "top-down asphalt ribbon with kerbs, transparent background; trace follows whole ribbon (coverage 1.0)"
+   },
+   {
+    "url": "https://powerarea.nl/wp-content/uploads/2020/03/pa-kartbaan2-uitgelicht-654x490px-mrt20-v1_Tekengebied-1.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": null
+ },
+ {
+  "id": "node/1571226584",
+  "layout_page": "https://raceplanet.nl/wp-content/uploads/2020/07/Race-Planet-Plattegrond-Kartbaan-Delft.pdf",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://raceplanet.nl/wp-content/uploads/2020/07/baan-1-delft-plattegrond-3d.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "perspective 3D render of track 1 (multi-level)"
+   },
+   {
+    "url": "https://raceplanet.nl/wp-content/uploads/2020/07/baan-2-delft-plattegrond-3d.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "perspective 3D render of track 2"
+   },
+   {
+    "url": "https://raceplanet.nl/wp-content/uploads/2020/07/Race-Planet-Plattegrond-Kartbaan-Delft.pdf",
+    "kind": "other",
+    "used": false,
+    "why": "official track plan is a PDF; only image files may be downloaded/traced"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "two tracks; only 3D renders as images, plan available as PDF"
+ },
+ {
+  "id": "node/4614279439",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.silverstone.nl/wp-content/uploads/2017/05/Banner-karten-groot.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "banner photo only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "way/47490179",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://images.prismic.io/teamsport/Zh47jTjCgu4jz2A8_NL-Track-Groningen-1.png",
+    "kind": "photo",
+    "used": false,
+    "why": "'NL-Track-Groningen' images are photos of the hall"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos (tourism listings give 800 m, not 500 m)"
+ },
+ {
+  "id": "way/1360118353",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; venue page shows photos only"
+ },
+ {
+  "id": "node/4620552009",
+  "layout_page": "https://www.vanderende.com/karten-info/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.vanderende.com/assets/files/Afb-Karten/Circuit-plattegrond.jpg",
+    "kind": "site_plan",
+    "used": false,
+    "why": "top-down hall plan, but track drawn only as thin black edge lines on white with open pit/play areas, an upper-floor (verdieping) section, a kids track and several alternative branches; no single fill or line colour isolates the circuit, so it cannot be traced reliably"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "official top-down hall plan available but not traceable (edge-line drawing with branches and upper-floor section)"
+ },
+ {
+  "id": "node/2756063118",
+  "layout_page": "https://zero55.nl/cms/wp-content/uploads/2019/10/plattegrond-zero55-enschede.png",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://zero55.nl/cms/wp-content/uploads/2019/10/plattegrond-zero55-enschede.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "isometric illustrated venue plan (plattegrond), track shown in perspective"
+   },
+   {
+    "url": "https://zero55.nl/cms/wp-content/uploads/2018/02/ZERO55-3d-kartbaan.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "perspective 3D render of the multi-level track"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only isometric/3D renders of the track"
+ },
+ {
+  "id": "node/7452547101",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://zero55.nl/cms/wp-content/uploads/2024/08/zero55-apeldoorn-pand.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "drone photo of the building"
+   },
+   {
+    "url": "https://zero55.nl/apeldoorn/wp-content/uploads/2023/05/zero55-apeldoorn-karten-02.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "track photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "way/1350495161",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://static.wixstatic.com/media/828c6c_1d026a03bb0a4fee8519d67538649d0b~mv2.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "track photos only"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos"
+ },
+ {
+  "id": "node/14088543327",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; operator site has photos only"
+ }
+]

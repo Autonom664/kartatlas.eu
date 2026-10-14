@@ -28,6 +28,17 @@ merge last, so they override older research. A record may carry
 track graphic, drawn as a schematic (not to scale, orientation unknown) when
 OpenStreetMap has no outline. The operator's image itself is never copied.
 
+Track maps come from three sources, in this order:
+1. OSM outlines tagged `sport=karting` (prep), plus reviewed `highway=raceway` lines near
+   venues without one (`research/geometry/osm_raceways.json`, built with
+   `tools/osm_raceways_fetch.py` and `tools/osm_raceways_match.py`, reviewed on contact sheets).
+2. Diagrams traced from the operator's or another venue-specific track graphic
+   (`research/out/maps/M*.json`, built with `tools/trace_raster.py` / `tools/trace_svg.cjs`,
+   cleaned with `tools/close_diagrams.py`, reviewed with `tools/review_diagrams.py`).
+   Aerial photos, 3D renders, lines over oblique photos and AI-generated illustrations are
+   never traced; they may be linked at most. A diagram never replaces an OSM outline.
+3. A link to the operator's track-map page (`Lu`) when nothing traceable exists.
+
 Edit `pipeline/template.html`, not the generated `kart-atlas.html`. The build
 also regenerates `kart-atlas.json`. Research inputs, results and manual
 corrections are preserved in `pipeline/`.

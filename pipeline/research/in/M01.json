@@ -1,0 +1,678 @@
+[
+ {
+  "id": "node/12805789828",
+  "name": "B1 GoKart Bahn Innsbruck",
+  "town": "Innsbruck",
+  "country": "AT",
+  "type": "outdoor",
+  "lat": 47.26838,
+  "lon": 11.4326,
+  "websites": [
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/",
+   "https://www.b1.at/locations/b1-kartbahn-innsbruck/"
+  ],
+  "known_layout_link": "https://www.b1.at/wp-content/uploads/2026/04/gokart_strecke.pdf",
+  "official_lengths": [
+   510
+  ]
+ },
+ {
+  "id": "node/6968981892",
+  "name": "Chargers Racing",
+  "town": "Leonding",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 48.25178,
+  "lon": 14.24664,
+  "websites": [
+   "https://www.chargersracing.at/",
+   "https://www.chargersracing.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/472368623",
+  "name": "Daytona Raceways",
+  "town": "Langenzersdorf",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 48.2894,
+  "lon": 16.3671,
+  "websites": [
+   "https://www.daytona.at/",
+   "https://www.daytona.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11726784673",
+  "name": "Freizeitarena Tirol",
+  "town": "Haiming",
+  "country": "AT",
+  "type": "outdoor",
+  "lat": 47.24119,
+  "lon": 10.86263,
+  "websites": [
+   "https://www.freizeitarena.tirol/",
+   "https://www.freizeitarena.tirol/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/588787026",
+  "name": "Heroes Karts & More Regau",
+  "town": "Regau",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 47.98908,
+  "lon": 13.68278,
+  "websites": [
+   "https://www.heroeskart.at/",
+   "https://www.heroeskart.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   300,
+   130
+  ]
+ },
+ {
+  "id": "way/107608181",
+  "name": "Kart Center Kottingbrunn",
+  "town": "Kottingbrunn",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 47.95212,
+  "lon": 16.2201,
+  "websites": [
+   "https://www.kartcenter.at/",
+   "https://www.kartcenter.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   456
+  ]
+ },
+ {
+  "id": "node/1344908573",
+  "name": "Kartbahn-Treff (Vorarlberg Ring)",
+  "town": "Feldkirch",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 47.27296,
+  "lon": 9.59137,
+  "websites": [
+   "https://www.kartbahn-treff.com/",
+   "https://www.kartbahn-treff.com/"
+  ],
+  "known_layout_link": "https://www.kartbahn-treff.com/data/images/track/track.jpg",
+  "official_lengths": [
+   360
+  ]
+ },
+ {
+  "id": "node/8375040368",
+  "name": "Karthalle Ebensee (Kartworld Ebensee)",
+  "town": "Ebensee am Traunsee",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 47.79911,
+  "lon": 13.76517,
+  "websites": [
+   "https://www.karthalle.at/",
+   "https://www.karthalle.at/"
+  ],
+  "known_layout_link": "https://karthalle.at/streckenplan/",
+  "official_lengths": []
+ },
+ {
+  "id": "way/137166744",
+  "name": "Kartsport Friesacher",
+  "town": "Wolfsberg",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 46.81169,
+  "lon": 14.84314,
+  "websites": [
+   "https://www.indoorkart.at/",
+   "https://www.indoorkart.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/45494972",
+  "name": "Kartworld Salzburg",
+  "town": "Salzburg",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 47.80754,
+  "lon": 13.06755,
+  "websites": [
+   "https://www.kartworld.at",
+   "https://www.kartworld.at"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "relation/1760200",
+  "name": "MF Gokart Leogang",
+  "town": "Leogang",
+  "country": "AT",
+  "type": "outdoor",
+  "lat": 47.4397,
+  "lon": 12.73549,
+  "websites": [
+   "https://www.mf-gokart.at/",
+   "https://www.mf-gokart.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/355474061",
+  "name": "Monza Kartbahn",
+  "town": "Wien",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 48.14854,
+  "lon": 16.35864,
+  "websites": [
+   "https://monza-kart.com",
+   "https://monza-kart.com"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/9602638604",
+  "name": "RaceWorld Kartbahn St. Poelten",
+  "town": "St. Pölten",
+  "country": "AT",
+  "type": "outdoor",
+  "lat": 48.20096,
+  "lon": 15.65234,
+  "websites": [
+   "https://www.rw-m.at/",
+   "https://www.rw-m.at/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/868068820",
+  "name": "Rotax MAX Dome",
+  "town": "Linz",
+  "country": "AT",
+  "type": "indoor",
+  "lat": 48.31368,
+  "lon": 14.30083,
+  "websites": [
+   "https://www.rotaxmaxdome.com/linz/",
+   "https://www.rotaxmaxdome.com/linz/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "way/1238425770",
+  "name": "BattleKart Brussels (Tour & Taxis)",
+  "town": "Bruxelles - Brussel",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.86516,
+  "lon": 4.34809,
+  "websites": [
+   "https://www.battlekart.com/",
+   "https://www.battlekart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1345697611",
+  "name": "BattleKart Genk",
+  "town": "Genk",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.94709,
+  "lon": 5.51221,
+  "websites": [
+   "https://www.battlekart.com/en/genk",
+   "https://www.battlekart.com/en/genk"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12825338681",
+  "name": "BattleKart Gent",
+  "town": "Gent",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.07408,
+  "lon": 3.74277,
+  "websites": [
+   "https://www.battlekart.com/nl/gent",
+   "https://www.battlekart.com/nl/gent"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13318880999",
+  "name": "BattleKart WEX",
+  "town": "Marche-en-Famenne",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.24696,
+  "lon": 5.33897,
+  "websites": [
+   "https://battlekart.com/fr/wex",
+   "https://battlekart.com/fr/wex"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12676251167",
+  "name": "Battlekart Mouscron",
+  "town": "Mouscron",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.72035,
+  "lon": 3.30338,
+  "websites": [
+   "https://www.battlekart.com/en/mouscron/",
+   "https://www.battlekart.com/en/mouscron/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/243837948",
+  "name": "Brussels South Karting",
+  "town": "Les Bons Villers",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.5415,
+  "lon": 4.46011,
+  "websites": [
+   "https://bskarting.be/",
+   "https://bskarting.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "way/46766217",
+  "name": "Burney's Mechelen",
+  "town": "Mechelen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.01091,
+  "lon": 4.46727,
+  "websites": [
+   "https://burneys.be",
+   "https://burneys.be"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/23031475",
+  "name": "Cargo-Karting",
+  "town": "Maasmechelen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.99084,
+  "lon": 5.70063,
+  "websites": [
+   "https://www.cargo-karting.be/",
+   "https://www.cargo-karting.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/6046678299",
+  "name": "E-Kart Gent",
+  "town": "Gent",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.06591,
+  "lon": 3.73262,
+  "websites": [
+   "https://e-kart.be/",
+   "https://e-kart.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/108437660",
+  "name": "Eastbelgium Action, Fun & Karting Center",
+  "town": "Grüfflingen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.23325,
+  "lon": 6.07995,
+  "websites": [
+   "https://www.actioncenter.be/",
+   "https://www.actioncenter.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   850
+  ]
+ },
+ {
+  "id": "way/103316772",
+  "name": "Experience Factory Eupen",
+  "town": "Eupen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.63837,
+  "lon": 6.00398,
+  "websites": [
+   "https://www.experience-factory.com/eupen/",
+   "https://www.experience-factory.com/eupen/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1100
+  ]
+ },
+ {
+  "id": "way/35093946",
+  "name": "First Kart'Inn",
+  "town": "Machelen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.90607,
+  "lon": 4.41652,
+  "websites": [
+   "https://www.fki.be/",
+   "https://www.fki.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450,
+   250,
+   700
+  ]
+ },
+ {
+  "id": "way/834819629",
+  "name": "Green Power Kart",
+  "town": "Charleroi",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.44263,
+  "lon": 4.42043,
+  "websites": [
+   "https://www.greenpowerkart.be/",
+   "https://www.greenpowerkart.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1100
+  ]
+ },
+ {
+  "id": "node/12752115882",
+  "name": "Indoorkarting Lommel",
+  "town": "Lommel",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.21741,
+  "lon": 5.28134,
+  "websites": [
+   "http://www.indoorkartinglommel.be",
+   "http://www.indoorkartinglommel.be"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/43590428",
+  "name": "Inkart",
+  "town": "Puurs-Sint-Amands",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.07349,
+  "lon": 4.34508,
+  "websites": [
+   "https://www.inkart.be/",
+   "https://www.inkart.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1000
+  ]
+ },
+ {
+  "id": "node/9364985457",
+  "name": "JM Karting Liège",
+  "town": "Fléron",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.61476,
+  "lon": 5.66251,
+  "websites": [
+   "https://jmkarting.com/liege/",
+   "https://jmkarting.com/liege/"
+  ],
+  "known_layout_link": "https://jmkarting.com/liege/materiel-infrastructures/",
+  "official_lengths": []
+ },
+ {
+  "id": "way/144396456",
+  "name": "Racelandkart",
+  "town": "Oudsbergen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.09548,
+  "lon": 5.53478,
+  "websites": [
+   "https://racelandkart.be/",
+   "https://racelandkart.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   750
+  ]
+ },
+ {
+  "id": "way/112038987",
+  "name": "The District (formerly Factory Kart)",
+  "town": "Huizingen",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.75272,
+  "lon": 4.26113,
+  "websites": [
+   "https://thedistrict.be/",
+   "https://thedistrict.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/10312671620",
+  "name": "WIK Wavre Indoor Karting",
+  "town": "Wavre",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 50.70572,
+  "lon": 4.59322,
+  "websites": [
+   "https://www.wik-karting.be",
+   "https://www.wik-karting.be"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   535
+  ]
+ },
+ {
+  "id": "node/3724910749",
+  "name": "Worldkarts Sint-Niklaas",
+  "town": "Sint-Niklaas",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.16686,
+  "lon": 4.16682,
+  "websites": [
+   "https://sint-niklaas.worldkarts.com/",
+   "https://sint-niklaas.worldkarts.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/182395864",
+  "name": "Yeti Eeklo",
+  "town": "Eeklo",
+  "country": "BE",
+  "type": "indoor",
+  "lat": 51.19502,
+  "lon": 3.54447,
+  "websites": [
+   "https://yeti-eeklo.be/",
+   "https://yeti-eeklo.be/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "node/9350684614",
+  "name": "Kart Basel",
+  "town": "Basel",
+  "country": "CH",
+  "type": "indoor",
+  "lat": 47.56594,
+  "lon": 7.59816,
+  "websites": [
+   "https://www.kartbasel.ch/",
+   "https://www.kartbasel.ch/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/3005599187",
+  "name": "Motorsportzentrum Fimmelsberg",
+  "town": "Amlikon-Bissegg",
+  "country": "CH",
+  "type": "indoor",
+  "lat": 47.56067,
+  "lon": 9.03163,
+  "websites": [
+   "https://kartbahn-fimmelsberg.ch/",
+   "https://kartbahn-fimmelsberg.ch/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   420
+  ]
+ },
+ {
+  "id": "node/4952008713",
+  "name": "Tempodrom Winterthur",
+  "town": "Winterthur",
+  "country": "CH",
+  "type": "outdoor",
+  "lat": 47.47633,
+  "lon": 8.70317,
+  "websites": [
+   "https://winterthur.kart.ch",
+   "https://winterthur.kart.ch"
+  ],
+  "known_layout_link": "https://winterthur.kart.ch/kartbahn",
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/4340422756",
+  "name": "AMC Ehingen Kartbahn Wolfsgurgel",
+  "town": "Ehingen (Donau)",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 48.30229,
+  "lon": 9.69737,
+  "websites": [
+   "https://www.amc-ehingen.com/",
+   "https://www.amc-ehingen.com/",
+   "https://www.amc-ehingen.com/leihkart"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   650
+  ]
+ },
+ {
+  "id": "node/5026773084",
+  "name": "All-Kart",
+  "town": "Kaufbeuren",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 47.89162,
+  "lon": 10.65516,
+  "websites": [
+   "http://www.all-kart.de",
+   "http://www.all-kart.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/1410399039",
+  "name": "Battle Kart Düsseldorf-Neuss",
+  "town": "Neuss",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.15739,
+  "lon": 6.74391,
+  "websites": [
+   "https://www.battlekart.com/duesseldorf-neuss",
+   "https://www.battlekart.com/duesseldorf-neuss"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13456963144",
+  "name": "BattleKart Bad-Hersfeld",
+  "town": "Bad Hersfeld",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.86655,
+  "lon": 9.72048,
+  "websites": [
+   "https://www.battlekart.com/de/bad-hersfeld",
+   "https://www.battlekart.com/de/bad-hersfeld"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ }
+]

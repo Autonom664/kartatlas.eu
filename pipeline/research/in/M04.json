@@ -1,0 +1,689 @@
+[
+ {
+  "id": "node/12595478788",
+  "name": "BattleKart Rennes (FunLab)",
+  "town": "La Mézière",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.19182,
+  "lon": -1.72732,
+  "websites": [
+   "https://www.battlekart.com/",
+   "https://www.battlekart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/1061101289",
+  "name": "Circuit Karting ADR (Anneau du Rhin)",
+  "town": "Biltzheim",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 47.95105,
+  "lon": 7.41418,
+  "websites": [
+   "https://www.anneau-du-rhin.com/produit/karting/",
+   "https://www.anneau-du-rhin.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/5607946169",
+  "name": "City Kart Indoor",
+  "town": "Saint-Sébastien-sur-Loire",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.1902,
+  "lon": -1.48975,
+  "websites": [
+   "https://www.city-kart.fr/karting-indoor-de-nantes/",
+   "https://www.city-kart.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "way/65283310",
+  "name": "Energy Karting Saint-Cyr",
+  "town": "Saint-Cyr",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.25405,
+  "lon": 4.75319,
+  "websites": [
+   "https://www.energykarting-stcyr.com",
+   "https://www.energykarting-stcyr.com"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/6799381818",
+  "name": "Family Fun Park Lagord",
+  "town": "Lagord",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 46.17223,
+  "lon": -1.16601,
+  "websites": [
+   "https://www.family-fun-park-lagord.com/",
+   "https://www.family-fun-park-lagord.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11111781069",
+  "name": "Fast & Green",
+  "town": "Saint-Étienne",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.46149,
+  "lon": 4.39275,
+  "websites": [
+   "https://www.fast-and-green.fr/",
+   "https://www.fast-and-green.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "way/81060002",
+  "name": "Green Kart",
+  "town": "Échirolles",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.14457,
+  "lon": 5.70587,
+  "websites": [
+   "https://green-kart.com/",
+   "https://green-kart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/11359723300",
+  "name": "Inwall Kart",
+  "town": "Les Ponts-de-Cé",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.42749,
+  "lon": -0.54317,
+  "websites": [
+   "https://www.inwallkart.com/",
+   "https://www.inwallkart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "node/12792155555",
+  "name": "K1 Speed",
+  "town": "Le Mans",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.9628,
+  "lon": 0.21791,
+  "websites": [
+   "https://www.k1speed.com/fr/le-mans.html",
+   "https://www.k1speed.com/fr/le-mans.html"
+  ],
+  "known_layout_link": "https://www.k1speed.com/wp-content/uploads/2025/05/le-mans-track-1.jpg",
+  "official_lengths": []
+ },
+ {
+  "id": "node/6024389313",
+  "name": "KART System Bordeaux-Lac",
+  "town": "Bordeaux",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 44.88902,
+  "lon": -0.56225,
+  "websites": [
+   "https://www.kartsystem.com/bordeaux.html",
+   "https://www.kartsystem.com/bordeaux.html"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   660
+  ]
+ },
+ {
+  "id": "node/11635025481",
+  "name": "KHUB Arras",
+  "town": "Sainte-Catherine",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 50.31622,
+  "lon": 2.76115,
+  "websites": [
+   "https://khub-arras.com/",
+   "https://khub-arras.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/954027064",
+  "name": "Kart Center - Les Circuits de Vendee (karting electrique indoor)",
+  "town": "Fontenay-le-Comte",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 46.43864,
+  "lon": -0.78916,
+  "websites": [
+   "https://www.circuitsdevendee.com/karting-electrique-indoor/presentation-karting-electrique-indoor/",
+   "https://www.circuitsdevendee.com/karting-electrique-indoor/presentation-karting-electrique-indoor/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   350
+  ]
+ },
+ {
+  "id": "node/1554844424",
+  "name": "Kart Racer",
+  "town": "Saran",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.95807,
+  "lon": 1.89447,
+  "websites": [
+   "https://www.kartracer.fr/",
+   "https://www.kartracer.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/10871381994",
+  "name": "Kart'Up Vitrolles",
+  "town": "Vitrolles",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 43.43763,
+  "lon": 5.24267,
+  "websites": [
+   "https://www.kartup-vitrolles.com/",
+   "https://www.kartup-vitrolles.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "way/207905346",
+  "name": "Kart-Circuit des Renardières",
+  "town": "Pageas",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 45.69066,
+  "lon": 1.02045,
+  "websites": [
+   "https://www.facebook.com/profile.php?id=61575141148355",
+   "https://www.facebook.com/profile.php?id=61575141148355"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/46804813",
+  "name": "Karting Cap Malo",
+  "town": "Melesse",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.19964,
+  "lon": -1.72248,
+  "websites": [
+   "https://karting-rennes.fr/",
+   "https://karting-rennes.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "node/13105619745",
+  "name": "Karting Family Fun Park",
+  "town": "Meschers-sur-Gironde",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 45.56442,
+  "lon": -0.95535,
+  "websites": [
+   "https://www.family-fun-park-meschers.com/",
+   "https://www.family-fun-park-meschers.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12648080502",
+  "name": "Karting de Chartres",
+  "town": "Chartres",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.44664,
+  "lon": 1.542,
+  "websites": [
+   "https://www.kartingdechartres.fr/",
+   "https://www.kartingdechartres.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   420
+  ]
+ },
+ {
+  "id": "node/11003295619",
+  "name": "Monky Laval",
+  "town": "Laval",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.08309,
+  "lon": -0.79621,
+  "websites": [
+   "https://monky.fr/laval/",
+   "https://monky.fr/laval/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/5033005312",
+  "name": "NTKart",
+  "town": "Lexy",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 49.51035,
+  "lon": 5.71836,
+  "websites": [
+   "https://ntkart.com/",
+   "https://ntkart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "way/55501882",
+  "name": "Nantes Espace Karting",
+  "town": "Nantes",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.20078,
+  "lon": -1.57132,
+  "websites": [
+   "https://www.karting-de-nantes.fr/fr-fr/laser-karting-nantes/",
+   "https://www.karting-de-nantes.fr/fr-fr/laser-karting-nantes/"
+  ],
+  "known_layout_link": "https://www.karting-de-nantes.fr/content/images/lkdn/pages/karting/piste.jpg",
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/12020240069",
+  "name": "On'Kart Viry",
+  "town": "Viry",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 46.12935,
+  "lon": 6.0292,
+  "websites": [
+   "https://on-kart.com/",
+   "https://on-kart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/11163525017",
+  "name": "Park Events Lyon",
+  "town": "Vénissieux",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.71575,
+  "lon": 4.85907,
+  "websites": [
+   "https://www.park-events.com/",
+   "https://www.park-events.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "node/13157094160",
+  "name": "Planet Karting",
+  "town": "Saint-Martin-lez-Tatinghem",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 50.76322,
+  "lon": 2.22151,
+  "websites": [
+   "https://www.planet-karting.com/",
+   "https://www.planet-karting.com/",
+   "https://www.facebook.com/PlanetKarting"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/7476287647",
+  "name": "Puissance Kart Indoor",
+  "town": "Audincourt",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.48706,
+  "lon": 6.8281,
+  "websites": [
+   "https://www.puissancekartindoor.com/",
+   "https://www.puissancekartindoor.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   380
+  ]
+ },
+ {
+  "id": "way/70109989",
+  "name": "RMT Karting",
+  "town": "Limoges",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.8132,
+  "lon": 1.26758,
+  "websites": [
+   "https://www.rmt-karting.fr/",
+   "https://www.rmt-karting.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   510
+  ]
+ },
+ {
+  "id": "node/12833306764",
+  "name": "Rouen Espace Loisirs",
+  "town": "Rouen",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 49.44263,
+  "lon": 1.04287,
+  "websites": [
+   "https://www.rouenespaceloisirs.fr/",
+   "https://www.rouenespaceloisirs.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/13817470583",
+  "name": "Speed2Max",
+  "town": "Clermont-Ferrand",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 45.78981,
+  "lon": 3.13312,
+  "websites": [
+   "https://speed2max.com/",
+   "https://speed2max.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/758394659",
+  "name": "SpeedPark Conflans-Sainte-Honorine",
+  "town": "Conflans-Sainte-Honorine",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 49.00415,
+  "lon": 2.07617,
+  "websites": [
+   "https://speedpark.fr/conflans/",
+   "https://speedpark.fr/conflans/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   280
+  ]
+ },
+ {
+  "id": "node/8499208345",
+  "name": "SpeedPark Jaux-Compiegne",
+  "town": "Jaux",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 49.40275,
+  "lon": 2.77369,
+  "websites": [
+   "https://speedpark.fr/jaux-compiegne/",
+   "https://speedpark.fr/jaux-compiegne/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   300
+  ]
+ },
+ {
+  "id": "node/14090466896",
+  "name": "SpeedPark Rennes",
+  "town": "Cesson-Sévigné",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.11302,
+  "lon": -1.59074,
+  "websites": [
+   "https://speedpark.fr/rennes/",
+   "https://speedpark.fr/rennes/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   202
+  ]
+ },
+ {
+  "id": "node/1700260286",
+  "name": "SpeedPark Vannes",
+  "town": "Vannes",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.67122,
+  "lon": -2.79202,
+  "websites": [
+   "https://www.karting-bowling.fr/",
+   "https://www.karting-bowling.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/5523518508",
+  "name": "Stras Kart",
+  "town": "Eckbolsheim",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 48.58943,
+  "lon": 7.6812,
+  "websites": [
+   "http://www.straskart.fr/",
+   "http://www.straskart.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "node/9860088013",
+  "name": "Tours Kart Indoor",
+  "town": "Saint-Avertin",
+  "country": "FR",
+  "type": "indoor",
+  "lat": 47.34488,
+  "lon": 0.73326,
+  "websites": [
+   "https://www.tours-kart-indoor.fr/",
+   "https://www.tours-kart-indoor.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/661901313",
+  "name": "Vendée Kart",
+  "town": "La Jonchère",
+  "country": "FR",
+  "type": "outdoor",
+  "lat": 46.42176,
+  "lon": -1.39202,
+  "websites": [
+   "https://www.vendeekart.fr/",
+   "https://www.vendeekart.fr/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   780
+  ]
+ },
+ {
+  "id": "node/11047956346",
+  "name": "Bergamo Kart Indoor",
+  "town": "Osio Sopra",
+  "country": "IT",
+  "type": "indoor",
+  "lat": 45.63211,
+  "lon": 9.60205,
+  "websites": [
+   "https://www.bergamokartindoor.it/",
+   "https://www.bergamokartindoor.it/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "relation/18655290",
+  "name": "Circuito internazionale \"Le Colline\"",
+  "town": "Chignolo Po",
+  "country": "IT",
+  "type": "outdoor",
+  "lat": 45.15378,
+  "lon": 9.47496,
+  "websites": [
+   "https://www.circuitointernazionalelecolline.it/",
+   "https://www.circuitointernazionalelecolline.it/"
+  ],
+  "known_layout_link": "https://www.circuitointernazionalelecolline.it/kartdromo/dati-tecnici.html",
+  "official_lengths": [
+   1150
+  ]
+ },
+ {
+  "id": "way/159352783",
+  "name": "CogisKart",
+  "town": "Corridonia",
+  "country": "IT",
+  "type": "outdoor",
+  "lat": 43.25957,
+  "lon": 13.50531,
+  "websites": [
+   "https://www.cogiskart.com/",
+   "https://www.cogiskart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   1050
+  ]
+ },
+ {
+  "id": "way/60136442",
+  "name": "Dromokart",
+  "town": "Buccinasco",
+  "country": "IT",
+  "type": "indoor",
+  "lat": 45.42088,
+  "lon": 9.11691,
+  "websites": [
+   "https://www.dromokart.com/",
+   "https://www.dromokart.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   780
+  ]
+ },
+ {
+  "id": "node/12127526846",
+  "name": "E-Motion Karting Pescara",
+  "town": "Cepagatti",
+  "country": "IT",
+  "type": "indoor",
+  "lat": 42.41546,
+  "lon": 14.15464,
+  "websites": [
+   "https://emotionkartingpescara.it/",
+   "https://emotionkartingpescara.it/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   550
+  ]
+ },
+ {
+  "id": "way/243650238",
+  "name": "Go-Kart Pista Riviera Verde",
+  "town": "Misano Adriatico",
+  "country": "IT",
+  "type": "outdoor",
+  "lat": 43.96947,
+  "lon": 12.71033,
+  "websites": [
+   "http://www.go-kartmisano.it",
+   "http://www.go-kartmisano.it"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   700
+  ]
+ },
+ {
+  "id": "node/6401336548",
+  "name": "Hollywood Kart Erba",
+  "town": "Erba",
+  "country": "IT",
+  "type": "indoor",
+  "lat": 45.80478,
+  "lon": 9.23407,
+  "websites": [
+   "https://hollywoodkart.it/erba/",
+   "https://hollywoodkart.it/erba/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   320
+  ]
+ }
+]

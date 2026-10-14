@@ -1,0 +1,393 @@
+[
+ {
+  "id": "node/6183808285",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.icekart.se/",
+    "kind": "photo",
+    "used": false,
+    "why": "site only has hero/photo images of ice karting"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "ice track on frozen ground; no map online"
+ },
+ {
+  "id": "node/10444657637",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://multichallenge.se/wp-content/uploads/2019/09/Gokart001_fullcolor.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "action photo of a kart; gokart page and WP media only contain photos"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no map online; only photos on gokart page"
+ },
+ {
+  "id": "way/1350493948",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "racehall.com blocked by Cloudflare challenge (403); no map found via search"
+ },
+ {
+  "id": "way/1103944247",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Natternbach found online; no map"
+ },
+ {
+  "id": "way/102912644",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed outdoor track; no matching venue found online (Rotax Max Dome Linz is indoor elsewhere); no map"
+ },
+ {
+  "id": "way/801526556",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in St. Gilgen found online; no map"
+ },
+ {
+  "id": "way/225023200",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Ternitz found online; no map"
+ },
+ {
+  "id": "way/716911856",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Kapfenberg found online; no map"
+ },
+ {
+  "id": "way/427961612",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website; search finds only hotel listings mentioning 'Gokart Flachau'; no map"
+ },
+ {
+  "id": "way/55762296",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel listings mention KART-N-FUN Steyr; no map"
+ },
+ {
+  "id": "node/3703616077",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.mamilade.at/vbg/feldkirch/ausflugstipps/sport/kartbahn-schneider-meiningen",
+    "kind": "other",
+    "used": false,
+    "why": "guide listing (3-storey 570 m indoor track) with no map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no official website found; no map online"
+ },
+ {
+  "id": "node/3470346239",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.koifaire.com/belgique/city,kart-73801.html",
+    "kind": "other",
+    "used": false,
+    "why": "directory listing (approx. 600 m indoor) without a map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "no official website found; no map online"
+ },
+ {
+  "id": "node/9811846018",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel listings mention Karting Grivegnee; no map"
+ },
+ {
+  "id": "way/106942439",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in La Tene found online; no map"
+ },
+ {
+  "id": "node/12626201310",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found for E-Go-Kart Schoeftland; no map"
+ },
+ {
+  "id": "way/761797608",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Dobbin-Linstow found online; no map"
+ },
+ {
+  "id": "way/430206718",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no outdoor kart venue in Bottrop found online; no map"
+ },
+ {
+  "id": "way/235291205",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no outdoor kart venue in Gelsenkirchen found online; no map"
+ },
+ {
+  "id": "way/96950749",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Annweiler found online; no map"
+ },
+ {
+  "id": "way/24789697",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Sonthofen found online; no map"
+ },
+ {
+  "id": "way/389007612",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; directory listings only (Hessisch-Lichtenauer-Str. 1, Schlotheim); no map"
+ },
+ {
+  "id": "way/344985853",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel/directory listings; no map"
+ },
+ {
+  "id": "way/216971093",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel/directory listings; no map"
+ },
+ {
+  "id": "node/60207296",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "directory lists 360 m indoor track; former domain impulsiv-umkirch.de now a spam blog (venue possibly closed); no map"
+ },
+ {
+  "id": "node/8841305710",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found (indoorkart-usedom.de redirects to an Usedom magazine); no map"
+ },
+ {
+  "id": "way/514034419",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only travel listings; no map"
+ },
+ {
+  "id": "way/101400108",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel listings use 'Kartbahn Fehmarn' as a location; no map"
+ },
+ {
+  "id": "node/9889553396",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found (Ostsee-Kartbahn, Gramkow); directory listings only; no map"
+ },
+ {
+  "id": "way/31795313",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "kartland.de now redirects to an unrelated casino promo page (venue likely closed); no map"
+ },
+ {
+  "id": "way/94128522",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; only hotel listings; no map"
+ },
+ {
+  "id": "way/1444721703",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "msc-osterhofen.de is a parked domain for sale; no map found"
+ },
+ {
+  "id": "relation/10642924",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website or kart venue named Ravensburgring found online; no map"
+ },
+ {
+  "id": "way/257074018",
+  "layout_page": "https://sensadrom.com/rennstrecke-karts/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://sensadrom.com/wp-content/uploads/2024/07/20240701_DEU-Sensapolis-Sindelfingen-DFE-1.1.png",
+    "kind": "render_3d",
+    "used": false,
+    "why": "3D render of the hall seen from above; circuit is only marked by black barrier lines on the same grey floor as the infield, so it cannot be masked; --dark --close 14 only traced the pit lane barrier"
+   },
+   {
+    "url": "https://sensadrom.com/wp-content/uploads/2023/08/sensadrom-indoor-elektro-kartbahn-stuttgart-sindelfingen-101.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "action photo"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "operator shows a top-down 3D render of the layout; not traceable"
+ },
+ {
+  "id": "node/5922610411",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Coudekerque-Branche found online; no map"
+ },
+ {
+  "id": "way/829823299",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Teteghem found online; no map"
+ },
+ {
+  "id": "way/1038297754",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Noeux-les-Mines found online; no map"
+ },
+ {
+  "id": "way/613999944",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Mareuil-les-Meaux found online; no map"
+ },
+ {
+  "id": "way/311226208",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in Laneuveville-en-Saulnois found online; no map"
+ },
+ {
+  "id": "relation/5927801",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.yumping.com/en/karting/gp-circuit--e19629430",
+    "kind": "other",
+    "used": false,
+    "why": "listing for GP Circuit Lamballe (ZI des Noes), no map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "probably GP Circuit Lamballe; official site gp-circuit.com unreachable (HTTP 520/401); no map found"
+ },
+ {
+  "id": "way/136730900",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed indoor venue; no kart venue in Aydoilles confirmed online (nearest listing B.W.Kart 88, Epinal, unverified); no map"
+ },
+ {
+  "id": "node/10088957473",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://speedpark.fr/le-mans/karting/",
+    "kind": "photo",
+    "used": false,
+    "why": "probable match (SpeedPark Le Mans, Saint-Saturnin) but page describes an indoor circuit and shows only photos/video"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "possibly SpeedPark Le Mans (indoor, so match uncertain); no map online"
+ },
+ {
+  "id": "way/191907701",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed track; no kart venue in La Villeneuve-Bellenoye-et-la-Maize found online; no map"
+ }
+]

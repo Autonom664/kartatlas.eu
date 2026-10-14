@@ -354,5 +354,14 @@
  },
  "way/828964156": {
   "noprice": true
+ },
+ "node/12302370555": {
+  "kind": "kids"
+ },
+ "node/10267365182": {
+  "kind": "indoor"
+ },
+ "node/2756063118": {
+  "kind": "indoor"
  }
 }

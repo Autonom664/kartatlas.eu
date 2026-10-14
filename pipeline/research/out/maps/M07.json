@@ -1,0 +1,365 @@
+[
+ {
+  "id": "node/7345774782",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track in Besancon; web search found no track map for it"
+ },
+ {
+  "id": "node/2432025566",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Loix (Ile de Re); web search found no venue page or map"
+ },
+ {
+  "id": "way/339306511",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Feytiat; two web searches found no venue page or map"
+ },
+ {
+  "id": "relation/12018456",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Mirefleurs; two web searches found no venue page or map"
+ },
+ {
+  "id": "way/72953754",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://karting-royan.com/wp-content/uploads/2021/01/kart-012.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "aerial photo (alt: vue du ciel) on Karting de Royan site; not a drawn map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "probably Karting de Royan (karting-royan.com, rue d Arsonval; OSM says indoor but venue is an outdoor 600 m FFSA track); only photos/aerial photos found"
+ },
+ {
+  "id": "node/4943667120",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track south of Valence; search only found Arena 45 (La Roche-de-Glun, ~13 km north, a different venue); no map found"
+ },
+ {
+  "id": "node/13228393793",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Presailles; web search found no venue page or map"
+ },
+ {
+  "id": "relation/6438498",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Allauch; web search found no venue page or map"
+ },
+ {
+  "id": "way/380970617",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Veraza (small village); web search found no venue page or map"
+ },
+ {
+  "id": "node/4024318772",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no web presence found for C.P. Quad Loisirs (Augy); no map online"
+ },
+ {
+  "id": "way/290666065",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "track run by association Karting de Montrevel (615 m per Ain prefecture order 2019); no website or map found online"
+ },
+ {
+  "id": "node/13818394945",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "drift-kart venue; search only found a Drift Sensation listing in Aire-sur-la-Lys (other town); no map online"
+ },
+ {
+  "id": "way/153890769",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no web presence found for Ecokart Saint-Lo (possibly closed); no map online"
+ },
+ {
+  "id": "way/82965142",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.gokart90.fr/wp-content/uploads/2026/05/concour-changement-de-piste_-scaled.png",
+    "kind": "other",
+    "used": false,
+    "why": "promo poster for a contest before a track change; no map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "venue site gokart90.fr has only photos; layout was announced to change in 2026; no map online"
+ },
+ {
+  "id": "node/13630128698",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://jolipaddock.com/wp-content/uploads/2026/03/JPADDOCK_carte_emplacement_simple.png",
+    "kind": "other",
+    "used": false,
+    "why": "regional road/access map, not the track"
+   },
+   {
+    "url": "https://jolipaddock.com/wp-content/uploads/2024/03/a2fa91871cc4cc6f1fc546fccf7f7486.svg",
+    "kind": "other",
+    "used": false,
+    "why": "generic piste icon"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "venue site jolipaddock.com (400 m gravel e-kart track) has no track map"
+ },
+ {
+  "id": "node/12422844942",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "K1 Speed site blocks automated access (403) and Caen blog post is gone (410); search found no track map (local press also mentions an EKart Caen two-level 410 m track at Val Saint-Clair)"
+ },
+ {
+  "id": "way/81731257",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "K1 Speed site blocks automated access; Lyon/Genas no longer listed on the K1 France page; no track map found"
+ },
+ {
+  "id": "node/2628770155",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "kartin.fr is a parked domain; directory listings describe the Oberlin indoor/outdoor track (>600 m) but no track map found"
+ },
+ {
+  "id": "node/8035472559",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no web presence found for Karting Moneteau; no map online"
+ },
+ {
+  "id": "node/4337248954",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only directory listings found (no operator site); no track map online"
+ },
+ {
+  "id": "node/9665224117",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only directory listings found (12 rue Antoine Becquerel, Chenove); no operator site or track map online"
+ },
+ {
+  "id": "way/479303819",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no web presence found for La Fabrique Ludique (Roquefort, Landes); no map online"
+ },
+ {
+  "id": "node/8196325691",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no page found for this UFOLEP club track; search only found Pole Karting (commercial 400 m track in Joue-les-Tours, possibly a different site); no map online"
+ },
+ {
+  "id": "way/46810016",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "royalkart.com is now a parked domain (venue possibly closed); only directory listings found; no map online"
+ },
+ {
+  "id": "way/483983873",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only directory listings found (indoor e-kart, 285 rue du Soleil); no operator site or map online"
+ },
+ {
+  "id": "node/12886232964",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue site selestkart-in.com has only photos (track plan only inside its Apex mobile app); site footer carries many unrelated spam links"
+ },
+ {
+  "id": "way/226257969",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Torre di Mosto; web search found no venue page or map"
+ },
+ {
+  "id": "way/598864441",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM kart track at Cervesina (near Autodromo Tazio Nuvolari); no map of a kart circuit found"
+ },
+ {
+  "id": "way/385008203",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Piacenza; web search found no venue page or map"
+ },
+ {
+  "id": "way/174920606",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "possibly the old Valle San Bartolomeo kart track (mentioned only in a 2009 forum post); no map online"
+ },
+ {
+  "id": "node/12302370555",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "location may match Collari Race Way (via Romita 2), which is mainly a radio-controlled car track; site down (HTTP 500); no kart map found"
+ },
+ {
+  "id": "node/12395369765",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Montese; web search found no venue page or map"
+ },
+ {
+  "id": "way/517642335",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Pedaso; web search found no venue page or map"
+ },
+ {
+  "id": "way/1355629609",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "tiny unnamed sports-centre area (~40 m) in Casette, Ancarano; not Kartodromo Val Vibrata (6 km away); no map found"
+ },
+ {
+  "id": "node/3328247202",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Cerveteri; web search found no venue page or map"
+ },
+ {
+  "id": "way/198091255",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM track at Bivio di Guidonia (not Pista d Oro, ~3 km away); no venue page or map found"
+ },
+ {
+  "id": "way/1479613077",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Macchia Valfortore; web search found no venue page or map"
+ },
+ {
+  "id": "way/305333851",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM outdoor track at Luogosanto; web search found no venue page or map"
+ },
+ {
+  "id": "way/732197609",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "small unnamed sports-centre area (~90 m) at Ponte Crocelle, Marigliano; web search found no venue page or map"
+ },
+ {
+  "id": "way/968023800",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM sports-centre area on SP79 near Banzi; web search found no venue page or map"
+ },
+ {
+  "id": "way/745014942",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "small unnamed sports-centre area (~100 m) on Via Polveriera, Saviano; web search found no venue page or map"
+ },
+ {
+  "id": "way/667464227",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed OSM track (tagged pitch) at Acquavena, Roccagloriosa; web search found no venue page or map"
+ }
+]

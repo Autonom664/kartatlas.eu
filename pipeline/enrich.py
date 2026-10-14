@@ -83,6 +83,27 @@ for t in tracks:
         if u and u.rstrip('/').lower() not in seen:
             seen.add(u.rstrip('/').lower()); ws.append([u, w.get('role') or 'other', w.get('name')])
     t['ws'] = ws or None
+# reviewed OSM raceway lines near venues that had no karting-tagged outline (research/geometry/)
+import math
+def _m(a, b):
+    p = math.radians; h = math.sin(p(b[0] - a[0]) / 2) ** 2 + math.cos(p(a[0])) * math.cos(p(b[0])) * math.sin(p(b[1] - a[1]) / 2) ** 2
+    return 2 * 6371000 * math.asin(math.sqrt(h))
+for f in sorted(glob.glob(base + '/research/geometry/*.json')):
+    geo = json.load(open(f, encoding='utf-8'))
+    for t in tracks:
+        x = geo.get(t['o'])
+        if x and not t.get('g'):
+            t['g'] = x['lines']
+            t['lm'] = t.get('lm') or round(max(sum(_m(p, q) for p, q in zip(l, l[1:])) for l in x['lines']))
+# track-map search results (research/out/maps/M*.json): only layout links and traced diagrams
+for f in sorted(glob.glob(base + '/research/out/maps/*.json')):
+    for r in json.load(open(f, encoding='utf-8')):
+        t = next((x for x in tracks if x['o'] == r['id']), None)
+        if not t: continue
+        if isinstance(r.get('layout_page'), str) and r['layout_page'].startswith('https://') and not t.get('Lu'): t['Lu'] = r['layout_page']
+        ld = r.get('layout_diagram')
+        if not t.get('g') and not t.get('Ld') and isinstance(ld, dict) and len(ld.get('points') or []) >= 3 and str(ld.get('source', '')).startswith('https://'):
+            t['Ld'] = {'p': [[round(float(a), 1), round(float(b), 1)] for a, b in ld['points']], 'z': bool(ld.get('closed')), 's': ld.get('source_page') or ld['source']}
 # official layouts and lengths from venue websites (research/out/L*.json)
 lens = {}
 for f in sorted(glob.glob(base + '/research/out/L*.json')) + sorted(glob.glob(base + '/research/out/P*.json')) + sorted(glob.glob(base + '/research/out/W*.json')) + sorted(glob.glob(base + '/research/out/G*.json')):

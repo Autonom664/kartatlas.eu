@@ -1,0 +1,684 @@
+[
+ {
+  "id": "node/13894638060",
+  "name": "BattleKart Bochum",
+  "town": "Bochum",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.46861,
+  "lon": 7.13567,
+  "websites": [
+   "https://battlekart.com/bochum",
+   "https://battlekart.com/bochum"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/751984689",
+  "name": "BattleKart Halle-Leipzig",
+  "town": "Halle (Saale)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.49449,
+  "lon": 12.01013,
+  "websites": [
+   "https://www.battlekart.com/de/halle-leipzig",
+   "https://www.battlekart.com/de/halle-leipzig"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/12806062014",
+  "name": "BattleKart Koblenz-Mayen",
+  "town": "Mayen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.33044,
+  "lon": 7.24646,
+  "websites": [
+   "https://www.battlekart.com/en/koblenz-mayen",
+   "https://www.battlekart.com/en/koblenz-mayen"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/14002285223",
+  "name": "BattleKart Marne",
+  "town": "Marne",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 53.96253,
+  "lon": 9.00689,
+  "websites": [
+   "https://www.battlekart.com/de/marne",
+   "https://www.battlekart.com/de/marne"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/61560044",
+  "name": "BattleKart St-Leon-Rot",
+  "town": "St. Leon-Rot",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.2481,
+  "lon": 8.64433,
+  "websites": [
+   "https://www.battlekart.com/de/st-leon-rot",
+   "https://www.battlekart.com/de/st-leon-rot"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/88029071",
+  "name": "BattleKart Unna",
+  "town": "Unna",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.53281,
+  "lon": 7.671,
+  "websites": [
+   "https://battlekart.com/unna",
+   "https://battlekart.com/unna"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/129879602",
+  "name": "Bavaria Kart",
+  "town": "Günzburg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.47616,
+  "lon": 10.27701,
+  "websites": [
+   "https://bavaria-kart.de/",
+   "https://bavaria-kart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/1111632078",
+  "name": "Berlin Kart",
+  "town": "Berlin",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.47949,
+  "lon": 13.43277,
+  "websites": [
+   "https://www.berlin-kart.de/",
+   "https://www.berlin-kart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   752
+  ]
+ },
+ {
+  "id": "node/7567389572",
+  "name": "Burgpark Ring Kart-Bahn",
+  "town": "Bad Mergentheim",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.49546,
+  "lon": 9.75234,
+  "websites": [
+   "https://www.kartbahn-mgh.de/",
+   "https://www.kartbahn-mgh.de/"
+  ],
+  "known_layout_link": "https://www.kartbahn-mgh.de/",
+  "official_lengths": []
+ },
+ {
+  "id": "node/6550773226",
+  "name": "Burnout Celler Kartbahn",
+  "town": "Celle",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.60882,
+  "lon": 10.06138,
+  "websites": [
+   "https://www.celler-kartbahn.com/",
+   "https://www.celler-kartbahn.com/"
+  ],
+  "known_layout_link": "https://www.celler-kartbahn.com/website/die-strecke-2/",
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "node/1581708612",
+  "name": "Cool Runners Kart",
+  "town": "Gevelsberg",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.3233,
+  "lon": 7.34577,
+  "websites": [
+   "http://www.coolrunning.de",
+   "http://www.coolrunning.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   430
+  ]
+ },
+ {
+  "id": "node/9043533487",
+  "name": "EVOKART Kiel",
+  "town": "Kiel",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 54.28379,
+  "lon": 10.14767,
+  "websites": [
+   "https://evokart-kiel.de/",
+   "https://evokart-kiel.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/620133302",
+  "name": "Eco-Kart",
+  "town": "Frankfurt am Main",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.16261,
+  "lon": 8.68581,
+  "websites": [
+   "https://www.eco-kart.de",
+   "https://www.eco-kart.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   600
+  ]
+ },
+ {
+  "id": "way/93901937",
+  "name": "Fahr-Werk Kartbahn",
+  "town": "Groß-Zimmern",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.88331,
+  "lon": 8.81627,
+  "websites": [
+   "https://www.fahrwerk.de/",
+   "https://www.fahrwerk.de/kartfahren-indoor/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/1175484382",
+  "name": "GO-Kart Racinghall Fraureuth",
+  "town": "Fraureuth",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.7098,
+  "lon": 12.36198,
+  "websites": [
+   "http://www.karthalle.de/",
+   "http://www.karthalle.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   360
+  ]
+ },
+ {
+  "id": "way/143901665",
+  "name": "GPN Grand-Prix-Niederrhein",
+  "town": "Weeze",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.6234,
+  "lon": 6.20999,
+  "websites": [
+   "http://www.kartbahn-weeze.de",
+   "http://www.kartbahn-weeze.de",
+   "https://www.grand-prix-niederrhein.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   460
+  ]
+ },
+ {
+  "id": "way/102538435",
+  "name": "Go! Indoor eKart",
+  "town": "Kaiserslautern",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.44324,
+  "lon": 7.73253,
+  "websites": [
+   "https://gokartbahn.net/",
+   "https://gokartbahn.net/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "way/236541889",
+  "name": "GoKartArena Neufinsing (now BattleKart München-Finsing)",
+  "town": "Finsing",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.21731,
+  "lon": 11.80702,
+  "websites": [
+   "https://www.gokartarena.de/",
+   "https://www.gokartarena.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/4477661634",
+  "name": "Hallenkartbahn Sulz (Neckar Kart-Center)",
+  "town": "Sulz am Neckar",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.36966,
+  "lon": 8.64333,
+  "websites": [
+   "http://www.hallenkartbahn-sulz.de/",
+   "http://www.hallenkartbahn-sulz.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   400
+  ]
+ },
+ {
+  "id": "way/34410664",
+  "name": "Hanse Gokart Racing",
+  "town": "Rostock",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 54.12511,
+  "lon": 12.17101,
+  "websites": [
+   "http://www.hansegokart.de",
+   "http://www.hansegokart.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/27057471",
+  "name": "Indoor Kart Stahlwerk Bous",
+  "town": "Bous",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.27611,
+  "lon": 6.79021,
+  "websites": [
+   "https://kartbahn-bous.de",
+   "https://kartbahn-bous.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   360
+  ]
+ },
+ {
+  "id": "way/144460956",
+  "name": "Indoor Superkart Hemsbach",
+  "town": "Hemsbach",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 49.59557,
+  "lon": 8.63198,
+  "websites": [
+   "https://www.indoor-superkart.de/",
+   "https://www.indoor-superkart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "town": "Backnang",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.92929,
+  "lon": 9.43998,
+  "websites": [
+   "https://www.indy-cart.de/",
+   "https://www.indy-cart.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/1649028239",
+  "name": "KART'N Curves Bad Rappenau",
+  "town": "Bad Rappenau",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 49.23589,
+  "lon": 9.09221,
+  "websites": [
+   "https://kartbahn.com/",
+   "https://kartbahn.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/121599004",
+  "name": "KARTBAHN Alemannenring",
+  "town": "Singen (Hohentwiel)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 47.75534,
+  "lon": 8.86648,
+  "websites": [
+   "http://www.kartbahn-alemannenring.com",
+   "http://www.kartbahn-alemannenring.com"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   280
+  ]
+ },
+ {
+  "id": "node/2687925947",
+  "name": "Kart & Eventcenter Stupferich",
+  "town": "Karlsruhe",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.95515,
+  "lon": 8.50701,
+  "websites": [
+   "https://www.kart-eventcenter.de/",
+   "https://www.kart-eventcenter.de/"
+  ],
+  "known_layout_link": "https://www.kart-eventcenter.de/images/strecke-layout.webp",
+  "official_lengths": []
+ },
+ {
+  "id": "node/2587252307",
+  "name": "Kart & Fun Kartbahn Neckartenzlingen",
+  "town": "Neckartenzlingen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.58564,
+  "lon": 9.2266,
+  "websites": [
+   "https://www.kart-und-fun.de/",
+   "https://www.kart-und-fun.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   315
+  ]
+ },
+ {
+  "id": "node/13374883723",
+  "name": "Kart Arena Marktzeuln (Actionarena)",
+  "town": "Marktzeuln",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.16964,
+  "lon": 11.16644,
+  "websites": [
+   "https://www.actionarena.de",
+   "https://www.actionarena.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   460
+  ]
+ },
+ {
+  "id": "node/2791912346",
+  "name": "Kart Center Landau",
+  "town": "Landau in der Pfalz",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 49.20769,
+  "lon": 8.12835,
+  "websites": [
+   "https://www.kartcenter-landau.de/",
+   "https://www.kartcenter-landau.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450,
+   250
+  ]
+ },
+ {
+  "id": "way/336869541",
+  "name": "Kart- & Bowlingcenter Willingen",
+  "town": "Willingen (Upland)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 51.29512,
+  "lon": 8.598,
+  "websites": [
+   "https://www.kartbahn-willingen.de/",
+   "https://www.kartbahn-willingen.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/2673845362",
+  "name": "Kart-O-Mania Hannover",
+  "town": "Hannover",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.35179,
+  "lon": 9.71362,
+  "websites": [
+   "https://www.kartomania-hannover.de/",
+   "https://www.kartomania-hannover.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   390
+  ]
+ },
+ {
+  "id": "way/1447721895",
+  "name": "Kart-O-Mania Laatzen",
+  "town": "Laatzen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.29866,
+  "lon": 9.82479,
+  "websites": [
+   "https://www.kartomania-laatzen.de/",
+   "https://www.kartomania-laatzen.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "node/5207433462",
+  "name": "Kart-o-Mania",
+  "town": "Stuttgart",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.78227,
+  "lon": 9.23399,
+  "websites": [
+   "https://kart-stuttgart.de/",
+   "https://kart-stuttgart.de/"
+  ],
+  "known_layout_link": "https://kart-stuttgart.de/wp-content/uploads/2019/10/strecke2011_weiss.png",
+  "official_lengths": []
+ },
+ {
+  "id": "node/7239416109",
+  "name": "KartCenter Hildesheim",
+  "town": "Hildesheim",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.1625,
+  "lon": 9.94006,
+  "websites": [
+   "https://www.kartcenterhildesheim.de",
+   "https://www.kartcenterhildesheim.de"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   670
+  ]
+ },
+ {
+  "id": "node/12766527149",
+  "name": "Kartbahn CalaRace",
+  "town": "Kehl",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 48.54981,
+  "lon": 7.84004,
+  "websites": [
+   "https://www.cala-race.com/",
+   "https://www.cala-race.com/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   450
+  ]
+ },
+ {
+  "id": "way/119610125",
+  "name": "Kartbahn Hungen",
+  "town": "Hungen",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.47648,
+  "lon": 8.91293,
+  "websites": [
+   "https://kartbahn-hungen.de/",
+   "https://kartbahn-hungen.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   365
+  ]
+ },
+ {
+  "id": "way/128574048",
+  "name": "Kartbahn Rheinfelden",
+  "town": "Rheinfelden (Baden)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 47.57278,
+  "lon": 7.79668,
+  "websites": [
+   "https://www.kartbahn-rheinfelden.de/",
+   "https://www.kartbahn-rheinfelden.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "way/72708524",
+  "name": "Kartbahn Schönerlinde",
+  "town": "Wandlitz",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 52.65722,
+  "lon": 13.41703,
+  "websites": [
+   "https://www.kartbahn-schoenerlinde.de/",
+   "https://www.kartbahn-schoenerlinde.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": []
+ },
+ {
+  "id": "node/7961993497",
+  "name": "Kartbahn Stralsund (Kartbahn-MV)",
+  "town": "Stralsund",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 54.30706,
+  "lon": 13.059,
+  "websites": [
+   "http://www.kartbahn-mv.de/Stralsund/home.html",
+   "http://www.kartbahn-mv.de/Stralsund/home.html"
+  ],
+  "known_layout_link": "https://www.kartbahn-mv.de/stralsund/media/images/sreckehst.jpg",
+  "official_lengths": [
+   200
+  ]
+ },
+ {
+  "id": "way/39772680",
+  "name": "Kartbahn Urloffen (RMSV Urloffen)",
+  "town": "Appenweier",
+  "country": "DE",
+  "type": "outdoor",
+  "lat": 48.56915,
+  "lon": 7.96233,
+  "websites": [
+   "https://www.rmsv-urloffen.de/",
+   "https://www.rmsv-urloffen.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   850
+  ]
+ },
+ {
+  "id": "node/587974059",
+  "name": "Kartbahn Werther",
+  "town": "Werther (Westf.)",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 52.07896,
+  "lon": 8.42199,
+  "websites": [
+   "https://www.kartbahn-werther.de/",
+   "https://www.kartbahn-werther.de/"
+  ],
+  "known_layout_link": null,
+  "official_lengths": [
+   500
+  ]
+ },
+ {
+  "id": "node/3761972788",
+  "name": "Kartcenter Cologne",
+  "town": "Köln",
+  "country": "DE",
+  "type": "indoor",
+  "lat": 50.87102,
+  "lon": 6.98799,
+  "websites": [
+   "https://www.kartcenter-cologne.de",
+   "https://www.kartcenter-cologne.de"
+  ],
+  "known_layout_link": "https://kartcenter-cologne.de/wp-content/uploads/2025/11/Kartcenter-Cologne_racing-track-1024x472.webp",
+  "official_lengths": [
+   380
+  ]
+ }
+]

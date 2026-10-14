@@ -1,0 +1,310 @@
+[
+ {
+  "id": "relation/17362139",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track at Praia a Mare identified online"
+ },
+ {
+  "id": "way/228121884",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track at Locri identified online"
+ },
+ {
+  "id": "relation/3745641",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Messina city identified online"
+ },
+ {
+  "id": "relation/3745642",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Messina city identified online"
+ },
+ {
+  "id": "way/1181814898",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; could not identify which Siracusa-area track this is; no map found"
+ },
+ {
+  "id": "way/462851004",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track at Rosolini identified online"
+ },
+ {
+  "id": "node/9420145593",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website or map found for #45 Race Track Moncalieri"
+ },
+ {
+  "id": "node/3430966001",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "two-level indoor track (270 m + 180 m); no website or track map found"
+ },
+ {
+  "id": "way/1060306922",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no operator site; only OSM-derived maps online (LapMeta), not used; official length 1700 m per ACI Sport list (via LapMeta)"
+ },
+ {
+  "id": "node/10267365182",
+  "layout_page": "https://www.bluparksalerno.it/",
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://bluparksalerno.it/wp-content/uploads/2020/09/pista.jpg",
+    "kind": "render_3d",
+    "used": false,
+    "why": "oblique perspective 3D render of a two-level track; not top-down"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only a perspective 3D render of the two-level track on the operator site; venue is actually indoor"
+ },
+ {
+  "id": "way/1227246350",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no official website found; directory listings only (400 m, 12 corners); no map online"
+ },
+ {
+  "id": "relation/5341989",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no official website found; directory listings only (450 m); no map online"
+ },
+ {
+  "id": "way/953744536",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "ice-kart venue; tourism pages only, no track map online"
+ },
+ {
+  "id": "node/2165818554",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue not identifiable online; no map found"
+ },
+ {
+  "id": "node/4170263824",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "kart1.it is now an Aruba placeholder page; no track map found"
+ },
+ {
+  "id": "relation/3896181",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only hotel/travel listings found; no map online"
+ },
+ {
+  "id": "way/439005803",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "directory listings only; no website or map found"
+ },
+ {
+  "id": "way/517683858",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only a generic listing (700 m x 8 m); no map online"
+ },
+ {
+  "id": "way/179582857",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "directory listings only (440 m and 750 m layouts); no website or map found"
+ },
+ {
+  "id": "relation/19751379",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue not identifiable online; no map found"
+ },
+ {
+  "id": "way/452955450",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue not identifiable online; no map found"
+ },
+ {
+  "id": "way/448925538",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue not identifiable online; no map found"
+ },
+ {
+  "id": "way/751351594",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "venue not identifiable online; no map found"
+ },
+ {
+  "id": "way/632224753",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "directory listing only; no website or map found"
+ },
+ {
+  "id": "relation/3780983",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "directory listings only (1300 m, 10-12 m wide); no website or map found"
+ },
+ {
+  "id": "way/339406821",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [
+   {
+    "url": "https://www.pistadelmare.com/pistadelmare/wp-content/uploads/2020/11/pista_01.jpg",
+    "kind": "aerial",
+    "used": false,
+    "why": "oblique aerial photo, foreshortened"
+   },
+   {
+    "url": "https://www.pistadelmare.com/pistadelmare/wp-content/uploads/2020/11/pista-del-mare-.jpg",
+    "kind": "photo",
+    "used": false,
+    "why": "photo of a kart, not a map"
+   }
+  ],
+  "checked_at": "2026-10-14",
+  "map_note": "only oblique aerial photos of the track on the operator site (pistadelmare.com); no drawn map"
+ },
+ {
+  "id": "way/140785067",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "no website found; no map online"
+ },
+ {
+  "id": "way/139979548",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only hotel/travel listings; no map online"
+ },
+ {
+  "id": "way/341917056",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track near Multra/Solleftea identified online"
+ },
+ {
+  "id": "way/518204339",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Strangnas identified online"
+ },
+ {
+  "id": "node/14062544858",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Orebro identified online"
+ },
+ {
+  "id": "relation/11966326",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Gnesta identified online"
+ },
+ {
+  "id": "way/1250293709",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Norrkoping identified online"
+ },
+ {
+  "id": "node/1414333573",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "unnamed venue; no kart track in Karlskrona identified online"
+ },
+ {
+  "id": "node/2290628972",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only hotel/travel listings; no website or map found"
+ },
+ {
+  "id": "node/1780138800",
+  "layout_page": null,
+  "layout_diagram": null,
+  "candidates": [],
+  "checked_at": "2026-10-14",
+  "map_note": "only hotel/travel listings; no website or map found"
+ }
+]
