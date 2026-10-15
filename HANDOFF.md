@@ -1,6 +1,38 @@
 # Kart Atlas: handoff for a new session
 
-## Current status (14 October 2026)
+## Current status (15 October 2026)
+
+Poland/Czech Republic enrichment release `56a01aa` is live on
+https://kartatlas.michaelbinger.dk. It enriches Polish and Czech venues, adds
+five venues (1,487 venue pages) and improves price comparison. The existing
+local release artefacts (`kart-atlas.html`, `kart-atlas.json`, `public/`,
+`assets/`, `.dockerignore` and `deploy/`) were uploaded without rebuilding
+them. All 1,487 JSON venues had complete static pages before packaging, and
+the archive and remote extraction both contained 1,487 venue pages.
+The requested HTML SHA-256 matched locally and on the public site:
+`1498192c4c3094e401b5e5199e61ddf0efdb66909c9f1075f4ff5af733309951`.
+
+The live source was backed up before replacement to
+`backups/before-plcz-enrich-20261015/source.tar.gz`; the prior image was tagged
+`kart-atlas:before-plcz-enrich-20261015`. Neither rollback name existed
+before this deployment. Only the `kart-atlas` Compose project was rebuilt
+and recreated in `/home/ubuntu/kart-atlas-deploy`. All unrelated running
+container IDs stayed unchanged; the host Nginx TLS vhost and `.eu`
+configuration were not touched.
+
+Live verification passed: HTML hash, `Cache-Control: no-cache`, CSP,
+`npm run health`, and all eleven Playwright tests with
+`KARTATLAS_TEST_URL=https://kartatlas.michaelbinger.dk`. LAMBORGHINI KART ARENA
+Olomouc (`node/11181570558`) displays EUR 0.94/min; Kart Arena Brno
+(`way/421326635`) displays EUR 1.39/min. Cartmax Lublin's static venue page,
+`/venues/way-173185912/`, returns HTTP 200 and includes PLN prices. TLS had
+84 days remaining at verification.
+
+Directory permissions were changed only inside the task-owned `public/` and
+`assets/` trees before and after extraction, using delayed directory restore
+and no-same-permissions tar options. All earlier backups remain preserved.
+
+## Previous release (14 October 2026)
 
 Discovery release `472cba2` is live on https://kartatlas.michaelbinger.dk.
 It adds 129 discovered venues, brings the atlas to 1,482 venue pages, and
