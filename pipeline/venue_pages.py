@@ -31,7 +31,7 @@ def generate(base: Path, origin: str) -> None:
     links = []
     for t in tracks:
         oid = t["o"]
-        if not re.fullmatch(r"(way|node|relation)/\d+", oid):
+        if not re.fullmatch(r"(way|node|relation)/\d+|site/[a-z0-9-]+", oid):  # site/: confirmed venue without an OSM object
             raise ValueError(f"Unexpected venue ID: {oid}")
         path = f"/venues/{oid.replace('/', '-')}/"
         target = pages / oid.replace("/", "-")
@@ -112,7 +112,7 @@ No booking or correction submission is collected by this page.</footer></main></
     (public / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {origin}/sitemap.xml\n", encoding="utf-8")
     current = {p.split("/")[2] for p, _, _ in links}
     for directory in pages.iterdir():
-        if directory.is_dir() and re.fullmatch(r"(way|node|relation)-\d+", directory.name) and directory.name not in current:
+        if directory.is_dir() and re.fullmatch(r"(way|node|relation)-\d+|site-[a-z0-9-]+", directory.name) and directory.name not in current:
             (directory / "index.html").unlink(missing_ok=True)
             try:
                 directory.rmdir()

@@ -2896,5 +2896,173 @@
   "source": "https://motokaryhradec.cz/",
   "checked_at": "2026-10-15",
   "note": "Added by discovery E_C; confirmed on the operator site. The stable ID is the address/building object at the venue address, not a karting feature; no driving geometry is inferred from it."
+ },
+ {
+  "name": "BattleKart Paris-Nord-Villepinte",
+  "lat": 48.975883,
+  "lon": 2.516462,
+  "kind": "indoor",
+  "len": null,
+  "city": "Villepinte",
+  "state": null,
+  "addr": "ZAC Paris Nord 2, 93420 Villepinte",
+  "web": "https://www.battlekart.com/fr/paris-nord-villepinte",
+  "phone": "+33 6 99 32 32 81",
+  "hours": "Mon-Thu 16-22, Fri 16-24, Sat 10:30-02, Sun 10:30-19 (holidays from 10:30)",
+  "osm": [
+   "site/battlekart-paris-nord-villepinte"
+  ],
+  "geo": null,
+  "cc": "FR",
+  "source": "https://www.battlekart.com/fr/paris-nord-villepinte",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the operator's own map pin; no driving geometry is inferred."
+ },
+ {
+  "name": "BattleKart Liège-Verlaine",
+  "lat": 50.610531,
+  "lon": 5.318106,
+  "kind": "indoor",
+  "len": null,
+  "city": "Verlaine",
+  "state": null,
+  "addr": "Grand Route 126, 4537 Verlaine",
+  "web": "https://www.battlekart.com/en/verlaine",
+  "phone": "+32 42863478",
+  "hours": "Tue-Thu 16:00-20:00, Fri 16:00-23:00, Sat 10:00-23:00, Sun 10:00-20:00, Mon closed (school holidays Mon-Thu 13:00-20:00, Fri 13:00-23:00)",
+  "osm": [
+   "site/battlekart-liege-verlaine"
+  ],
+  "geo": null,
+  "cc": "BE",
+  "source": "https://www.battlekart.com/en/verlaine",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the operator's own map pin; no driving geometry is inferred."
+ },
+ {
+  "name": "BattleKart Dankern",
+  "lat": 52.803493,
+  "lon": 7.163298,
+  "kind": "indoor",
+  "len": null,
+  "city": "Haren (Ems)",
+  "state": null,
+  "addr": "Am Flugplatz 1, 49733 Haren (Ems)",
+  "web": "https://www.battlekart.com/de/dankern",
+  "phone": "+49 5932 9949400",
+  "hours": "Holiday-season hours (Ferienzeit NDS/NRW) currently shown: Mon-Thu 10-18, Fri-Sat 10-20, Sun 10-18; term-time hours not shown",
+  "osm": [
+   "site/battlekart-dankern"
+  ],
+  "geo": null,
+  "cc": "DE",
+  "source": "https://www.battlekart.com/de/dankern",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the operator's own map pin; no driving geometry is inferred."
+ },
+ {
+  "name": "E-KARTS Zlín",
+  "lat": 49.2211,
+  "lon": 17.64308,
+  "kind": "indoor",
+  "len": null,
+  "city": "Zlín",
+  "state": null,
+  "addr": "Malotova 5656 (building 123, former Svit area, next to Albert), 760 01 Zlín",
+  "web": "https://www.e-kartszlin.cz/",
+  "phone": "+420 603 294 529",
+  "hours": "Mon closed, Tue-Thu 14:00-21:00, Fri 14:00-22:00, Sat 10:00-22:00, Sun 10:00-20:00",
+  "osm": [
+   "node/13534889895"
+  ],
+  "geo": null,
+  "cc": "CZ",
+  "source": "https://www.e-kartszlin.cz/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery H02; confirmed on the operator site. The stable ID is the venue's own OSM object; no driving geometry is inferred from it."
+ },
+ {
+  "name": "Gokartcentralen Kungälv",
+  "lat": 57.8965396,
+  "lon": 11.9320734,
+  "kind": "indoor",
+  "len": null,
+  "city": "Kungälv",
+  "state": null,
+  "addr": "Arntorpsgatan 22, 442 45 Kungälv",
+  "web": "https://gokartcentralen.se/",
+  "phone": "010-303 99 90",
+  "hours": "12:00-20:00 shown on site at capture (full schedule https://gokartcentralen.se/oppettider/)",
+  "osm": [
+   "site/gokartcentralen-kungalv"
+  ],
+  "geo": null,
+  "cc": "SE",
+  "source": "https://gokartcentralen.se/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the street of the operator's address (approximate); no driving geometry is inferred."
+ },
+ {
+  "name": "Scandinavian Kartway",
+  "lat": 57.2686068,
+  "lon": 13.6155181,
+  "kind": "outdoor",
+  "len": null,
+  "city": "Anderstorp",
+  "state": null,
+  "addr": "Nennesmovägen 21, 334 33 Anderstorp",
+  "web": "https://www.hyrkart.se/",
+  "phone": "0371-171 90",
+  "hours": null,
+  "osm": [
+   "site/scandinavian-kartway"
+  ],
+  "geo": null,
+  "cc": "SE",
+  "source": "https://www.hyrkart.se/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the street of the operator's address (approximate); no driving geometry is inferred."
+ },
+ {
+  "name": "GoKartCity Helsingborg",
+  "lat": 56.035636,
+  "lon": 12.6973709,
+  "kind": "indoor",
+  "len": null,
+  "city": "Helsingborg",
+  "state": null,
+  "addr": "Sjögatan 5, 252 25 Helsingborg",
+  "web": "https://www.gokartcity.club/",
+  "phone": "076-170 05 11",
+  "hours": "Drop-in Fri 14-19, Sat 11-19, Sun 12-18 (Mon-Thu closed); track booking daily 09-21",
+  "osm": [
+   "site/gokartcity-helsingborg"
+  ],
+  "geo": null,
+  "cc": "SE",
+  "source": "https://www.gokartcity.club/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the street of the operator's address (approximate); no driving geometry is inferred."
+ },
+ {
+  "name": "Motokáry Tábor",
+  "lat": 49.4145056,
+  "lon": 14.6734802,
+  "kind": "indoor",
+  "len": null,
+  "city": "Tábor",
+  "state": null,
+  "addr": "Šafaříkova (garáže U Sladovny), 390 02 Tábor",
+  "web": "https://www.motokarytabor.cz/",
+  "phone": "+420 602 456 819",
+  "hours": "Fri-Sat 14:00-22:00, Sun 14:00-20:00, Mon-Thu closed (firmy.cz)",
+  "osm": [
+   "site/motokary-tabor"
+  ],
+  "geo": null,
+  "cc": "CZ",
+  "source": "https://www.motokarytabor.cz/",
+  "checked_at": "2026-10-15",
+  "note": "Added by discovery; confirmed on the operator site. No OSM object exists yet, so the ID is a site ID and the position comes from the street of the operator's address (approximate); no driving geometry is inferred."
  }
 ]

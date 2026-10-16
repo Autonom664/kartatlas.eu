@@ -1,0 +1,883 @@
+[
+ {
+  "website": "https://www.battlekart.com/fr/paris-nord-villepinte",
+  "phone": "+33 6 99 32 32 81",
+  "email": "info@paris-nord-villepinte.battlekart.com",
+  "hours": "Mon-Thu 16-22, Fri 16-24, Sat 10:30-02, Sun 10:30-19 (holidays from 10:30)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart augmented-reality kart"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Standard - 1st session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 25,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Standard - 2nd session",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Standard - following sessions",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "Matin Malin",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": "https://www.battlekart.com/fr/paris-nord-villepinte",
+  "tracks": [
+   {
+    "name": "BattleKart track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/fr/paris-nord-villepinte",
+   "https://www.battlekart.com/fr/centers/fra"
+  ],
+  "id": "site/battlekart-paris-nord-villepinte",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/en/verlaine",
+  "phone": "+32 42863478",
+  "email": "info@verlaine.battlekart.com",
+  "hours": "Tue-Thu 16:00-20:00, Fri 16:00-23:00, Sat 10:00-23:00, Sun 10:00-20:00, Mon closed (school holidays Mon-Thu 13:00-20:00, Fri 13:00-23:00)",
+  "karts": [
+   {
+    "chassis": "BattleKart",
+    "engine": "electric",
+    "hp": null,
+    "class": "BattleKart (single-seat electric, AR-projection game arena)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age; minimum height 1.45 m"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "15 min session",
+    "class": "BattleKart",
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 19.5,
+    "currency": "EUR",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.battlekart.com/en/verlaine",
+  "tracks": [
+   {
+    "name": "BattleKart arena (projected game track)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/en/verlaine",
+   "https://www.battlekart.com/en/centers/bel"
+  ],
+  "id": "site/battlekart-liege-verlaine",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.battlekart.com/de/dankern",
+  "phone": "+49 5932 9949400",
+  "email": "info@dankern.battlekart.com",
+  "hours": "Holiday-season hours (Ferienzeit NDS/NRW) currently shown: Mon-Thu 10-18, Fri-Sat 10-20, Sun 10-18; term-time hours not shown",
+  "karts": null,
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 145,
+   "note": "no minimum age, minimum height 1.45 m; 2-12 players per session"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "1st game",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 24.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "2nd game",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 21.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "following games",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 18.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "1st game - group",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 22.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "group rate"
+   },
+   {
+    "label": "2nd game - group",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 20.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "group rate"
+   },
+   {
+    "label": "following games - group",
+    "class": null,
+    "type": "session",
+    "minutes": 15,
+    "laps": null,
+    "price": 17.0,
+    "currency": "EUR",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": 145,
+    "day": null,
+    "note": "group rate"
+   }
+  ],
+  "fees": null,
+  "membership": null,
+  "price_source": null,
+  "tracks": null,
+  "layout_page": null,
+  "sources": [
+   "https://www.battlekart.com/de/dankern",
+   "https://nominatim.openstreetmap.org/search?q=Am Flugplatz 1, 49733 Haren"
+  ],
+  "id": "site/battlekart-dankern",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.e-kartszlin.cz/",
+  "phone": "+420 603 294 529",
+  "email": "info@e-kartszlin.cz",
+  "hours": "Mon closed, Tue-Thu 14:00-21:00, Fri 14:00-22:00, Sat 10:00-22:00, Sun 10:00-20:00",
+  "karts": [
+   {
+    "chassis": "SODI",
+    "engine": "electric",
+    "hp": null,
+    "class": "adult"
+   }
+  ],
+  "ages": {
+   "kids_min_age": null,
+   "kids_min_height_cm": 140,
+   "adult_min_age": null,
+   "adult_min_height_cm": 140,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.e-kartszlin.cz/provozni-rad/",
+  "family": [],
+  "group": [],
+  "prices": [
+   {
+    "label": "Child ride",
+    "class": "kids",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 249,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": 14,
+    "min_height_cm": 140,
+    "day": null,
+    "note": "from 140 cm, up to 14 years"
+   },
+   {
+    "label": "Adult ride",
+    "class": "adult",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 299,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "max 120 kg"
+   },
+   {
+    "label": "Pro driver ride",
+    "class": "race",
+    "type": "session",
+    "minutes": 7,
+    "laps": null,
+    "price": 349,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "after achieving the reference lap time"
+   },
+   {
+    "label": "2 rides + lemonade/snack, adult",
+    "class": "adult",
+    "type": "package",
+    "minutes": 16,
+    "laps": null,
+    "price": 598,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "child 498, pro 698 CZK"
+   },
+   {
+    "label": "3 rides + soft drink/snack, adult",
+    "class": "adult",
+    "type": "package",
+    "minutes": 24,
+    "laps": null,
+    "price": 849,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "child 699, pro 999 CZK"
+   },
+   {
+    "label": "Track hire 1 hour",
+    "class": "other",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 9990,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": "weekday",
+    "note": "excl. VAT, Tue-Thu; Fri-Sun 11,990 CZK excl. VAT"
+   }
+  ],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.e-kartszlin.cz/cenik/",
+  "tracks": [],
+  "layout_page": null,
+  "sources": [
+   "https://www.e-kartszlin.cz/",
+   "https://www.e-kartszlin.cz/cenik/",
+   "https://www.e-kartszlin.cz/trat/",
+   "https://www.e-kartszlin.cz/provozni-rad/",
+   "https://www.firmy.cz/detail/13225755-e-karts-zlin-zlin.html"
+  ],
+  "id": "node/13534889895",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://gokartcentralen.se/",
+  "phone": "010-303 99 90",
+  "email": "hello@gokartcentralen.se",
+  "hours": "12:00-20:00 shown on site at capture (full schedule https://gokartcentralen.se/oppettider/)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": 14,
+    "class": "Standard kart (approx. 60 km/h)"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "JuniorKart"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "Dubbelkart (two-seat, driven with adult 18+)"
+   }
+  ],
+  "ages": {
+   "min_age": null,
+   "min_height_cm": 140,
+   "note": "no minimum age; standard kart from 140 cm, JuniorKart from 125 cm, Dubbelkart from 90 cm with adult; under 13 registered by an adult"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [
+   {
+    "label": "Drop-in 1 pass",
+    "class": "Standard/Junior/Dubbelkart (electric)",
+    "type": "session",
+    "minutes": 8,
+    "laps": null,
+    "price": 205,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "shared track, not bookable in advance; Speedkart add-on +20 kr per pass (requires qualifying time)"
+   },
+   {
+    "label": "Drop-in 2 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 16,
+    "laps": null,
+    "price": 410,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "2 x 8 min; Speedkart +40 kr"
+   },
+   {
+    "label": "Drop-in 3 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 24,
+    "laps": null,
+    "price": 550,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "3 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 5 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 40,
+    "laps": null,
+    "price": 890,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "5 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 10 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 80,
+    "laps": null,
+    "price": 1680,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "10 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 20 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 160,
+    "laps": null,
+    "price": 3150,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "20 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 50 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 400,
+    "laps": null,
+    "price": 7000,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "50 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Drop-in 100 pass",
+    "class": null,
+    "type": "session",
+    "minutes": 800,
+    "laps": null,
+    "price": 11300,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "100 x 8 min, Speedkart included"
+   },
+   {
+    "label": "Hela banan (race booking)",
+    "class": null,
+    "type": "group",
+    "minutes": null,
+    "laps": null,
+    "price": 4400,
+    "currency": "SEK",
+    "extras": null,
+    "member": false,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "'from' price, priced per group of 10; 8-150 participants"
+   }
+  ],
+  "fees": [],
+  "membership": "Prepaid member account / credit packages (Speedkart included)",
+  "price_source": "https://gokartcentralen.se/priser/drop-in/",
+  "tracks": [
+   {
+    "name": "Indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   },
+   {
+    "name": "Outdoor track (open when weather allows)",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokartcentralen.se/",
+   "https://gokartcentralen.se/priser/drop-in/",
+   "https://www.vastsverige.com/kungalv/produkter/gokartcentralen/"
+  ],
+  "id": "site/gokartcentralen-kungalv",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.hyrkart.se/",
+  "phone": "0371-171 90",
+  "email": "bokning@hyrkart.se",
+  "hours": null,
+  "karts": [
+   {
+    "chassis": "Caroli Kart",
+    "engine": "270 cc",
+    "hp": null,
+    "class": "Adult rental kart (from 12 y), 15 pcs"
+   },
+   {
+    "chassis": null,
+    "engine": "120 cc",
+    "hp": null,
+    "class": "Children's kart, 4 pcs"
+   },
+   {
+    "chassis": null,
+    "engine": "270 cc",
+    "hp": null,
+    "class": "Two-seater (passenger from 5 y)"
+   }
+  ],
+  "ages": {
+   "min_age": 8,
+   "note": "drive alone from 8 if reaching the pedals; from 5 as passenger in two-seater; adult karts from 12 (kart list per hyrkart text quoted in search results/Visit Småland)"
+  },
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": null,
+  "tracks": [
+   {
+    "name": "Scandinavian Kartway (scaled copy of Scandinavian Raceway)",
+    "length_m": 555,
+    "width_m": 7,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.hyrkart.se/",
+   "https://hyrkart.understory.io/en",
+   "https://www.visitsmaland.se/en/to-do/scandinavian-kartway-anderstorp/"
+  ],
+  "id": "site/scandinavian-kartway",
+  "name": null,
+  "status": "open",
+  "type": "outdoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.gokartcity.club/",
+  "phone": "076-170 05 11",
+  "email": "info@gokartcity.se",
+  "hours": "Drop-in Fri 14-19, Sat 11-19, Sun 12-18 (Mon-Thu closed); track booking daily 09-21",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "Standard kart"
+   },
+   {
+    "chassis": null,
+    "engine": "electric",
+    "hp": null,
+    "class": "Dubbelkart"
+   }
+  ],
+  "ages": {},
+  "ages_source": null,
+  "family": null,
+  "group": null,
+  "prices": [],
+  "fees": [],
+  "membership": null,
+  "price_source": "https://www.gokartcity.club/",
+  "tracks": [
+   {
+    "name": "GoKartCity Helsingborg indoor track",
+    "length_m": null,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.gokartcity.club/",
+   "https://www.eniro.se/gokartcity+i+malm%c3%b6+ab/14988741/firma"
+  ],
+  "id": "site/gokartcity-helsingborg",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": "no",
+  "checked_at": "2026-10-15",
+  "note": null
+ },
+ {
+  "website": "https://www.motokarytabor.cz/",
+  "phone": "+420 602 456 819",
+  "email": "karytabor@seznam.cz",
+  "hours": "Fri-Sat 14:00-22:00, Sun 14:00-20:00, Mon-Thu closed (firmy.cz)",
+  "karts": [
+   {
+    "chassis": null,
+    "engine": "Honda GX 200 cc",
+    "hp": null,
+    "class": "adult"
+   },
+   {
+    "chassis": null,
+    "engine": null,
+    "hp": null,
+    "class": "kids"
+   }
+  ],
+  "ages": {
+   "kids_min_age": 12,
+   "kids_min_height_cm": null,
+   "adult_min_age": null,
+   "adult_min_height_cm": null,
+   "twin_passenger_min_age": null
+  },
+  "ages_source": "https://www.motokarytabor.cz/Cenik.html",
+  "family": [],
+  "group": [],
+  "prices": [
+   {
+    "label": "1 ride (approx. 10 min)",
+    "class": "adult",
+    "type": "session",
+    "minutes": 10,
+    "laps": null,
+    "price": 250,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": null
+   },
+   {
+    "label": "10-ride pass",
+    "class": "adult",
+    "type": "package",
+    "minutes": 10,
+    "laps": null,
+    "price": 2400,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "valid 3 months, one person"
+   },
+   {
+    "label": "Track + 4 karts, 1 hour",
+    "class": "other",
+    "type": "package",
+    "minutes": 60,
+    "laps": null,
+    "price": 6000,
+    "currency": "CZK",
+    "extras": null,
+    "member": null,
+    "min_age": null,
+    "max_age": null,
+    "min_height_cm": null,
+    "day": null,
+    "note": "per group; each additional kart 1,500 CZK/hour"
+   }
+  ],
+  "fees": [
+   {
+    "name": "Hygienic balaclava",
+    "amount": 100,
+    "currency": "CZK",
+    "period": "once",
+    "mandatory": null,
+    "note": "sale price"
+   }
+  ],
+  "membership": null,
+  "price_source": "https://www.motokarytabor.cz/Cenik.html",
+  "tracks": [
+   {
+    "name": "Covered circuit",
+    "length_m": 300,
+    "width_m": null,
+    "use": "rental"
+   }
+  ],
+  "layout_page": null,
+  "sources": [
+   "https://www.motokarytabor.cz/",
+   "https://www.motokarytabor.cz/Cenik.html",
+   "https://www.firmy.cz/detail/13374115-motokary-tabor-tabor.html"
+  ],
+  "id": "site/motokary-tabor",
+  "name": null,
+  "status": "open",
+  "type": "indoor",
+  "rental": "yes",
+  "own_karts": null,
+  "checked_at": "2026-10-15",
+  "note": null
+ }
+]

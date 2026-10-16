@@ -43,7 +43,8 @@
   "kind": "kids"
  },
  "way/31795313": {
-  "noweb": true
+  "noweb": true,
+  "closed": true
  },
  "node/6916000237": {
   "remove": true
@@ -638,5 +639,8 @@
  },
  "node/12108615161": {
   "kind": "kids"
+ },
+ "way/153890769": {
+  "closed": true
  }
 }

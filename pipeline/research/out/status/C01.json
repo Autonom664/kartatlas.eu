@@ -1,0 +1,230 @@
+[
+ {
+  "id": "way/223180179",
+  "name": "Kart-O-Drom",
+  "verdict": "open",
+  "new_address": null,
+  "current_website": "https://kart-o-drom.de/",
+  "evidence": "Own site (checked 2026-10-15) has online booking, current opening hours (Thu-Sun, holidays daily), a price list (15 EUR / 10 min) and a weekly Sunday Flatrace; the site code carries 2026 change notes, so it is actively maintained.",
+  "sources": [
+   "https://kart-o-drom.de/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/589950988",
+  "name": "Kartland Sinn",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "No current evidence found: only undated directory listings (Herborner Str. 7-9, 35764 Sinn; one portal says open all year) and no official site or social account; kartland-sinn.de only leads to an outdated club page (2013/2014).",
+  "sources": [
+   "https://www.ortsdienst.de/hessen/lahn-dill-kreis/kartbahn/",
+   "https://familienausflug.info/ausflugsziel/kartland-sinn"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/313108048",
+  "name": "Indy-Cart Indoorkartbahn",
+  "verdict": "seasonal_or_temporary",
+  "new_address": null,
+  "current_website": "https://www.indy-cart.de/",
+  "evidence": "Own site (checked 2026-10-15) still shows only 'Wir haben vorübergehend geschlossen' with a 2024 copyright footer, and Freizeitinsider lists it as temporarily closed; no reopening date and no permanent-closure announcement found.",
+  "sources": [
+   "https://www.indy-cart.de/",
+   "https://freizeitinsider.de/angebot/indy-cart/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/179588941",
+  "name": "Pala Kart Parma",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "palakartparma.it still resolves but is a frozen 2013/2014 page (Via Mantova 86A, last notice August 2014); no news of a new location, reopening or permanent closure was found.",
+  "sources": [
+   "http://www.palakartparma.it"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/297339947",
+  "name": "",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "The location matches GokartArenan, Horns väg 5, 605 97 Norrköping (indoor and outdoor karting plus segway per an undated Thatsup listing); gokartarenan.se shows 'Squarespace - Website Expired' on 2026-10-15 (ownership not confirmed) and no current posts, news or closure notice were found.",
+  "sources": [
+   "https://thatsup.co.uk/norrkoping/activity/gokartarenan/",
+   "https://www.gokartarenan.se/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/367162773",
+  "name": "",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "No karting operator, club or news found for the mapped raceway at Sandtorp/Husaby (Götene kommun); only the nearby Kinnekulle Ring car circuit and Götene Motorklubb appear, neither mentioning karting.",
+  "sources": [
+   "https://www.vastsverige.com/lackokinnekulle/produkter/kinnekulle-ring/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/136505203",
+  "name": "Euro Dieppe Karting",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "Only undated tourism/aggregator listings found (ZA Verte, 76370 Rouxmesnil-Bouteilles, 14:00-20:00, from 12 EUR); no official site, social posts, closure news or 2025-2026 evidence.",
+  "sources": [
+   "https://www.guide-tourisme-france.com/VISITER/euro-dieppe-karting--rouxmesnil-bouteilles-3587.htm",
+   "https://www.expedia.com/Euro-Dieppe-Karting-Rouxmesnil-Bouteilles.d553248621561951008.Vacation-Attraction"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/153890769",
+  "name": "Ecokart",
+  "verdict": "closed",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "OSM gives Ecokart (karting + laser game) at 108 rue Jean Mantelet, Saint-Lô; that address is now the Padel Max complex, whose site (checked 2026-10-15) offers only 5 padel courts and LaserMaxx with no karting, and ecokart.fr no longer resolves, so the building appears converted (conversion date unknown).",
+  "sources": [
+   "https://www.padelmax.fr/",
+   "https://en.normandie-tourisme.fr/sports-and-leisure-activities/padel-max/",
+   "https://www.openstreetmap.org/way/153890769"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/46810016",
+  "name": "Royal Kart",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "Only undated listings (ZA La Montgervalaise, 35520 La Mézière); Groupon shows 'Fermé' without date or reason and royalkart.com is a for-sale page, but no closure announcement, news or current activity was found.",
+  "sources": [
+   "https://www.groupon.fr/biz/rennes/royal-kart",
+   "https://www.citizenkid.com/sortie/royal-kart-rennes-a1014863"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/84129165",
+  "name": "Sport-In Park",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": "https://www.sport-in-park.fr/",
+  "evidence": "Own site (checked 2026-10-15) lists soccer, padel, squash, badminton/pickleball, bubble foot and archery game but no karting; in a Padel Magazine interview (10 Sep 2024) the manager says they closed the karting track after COVID and a nephew took over operation by renting the space, while tourism listings still mention a 320-330 m kart track, so whether karting still runs is unclear.",
+  "sources": [
+   "https://www.sport-in-park.fr/",
+   "https://padel-magazine.co.uk/alexis-rame-le-padel-est-le-moteur-du-complexe-il-a-le-plus-fort-taux-doccupation/",
+   "https://www.mayenne-tourisme.com/en/offer/sport-in-park-saint-berthevin-en-555038"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/9665224117",
+  "name": "Kartmania",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "OSM tags this point as an office (office=yes), not a track; kartmania.com redirects to a domain-sale page (2026-10-15) and only undated directory entries exist, so there is no current evidence either way.",
+  "sources": [
+   "https://www.openstreetmap.org/node/9665224117",
+   "https://www.koifaire.com/bourgogne/dijon-21000/loisirs/karting-246/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/290671102",
+  "name": "Kartmania - Circuit de l'Auxois Sud",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "Only an undated PagesJaunes entry places Kartmania at the Complexe Auxois Sud karting, Maconge; no operator site, 2025-2026 events, posts or closure news were found.",
+  "sources": [
+   "https://www.pagesjaunes.fr/pros/55068684"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/12197759323",
+  "name": "KartCenter Sopot",
+  "verdict": "open",
+  "new_address": null,
+  "current_website": "https://kartcenter.pl/sopot-outdoor/",
+  "evidence": "The operator lists Sopot (Outdoor) among its tracks and its page says the rebuilt track opened on 24 July (2026), consistent with the operator's summer-2026 reopening post; it is an outdoor track that a listing says closes November to March.",
+  "sources": [
+   "https://kartcenter.pl/sopot-outdoor/",
+   "https://inyourpocket.com/sopot/kart-center_53553v"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/31795313",
+  "name": "Kartland",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "A dated OSM survey note (StreetComplete, 2025-11-16) says 'Kartland ist dauerhaft geschlossen' and kartland.de now redirects to a casino spam domain (2026-10-15), but no official announcement or news was found, so closure is likely but unconfirmed.",
+  "sources": [
+   "https://www.openstreetmap.org/note/5055089"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/128816484",
+  "name": "Karlskrona Hyrkart",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "The OSM website hyrgokart.nu does not resolve (2026-10-15) and searches found no listing, posts or news for a rental kart track at Torskors/Karlskrona.",
+  "sources": [
+   "https://www.openstreetmap.org/way/128816484"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/1414333573",
+  "name": null,
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "No karting business, club or news found for this point on Saltö (Utövägen), a mainly residential island in Karlskrona.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Salt%C3%B6"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "way/92793042",
+  "name": "Kartland Paris",
+  "verdict": "open",
+  "new_address": null,
+  "current_website": "https://www.kartland.fr/",
+  "evidence": "Own site (checked 2026-10-15) shows today's status ('Fermé aujourd'hui jeudi 15 octobre', open daily except Tue/Thu), the adult track opening on 17-18 October, prices from 24 EUR and a 2026 events programme.",
+  "sources": [
+   "https://www.kartland.fr/"
+  ],
+  "checked_at": "2026-10-15"
+ },
+ {
+  "id": "node/11042993196",
+  "name": "Motodrom",
+  "verdict": "unknown",
+  "new_address": null,
+  "current_website": null,
+  "evidence": "OSM places a karting 'Motodrom' at Bartników, Przewóz (Podgórze); the only other Motodrom found is a driver-training venue at ul. Fabryczna 13 whose site motodromkrakow.pl does not resolve, and no current karting evidence was found.",
+  "sources": [
+   "https://krakow.pl/instcbi/36723,,363,1,wyszukiwarka.html",
+   "https://www.openstreetmap.org/node/11042993196"
+  ],
+  "checked_at": "2026-10-15"
+ }
+]

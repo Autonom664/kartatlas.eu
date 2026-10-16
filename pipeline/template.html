@@ -844,7 +844,7 @@ function renderDetail(t) {
       <a href="/venues/${t.o.replace("/", "-")}/">Venue page</a>
       ${siteLinks(t, web)}
       <a href="https://www.google.com/maps/search/?api=1&query=${t.la},${t.lo}" target="_blank" rel="noopener">Google Maps</a>
-      <a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>
+      ${["node", "way", "relation"].includes(typ) ? `<a href="https://www.openstreetmap.org/${typ}/${oid}" target="_blank" rel="noopener">OSM</a>` : ""}
       ${(t.src || []).map((u, i) => externalLink(u, `Source ${i + 1}`)).join("")}
     </div>`;
   const mapLink = t.Lu ? `<p class="note">${externalLink(t.Lu, "Track map on " + new URL(t.Lu).hostname.replace(/^www\./, "") + " ↗")}</p>` : "";

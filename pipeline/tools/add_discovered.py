@@ -20,6 +20,9 @@ for v in D.get('new_venues', []):
         held.append((v['name'], oid, 'held' if oid not in taken or not oid else 'ID already used')); continue
     taken.add(oid)
     what = 'the venue\'s own OSM object' if own else 'the address/building object at the venue address, not a karting feature'
+    if oid.startswith('site/'):  # no OSM object exists: a site ID with the operator's own position
+        what = 'a site ID (no OSM object exists yet); the position comes from ' + (
+            'the street of the operator\'s address (approximate)' if v.get('approximate') else 'the operator\'s own map pin')
     cc = v.get('country') or D.get('countries', [None])[0]
     sup.append({'name': v['name'], 'lat': v['lat'], 'lon': v['lon'], 'kind': 'indoor' if v.get('type') == 'indoor' else 'outdoor', 'len': None,
                 'city': v.get('town'), 'state': None, 'addr': v.get('address'), 'web': v.get('website'), 'phone': v.get('phone'),
